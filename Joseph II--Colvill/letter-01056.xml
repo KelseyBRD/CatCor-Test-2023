@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01056</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01056</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:19:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01056">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName> ce <date
+      when-custom="1784-01-24">23 janvier 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. Quoique je ne doute aucunement que V. M. I. ne soit déjà instruite de
+    l'heureuse issue de mes affaires avec la <placeName ref="places.xml#ott01">Porte Ottomane</placeName>, je
+    m’empresse de Lui en faire part, afin de Lui témoigner toute ma reconnaissance sur le succès dû
+    uniquement aux bons offices que V. M. I. a bien voulu employer en faveur de Son alliée. Je ne
+    saurais trouver des termes pour Lui exprimer mes sentiments, et à quel point je suis touchée des
+    preuves réitérées d’amitié que V. M. I. a bien voulu me donner pendant tout le cours de cette
+    affaire. Je ne souhaite que l’occasion favorable de Lui prouver l’étendue de mon attachement et
+    de mon amitié. Je ne désire rien avec plus d’empressement que de resserrer par une parfaite
+    réciprocité les liens que nous avons contractés, intimément convaincue que l’intérêt de nos deux
+    monarchies est si naturellement lié, que la prospérité de l’une ne peut qu’influer
+    essentiellement sur le bien-être de l’autre. Je m’occuperai constamment à chercher les occasions
+    où je pourrai prouver à V. M. I. que je regarde ce principe comme règle fondamentale, et
+    j’espère que l'heureux moment viendra où je m’acquitterai envers V. M. I, étant avec les
+    sentiments sincères de la plus haute estime et considération, et l’amitié la plus
+    parfaite ....</p>
+  </body>
+ </text>
+</TEI>

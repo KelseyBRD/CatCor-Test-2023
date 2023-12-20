@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03709</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03709</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:03:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03709">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1795-04-16">16 avril 1795</date>.</dateline></opener>
+   <p>Ecoutez, <rs ref="people.xml#gri01"> souffre-douleur</rs>, es-tu l’ami de la <persName
+     ref="people.xml#lou19"> duchesse de Mecklenbourg</persName>, née, je pense, princesse de
+    S. <placeName ref="places.xml#got01"> Gotha</placeName>? Si cela est, le sieur <rs ref="people.xml#gri01"> souffre-douleur</rs>
+    est chargé de mettre de côté sa passion pour les princes et princesses d’<placeName ref="places.xml#ger01">
+     Allemagne</placeName> et de me faire une description non flattée des <rs ref="people.xml#lou12 people.xml#cha20">
+     filles à marier de cette duchesse</rs>, et s’il est possible: des dispositions du
+     <rs ref="people.xml#fre08"> père</rs>, de la <rs ref="people.xml#lou19"> mère</rs> et des <rs
+      ref="people.xml#lou12 people.xml#cha20">filles</rs> sur le compte de la religion. Jusqu’ici les
+    gens de ce pays on passé pour des rigoristes protestants exaltés, n’admettant aucun changement.
+    Réponse exacte, s’il vous plaît, sur tout ceci. Combien, entre autre y en a-t-il à marier,
+    petites et grandes? <rs ref="people.xml#kon01"> Certain grand flandrin</rs> voyant le bonheur du
+    ménage de son frère, ne pense et ne respire qu’après cette autre qu’il lui faut; ce drôle-là est
+    pétulant en toute chose. Allons, <rs ref="people.xml#gri01"> souffre-douleur</rs>, réponds-nous
+    au plus vite: qu’en sais-tu ou n’en sais-tu pas?</p>
+  </body>
+ </text>
+</TEI>

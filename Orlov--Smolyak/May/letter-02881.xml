@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02881</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02881</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-18">18-05-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-06-28T10:01:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-06-28">28-06-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02881">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Хотя в рескрипте <persName ref="people.xml#cat01"> Мною</persName> подписанном <persName
+     ref="people.xml#orl03"> вам</persName> и предписано: 1) чтоб <persName ref="people.xml#orl03">
+     вы</persName> трактовали с <placeName ref="places.xml#ott01"> Портою</placeName> о каком ни на
+    есть острове, но в объяснение сего за нужно нахожу <persName ref="people.xml#orl03">
+     вам</persName> сказать, чтоб <persName ref="people.xml#orl03"> вы</persName> на свои выгоды
+    смотрели, то есть, если <persName ref="people.xml#orl03"> вы</persName> усмотрите, что более
+    чего можете без труда достать, то не оставьте тем воспользоваться; 2) обыкновенно все
+    европейския державы под именем подарка дают <rs ref="places.xml#ott01"> варварийским
+     республикам</rs> дань, за что их корабли сии разбойники оставляют в покое, но <persName
+     ref="people.xml#cat01"> Я</persName> отнюдь не хочу подобное платить. И так, если <persName
+     ref="people.xml#orl03"> вы</persName> будете трактовать с сими людьми, то подарки <rs
+     ref="places.xml#ott01"> им</rs> не обещайте; сиe за нужно нашла <persName
+     ref="people.xml#orl03"> вам</persName> дать знать, быв во всем весьма довольна <persName
+     ref="people.xml#orl03"> вашими</persName> поступками, коя всякой похвалы достойны. Молю
+    Всевышняго, да благословит все <persName ref="people.xml#orl03"> ваши</persName> начинания; Он
+    же и подаст <persName ref="people.xml#orl03"> вам</persName> крепости душевныя и телесныя.
+    Остаюсь к <persName ref="people.xml#orl03"> вам</persName>, как и всегда, доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline><date when-custom="1770-12-24"> Дек. 24 ч. 1770 г.</date></dateline></closer>
+   <postscript><p><persName ref="people.xml#cat01"> Я</persName> надеюсь, что в деньгах
+     <persName ref="people.xml#orl03"> вам</persName> недостатку нету; если же, паче чаяния,
+    предвидите, то прошу заблаговременно о том уведомить <persName ref="people.xml#cat01">
+     Меня</persName>.</p></postscript>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03001</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03001</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:07:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03001">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     St Pétersbourg</placeName>, ce <date when-custom="1777-12-22">22 décembre 1777</date>.</dateline></opener>
+   <p>N’est-il pas vrai que rien n’est plus importun que de bombarder les gens de lettres? J’en
+    conviens moi-même; voilà, me paraît, la troisième que je vous écris, sans trop savoir pourquoi,
+    mais il faut que je vous écrive: ma tête le veut. Eh bien! ne la lisez pas; il y a remède à
+    tout; je vous le répète, jetez-la au feu sans la lire.</p>
+   <p>Monsieur <persName ref="people.xml#ale01"> Alexandre</persName> a été baptisé avant-hier, et
+    tout le monde se porte bien, hormis les Anglais, qui ont la tête penchée sur leur estomac depuis
+    la <rs ref="events.xml#ameri01 events.xml#sarat01">déplorable aventure</rs> du
+     <persName ref="people.xml#bur01"> général Bourgoigne</persName>. Il y a là de quoi se ronger
+    les doigts à la façon du <persName ref="people.xml#pot01"> prince Potemkine</persName>; cela met
+    le sang en mouvement; si celui du parlement de la <placeName ref="places.xml#gre01"> Grande
+     Bretagne</placeName> reste calme, je les déclare moi <seg xml:lang="de">
+     ehrwürdige Paßgänger</seg> il y а là vingt résolutions à prendre, selon moi, les unes plus
+    belles et plus éclatantes que les autres. Nous verrons un peu ce qu’ils feront, et s’ils feront
+    bien, cela nous fera devenir sages à renfermer nos opinions et à morigéner notre imagination.
+    M’entendez-vous? <persName ref="people.xml#sha04"> Schah Baham</persName> et moi, nous nous
+    entendons bien nous-mêmes..</p>
+   <p>Quand vous m’écrirez un jour, parlez-moi un peu de <persName ref="people.xml#qui01"> M.
+     Quirini</persName>, de l’abbé <persName ref="people.xml#gal05"> Galiani</persName> et de
+     <persName ref="people.xml#men01"> Mengs</persName>; ce dernier fait-il mes tableaux? Ah, mon
+    Dieu! si vous voyiez comme, malgré toutes vos mauvaises prédictions, je suis bien <rs
+     ref="places.xml#win01"> logée cet hiver</rs>! Il y a tout plein de choses admirables, comme
+    vous n’en avez jamais vu, éparpillées partout à l’entour de moi, qui ne me sont bonnes à rien et
+    dont je ne me sers point du tout; c’est une félicité de voir cela seulement. Je ressemble au
+     <persName ref="people.xml#nur01"> kan des Kirghiz</persName>, auquel l’impératrice Elisabeth
+    donna une maison à <placeName ref="places.xml#ore01"> Orenbourg</placeName> et qui fit dresser sa tente dans la cour pour y
+    demeurer: je me tiens dans mon coin et le parement d’église va son train; nous en sommes au
+    second lay de l’autel. L’introduction des règlements va son train aussi; la législomanie aussi,
+    mais doucement; je ne sais ce que c’est, si c’est la matière ou la tête, mais les enjambées
+    deviennent rares; c’est une fièvre lente et continue sans élans. Ne vous était-il pas bien
+    necessaire de savoir tout cela?</p>
+   <p>Le patriarche m’a fait l’honneur de m’envoyer un livre qu’il a intitulé <hi rend="italic">Prix
+     de la justice et de l’humanité</hi>. Il veut que cela serve à faire un code criminel, qu’il
+    veut avoir pour cent louis: cela est modique. Moi je crois qu’il sera fait gratis ou point du
+    tout; pour le faire, il faut pêcher dans le coeur, dans l’expérience et dans les lois, coutumes
+    et moeurs d’une nation, et point dans la bourse; les prix académiques aiguisent l’esprit des
+    jeunes gens: ici c’est l’affaire de barbons éclairés et gens qui ont eu le maniement de bien des
+    choses et pour qui cent louis ne sont rien. A propos de cela, savez-vous bien que l’opéra de
+     <persName ref="people.xml#pai01"> Païsiello</persName> était une chose charmante? J’ai oublié
+    de vous en parler; j’ai été toute oreille pour cet <rs ref="works.xml#lucind01"> opéra</rs>,
+    malgré l’insensibilité naturelle de mon tympan pour la musique; je mets <persName
+     ref="people.xml#pai01"> Païsiello</persName> à côté de <persName ref="people.xml#gal03"> Galuppi</persName>. Il vient d’arriver un bouffon qui est fort drôle; la musique même
+    qu’il chante me fait rire: Dieu sait comme cela est arrangé. Ecoutez, homme à développement,
+    développez-moi la question suivante: d’où vient que <rs ref="events.xml#bouff01">
+     a musique de ce bouffon me fait rire, tandis que la musique des opéras comiques français
+     m’inspire de l’indignation et' du mépris</rs>, à moi qui n’aime ni ne sais point du tout la
+    musique? Vous ne ferez point imprimer cette lettre par une raison de plus: c’est que c’est la
+    production d’un malade qui griffonne pour s’amuser; j’ai mal à la tête aujourd’hui, et vous êtes
+    mon <rs ref="people.xml#gri01">souffre-douleur</rs> depuis longtemps; je puis même, quand vous le voudrez, vous donner un
+    attestât comme quoi je suis témoin que vous avez fait preuve devant moi d’une patience
+    incroyable. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien. Voilà quatre pages remplies très
+    exactement. </signed></closer>
+  </body>
+ </text>
+</TEI>

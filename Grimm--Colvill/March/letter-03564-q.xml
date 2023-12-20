@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03564</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03564</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is a “Mr. Ch” noted below, but it’s unclear who
+     that might be. Perhaps Chigi or Choiseul?</p><p>I also coded “Du Barry” as Guillaume Dubarry, though
+      this could technically (though less likely) refer to his older brother, Jean-Baptiste</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:52:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03564">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Tsarsko-Sélo</placeName>, ce <date when-custom="1779-06-18">18 juin 1779</date>.</dateline></opener>
+   <p>Je grogne autant de vos <seg xml:lang="de"> Vortrag</seg>, que monsieur <persName
+     ref="people.xml#kon01"> Constantin</persName> de la lumière du jour, qu’il a prise en aversion
+    depuis qu’il est au monde. Pourquoi choisissez-vous ces formes ennuyeuses de <seg xml:lang="de">
+     Vortrag</seg> et <seg xml:lang="de"> Nachtrag</seg> inventées pour les très insipides affaires
+    bavaroises, dont Dieu nous a délivrés enfin. Savez-vous qu’il n’y a rien de plus ennuyeux que de
+    se mêler des affaires d’autrui? C’est ce que j’ai appris dans cette occasion, car de soi-même on
+    sait son but, mais d’autrui vous n’y êtes jamais <seg xml:lang="de"> und absonderlich mit denen
+     perrüdirten Häuptern</seg>. J’aurai donc <persName ref="people.xml#wag02"> Wagnière</persName>,
+    puisque vous me l’avez expédié, mais qu’est-ce que j’en ferai? En attendant mon paquebot est
+    allé le prendre à <placeName ref="places.xml#lub01"> Lübeck</placeName>, et il y a déjà
+    nouvelles que <persName ref="people.xml#wag02"> Wagnière</persName> etc. sont arrivés là-bas; je
+    tâcherai d’en avoir soin, ma je ne sais quelle occupation lui donner. Je ne sais point dicter,
+    et les beaux prétendus brimborions que vous nommez trésor ne sont point assez fréquents pour que
+    cela puisse occuper un homme actif et laborieux; il pourra me lire, et si nous nous convenons,
+    j’en ferai mon lecteur, et puis c’est tout, car le mien, <persName ref="people.xml#bet01"> M.
+     Bet. (Betski)</persName>, devient vieux et commence à lire fort inintelligiblement, et il lit
+    paresseusement. Votre M. <persName ref="people.xml#ges01"> Gessner</persName> de <placeName
+     ref="places.xml#zur01"> Zürich</placeName>, qui me fait tant d’honneur, est un homme qui écrit
+    fort bien la langue allemande, témoin la lettre qu’il vous écrit; ses tableaux seront les
+    bienvenus et les exemplaires de ses livres aussi.</p>
+   <p>J’ai vu un seul et unique pilastre qui par hasard s’est trouvé dans les effets envoyés à M. de
+     <persName ref="people.xml#shu02"> Schouvalof</persName>, et c’est une très belle chose, et à
+    ces causes je n’ai eu rien de plus pressé que de l’envoyer à <persName ref="people.xml#mar10">
+     Martinelli</persName>, peintre de ma galerie, pour qu’il en eût le plus grand soin; les autres,
+    je les verrai en ville lundi. Je m’en vais envoyer laver la tête à l’ <seg xml:lang="la">
+     amplissime</seg>
+    <rs ref="people.xml#fre03"> baron</rs> pour la troisième fois au sujet de <persName
+     ref="people.xml#san03"> Santini</persName>, et si faire se peut, je suivrai votre conseil ou
+    votre plan à ce sujet. <seg xml:lang="de"> Oh, mein Gott ! was man in der Welt vor Mühe hat mit
+     den Deutschen Barons, Banquiers und Perrüdenträgern</seg>. Je ne fais pas grand fonds encore
+    sur ce M. <persName ref="people.xml#kon01"> Constantin</persName> dont l’apparition vous réjouit
+    tant: c’est une très faible existence, criard, maussade, ne regardant nulle part, fuyant la
+    lumière et cachant son nez dans ses langes pour éviter l’air; si cela reste en vie, j’en serai
+    très étonnée. En revanche, je suis très contente de l’ainé: c’est sti-là dont il faut me parler
+    présentement: <seg xml:lang="de"> wir halten ihn schlecht und recht ; was ihm und Andern schaden
+     kann, gelassen ; im Übrigen thut er was er will ; daher ist er sehr aufgeräumt und gesund ; er
+     liebt auch freundliche Sefichter und ist für nichts bang, bittet wenn er was haben will, und
+     dankt er es bekommt ; vor anderthalb Jahr ist’s wohl genug</seg>.</p>
+   <p>Ce 20 juin. <seg xml:lang="la"> Te Deum laudamus</seg>: voilà un 5<hi rend="superscript"
+     >me</hi> <seg xml:lang="de"> Vortrag</seg> qui m’arrive avec une superbe pancarte du cher
+    monsieur. L’ample <rs ref="people.xml#fre03">baron</rs> prétend enfin avoir commis toute la
+    besogne à l’admirable faiseur de crédit, le signor <persName ref="people.xml#san03">
+     Santini</persName>; il n’avait absolument rien autre chose contre lui, sinon qu’il avait été
+    ci- devant au théâtre. A propos de théâtre, j’en ai fait construire un ici, sur lequel on a deux
+    fois représenté l’opéra Démétrius, de <persName ref="people.xml#pai01"> Païsiello</persName>,
+    qui, j’espère, ne mourra pas de sitôt, parce qu’il se porte comme un poisson dans l’eau froide,
+    rôdant et composant beaucoup. Ces jours-ci il a pensé perdre sa femme, qui, en se promenant
+    autour d’un étang, s’est jetée, de frayeur qu’un cygne ne l’attaquait, dans l’eau, mais
+    quelqu’un qui l’accompagnait la retira sur-le-champ; il m’a dit: «Ce n’est rien, ce n’est que la
+    paura, la paura». Savez-vous bien que la paura et la fièvre me prennent à moi aussi quand je
+    pense à l’état de <persName ref="people.xml#men01"> Mengs</persName>. J’espère pourtant que tous
+    les grands hommes de notre siècle ne sont pas destinés à mourir avant l’an 1780. Pour ce qui
+    regarde le tableau de <title ref="works.xml#persee01">Persée et d’Andromède</title>,
+    j’ai bien de l’obligation à ceux qui tâchent de me le procurer, ma si le propositaire s’adresse
+    à moi, je le lui rendrai. Pour ce qui regarde la paix des parties belligérantes, je ne connais
+    qu’un seul moyen pour l’avoir, et celui-là je me garderai bien de le dire ou de l’indiquer; j’en
+    connais en aussi pour f. <persName ref="people.xml#gus01"> G</persName>. qu’il ne suivra jamais,
+    parce qu’il n’a jamais fait ce que M. Ch. et moi avons rêvé pour lui. Je vous recommande encore
+    une fois les tableaux <persName ref="people.xml#rob01"> Robinet</persName>, ou du moins ce qu’il
+    peut y avoir de bon dans cette boutique. Je trouve les 7 tableaux de <persName
+     ref="people.xml#lem01"> Le Moine</persName> d’une cherté horrible. Comment, 40 mille roubles
+    pour sept tableaux? Jamais je n’en ai encore, Dieu merci, acheté à ce prix; je n’ai point
+    d’argent. Imaginez-vous que tout le monde m’écrit; il n'y a pas jusqu’au comte <persName
+     ref="people.xml#dub01"> Du Barry</persName> qui ne m’ait écrit pour réclamer une dette de jeu
+    qu’il prétend que quelqu’un des nôtres lui doit. </p>
+   <closer><signed rend="inline">Adieu; la semaine qui vient je passe à <placeName ref="places.xml#pet02"> Péterhof</placeName>; je prie
+    Dieu de m’y procurer de vos pancartes en due forme originale, sans emprunt maussade des <seg
+     xml:lang="de"> Nach</seg> ou <seg xml:lang="de"> Vortrag</seg>. </signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01208</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01208</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Correct Orlov?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-08"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01208">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Вчерась я от <persName ref="people.xml#orl03">Графа Орлова</persName> и сегодня из
+                письма Вашего, к моему удовольствию, уведомилась, что <persName
+                    ref="people.xml#pau01">сын</persName> мой здоров. При сем возвращаю Вам
+                присланныя бумаги; письмо господина <persName ref="people.xml#zeg01"
+                    >Зегелина</persName> объясняет и облегчает материю. На <persName
+                    ref="people.xml#sal02">Салдерново</persName> письмо опомнясь позабыла Вам
+                сказать повторительно, чтоб Вы старались отселе выжить <persName
+                    ref="people.xml#sul02">Сулковскаго</persName>.</p>
+            <closer><signed rend="inline">Впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1771-05-11">Мая 11 числа, 1771.
+                </date></dateline></closer>
+        </body>
+    </text>
+</TEI>

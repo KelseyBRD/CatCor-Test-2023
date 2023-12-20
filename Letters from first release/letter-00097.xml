@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00097</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00097</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-05-26">26 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00097">
+                <body>
+                    <opener><dateline><date when-custom="1789-12-11">11 декабря 1789
+                            г.</date></dateline><salute rend="inline">Г. действительный статский
+                            советник Булгаков!</salute></opener>
+                    <p>С крайним удовольствием уведомляюся я об освобождении вашем из заключения в
+                            <placeName ref="places.xml#ist01">Константинополе</placeName> и прибытии
+                        в <placeName ref="places.xml#tri02">Триест</placeName>. Я нахожу весьма
+                        нужным, чтоб вы оттуда прямо как наискорее отправилися в <placeName
+                            ref="places.xml#ias01">Яссы</placeName>, где генерал-фельдмаршал князь
+                            <persName ref="people.xml#pot01">Григорий Александрович
+                            Потемкин-Таврический</persName> имеет свою главную квартиру. В запас
+                        писано от меня послу князю <persName ref="people.xml#gol04"
+                            >Голицыну</persName> о старании его, дабы карантин вам сокращен был.</p>
+                    <closer><signed rend="inline">Впрочем, будте уверены в моей признательности к
+                            вашим заслугам, которым воздам я полную справедливость, пребывая всегда
+                            вам доброжелательная.</signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline><date when-custom="1789-12-11">11 December
+                            1789</date></dateline><salute rend="inline">Active State Councillor
+                            Bulgakov!</salute></opener>
+                    <p>I learned with extreme pleasure of your liberation from imprisonment in
+                        Constantinople and your arrival in Trieste. I find it most necessary that
+                        you leave there directly and as soon as possible for Iassy, where
+                        General-Field-Marshal Prince Grigory Aleksandrovich Potemkin-Tavrichesky has
+                        his headquarters. Word has been sent from me in advance to Ambassador Prince
+                        Golitsyn that he should make efforts to have your quarantine reduced.</p>
+                    <closer><signed rend="inline">Withal, be certain of my gratitude for your
+                            services, to which I render full justice, remaining always well-wishing
+                            towards you.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

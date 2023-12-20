@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08218</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08218</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:19:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08218">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-12-16">16 décembre 1771</date>.</dateline></opener>
+   <p>Le jour de mon nom dont V. A. R. а bien voulu se ressouvenir avec cette attention qui Lui est
+    universellement propre et s'étend depuis les grandes choses jusqu'aux moindres, a été marqué
+    cette année par un vide et un ennui inexprimable. Le souvenir de la même saison que le séjour de
+    V. A. R. vivifiait l’année passée, nous a rendu la comparaison de celle de la présente année
+    insupportable. <placeName ref="places.xml#her01">L'hermitage</placeName> est vide, l'académie
+    annéantie, à peine les membres sourient-t-ils, et cela encore rarement. A nous voir cet automne,
+    l’on aurait dit que nous sommes les gens du monde les plus ennuyés et les plus ennuyants. Nous
+    ne faisons que boire, manger et travailler. Mais enfin, comme, dieu merci, tout a une fin dans
+    ce monde, nous espérons aussi qu'un état si peu agréable se terminera à la satisfaction des
+    intéressés, que les nuages répandus sur notre gaieté se dissiperont, que le soleil reparaîtra,
+    et que nous danserons derechef, si nous pourrons, ou bien aussi nous réjouirons à voir danser
+    nos fils et petits fils.</p>
+   <p>Le <rs ref="people.xml#gir05"> Kalga-Sultan</rs>, frère du <persName ref="people.xml#gir06">
+     Chan</persName> de <placeName ref="places.xml#cri01">Crimée</placeName>, fait seul notre
+    amusement pour le présent. Que V. A. R. s'imagine par ce trait à quoi nous en sommes réduits. On
+    le trouve un tartare charmant, il est vrai qu'il est joli de figure, que ses traits sont
+    réguliers, sa physionomie fine, il a de l'esprit et plus de connaissances à 25 ans que toute
+     la <placeName ref="places.xml#cri01">Crimée</placeName> ensemble; il fait des vers et des
+    galanteries aux dames. Le moyen que ce phénomène tartare n'étonne! qui plus est, il n'ignore pas
+    qu'il produit cet effet. C'est trop longtemps en entretenir V. A. R., je passe à un paragraphe
+    plus agréable. Je me présente le contentement que V. A. R. doit sentir de l'heureuse arrivée de
+    la <rs ref="people.xml#lou05"> reine, Sa sœur</rs>, à <placeName ref="places.xml#ber01"
+     >Berlin</placeName>, je L’en félicite bien sincèrement et je La prie d'être persuadée que rien
+    ne saurait arriver à V. A. R., à quoi mon amitié pour Elle ne prenne la plus grande part. J'ose
+    espérer qu'un terme moins éloigné que celui des vingt huit ans, dont V. A. R. fait mention dans
+    Sa lettre, me procurera l'occasion de Lui réitérer de bouche la haute considération ...</p>
+  </body>
+ </text>
+</TEI>

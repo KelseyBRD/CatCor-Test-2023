@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02850</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02850</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+
+
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:34:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02850">
+  <body>
+
+  <opener> <dateline>à <placeName ref="places.xml#tsa01">Czarskoçelo</placeName> ce <date
+     when-custom="1791-06-06">6. Juin 1791</date>.</dateline></opener>
+   <p>Je suis bien aise, Monsieur, que jusq’ici notre commerce de lettre ne soye pas encore
+    interrompu, et comme la flotte angloise n’a pas que je sache encore passé le Sund, je puis
+    répondre votre lettre du 24. May. Je connois assés l’histoire de l’<placeName
+     ref="places.xml#eng01">Angleterre</placeName> pour savoir que le parlement de la <placeName
+     ref="places.xml#gre01"> Grande Bretagne</placeName> ou plutôt la pluralité est toujours entre
+    les mains du ministère et aussi longtems qu’il a celle ci, il n'y a pas de raison qui tienne
+    contre son avis. Je n’ignore pas non plus que tout ministre, qui veut conserver sa place, fera
+    toujours très sagement de conformer ses projets aux voeux général de la nation, parceque, s’il
+    agit autrement, il peut courir le risque de perdre sa pluralité et sa place aussi. Au reste
+    toute ma vie j’ai toujours fait grand cas de l’estime de la nation angloise; j’ai crue aussi
+    pouvoir me flatter de l’amitié de la cour. J’ai eue cette prévention jusqu’au tems, où la
+    conduite de Mr. <persName ref="people.xml#ain01"> Ainslie</persName> et l’excessive partialité
+    que tous les employés politiques dans les diverses cours ont montré de la part du ministère
+    anglois pour les <orgName ref="orgs.xml#turk01"> Turks</orgName> et contre la <placeName
+     ref="places.xml#rus01">Russie</placeName> n’ont pu que me détromper sur ce point. Elle est bien
+    forte cette prévention, puisqu’elle est sur le point d’annuller tous les anciens principes, dont
+    jusqu’à ce tems ci je n’ai jamais vu douter personnes, comme si il existoit entre la <placeName
+     ref="places.xml#rus01">Russie</placeName> et la <placeName ref="places.xml#gre01"> Grande
+     Bretagne</placeName> des rapports d’intérêts d’état à état immuables, or ceux ci ne sauroient
+    être méconnu que par une haine personelle, qui, je le dirai hardiment, est sans but et fort peu
+    chréstienne, cela s’appelle se laisser entraîner aux passions des autres. Or ces gens si
+    passionnés à l’heure qu’il est gémissent eux mêmes du poids de leurs propres intrigues, et ils
+    seroient fort heureux d’en sortir le plutôt possible, mais quel compte n’auront-ils pas à rendre
+    devant Dieu et la postérité, si pour leurs caprices inhumains ils feront verser encore des
+    torrents de sang innocent, pour qui ? pour les beaux yeux des <orgName ref="orgs.xml#turk01">
+     Turks</orgName>, pour le désert d’<placeName ref="places.xml#och01">Otchakof</placeName>, pour
+    cette ridicule balance que ce désert fera pencher. Ils feroient bien mieux d’aider à maintenir
+    les Princes d’<placeName ref="places.xml#ger01">Allemagne</placeName> dans ce que la <name
+     ref="events.xml#westph01"> paix de Westphalie</name> leurs avoit assuré et pour cela de
+    s’entendre avec ceux qui pourroient à cet égard avoir voix en chapitre. Ceci pourroit être le
+    devoir de tout Prince faisant partie de la constitution d’<placeName ref="places.xml#ger01"
+     >Allemagne</placeName>, cette cause seroit juste et honnorable. Le Dieu de la guerre n’est pas
+    dans mon coeur, je n’ai jamais attaquée personne, mais je sais me défendre. Il n’y a que vous
+    qui me croyent si brave, pour mes confrères apparemment qu’ils n’ont pas aussi bonne opinion de
+    moi, puisqu’ils ont toujours envie de me faire peur. Si j’ose dire c’est un manque de jugement,
+    car comment puis-je avoir peur à la tête d’une nation qui bat tous ses ennemis depuis près de
+    cent ans. A toutes ces incivilités j’oppose la justice et la modération, et du reste:</p>
+   <q><rs ref="works.xml#athali01"> „Je crains Dieu, cher Abner, et n’ai point
+     d’autre crainte".</rs></q>
+   <p>En arrivera ce qui pourra, je ne saurai agir autrement que je fais. Selon moi la justice, la
+    vérité et la raison sont une cuirasse invulnérable. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

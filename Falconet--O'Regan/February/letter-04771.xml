@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04771</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04771</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>'Ils disent' - not sure who is being referred to here. Kelsey: identified using
+     "Correspondance de Falconet avec Catherine II, 1767-1778," ed. Louis Réau (Paris: Champion,
+     1921), p. 122.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:51:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-10">10/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected and query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04771">
+  <body>
+
+   <p>Je n'entends rien à cette façon de compter: <rs ref="people.xml#roe01">ils</rs> disent 25
+    livres par mois et un an et demi de travail font pour dix-huit mois quatre-cent cinquante mille
+    livres, qui font, je crois, près de cent mille roubles; voilà un ouvrage un peu salé, ou pour
+    mieux dire, un service de soixante personnes un peu cher; mais afin d’éviter tout quiproquo et
+    pour qu’il ne nous vienne aucun article oublié par hasard, vous aurez la bonté, avant que je
+    dise mon dernier mot, de faire expliquer ces messieurs net et clair, combien de pièces il y
+    aura, qu’est-ce qu’ils comptent pour l’argent comme matière et pour le travail d’icelle; alors
+    nous verrons ce qui nous plaira d’aviser. Je n’entends que des louanges de la <rs
+     ref="works.xml#pierre01">statue</rs>, je n’ai entendu que d’une seule personne une réflexion
+    qui était qu’elle souhaiterait que l’habit fût plus plissé, afin que les sots ne le prissent
+    point pour une chemise ; mais peut-on contenter tout le monde!</p>
+  </body>
+ </text>
+</TEI>

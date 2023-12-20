@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01115</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01115</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#prussia"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#europe"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Double check ‘Braniski’ = #people-bra03.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-05">05/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:26:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01115">
+  <body>
+   <p>Ces deux réponses du <rs
+     ref="people.xml#fre01"> Roi de Prusse</rs> sont admirables; voila
+     une façon d’agir bien noble et sincère, et si les tous, qui suivent <persName
+     ref="people.xml#bra03"> Braniski</persName>, ne se ravisent, ils
+     seront, bien aveuglé sur leurs intérêts réels: dites au Comte <persName
+     ref="people.xml#sol01"> Solms</persName>
+    tout le cas, que je fais de l’amitié et de l’alliance de son Rоi;
+     cette façon d'agir n'est propre qu'à lui; je ne laisserai point échapper les occasions de
+     m'acquitter envers Mon Allié, et j'espére, que ni lui, ni toute l'<placeName
+     ref="places.xml#eur01"> Europe </placeName>ne douteront point de
+     la sincèrité de mes intentions; je vous en dirai plus demain. </p>
+  <closer> <signed rend="inline">Adieu pour le présent. <lb/><persName ref="people.xml#cat01"> Catherine.</persName></signed>
+   <dateline>À
+    <placeName ref="places.xml#tsa01"> Sarskoie Selo</placeName>, ce <date when-custom="1764-05-09">9
+     May, 1764</date>. </dateline></closer>
+  </body>
+ </text>
+</TEI>

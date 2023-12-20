@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02889</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02889</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:20:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02889">
+  <body>
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.</opener>
+   <salute>Нашему генералу графу <persName ref="people.xml#orl03"> Орлову</persName>.</salute>
+   <p>Из сообщаемых вам ныне от Нашего действительнаго тайнаго советника графа <persName
+     ref="people.xml#pan01"> Панина</persName> бумаг, усмотрите вы, к руководству вашему между
+    другим, и то, что скоро может настать вопрос о повсеместном перемирии между <placeName
+     ref="places.xml#rus01"> Нами</placeName> и <placeName ref="places.xml#ott01">
+     Портою Оттоманскою</placeName>. Мы восхотели, потому, на случай отзыва к вам о том с <placeName
+     ref="places.xml#ott01"> турецкой</placeName> стороны, снабдить вас благовременно нужною
+    ауторизациею, дабы вы, не теряя времени, сами собою, могли вступить в действительное трактование
+    и заключение такого <placeName ref="places.xml#nao01"> перемирия</placeName><note
+     type="editorial" place="foot" xml:id="ftn1" n="1"><p rend="footnote text">
+      <persName ref="people.xml#orl03"> Alexey Orlov</persName> was authorized to negotiate a truce
+      for the fleet, which was concluded on July 2(14) , 1772 in <placeName ref="places.xml#nao01">
+       Naouza</placeName>. Admiral <persName ref="people.xml#spi01"> Grogory Spiridov</persName>
+      negotiated from the Russian side, and <persName ref="people.xml#mus06"> Mustafa Bey</persName>
+      from the Turkish side.</p></note>, по колику оное до части вверенных предводительству вашему
+    на море <orgName ref="orgs.xml#russ02"> военных операций</orgName> касаться может. Тут будет
+    дело собственной вашей прозорливости и искусства, на кои Мы, с толь полною доверенностию
+    полагаемся, выговорить себе такия кондиции, какия вы, по лучшему вашему на месте сведению и
+    обозрению, признаете за достаточныя и надежныя обезпечить до срока <placeName
+     ref="places.xml#giu01"> перемирия</placeName>, или же до последующаго за оным <name
+     ref="events.xml#kuchu01"> мира</name>, состояние <orgName ref="orgs.xml#russ02">
+     флота</orgName>, в избираемых к тому удобных местах, и снабжение его всеми потребностями, дабы
+    оный, если, сверх желания, и ожидания не последует за <placeName ref="places.xml#giu01">
+     перемирием</placeName> самый <name ref="events.xml#kuchu01"> мир</name>, по миновании срока
+    его, мог найтиться в совершенной исправности, к возобновлению сильных военных дествий, не
+    уступая, между тем, ничего важнаго из настоящих своих выгод. И пребываем вам, впрочем,
+    Императорскою Нашею милостию благосклонны. </p>
+   <closer><dateline rend="inline">Дан в <placeName ref="places.xml#pet01">
+      Санктпетербурге</placeName>, <date when-custom="1771-12-31">31 декабря, 1771
+     года</date>.</dateline>
+    <signed><persName ref="people.xml#cat01" type="signature">
+    Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

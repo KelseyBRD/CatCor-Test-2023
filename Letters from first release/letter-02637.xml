@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02637</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02637</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-16">16 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02637">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#mos01">à Moscou</placeName>, <date
+                                when-custom="1763-02-21">ce 21 Février 1763</date>.</dateline>
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>J'allais répondre à l'avant dernière lettre de Votre Majesté, lorsque j'ai
+                        reçu celle du 2 Janvier. C'est avec très grande satisfaction que j'y ai vu
+                        que mes souhaits étaient prêts à s'accomplir, qu'il ne manquait à <rs
+                            ref="events.xml#huber01">la paix tant désirée</rs> que la signature;
+                        j'en félicite Votre Majesté de tout mon coeur et je fais des voeux sincères
+                        pour que cet ouvrage soit solide et durable, je contribuerai de mon côté
+                        avec plaisir à le rendre tel. Pour le bonheur du genre humain il était bien
+                        temps que ce carnage cessât, et j'espère que Votre Majesté se prêtera
+                        volontiers à prévenir des accidents futurs pareils, où jusqu'ici aucune
+                        partie n'a gagné que la ruine de ses états. Si mes exhortations ont aidé à
+                        la pacification elles étaient assurément très désintéressées. </p>
+                    <closer>
+                        <signed>C'est avec des sentiments pareils que je répondrai à la confiance
+                            que Votre Majesté me marque de laquelle je n'ai garde d'abuser, étant
+                            avec la considération la plus distinguée, Monsieur mon Frère, de Votre
+                            Majesté, la bonne Soeur
+                        <persName type="signature" ref="people.xml#cat01" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

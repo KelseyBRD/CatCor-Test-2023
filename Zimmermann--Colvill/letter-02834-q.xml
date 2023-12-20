@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02834</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02834</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    
+     <term target="kw.xml#sweden"/>
+   
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to locate Schtienskare and Ralbo de
+     Ground</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-21">21-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:31:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02834">
+  <body>
+ 
+   <opener><dateline> à <placeName ref="people.xml#pet01">St.
+     Petersb</placeName>. ce <date when-custom="1788-07-10">10. Juillet 1788</date>. </dateline></opener>
+   <p>Monsieur le chevalier de <persName ref="people.xml#zim01"> Zimmermann</persName>, je vous
+    envoyé un extrait de la lettre de l’admirai <persName ref="people.xml#gre01"> Greigh</persName>
+    que j’ai reçu hier au soir fort tard. Je me flatte qu’elle vous fera plaisir:</p>
+   <p>„Extrait de la lettre de l’Amiral <persName ref="people.xml#gre01"> Greigh</persName> sur le
+    champ de <rs ref="events.xml#hogla01"> bataille à l’ancre</rs> le 7. Juillet 1788:</p>
+   <q>Hier au soir nous avons eu une action avec la flotte Suédoise de plus chaudes
+    et de plus opiniâtres de l’une part et de l’autre, qui a duré depuis 5 heures du soir jusqu’à 10
+    heures sans interruption. Nous avons pris le vaisseau „le Prince Gustave“ de 70 canons, sur
+    lequel se trouve le Comte de <persName ref="people.xml#wac01"> Waghtmeister</persName>, qui
+    commandoit l’avantgarde de la flotte ennemie sous pavillon de Viceamiral ; il a amené son
+    pavillon au vaisseau Rastislaw, sur lequel l’Amiral <persName ref="people.xml#gre01">
+     Greigh</persName> avoit son pavillon. La bataille a fini vers l’obscurité de la nuit. Il y
+    avoit une petite brise de vent au commencement, mais pendant l’action il est dévenu tout à fait
+    calme. L’ennemi a plié et nous a laissé maitre du champ de bataille qui étoit entre Schtienskare
+    et Ralbo de Ground à sept milles allemands à l’ouest de <placeName ref="places.xml#hog02">
+     Hoghland</placeName>. L’ennemi fait voile vers <placeName ref="places.xml#suo01">
+     Sweabourg</placeName> en <placeName ref="places.xml#fin01">Finlande</placeName> Suédois; il
+    avoit 15 vaisseaux de ligne de 70 et 60 canons et 8 grandes frégates qui sont entrées dans l’eur
+    ligne de bataille. J’ai ne jamais vû un combat plus chaud ou mieux soutenu d’une part et de
+    l’autre.“</q>
+  </body>
+ </text>
+</TEI>

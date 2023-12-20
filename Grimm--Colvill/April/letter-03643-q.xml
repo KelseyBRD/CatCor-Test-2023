@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03643</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03643</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not identify (1) the painter Huter or (2) the Chevalier de St Wl.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:51:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03643">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersb</placeName>., ce <date
+       when-custom="1785-01-01">1 janvier 1787</date>.</dateline></opener>
+    <p>Je commence l’année par vous la souhaiter bonne. Il y a trois jours que <persName
+      ref="people.xml#sau01"> Saugi</persName> est arrivé, et il a apporté ce que la facture
+     contenait, savoir la galerie du Palais Royal, le <title ref="works.xml#voyage02"> Voyage
+      pittoresque de la Sicile</title>, le règlement pour l’habillement des troupes françaises, les
+     dessins d’un vase en sardonyx dont NB. <hi rend="italic">je ne veux pas</hi>, mais bien de la
+     Vierge peinte par Huter en émail; je la garde, et les ouvrages de ce Huter que vous me
+     promettez seront <hi rend="italic">les très bien accueillis</hi>. La tête d’Hannibal camée et
+     les trois bagues, dont l’une de <persName ref="people.xml#pik01"> Pichler</persName> qui
+     l’accompagnait, me plaisent aussi, et je vous en remercie. Le paquet pour M. de <persName
+      ref="people.xml#seg01"> Ségur</persName> a été dépêché par <rs ref="people.xml#dmi01"> l’habit
+      rouge</rs> au dit seigneur, qui en a fait ses remercîments. Les catalogues des pierres gravées
+     ont été envoyés à ma bibliothèque, comme ouvrage inutile. Or, avant que de commencer à répondre
+     à votre pancarte et à ces pendants d’oreille, les <seg xml:lang="de"> Vortrag</seg>, je vous
+     dirai que ce jourd’hui je suis sur mon départ, que demain je pars d’ici pour <placeName
+      ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, d’où je m’en irai le 7 janvier pour
+      <placeName ref="places.xml#kie01"> Kiovie</placeName>. Ma table est déjà nette et toute
+     propre; n’y a qu’à vous répondre. </p>
+    <p>Eh bien, puisque votre pancarte commence par parler des sages, mages, voyants etc., je vous
+     envoie le <title ref="works.xml#siberi01"> Chaman de Sibérie</title> traduit en allemand. Il
+     faut que vous soyez bien désoeuvré, puisque vous vous amusez à relire mes pancartes, et je vous
+     plains de tout mon coeur de ce que vous avez entrepris une aussi mauvaise besogne. Je n’aime
+     point cette barre transversale; je crois que ce sont des vents.</p>
+    <p><persName ref="people.xml#rog01"> Rogerson</persName>, qui est revenu, vous conseille du
+     mouvement. Jamais la marmite n’a tant bouillé que depuis trois à quatre semaines; la lettre
+     ci-jointe vous informera du tripotage au sujet de <persName ref="people.xml#aug01">
+      Zelmire</persName>; or j’ai été obligée de donner à cette affaire non une demi-attention, mais
+     une et demie: la belle-soeur fait 'l’enfant; on ne peut tout lui dire; elle est ce qu’elle est,
+     et n’est pas ce qu’elle n’est pas; or donc le plus sage et le plus prudent est ce que j’ai
+     fait, et puis c’est tout. <seg xml:lang="it"> Ma</seg> tout ceci pour vous seul. Il n’y a pas
+     moyen de vous avertir de toutes les pauvretés que nous faisons, parce que ça va son train, et
+     puis on n’y pense plus; voilà comme nous creusons des canaux et faisons des grands chemins et
+     trente-six ponts de pierre de granit entre <placeName ref="places.xml#pet01">
+      Pétersb</placeName>. et <placeName ref="places.xml#mos01"> Moscou</placeName>.</p>
+    <p>Je pense qu’un jour tous les membres du St <placeName ref="places.xml#rus01">
+      Empire</placeName> vous chargeront de leurs affaires à <placeName ref="places.xml#par01">
+      Paris</placeName>, et ce sera un miracle, parce que vous serez l’unique exemple qu’ils auront
+     donné d’un commun accord; je voudrais encore que <persName ref="people.xml#gus01"> fr.
+      G</persName>. se mît de la partie et que vous eussiez toutes ses causes à plaider, et, qui
+     plus est, je l’y crois très porté, car il en est à l’escamotage, et un chevalier de St Wl.
+     serait une fort bonne chose. Allons, trêve de badinage: parlons d’autre chose. Mes trois
+     ministres de poche s’en iront avec moi le 7. Mons. de <persName ref="people.xml#her02">
+      Hertzberg</persName> est donc le Chrysostome de l’<placeName ref="places.xml#ger01">
+      Allemagne</placeName>, mais dites- moi, avez-vous jamais lu quelque chose de lui? Moi, rien du
+     tout, que je me souvienne, à moins que ce ne soient des annonces dans les gazettes ou journaux.
+     Ce que vous me mandez de votre correspondance avec le feu <persName ref="people.xml#fre01"> roi
+       de <placeName ref="places.xml#pru01"> Prusse</placeName></persName>, est fort singulier; je
+     crois que vous aviez vis-à-vis de lui le double tort d’être lié d’amitié avec <persName
+      ref="people.xml#hen02"> le prince Henri</persName> et avec votre très humble servante; or, il
+     avait noise contre nous deux.</p>
+    <p>Eh bien, eh bien, dites que nos comédies sont mauvaises; en vérité, personne ne s’en fâchera.
+     Cependant la plupart ont fait l’effet qu’elles devaient faire. Que vous étiez heureux, en
+     promenant votre barre, de voir tant d’Altesses! vous les avez toujours aimées passionnément.
+     Allons, monsieur le parrain, vous n’avez qu’à faire les présents d’usage pour moi: je n’y
+     entends rien. Ce que je dois à <persName ref="people.xml#cle01"> Clérisseau</persName>, vous
+     ferez bien de le payer, mais je ne veux plus avoir de ses ouvrages, et qu’il ne m’en envoie
+     plus.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1787-01-02">2 janvier</date>, à sept heures du
+      matin.</dateline></opener>
+    <p>Je pars ce matin à onze heures pour <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo</placeName>, mais avant cela il faut que je réponde à votre <seg xml:lang="de">
+      Vortrag</seg> No 78.</p>
+    <p>D’abord ce sont des compliments et des excuses sur les compliments que vous me faites, et
+     puis des assurances que ma faveur va en augmentant à la cour de Grimma; pour ceci grand merci.
+     Je ne suis donc pas comme le <persName ref="people.xml#wil03"> prince d’Orange</persName>, dont
+     le gr. écuyer <persName ref="people.xml#nar02"> Narischkine</persName> dit fort plaisamment
+     qu’il est fort mal en cour; or il faut que vous sachiez que j’aime à la folie de faire parler
+     politique au <rs ref="people.xml#nar02"> gr. écuyer</rs>, et que c’est un grand plaisir que de
+     lui donner à arranger l’<placeName ref="places.xml#eur01"> Europe</placeName>. Le <persName
+      ref="people.xml#anh01"> comte d’Anhalt</persName> est de retour de toutes ses courses, et il
+     part avec moi; je lui ai fait vos compliments.</p>
+    <p>Pour les commissions de l’<persName ref="people.xml#gal05"> abbé Galiani</persName> pour l’
+      <rs ref="people.xml#gus01"> Antonin</rs>, vous me dispenserez de les exécuter, car je m’en
+     vais au midi et non au Nord; Antonin a étudié tout cet automne et hiver à <placeName
+      ref="places.xml#upp01"> Upsal</placeName>; les mauvais plaisants disent que c’est son devoir
+     qu’il a étudié, et on pourra l’appeler <rs ref="people.xml#gus01"> Antonin</rs> le studieux,
+     tout comme il y en avait un, nommé le pieux. Je n’ai pas besoin de tous ces sots surnoms; j’ai
+     mon nom, cela me suffit. Pour mon ami, qui est l’ennemi des coquins de la <placeName
+      ref="places.xml#whi01"> Russie Blanche</placeName>, je prie le ciel que les gazettes en aient
+     menti sut son compte, car elles l’ont dit aliéné d’esprit. A quoi bon tenir à gâges des
+     historiographes qui n’écrivent pas? Je pense être à <placeName ref="places.xml#khe01">
+      Kherson</placeName> au commencement de mai. Vous en aurez des nouvelles. Ah! voilà le tour de
+      l’<rs ref="people.xml#dmi01"> habit rouge</rs>; sti-là au premier jour saisira une occasion
+     favorable pour prendre lui-même la plume, et morgué, il se défendra, car ce drôle-là en sait
+     long, et, qui plus est, c’est que vous vous trompez et que le premier instituteur de M. l’ <rs
+      ref="people.xml#dmi01"> habit rouge</rs> était un <orgName ref="orgs.xml#jesu01">
+      jésuite</orgName>, pour lequel il s’est senti une assez honnête répugnance, et qu’ensuite on
+     lui donna un gouverneur excellent qu’il aima et aime encore de tout son coeur; sti-là lui fit
+     lire les auteurs classiques avec plaisir et succès; à douze ans notre <rs
+      ref="people.xml#dmi01"> habit rouge</rs> se passionna si fort pour Homère qu’on avait de la
+     peine à le lui faire quitter; il le prenait au lit avec lui quand on ne le laissait pas lire de
+     jour. Or je puis attester à M. le <rs ref="people.xml#gri01"> souffre-douleur</rs> que M. l’
+      <rs ref="people.xml#dmi01"> habit rouge</rs> n’est rien moins qu’un personnage ordinaire; cela
+     pétille d’esprit sans jamais courir après; cela narre parfaitement bien, et cela est d’une
+     gaîté rare; enfin, cela est pétri d’agréments, d’honnêteté, de politesse et d’esprit; en un
+     mot, cela ne se mouche pas du pied; je lui ai lu tout ce que vous lui dites, et il l’a trouvé
+     charmant et vous salue sans vous connaître.</p>
+    <p>Vient le tour du <seg xml:lang="de"> Vortrag</seg> No 79.</p>
+    <p>La lettre de la <persName ref="people.xml#cru01"> duchesse de La Vallière</persName> a été
+     remise à sa destination.</p>
+    <p>Viennent les lettres du <rs ref="people.xml#rei03"> divin</rs>. La miniature de la <persName
+      ref="people.xml#mar12"> Térésine Maron</persName> sera la bien venue; je crois que les cinq
+     statues dont il parle sont arrivées. Eu égard à la correspondance, récompense et gratification
+     du Ch. <persName ref="people.xml#unknown"> Miller</persName> le Sr <rs ref="people.xml#bez01">
+      factotum</rs> en sera chargé; </p>
+    <closer><signed rend="inline">en voilà assez pour aujourd’hui, adieu.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02852</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02852</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-28">28/02/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:46:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-06">06-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02852">
+  <body>
+
+   <opener><salute>Граф <persName ref="people.xml#orl03"> Алексей
+    Григорьевич</persName></salute></opener>
+   <p>Из взятых вами <orgName ref="orgs.xml#preo01"> Преображенскаго полка</orgName> из экономической
+    суммы девяти тысяч рублей, отдайте бывшим в оном полку капитанам <persName
+     ref="people.xml#lut01"> Ивану Лутовинову</persName>, <persName ref="people.xml#bas01">Петру
+     Баскакову</persName>, <persName ref="people.xml#sol01">барону Соловьеву</persName>, каждому по
+    две тысячи рублей, да <persName ref="people.xml#nek01"> Василию Неклюдову</persName> три тысячи
+    рублей. </p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed>
+    <dateline>
+     <date when-custom="1768-02-23">23 февраля 1768</date> г. <placeName ref="places.xml#pet01"
+      >С.-Петербург</placeName>!</dateline></closer>
+  </body>
+ </text>
+</TEI>

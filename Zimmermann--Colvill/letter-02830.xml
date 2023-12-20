@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02830</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02830</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+  
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:30:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02830">
+  <body>
+   <opener><dateline> à St. <placeName ref="places.xml#pet01"
+     >Petersb.</placeName> ce <date when-custom="1787-12-03">3. Décembre 1787</date>.</dateline></opener>
+   <p>Vous dirés, Monsieur, que je répond bien tard à votre lettre du 4. Sept., mais encore vaut il
+    mieux tard que jamais, à dire la vérité, ces trois derniers mois ont étés remplis peu de temps
+    après mon retour de <placeName ref="places.xml#mos01">Moscow</placeName>, il a plut à la
+     <placeName ref="places.xml#ott01">sublime Porte</placeName> et à ses non sublimes
+    conseillers de me déclarer la <rs ref="events.xml#turki02"> guerre</rs>, comme il vous est
+    connu, ainsi soit il jusqu’ici le mal encore n’est pas bien grand, si je parviens à battre mes
+    ennemis, j’espère que les uns et les autres en seront plus contents, et comme j’ai pour maxime,
+    que, quand il s’agit de coup, il vaut beaucoup en donner que d’en recevoir, j’ai tachée de faire
+    mes arrangemens en conséquence, cela fait je prend la plume pour répondre à votre lettre. Mon
+     <rs ref="events.xml#crime01"> voyage</rs> de <rs ref="places.xml#cri01"> Tauride</rs>
+    présentement me paroit un songe. On a proposé tout simplement à mon ministre à <placeName
+     ref="places.xml#ist01">Constantinople</placeName> de la rendre cette <rs ref="places.xml#cri01"
+     > Tauride</rs>, petite bagatelle fort aisée à dire, mais où il ne manquoit que deux choses,
+    d’un côté le sens commun et de l’autre la possibilité d’acquiescer. Outre cela on ne regarde
+    point encore chés nous pour un bonheur, de perdre une ou plusieurs provinces, les états nous
+    semblent ne sont point de la nature des fossés, qui s’aggrandissent à mesure qu’on en tire de la
+    terre. Il est vrai, qu’à la façon de traiter les choses à la sublime <placeName
+     ref="places.xml#ott01">Porte</placeName>, il est difficile de reconnoitre traçes de manières
+    Européennes. Mais retournons au <rs ref="places.xml#cri01"> voyage</rs>, dont vous me parlés.
+    J’ai passée si vite par la <rs ref="places.xml#cri01"> Tauride</rs> et j’avois tant de choses à
+    voir et une si bonne compagnie, que je n’ai pas eue le tems de faire toutes les réflexions que
+    cette contrée aussi riche en événemens que fertile auroit pu et dû m’inspirer. Cependant je me
+    souviens très bien du vallon d’Almazic et des Européens que j’y vis et auxquels mon illustre
+    compagnon de voyage parla pour moi, tandis que mourant de chaud j’êtois enchantée de me taire un
+    moment. Ces nouveaux habitans de la <placeName ref="places.xml#cri01">Crimée</placeName> sont
+    aisé à contenter je l’avoue, puisqu’un sourire leur a fait autant de plaisir. Si le bonheur se
+    répandoit par la guaiitê sur un pays, alors ce voyage auroit pu faire bien des heureux, car il
+    est difficile d’en faire un guai et en meilleure compagnie. Le mal qu’on a dit de l’air malsain
+    de la <rs ref="places.xml#cri01"> Tauride</rs>, ce sont les Européens qui l’оn dit, écrit el
+    imprimé. Ces gens là venus dans cette province s’y ennuyent et ne suivent pas les usages des
+    natifs, qui sont bien portants, deviennent vieux et multiplient considérablement, surtout les
+    imans, ceux ci font plus de la moitié souvent de la population d’un vilage, dont ils reçoivent
+    la dîme. À propos d’imans Nicolai de <placeName ref="places.xml#ber01">Berlin</placeName> m’a
+    envoyé les trois comédies, dont vous avés vu, Monsieur, les premières feuilles à <placeName
+     ref="places.xml#pyr01"> Pyrmont</placeName>. On dit que tous les Schamans des nouvelles sectes
+    sont allés en <placeName ref="places.xml#swi01">Suisse</placeName>, nous verrons, si les échos
+    des montagnes retentiront des sons de l’apostolat. Chés nous tous les projets ont fait place à
+    un seul, c’est celui de la défense de l’état attaqué injustement. Il est singulier quel vil
+    moyen nos envieux employent contre nous, toutes les postes ils s’amusent à mentir, ils donnent
+    de l’argent aux gazettiers et nous font battre régulièrement deux foix par semaine dans les
+    gazettes. On en faisoit autant dans la guerre passée, mais les événements et surtout la paix ont
+    démontré qui étoient les menteurs et les battus. Si l’on vous dit <placeName
+     ref="places.xml#kin01"> Kinbourn</placeName> et l’isle de <placeName ref="places.xml#tam01"
+     >Taman</placeName> pris par les <orgName ref="orgs.xml#turk01"> Turcs</orgName>, <placeName
+     ref="places.xml#tag01"> Taganrock</placeName> et <placeName ref="places.xml#azo01">
+     Asoph</placeName> assailli, la flotte de <placeName ref="places.xml#sev01"
+     >Sevastopol</placeName> détruite, n’en croyés pas un mot. Cette dernière a souffert d’un coup
+    de vent pendant l’équinoxe, elle a perdu même un vaisseau et une fregatte, la flotte Turque a
+    soufferte au delà du double de cela encore est ce compter trop modestement, mais au reste nous
+    n’avons pas perdu un seul pouce de terre. </p>
+   <closer><signed rend="inline">Adieu, Monsieur, portés vous bien et soyés bien assuré de mon
+    estime. <persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

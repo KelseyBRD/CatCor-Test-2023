@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00072</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00072</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-03">3 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00072">
+                <body>
+                    <opener><salute rend="inline">Петр Дмитриевич.</salute></opener>
+                    <p>По донесению вашему о бродяге, называющемся <persName ref="people.xml#zak01"
+                            >монахом Захарием</persName>, прикажите снять с него железныя вериги,
+                        потому что не должен никто сам себя изнурять, или себе вредить; и хотя сие
+                        дело уважения не великаго достойно, но понеже он фанатик, то, подтвердя о
+                        скорейшем об нем изследовании по законам, разобрать обстоятельства к нем
+                        относящияся нужно, как-то: какого он происхождения, каких лет, точно ли
+                        монах, где был и в чем упражнялся?</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">В
+                                С.-Петербурге.</placeName>
+                            <date when-custom="1789-01-31">31-го Генваря,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Petr Dmitrievich.</salute></opener>
+                    <p>In response to your report concerning the vagabond calling himself Monk
+                        Zakhary, order the iron fetters to be removed from him, for no one should
+                        wear himself out or harm himself. This affair is not worth great
+                        consideration, but nonetheless, since he is a fanatic, in support of the
+                        speediest investigation according to the laws, it is necessary to inquire
+                        into the circumstances surround him, namely: of what parentage is he, what
+                        age, is he really a monk, where has he been and what was his occupation?</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">In St.
+                                Petersburg</placeName>
+                            <date when-custom="1789-01-31">31 January,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

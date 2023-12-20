@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00760</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00760</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-29">29 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00760">
+                <body>
+                    
+                    <p>Я рассуждаю, что, конфирмовав сей доклад, подам повод ко многим подобным от
+                        раскольников прошениям, из чего родиться может Церкви нашей неприятное:
+                        иногда раскольникам род привилегии таковой, что раскольники, всегда избегая
+                        местных Архиереев установленной власти, захотят быть у избранных ими
+                        Архиереев, чего тогда избегнуть инако не можно будет, как разве подчинив все
+                        раскольники в России единому Архиерею, чрез что войти могут в состояние
+                        прочих в России христианских исповеданий, кои не нашей веры. Сей пункт
+                        поныне всегда избегаем был с ними, и по сю пору о сем никто, а наипаче
+                        духовный чин слышать не хотел. И для того советую без всякой огласки и без
+                        формального установления, чтоб посредством Вашим Архиерей Херсонский и
+                        Московский между собою зделали так, чтоб овцы были целы, а волки сыты. О
+                        делах же Церкви едва ли и прилично установлять что-либо, минуя Синод.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

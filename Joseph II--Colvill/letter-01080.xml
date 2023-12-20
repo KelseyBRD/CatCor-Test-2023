@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01080</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01080</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#holland"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:25:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01080">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1787-07-21">21 juillet v. st. 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre qu’il a plu à V. M. I. de m’écrire le 5 juillet, m'a été rendue
+    presqu’au moment de mon arrivée. J’y ai vu avec le plus grand plaisir l’heureux retour de V. M.
+    I. à <placeName ref="places.xml#vie01">Vienne</placeName>; j’avoue que je désirais infiniment
+    d'apprendre cette nouvelle, vu les circonstances fâcheuses des <placeName ref="places.xml#hol02"
+     >Pays-Bas</placeName>, qui à mon avis étaient augmentées par l’absence de V. M. I. La célérité
+    avec laquelle Elle a fait le trajet de <placeName ref="places.xml#khe01"> Cherson</placeName>
+     à <placeName ref="places.xml#vie01">Vienne</placeName>, ne m’étonne aucunement; il y a
+    très-longtemps que je suis persuadée qu’il faut se lever de fort grand matin pour pouvoir
+    atteindre aux traces de V. M. I, et que sur ce point comme sur bien d’autres Ses ennemis
+    n’auront pas beau jeu. J’ai reconnu la haute sagesse de V. M. I. dans les mesures prises par
+    Elle, en égard aux troubles des <placeName ref="places.xml#hol02">Pays-Bas</placeName>. Sa
+    réponse aux Etats est remplie de dignité, et Ses mesures sont vigoureuses. Il faudra voir
+    présentement quelles suites l’esprit de vertige donnera aux entreprises annoncées. L’amitié
+    sincère que j’ai vouée à V. M. I, et à laquelle j’ose croire qu’Elle rend justice, me fait
+    prendre un intérêt vif et direct à ces affaires; il me fera aussi saisir la première occasion de
+    le manifester de manière à eu écarter autant qu’il sera en mon pouvoir, tout ce qui pourrait
+    nuire à un dénouement favorable à Ses désirs. Je ne prévois pas qu’une puissance étrangère
+    voulût se racler dans des discussions purement domestiques, mais si cependant notre attente
+    commune a cet égard était trompée, la confiance que V. M. I. met dans mon amitié, ne le sera pas
+    assurément, et je serai aussi fidèle à ce sentiment qu’aux engagements des traités qui
+    subsistent entre nous. J’ai chargé, mon ministère d’en donner les assurances les plus formelles
+    à l’ambassadeur de V. M. I. près de moi. Je souhaite qu’elles puissent contribuer à soulager, à
+    tarir la source des malheurs qui se sont élevés dans les <placeName ref="places.xml#hol02"
+     >Pays-Bas</placeName>. C’est avec les sentiments de la plus haute considération et de l’amitié
+    la plus vraie et la plus inviolable que j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02829</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02829</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:30:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02829">
+  <body>
+
+   <opener><dateline> à St. <placeName ref="places.xml#pet01">Petersb.</placeName> ce <date
+      when-custom="1787-11-28">28. Novembre 1787</date>.</dateline></opener>
+   <p>La mémoire ci jointe, Monsieur, a etée faite par mon ordre, je vous l’envoyé en vous priant
+    instamment de me dire votre avis sur la maladie de cette malade qui m’intéresse et sur les
+    remèdes, dont il faudroit se servir. Il est question dans cette mémoire d’une demoiselle de
+    qualité, d’une famille très vertueuse, qui est malade depuis plus d’un an. Je meurs de peur, que
+    les médecins, chirurgiens et remèdes qu’on a employé ne l’ayent rendu infiniment plus malade
+    qu’elle ne l’êtoit. Je n’ai pas l’honneur d’être médecin, mais il me paroit qu’il ne s’agissoit
+    au commencement que de régler ce qui étoit déréglé, or ceci à l’aide de l’eau de <placeName
+     ref="places.xml#spa02"> Spa</placeName> ou des bains froids, je crois, auroit pu devenir
+    possible ou du moins auroit du être essayé au lieu de cela Dieu sait, combien de médecin et de
+    médecines ont etées employées sans aucun succès. Si vos conseils la peuvent tirer d’affaire,
+    Monsieur, vous m’obligerés infiniment. La famille de cette demoiselle et particulièrement son
+    frère est remplie d’un zèle et d’un attachement peu commun pour moi, et ma reconnoissance
+    égalera mon estime pour vous.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

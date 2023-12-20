@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02730</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02730</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Only reference found to Babada was that it was near
+     Braila.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:21:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02730">
+  <body>
+
+   <opener><dateline>à <placeName ref="places.xml#pet01"> St.
+     Petersb:</placeName> ce <date when-custom="1770-03-31">31 Mars 1770</date></dateline></opener>
+   <p>Monsieur, J'ai reçuë il y a trois jours Votre lettre du 10 de
+     Mars. Je souhaite que celle ci trouve Votre santée
+    tout à fait rétablie et que Vous parveniés à un âge plus avançé que celui de Metusalem. Je ne
+    sai pas au juste si les années de cet honête home avoit douze mois, mais je veut que les Vôtres
+    en aye treize, come l'année de la liste civile d'<placeName ref="places.xml#eng01">
+    Angleterre</placeName>.</p>
+   <p>Vous verrés Monsieur par la feuille çï jointe ce que s'étoient que notre Campagne d'Eté et
+    celle d'Hiver, sur le compte des quelles je ne doute point qu'on ne débite mille faussetés,
+    s'est la ressource d'une cause foible et injuste que de faire flèche de tout bois. Les Gazetes
+    de <placeName ref="places.xml#par01"> Paris</placeName> et de <placeName ref="places.xml#col01"> Cologne</placeName>
+    ayant mise tant de combat perdu sur notre compte et l'événement leur ayant doné le démenti, ils
+    ce sont avisés de faire mourir mon Armé par la peste. Ne trouvé Vous pas cela plaisant? Au
+    printems apparament les pestiféré resussiterons pour combatre. Le vrai est qu'aucun des nôtres
+    n'a eu la peste.</p>
+   <p>Vous trouvés Monsieur les tableaux que j'ai achetée à <placeName ref="places.xml#gen01">
+     Geneve</placeName> chers; j'ai été tentée plus d'une fois, avant la conclusion du marché de Vous
+    en demander Votre avis, mais trop de délicatesse peutêtre m'en a retenu. On m'assuroit de
+     <placeName ref="places.xml#par01"> Paris</placeName> que M<hi rend="superscript">r</hi> <persName ref="people.xml#tro02">
+      Tronchin</persName> étoit honete home, et puis il faut convenir que
+    le prix des Tableaux est assés un prix de Caprice. J'en ai un qui me fais toujours bien du
+    plaisir quand je le vois; s'est celui que Vous m'avés envoyés il y a un an. Ce M<hi
+     rend="superscript">r</hi> <persName ref="people.xml#hub01"> Hubert</persName> m'en a fait promettre par tierçe main plusieurs, mais
+    apparament qu'il n'en fait qu'un par an, Jusqu'içi je ne suis en possession que de deux. </p>
+   <p>Cependant les sujets qu'il choisit sont si interessant, que je désire beaucoup que ma
+    collection soit complète. Je ne puis qu'être très sensible à Votre amitié Monsieur. Vous
+    voudriés armer toutte la Chrétieneté pour m'assister. Je fais grand cas de l'amitié du Roy de
+     <placeName ref="places.xml#pru01"> Prusse</placeName>, mais j'espère que je n'aurés pas besoin des
+    cinquante mille homes que Vous voulés qu'il me done contre <persName ref="people.xml#mus01">
+     Moustafa</persName>. Puisque Vous trouvés trop fort le compte des trois cent mille homes à la
+    tête desquels l'on prétend que le sultan en persone marchera, il faut que je Vous parle de
+    l'armement Turk de l'année passée, qui Vous fera juger de ce phantôme selon sa vraye valeur. Au
+    mois d'Octobre <persName ref="people.xml#mus01"> Moustafa</persName> trouva à propos de déclarer la guerre
+    à la <placeName ref="places.xml#rus01"> Russie</placeName>, il n'y étoit pas plus préparé que nous,
+    lorsqu'il appris que nous nous défendrions avec vigueur, cela l'étona, car on lui avoit fait
+    espérer beaucoup de choses qui n'arivèrent pas; alors il ordona que des différentes Provinces de
+    son Empire, ce rendroit à <placeName ref="places.xml#edi01"> Andrianople</placeName> un million cent mille
+    homes, pour prendre <placeName ref="places.xml#kie01"> Kiovie</placeName>, passer l'hiver à
+     <placeName ref="places.xml#mos01"> Moscow</placeName> et écraser la <placeName ref="places.xml#rus01">
+     Russie</placeName>. La <placeName ref="places.xml#mol01"> Moldavie</placeName> seule eut ordre de fournir un
+    million de Boisseaux de grains pour l'armée inombrable des Musulmans. Le Hospodar répondit que
+    la <placeName ref="places.xml#mol01"> Moldavie</placeName> dans une année fertile n'en recueilloit pas tant,
+    et que cela lui étoit impossible, mais il reçut un second comandement d'exécuter les ordres
+    donées, et on lui promit de l'argent. Le train d'Artillerie pour cette armée étoit à proportion
+    de cette multitude, il devoit consister en six cent pièçes de Canons, qu'on assigna des
+    Arsenaux. Mais lorsqu'il s'agit de les mettres en mouvement, on planta là, le plus grand nombre,
+    et il n'y eut qu'une soixantaine de pièçes qui marchèrent. Enfin au mois de Mars, au delà de six
+    cent mille homes ce trouvèrent à <placeName ref="places.xml#edi01"> Andrianople</placeName>. Mais come ils
+    manquoit de tout, la désertion comença à s'y mettre; cependant le visir passa le
+     <placeName ref="places.xml#dan01"> Danube</placeName> avec quatre cent mille homes; il y en avoit cent
+    quatre vingt mille le vingt huit d'Août sous <placeName ref="places.xml#cho02"> Chotzin</placeName>. Vous
+    savés le reste, mais Vous ignorés peutêtre que le Visir repassa lui septième le pont du
+     <placeName ref="places.xml#dan01"> Danube</placeName>, et qu'il n'avoit pas cinq mille homes lorsqu'il ce
+    retira à <placeName ref="places.xml#bra01"> Babada</placeName>, s'étoit tout ce qui lui restoit de cette
+    prodigieuse Armée, ce qui n'avoit pas péri s'étoit enfui dans la résolution de retourner chès
+    eux. Notés s'il Vous plait qu'en allant et en venant ils pilloit leurs propre provinces, et
+    qu'ils brûlèrent les endroits où ils trouvèrent de la résistance. Ce que je Vous dis est si
+    vrai, que même j'ai plutôt diminué qu'augmentée les choses de peur qu'elles ne parussent
+    fabuleuses.</p>
+   <p>Tout ce que je sais de ma flotte s'est qu'une partie est sortie de <placeName ref="places.xml#mah01">
+     Mahon</placeName>, et qu'une autre va quitter l'<placeName ref="places.xml#eng01"> Angleterre</placeName> où
+    elle a hivernée. Je croi que Vous en aurés plutôt des nouvelles que moi, cependant je ne
+    manquerés pas de Vous faire part en son tems de celles que je reçevrai avec d'autant plus
+    d'empressement que Vous le souhaités.</p>
+   <p>L'ouvrage du <rs ref="works.xml#nakazk01"> Code</rs> est un peu retardé par tout ses faits de guerre, il est
+    devenu cause seconde, il faut espérer que le tems viendra qu'il reprendra la première plaçe
+    parmi mes occupations. Vous me priés Monsieur d'achever au plutôt la guerre et les Loix, afin
+    que Vous en puissiés porter la nouvelle à <persName ref="people.xml#pet01"> Pierre le Grand</persName>
+    dans l'autre monde. Permettés que je Vous dise que ce n'est pas le moyen de me faire finir de
+    sitôt; à mon tour je Vous prie bien sérieusement de remettre cette partie le plus longtems que
+    faire ce pourra, ne chagriné point Vos amis de ce monde pour l'amour de ceux qui sont dans
+    l'autre. Si là bas ou là haut chaqu'un aura le choix de passer son tems avec telle Compagnie
+    qu'il lui plaira, j'y arriverai avec un plan de Vie tout prêt, composé pour ma satisfaction,
+    J'espère bien d'avance que Vous voudrés dès aprésent m'accorder quelque quart d'heure de
+    conversation dans la journée, <persName ref="people.xml#hen01"> Henry IV</persName> sera de la partie,
+     <persName ref="people.xml#sul01"> Sully</persName> aussi, et point de <persName ref="people.xml#mus01">
+     Moustapha</persName>.</p>
+   <p>Je suis bien aise Monsieur que Vous soyés content de nos Russes qui vienent chés Vous, ceux
+    qui retournent chés eux des pays étrangers sans avoir été à <placeName ref="places.xml#fer01">
+     Ferney</placeName>, en sont toujour aux regrets. Notre Nation en général a les plus heureuse
+    disposition du monde, il n'y a rien de plus aisé, que de leur faire goûter le bon, le
+    raisonable, Je ne sais d'où vient qu'on s'est trompé souvent dans les moyens, volontiers je
+    mettrai le tort du côté du Gouvernement qui si est pris gauchement. </p>
+   <p>Quand on conaitra plus cette Nation en <placeName ref="places.xml#eur01"> Europe</placeName> on reviendra
+    de beaucoup d'erreur et de préventions qu'on a sur le compte de la <placeName ref="places.xml#rus01">
+     Russie</placeName>.</p>
+   <p>Je vois toujour avec bien du plaisir le souvenir que Vous avés de ma Mère qui est morte bien
+    jeune à mon grand regret.</p>
+   <p>Si Messieurs les Vénitiens le vouloit, il n'y auroit rien de plus aisé que d'envoyer
+     <persName ref="people.xml#mus01"> Moustapha</persName> selon Vos désirs passer le Carnaval de l'année
+    1771 avec <rs ref="works.xml#candid01"> Candide</rs> dans leurs humide Ville.</p>
+   <p>Je suis charmée de savoir le Cte: <persName ref="people.xml#shu01">
+      Schouvalow</persName> rentré dans Vos bones grâces; il seroit étonant
+     qu'il ne Vous eu pas répondu, car assurément il est un des homes le plus exact et des plus
+     appliqué que je conoisse; je ne croi pas mr tromper en prédisant que la patrie a de grands
+     services à en attendre, sa capaçité est fort au dessus de son âge, il n'a pas trente ans.
+    </p>
+   <closer><signed rend="inline">Soyés assuré Monsieur de tous les sentimens que Vous
+     me conoissés et de l'estime distingué que je ne cesserai d'avoir pour Vous.
+   <persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02939</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02939</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure if the dictionary mentioned in the last paragraph refers to Voltaire’s Dictionnaire
+     philosophique portatif (dictio01)? Kelsey: this is the most probable identification, but the
+     code is dictio02--fixed below and in code spreadsheet.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-11">11/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:33:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-30">30/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected; query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02939">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1765-01-11">11 (21) de Janvier 1765</date>. 5-eme.
+    </dateline></opener>
+   <p>Vous n’etes pas Madame du nombre de mes envieux, Vous croyés que j’ai le courage
+    d’entreprendre de grandes choses et la fermeté de persister dans mes projets. Je ne sai pas bien
+    ce que je ferai, mais il est très vrai que j’ai forte envie de faire le mieux que je pourrai.
+    Mais tout le monde n’est pas de Votre avis; j’ai vue par Votre derniere du six Decembre que Vous
+    n’etiés point du mien sur le Manifeste; Vous aimés la verité, Vous voulés qu’on la dise à Votre
+    imitation, je suis tenté de Vous dire que Vous raisonnée de ce <rs ref="works.xml#manife04"
+     >Manifeste</rs> comme un aveugle des couleur; Cette pièce n’a nullement été composée pour les
+    puissances etrangeres, elle étoit faite pour informer l’<placeName ref="places.xml#rus01">
+     Empire de  Russie</placeName> qu’ <persName ref="people.xml#ant02"> Jvan</persName> etoit mort,
+    or dont il falloit dire comment, il y avoit eu plus de cent temoin de sa mort et de l’<rs
+     ref="events.xml#mirov01">attentat</rs> du <rs ref="people.xml#mir02">traitre</rs>, il ni avoit
+    dont pas moyen de n’en pas faire un recit très exact, n’en pas faire s’étoit accrediter les
+    mauvais bruits que les Ministres des Cours qui m’envient et ne m’aiment pas s’éforçoit de faire
+    courir, le pas étoit délicat, j’ai crue que dire la verité étoit le seul parti a prendre.
+     <orgName ref="orgs.xml#sena02">L’Imprimeur du Senat</orgName> a fait traduire ce <rs
+     ref="works.xml#manife04"> Manifeste</rs> dans plusieurs langues, chose qui prevenoit des
+    traductions moins exactes. On glose ches Vous sur ce <rs ref="works.xml#manife04">
+     Manifeste</rs>, on y a glosé aussi sur le bon Dieu, et ici on glose aussi quelquefois sur les
+    françois. Mais il n’en est pas moins vrai qu’ici ce <rs ref="works.xml#manife04"> Manifeste</rs>
+    et la tete du <rs ref="people.xml#mir02">Criminel</rs> ont fait tomber touttes les gloseries. Or
+    donc le but étoit rempli et mon <rs ref="works.xml#manife04"> Manifeste</rs> n’a pas manqué son
+    objet, ergo il etoit bon. Vous me tiendrés pour une entetée, n’est ce pas? Ne Voue decouragée
+    pas cependant à me gronder, cela sera toujour bon à beaucoup de choses, et si Vous y melée
+    quelquefois des louanges, j’en serai d’autant plus aise que d’aprés ce que Vous me dites je ne
+    pourrai douter de leur autenticité, chose au bout du compte tres flatteuse. Vous ne devés pas
+    etre jalouse de mes lettres à M-r <persName ref="people.xml#ale06"> d’Alembert</persName>, je ne
+    puis lui écrire d’un ton aussi tendre ni aussi naturel qu’à Vous, il ne me gronde pas. J’ai
+    remarquée une chose dans Vos lettres. S’est qu’a la suite des phrases les plus caressantes quand
+    Vous defendés à Votre coeur de ce laisser aller à la sensibilité la plus flatteuse pour Vos
+    amis, s'est alors qu’il Vous donent le change en Vous obligent de gronder, Vous croyés avoir de
+    l’humeur contre eux, point du tout Vous n’en avés que contre ce mouvement qui a retenu celui de
+    Votre coeur, et celui-ci tourne pourtant le tout à l’avantage de ceux que Vous aimés.</p>
+   <p>Je Vous suis bien obligé du <rs ref="works.xml#dictio02"> Dictionaire</rs> que Vous me
+    promettés, je l’ai deja reçue d’<placeName ref="places.xml#hol02"> Hollande</placeName>. Je suis
+    bien fâchée de ce que Vous n’étiez pas de Votre humeur ordinaire, je souhaite qu’elle revienne
+    au plutot. J’attendrai avec impatience que la conversation recomence. </p>
+   <closer><signed rend="inline">Adieu Madame je Vous aime bien, il faut que je
+    finisse.</signed></closer>
+  </body>
+ </text>
+</TEI>

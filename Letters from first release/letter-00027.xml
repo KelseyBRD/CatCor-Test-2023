@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00027</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00027</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-07">7 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-18">18 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional tagging and annotation.</p>
+            </change>
+            <change>
+                <date when="2015-05-11">11 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00027">
+                <body>
+                    
+                    <p>Письмо ваше от 29-го июля<note type="editorial">This letter can be found in
+                                    <bibl><title ref="works.xml#osmnad01">Osmnadtsatyi vek:
+                                    istoricheskii sbornik</title>, ed. by <editor>Petr
+                                    Bartenev</editor>, <biblScope unit="vol">i</biblScope>,
+                                    <biblScope unit="pp">pp. 136-37 </biblScope></bibl></note> я
+                        получила сего вечера и с радостным удовольствием усмотрела усерднейшие ваши
+                        и всех добрых граждан отзывы о <rs ref="events.xml#kuchu01">мире</rs>.
+                        Конечно смело и без обиняков сказать можно, что таковый не состоялся еще
+                        между двумя империями; да что всего лучше есть то, что всякую можно полагать
+                        надежду на прочности его; а кому горько будет лет через несколько, то верно
+                        тем, кои не токмо что нам не помогли, еще всячески препятствовали, когда
+                        имели случай и причины довольныя воспользоваться и возвратить потерянное.
+                        Потому, быть так, станем говорить о своем деле и чужиться чужих. Богу
+                        благодарю, что угрожаемая <placeName ref="places.xml#niz01"
+                            >Нижнему-Новугороду</placeName> от <rs ref="people.xml#pug01"
+                            >злодея</rs> опасность поминовалась, и ко времени и отселе все к вам
+                        поспело. Уф тяжело, горько было да позабычливо! Теперь крушится меня
+                        народное в трех губерниях разорение. Только <rs ref="events.xml#pugac01"
+                            >бездельства и бездельники</rs> кажется что приближаются к концу. В
+                            <placeName ref="places.xml#uly01">Симбирском</placeName> или около,
+                            <persName ref="people.xml#muf01">Муфель</persName> майор отряжен для
+                        встречи <rs ref="people.xml#pug01">злодея</rs>. Весьма желаю, чтоб <rs
+                            ref="people.xml#pug01">хитрый изувер</rs> пойман был. Что миром и у вас
+                        в городе умы попеременились, того ожидать надлежало. <rs
+                            ref="people.xml#ark01">Обер-полицмейстеру</rs> и его подчиненным скажите
+                        от меня похвалу за то, что они прилежно наблюдают свою должность. Что вы
+                        отложили наряд дворян с своими людьми при переменившихся обстоятельствах,
+                        сие апробую, ибо теперь оно причинило бы только тревогу по напрасному.</p>
+                    <closer><dateline><date when-custom="1774-08-02">Августа 2-го
+                                1774 г.</date>
+                            <placeName ref="places.xml#pet01"
+                        >С.-Петербург</placeName>.</dateline></closer>
+                    <postscript>
+                        <p>Вчера я сюда переехала.</p>
+                        <p>Завтра, даст Бог здоровья, предварительно будем праздновать молебствием
+                            мира. Большое празднество сделаем по взаимной обсылке посольств и
+                            размена обоих дворов ратификации. К вам из <rs ref="orgs.xml#sena01"
+                                >сената</rs> сообщится чтò здесь в церкви читано будет и с чем
+                            конной гвардии майор <persName ref="people.xml#dav01">Давыдов</persName>
+                            по улицам поедет для параднаго объявления.</p>
+                    </postscript>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>I received your letter of the 29th of July this evening and saw with joyous
+                        satisfaction the most zealous responses to the peace, both yours and those
+                        of all good citizens. Of course, one might say boldly and without beating
+                        about the bush that such a one had never yet been made between two empires.
+                        And what is best of all is that one might place all one's hopes on its
+                        durability. If someone is going to be bitter about it in a few years, it
+                        will surely be those who not only did not help us, but even hindered us in
+                        every way, when they had the chance and sufficient reasons to take advantage
+                        of it and redeem what had been lost. Therefore, so be it: we shall start
+                        talking about our own affairs and shun those of others. I thank God that the
+                        danger that threatened Nizhnii Novgorod from the villain has passed, and
+                        that everything reached you ontime from thence too. Oh, how difficult and
+                        bitter it was, how much to be forgotten! Now I am grieved by the ravages
+                        amongst the people in three provinces. Only the good-for-nothings and their
+                        good-for-nothing deeds seem to be approaching their end. In Simbirsk or
+                        thereabouts, Major Mufel has been dispatched to meet the villain. I very
+                        much hope that the cunning fiend shall be caught. If the peace changed some
+                        minds over there in your city, that was to be expected. Praise the chief of
+                        police and his subordinates on my behalf for diligently observing their
+                        duty. I approve of your delaying the formation of a detachment of nobles and
+                        their servants, given the changed circumstances, for that would merely have
+                        caused alarm in vain.</p>
+                    <closer><dateline><date when-custom="1774-08-02">August the
+                                2nd 1774</date>
+                            <placeName ref="places.xml#pet01">St.
+                        Petersburg</placeName>.</dateline></closer>
+                    <postscript>
+                        <p>I moved here yesterday.</p>
+                        <p>Tomorrow, if God grants us health, we shall have a thanksgiving service
+                            as a preliminary celebration of the peace. We shall have the grand
+                            celebrations once mutual embassaies have been sent and both courts have
+                            exchanged ratifications. The Senate shall inform you of what is read in
+                            church and of the ceremonial announcement that Major Davydov of the
+                            Horse Guards shall bear through the streets.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

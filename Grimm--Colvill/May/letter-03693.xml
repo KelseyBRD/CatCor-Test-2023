@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03693</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03693</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#music"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-06">06-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:59:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03693">
+  <body>
+
+   <opener><dateline>Ce <date when-custom="1794-03-28">28 mai 1794</date>.</dateline></opener>
+   <p>J’ai reçu par les successeurs de <persName ref="people.xml#bac01"> Bac</persName>: trois
+    bulletins avec leurs annexes. Je vous en remercie. Les opéras de cette année sont remplis de
+    combats, de façon que l’on aurait envie de chanter la vieille chanson: jamais je n’ai vu tant de
+    combats; le matin combat, le soir combat etc., mais le refrain est toujours: rira bien qui rira
+    le dernier. L’on dit que quatre-vingt mille hommes du Nord d’un côté, et quatre mille d’un
+    autre, sont en pleine marche pour finir les écarts de l’égrillarde et pour soutenir que les
+    imitations ne valent rien du tout. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien. Nous autres, nous arpentons en long et en large
+    d’énormes jardins.</signed></closer>
+  </body>
+ </text>
+</TEI>

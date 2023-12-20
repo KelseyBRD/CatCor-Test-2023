@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00025</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00025</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2014-01-06">6 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-12-25">25 December 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup.</p>
+            </change>
+            <change>
+                <date when="2015-05-05">5 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00025">
+                <body>
+                    <opener><salute
+                            rend="inline">Граф Петр Иванович,</salute></opener>
+                    <p>Снисходя с матерним сожалением на представления ваши, изображенныя в реляции,
+                        № 28, о прибавлении прогонов по копейке на версту в трех вам вверенных
+                        губерниях, дабы чрез то нужды терпящие хотя малое поправление получить
+                        могли, дан от меня о сем <orgName ref="orgs.xml#sena01">Сенату</orgName>
+                        указ, с котораго копию при сем прилагаю. Кригсрехт над саратовскими
+                        преступниками, присланный с вашим № 29, я, как дело целаго деташемента, а не
+                        личнаго, отослала в военную коллегию, откуда вам и моя конфирмация
+                        сообщится. Поведение же саратовскаго коменданта совершенно заслужило знак
+                        той доверенности, который вы ему дали, поручая ему по прежнему вступить в
+                        его должности, что аппробую. Из реляции вашей, № 30, я с сожалением
+                        усмотрела новый болезненный вам случившийся припадок; молю Бога, да отвратит
+                        от вас вперед всякой подобный и да подкрепит труды ваши, кои Он же
+                        благословил возстановлением повсюду желаемой тишины в странах, бдению вашему
+                        порученных, по изловлении всех возмутительных начальников. Те из них, кои к
+                            <placeName ref="places.xml#mos01">Москве</placeName> привезены, ныне от
+                        большаго суда решительную свою судьбу имеют в весьма кратком сроке, в числе
+                        коих и саратовские купцы, о коих ко мне пишете, что к <placeName
+                            ref="places.xml#mos01">Москве</placeName> отправили.</p>
+                    <p>Выдачу от вас денег вдове <persName ref="people.xml#per01"
+                            >Перепеченой</persName> в милостыню похваляю, а дело и прошение ея о
+                        уничтожении втораго ея невольнаго брака советую вам отослать к епархиальному
+                        архиерею, который один оное решить может и скоро на сие поступит, увидя ваше
+                        предстательство.</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute
+                            rend="inline">Count Petr Ivanovich,</salute></opener>
+                    <p>Condescending with motherly compassion to your representations made in report
+                        No. 28 about raising the fare on the mail coach by a kopeck per verst in the
+                        three provinces entrusted to you, so that thereby those suffering need might
+                        recover at least a little, I have issued an order to the Senate, a copy of
+                        which I attach herewith. The court martial of the criminals from Saratov,
+                        which was sent with your No. 29, I sent to the War College because the case
+                        concerned a whole detachment and not an individual; they will communicate to
+                        you my confirmation. The conduct of the commander of Saratov thoroughly
+                        deserved the mark of trust that you gave him in commissioning him to resume
+                        his former post, of which I approve. I was sorry to see from your report No.
+                        30 that you had suffered another bout of illness: I pray God that He avert
+                        from you any further bouts and that He strengthen your labours, which He
+                        blessed with the restoration of longed-for peace everywhere in the countries
+                        entrusted to your vigilance, once all the chief rebels had been caught. Of
+                        these, the ones who have been brought to Moscow now await their decisive
+                        fate from the grand court in a very short time; amongst their number are the
+                        merchants of Saratov of whom you write that you had sent them to Moscow.</p>
+                    <p>I praise your gift of money as alms to the widow Perepechina; as for the case
+                        and petition concerning the annulment of her second forced marriage, I
+                        recommend that you send it to the bishop of the diocese, who alone can
+                        decide and will soon act upon it when he sees your intercession.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

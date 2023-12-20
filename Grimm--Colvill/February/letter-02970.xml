@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02970</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02970</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:47:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02970">
+  <body>
+
+   <opener><dateline> Réponse au No 17, à <placeName ref="places.xml#kol01">
+     Kolomenskoé</placeName>, ce <date when-custom="1775-04-29">29 avril 1775</date>, à sept verstes
+      de <placeName ref="places.xml#mos01">Moscou</placeName>.</dateline></opener>
+   <p><placeName ref="places.xml#kol01"> Kolomenski</placeName> est à <placeName
+     ref="places.xml#tsa01">Tsarsko-Sélo</placeName> ce qu’une mauvaise petite pièce de théâtre
+    pourrait être vis-à-vis d’une tragédie de <persName ref="people.xml#har01"> M. de
+     Laharpe</persName>; vous voyez que le choix est modeste, car <placeName ref="places.xml#tsa01"
+     >Tsarsko-Sélo</placeName> n’est pas aussi la première maison de plaisance de l’univers. Dites
+    vrai, personne n’a jamais commencé ses lettres depuis la date; cet usage a pris naissance là,
+    dans mon cerveau, et il ne tient qu’à vous de prendre cela pour un trait de génie; je ne
+    désespère pas d’en avoir, depuis que le <rs ref="people.xml#que01"> docteur</rs> dont j’oublie,
+    ma foi, toujours le nom, tant il est célèbre, est devenu la vénération de la bêtise économique;
+    or, bêtise en ce lieu veut dire secte, comprenez-vous, monsieur?</p>
+   <p>Voilà un préambule de lettre, auquel, en conscience, l’on pourrait dire bravo, car il promet
+    beaucoup de gaîté; je n’ai pas la fièvre pourtant, mais c’est qu’il fait un très grand vent, et
+    cela donné de l’imagination ou bien un mal de tête. Tâchez de faire commencer la fameuse
+    écritoire pendant une tempête, et vous verrez qu’elle deviendra un chef-d’oeuvre d’imagination
+    ou peut-être même de folie.</p>
+   <p>J’ai ordonné hier encore de vous faire remettre trente six mille livres tournois, dont vous
+    voudrez bien faire l’emploi pour construction d’écritoire [Page] comme bon vous semblera. Mais
+    le moyen d’écrire? ne voilà-t il pas <persName ref="people.xml#tho01"> Tom Anderson</persName>
+    qui demande à être couvert; il s’est placé vis-à-vis de moi sur un fauteuil ; j’ai le bras
+    gauche et lui la patte droite appuyés sur une croisée ouverte, qu’on pourrait prendre pour une
+    porte d’église, si elle n’était au troisième étage. De cette croisée sir <persName
+     ref="people.xml#tho01"> Anderson</persName> considère, primo, la rivière de <placeName
+     ref="places.xml#mos01"> Moscou</placeName>, qui serpente et fait à la portée de la vue une
+    vingtaine de coudes; il est inquiet, il aboie. C’est un vaisseau qui remonte la rivière; non,
+    non, c’est outre le vaisseau une vingtaine de chevaux, qui passent la rivière à la nage pour
+    aller paître sur les prés verts et couverts de fleurs qui forment l’autre côté du rivage et qui
+    s’étendent jusqu’à une hauteur couverte de terres fraîchement labourées et qui appartiennent aux
+    trois villages qui sont là devant mes yeux. A gauche est un petit couvent bâti en briques,
+    entouré d’un petit bois, et puis des coudes de la rivière et des maisons de campagne, qui
+    s’étendent jusqu’à la capitale, qu’on voit dans le lointain; la droite offre à la contemplation
+    de <persName ref="people.xml#tho01"> M. Tom</persName> des hauteurs couvertes de bois épais,
+    entre lequel on voit des clochers, des églises de pierre et de la neige aussi dans les creux des
+    hauteurs. M. Anderson est fatigué de considérer que aussi belle vue apparemment, car le voilà
+    qui s’emmaillotte dans sa couverture et qui va dormir. Si ma description appesantit vos
+    paupières, vous pourrez, monsieur, en faire autant. Si vous êtes curieux, pour vous désennuyer,
+    de connaître la race des Anderson dans son état présent, la voici. A la tête se trouve le chef
+    de la race sir Tom Anderson, son épouse duchesse Anderson, leurs enfants, la jeune duchesse
+    Anderson, monsieur Anderson. Tom Thomson, celui-ci s’est établi à <placeName
+     ref="places.xml#mos01">Moscou</placeName> sous la tutelle du <persName ref="people.xml#vol02">
+     prince Volkonski</persName>, gouverneur-général de la ville; il y a encore, outré ceux-ci, dont
+    la réputation est faite, quatre ou cinq jeunes gens, qui promettent infiniment et qu’on élève
+    dans les meilleures maisons des villes de <placeName ref="places.xml#mos01"
+    >Moscou</placeName> et de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, comme par
+    exemple dans celle du <persName ref="people.xml#orl01"> prince Orlof</persName>, de messieurs
+     <persName ref="people.xml#nar01"> Narychkine</persName>, chez le <persName
+     ref="people.xml#tuf01"> prince Tufiakine</persName>. Sir Tom Anderson a épousé en secondes
+    noces mademoiselle Mimi, qui depuis ce temps là a pris le nom de Mimi Anderson, mais jusqu’ici
+    il n’y a pas de lignée. Outre ces légitimes mariages,— puisqu’il faut dire les défauts comme les
+    vertus des gens dans leur histoire,— M. Tom a eu plusieurs attachements illégitimes: la grande
+    duchesse a plusieurs jolies chiennes, qui lui on mis martel en tête, mais jusqu’ici aucun de ses
+    bâtards n’a paru, et il y a apparence qu’il n’y en a pas; quoi qu’on en dise, ce sont des
+    calomnies.</p>
+   <p>Votre idée d’historiographe de <orgName ref="orgs.xml#geor01"> l’ordre de S‘ George</orgName>
+    est très bonne; ruais il y a encore tant à faire que le chapitre et les commanderies et le
+    secrétariat vraisemblablement ne viendront qu’après l’écritoire. Rendez-la si belle[Page]</p>
+   <p>que l’envіе de la placer hâte l’érection: les petites choses ont souvent fait aller les
+    grandes. Les <title ref="works.xml#tablea01"> tableaux appartenants à S. M. I. fabriqués par
+     Huber</title> seront les bienvenus, mais pourquoi n’entamez-vous point leur description,
+    quoique, depuis que je suis ici, vous me la promettiez à chaque poste. Ecoutez, philosophe, sans
+    vos descriptions je n’entendrai rien peut-être à vos tableaux; je vous prie au moins de me
+    l’envoyer vers le temps que je serai de retour à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, où ces tableaux m’attendront, car je crains de les faire venir ici.
+    Vos pruneaux ont été mangés pendant le carême.</p>
+   <p>Je lis présentement vos <title ref="works.xml#conver01"> «Conversations d’Emilie»</title>, et
+    je ne peux pas les quitter, et dès que je pourrai m’en séparer, je les ferai traduire en russe.
+    C’est un livre non seulement charmant, mais de toute utilité pour quiconque s’intéresse à
+    l’éducation des enfants. Hélas! si au lieu de se casser la tête pour faire des bêtises, les
+    auteurs voulussent n’écrire que des choses pareilles, il y aurait moins de choses inutiles dans
+    le monde. Il parait y avoir du mieux dans l’état de la santé de <rs ref="people.xml#wil01">la
+     jeune personne</rs>, mais ce mieux est mêlé de mille malingrités; peut-être le printemps
+    réparera-t-il tout cela, mais la vue même indique un dépérissement de santé.</p>
+   <p>Je prendrai ad notam ce que vous me dites sur la <persName ref="people.xml#ame01"> duchesse
+     douairière</persName> de <placeName ref="places.xml#sax01"> Saxe-Weimar</placeName>: <seg
+     xml:lang="de">kommt Zeit kommt Rath</seg> dit-on à <placeName ref="places.xml#wet01">
+     Wetzlar</placeName>. Ne me parlez pas, s’il vous plaît, du jour de ma naissance. J’ai eu là 46
+    ans bien comptés, et j’ai entendu parler 46 fois dans ma vie de cette matière, et par conséquent
+    j’en ai les oreilles battues. Je n’aime pas ce jour: il y a toujours un an qui vous vient de
+    plus, et cela n’a pas le sens commun. </p>
+   <closer><signed rend="inline">Adieu, portez- vous bien en dépit du boyau fêlé, et soyez assuré de
+     la reconnaissance que j’ai pour toutes les marques d’attachement que vous me donnez.
+    </signed></closer>
+   <postscript>
+    <p>J’ai oublié de vous dire que le <persName ref="people.xml#lav01"> vicomte de
+      Laval-Montmorency</persName> a été ici et que, quoique ce ne soit pas peut-être le premier
+     génie du monde, cependant c’est le premier français auquel je n’ai point trouvé des manières
+     insupportables; je suis très contente de lui; aussi аі-je distingué autant que j’ai pu, parce
+     qu’il est Monmorency et qu’on aime à entendre ce nom. Je voudrais qu’on le fît maréchal
+      de <placeName ref="places.xml#fra01">France</placeName>; je crois qu’il entend la guerre tout
+     comme les autres.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

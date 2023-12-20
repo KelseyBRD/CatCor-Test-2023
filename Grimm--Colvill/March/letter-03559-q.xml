@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03559</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03559</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I coded « Baudouin » as Pierre Antoine Baudouin,
+     given the context, but I can’t be sure whether this is the correct person.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:51:27Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03559">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, où, par parenthèse, je
+    suis depuis le 3 d’avril, ce <date when-custom="1779-04-16">16 d’avril 1779</date>. Et où, autre parenthèse, depuis que j’y suis, les
+    vents, les pluies, les tempêtes, les neiges, les grêles et les post-scriptum ne me manquent pas. </dateline></opener>
+   <p>Celui auquel j’ai à répondre est daté du 27 mars et doit servir d’accompagnement au No 35; en
+    le recevant je n’ai rien eu de plus pressé que d’envoyer à <persName ref="people.xml#pai01">
+     Païsiello</persName>, surnommé par tous Vesuvio, son final qu’il vous a plu de m’envoyer. C’est
+    le comte <persName ref="people.xml#vor01"> Vorontsof</persName> qui l’a tant vanté que j’ai
+    voulu l’entendre ; au reste, en musique je ne suis pas plus avancée qu’autre- fois; il n’y a, en
+    fait de tons que je reconnais, que l’aboiement de neuf chiens qui à tour de rôle ont l’honneur
+    d’être dans ma chambre, et dont de loin même je reconnais chaque individu par sa voix ou son
+    organe, et la musique de <persName ref="people.xml#gal03"> Galuppi</persName>, celle de
+     <persName ref="people.xml#pai01"> Païsiello</persName>, je l’écoute et suis étonnée des tons
+    qu’il fait aller ensemble, mais je ne la reconnais guère; cependant l’air de la pulmonia m’a
+    enchantée, chose que ne fit jamais M. <persName ref="people.xml#roe02"> Roellig</persName>,
+    ni l’homme qui hurlait la basse à côté de lui.</p>
+   <p>Ayez la bonté de faire examiner les tableaux dont vous m’avez envoyé le catalogue d’un certain
+     <persName ref="people.xml#rob01"> M. Robinet Censeur</persName>, et, s’il est possible, qu’ils
+    soient d’un meilleur prix et de bons, tableaux, je m’en accommoderai par votre entremise avec
+    maître <persName ref="people.xml#rob01"> Robinet</persName>, vu que <persName
+     ref="people.xml#pau01"> grand-duc</persName> et <persName ref="people.xml#mar02">
+     grande-duchesse</persName> farcissent leurs appartements de tous les ragotons possibles en fait
+    de tableaux et que c’est un grand régal présentement de leur en faire avoir, et réellement ils
+    en ont une centaine que je leur ai fait avoir, qui ne dépareraient pas ma galerie. Pour les
+     <persName ref="people.xml#wal02"> Walpole</persName> et les <persName ref="people.xml#udn01">
+     Udney</persName>, ils ne sont plus à avoir, parce que votre très humble servante a déjà mis la
+    patte dessus et qu’elle ne les lâchera pas plus qu’un chat une souris. Pour celui du <persName
+     ref="people.xml#bau04"> C. Baudouin</persName>, quand nous aurons le catalogue et la paix, nous
+    aviserons ce qu’il y aura à faire. <seg xml:lang="it"> Ma si il signor marchese del Grimmo volio
+     mi faré</seg> un plaisir, il aura la bonté d’écrire au divin <persName ref="people.xml#rei03">
+     Reiffenstein</persName> de me chercher deux bons architectes, italiens de nation et habiles de
+    profession, qu’il engagera au service de S. M. I. de toutes les Russies par contrat pour tant
+    d’années et qu’il expédiera de <placeName ref="places.xml#rom03"> Rome</placeName> à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName> comme un paquet d’outils. Il ne leur donnera pas des millions, <seg xml:lang="it">ma</seg> un salaire honnête et raisonnable, et il
+    choisira des gens honnêtes et raisonnables, point de têtes à la <persName ref="people.xml#fal01"
+     > Falconet</persName>, marchant sur terre, point dans les airs; il les adressera à moi ou au
+    baron <persName ref="people.xml#fre03"> Friedrichs</persName>, ou au comte <persName
+     ref="people.xml#bru02"> Bruce</persName>, ou à <persName ref="people.xml#eck01"> M.
+     d’Eck</persName>, ou à M. <persName ref="people.xml#bez01"> Bezborodka</persName>; ou au diable
+    et à sa grand’mère, pourvu qu’ils me viennent, car tous les miens sont devenus ou trop vieux, ou
+    trop aveugles, ou trop lents, ou trop paresseux, ou trop jeunes, ou trop fainéants, ou trop
+    grands seigneurs, ou trop riches, ou trop solides, ou trop éventés.... en un mot, tout ce qu’il
+    vous plaira hormis ce qu’il me faut. Ah, monsieur! jamais style ne fut plus ressemblant que
+    celui de <title ref="works.xml#trista01">Tristram Shandy</title> à celui de cette
+    lettre; cependant je n’ai jamais copié personne, et <title ref="works.xml#trista01">Tristram Shandy</title> était mort avant, qu’elle existât: je trouve une grande
+    analogie entre sa tête et la mienne. </p>
+   <closer><signed rend="inline">Adieu, pour aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

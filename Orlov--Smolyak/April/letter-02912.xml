@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02912</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02912</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-06">06/04/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-09T08:28:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02912">
+  <body>
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01">Екатерина</persName> Вторая,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая. <salute>Нашему генералу
+     графу <persName ref="people.xml#orl03"> Орлову</persName>.</salute></opener>
+   <p>В ответ на реляцию вашу из <placeName ref="places.xml#pis01"> Пизы</placeName>, 28 сентября,
+    находим Мы за нужно объявить чрез сие к руководству вашему на представший теперь случай
+    действительнаго <name ref="events.xml#turki01"> возвращения Флота Нашего</name> в отечество, что
+    на возвратном походе имеют ему служить в разсуждении тех держав, мимо земель которых плавание
+    пойдет, также и в разсуждении встречающихся иногда на пути <placeName ref="places.xml#gre01">
+     английских военных кораблей</placeName>, теже самыя политическия правила, кои от Нас здесь
+    предписаны были в данных инструкциях адмиралу <persName ref="people.xml#spi01">
+     Спиридову</persName> и прочим, в след за ним отправленным командирам разных эскадр; ибо с того
+    времени, как политическая Наша связь ни с которым двором чувствительно не переменилась, так
+    наипаче с <persName ref="people.xml#geo02"> английским двором</persName> не учинено никаких
+    новых и особливых договоров о взаимной салютации, следовательно же и долженствуют иметь место
+    все прежде употребленныя осторожности, дабы инако не подвергнуть себя втуне каким неприятным
+    хлопотам.</p>
+   <p>Впрочем, всемилостивейше аппробуя разделение флота на три эскадры, для возвратного плавания, и
+    имея несумненную надежду, что вы и в настоящем случае устремите, как ревностный сын отечества,
+    все ваше бдение и усердие к скорейшему и лучшему исполнению известной уже вам из прежняго
+    отправления воли Нашей, пребываем Мы вам Монаршею Нашею милостию благосклонны. </p>
+   <closer><dateline rend="inline">Дан в <placeName ref="places.xml#pet01">
+      Санктпетербурге</placeName>, <date when-custom="1774-11-14">14 ноября 1774
+     г.</date></dateline>
+    <signed><persName ref="people.xml#cat01" type="signature"
+    >Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00026</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00026</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-07">7 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, tagging.</p>
+            </change>
+            <change>
+                <date when="2015-05-03">3 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00026">
+                <body>
+                    <opener><salute rend="inline"
+                            >Князь Александр Михайлович,</salute></opener>
+                    <p>В ответ на ваше письмо от 5-го декабря, в котором просите о увольнении вас
+                        ото всех дел, имею вам объявить, что продолжение службы вашей не инако
+                        прииму, как с удовольствием; ибо везде оная продолжаема была с нелицемерною
+                        ревностию и чистосердечною верностию к особе моей и <rs
+                            ref="places.xml#rus01">Империи</rs>. В знаки же непременной той
+                        доверенности моей, которую вы себе приобрели, при сем прилагаю указ для
+                        заседания вашего в <orgName ref="orgs.xml#sena01">Сенате</orgName>, к чему
+                        совокупляю повеление в <orgName ref="orgs.xml#impe02">Кабинете</orgName>,
+                        дабы вы снабдены были приличною суммою на покупку кистей для прикрепления
+                        обер-камергерскаго ключа, который при сем к вам посылаю.</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline"
+                            >Prince Aleksandr Mikhailovich,</salute></opener>
+                    <p>In reply to your letter of 5 December, in which you ask to be discharged from
+                        all affairs, I must declare to you that I would take the continuance of your
+                        service not otherwise than with pleasure, for it was continued everywhere
+                        with unfeigned zeal and sincere loyalty to my person and to the Empire. As a
+                        sign of this my unchanging confidence, which you have acquired for yourself,
+                        I hereby attach a decree appointing you to the Senate, to which I add an
+                        order to the Cabinet that you should be equipped with a suitable sum to buy
+                        tassels with which to attach the chief chamberlain's key, which I send you
+                        herewith.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

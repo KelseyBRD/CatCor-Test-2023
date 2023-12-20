@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00078</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00078</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#moscow"/>
+                    <term target="kw.xml#police"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-05">5 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00078">
+                <body>
+                    <opener><salute rend="inline">Петр Дмитриевич.</salute></opener>
+                    <p> Для лучшаго наблюдения над поведением Поляков в <placeName
+                            ref="places.xml#mos01">Москве</placeName> обретающихся, прикажите <rs
+                            ref="people.xml#pes01">Московскому почтдиректору</rs> осматривать их
+                        письма и к ним следующия, и вам содержание их представлять; а вы не оставьте
+                        нам о том доносить, если усмотрено будет что либо важное или примечания
+                        заслуживающее.</p>
+                    <p>Прилагаются при сем письма, из <placeName ref="places.xml#mos01"
+                            >Москвы</placeName> в <placeName ref="places.xml#war01"
+                            >Варшаву</placeName> отправленныя, по которым в разсуждении пересылки
+                        ассигнаций, выписывания лент Польских и тому подобнаго нужно, чтоб вы
+                        осведомилися, чтò за люди ведут сию переписку и в ней упоминаются, какое их
+                        поведение и упражнение; о чем нам дайте знать, а вообще за ними иметь
+                        надлежащее наблюдение.</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">В
+                                С.-Петербурге.</placeName>
+                            <date when-custom="1789-12-13">Декабря 13,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Petr Dmitrievich.</salute></opener>
+                    <p>To better observe the conduct of Poles living in Moscow, order the director
+                        of the Moscow post to examine their letters and those sent to them and to
+                        present their contents to you. Do not fail to report to inform us if
+                        anything important or worthy of notice is discovered.</p>
+                    <p>Attached are letters sent from Moscow to Warsaw, on the basis of which, as
+                        regards the sending of assignats, the ordering of Polish ribbons and the
+                        like, it is necessary for you to find out what sort of people are engaged in
+                        this correspondence and are mentioned in it, and what their conduct and
+                        activities are. You will let us know of it and in general observe them
+                        appropriately.</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">In St.
+                                Petersburg.</placeName>
+                            <date when-custom="1789-12-13">December 13,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02645</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02645</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#turkey"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-25">25 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02645">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1764-03-03">ce 3 Mars 1764</date>.</dateline>
+                   
+                    <salute rend="inline">Monsieur mon Frère,</salute> </opener>
+                    <p>Je m'empresserai toujours avec une égale sincérité à répondre à l'amitié de
+                        Votre Majesté, c'est de quoi je la prie d'être assurée. J'attends avec
+                        impatience le retour du courrier qui a été expédié vers Votre Majesté, pour
+                        avoir l'explication de ce que je crois être un mésentendu, mais qui
+                        cependant a suspendu la conclusion de notre traité: je joins mes voeux à
+                        ceux de Votre Majesté, qu'il puisse servir par sa durée et stabilité
+                        d'exemple. Je ne savais point la déclaration des Turcs en <placeName
+                            ref="places.xml#pol01">Pologne</placeName>, mais j'avais appris que la
+                        lettre de mon <rs ref="people.xml#obr01">résident</rs> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName> adressée au <persName
+                            ref="people.xml#rep01">prince Repnin</persName> à <placeName
+                            ref="places.xml#war01">Varsovie</placeName>, où les sentiments de la
+                            <placeName ref="places.xml#ott01">Porte</placeName> étaient exprimés, et
+                        qu'on a publiée, avait donné beaucoup d'humeur à l'ambassadeur de <placeName
+                            ref="places.xml#fra01">France</placeName>, et fortement abattu le parti
+                        contraire. J'espère que les difficultés s'aplaniront, et que tout se passera
+                        avec plus de tranquillité que l'on ne l'aurait cru. Je ne négligerai point
+                        les avis de Votre Majesté, je lui en ai beaucoup d'obligation. Je me suis
+                        informée de ce qui regarde le <rs ref="people.xml#bra03">grand général</rs>,
+                        qui assurément sera le plus difficile à gagner, parcequ'il a, malgré son âge
+                        avancé, la couronne fortement en tête; mais quoique sa charge est d'ailleurs
+                        très importante, et qu'il est maître des troupes, par bonheur selon ce que
+                        j'ai appris, ce n'est pas à lui, mais au primat à recueillir les voix et à
+                        proclamer le nouveau roi. Cependant je ne négligerai rien de ce qui dépendra
+                        de moi pour mener les choses au but que je me suis proposé. Tout ce qui me
+                        vient de Votre Majesté me fait un égal plaisir: c'en est un déjà très décidé
+                        que d'avoir à faire à un génie vaste, à un grand Prince, </p>
+                    <closer>
+                        <signed>voilà sur quoi est fondée la haute considération et l'estime avec
+                            laquelle je serai toujours, Monsieur mon Frère, de Votre Majesté la
+                            bonne Soeur
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

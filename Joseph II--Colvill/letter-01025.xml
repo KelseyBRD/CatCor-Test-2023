@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01025</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01025</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:11:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01025">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1781-10-05">5 d’octobre 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Le général-major <persName ref="people.xml#sam02"> Samoilof</persName> m’a
+    remis la lettre dont il a plu à V. M. I. de m’honorer en date du 8 de septembre, et qui contient
+    de nouveau les plus précieuses marques de Son amitié. J’ose Lui en présenter mes très-humbles
+    remercîments, de même que pour celle qui l’а devancée. Mais puisque c’est M. le <rs
+     ref="people.xml#jos01"> comte de Falkenstein</rs> qui veut bien s’entretenir avec moi dans
+    cette dernière, j’espère bien qu’il me sera permis de lui répondre. En premier lieu j’ai à lui
+    dire qu’il est extrêmement aimable à lui, après tant de voyages et de courses entreprises et
+    finies depuis un an et demi et dans tant de pays, de se ressouvenir de ses anciennes
+    connaissances éloignées, et qu'il serait charmant pour un particulier d’accompagner ce souvenir
+    du récit de ses aventures. Mais lorsque celui qui en agit ainsi, est le premier Souverain du
+    monde catholique, au moins faudra-t-il convenir qu’il réunit les agréments de la société des
+    particuliers aux vertus qui ornent les trônes. V. M. I. dans Ses voyages a acquis sur Ses
+    contemporains l’avantage de connaître les hommes chez eux et dans les différentes positions dans
+    lesquelles la Providence les a placés. La plupart des Souverains ne connaissent guère que le
+    rond qui les entoure. Si les Hollandais originaux que V. M. I. veut bien me dépeindre, n’étaient
+    tels que par la même raison, l’attention seule se tournerait alors sur la patience éclairée de
+    celui qui supportait avec gaieté l’importunité de ces curieux mal-avisés. Cependant tels qu’ils
+    sont, le récit même de V. M. I. prouve que la célébrité a son droit sur l’épaisseur de leurs
+    organes. Les annales du séjour V. M. I. à <placeName ref="places.xml#spa02"> Spaa</placeName>
+    fournissent à ma reconnaissance de nouveaux aliments qui m’en montrent toute l’étendue; elle ne
+    saurait augmenter, mon coeur en est rempli, elle égale la très-haute considération et l’amitié
+    sincère avec laquelle je serai toute ma vie </p>
+   <closer><signed>de Votre Majesté Impériale <lb/>la bonne soeur, fidèle amie et alliée <lb/><persName
+     ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+   <postscript><p>Mes <rs ref="people.xml#pau01 people.xml#mar02">voyageurs</rs> n’avancent
+    guère ; ils sont partis le 19 septembre d’ici et le 30 septembre de <placeName
+     ref="places.xml#pol02"> Polotzk</placeName>.</p></postscript>
+  </body>
+ </text>
+</TEI>

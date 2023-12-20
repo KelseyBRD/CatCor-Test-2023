@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03679</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03679</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I can’t find the Mazzey et Sequelles, though it seems like they are republican groups of some
+     kind in Poland?</p>
+    <p>Kelsey: There's a problem with the identification of Forstemberg and "son père". Further research needed.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change>
+    <date when="2021-05-02">02-05-2021</date>
+    <persName>Olivia Colvill</persName>
+    <label>Initial markup</label>
+   </change>
+   <change>
+    <date>2021-05-21T12:56:48Z</date>
+    <name>Microsoft Office User</name>
+   </change>
+   <change>
+    <date when="2021-05-21">21-05-2021</date>
+    <persName>HD|DH</persName>
+    <label>Conversion to xml and checking</label>
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03679">
+  <body>
+   <div>
+    <p>J’ai reçu avant-hier, 11 d’août v. st., votre lettre commencée à <placeName
+      ref="places.xml#kar04"> Karlsbad</placeName> le 27 mai (7 juin) 1792 et achevée le 19 (30)
+     juillet de la même année; c’est vous dire que le courrier <persName ref="people.xml#kom01">
+      Komarofski</persName> est arrivé. Je vois que les premiers effets du Sprudel ont été de vous
+     procurer un rhumatisme à la tête, ce dont je vous fait mes compliments de condoléance. Et cela
+     encore dans quel temps? Dans celui où vous alliez heureusement vous trouver au beau milieu d’un
+     très grand nombre d’Altesses d’<placeName ref="places.xml#ger01">Allemagne</placeName>. Après
+     les malheurs de la <placeName ref="places.xml#fra01">France</placeName> je ne connais rien de
+     plus désespérant que ce contre-temps-là – mais enfin, j’espère que votre mal aura fini avec le
+     départ des Altesses. Vous saurez déjà qu’il en est venu une de plus au monde dans cet
+     intervalle: la <persName ref="people.xml#mar02"> grande duchesse</persName> nous a régalés
+     d’une <rs ref="people.xml#olg01"> cinquième fille</rs>, qui a les épaules presque aussi larges
+     que moi. Comme elle avait été deux jours et deux nuits à venir et qu’elle vint au monde le 11
+     de juillet, propre jour de la fête de Ste Olga, qui fut baptisée à <placeName
+      ref="places.xml#ist01">Constantinople</placeName> en 956, je dis: «Morbleu, nous aurons une
+     fête de moins: le jour de sa naissance sera celui de son nom, et la voilà Olga». J’espère que
+     vous vous en réjouirez, car c’est une Altesse. Ma lettre ayant passé par les mains du <persName
+      ref="people.xml#ern02"> duc de <placeName ref="places.xml#got01">Gotha</placeName></persName>,
+     n’a pu que vous en devenir plus chère; aussi vous récriez-vous très naturellement: «Quel
+     bonheur peut être comparable au mien?» Maisquelle idée d’aller avaler douze ou quinze gobelets
+     du Sprudel! On mourrait à moins; je suis persuadée que vous auriez mieux fait pour votre santé
+     d’écrire que de les avaler.</p>
+    <p>Ecoutez: la chose du monde que j’aime le moins, c’est de parler finances; par conséquent vous
+     me dispenserez, ou bien je me dispenserai de parler de ce qui regarde les vôtres: passons
+     là-dessus. Je sais bien moi pourquoi tant de gens aiment, tout comme <persName
+      ref="people.xml#hen02">le prince Henri</persName>, de parler des affaires de <placeName
+      ref="places.xml#fra01">France</placeName>. Voulez-vous le savoir? Je vous le dirai: c’est
+     qu’ils ont la tête inquiète.</p>
+    <p>Le livre de <seg xml:lang="en"> milord</seg>
+     <persName ref="people.xml#ogi01"> Findlater</persName>, que vous m’avez envoyé, est fort bon,
+     et depuis longtemps il est traduit en langue russe. Je suis toute étonnée de voir qu’un lord
+     écossais aime la <placeName ref="places.xml#rus01">Russie</placeName>; ce n’est pas leur
+     passion dans ce temps-ci où la cour ne nous aime pas, parce que je lui ai, en bonne et vraie et
+     ancienne amie de la <placeName ref="places.xml#gre01"> grande Bretagne</placeName>, trop dit de
+     vérités sur les affaires d’<placeName ref="places.xml#ame01">Amérique</placeName> dans le temps
+     où il en était question. Vous me dites que les Prussiens disent qu’un corps russe va entrer en
+      <placeName ref="places.xml#sil02"> Silésie</placeName> pour se porter sur le <placeName
+      ref="places.xml#rhi01"> Rhin</placeName>; or les hauts alliés ne se soucient pas de ce corps,
+     mais au lieu de cela sont désireux d’argent. Le <persName ref="people.xml#gus01"> feu roi
+       de <placeName ref="places.xml#swe01">Suède</placeName></persName> et moi nous avions dans la
+     tête d’agir, et l’<placeName ref="places.xml#spa01">Espagne</placeName> lui promettait de
+     l’argent, mais depuis sa mort celle-ci ne donne point d’argent, et <rs ref="people.xml#cha01">
+      le régent</rs> suit mal les prescriptions du testament de son frère; par conséquent nous ne
+     marcherons pas encore de sitôt. Au reste je n’abandonnerai pas assurément les petits-fils
+      d’<persName ref="people.xml#hen01"> Henri IV</persName>; j’attends d’eux aussi qu’entrés une
+     fois en <placeName ref="places.xml#fra01">France</placeName>, ils se comporteront comme de
+     dignes rejetons de cette race. Les choses ont un peu changé de face depuis la <name
+      ref="events.xml#decla01"> déclaration de guerre</name> de la <placeName ref="places.xml#fra01"
+      >France</placeName> contre la maison d’Autriche; je suis devenue auxiliaire de cette dernière,
+     et le concert n’est plus ce qu’il était. Je conviens avec vous que le <persName
+      ref="people.xml#pon01"> roi de <placeName ref="places.xml#pol01"
+      >Pologne</placeName></persName> a eu grand tort de se laisser diriger par des fripons suisses,
+     italiens et polonais, qui l’ont si mal mené qu’il n’a pas craint de se parjurer, d’enfreindre
+     ses pacta convents tous les traités qu’avait la république, d’anéantir celle-ci, d’offenser
+      la <placeName ref="places.xml#rus01">Russie</placeName>, d’outrager sa bienfaitrice et
+     d’attirer par là sur lui l’amertume qu’il restent. Quand on n’est pas sage à soixante ans, il
+     est sûr qu’on ne le deviendra jamais; il n’y a pas traîtrise ni duplicité qu’il n’emploie avec
+     nous encore à l’heure qu’il est, et la confédération et moi pouvons lui prouver, papier sur
+     table, qu’il est faux et double et triple chaque et quante fois qu’il sera nécessaire. Je lui
+     ai fait parler net et clair sur tout cela; il joue gros jeu, mais la coutume et le comérage est
+     une terrible chose. Vous avez grand’ raison de mépriser ces donneurs d’avis à la douzaine qui
+     ont tant d’envie de vous donner de vaines terreurs; vous voyez que les Mazzey et Sequelles en
+     ont menti et que je me porte bien, et en toute vérité il n’y a eu aucune trace de tout ce dont
+     ils se sont donné les airs.</p>
+    <p>Il me paraît que <persName ref="people.xml#doy01"> Doyen</persName> m’a envoyé votre lettre.
+     Puisque vous me parlez de <persName ref="people.xml#bal03"> Balu</persName>, je vous dirai que
+     l’hiver passé <persName ref="people.xml#bal03"> Balu</persName> est venu demander son congé aux
+     maréchaux de la cour; ceux-ci ayant tardé de trois à quatre jours à lui donner son congé, il
+     s’en est allé chez <persName ref="people.xml#gen02"> Genet</persName>, ci-devant secrétaire de
+      Philippe <persName ref="people.xml#seg01">Ségur</persName>, lequel a mis son nom dans un
+     passe-port, avec lequel <persName ref="people.xml#bal03"> Balu</persName> s’en est allé
+     clandestinement de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>; il n’a rien
+     emporté de la cour, et ce qu’il avait en main on l’a trouvé intact; c’est un fou qu’un autre
+     fou aura persuadé de s’en aller dans le bon pays de la liberté. Or, ce <persName
+      ref="people.xml#gen02"> Genet</persName> est frère de madame <persName ref="people.xml#cam04">
+      Campan</persName>, femme de chambre de la <rs ref="people.xml#mar14"> reine</rs>; il a été
+     comblé des bontés de cette princesse. Malgré cela c'est un enragé que j’ai fait renvoyer d’ici
+     après l’histoire du 20 juin; l’on dit qu’il est parti de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName> en enfonçant sa tête dans un bonnet de laine rouge; ceci est si fou
+     que j’ai éclaté de rire en l’apprenant; au reste depuis six mois on nettoie <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName> des usuriers français, dont elle commençait à
+     abonder. Je savais déjà ce que vous me dites de Destat; celui-ci était sorti de la vaste
+     basse-cour du prince <persName ref="people.xml#pot01"> Potemkine</persName>; de là il était
+     entré dans celle du <persName ref="people.xml#nas01"> prince de Nassau</persName>; il eut accès
+     au théâtre de l’<placeName ref="places.xml#her01"> hermitage</placeName>, parce qu’il faisait
+     des proverbes; il n’a jamais dépassé le théâtre: il alla à <placeName ref="places.xml#par01"
+      >Paris</placeName> sous prétexte de santé; ses propos à <placeName ref="places.xml#war01"
+      >Varsovie</placeName> et à <placeName ref="places.xml#par01">Paris</placeName> l’ont fait
+     rayer du service, et il a perdu sa pension.—J’ai bien reconnu <persName ref="people.xml#mei02">
+      Sénac de Meilhan</persName> à tout ce que vous m’en dites.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1792-08-14">14 d’août</date>, à sept heures du
+      matin.</dateline></opener>
+    <p><persName ref="people.xml#mei02"> Sénac de Meilhan</persName> a toujours la meilleure envie
+     du monde de dire de belles choses; mais par malheur elles ne sont pas tout à fait à son
+     service, et comme il veut toujours endoctriner avec cela ses auditeurs, la plupart du temps
+     ceux-ci restent la bouche béante sans avoir rien entendu d’extraordinaire, ou qu’ils ne
+     savaient déjà. Il est très sûr qu’il ne saurait dire de quelle couleur il est. Jamais on ne lui
+     a offert de ma part le titre de conseiller d’état intime: il s’est offert comme historiographe,
+     chose qu’on ne pouvait pas lui défendre, mais dont j’ai tâché de le dégoûter en lui disant
+     continuellement qu’on ne saurait écrire l’histoire d’un pays quand on n’en sait pas la langue
+     et n’en connaît point du tout les usages. Pour sa comparaison de St Pierre, je dirai avec le
+     grand écuyer <persName ref="people.xml#nar02"> Narichkiné</persName> qu’elle ne vaut pas dix
+     sous.</p>
+    <p>Pour vos tours de passe-passe avec les médailles, il faut bien que je les souffre, et <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> trouvera ci-jointe la boîte qu’il destine au
+     baron de <persName ref="people.xml#thu01"> Thümmel</persName> je l’accorderai sans souffler. Il
+     est juste que le sage <persName ref="people.xml#rei04"> Reichard</persName> reste en possession
+     d’une médaille qu’il a déjà vendue à l’<persName ref="people.xml#dal01"> électeur de
+      Mayence</persName>. Je vous demande pardon: je ne me soucie point du tout de l’intrigant et
+     petit méchant <persName ref="people.xml#bom01"> Bombelles</persName>, ci-devant ambassadeur du
+     roi de <placeName ref="places.xml#fra01">France</placeName>, présentement employé du baron de
+      <persName ref="people.xml#bre02"> Breteuil</persName>, lequel a été avoué et désavoué par le
+      <rs ref="people.xml#lou01"> roi Très-Chrétien</rs>, tout comme plusieurs autres pâtissiers
+     d’intrigues, de façon que <rs ref="people.xml#lou01"> S.M</rs>. et <rs ref="people.xml#mar14">
+      la reine son épouse</rs> sont parfaitement discrédités par l’emploi de ces doubles, triples et
+     quadruples employés de leur vouloir ou non vouloir, et quand on presse leurs susdites <rs
+      ref="people.xml#lou01 people.xml#mar14"> Majestés</rs> de près sur ces mauvais moyens, il
+     s’excusent disant que d’un côté ils manquent de conseillers et que de l’autre on les oblige de
+     faire tout plein de choses à contre-coeur. Mais s’ils sont sans conseillers, c’est alors plus
+     que jamais qu’il faudrait marcher honnêtement, droit et strictement honnête, et par cette
+     droiture ferme et inébranlable ils sortiraient d’affaire, mais non jamais en se dédisant vingt
+     fois par jour: il est étonnant comme souvent les gens manquent de principes. Qu’apprenait-on
+     donc à ces gens-là pendant leur éducation? <persName ref="people.xml#ale01">
+      Alexandre</persName> étant petit disait à sa bonne: «J’aime les livres que grand’maman me
+     donne, car j’y trouve comment me conduire»; aussi mon <persName ref="people.xml#ale01">
+      Alexandre</persName> a-t-il toujours un point d’où il part, et de la suite dans ce qu’il
+     fait.</p>
+    <p>Je crois que le chevalier de <persName ref="people.xml#bel05"> Belsunce</persName> a apporté
+     à <persName ref="people.xml#bom01"> Bombelles</persName> ordre de se rapprocher du comte
+      <persName ref="people.xml#est02"> Esterhazy</persName>, parce que je lui dis tout net que
+     toutes ces séparations de partis ne pouvaient que nuire au bien des affaires du roi, et comme
+     je lui ai paru très fortement attachée au parti des princes, qui est celui de l’autorité du
+     roi, de la religion, de la noblesse, des parlements, désespérant de me faire changer d’avis,
+     ils se sont mis à cajoler ici ceux auxquels ils nuisaient tant qu’ils pouvaient ailleurs, et
+     nommément à <placeName ref="places.xml#vie01">Vienne</placeName> et à <placeName
+      ref="places.xml#ber01">Berlin</placeName>. Il n'y a pas bien longtemps encore qu’on m’a fait
+     parvenir que le <persName ref="people.xml#lou01"> roi de <placeName ref="places.xml#fra01"
+       >France</placeName></persName> aimerait mieux se jeter entre les bras des <orgName
+      ref="orgs.xml#jaco01"> jacobins</orgName> que de se trouver entre ceux de ses frères; après
+     cela que dire et de quoi s’étonner si tout est sens dessus-dessous? Il y en a pour des dizaines
+     d’années de chutes, rechutes et rerechutes, de façon que ni vous ni moi peut-être n’en verrons
+     la fin. On ne veut pas que le parti des princes lève la tête; on craint ce parti si fort qu’on
+     ne veut pas que leurs forces restent ensemble; on les sépare par petits corps. Oui-da,
+     laissez-les entrer en <placeName ref="places.xml#fra01">France</placeName>; il y a toute
+     apparence que pour peu que ces princes soient dignes du sang qui coule dans leurs veines, ils
+     feront très bien tout seuls leur besogne. Les Autrichiens ne feront pas grand’chose, les
+     Prussiens se fatigueront, s’épuiseront, et les princes resteront en <placeName
+      ref="places.xml#fra01">France</placeName> forts de leur cause, avec un parti qui prendra le
+     dessus, pour peu qu’on se conduise comme il faut. Or, pour cela il ne faut que quatre ou cinq
+     ingrédients, qui ne sont pas si difficiles à remplir. Courage, fermeté, magnanimité, sagesse et
+     le jugement convenable pour mettre toutes ces pièces à leur place. <seg xml:lang="it">
+      Basta</seg>.</p>
+    <p>Je fais la Sibylle, et voilà de la haute sagesse qu’on n’oserait pas débiter à tout le monde,
+     et nommément <rs ref="people.xml#rum03"> votre saint</rs> se moquerait de quiconque lui en
+     parlerait. Cependant je m’en vais lui ordonner de suivre les princes, et je l’instruirai
+     comment il aura à s’y prendre pour donner du lustre à leurs affaires; peut-être le <persName
+      ref="people.xml#kar03"> duc de Brunswick</persName> ne leur sera-t-il pas tant contraire. Je
+     vous remercie du très beau compliment que vous me faites au sujet des trente ans révolus de
+     règne; dans deux ou trois ans j’espère d’avoir des arrière-petits-fils de monsieur <persName
+      ref="people.xml#ale01"> Alexandre</persName>. Vous seriez enchanté et étonné de voir ce grand
+     et superbement beau et bon jeune homme: oh, comme cela s’annonce, comme cela est la candeur et
+     la profondeur personnifiée, comme cela a de la suite et des principes avec un désir sans égal
+     de bien faire! Ecoutez, je n’aime pas les couronnements en poste; Salomon a dit: <seg
+      xml:lang="de"> Alles hat seine Zeit</seg>. Mon <persName ref="people.xml#ale01">
+      Alexandre</persName> sera marié, et avec le temps couronné avec toutes les cérémonies, toutes
+     les solemnités et toutes les fêtes publiques possibles; il en passera par là avec splendeur,
+     magnificence et grandeur; oh, qu’il sera heureux et qu’on sera heureux avec lui! Outre cela il
+     est d’une modestie extrême, et rien n’est affecté: tout est naturel; oh, l’excellent sujet dont
+     tout le monde raffole et dont vraiment on peut raffoler! <seg xml:lang="de"> Das ist unser
+      Herzblatt, und er weiß es, und gehet seinen Weg; der Kopf gehet ein wenig voraus, der Kopf ist
+      schön; man vergißt, wenn man den Kopf sieht, das der Herr nicht so ganz den Kopf steif hält
+      und ihn ein wenig vorbeugt; dieses hat man ihm öfters reprochirt, aber wenn er tanzt oder
+      reitet und den Kopf aufrichtet auf die Schultern, ja da wird der Apollo vom Belvedere gleich
+      in die Gedanken kommen allen denen, die die Ihre haben diesen zu kennen; das Majestätische von
+      diesen ist da ganz und gar; das ist denn doch auch zu fett fur 14 Jahr</seg>. Mais <seg
+      xml:lang="it"> basta</seg>, il ne faut pas trop en dire. Il faut que vous parliez à votre
+     saint de la récompense que vous destinez aux deux gardes du corps, car le saint a eu ses
+     raisons pour ne pas faire usage de celle que je leur destinais. Je suis bien aise que vous ayez
+     trouvé l’<persName ref="people.xml#fra04"> empereur</persName> tel que j’en ai entendu parler,
+     et que <persName ref="people.xml#jos01"> Joseph II</persName> n’est pas sorti de votre mémoire.
+     La carrière de <persName ref="people.xml#fra04"> François</persName> II pourrait être superbe;
+     je prie le ciel de permettre que ses ministres n’y mettent point d’empêchement. Le <placeName
+      ref="places.xml#hol01"> St</placeName> Empire sans doute pour premier point de la capitulation
+     aurait dû stipuler qu’il vive.</p>
+    <p>Ce même courrier portera ordre à <rs ref="people.xml#rum03"> votre saint</rs> d’aller joindre
+     les <rs ref="people.xml#lou01 people.xml#lou09 people.xml#cha11"> petits-fils</rs> d’<persName
+      ref="people.xml#hen01">Henri IV</persName>; j’espère qu’il ne leur sera pas inutile. Le mieux
+     de tout est, selon moi, qu’à l’heure qu’il est ils doivent être rentrés en <placeName
+      ref="places.xml#fra01">France</placeName>; si j’étais près d’eux, comme je les ferais aller
+     grand train avec de petits moyens! Le ministère de <placeName ref="places.xml#vie01"
+      >Vienne</placeName> les aime si peu que quand il verra qu’ils iront grand train, il fera sa
+     paix comme il pourra. Pour le <persName ref="people.xml#fri03"> roi de <placeName
+       ref="places.xml#pru01">Prusse</placeName></persName> et le <persName ref="people.xml#kar03">
+      duc de Brunswick</persName>, c’est autre chose. Si je n’ai pas toujours eu lieu d’être
+     contente de celui-ci, cependant je n’ai pas cessé d’estimer son mérite, mais le comte de
+      <persName ref="people.xml#fur01"> Forstemberg</persName> n’ayant jamais été admis aux conseils
+     de <rs ref="people.xml#fur02"> son père</rs>, et d’ailleurs s’étant bien comporté, je l’ai
+     traité selon ses services; tout le monde convient qu’il ne manque pas de mérite, et papa a bien
+     fait de le bien recevoir; je trouve le manifeste du papa énergique et clair; voilà comme il
+     faut parler, et surtout aux gueux quand ceux-ci se mêlent de raisonner; je n’aime point qu’on
+     leur parle avec de la bouillie dans la bouche comme le gouvernement des <placeName
+      ref="places.xml#hol02">Pays-Bas</placeName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1792-08-15">15 d’août</date>. </dateline></opener>
+    <p>Vous voulez fourrer votre St Nicolas jusque dans la composition du manifeste qu’on composait
+     à <placeName ref="places.xml#mai01"> Mayence</placeName>, où l’on n’en composait pas, mais ne
+     voyez-vous donc pas qu’on est bien aise de nous en écarter, parce qu’on craint que les choses
+     finiraient plus tôt et autrement que les faiseurs des deux cours ne le souhaitent. Quand je dis
+     faiseurs, je m’entends bien ; au reste je ne vous fais pas un crime de me parler en ami de
+     votre ami. Pour ce qui regarde le comte d’<persName ref="people.xml#ara01"> Aranda</persName>,
+     je suis assurée et persuadée qu’à son âge l’on ne change pas de caractère, mais il n’est pas en
+     force, et son crédit est chancelant; cependant j’ose espérer que la cour de <placeName
+      ref="places.xml#mad01"> Madrid</placeName> ne peut penser autrement sur les affaires
+     françaises que toutes les autres cours; mais elle n’agira qu’à pas sûrs. Je ne crois pas que
+     les grands d’<placeName ref="places.xml#spa01">Espagne</placeName> voulussent du gouvernement
+     de la canaille, mais il se peut qu’ils sont ennuyés et fatigués d’être mal gouvernés depuis le
+     temps de <persName ref="people.xml#cha18"> Charles-Quint</persName>; depuis l’arrestation du
+      <persName ref="people.xml#mon08"> comte de Florida Blanca</persName> je ne crois pas que l’on
+     se puisse promettre grande merveille de l’administration de tous ces jeunes gens à la tête
+     desquels se trouve M. <persName ref="people.xml#god01"> Godoy</persName>, présentement créé duc
+     d’Alcudia. Il n’est pas douteux que l’<placeName ref="places.xml#eng01"
+     >Angleterre</placeName> ne veuille intervenir à sa manière par des intrigues sourdes dans ces
+     détestables affaires de la <placeName ref="places.xml#fra01">France</placeName>; tout cela fait
+     un salmigondis à s’y perdre. Je vous remercie de la complaisance que vous avez eue de répondre
+     à ma question au sujet du <persName ref="people.xml#hen02"> prince Henri</persName>; je sais
+     que cet hiver passé il a été menacé de tâter du Spandau. On dit que le chevalier de <persName
+      ref="people.xml#bou04"> Boufflers</persName> est allé à <placeName ref="places.xml#par01"
+      >Paris</placeName> avec les plans de pacification de S. A. R. Grand bien leur fasse! les
+     paysans de <placeName ref="places.xml#fer01">Ferney</placeName> disaient de <persName
+      ref="people.xml#vol01">Voltaire</persName>: «C’est un homme d’esprit qui est bien bête»; j’en
+     connais bien d’autres dans ce cas. Ce <persName ref="people.xml#jon01"> Paul Jones</persName>
+     était une bien mauvaise tête et très digne d’être fêté par un ramas de têtes détestables. Il
+     est vrai que je n’ai jamais pris de la bouillie dans la bouche sur le compte des coquins qui
+     ruinent la <placeName ref="places.xml#fra01">France</placeName>, aussi n’ai-je pas peu
+     contribué à fair revenir l’<placeName ref="places.xml#eur01">Europe</placeName> à une façon de
+     penser opposée à celle de ces gueux-là.</p>
+    <p>Je n’ai besoin de personne à <placeName ref="places.xml#rom03">Rome</placeName>, et je suis
+     enchantée que <persName ref="people.xml#rei03"> Reiffenstein</persName> ne soit pas mort
+     encore. Le comte <persName ref="people.xml#est02"> Esterhazy</persName>, qui est ici à
+      <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, a reçu la lettre du maréchal de
+      <persName ref="people.xml#cas01"> Castries</persName> que vous m’avez envoyée; les souhaits de
+     celui-ci sont accomplis: le comte <persName ref="people.xml#rum01"> Roumianzof</persName> les
+     accompagnera. Des nouvelles qui demandent confirmation nous disent aujourd’hui comme si la
+     garde nationale de <placeName ref="places.xml#par01">Paris</placeName> avait mené le <rs ref="people.xml#lou01"> roi</rs> à
+      <placeName ref="places.xml#com01"> Compiègne</placeName>. J’ai reçu tout ce dont <persName
+      ref="people.xml#kom01"> Komarofski</persName> était chargé, et je l’ai fait enseigne aux
+     gardes.</p>
+   </div>
+   <div>
+    <opener><dateline> Се <date when-custom="1792-08-16">16 d’août</date>.</dateline></opener>
+    <p>Je reviens de ma colonnade où je me sais promenée entre les bastes de bronze qui y sont déjà
+     placés; or, si vous êtes curieux de savoir qui sont ces honnêtes gens, en voici le régistre que
+     je viens de faire pour vous, en me promenant. Vous ne sauriez croire quelles jolies idées donne
+     pareille compagnie; je m’y plais vraiment.</p>
+    <p><persName ref="people.xml#cae01"> Jules César</persName>.</p>
+    <p><persName ref="people.xml#ach01"> Achille</persName>.</p>
+    <p><persName ref="people.xml#cic01"> Cicéron</persName>.</p>
+    <p><persName ref="people.xml#fox01">Fox</persName>.</p>
+    <p><persName ref="people.xml#dem01"> Démosthène</persName>.</p>
+    <p><persName ref="people.xml#sen02"> Sénèque</persName>.</p>
+    <p>
+     <persName ref="people.xml#ovi01"> Ovide.</persName>
+    </p>
+    <p><persName ref="people.xml#sop03"> Sophocle</persName>.</p>
+    <p>
+     <persName ref="people.xml#the03"> Théocrite.</persName>
+    </p>
+    <p>
+     <persName ref="people.xml#her08"> Hérodote.</persName>
+    </p>
+    <p><persName ref="people.xml#her07"> Hercule</persName>.</p>
+    <p>
+     <persName ref="people.xml#car07"> Carnéade.</persName>
+    </p>
+    <p><persName ref="people.xml#lys01"> Lysias</persName>.</p>
+    <p><persName ref="people.xml#the04"> Théophraste</persName>.</p>
+    <p>
+     <persName ref="people.xml#pit03"> Pittacus.</persName>
+    </p>
+    <p><persName ref="people.xml#sap01"> Sapho</persName> et <persName ref="people.xml#pha02">
+      Phaon</persName>.</p>
+    <p><persName ref="people.xml#app01"> Apollon</persName>.</p>
+    <p>
+     <persName ref="people.xml#hom01"> Homère.</persName>
+    </p>
+    <p><persName ref="people.xml#pla01"> Platon</persName>.</p>
+    <p>Têtes de bronze, qui sont actuellement sur la colonnade de <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo</placeName>. Avec le temps il y en aura 82.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1792-08-26">26 d’août 1792</date>, à <placeName
+       ref="places.xml#tsa01">Tsarsko-Sélo</placeName>.</dateline></opener>
+    <p>Je viens de recevoir par le g-l Zoubof la lettre que M. le <rs ref="people.xml#gri01">
+      souffre-douleur</rs> a envoyée par les frères <persName ref="people.xml#liv01">
+      Livio</persName>; elle est de <placeName ref="places.xml#fra03"> Francfort</placeName> du 1
+     (12) d’août. Or cette lettre fait preuve que la solitude vous ennuie et ne vous rend pas
+     heureux, comme vous vous l’imaginiez, car à la première petite nouvelle qui vous arrive ne
+     voilà-t-il pas que votre tête est toute en l’air, et qu’il s’y fait une insurrection, selon le
+     style de mode dans l’aimable cité que vous avez été obligé de quitter. Or, de quoi vous
+     réjouissez-vous tant? est-ce de la fausse agression de <rs ref="people.xml#pon01"> S. M.
+      Pol.</rs> et de ce qu’il a été obligé de renoncer à son échafaudage du 3 de mai de l’année
+     passée? Nous avons des lettres qu’il a écrites à différents personnages, où il dit que son
+     accession est dans l’intention de nous tromper, et que jamais il ne renoncera sincèrement à son
+     ouvrage. Or cet ouvrage est contraire aux <rs ref="events.xml#pacta01"> pacta conventa</rs> qu’il
+     a jurés et par lesquels il a été fait roi par la <placeName ref="places.xml#rus01"
+      >Russie</placeName>, puisqu’il s’agit d’être sincère. Or, encore, tous nos traités sans
+     exception sont avec la republique. Je demandais cet hiver aux Polonais qui venaient ici:
+     «Qu’avez-vous fait de mon amie? Où la retrouverai-je? Rendez-la moi». Eux, ils ne savaient que
+     répondre. Sa <rs ref="people.xml#pon01"> Maj. Pol</rs>. a pris à tâche d’irriter, d’exciter sa
+     nation contre la <placeName ref="places.xml#rus01">Russie</placeName>, parce que la <placeName
+      ref="places.xml#rus01">Russie</placeName> aimait son ancienne amie, que <rs
+      ref="people.xml#pon01"> S. M</rs>. désirait de détruire. Ainsi épargnez vos illuminations
+     jusqu’à la fin de cette équipée qui n’est pas du tout finie. Pour votre homme qui veut devenir
+     directeur de mes jardins, vous voudrez bien lui dire que toutes les places sont données chez
+     nous, et qu’il ne serait pas juste de déplacer les gens dont on est content, pour en prendre
+     qu’on n’a pas l’honneur de connaître, et cela encore d’un pays qui n’est pas en bonne odeur
+     dans ce moment-ci dans aucun autre. Or donc, souffre-douleur, puisque vous vous en allez à
+      <placeName ref="places.xml#aix01"> Aix-la-Chapelle</placeName>; si vous en prenez les eaux, je
+     souhaite qu’elles vous fassent du bien. Si mes troupes viennent en <placeName
+      ref="places.xml#fra01">France</placeName>, je vous promets qu’elles n’en sortiront pas sans y
+     avoir fait bonne besogne, mais gi tout sera fini au mois de septembre, elles ne sauraient y
+     venir à temps. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

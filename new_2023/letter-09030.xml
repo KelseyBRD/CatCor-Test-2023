@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09030</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09030</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+            
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09030"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-06-20">1787 г. июня 20.</date>
+                </dateline>
+            </opener>
+            <p>С крайним удивлением услышала я, вышедши из за стола, что вы положили с <persName ref="people.xml#kre01">М. Н. Кречетниковым</persName> <date when-custom="1787-06-20">сегодня</date> еще быть комедии. Подобное положение, не доложась мне, не подобает делать; понеже о том, что мне угодно или не угодно, никто знать не может; а я в опекунстве ни чьем быть не желаю.</p>
+        </body>
+    </text>
+</TEI>

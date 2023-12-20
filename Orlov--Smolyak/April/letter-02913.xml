@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02913</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02913</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#southernprovinces"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-06">06/04/2021</date><persName>Olga Smolyak</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:28:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02913">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Вы увидите из пунктов, кои генерал <persName ref="people.xml#pot01"> Потемкин</persName> к вам
+    отправляет, в каком состоянии албанское дело и думаю, что многое вы на месте, откуда сии люди
+    поедут (то есть в <placeName ref="places.xml#ita01"> Италии</placeName>), лучше положить можете.
+     <placeName ref="places.xml#ker01"> Керчь</placeName> или <placeName ref="places.xml#yen01">
+     Еникале</placeName> весьма удобны быть <seg xml:lang="fr"> port franc</seg>, но около
+     <placeName ref="places.xml#ker01"> Керчи</placeName> и или <placeName ref="places.xml#yen01">
+     Еникале</placeName> земель к поселению мало, и в <placeName ref="places.xml#new02">
+     Новороссийской губернии</placeName> места к тому удобнее, в чем во всем ссылаюсь на то, что
+     <persName ref="people.xml#pot01"> Григорий Александрович</persName> к вам писать не оставить.
+    Сердечно сожалею о болезненных ваших припадках и желаю услышать о скором вашем совершенном
+    выздоровлении. Остаюсь к вам, как и всегда, доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed>
+   <dateline> <date when-custom="1775-03-23">Марта 23 ч. 1775 г.</date> Из <placeName ref="places.xml#mos01">Москвы</placeName>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

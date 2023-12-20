@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02960</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02960</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrebellion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-16">16/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:00:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02960">
+  <body>
+ 
+   <opener><dateline>Ce <date when-custom="1774-09-30">30 septembre 1774</date></dateline></opener>
+   <p>J’ai reçu ce fameux № 6 du 18 septembre, et je suis-fâchée de voir que vous prétendiez être le
+    seul homme au monde qui ait de la mémoire; je puis assurer monsieur l’encyclopédiste que j’en ai
+    aussi un tantinet, et que je me souviens très bien des courbettes prosternées du 18 septembre,
+     <seg xml:lang="de">welche der Herr Freiherr für gut gefunden hat herrlich
+     auszuführen</seg>.</p>
+   <p>A vous entendre parler du prétendu trouble que je parsème partout, l’on me prendrait pour le
+    marquis <persName ref="people.xml#pug01">Pougatchef</persName>; celui-ci, soit dit en passant, va tout droit à la potence, à
+    votre grande satisfaction, n’est-ce pas? Pour le coup, le marquis est pris, garrotté <seg
+     xml:lang="de">und scharf geschloßen</seg>.</p>
+   <p>Vous voilà bien enflé de vanité de ce que je vous ai dit que vous aviez le talent du
+    développement; cependant il n’en sera ni plus ni moins. Il me semble que depuis que vous vous
+    rapprochez de <placeName ref="places.xml#par01">Paris</placeName>, vous commencez déjà à me critiquer; ne voilà-t-il pas que
+    vous trouvez à redire à mes Te Deum? Les louanges de Dieu vous fâchent, je sais bien pourquoi,
+    mais je n’ai garde de le dire.</p>
+   <p>Le <rs ref="people.xml#lud02">- jeune homme</rs> dont vous me parlez et que vous me priez de
+    dissuader de retourner chez lui, jusqu’ici n’en marque aucune envie, mais s’il l’avait, je vous
+    avertis que je ne l’en dissuaderais pas. Il y a bien des choses à dire: pendant la campagne l’on
+    prétend que les liqueurs fortes faisaient son principal amusement, et je vous avertis que cela
+    ne lui a pas fait grand bien chez nous. Mais motus, s’il vous plaît. 
+    <seg xml:lang="de">Der Apfel fällt nicht weit vom Stamm</seg>. Pour ce qui
+    regarde <rs ref="events.xml#marri03">le  mariage</rs> dont vous me parlez, je m’y
+     intéresserai: vous me donnez là une vraie occupation de vieille. Donnez, s’il vous plaît, les
+    questions ou bien les réponses aux <rs ref="works.xml#questi01"> questions de Socrate</rs> au
+     <persName ref="people.xml#hen02"> prince Henri</persName>.
+    J’espère de voir ce prince à <placeName ref="places.xml#mos01">Moscou</placeName>, où je m’en vais cet hiver. J’ai reçu une
+    longue pancarte de <persName ref="people.xml#did01">Diderot</persName>, à laquelle il faudra répondre. Saluez-le de ma part,
+    je vous prie. Ecoutez, j’ai mal pris mon temps pour vous répondre, car on m’interrompt à tout
+    moment. </p>
+   <closer><signed rend="inline">Adieu, <seg xml:lang="de">herr Freiherr, ein
+     andermahl mehr, für heute ist es genung</seg> ; aussi bien, à <placeName ref="places.xml#par01">Paris</placeName> vous n’avez
+    pas besoin d’aussi longues lettres qu’en chemin.</signed></closer>
+  </body>
+ </text>
+</TEI>

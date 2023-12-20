@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01126</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01126</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-02"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-08"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01126">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p> О болезни <persName ref="people.xml#pau01">Великаго Князя</persName> я сожалею, и
+                желаю, чтоб он скорее выздоровелъ; <persName ref="people.xml#sim01"
+                    >Симолиново</persName> письмо оставила я до завтра у себя для того, что оно
+                велико, а мне лень теперь читать, се ж и в комедию пора. О надевании траура на
+                восемь дней я Церемониймейстеру прикажу, когда он сюда будет.</p>
+            <closer rend="inline">В прочем, желаю Вам здравствовать. <signed><persName
+                        ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1765-04-26">26 Апреля, 1765.</date>
+                    <placeName ref="places.xml#tsa01">Царское Село.</placeName></dateline></closer>
+        </body>
+    </text>
+</TEI>

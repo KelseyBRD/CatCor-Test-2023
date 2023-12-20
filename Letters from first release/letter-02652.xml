@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02652</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02652</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#godchildren"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-16">16 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02652">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#kaz01">à Casan</placeName>, <date
+                                when-custom="1767-05-27">ce 27 Mai 1767</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> L'évènement de l'heureuse <rs type="event" ref="events.xml#birth01"
+                            >naissance</rs> de la <rs ref="people.xml#fri09">princesse</rs>, dont
+                        madame <persName ref="people.xml#eli01">la princesse de Prusse</persName>
+                        vient d'accoucher, et que Votre Majesté a bien voulu m'apprendre par sa
+                        lettre du 12 Mai, en est un que je saisis avec empressement, non seulement
+                        pour en féliciter Votre Majesté, mais encore pour lui témoigner qu'il ne
+                        peut rien lui arriver ni à sa maison que je ne m'y intéresse sincèrement,
+                        c'est en conséquence de ces sentiments d'amitié que Votre Majesté me connaît
+                        depuis longtems que j'accepte volontiers le titre de marraine de la jeune
+                        princesse, conformément aux désirs de <persName ref="people.xml#fri03">M. le
+                            prince de Prusse</persName> et de <rs ref="people.xml#eli01">madame son
+                            épouse</rs> et c'est avec d'autant plus de plaisir, que je vois renaître
+                        en eux les mêmes dispositions pour moi, dont je fais un si grand cas de la
+                        part de Votre Majesté. Je ne puis cependant m'empêcher de plaindre la jeune
+                            <rs ref="people.xml#fri09">princesse ma filleule</rs>, de ce qu'elle va
+                        porter un nom aussi peu harmonieux que le mien.<note type="editorial">Full
+                            stop added for comprehension, absent from source text.</note> A tout ce
+                        que Votre Majesté a jugé à propos d'ajouter de flatteur au sujet des <rs
+                            ref="works.xml#nakazk01">nouvelles lois</rs>, que je m'en vais tâcher
+                        d'établir en <placeName ref="places.xml#rus01">Russie</placeName>, je ne
+                        puis Lui répondre que par une comparaison, guère noble peut être mais très
+                        vraie, qui est que quand un habit est devenu court et étroit, communement
+                        l'on en fait un nouveau; l'<rs ref="works.xml#biblea01">Evangile</rs> dit
+                        qu'un habit rapiéceté ne vaut rien.<note type="editorial">In Mark 2:21 and
+                            Matthew 9:16.</note> Voilà le cas de la <placeName
+                            ref="places.xml#rus01">Russie</placeName>. Si ces nouvelles lois seront
+                        meilleures que les anciennes, ce sera encore par la raison que les derniers
+                        venus ont l'avantage de l'expérience et des lumières sur leurs devanciers,
+                        je n'ai donc en tout ceci d'autre part que celle par hazard du bonheur de ma
+                        situation, j'en appelle au jugement éclairé de Votre Majesté, </p>
+                    <closer>
+                        <signed>étant avec la plus haute estime et la considération la plus
+                            distinguée, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            fidèle Alliée
+                        <persName type="signature" ref="people.xml#cat01" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

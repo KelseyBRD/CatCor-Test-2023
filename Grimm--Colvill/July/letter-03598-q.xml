@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03598</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03598</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is one small bit in German that I was unsure about as it was difficult to read in the
+     old text. It looks like it might say „ furz Galon“ but that doesn’t seem quite right.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-11">11-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-07-13T11:25:23Z</date><name>Kelsey B Rubin-Detlev</name></change>
+   <change><date when="2021-07-13">13-07-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03598">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1783-04-19">19 avril 1783</date>, à sept heures du matin, jour où on a emporté
+     toutes mes paperasses, parce que je pars pour <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo;</placeName> chemin faisant j’ouvre le chapitre de <orgName ref="orgs.xml#geor01"
+      > St George</orgName> à <placeName ref="places.xml#che02"> Tchesma</placeName> en présence de
+     la très redoutable écritoire dont jadis vous eûtes tant d’étouffements.</dateline></opener>
+   <p>Vous voyez que je n’ai rien de mieux à faire qu’à écrire à <rs ref="people.xml#gri01">
+     souffre-douleur</rs>, <seg xml:lang="it"> ma</seg> Dieu sait quand cela partira. D’abord je me
+    suis mise à lire votre commentaire sur les 41 pages, et je vois que je n’ai rien de plus
+    empressé à faire qu’à vous avertir que vous êtes menacé d’un déloge pire que tous ceux qui ont
+    pensé vous noyer dans les paperasses. Vous allez tressaillir de peur lorsque vous entendrez
+    qu’on traduit en allemand pour vous la première époque de l’histoire de la <placeName
+     ref="places.xml#rus01"> Russie</placeName>, c’est-à-dire depuis la création du monde jusqu’à
+    l’année 862. Elle contient une quarantaine de pages, à elle seule, cela fait partie de la
+    bibliothèque <persName ref="people.xml#ale01"> Alexandre</persName>- <persName
+     ref="people.xml#kon01"> Constantine</persName>: faut donc que <rs ref="people.xml#gri01">
+     souffre-douleur</rs> la possède; outre cela M. <title ref="works.xml#feveyo01"> Fevey</title>
+    va se présenter à votre excellence littéralement traduit en français, comme vous le désirez;
+    peut-être la seconde époque, deux fois au moins plus ample que la première, sera-t-elle achevée
+    et traduite avant le départ de cette pancarte. Si ce malheur arrive, vous n’en aurez qu’une au
+    lieu de deux: vous les recevrez ensemble. Cette seconde époque commence à l’année 862 et finit à
+    la moitié du douzième siècle; tout cela a été bâclé dans trois mois de temps on à peu près; cela
+    fera antidote aux gredins qui dégradent l’histoire de <placeName ref="places.xml#rus01">
+     Russie</placeName>, comme le médecin <persName ref="people.xml#lec03"> Le Clerc</persName> et
+    le précepteur L’Evêque, qui sont des bêtes, ne vous en déplaise, et des bêtes ennuyeuses et
+    dégoûtantes. Je vous demande excuse d’avance pour tout ce fatras; il ne dépend que de vous de le
+    jeter au feu, et d’en faire autant des trois dernières époques qui suivront les deux premières
+    immédiatement, car en tout il y en aura cinq. Vous direz que Sa Majesté devient un aussi
+    ennuyeux qu’insipide personnage: comment faire? chacun prend le ton et l’esprit de son état ;
+    tel est le mien ; ne plaignez-vous pas aussi mes marmots d’avoir à digérer d’aussi gros
+    morceaux? En attendant ils se sont mis à apprendre, à écrire et à dessiner; les maîtres
+     d’<persName ref="people.xml#ale01"> Alexandre</persName> disent qu’il fait des progrès
+    étonnants pour son âge, que les autres enfants fuient leurs maîtres et que lui il trouve qu’il
+    n’est jamais assez longtemps avec eux; mais ils ont grand soin, eux, à se retirer au moment
+    marqué. Nous avons découvert, cet hiver, en M. <persName ref="people.xml#ale01">
+     Alexandre</persName> un singulier désir: un jour il prit dans un coin une de mes femmes avec
+    laquelle il aime à tripoter, et la pria instamment de lai dire à qui il ressemblait ; elle lui
+    dit qu’il paraissait avoir les traits de sa <rs ref="people.xml#mar02"> mère</rs>. Ce n’est pas
+    cela, dit-il, que je demande: mon humeur, mes manières à qui ressemblent-t-elles? Cette femme
+    lui dit: «Mais en cela vous pourriez bien ressembler plus à <rs ref="people.xml#cat01"
+     >grand’maman</rs> qu’à tout autre».—Ah, dit-il, voilà ce que je voulais savoir, et il se jette
+    au coup de cette femme pour l’embrasser de ce qu’elle lui avait dit.</p>
+   <p>Le général <persName ref="people.xml#lan02"> Lanskoï</persName> vous prépare un ballot à lui,
+    qui remplira un coin de votre appartement. <persName ref="people.xml#bro04"> Brompton</persName>
+    est mort sans avoir achevé le portrait commencé. Mais vous verrez que le choix du g-l <persName
+     ref="people.xml#lan02"> Lanskoï</persName> n’est pas mauvais. Dieu sait où il a été déterrer
+    cela: il rôde dans tous les ateliers tous les matins, et il a des souffre-douleur à lui qu’il
+    fait travailler comme des forçats; je crois qu’il y a dans ma galerie plus d’une demi-douzaine
+    qu’il fait enrager tons les jours. L’un, il l’appelle <seg xml:lang="de"> Bruder</seg>, et
+    chacun des autres a son épithète, mais je voudrais jurer qu’il ignore leurs noms, car jamais je
+    n’ai vu personne qui ait à sa disposition, à point nommé, des noms qu’on jurerait être celui de
+    la personne, tandis qu’il ne sait presque jamais celui de la personne ou des personnes qu’il ne
+    connaît pas très particulièrement.</p>
+   <p>A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce 20 avril, à sept heures du
+    matin. Le chapitre de <orgName ref="orgs.xml#geor01"> St George</orgName> est entré hier en
+    ménage avec un capital de deux cent soixante mille roubles, que monsieur le grand-maître a eu le
+    soin de ramasser indépendamment du revenu de l’ordre. Après cet exploit je suis venue ici, où
+    m’attendait la très triste nouvelle du décès du prince <persName ref="people.xml#orl01">
+     Orlof</persName>, mort à <placeName ref="places.xml#mos01"> Moscou</placeName> la nuit du 12 au
+    13 de ce mois. Quoique très préparée à cet événement douloureux pour, moi, je vous avoue que
+    j’en ressens l’affliction la plus vive: je perds en lui un ami et l’homme du monde auquel j’ai
+    les plus grandes obligations et qui m’a rendu les services les plus essentiels. On a beau me
+    dire et je me dis à moi-même tout ce qu’on peut dire en pareille occasion: des bouffées de
+    sanglots sont ma réponse, et je souffre terriblement depuis l’instant que j’ai reçu cette fatale
+    nouvelle; le travail seul me distrait, et comme je n’ai point mes papiers, je vous écris pour me
+    soulager. Le g-l <persName ref="people.xml#lan02"> Lanskoï</persName> se met en quatre pour
+    m’aider à supporter ma peine, mais tout cela m’attendrit encore pins. Il y a une singularité
+    dans ce décès du prince <persName ref="people.xml#orl01"> Orlof</persName>: c’est que
+     le <persName ref="people.xml#pan01"> comte Panine</persName> est mort quatorze à quinze jours
+    avant lui et qu’aucun des deux n’a su la mort de l’autre. Ces deux hommes, continuellement
+    d’avis contraire, ne s’aimant point du tout, se seront fort étonnés en se revoyant dans l’autre
+    monde. Il est vrai que l’eau et le feu ne font guère un plus grand contraste; j’ai été bien des
+    années avec ces deux conseillers pendus à mes oreilles, et les choses pourtant allaient et
+    allaient grand train, <seg xml:lang="it"> ma</seg> souvent fallait faire comme sire <persName
+     ref="people.xml#ale01"> Alexandre</persName> avec le noeud gordien, et alors les avis se
+    réunissaient. La hardiesse de l’esprit de l’un et la prudence mitigée de l’autre et votre très
+    humble servante faisant le <seg xml:lang="de"> furz Galon</seg> entre eux, donnaient une grâce
+    et une élégance aux choses qui ne se mouchaient pas du pied. Vous me direz: comment faire
+    présentement? A cela je vous répondrai : «comme nous pourrons». Chaque pays fournit toujours les
+    gens nécessaires pour les choses, <seg xml:lang="de"> und da Alles in der Welt menschlich ist,
+     so können denn Menschen auch damit fertig werden</seg>. Le génie du prince <persName
+     ref="people.xml#orl01"> Orlof</persName> était très vaste; son courage était, je crois, le non
+    plus ultra du courage; il lui venait au moment le plus décisif précisément à l’esprit ce qu’il
+    fallait pour décider la chose du côté où il la voulait tourner, et à point nommé il lui prenait,
+    quand cela était nécessaire, une éloquence d’une force à laquelle personne ne résistait, parce
+    qu’elle mettait les esprits des autres en suspens et qu’il n’y avait que lui qui ne l’était
+    jaimais. Avec ces grandes qualités il avait peu de suite pour tout ce qui ne lui paraissait pas
+    le mériter, et peu de choses lui paraissaient dignes de cet honneur, ou plutôt de cette peine,
+    car c’en était une pour lui; cela le faisait paraître négligeant et méprisant plus qu’en effet
+    il ne l’était; la nature l’avait gâté, et pour tout ce qui ne lui venait dans l’esprit à la
+    minute il devenait paresseux. Le c<hi rend="superscript">te</hi> <persName
+     ref="people.xml#pan01"> Panine</persName> était naturellement paresseux, et cette paresse il
+    avait l’art de la faire passer pour prudence méditée; son naturel n’était ni aussi bon, ni aussi
+    franc que celui du pr. <persName ref="people.xml#orl01"> Orlof</persName>, mais il avait plus de
+    monde et savait mieux cacher ses défauts et ses vices, et il en avait de grands.</p>
+   <p>Ce 28 d’avril 1783. Le <rs ref="people.xml#bez01"> seigneur factotum</rs> m’a annoncé hier que
+    pancarte soit prête dans trois jours; hâtons-nous donc. D’abord, selon vos ordres très exprès,
+    voilà <title ref="works.xml#feveyo01"> Fevey</title> traduit dans un baragouin inintelligible,
+    et cela par votre propre faute, parce que vous avez voulu l’avoir traduit littéralement en
+    français. Si le <rs ref="people.xml#bez01"> seigneur factotum</rs> n’était pas si pressé, je
+    vous enverrais copie de la première époque de l’histoire de <placeName ref="places.xml#rus01">
+     Russie</placeName> traduite en allemand, et je suis très curieuse de savoir votre avis sur ce
+    morceau dont quelconque la la m’a paru très content; on la transcrit, mais je doute qu’elle sait
+    prête au départ de ceci.</p>
+   <p>Aujourd’hui <persName ref="people.xml#ale01"> Alexandre</persName> est venu de rechef demander
+    un livre; voilà un liseur déterminé; je lui ai fourré entre les mains le livre des lectures des
+    écoles normales au plus vite pour m'en défaire, et je lui ai donné l’espérance d’avoir la
+    première époque de l’histoire de <placeName ref="places.xml#rus01"> Russie</placeName>. <seg
+     xml:lang="de"> Das ist stark, und das wird sehr klug und dabei so lustig, und das fünfte Wort
+     ist immer die <rs ref="people.xml#cat01">Groß-mutter</rs>, denn wenn man ihn thun lässe, so würde er
+     sich schon lange in meine Kammer einquartirt haben.</seg>
+    <seg xml:lang="it">Ma basta</seg>, il ne faut pas vous ennuyer de notre ménage, qui est fort
+    plaisant et qui amuse bien du monde. </p>
+   <p>Mais écoutez donc, il ne faut pas que vous soyez malade, et quand vous l’êtes, vous faites
+    bien de vous défaire de maladie comme moi, sans y ajouter un mal ou un médecin: mal et médecin
+    sont devenus synonymes chez moi. Ces diables de gens m’ont fait mourir bien des fois; du moins
+    n’ont-ils guéri personne; aussi ai-je pensé avoir, il y a deux mois, une fièvre chaude: pendant
+    sept jours j’ai été au lit, ma pas un Esculape n’a passé le seuil de ma porte.</p>
+   <p>Vous avez très bien fait de ne point laisser partir <persName ref="people.xml#sty01">
+     Stix</persName> sans missive: aussi m’a-t-il remis lui-même ses paquets. Voilà une année de
+    peine: ces désastres de la <placeName ref="places.xml#cal03"> Calabre</placeName> sont affreux,
+    et cela ne finit pas: tout jour de poste nous apporte des nouvelles qui aggravent ce malheur. Je
+    vous assure que non seulement une partie de ces proverbes que je vous ai envoyés traduits
+    existent originairement en russe, mais tous sans exception ils ont été tirés d’un livre imprimé
+    en russe qui en contient quatre mille et quelques centaines: donc il y en a encore de tout aussi
+    bons. Vous ferez de <title ref="works.xml#feveyo01"> Fevey</title> tout ce que bon vous
+    semblera; vous le brûlerez ou le soignerez; je ne vous défends pas même l’impression, pourvu que
+    vous n’y mettiez point mon nom; vous en gratifierez qui vous voudrez, et vous rembourserez les
+    frais d’impression si vous avez de mon argent. La médaille viendra après, mais surtout donnez le
+    premier exemplaire à <persName ref="people.xml#bue01"> Emilie</persName>, qui le désire.</p>
+   <p><seg xml:lang="de"> Der Herr <persName ref="people.xml#abd01"> Abdul Hamet</persName> der
+     macht mir Streiche; er hat lassen den <placeName ref="places.xml#kub01"> Kuban</placeName> und
+     die <placeName ref="places.xml#tam01"> Insel Taman</placeName> einnehmen und hat alle Einwohner
+     für seine Unterthanen erkläret; dieses ist nun eine unerträgliche Sache und allen Bündnissen
+     zuwider: das ist unmöglich das ich mir sollte auf die Rase spielen lassen</seg>. Vous savez que
+    jamais allemand n’a souffert cela et que c’est la chose du monde dont il a le plus de soin que
+    son nez. Ceci absorbe mon attention, et je ne puis vous parler pape ni Antéchrist, ni <persName
+     ref="people.xml#cha09"> roi</persName> d’<placeName ref="places.xml#spa01">
+    Espagne</placeName>, ni bâtard, ni <persName ref="people.xml#gui01"> Guiméné</persName>, ni
+    jésuite aujourd’hui, ni même grands faiseurs sous <persName ref="people.xml#geo02"> George
+     III</persName>, qui a été deux mois sans ministère et gouvernement, comme moi malade sans
+    médecin: que savez-vous, peut-être les choses n’en allaient-elles que mieux? Je vous suis bien
+    obligée de ce que vous avez écrit au sujet de <persName ref="people.xml#rum03"> M. de St
+     Nicole</persName>; c’est vraiment un brave et honnête homme. Ne voilà-t-il pas mes marmots qui
+    viennent sauter dans ma chambre? Je les ai envoyés courir au jardin. Je n’ai point d’argent pour
+    acheter présentement des tableaux. M. le procureur-général aura moins d’étouffements que jamais,
+    puisque je lui ai donné ces jours-ci un petit corroboratif pécuniaire, contre ma louable coutume
+    qui ne lui faisait avaler ces huit ans passés que des laxatifs. J’espère que M. <persName
+     ref="people.xml#sut01"> Sutherland</persName> est payé des dix milles livres que vous avez
+    tirées sur lui. Factotum prétend qu’il vous a fait parvenir des fonds. Adieu, adieu, faut que je
+    finisse.</p>
+   <p>Ce 29 d’avril. Commentaire sur les lettres apostoliques du <rs ref="people.xml#rei03">
+     divin</rs>. J’espère que l’école d’<placeName ref="places.xml#ath01"> Athènes</placeName>,
+    soigneusement colorée chez <persName ref="people.xml#vol03"> Volpata</persName> et bien
+    enchâssée dans un étui de fer-blanc, vous est heureusement arrivée par les mains du chevalier
+     <persName ref="people.xml#rib01"> Ribas</persName>, que <rs ref="people.xml#rei03"> divin</rs>
+    a trouvé très charmant et dont il indique parfaitement la marche-route par <placeName
+     ref="places.xml#ven01"> Venise</placeName>, <placeName ref="places.xml#vie01">
+     Vienne</placeName>, <placeName ref="places.xml#par01"> Paris</placeName> etc. etc. etc. Ce
+    n’est pas faute divine si vous ne l’avez pas trouvé aussi aimable dans vos entrevues amicales
+    par votre propre expérience cordiale; lui il se faisait une fête de vous lier étroitement par
+    une visite. Ah, qu’il est aimable ce ch. <persName ref="people.xml#rib01"> Ribas</persName>! <rs
+     ref="people.xml#rei03"> Divin</rs> ne peut le quitter; il l’aime encore plus que les éminences
+     <persName ref="people.xml#ber03"> Bernis</persName>, <persName ref="people.xml#rez01">
+     Rezonico</persName> etc. Oh! il ne le quitte pas même à la seconde page ; cependant il sent sa
+    plolixité, à ce qu’il dit.</p>
+   <p>Qui est cette madame la princesse qui ne veut faire souffrir personne? Ah, qu’elle est bonne!
+    Morgué, je pense que c’est ma <rs ref="people.xml#das01"> directrice</rs>; je jure qu’elle n’a
+    pas nommé son nom depuis qu’elle a son Académie en tête et en face. Le <rs
+     ref="people.xml#rei03"> divin</rs> a mouché sa lampe, mais pourquoi se sert-il de lampe? Est-ce
+    qu’il n’est pas permis d’avoir bougie tout comme lampe aux images? Les médaillons à trois
+    sequins sont à bon marché; n’oubliez pas de mettre an verre one couleur brune transparente. Mais
+    à propos, j’ai oublié moi que vous m’avez dispensée de commenter. Je laisse là les chemises de
+    la <persName ref="people.xml#clo01"> reine</persName> de <placeName ref="places.xml#sar02">
+     Sardaigne</placeName> pour la miniature qui représente la tranquillité; cela est charmant; je
+    vous prie de me dire ce que c’est qu’<hi rend="italic">obtruder</hi>; je n’entendu point cette
+    expression divine à propos de la grande dame dont <rs ref="people.xml#rei03"> divin</rs> craint
+    tant le chipotage, <seg xml:lang="it"> ma</seg> elle n’a pas le temps de tripoter, ayant un gros
+    morceau dans la bouche qui tient les mâchoires en respect. <seg xml:lang="de"> Die Weltweisheit
+     sperrt wohl das Maul einmal auf, aber sie hindert dem Wörtervortrag gewaltig</seg>. Maître <rs
+     ref="people.xml#rei03"> divin</rs> est un grand emballeur, à ce qu'il paraît par tout ce qu’il
+    a fait au sujet de la miniature, dite Tranquillité. Je n’achète plus rien, mais quand est-ce que
+    j’aurai le livre de l’abbé <persName ref="people.xml#gal05"> Galiani</persName>? Je suis fâchée
+    qu’il fait cas de l’abbé <persName ref="people.xml#mab01"> Mably</persName>, qui en sait
+    infiniment moins que le moindre employé de la <seg xml:lang="de"> allgemeine Deutsche
+     Bibliothek</seg>. Oh! comme toutes ses gens-là y sont accommodées ! Je suis fâchée de la
+    maladie de <persName ref="people.xml#did01"> Diderot</persName>. Mais dites-moi un peu, qui
+    pourra lire cinquante deux volumes des oeuvres de <persName ref="people.xml#vol01">
+     Voltaire</persName>? il faudra en faire une bibliothèque à part. Quand elle paraîtra, achetez
+    en de ma caisse deux exemplaires pour <persName ref="people.xml#wag02"> Wagnière</persName>, et
+    envoyez-les lui de ma part, et dites lui que dans l’un il marque ce qui est vrai et ne l’est
+    pas, et qu’il me l’envoie. Le comte <persName ref="people.xml#sal01"> Soltikof</persName> m’a
+    remis les paquets dont vous l’aviez chargé. Le g-l <persName ref="people.xml#lan02">
+     Lanskoï</persName> vous fait dire qu’il n’a rien à vous envoyer, et il m’a grondée comme quatre
+    de vous avoir dit qu’il préparait ballot pour vous; il dit que cela est faux, que j’ai mal
+    entendu; en un mot, il nie cela; à présent devinez si vous aurez ou n’aurez pas ; ce qu’il
+    y a de sûr, c’est que cette fois-ci vous êtes dispensé de déballer ce que vous n’aurez pas.</p>
+  </body>
+ </text>
+</TEI>

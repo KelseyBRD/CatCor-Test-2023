@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter-00082</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>CatCor Project</authority>
+            <idno type="CatCor">letter-00082</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+         </notesStmt>
+         <sourceDesc>
+            <p>CatCor v1</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords n="foreignPolicy">
+               <term target="kw.xml#ottomanempire"/>
+               <term target="kw.xml#france"/>
+               <term target="kw.xml#austriaholyromanempire"/>
+               <term target="kw.xml#prussia"/>
+               <term target="kw.xml#greatbritain"/>
+            </keywords>
+            <keywords n="personal">
+               <term target="kw.xml#favourites"/>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="ru">Russian</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date when="2013-09-11">11 September 2013</date>
+            <name>James Cummings</name>
+            <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+         </change>
+         <change>
+            <date when="2014-03-08">8 March 2014</date>
+            <name>Stephen Ashworth</name>
+            <p>Initial markup - not yet including tagging names, places etc.</p>
+         </change>
+         <change>
+            <date when="2014-04-05">5 April 2014</date>
+            <name>Kelsey Rubin-Detlev</name>
+            <p>Further markup, tagging, metadata, translation.</p>
+         </change>
+         <change>
+            <date when="2014-02-05">2 May 2014</date>
+            <name>Kelsey Rubin-Detlev</name>
+            <p>Themes, additional annotation.</p>
+         </change>
+         <change>
+            <date when="2021-03-29">29 March 2021</date>
+            <name>HD|DH</name>
+            <p>Made encoding consistent with new release.</p>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text type="letter" xml:lang="ru" xml:id="letter-00082">
+            <body>
+               <opener><dateline><date when-custom="1789-04-22">Апреля 22 дня,
+                     1789</date></dateline></opener>
+               <p>Подношу здесь <persName ref="people.xml#bul01">Булгакова</persName> письмо.<note
+                     type="editorial">The letter, dated 21 January (1 February) 1789 from the prison
+                     of the Seven Towers, can be found in <bibl><title level="a"
+                           ref="works.xml#pismay01">'Pisma Ya.I. Bulgakova k knyazyu
+                           Potemkinu'</title>, <biblScope unit="pp">columns
+                        1577-87</biblScope>.</bibl>
+                     <ref target="people.xml#bul01">Bulgakov</ref> provided a translation of a plan
+                     for the next campaign against the Russians, composed and submitted to the
+                     Ottomans by the French ambassador in <ref target="places.xml#ist01"
+                        >Constantinople</ref>, <ref target="people.xml#cho02"
+                        >Choiseul-Gouffier</ref>.</note> Тут изволишь увидеть, в каких руках наши
+                  интересы. Они были наши враги и навсегда будут.</p>
+               <p hand="people.xml#cat01">авномерно и пруссаки, как то доказал <name
+                     ref="events.xml#focsa01">Фокшанский конгресс</name> и <rs type="event"
+                     ref="events.xml#turki02">нынешняя война</rs>.</p>
+               <p hand="people.xml#pot01">обивался <rs ref="people.xml#cob02">цесарский посол</rs>
+                  иметь число наших войск. Не прикажите ему давать, а сказать, что я сообщу, будучи
+                  сам на месте. Здесь <persName ref="people.xml#seg01">Сегюр</persName> узнает, а
+                  они все туркам рады показать, лишь бы снискать их милость.</p>
+               <p hand="people.xml#cat01">а и агличане и пруссаки не менее же нам вражествуют, да
+                  сии сверх того ныне; на ипаче же пруссаки, враги особы <persName
+                     ref="people.xml#cat01">Екатерины II</persName> и где могут умалять ея славу и
+                  честь и отвратить от нее умы и сердца, тут не оставят приложить труда, а естьли
+                  сыскать могут, кто бы ее убил, то и сие не оставят.</p>
+            </body>
+         </text>
+         <text type="translation" xml:lang="en">
+            <body>
+               <opener><dateline><date when-custom="1789-04-22">22nd day of April,
+                     1789</date></dateline></opener>
+               <p>I present herewith Bulgakov's letter. Be pleased to see in whose hands our
+                  interests are. They were our enemies and always will be.</p>
+               <p hand="people.xml#cat01">o too are the Prussians, as the congress at Fokshani and
+                  the present war show.</p>
+               <p hand="people.xml#pot01">he imperial ambassador tried to find out how many troops
+                  we have. Do not let him know it, but rather say that I will tell him when I
+                  arrive. Ségur will find out here, but they are glad to show the Turks everything,
+                  just to get their favour.</p>
+               <p hand="people.xml#cat01">he English and the Prussians are no less inimical to us,
+                  and the latter more so today. Chiefly the Prussians, enemies of Catherine II's
+                  person, when they can belittle the glory and honour and turn hearts and minds away
+                  from her, they will not fail to make the effort. And if they can find someone to
+                  kill her, they will not fail to do that too.</p>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>

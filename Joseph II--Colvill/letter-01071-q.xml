@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01071</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01071</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify the Pacha of Akalzik.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:23:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01071">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1786-08-10">10 d’août 1786</date>.</dateline></opener>
+   <p>Monsieur mon frère. Il est connu de V. M. I. que les <orgName ref="orgs.xml#lezg01">
+     Lesgy</orgName> ont récemment fait des incursions en <placeName ref="places.xml#geo01">
+     Géorgie</placeName>, et qu’ils y ont été appuyés par les secours du Pacha <placeName
+     ref="places.xml#aka01"> d’Akalzik</placeName>.</p>
+   <p>Je n’ai pu envisager avec indifférence une démarche si ouvertement hostile contre un pays
+    soumis à ma protection. La punition du Pacha moteur de ces troubles m’a paru nécessaire et
+    indispensable ; je l’ai exigée de la <placeName ref="places.xml#ott01">Porte</placeName> comme
+    le seul moyen capable d’en imposer à ses propres officiers, et de constater en même temps son
+    envie sincère de conserver la paix. Mais l’esprit de vertige qui gouverne dans ce moment-ci le
+    ministère Ottoman, ne lui a pas permis de prendre un parti sage et modéré. Il s’est refusé à ma
+    proposition et a changé même de langage au point, qu’au lieu de se rejeter comme ci-devant sur
+    le défaut absolu d’ordres donnés de sa part pour assister les <orgName ref="orgs.xml#lezg01">
+     Lesgy</orgName>, et sur l’innocence du Pacha <placeName ref="places.xml#aka01">
+     d’Akalzik</placeName>, il fait semblant de vouloir maintenant contester jusqu’à mes droits de
+    protection sur le <persName ref="people.xml#her03"> prince de <placeName ref="places.xml#geo01">Géorgie</placeName></persName>
+    et ses sujets.</p>
+   <p>Dans ces conjonctures ma confiance sans bornes en V. M. I. et l’amitié intime qui nous lie,
+    m’engagent à m’ouvrir à Elle sur les mesures que j’ai jugées à propos de prendre pour maintenir
+    d’un côté ma dignité et pour mettre de l’autre un frein à toutes les tentatives ultérieures de
+     la <placeName ref="places.xml#ott01">Porte</placeName> pour envahir et inquiéter les frontières
+    de mon <placeName ref="places.xml#rus01">Empire</placeName>.</p>
+   <p>J’ai fait déclarer par <rs ref="people.xml#bul01"> mon ministre</rs> à <placeName
+     ref="places.xml#ist01">Constantinople</placeName>, qu’en demandant la punition du Pacha susdit,
+    je n’avais eu d’autre but que de donner une nouvelle preuve convaincante à la <placeName
+     ref="places.xml#ott01">Porte</placeName> du désir que j’ai d’entretenir la bonne harmonie avec
+    elle; qu’elle môme aurait dû sentir qu’une pareille démonstration de sa part devenait nécessaire
+    pour statuer un exemple, tandis qu’il répugnait à mon humanité d’achever la disgrace de son
+    officier coupable, et que j’aurais été la première à demander son pardon à la <placeName
+     ref="places.xml#ott01">Porte</placeName>, mais puisqu’elle était si peu entrée dans ces vues,
+    je n’hésitais point à les abandonner de mon côté, en la rendant toutefois responsable des
+    mauvaises conséquences qui pourront s’ensuivre, et qui me paraissaient d’autant plus inévitables
+    que j’étais fermement résolue de ne point retirer à la <placeName ref="places.xml#geo01">
+     Géorgie</placeName> la protection que je lui avais accordée, et de repousser en général toute
+    attaque directe ou indirecte que la <placeName ref="places.xml#ott01">Porte</placeName> serait
+    dans le cas d’entreprendre contre quelqu’un des pays soumis à l’<placeName
+     ref="places.xml#rus01">Empire</placeName> de <placeName ref="places.xml#rus01"
+     >Russie</placeName>.</p>
+   <p>En meme temps je dois informer V. M. I. que la Cour de <placeName ref="places.xml#ver01"
+     >Versailles</placeName>, dans l’intention apparemment de prévenir les suites sérieuses que la
+    présente contestation pourrait entraîner, m’a offert ses bons offices pour la terminer à
+    l’amiable. J’ai enjoint à mon ministre <persName ref="people.xml#bul01"> Boulgakof</persName> de
+    communiquer à l’ambassadeur de <placeName ref="places.xml#fra01">France</placeName> les
+    dernières insinuations qu’il a eu ordre de faire en mon nom à la <placeName
+     ref="places.xml#ott01">Porte</placeName>, et de lui donner outre cela a connaître que, pour
+    prouver toute ma modération dans cette affaire, je me contenterai que la <placeName
+     ref="places.xml#ott01">Porte</placeName> envoyât un exprès sur les lieux où les dites
+    incursions se sont faites, pour prescrire, à tous les commandants turcs établis dans ces
+    parties, de s’en abstenir dorénavant, au risque d’encourir la disgrace du Grand-Seigneur et les
+    châtiments les plus sévères, mais que j’entendais que ce fût l’ambassadeur lui-même qui en
+    suggérât l’idée à la <placeName ref="places.xml#ott01">Porte</placeName>, puisqu’après avoir une
+    fois déclaré à celle-ci ma ferme résolution de vouloir protéger la cause de mes sujets, j’avais
+    pris le parti de ne plus entrer avec elle dans aucune discussion directe à ce même sujet.</p>
+   <p>Si les démarches de la <placeName ref="places.xml#fra01">France</placeName> seront sincères,
+    il n’y a pas à douter que son influence à la <placeName ref="places.xml#ott01"
+    >Porte</placeName> ne puisse contribuer à faire revenir le ministère Ottoman de son engagement,
+    mais il serait superflu d’observer à V. M. I. que toutes ces insinuations feront doublement leur
+    effet, si elles seront encore secondées par les Siennes. Je les Lui demande avec instance, comme
+    un nouveau gage de la parfaite union qui subsiste entre les deux Cours Impériales, et pour
+    convaincre la <placeName ref="places.xml#ott01"> Porte</placeName> de plus en plus, qu’elle ne
+    saurait s’attaquer à l’une sans provoquer en même temps le ressentiment de l’autre.</p>
+   <p>C’est à l’amitié active et obligeante de V. M. I. que je défère le soin de mes intérêts,
+    persuadée que ni dans cette occasion ni dans aucune autre Ses sentiments à mon égard ne pourront
+    jamais varier. Les miens pour V. M. I. porteront constamment la même empreinte de sincérité, et
+    ne seront égalés que par ceux de la très-haute considération avec laquelle je suis ....</p>
+   <p>Toutes les paroles de V. M. I. sont profondément gravées dans mon coeur. Qu’Elle me permette
+    de L’entretenir encore un moment de <rs ref="events.xml#crime01"> certain voyage</rs> dont il
+    Lui a plu de me parler de la façon la plus amicale à <placeName ref="places.xml#smo01">
+     Smolensk</placeName>. J’entreprends ce voyage l’année qui vient. Je pars d’ici pour <placeName
+     ref="places.xml#kie01"> Kiovie</placeName> au commencement de janvier vieux style; je ferai
+    séjour à <placeName ref="places.xml#kie01"> Kiovie</placeName> jusqu’à la mi-avril, alors je
+    m’embarquerai sur le <rs ref="places.xml#dni03"> Borystène</rs> que je descendrai jusqu’aux
+    cataractes; ensuite j’irai par terre jusqu’à <placeName ref="places.xml#khe01">
+     Cherson</placeName>; je ferai le tour de la <rs ref="places.xml#cri01"> Tauride</rs> durant le
+    mois de mai. Je n’ose pousser plus loin mes espérances, mais j’ai cru de mon devoir de Lui faire
+    part de mes arrangements. </p>
+  </body>
+ </text>
+</TEI>

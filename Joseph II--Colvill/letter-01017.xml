@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01017</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01017</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-01">01-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:10:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01017">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1781-04-14">14 d’avril 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Puissent les nouveaux ordres que je viens de faire expédier au prince
+     <persName ref="people.xml#gol04"> Galitzin</persName>, et qu'il aura l’honneur de remettre au
+    prince de <persName ref="people.xml#kau01"> Kaunitz</persName>, prouver à V. M. I. le vif désir
+    que mon amitié m’inspire de voir une bonne fois terminer l’<rs ref="events.xml#allia02"> affaire
+     du traité</rs> projeté entre nous; mais quoiqu’il en soit, je prie instamment V. M. I. d’être
+    persuadée que je serai toujours avec la plus sincère amitié, la plus haute et parfaite estime et
+    considération ....</p>
+  </body>
+ </text>
+</TEI>

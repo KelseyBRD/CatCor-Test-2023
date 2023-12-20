@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02940</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02940</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Mention of porcelain breakfast set (given to C.II by Geoffrin) but unable to find the
+     specific item to encode. Kelsey: tag added; further research required to identify.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-11">11/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:33:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-07-02">02/11/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Reviewed markup and query.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02940">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1765-02-20">20 février 1765</date>.</dateline><note
+     type="editorial">Annotation by Geoffrin: "6-eme."</note></opener>
+   <p>Le Comte de <persName ref="people.xml#bru02"> Bruce</persName> a remis au <rs
+     ref="people.xml#bet01"> General</rs> le charmant petit billet dont Vous l’avés chargé Madame
+    pour moi; Tenés, on n’a jamais rien dit de plus flatteur, que ce, <hi rend="italic">que ne le
+     suije</hi>, et encore vient il de Vous. Mon Dieu Madame puissai je meriter, que des gens de
+    bien et de merite, souhaitassent ou enviassent ce titre; mes desirs n'irai pas plus loin. Je
+    reconnois bien ma bonne Amie parceque Vous me dites du plaisir que Vous recentés, lorsque Vous
+    voyés quelqu’un d’ici, je ne puis assés Vous remercier Madame de l’accueil que Vous leurs
+    faites, je souhaite qu’il y en ai beaucoup qui en sache profiter, et qu’ils s’attirent de plus
+    en plus Votre approbation; le Comte <persName ref="people.xml#bru02"> Bruce</persName> au moins
+    n’est pas du nombre des etourdis; il parle de Vous du ton qui me plait: Son <rs
+     ref="people.xml#bru04"> épouse</rs> même est trés aimable, s’est de touttes les Dames celle qui
+    m’approche le plus souvent.</p>
+   <p><title ref="works.xml#breakf01">Le dejeuné</title> s’est presenté fort bien, tout seul, le <rs
+     ref="people.xml#bet01"> general</rs> n’a pas été assés adroit pour le placer sans qu’on s’en
+    aperçu, il est trés joli, je Vous en ai bien de l’obligation, surtout la couleur en est trés
+    belle, je m’en vais la faire imiter, car <rs ref="orgs.xml#impe04">on fait de la porcelaine
+     assés joliment ici</rs>. Voila une longue reponse à Votre petit billet, mais aussi ce petit
+    billet a l’unique défaut d’etre trop court, et cellui-ci est long parceque mon coeur s’épanche,
+    il répond au Votre.</p>
+  </body>
+ </text>
+</TEI>

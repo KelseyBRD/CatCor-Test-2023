@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09097</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09097</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#healthpolicy"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#moscow"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-28">2023-06-28</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09097"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-01-26">1789 г. генваря 26.</date>
+                </dateline>
+            </opener>
+            <p>Прикажите <persName ref="people.xml#kel01">Кельхену</persName>, чтоб <rs ref="people.xml#kel01">он</rs> либо сам поехал на час к <placeName ref="places.xml#mos01">Москве</placeName> осмотреть и приводить <orgName ref="orgs.xml#hosp01">Екатерининскую больницу</orgName> на здешнюю ногу, либо избрал к тому кого способнаго. Такожде осведомьтесь, на каком основании <rs ref="orgs.xml#hosp01">та больница</rs>, под кем и на каком содержании.</p>
+        </body>
+    </text>
+</TEI>

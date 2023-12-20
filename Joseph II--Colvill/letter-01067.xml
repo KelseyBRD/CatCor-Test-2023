@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01067</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01067</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#prussia"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:22:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01067">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1785-10-09">9 d’octobre 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre de V. M. I. du 30 septembre qui vient de m’arriver, me confirme
+    la nouvelle qui m’était déjà parvenue de la <rs ref="events.xml#fonta01"> signature des
+     préliminaires</rs>. V. M. I. me rend justice lorsqu’Elle ne doute pas de la part que j’y prends
+    et comme alliée fidèle et comme amie sincère qu’Elle soit assurée aussi que, si j’ai eu le
+    bonheur de Lui être utile, je ne négligerai point les occasions futures où je pourrai
+    l’être.</p>
+   <p>Par rapport aux affaires de l’<placeName ref="places.xml#eng01">Angleterre</placeName>, aussi
+    longtemps que le parlement d’<placeName ref="places.xml#eng01">Angleterre</placeName> ne donnera
+    point d’argent ou peu pour soutenir la <orgName ref="orgs.xml#leag01"> ligue des trois
+     électeurs</orgName>, je pense qu’il faut la ménager tout comme les princes d’<placeName
+     ref="places.xml#ger01">Allemagne</placeName> qui n’y ont point acquiescé.</p>
+   <p>C’est avec la plus haute considération et la plus parfaite amitié que j’ai l’honneur
+    d'être ....</p>
+  </body>
+ </text>
+</TEI>

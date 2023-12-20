@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04759</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04759</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="LetterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:48:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04759">
+  <body>
+ 
+   <p>J’ai déclaré bien clairement mes intentions ces jours passés, que je
+     prétendais que vous fussiez content et point du tout chicané. Vous avez beau dire, <hi
+      rend="italic">l'instruction</hi>
+    est défendue à <placeName ref="places.xml#par01">
+     Paris</placeName>, non par édit du Parlement, mais par la police avec le moins de
+     publicité qu’on a pu, mais il y a de la contrebande partout. Je vous enverrai prier un de ces
+     jours de venir chez moi et le buste aussi. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08234</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08234</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrevolution"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:22:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08234">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1774-04-08">8 d'avril 1774</date>.</dateline></opener>
+   <p>Je ne saurais voir <name ref="events.xml#grimm01"> partir M. <persName ref="people.xml#gri01"
+      >Grimm</persName></name> sans le charger de ces lignes pour V. A. R., quelque navré que soit
+    mon cœur par la perte récente que nous venons de faire de notre respectable amie, <persName
+     ref="people.xml#kar01"> la landgrave</persName>. Mais que puis-je dire à V. A. R., si non que
+    je partage bien sincèrement les regrets que la bonté de Son cœur Lui fera sentir? Je l'ai dit et
+    je le répète, il n’y a rien de pire que de faire des connaissances de personnes de pareil
+    mérite. Il ne vous reste que de l'amertume quand on les quitte ou qu’on a le malheur de les
+    perdre. Voilà mes réflexions d'aujourd'hui, où j'ai cependant reçu la nouvelle de la délivrance
+    de la ville d'<placeName ref="places.xml#ore01">Orenbourg</placeName> et de la défaite du
+     brigand <persName ref="people.xml#pug01">Pougatchef</persName> avec sa cohorte de vagabonds. </p>
+   <p>Que V. A. R. ne s’étonne point que je ne marque pas plus de joie de cet événement, je ne puis
+    en avoir un bien grand contentement. Une mère ne rit point quand elle a bien fouetté ses
+    enfants, quelque méchants qu'ils soient. Mais ce qui me réjouit dans ce cas, c’est la conduite
+    de Mr. <persName ref="people.xml#bib01"> Bibikof</persName>, pour lequel V. A. R. a eu tant de
+    bontés; il a établi l'ordre et le calme dans les esprits, il lui reste à guérir l'apostème.</p>
+   <p>V. A. R. me pardonnera de ce que je Lui parle si longtemps de la nouvelle du jour, Elle doit
+    s'en prendre aux sentiments d'amitié que je Lui porte. Mr. <persName ref="people.xml#gri01"
+     >Grimm</persName> en a été un témoin oculaire, il ne saurait que Lui renouveler les assurances
+    de la haute considération ...</p>
+  </body>
+ </text>
+</TEI>

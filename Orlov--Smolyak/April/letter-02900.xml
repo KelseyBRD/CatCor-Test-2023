@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02900</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02900</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-13">13-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:22:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-11-26">26 November 2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>resolved query</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02900">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей
+      Григорьевич</persName>. </salute></opener>
+   <p>С великим удовольствием усмотрела из ваших последних реляций о новых, вами полученных по
+    истечении <name ref="events.xml#bucha01"> втораго перемирия </name><name
+     ref="events.xml#turki01">победах</name><note place="foot" xml:id="ftn1" n="1" type="editorial"
+      ><p rend="footnote text"> Meant the battles of <placeName ref="places.xml#pat01">
+       Patras</placeName> and <placeName ref="places.xml#dam01"> Damietta</placeName> in 1772.
+     </p></note> над вероломным <placeName ref="places.xml#ott01"> неприятелем</placeName>, чего
+    вначале приписываю я руководству Всевышняго, а потом разумному, прозорливому, усердному и
+    ревностному вашему поведению, по горячей вашей любви ко мне и к <placeName
+     ref="places.xml#rus01"> отечеству</placeName>. Видя же благое употребление оружия, которое вы
+    употребляете столько уже лет к умножению славы Нашей и вашей, ныне к вам заблагоразсудили, для
+    показания свету Наше о вашем поведении удовольствие, послать шпагу, брильянтами украшенную, не
+    сумневаясь, что вы ее употребите к вящему на <placeName ref="places.xml#ott01">
+     неприятеля</placeName> христиан страха напущению. Впрочем, пребываю с непременным к вам
+    доброжелательством благосклонна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+    <dateline>
+     <date when-custom="1773-02-21">Февр. 21., 1773. г.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

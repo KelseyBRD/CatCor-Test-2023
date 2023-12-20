@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02678</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02678</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-10">10 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02678">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">Zarskoe-Selo,</placeName>
+                            <date when-custom="1774-08-20">ce 20 d'Août 1774</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> La part que Votre Majesté veut bien prendre à la conclusion de <rs
+                            type="event" ref="events.xml#kuchu01">ma paix</rs> avec <placeName
+                            ref="places.xml#ott01">la Porte</placeName> met le comble à ma
+                        satisfaction. Je reconnais comme je le dois les témoignages sincères
+                        d'amitié qu'Elle a bien voulu me donner pendant la guerre, et en particulier
+                        je La remercie des bons offices, que Votre Majesté n'a pas cessé un moment
+                        d'employer pour accélerer et préparer la conclusion de cette Paix. Si j'ai
+                        marqué de la fermeté dans cette guerre je n'ai fait qu'imiter Votre Majesté.
+                        Je la prie d'être persuadée que je n'en mettrai pas moins à manifester
+                        constamment le cas que je fais de son alliance J'espère que les ennemis et
+                        les envieux de la <placeName ref="places.xml#rus01">Russie</placeName>
+                        n'ayant point réussi à lui nuire, supporteront paisiblement et sans murmurer
+                        la peine que doit leur causer un évènement qui ne saurait être de leur goût.
+                        La tranquillité ainsi rétablie, je souhaiterais que cela leur apprenne à
+                        éviter de la troubler à l'avenir, et pour leur en ôter jusqu'à l'occasion je
+                        désirerais de voir finir au plutôt les affaires des limites de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName>. Je crains infiniment que
+                            <placeName ref="places.xml#ott01">la Porte</placeName> dès que mon armée
+                        aurait évacué ces provinces, ce trouvant de rechef voisine de la <placeName
+                            ref="places.xml#pol01">Pologne </placeName> ne soit poussée à s'ingérer
+                        dans cette affaire, qu'on lui fera envisager peut-être comme propre à
+                        rétablir son ancienne considération. </p>
+                    <closer>
+                        <signed>C'est à Votre Majesté comme à mon meilleur et plus fidèle ami et
+                            allié à qui je confie ses appréhensions, désirant vivement qu'elles se
+                            dissipent par les moyens sages et éclairés que ma confiance en Votre
+                            Majesté, ne me laisse aucun doute qu'Elle n'emploiera à propos, étant
+                            toujours avec les sentiments de la plus haute considération de l'estime
+                            et de l'amitié la plus sincère, Monsieur mon Frère, de Votre Majesté la
+                            bonne Soeur, Amie et Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

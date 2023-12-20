@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02999</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02999</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:06:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02999">
+  <body>
+
+   <opener><dateline> De l’ancien nid de canards, actuellement St Pétersbourg, ce <date
+      when-custom="1777-11-25">25 novembre 1777</date>.</dateline></opener>
+   <p>Il m’a pris ce matin une fantaisie, qui est de vous écrire; j’ai des choses très importantes à
+    vous dire; par exemple: j’ai lu ces jours passés que l’ <persName ref="people.xml#gal05"> àbbé
+     Galiani</persName> dans ses dialogues a dit que c’est un grand assemblage de nombre de
+    contradictions qui forment les grandes caboches, et j’ai dit: cela est vrai, c’est une grande
+    idée, un développement sublime de choses, et depuis ce temps-là cet assemblage de contradictions
+    trotte continuellement dans ma tête, et j’y vois tout, comme le père <persName
+     ref="people.xml#mal01"> Malebranche</persName> voyait tout dans son système.</p>
+   <p>Autre chose que j’ai a vous mander, c’est que je sais que vous êtes arrivé à <placeName
+     ref="places.xml#par01"> Paris</placeName>, et il faut que je vous l’écrive: je suis bien aise
+    de savoir que vous vous reposez de vos courses. Troisième nouvelle: il faut que vous sachiez que
+     <persName ref="people.xml#cru01"> la duchesse de La Vallière</persName> m’a fait dire par
+     <persName ref="people.xml#shu02"> M. Schouvalof</persName> qu’elle m’aimait à la folie; je lui
+    ai fait répondre que j’y étais très sensible; voilà donc une nouvelle coquetterie. <persName
+     ref="people.xml#shu02"> M. de Scbouvalof</persName> encore m’a apporté tout plein de caquetage
+    de la part des Montmorency, eu égard à mon <persName ref="people.xml#lav01"> vicomte de
+     Laval</persName>, auquel j’espère bien, si vous l’avez rencontré, que vous n’aurez pas oublié
+    de faire mes compliments. Voyez un peu le train que je vais ; n’y a-t-il pas là de quoi se
+    rengorger? Et n’était-il pas nécessaire de vous écrire?</p>
+   <p>J’allais oublier une chose très essentielle encore: hier, jour de ma fête, et n’ayant pas
+    dormi toute la nuit, parce que ma tête imaginait involontairement et voulait produire ou bien un
+    grand mal de tête, ou bien une foule d’idées, pendant mon dîner je suis accouchée d’une
+    comparaison admirable: j’ai classifié les têtes avec les minéraux: tête comparative au fer,
+    flexible comme lui etc., tête comme le cuivre, comme l’argent, comme l’or; cette trempe est la
+    meilleure et la plus précieuse aussi pour les avares,— vous êtes un avare. Vous ne vous
+    attendiez pas à cette chûte-là, par exemple. Si vous n’en mourrez pas de rire, ce ne sera pas ma
+    faute. Je vous avertis que je suis boursouflée d’orgueil aujourd’hui, et c’est pour cela que je
+    vous écris en partie, car depuis que je vous connais, j’ai fait de vous un <rs
+     ref="people.xml#gri01">souffre-douleur</rs> en titre; <seg xml:lang="de">Collegienrath</seg>,
+    cela traduit veut dire conseiller de malaise en fait de politique etc., le malaise demande du
+    conseil. Mais n’est-il pas temps de finir, crainte que des traits étymologiques de telle force
+    ne viennent en foule remplir le reste du papier blanc. </p>
+   <closer><signed rend="inline">Adieu, que diront les commis de poste? En relisant cette sublime
+     épître, j’ai cru que vous pourriez vous imaginer que je sens des malaises; je suis bien aise de
+     vous détromper: je n’en sens aucun.</signed></closer>
+  </body>
+ </text>
+</TEI>

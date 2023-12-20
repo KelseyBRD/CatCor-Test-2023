@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01230</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01230</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#austria"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#crimea"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-14"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01230">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Из вчерашняго Вашего письма я с удовольствием увидела, что <persName
+                    ref="people.xml#pau01">сын</persName> мой, слава Богу, приходит в прежнее
+                состояние. По причине множества бумаг и как уже ввечеру поздо было, я отложила до
+                сего утра Вам ответствовать, и для того Вам посланнаго не возвратила. Возмите из
+                казенной у моих камердинеров все то, в чем Вам нужда будетъ для <orgName
+                    ref="orgs.xml#tata01">Татар</orgName>, также и у <persName
+                    ref="people.xml#mor02">Морсошникова</persName> мехи, какие Вам для них надобны.
+                    <seg xml:lang="fr">Quand le Roi de <placeName ref="places.xml#pru01"
+                        >Prusse</placeName> dans sa dépêche au <persName ref="people.xml#sol01">Ct~e
+                        Solms</persName> dil, que, vù les douze millions de coupons, que fait la
+                    cour de <placeName ref="places.xml#vie01">Vienne</placeName>, il est à
+                    soupçonner, qu'elle couve quelque dessein sérieux, et que s'il en résulte une
+                    guerre, elle pourroit bien être accompagnée d'un grand hazard et pour lui, et
+                    pour nous, il pourroit ajouter, et pour la cour de <placeName
+                        ref="places.xml#vie01">Vienne</placeName> aussi. Nous attendrons donc sa
+                    réponse à notre projet et celle de la cour de <placeName ref="places.xml#vie01"
+                        >Vienne</placeName> médiatrice, qui se rend partie, avant que de prendre
+                    aucun parti et encore moins nous départirons nous de nos propositions en
+                    attendant.</seg> Как я весьма любопытна видеть <persName ref="people.xml#lev01"
+                    >Господина Левашева</persName>, то прошу я его прислать сюда завтра к обеду.
+                Весьма я желала знать, каким образом <persName ref="people.xml#ogi01"
+                    >Огинскому</persName> удалося такого знатнаго корпуса разбить; я заключаю, что,
+                быв окружен, он искал продраться, и сие всегда удавалось на войне; и естьли б при
+                    <placeName ref="places.xml#pru02">Пруте</placeName>
+                <persName ref="people.xml#pet01">Петр Великой</persName> то же делал, то бы <rs
+                    ref="events.xml#pruth01">Прутской мир</rs> не состоялся; но, однако, я в
+                понедельник хочу узнать, не надлежит ли взять каких нибудь мер новых по сему случаю;
+                не слышно, где <persName ref="people.xml#bib01">Бибиков</persName>, а оправдания
+                    <persName ref="people.xml#wey01">Веймарна</persName> против посла, от котораго
+                он скрыл возвращение <persName ref="people.xml#dre01">Древица</persName>, сделано
+                    <seg xml:lang="fr">après coup.</seg> Сей его поступок точно противен моим
+                инструкциям, в коих сказано, что распорядить войсками обще с Послом и не таясь от
+                него. Я Вам о сем говорить велела чрез <persName ref="people.xml#str01"
+                    >Стрекалова</persName>, чтоб узнать Ваши мнении: но он мне ответу не сказал и
+                поныне.</p>
+            <closer rend="inline"><signed>Впрочем, остаюсь к Вам доброжелательна.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1771-09-16">Сентября 16 числа, 1771.</date><lb/> В
+                    десятом часу по утру.</dateline></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08232</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08232</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:22:27Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08232">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1773-12-08">8 décembre 1773</date>.</dateline></opener>
+   <p>Mes occupations, quelqu'elles soient, ne me détourneront jamais du plaisir que me font les
+    lettres de V. A. R. Elles me sont intéressantes et chères, et par la main qui les trace et par
+    l'amitié dont elles partent. Celle que le jour de ma patronne m'a procurée m'est un nouveau
+    témoignage bien doux du souvenir de V. A. R. La part qu'Elle a bien voulu prendre au <name
+     ref="events.xml#marri01"> mariage</name> de <rs ref="people.xml#pau01"> mon fils</rs> en est un
+    bien sensible encore pour moi de Son amitié, et il n’y a pas jusqu’à la rhubarbe que j'ai
+    envoyée à la <rs ref="people.xml#lou05"> reine, Sa sœur</rs>, qui ne fournit à V. A. R. une
+    occasion de me dire les choses du monde les plus flatteuses et les plus obligeantes. Que la
+    création du genre humain ferait honneur à la divinité, si tous les hommes avaient un cœur et un
+    esprit qui ressemblât à celui de V. A. R.! Et qu'il serait agréable alors d'avoir affaire aux
+    hommes!</p>
+   <p>J'espère que tout ce que <persName ref="people.xml#kar01">Mad. la landgrave</persName>,
+    cette princesse si véridique, aura dit, ne démentira pas d'un trait les sentiments de la plus
+    haute considération ... </p>
+  </body>
+ </text>
+</TEI>

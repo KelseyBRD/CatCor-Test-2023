@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03609</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03609</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-08">08/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:54:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03609">
+  <body>
+   <div>
+
+   <opener><dateline> Ce <date when-custom="1784-04-06">6 d’avril 1784</date>.</dateline></opener>
+   <p>J’ai reçu hier votre 59<hi rend="superscript">em</hi>
+    <seg xml:lang="de"> Vortrag</seg>; je suis très fâchée de son contenu; portez-vous bien et louez
+    pour ma bibliothèque et pour son propriétaire un appartement convenable sans perte de temps:
+    vous auriez dû faire cela sans m'en demander permission, et ayez soin que rien, pas un lambeau
+    même, ne s'en égare.</p>
+   <p>Voilà ce que vous lirez, dans quelque temps d’ici, dans une longue pancarte que vous recevrez
+    en son temps; j’ai cru qu’il était nécessaire de vous faire parvenir ces lignes le plus tôt
+    possible.</p></div><div>
+     <opener><dateline> Ce <date when-custom="1784-04-15">15 d’avril</date>.</dateline></opener>
+   <p>Je vous envoie la liste de vos ancêtres en ligne directe, commençant par M. <rs
+     ref="people.xml#gri04"> votre père</rs>, Mad. <rs ref="people.xml#gri05"> votre mère</rs>,
+    leurs pères et leurs mères jusqu’au vingtième degré en remontant; celle en descendant et ne
+    donnant à chacun que deux enfants nous donne au quinzième degré 270 millions de cousins au même
+    degré, ayant droit à partager l’héritage; voilà ce qui depuis trois jours fait la félicité du
+    grand écuyer, et il faut absolument que vous la partagiez, et voilà pourquoi je vous envoie la
+    feuille ci-jointe.</p>
+   <p>Papa et Maman.</p>
+   <p>1. _ _ _ 2.</p>
+   <p>2. _ _ _ 4. grands papas et grands mamans.</p>
+   <p>3. _ _ _ 8.</p>
+   <p>4. _ _ _ 16.</p>
+   <p>5. _ _ _ 32.</p>
+   <p>6. _ _ _ 64.</p>
+   <p>7. _ _ _ 128.</p>
+   <p>8. _ _ _ 256.</p>
+   <p>9. _ _ _ 512.</p>
+   <p>10. _ _ _ 1024.</p>
+   <p>11. _ _ _ 2048.</p>
+   <p>12. _ _ _ 4096.</p>
+   <p>13. _ _ _ 8192.</p>
+   <p>14. _ _ _ 16.384.</p>
+   <p>15. _ _ _ 32.768.</p>
+   <p>16. _ _ _ 65.536.</p>
+   <p>17. _ _ _ 131.072.</p>
+   <p>18. _ _ _ 262.144.</p>
+   <p>19. _ _ _ 524.288.</p>
+   <p>20. _ _ _ 1048.576.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02835</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02835</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+    </keywords>
+   
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find Brandau</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-21">21-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:31:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02835">
+  <body>
+   <opener><dateline> à St. <placeName ref="places.xml#pet01"
+     >Petersb.</placeName> ce <date when-custom="1788-07-20">20. Juillet 1788</date>.</dateline></opener>
+   <p>J’espère, Monsieur, que vous êtes en possession de ma lettre, par laquelle je vous ai donné
+    part du gain de la <rs ref="events.xml#hogla01"> bataille navale</rs> qui a eue lieu le 6.
+    Juillet entre ma flotte et la Suédoise. Aujourd’huy je profite de l’envoy d’un courier pour vous
+    faire ces lignes ; en <placeName ref="places.xml#fin01">Finlande</placeName> il y a eu trois
+    affaires de postes, où nous avons non seulement délogés ceux de <rs ref="people.xml#gus01"> S.
+     M. S.</rs>, mais aussi nous avons fait une centaine de prisonniers et pris du canon. Sur la
+     <placeName ref="places.xml#bla01"> Mer-noire</placeName> toute la flotte Turque qui étoit
+     sous <placeName ref="places.xml#och01">Otchakof</placeName> a etée exterminée en quatre combats
+    ; la flotte de <placeName ref="places.xml#sev01"> Sebastapol</placeName> est sortie du port et
+    croisoit à la hauteur de <placeName ref="places.xml#kos02"> Koslof</placeName> le 2. de Juillet.
+    Le Maréchal Prince <persName ref="people.xml#pot01">Potemkin</persName> étoit occupé à la
+    reddition d’<placeName ref="places.xml#och01">Otchakof</placeName>.</p>
+   <p>J’ai reçue votre <rs ref="works.xml#friedr01"> livre</rs> et je l’ai lue avec le plus grand
+    intérêt. Je suis bien aise de voir que vous rendés justice à la mémoire d’un <rs
+     ref="people.xml#fre01"> grand homme</rs>. Je connois le <rs ref="works.xml#consid01">
+     livre</rs> de Mr. de <persName ref="people.xml#vol04"> Volney</persName>, que vous m’avés
+    envoyé. Les Turks chrétiens sont pires que les Turks Turks. Mais il en arrivera ce qu’il plaira
+    à Dieu. Nous verrons ce que produiront les extravagances du <persName ref="people.xml#gus01">
+     Roy</persName> de <placeName ref="places.xml#swe01">Suède</placeName>. De bateliers de cette
+    nation enragée contre leurs maître se réjouissent de nos victoires.</p>
+   <p>Je ne suis pas fâchée, que la comédie <title
+     ref="works.xml#family01" xml:lang="de"> „Der Familienzwist"</title> vous aye paru bonne, àprésent nous avons
+    des comédies militaires. <placeName ref="places.xml#pet01">Petersbourg</placeName> a l’air d’une
+    place de guerre et moi même je suis comme dans un quartier général.</p>
+   <p>Le Docteur <persName ref="people.xml#mey01"> Meyer</persName>, dit on, est arrivé ici, j’ai
+    ordonné de voir, si on lui a tenu parole sur tous les articles, et je le ferai placer, s’il veut
+    l’être. J’ai ordonné aussi de prendre les informations nécessaires sur Brandau. </p>
+   <closer><signed rend="inline">Adieu, Monsieur, portés vous bien, nous avons tous les deux nos ennemis
+    à vaincre et j’espère que nous en viendrons à bout. </signed></closer>
+  </body>
+ </text>
+</TEI>

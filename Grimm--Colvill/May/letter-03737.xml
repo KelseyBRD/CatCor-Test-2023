@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03737</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03737</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:09:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03737">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1796-08-18">18 d’août 1796</date>.</dateline></opener>
+   <p>Monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs> verra par l’expédition que lui
+    porte le courrier de ce jour ce qui lui est arrivé de bien ou de mal: c’est selon qu'il lui
+    plaira de trouver la chose à son goût.</p>
+   <p>Nous autres, nous n’avons pas infiniment de temps de reste pour faire dans ce moment de
+    longues pancartes, car depuis le treize de ce mois nous sommes à faire les honneurs de chez nous
+    aux comtes de <rs ref="people.xml#gus02"> Haga</rs> et de <rs ref="people.xml#cha01"> Wasa</rs>
+    avec une suite immense de plus de 140 personnes, depuis les maîtres jusqu’aux domestiques. Ils
+    arrivèrent le susdit 13 au soir. Le lendemain 14 ils se reposèrent et coururent la ville à pied
+    et en carrosse toute la journée et rencontrèrent nez à nez quantité de personnes intéressantes,
+    qui ne se doutaient seulement pas de pouvoir être rencontrées en passant de chez moi chez eux.
+    Pour comprendre ceci il faudrait connaître le local du <placeName ref="places.xml#tau01"> palais
+     Taurique</placeName> et de ses attenances, entre autre la rue qui sépare la maison qu’habitent
+    mes petites-filles d’avec les orangeries du susdit palais. Le 15 d’août, à six heures du soir,
+    messieurs les comtes vinrent à l’<placeName ref="places.xml#her01"> hermitage</placeName>, où
+    dans un quart d’heure ils firent la connaissance de tout le monde. Le comte de <rs
+     ref="people.xml#gus02"> Haga</rs> s’est attiré non seulement l’approbation, mais même
+    l’affection de tout le monde d’emblée; ceci encore, notez cela, n’est jamais arrivé chez nous
+    qu’à lui. C’est une figure très distinguée; il est majestueux et doux; physionomie charmante où
+    l’esprit et l’agrément sont peints; c’est un bien précieux jeune homme, et assurément dans
+     l’<placeName ref="places.xml#eur01"> Europe</placeName> présentement aucun trône ne peut se
+    vanter de rien de pareil en espérance. Il a le coeur bon et est d’une politesse extrême, à
+    laquelle il joint une prudence et mesure au-dessus de son âge; en un mot, il est charmant, je
+    vous le répète. Le 16 il a passé la soirée encore chez moi au <placeName ref="places.xml#tau01">
+     palais Taurique</placeName>, où, tout comme le premier jour, il y a eu bal et souper. Les
+    mauvaises langues prétendent remarquer comme si les yeux s’adoussissaient visiblement et que la
+    majesté commençait à prendre une lueur de très grand contentement. Pour la <rs
+     ref="people.xml#ale02"> demoiselle</rs>, le malheur a voulu que le 14 au soir elle ait perdu
+    son chien, ce qui l’a fait pleurer le soir et le matin, de façon que la générale <persName
+     ref="people.xml#lie01"> Lieven</persName>, sa gouvernante, mourait de peur qu’elle n’en eût les
+    yeux rouges. Hier 17, quoique le chien ne se soit pas encore retrouvé, cependant elle a paru
+    plus gaie, et après le dîner M. le comte de <rs ref="people.xml#gus02"> Haga</rs> l’a entretenue
+    fort longtemps, et quoique tous les deux se tenaient au soleil, qui était assez ardent, on a
+    voulu remarquer que ni l’un ni l’autre ne s’en sont pas aperçus. Mais imaginez, s’il vous plaît,
+    que sur la liste des spectacles à donner on a eu l’imbécillité de placer un ballet intitulé le
+     <title ref="works.xml#tuteur01"> Tuteur Dupé</title>; par bonheur qu’on me l’a montré, et tout
+    de suite je l’ai fait effacer. Cela ne convient pas, n’est-il pas vrai, en pareille occasion?
+    c’est contre les bonnes moeurs. Pour M. le comte de <persName ref="people.xml#cha01">
+     Wasa</persName>, il est difficile d’en dire autre chose que ce qui est connu déjà; mais dans la
+    suite, qui est composée de tous les partis, il y a des gens qui ne manquent ni de mérite ni
+    d’amabilité, et il en arrive encore tous les jours. </p>
+   <closer><signed rend="inline">Adieu, en voilà assez pour aujourd’hui, où il y aura bal et souper
+     chez <persName ref="people.xml#ale01"> Alexandre</persName>, car il faut égayer son monde. On
+     paraît se plaire chez nous, et sur cela il n’y a qu’une voix. Portez-vous bien; pour moi, je
+     suis leste comme un oiseau.</signed></closer>
+  </body>
+ </text>
+</TEI>

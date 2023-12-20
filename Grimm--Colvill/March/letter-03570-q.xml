@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03570</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03570</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I was unable to identify the « princesse
+     d’Ottojano » or « Mad. De Buchwald ».</p>
+    <p>buste du
+      <rs ref="people.xml#vol01"> patriarche</rs> par <title ref="works.xml#voltai02"
+       >Houdon</title> Not sure this is right - should the whole phrase from buste be in <title></title>? Emma</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:53:24Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03570">
+  <body>
+
+ <div type="part" n="1">  <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1779-09-15">15 sept 1779</date>.</dateline></opener>
+   <p>Si vous ne doutez point que le ciel, dans ses accès de générosité, ne répande sur vous tous
+    les ans à pareille saison une malédiction particulière, en vous réduisant au cruel et pénible
+    rôle de garde-malade, sachez et soyez persuadé aussi que chacun a son lot et que le mien est de
+    devenir législo- mane: régulièrement tous les ans à certaine saison je sens des redoublements
+    qui vont en augmentant; celle de cette année est plus persévérante que celle d’aucune autre, et
+    Dieu merci nous critiquons et nous en savons en plusieurs occasions plus et autant que <persName
+     ref="people.xml#bla01"> Blackstone</persName> lui-même. <persName ref="people.xml#bla01">
+     Blackstone</persName>, mon favori, cependant ne m’a point empêchée de donner au <persName
+     ref="people.xml#pac01"> b. de Zuckmantel</persName>, pour lequel j’avais conçu beaucoup
+    d’estime, les regrets qui sont dûs à tout homme dont la façon de penser est de cette roche-là;
+    je suis fâchée que le compère <persName ref="people.xml#bau06"> Beausset</persName> soit venu
+    mourir ici et que cela m’ait empêché de connaître votre ami; le compère était au nombre des arme
+     <seg xml:lang="de"> Leute</seg>.</p></div>
+   <div type="part" n="2">
+   <dateline>Ce <date>25 sept. </date></dateline>
+   <p>Voilà dix jours que cette belle pancarte traîne sur ma table sans être achevée; je ne sais
+    pourquoi, mais depuis quelque temps je ne sais plus écrire: j’ai écrit hier pendant deux heures
+    ce que j’aurais écrit dans quelques minutes dans une autre occasion. Je mets cela sur le compte
+    des lois danoises: elles m’ont séché le cerveau. Vous devez m’expliquer cela: depuis
+    que <persName ref="people.xml#vol01"> Voltaire</persName> et le baron de <persName ref="people.xml#pac01">
+     Zuckmantel</persName> sont morts, je ne sais, ni ne connais plus que vous à qui on pourrait
+    s’adresser en pareil cas; mais à propos de cela, je n’ai point encore vu <persName
+     ref="people.xml#wag02"> Wagnière</persName>: il a été toujours malade; samedi qui vient est
+    fixé pour notre connaissance.</p>
+   <p>Que dites-vous de la perte de la princesse d’Ottojano, périe dans le dernier esclandre du mont
+    Vésuve. <persName ref="people.xml#nic01"> M. de St Nicolas</persName> en est fort occupé, et moi
+    beaucoup moins que de la conduite que mon coquin le mont Etna a tenue en cette formidable
+    occasion. Si vous ou l’ <persName ref="people.xml#gal05"> abbé Galiani</persName> en savez
+    quelque chose, ayez la bonté de m’en faire part. On dit que <persName ref="people.xml#ham01">
+     Hamilton</persName>, amb. d’ <placeName ref="places.xml#eng01"> Angl</placeName>. à <placeName
+     ref="places.xml#nap01"> Naples</placeName>, leur prédit pire que cela si la lava n’a libre
+    cours, mais <persName ref="people.xml#nic01"> il duca di S Nicole</persName> et moi, nous
+    mettons toute confiance en mon patron St Janvier et ses miracles. <persName
+     ref="people.xml#pai01"> Païsiello</persName> continue à faire des siens, il me fait voir des
+    opéras sans ennui et écouter de la musique avec attention et intérêt.</p>
+   <p>Lorsque j’en étais là, je reçois № 10 . <seg xml:lang="de"> Vortrag</seg>. C’est aujourd’hui
+    le trois d’octobre, et je ne sais plus à quoi répondre, tant il y en a. <seg xml:lang="it">
+     Ma</seg> continuons ma lettre. A toutes vos jérémiades je n’ai qu’un très ancien mot à vous
+    répondre, qui est: <persName ref="people.xml#dan01">George Dandin</persName>, tu l’as bien voulu. Pour de
+    l’indiscrétion de <persName ref="people.xml#den02"> Denis</persName> dans sa propre cause, n’en
+    parlons plus; mais à propos du <persName ref="people.xml#hal01"> banquier Haller</persName>, il
+    faut que je vous notifie la mort du très ample <persName ref="people.xml#fre03"> baron
+     Friedrichs</persName>, qui laisse ses affaires dans le plus grand ordre; sa maison continue
+    sous son nom jusqu’à l’arrivée de son fils aîné, que est en paye étrangers.</p>
+   <p>Tenez, les lois danoises m’ont desséché le cerveau ; d’ailleurs, vous n’auriez pas si bon
+    marché de ce que vous dites là de tonte la kyrielle des dieux d’ <persName
+     ref="people.xml#hom01"> Homère</persName> et des païens. Pour moi, en cette occasion et en
+    celle des sissi, comme dans toute autre, je baisse toujours la tête sur tout ce que je fais,
+    parce que l’homme est un être aux actions duquel il ne vaut guère la peine de faire attention,
+    parce que nous ne savons pas trop ce que c’est que nous. J’ai dit à <persName
+     ref="people.xml#bib02"> Bibikof</persName> da vous faire copier toute la musique des opéras
+    possibles sans les relier ni dorer sur tranche. Vous trouvez donc bien étrange que j’aie les
+    meilleurs maîtres de chapelle possibles. Les Thomas ne portent point le deuil du <persName
+     ref="people.xml#tra01"> Thomas Traetta</persName>, qu’ils n’ont jamais adopté ni connu et qui
+    n’avait apporté au monde selon eux rien de nouveau ni de frappant. Ce conseiller et cet
+    intendant presse-éponge doivent vous ennuyer beaucoup. Quand j’y songe, il me paraît que le plus
+    long des catalogues pourrait être celui des différentes sortes d’ennui qui se trouvent sur le
+    globe; il y en a dont la plupart du monde ne se doute pas qu’ils existent. Mais parlons de
+     <persName ref="people.xml#ale01"> M. Alexandre</persName>: cet enfant m’aime par instinct; ma
+    vue seule le met à son aise; il s’en tient strictement à ce que je lui dis; s’il pleure et que
+    j’entre, il cesse; s’il est gai, sa gaîté augmente. Je lui parle raison à sa portée; il se rend
+    et cède à cette raison. Le <persName ref="people.xml#orl01"> prince Orlof</persName>, l’autre
+    fois, voyant cela tout étonné, dit: Mais voilà un enfant qui n’a pas deux ans, qui ne sait pas
+    parler et qui écoute raison. Or, cet enfant n’est pas si docile pour tout le monde. Pour
+    l’autre, ce n’est rien encore. J’enverrai ordre à <placeName ref="places.xml#vie01"> Vienne</placeName>, si je ne l’ai pas déjà
+    fait, de souscrire pour les oeuvres de <persName ref="people.xml#met01">
+    Metastasio</persName>.</p>
+   <p xml:lang="de"> Nun kommt die Beantwortung des Vortrags</p>
+   <p>Pourra que l’on ne me mette point ma tête sens dessus dessous, je consens très volontiers de
+    laisser celles des autres tout comme elles sont placées les unes dessus, les autres dessous. Si
+     <persName ref="people.xml#nic01"> M. de San Nicolo</persName> se plaindra de quelque chose, ce
+    ne sera pas des volcans simples, ma titrés; or, ci-gît une éuigme que vous pouvez lire dans les
+    gazettes, ma que je n’articulerai point pour cause. <seg xml:lang="it"> Ma</seg> je fais le
+    bourgmestre de <placeName ref="places.xml#dar01"> Darmstadt</placeName> en frappant sur ma
+    tabatière. Votre description de l’éruption ressemble elle-même à une explosion volcanique; pour
+    le <persName ref="people.xml#goe01"> comte Goertz</persName>, protégé de Mad. de Buchwald et de vous, il paraît n’avoir rien de
+    commun avec ces volcans, mais puisqu’il ne parle que par oui et par non, on pourra le ranger
+    parmi le genre glacial.</p>
+   <p>Je vous ai déjà mandé la destination faite des deux mille scudi appartenant à feu <persName
+     ref="people.xml#men01"> Mengs</persName>; si ses portefeuilles sont à vendre, qu’on m’en envoie
+    le prix; pour les plâtres, je crois les avoir. Les <title ref="works.xml#logera01">
+     loges de Raphaël</title> copiées à <placeName ref="places.xml#rom03"> Rome</placeName> sont très de mon goût, je pense de vous
+    l’avoir mandé: on ne peut se lasser de les regarder, et Dieu sait ce qui passe par la tête en
+    les regardant. Ma les bains de Titus sont bien autrement légers. Plein pouvoir au divin
+     <persName ref="people.xml#rei03"> Reiffenstéin</persName> de les exposer au palais de
+     <placeName ref="places.xml#ven01"> Venise</placeName>. Achetez des diamants, si vous avez de
+    mon argent de reste, mais n’achetez que les deux que vous me proposez. Vous voulez donc de la
+    soupe aux pois, morbleu, vous passerez donc par les mains des têtes &amp; perruques, et tout
+    l’appareil de la réflexion mûre bien digérée; avant que d’être rédigé, vous aurez la bonté de
+    lire tout cela en parlant très distinctement du nez. Vous donnerez, s’il vous plaît, du buste du
+     <rs ref="people.xml#vol01"> patriarche</rs> par <title ref="works.xml#voltai02"
+     >Houdon</title> le prix que vous trouverez convenable. </p>
+   <closer><signed>Adieu.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

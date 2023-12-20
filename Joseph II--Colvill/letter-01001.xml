@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01001</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01001</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+  
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-24">24-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:30:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01001">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#pet02">Peterhof</placeName>, cе <date when-custom="1780-07-11">11 juillet 1780</date>.</dateline></opener>
+   <p>Sans parler des regrets et des voeux que nous faisons tous pour l'heureux voyage de Monsieur
+    le <rs ref="people.xml#jos01"> comte de Falkenstein</rs>, c’est au milieu du vide et de l’ennui
+    causé par son départ, qu’il lui a plu de renouveler notre allégresse. La venue du courrier seule
+    avec la nouvelle de la continuation de sa précieuse santé aurait causé une satisfaction
+    universelle et non équivoque. La lettre qu’il m’a apportée de sa part, a mis le comble à ma
+    satisfaction; le contenu de cette lettre restera à jamais gravé dans mon âme. Je puis dire que
+    je suis heureuse puisque vous daignez être content de moi: je sais aussi qu’il est de l’essence
+    des grandes âmes de regarder avec indulgence la bonne volonté. Jamais je n’ai plus senti
+    l’insuffisance de mes faibles talents, que pendant les deux mois où j’avais devant moi le beau
+    spectacle et l’exemple d’une âme forte et élevée, d’un jugement profond, d’un raisonnement
+    toujours juste, et de connaissances aussi solides qu’étendues. Les hautes destinées doivent être
+    le partage de telles vertus et qualités. C’est avec ces sentiments et ceux de la reconnaissance
+    la plus vive et de l’amitié la plus réciproque que je signe ma prédiction.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

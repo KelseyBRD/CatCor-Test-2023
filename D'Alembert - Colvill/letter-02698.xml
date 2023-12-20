@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02698</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02698</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paul"/>
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:13:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02698">
+  <body>
+   <p>M. <persName ref="people.xml#ale06"> d’Alembert</persName>, je viens de lire la réponse que
+    vous avez écrite au Sr <persName ref="people.xml#aud02"> d’Odar</persName>, par laquelle vous
+    refusez de vous transplanter pour contribuer à l’éducation de <rs ref="people.xml#pau01"> mon
+     fils</rs>. Philosophe comme vous êtes, je comprends qu’il ne vous coûte rien de mépriser ce
+    qu’on appelle grandeurs et honneurs dans ce monde; à vos yeux tout cela est peu de chose et
+    aisément je me range de votre avis. Il envisager les choses sur ce pied, je regarderais comme
+    très petite la conduite de la reine <persName ref="people.xml#chr02"> Christine</persName> qu’on
+    a tant loué (sic) et souvent blâmé (sic) à plus juste titre; mais être né ou appelé pour
+    contribuer au bonheur et même à l’instruction d’un peuple entier et y renoncer, me semble,
+    s’est (sic) refuser de faire le bien que vous avez à cœur. Votre philosophie est fondée sur
+    l’humanité; permettez-moi de vous dire que de ne point ce (sic) prêter à la servir tandis qu’on
+    le peut, c’est manquer son but. Je vous sais trop honnête homme pour attribuer vos refus à la
+    vanité; je sais que la cause n’en est que l’amour du repos pour cultiver les lettres et
+    l’amitié, mais à quoi tient-il? Venez avec tous vos amis, je vous promets et à eux aussi tous
+    les agréments et aisances qui peuvent dépendre de moi et peut-être vous trouverez plus de
+    liberté et de repos que chez vous; vous ne vous prêtez point aux instances du <rs
+     ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">Prusse</placeName></rs> et à
+    la reconnaissance que vous lui avez; mais <rs ref="people.xml#fre01">ce prince</rs> n’a pas de
+    fils. J’avoue que l’éducation de ce fils me lient si fort à cœur et vous m’êtes si nécessaire
+    que peut-être je vous presse trop; pardonnez mon indiscrétion en faveur de la cause et soyez
+    assuré que c’est l’estime qui m’a rendue si intéressée.</p>
+   <closer><dateline>A <placeName ref="places.xml#mos01">Moscou</placeName>, le <date
+      when-custom="1762-11-13">13 novembre 1762</date>.</dateline>
+   </closer>
+   <postscript>
+    <p><hi rend="italic">P. S.</hi> Dans toute celle lettre je n’ai employée (sic)
+     que les sentiments que j’ai trouvés dans vos ouvrages. Vous ne voudriez pas vous
+     contredire.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02680</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02680</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-10">10 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02680">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Zarskoe Selo,</placeName>
+                            <date when-custom="1776-06-11">ce 11 Juin 1776</date>.</dateline>
+                   
+                    <salute rend="inline">Monsieur mon Frère,</salute> </opener>
+                    <p> Considérant invariablement Votre Majesté, comme mon plus fidèle ami et
+                        allié, et obligée d'admirer de loin les éminentes qualités de Votre Majesté
+                        et la gloire de son règne, je n'ai pu refuser au <persName
+                            ref="people.xml#pau01">Grand Duc</persName> mon fils, qui est pénétré
+                        des mêmes sentiments que moi pour Votre Majesté, la consolation qu'il m'a
+                        demandé lors du décès de <rs ref="people.xml#wil01">son épouse</rs>, de
+                        pouvoir se rendre près de Votre Majesté. Elle a bien voulu y donner son
+                        agrément, j'en reitère en ce moment mes remercîments bien sincères à Votre
+                        Majesté, j'y joins ceux que je Lui dois encore pour tout ce qu'Elle a bien
+                        voulu faire afin d'accélérer l'accomplissement de mes désirs, dont un des
+                        principaux objets est de resserer de plus en plus les liens de sa maison
+                        royale et de la mienne, </p>
+                    <closer>
+                        <signed>c'est avec ces sentiments et ceux de la plus haute considération et
+                            de l'amitié la plus sincère que j'ai l'honneur d'être, Monsieur mon
+                            Frère, de Votre Majesté la bonne Soeur, Amie et Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

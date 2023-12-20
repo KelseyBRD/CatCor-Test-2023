@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09090</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09090</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#navy"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>Not sure whether "последней морской баталии" refers to the battle of Hogland but no report about on any other big battles found</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-28">2023-06-28</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09090"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-11-02">1788 г. ноября 2.</date>
+                </dateline>
+            </opener>
+            <p>Много ли таких, кои в <name type="event" ref="events.xml#hogla01">последней морской баталии</name> так изранены, как морские, так и сухопутные, кои службы никакой отправлять не могут, и много ли, после умерших, осталось вдов и сирот, и много ли на их содержание надобно, чтоб мне представлено было?</p>
+        </body>
+    </text>
+</TEI>

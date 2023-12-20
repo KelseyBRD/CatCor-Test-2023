@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00066</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00066</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#censorship"/>
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-30">30 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Additional markup, tagging, and translation.</p>
+            </change>
+            <change>
+                <date when="2014-04-19">Kelsey Rubin-Detlev</date>
+                <p>Additional metadata, annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00066">
+                <body>
+                    <opener><dateline><date when-custom="1789-09-17">1789 г. 17
+                            сентября.</date></dateline></opener>
+                    
+                    <p>Вы можете ответствовать <rs ref="people.xml#ale03">святителю</rs>, что менее
+                        всего ожидать надлежало благотворительной руке от <rs ref="people.xml#pla01"
+                            >святительской особы</rs>, осыпанной, отличенной и возведенной щедростию
+                        и щедротами, безразсудный толк известной переписки, которой одно злобой
+                        наполненное сердце лишь может дать кривое толкование; понеже сама собою та
+                        переписка весьма невинна, и в такое время, когда <rs ref="people.xml#vol01"
+                            >тот осьмидесяти-летний старик</rs> старался своими, во всей <placeName
+                            ref="places.xml#eur01">Европе</placeName> жадно читаемыми, сочинениями
+                        прославить <placeName ref="places.xml#rus01">Россию</placeName>, унизить
+                        врагов ея и удержать деятельную вражду своих соотчичей, кои тогда старались
+                        распространить повсюду язвительную злобу противу дел нашего Отечества, в чем
+                        и предуспел. В таком виду и намерении письма, писанныя к безбожнику,
+                        кажется, не нанесли вреда ни церкви, ни Отечеству.<note type="editorial"
+                            >This letter was written in response to a denunciation sent from Moscow
+                            by Archpriest <ref target="people.xml#ale03">Petr Alekseev</ref> to
+                            Khrapovitsky on 3 September 1789. Alekseev claimed that Platon,
+                            Metropolitan of Moscow, was showing people Voltaire's correspondence
+                            with Catherine, which risked casting doubt on Catherine's Orthodoxy
+                            because she corresponded with an 'atheist'. Alekseev alleged Platon
+                            might even have it translated into Russian, which would be dangerous
+                            because more 'Русские безразсудные читатели' ('thoughtless Russian
+                            readers') would come to such conclusions. K.A. Papmehl reads Catherine's
+                            response as showing that the denunciation 'stirred her ire against
+                            Platon to an unprecedented degree', citing as evidence Alekseev's next
+                            letter to Khrapovitsky, in which he promised '"to carry out the tasks I
+                            am entrusted with in a suitable manner, using the Prelate's favourites
+                            who are also my friends"'. Papmehl adds that in the <ref
+                                target="letter-00075.xml">letter</ref> to commander-in-chief of
+                            Moscow, Eropkin, sent a week later, 'Catherine thus baited a trap for
+                            Platon', in asking none other than the Metropolitan himself to censor
+                            the complete works of Voltaire, published by Beaumarchais (<bibl><title
+                                    ref="works.xml#metrop01">Metropolitan Platon of Moscow</title>,
+                                    <biblScope unit="pp">pp. 51-52</biblScope></bibl>). It is true
+                            also that Alekseev continued to provide denunciations, especially
+                            against Freemasons, in coming years. One might venture, however, a
+                            different reading of the present episode. If already in 1789 Catherine
+                            already detested the Metropolitan as much as is claimed, it would seem
+                            strange that in the coming years Platon continued to correspond with
+                            Grigory Potemkin, while the new commander-in-chief of Moscow, A.A.
+                            Prozorovsky, trusted him to appoint censors for Nikolay Novikov's
+                            archive. Moreover, when, in 1792, Catherine finally yielded to Platon's
+                            repeated requests to retire, she kept him in his official post, while
+                            giving his duties to a subordinate. Platon may have complained, but one
+                            can only imagine that Catherine kept him on for so long because she
+                            still found Platon useful and effective. If she had really been angry
+                            with him, she could surely have removed him earlier and/or less
+                            honorably. (See <bibl><author>Papmehl</author>, <title
+                                    ref="works.xml#metrop01">Metropolitan Platon</title>, <biblScope
+                                    unit="pp">pp. 54-55</biblScope></bibl>.) In this particular case
+                            of Voltaire's correspondence, Catherine must have known that Platon
+                            would be condemning himself by casting doubt on her Orthodoxy via the
+                            letters to Voltaire: after all, Platon himself received enthusiastic
+                            support from Voltaire, who praised his sermon on the victory at Chesme
+                            as worthy of the philosopher Plato. Accordingly, it is tempting to
+                            suggest that Catherine might have even perceived the twisted heart of
+                            Alekseev and guessed that he was the one responsible for the misguided
+                            interpretation of the Voltaire letters. Alekseev, a noted denunciator
+                            and man of continual bad faith, wanted to puff himself up by claiming
+                            that Khrapovitsky's relation of the contents of Catherine's note was in
+                            fact a special mission against Platon. (For further related materials,
+                            see <bibl><title ref="works.xml#izbuma01" level="a">'Iz bumag
+                                    Protoiereya Petra Alekseeva'</title>, <biblScope unit="pp">pp.
+                                    73-76</biblScope></bibl>; <bibl><title ref="works.xml#petral01"
+                                    level="a">'Petr Alekseev, protopop Moskovskogo Arkhangel'skogo
+                                    sobora (1727-1801)'</title></bibl>.</note></p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline><date when-custom="1789-09-17" rend="inline">1789 17
+                                September.</date></dateline></opener>
+                  
+                    <p>You can answer the holy man that there was no one from whom a munificent hand
+                        could have less expected a rash interpretation of the said correspondence
+                        than from a holy individual, who has been showered with and distinguished
+                        and elevated by generosity and bounties. Only a heart filled with malice
+                        could take it amiss. For, the correspondence was in itself most innocent and
+                        took place at a time when that eighty-year-old man was trying, in writings
+                        that were avidly read all over Europe, to glorify Russia, to abase her
+                        enemies, and to restrain the active enmity of his compatriots, who were then
+                        attempting to spread biting malice against the affairs of our Fatherland. In
+                        this he succeeded. Letters written to an atheist with this intent and
+                        purpose, it would seem, caused no harm either to the Church or to the
+                        Fatherland.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00852</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00852</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2017-06-17">17 June 2017</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00852">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1788-06-16">Июня 16 ч.,
+                                1788</date></dateline>
+                        <salute rend="inline">Друг мой любезный <persName ref="people.xml#pot01"
+                                >Князь Григорий Александрович.</persName></salute></opener>
+                    <p>Письмы Ваши от 8 июня из лагеря на <placeName ref="places.xml#bug01"
+                            >Буге</placeName> между <placeName ref="places.xml#chi01"
+                            >Чичаклеей</placeName> и Чортицой вчерашний день я получила. Сожалею
+                        весьма, что, выехавши из <placeName ref="places.xml#eli01"
+                            >Елисавета,</placeName> от сильных жаров на дороге ты занемог и пришел в
+                        слабость и что сим и иными препятствиями остановилось отправление писем к
+                        нам. Мы же жили две недели во ожидании посреди пресильных жаров, что духоты,
+                        признаться должно, не уменьшало. Радуюсь, что тебе есть гораздо лутче.</p>
+                    <p>Неприятель, усиливая день ото дня под <placeName ref="places.xml#och01"
+                            >Очаковом,</placeName> наипаче гребными судами, флот свой (хотя оные
+                        поворотливее и многолюднее наших), однако, заботя вас много спекулятивно, в
+                        самом деле подал случай к преодолеванию всех трудностей, что усматриваю из
+                        письма Вашего, писанного при самом отправлении курьера, на которое ниже сего
+                        особенно ответствовать буду. Я надеюсь, что трудности в переходе за
+                            <placeName ref="places.xml#bug01">Буг</placeName> вы равномерно
+                        преодолеете. Что турки осторожнее стали и от пушек не отходят, сие не столь
+                        приписывать, может статься, должно искусству, колико опасности. <persName
+                            ref="people.xml#rum01">Петр Алекс[андрович]</persName> ко мне пишет, что
+                        он на <placeName ref="places.xml#bug01">Буге</placeName> с Вами хотел
+                        съехаться. Имеете ли Вы какие вести - где визирь или та часть турецкой
+                        армии, наряженная противу нас?</p>
+                    <p><persName ref="people.xml#ner01">Неранчичу</persName> крест второго класса
+                        Владимирский посылаю.</p>
+                    <p>По случаю <persName ref="people.xml#zer01">Зернак-Эфендия</persName> можно
+                        сказать, что гора мышь родила.</p>
+                    <p>Здесь слухи о шведском вооружении и о намерении Шведского Короля нам объявить
+                        войну ежедневно и [еже]часно умножаются. Он в <placeName
+                            ref="places.xml#fin01">Финляндию</placeName> перевел и переводит полки.
+                        Флот его уже из Карлскрона выехал, и его самого ожидают в <placeName
+                            ref="places.xml#fin01">Финляндии</placeName> на сих днях. <persName
+                            ref="people.xml#hor01">Графа Горда</persName> он из <placeName
+                            ref="places.xml#ber01">Берлина</placeName> выписал, чтоб командовать
+                        Финляндской армиею противу нас. Сему человеку мы спасли живот, ибо его
+                        покойная <persName ref="people.xml#eli02">Импер[атрица] Ели[савета]
+                            Петр[овна],</persName> имея его пленником, не выдала шведам, кои хотели
+                        его казнить, как казнили <persName ref="people.xml#hor02">Горна</persName> и
+                            <persName ref="people.xml#bra04">Брага</persName> в 1756 году. В
+                        договоре или министерством данном <placeName ref="places.xml#hab01">Венскому
+                            двору</placeName> подтвердительном обнадеживании о целости польских
+                        поссесий иного ничего не включено, как то, что уже в трактатах включено
+                        было, что им и сказано было, но они неотступно просили, и для это[го],
+                        казалось, браниться было не за что.</p>
+                    <p rend="right"><date when-custom="1788-06-18">18 июня </date></p>
+                    <p>Датчане начали с шведами говорить тоном твердым. Я весьма рада буду мириться,
+                        но сей мир ничем не пойдет поспешнее, как успехами вашими, наипаче же
+                        взятьем <placeName ref="places.xml#och01">Очакова,</placeName> [о] котором,
+                        дай Боже, услышать скорее.</p>
+                    <p rend="right"><date when-custom="1788-06-19">19 июня </date></p>
+                    <p>Вчерашний день получено известие об шведском флоте, что он встретился со
+                        тремя стопушечными кораблями нашими, кои пошли вперед к Зунду, и шведы
+                        требовали, чтоб <persName ref="people.xml#dez01">Контр-Адмирал фон
+                            Дезин</persName> им салютовал, на что послал в ответ сказать, что по
+                        трактату между <placeName ref="places.xml#rus01">Россиею</placeName> и
+                            <placeName ref="places.xml#swe01">Свейскою короною</placeName> 1743 года
+                        17 артикул положено друг другу нигде не салютовать, но понеже <persName
+                            ref="people.xml#cha01">Герцог Зюдерманландский</persName> брат
+                        королевский и двоюродный брат Императрице, то он его поздравит - и выстрелил
+                        из 13 пушек, а шведы ответствовали из 8 пушек, и потом наши пошли к Зунду, а
+                        их - от <placeName ref="places.xml#got03">Готланда</placeName> на
+                        восток.</p>
+                    <p>Теперь приступлю к ответу на твои письмы, писанные при самом отправлении
+                        курьера. Наша публика здесь несказанно обрадована победою, на <placeName
+                            ref="places.xml#lym01">Лимане</placeName> одержанною, с которою тебя от
+                        всего сердца поздравляю. На три дни позабыли говорить о шведском вооружении.
+                        Я вести от тебя о сем полученные скорее разослала повсюду. Теперь ожидаю от
+                        тебя подробности и с радостию раздам награждения по сему случаю и по всякому
+                        такому, где польза и ободрение службы того требуют.</p>
+                    <closer><signed> Прости, мой друг любезный, будь здоров и благополучен, и да
+                            поможет и благословит тебя Господь Бог.</signed></closer>
+                        <postscript><p rend="right"><date when-custom="1788-06-20">Июня 20 число</date></p>
+                        <p rend="below">Сего утра из <placeName ref="places.xml#sto01"
+                                >Стокгольма</placeName> приехал курьер с известием, что <persName
+                                ref="people.xml#gus01">Король Свейский</persName> прислал к
+                                <persName ref="people.xml#raz02">Разумовскому</persName> сказать,
+                            чтоб он выехал из <placeName ref="places.xml#sto01"
+                                >Стокгольма</placeName>, привязавшись к нему за то, что он в ноте,
+                            поданной для изъяснения о вооружении, написал: "Король и нация", -
+                            выражение, которое во всех трактатах со всеми державами однако
+                            употребляется, а <persName ref="people.xml#gus01">Королю
+                                Шведскому</persName> казалось оскорбительным. Из чего видно, что
+                            лишь искал слабый случай.</p>
+                        <p rend="below">Пришли ко мне скорее свой план о формировании казацких
+                            войск из ямщиков и мещан, такожде старшин казацких.</p>
+                        <p rend="below"><persName ref="people.xml#mus02">Пушкин,</persName>
+                            которого я наряжаю командовать в <placeName ref="places.xml#fin01"
+                                >Финляндию,</placeName> говорит, что Генералов-Майоров у него мало.
+                            Я ему говорила, чтоб с <placeName ref="places.xml#mos01"
+                                >Москвы,</placeName> хотя из отставных или неслужащих, достал; а
+                            буде можно, пришлите сюда, кого отделить можете. Правду сказать, из
+                                <placeName ref="places.xml#mos01">Москвы</placeName> скорее доедут.
+                            С <persName ref="people.xml#anh01">Графом Ангальтом</persName> мы почти
+                            в ссоре: <seg xml:lang="fr">je ne sais quelle mouche l'а
+                                pique.</seg> Когда ехать пришло, тогда начал требовать чин и
+                            команду, и буде не уймется, то заверно разстанемся, ибо закона себе
+                            предписать я, конечно, никому не дозволю.</p>
+                        <p rend="below">Теперь <persName ref="people.xml#gre01">Грейг</persName>
+                            разделается наперед со шведами, а там отправится.</p></postscript>
+                        
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03018</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03018</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>A person with two codes - Emma </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-13">13/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:38:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03018">
+  <body>
+
+   <dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1778-11-05">5 novembre 1778</date>.</dateline>
+   <p>Réponse au post-scriptum surnommé <seg xml:lang="de"> Nachtrag</seg>, appartenant au No 24,
+    l’оп ne devine pas aisément pourquoi.</p>
+   <q>Exclamation à la vue de l’énorme fatras de comptes d’écritoire, de lettres,
+    d’experts, de manchettes, de dentelles appartenantes à <persName ref="people.xml#dra01"> madame
+     Draie</persName> et compagnie.</q>
+   <p><seg xml:lang="de"> Oh, mein Gott! Wenn doch die <name ref="events.xml#bavar01"
+     >bayrische Successionsache</name>
+    mit so einer Klahrheit und Richtigkeit bewisen und entwicklet werden
+     koennte, sowohl in Corpore als auch im Nachtrag!!!!!!!!</seg> etc. Signes exclamatoires aussi
+    nombreux que l’affaire est importante. Ces <seg xml:lang="de"> Nachtrag</seg> sont des gens de
+    dure digestion; celui concernant Albert, au moins devrait-il avoir produit <seg xml:lang="de">
+     Gewissen </seg><seg xml:lang="la">scrupulum </seg><seg xml:lang="de">und beängstigung</seg>; mais de nier comme des
+    écoliers! Le grand <persName ref="people.xml#bas02"> Basile</persName> du <title ref="works.xml#barbie01"> Barbier de Séville</title> dit: Mais qui est-ce donc qu’on
+    trompe ici? Dans la comédie c’est le docteur Bartolo. Je vous prie d’y penser à qui vous
+    donnerez ce rôle dans la grande pièce qui se joue. Votre <seg xml:lang="de"> Nachtrag</seg> est
+    clair comme le jour et vos comptes, comme tous les comptes, point amusante du tout.</p>
+   <p>Le sieur de <persName ref="people.xml#mai01"> Mailly</persName> n’est point arrivé, que je
+    sache; mais s’il arrive, il pourra s’en retourner comme il est venu, c’est-à-dire sans qu’on
+    l’en prie. Je ne doute pas cependant qu’il ne trouve de l’ouvrage céans, car le luxe de belles
+    et jolies choses très inutiles gagne de jour en jour, et Pyrrhus, roi d’Epire, aussi, et tout ce
+    qui l’entoure prend une tournure analogue à sa physionomie. Or, vous savez que c’est l’écueil
+    des peintres et des sculpteurs que tout cela. C’est l’antipode du maussade dans tout genre, et
+    la réunion du beau, des grâces, de l’élégance. Conservez vos fonds montants à 6813 livres 18
+    sols tournois; ils pourront nous servir à tout plein de choses selon l’occurrence, de même que
+    la quatrième médaille.</p>
+   <p>Vous .aurez cet hiver tout plein d’occasions de m’envoyer l’exemplaire dont vous avez fait
+    emplette pour moi des oeuvres de <persName ref="people.xml#vol01"> Voltaire</persName>; je soupçonne que plus d’un courrier
+    sera envoyé de part et d’autre ; <seg xml:lang="de"> mit Erbsensuppen ist viel zu schaffen,
+     absonderlich aber mit saftigen</seg>. J’aurai beaucoup d’obligations à <persName
+     ref="people.xml#epi01"> Mme d’Epinay</persName> de ce qu’elle renouvellera ma gaîté, qui a
+    souffert un grand échec par la mort du patriarche. Savez-vous bien que je ne puis point me faire
+    a l’idée de son inexistence: il y a cinquante ans que je suis accoutumée à le savoir en vie; je
+    suis bien heureuse de ne l’avoir jamais vu. Je vous enverrai les lettres de <persName ref="people.xml#vol01">
+    Voltaire</persName>, et vous pouvez retirer les miennes au patriarche de chez <persName
+     ref="people.xml#den02"> Mme Denis</persName>; <rs ref="people.xml#pau01 people.xml#mar02"> les
+     Secondât</rs> sont trop sages, trop sérieux et trop représentants pour faire le moindre cas de
+    cela; peut-être les serreraient-ils bien, mais je me trompe fort s’ils s’en amuseraient: <seg
+     xml:lang="de"> sie sind zu steif</seg>. A dire la vérité, je ne me soucie pas beaucoup de
+    l’impression des lettres que <persName ref="people.xml#vol01"> Voltaire</persName> m’a écrites; pour les miennes, je ne vous
+    les donne qu’avec la très expresse défense de les faire copier ou imprimer; je n’écris pas assez
+    bien pour cela. </p>
+   <closer><signed rend="inline">Adieu, que le ciel vous conserve.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02736</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02736</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Check dateline?</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-15">15-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:22:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02736">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1770-08-09">9/20 d'Août 1770</date>
+   </dateline></opener>
+   <p>Monsieur, Vous me dites dans Votre lettre du 20 de Juillet que je Vous
+     done des craintes pour Vous tenir en haleine et que mes Victoires font Vos
+     consolations. Voiçi une petite dose de ses dernières
+    que j'ai à Vous doner. Je viens de recevoir un Courier qui m'a apporté les suites de la
+     <rs ref="events.xml#kagul01">bataille</rs> du <placeName ref="places.xml#kag01"> Kagul</placeName>. Mes troupes ce
+    sont avancée sur le <placeName ref="places.xml#dan01"> Danube</placeName> et ont pris poste sur le bord de
+    ce fleuve vis à vis d'<placeName ref="places.xml#isa02"> Isakchi</placeName>. Le Visir et l'Aga des
+    Janissaires s'est sauvé sur l'autre bord, mais le reste de son monde qui a voulu l'imiter a été
+    tué, noyé, dispersée. Il a fait abattre le pont. Près de deux mille Janissaires ont été fait
+    prisoniers en cette occasion, vingt canons, cinq mille cheveaux, un butin imense et une grande
+    quantité de vivres de tout espèce sont tombé entre nos mains. Les Tartares tout de suite ont
+    envoyé prier le Maréchal Cte: <persName ref="people.xml#rum01"> Roumenzof</persName> de les laisser passer
+    en <placeName ref="places.xml#cri01"> Crimée</placeName>. Il leur a fait répondre, qu'il exigeait leurs
+    homages et il a envoyé un corps considérable à main gauche vers <placeName ref="places.xml#izm01">
+     Ismail</placeName>, pour leur faire une douce violence. Il y a longtems que nous savons qu'ils
+    ne demandent pas mieux, et que seulement ils évitent le reproche de Félonie. Outre cela la
+    conformité de leur Religion avec celle des Turks, inspiroit des scrupules à quelques Moursa ou
+    chefs de hordes. Cependant souvent en soupirant ils disoit entre eux que les Tartares de
+     <placeName ref="places.xml#kaz01"> Kasan</placeName> leur confrère et parens, vivoit heureux sans guerre ni
+    oppression. Notés s'il vous plait que ses derniers bâtissent une très belle Mosquée de
+    Pierre.</p>
+   <p>Les nouvelles de la <placeName ref="places.xml#gre02"> Grece</placeName> et celle même de
+     <placeName ref="places.xml#ist01"> Constantinople</placeName> confirment les bruits des trois échec
+    souffert par la Flotte Turque.</p>
+   <p>Vous ne voulés point de paix Monsieur; soyés tranquile, jusqu'içi on n'en entend point parler.
+    Je conviens avec Vous que s'est une bone chose que la Paix, lorsqu'elle existoit je croyois que
+    s'étoit le non plus ultra du bonheur. Me voilà depuis près de deux ans en guerre, je vois que
+    l'on s'accoutume à tout. La guerre en vérité a des momens bien bons aussi. Je lui trouve un
+    grand défaut s'est qu'on n'y aime point son prochain come soi même. J'étois accoutumée à penser
+    qu'il n'est pas honête de faire du mal aux gens. Je me console cependant un peu aujourd'huy en
+    disant à <persName ref="people.xml#mus01"> Moustapha</persName>, <rs ref="works.xml#george01">Gorge Dandin</rs> tu l'a
+    bien voulu, et après cette réflexion je suis à mon aise à peu près come si devant. Les grands
+    événemens ne m'ont jamais déplut, et les conquêtes ne m'ont jamais tentée. Je ne vois point
+    aussi que le moment de la paix soit bien proche. Il est plaisant qu'on fasse acroire aux Turks
+    que nous ne pourront point soutenir longtems la guerre. Si la passion n'inspiroit ses gens là,
+    coment pourroit ils avoir oubliés que <persName ref="people.xml#pet01"> Pierre le grand</persName> soutint
+    pendant trente ans la guerre tantôt avec ces mêmes Turks, puis avec les Suedois, les Polonais,
+    les Persans, sans que L'<placeName ref="places.xml#rus01"> Empire</placeName> en fût réduit à l'extrêmité?
+    Au contraire, la <placeName ref="places.xml#rus01"> Russie</placeName> est toujour sortie de chaqu'une de
+    ses guerres plus florissante qu'elle n'i étoit entrée et ce sont ses guerres qui vraiment ont
+    mis en branle l'industrie. Chaque guerre chez nous a été la mère de quelque nouvelle ressource
+    qui donnoit plus de vivaçité au comerce et à la circulation.</p>
+   <p>Dificilement Monsieur les Venitiens feront quelque grande chose, ils finassent trop. Ils
+    raisonent tandis qu'il faudroit agir. Je conviens Monsieur que de longtems ils ne retrouverons
+    une occasion plus favorable pour s'acquérir ce qu'ils ont perdu.</p>
+   <p>Si les soi disant princes Chrestiens qui tienent pour les Turks ont de la jalousie des succès
+    de cette guerre, ils ne doivent s'en prendre qu'à eux même. Pourquoi me l'ont ils suscité sans
+    prévoir ce qui en arriveroit, chose cependant aisé à prévoir, pour peu qu'on convienent que
+    l'ordre et la discipline est préférable au désordre et à la désobéissance? Si leurs espérances
+    ce fondoit sur le prétendu dérangement de mes finances, ils s'abusoit encore pitoyablement. Je
+    l'ai dis si dessus, <persName ref="people.xml#pet01"> Pierre le Grand</persName> avoit moins de revenu et
+    moins de troupes que moi. Ce que j'ai fait négocier en <placeName ref="places.xml#hol02">
+     Hollande</placeName> est une bagatelle qui ne sert qu'à soulager le change.</p>
+   <p>Votre projet de Paix Monsieur me paroit un peu ressembler au partage du Lion de la
+     <rs ref="works.xml#fables01"> fable</rs>, Vous gardés tout pour Votre favorite. Il ne faut point exclure de
+    cette paix là les légions de <placeName ref="places.xml#spa03"> Sparte</placeName>, nous parlerons après des
+    Jeux Istmique. Au moment que j'allois finir cette lettre, je reçois la nouvelle de la prise
+     d'<placeName ref="places.xml#izm01"> Ismail</placeName>; voici quelques circonstances assés singulière.</p>
+   <p>Le Visir avant que de passer dans une Barque le <placeName ref="places.xml#dan01">
+       Danube</placeName> harangua ses troupes. Il leur dit qu'ils voyoit eux
+     même que le Ciel étoit si en colère contre les Musulmans et si favorable aux Russes, qu'il
+     étoit impossible de résister plus longtems. Que lui Visir ce voyoit dans la nécessité de passer
+     de l'autre côté du fleuve, qu'il leurs enverroit autant de Bâtiments qu'il pourroit trouver
+     pour les sauver, mais qu'en cas qu'il ne pût effectuer sa promesse, si les Troupes Russes
+     venoit les attaquer, il leur conseilloit de ne faire aucune résistance, mais de mettre bas les
+     Armes et qu'il les assuroit que <rs ref="people.xml#cat01"> l'Impératrice</rs> de
+      <placeName ref="places.xml#rus01"> Russie</placeName> les feroit traiter avec
+     humanité, que tout ce qu'on leur avoit fait à croire jusqu'ici des Russes avoit été imaginé par
+     les enemis des deux Empires. A la suite de ceçi dès que mes troupes ce présentèrent devant
+      <placeName ref="places.xml#izm01"> Ismail</placeName>, les Turks en sortirent et ceux
+     qui y restèrent mirent bas les armes. La Capitulation de la Ville fut faite dans une demi
+     heure. On y pris quarante huit canons et des Magasins considérables de toute espèce. On compte
+     depuis le 21 jusqu'au 27 Juillet, cet à dire depuis la <rs ref="events.xml#kagul01"> Bataille</rs> du
+      <placeName ref="places.xml#kag01"> Kagul</placeName>, près de huit mille prisoniers
+     et depuis l'année passée nous avons pris à l'enemi près de cinq cens Canons. Le Cte:
+      <persName ref="people.xml#rum01"> Roumentzof</persName> a envoyé un corps à droite
+     vers votre <placeName ref="places.xml#bra01"> Brahilow</placeName> qui sera pris selon
+     Votre intention, et un autre à gauche qui doit s'emparer de <placeName ref="places.xml#kil01">
+      Kilia</placeName>. </p>
+   <closer><signed rend="inline">Eh bien Monsieur êtes Vous content? Je vous prie de
+     l'être autant de mon Amitié que je le suis de la Vôtre.
+   <persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

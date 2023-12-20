@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04766</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04766</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to find reference to Maikoff.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:50:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04766">
+  <body>
+  
+   <p>Mons. <persName ref="people.xml#vil01"> du Villiers</persName> doit
+     dire au Gén. Procur. quand vous me consulterez, je vous donnerai mon avis; je travaille pour
+     vous, dispensez-moi d’avoir à faire à Maikoff et à tel autre que vous, car tel est mon poste.
+     Si M-r
+    <persName ref="people.xml#vil01"> du Villiers</persName> le veut, je parlerai de même au Pr.
+     Gén.; je me flatte d’avoir ascendant non-seulement sur son esprit, mais même sur ses
+     passions.</p>
+  </body>
+ </text>
+</TEI>

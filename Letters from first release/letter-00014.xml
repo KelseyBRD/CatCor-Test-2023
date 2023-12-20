@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00014</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00014</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-18">18 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and some annotation.</p>
+            </change>
+            <change>
+                <date when="2015-07-11">11 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00014">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#pet02"
+                                >Péterhof</placeName>, <date when-custom="1774-07-05">ce 5 juillet
+                                1774</date>.</dateline></opener>
+                    
+                    <p>Ce sont les bontés de V. A. R. pour le Sr. <persName ref="people.xml#gri01"
+                            >Grimm</persName> et l'intérêt que celui-ci sait mettre à tout ce qui
+                        passe par ses mains, qui auront donné du relief à mes réponses aux questions
+                        du Sr. <persName ref="people.xml#did01">Diderot</persName>. <persName
+                            ref="people.xml#gri01">Grimm</persName>, qui est un ricaneur de
+                        profession, s'est beaucoup moqué de moi au sujet de ces réponses, et ne
+                        voilà-t-il pas qu'il va les produire aux yeux de V. A. R., devant qui
+                        j'avoue très franchement que je ne les crois aucunement dignes de paraître.
+                        Mais enfin, puisque j'ai commis ce péché, il faut que j'en porte la peine,
+                        il dépend absolument de V. A. R. d'en prendre copie chez le Sr. <persName
+                            ref="people.xml#gri01">Grimm</persName>. Tout ce qu'Elle veut bien me
+                        dire du séjour de celui-ci à <placeName ref="places.xml#rhe01"
+                            >Rheinsberg</placeName> me fait augurer que ce prophète a trouvé grâce
+                        devant Elle, comme anciennement <persName ref="people.xml#sam01"
+                            >Samuel</persName> devant la face du Seigneur. Je ne sais cependant si
+                        ce dernier était précisément aussi amusant que l'autre, dont je puis dire
+                        des nouvelles, ayant passé une partie des soirées de l'hiver à jaser avec
+                        moi, conversations auxquelles pour la plupart du temps n'était admis pour
+                        troisième interlocuteur que <persName ref="people.xml#tho01">Mr.
+                            Tom</persName>, mon chien, qui très souvent fournissait par ses
+                        gentilesses matière à nos entretiens. C'est peut-être ce dont le philosophe
+                        ne s'est pas vanté, mais moi je l'avoue très ingénument à V. A. R. Elle
+                        connaît ma sincérité, et vis-a-vis de qui en aurais-je, si ce n'est pas
+                        vis-a-vis d'Elle qui se plaît à me donner en toutes occasions des preuves de
+                        Son amitié? j'espère bien que V. A. R. ne doute point ni de la mienne ni de
+                        ma gratitude.</p>
+                    <p>Nous vivons ici dans l'attente de voir arriver vers le 20 juillet, ou de ne
+                        pas voir arriver <persName ref="people.xml#gus01">S. M. Suédoise</persName>;
+                        encore jusqu'ici le baron de <persName ref="people.xml#nol01"
+                            >Nolken</persName>, son ministre, ne peut nous dire ce qui en sera. Le
+                        maréchal <persName ref="people.xml#rum01">Roumanzof</persName> a été un peu
+                        plus décisif, il a très joliment fait battre au delà du <placeName
+                            ref="places.xml#dan01">Danube</placeName> par les généraux <persName
+                            ref="people.xml#kam01">Kamensky</persName> et <persName
+                            ref="people.xml#suv01">Souvorof</persName> un corps de quarante mille
+                        Turcs, auquel on a pris 108 drapeaux, 29 canons fondus par <persName
+                            ref="people.xml#tho01">Mr. Thot</persName>, brigadier du Roi
+                        Très-Chrétien, maître-fondeur à Constantinople, tentes et bagages, sans
+                        compter ce qu'on a expédié d'ennemis dans l'autre monde. Ce n'est point de
+                        ce dernier article qu'il faut entretenier V. A. R, ni celui que j'aime dans
+                        les récits des batailles.</p>
+                    <p>Mais ce dont Elle voudra bien que je L'entretienne chaque fois que je Lui
+                        écris, c'est de l'estime et de l'amitié qu'Elle m'a inspirée…<note
+                            type="editorial">Henry, as usual, forwarded this letter to his brother
+                                <ref target="people.xml#fre01">Frederick II</ref>, who received it
+                            on 14 August 1774 (NS). Frederick answered: 'Je reçois, dans ce moment,
+                            la lettre que vous avez eu la bonté de m'écrire, avec celle que vous
+                            voulez bien me communiquer de l'Impératrice, dont je vous fais mille
+                            remercîments. Le temps me manquant pour répondre, je vous rends, mon
+                            cher frère, la lettre de l'Impératrice, par laquelle je vois deux
+                            choses: l'une, que ses succès contre les Turcs la rehausseront de six
+                            coudées, et l'autre, que le voyage rompu du roi de Suède lui donnera de
+                            l'aigreur contre monsieur notre auguste neveu. Après tout, c'est sa
+                            faute, et pourvu qu'aucune guerre s'allume entre ces deux puissances, le
+                            reste nous peut être indifférent' (<bibl><title ref="works.xml#politi01"
+                                    >Politische Correspondenz Friedrich's des Großen</title>,
+                                    <biblScope unit="vol">xxxv</biblScope>, <biblScope unit="pp">pp.
+                                    497-98</biblScope> (<idno>Letter
+                        23256</idno>)</bibl>).</note></p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#pet02"
+                                >Peterhof</placeName>, <date when-custom="1774-07-05">this 5 July
+                                1774</date>.</dateline></opener>
+                    
+                    <p>It was Your Royal Highness's kindnesses towards Mr. Grimm and the interest
+                        that he lends to all that passes through his hands that lent lustre to my
+                        replies to Master Diderot's questions. Grimm, who is a professional
+                        sniggerer, mocked me a great deal over those replies, and now there he goes
+                        placing them before Your Royal Highness's eyes, before whom, I frankly
+                        admit, I do not think them in the least worthy of appearing. But, in the
+                        end, since I committed that sin, I must endure the punishment. It is
+                        entirely up to Your Royal Highness to obtain a copy from Master Grimm. That
+                        that You are so kind to say to me about the latter's stay at Rheinsberg
+                        allows me to divine that this prophet has found Your favour, as Samuel once
+                        did before the face of the Lord. I do not know whether the latter was quite
+                        as entertaining as the former, of whom I can report much, since he spent
+                        some winter evenings chatting with me. Most of the time, the only third
+                        interlocutor permitted in these conversations was Mr. Tom, my dog, who very
+                        frequently provided a subject for our discussions by his sweetnesses. The
+                        philosopher perhaps did not brag of it, but I admit it most ingenuously to
+                        Your Royal Highness. You know my sincerity, and before whom, if not before
+                        You, would I be so, when You take pleasure in giving me on all occasions
+                        proofs of Your friendship? I do hope that Your Royal Highness has no doubt
+                        either of mine or of my gratitude.</p>
+                    <p>We are here living in expectation of seeing His Swedish Majesty arrive, or
+                        not arrive, around the 20th of July. Up til now his minister, Baron Nolcken,
+                        has not yet been able to tell us what will come of it. Marshal Rumyantsev
+                        has been a bit more decisive: he has most prettily made General Kamensky and
+                        General Suvorov beat, on the other side of the Danube, a corps of forty
+                        thousand Turks. They took from them 108 flags; 29 cannons cast by Mr. Tott,
+                        brigadier to His Most Christian Majesty and master-smelter at
+                        Constantinople; tents and baggage, not counting the enemies who were shipped
+                        off to the next world. The last point is not what one ought to discuss with
+                        Your Royal Highness, nor the one that I like to hear in accounts of
+                        battles.</p>
+                    <p>But, each time I write, You will be pleased for me to discuss with you the
+                        esteem and friendship which You have inspired in me...</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

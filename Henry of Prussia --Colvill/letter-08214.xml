@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08214</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08214</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-01">01-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:17:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08214">
+  <body>
+   <opener><dateline> de <placeName ref="places.xml#her01"> l'Ermitage</placeName> de <placeName
+      ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date when-custom="1771-07-03">3/14
+      juillet 1771</date>.</dateline></opener>
+   <p>V. A. R. m’ayant donné tant de marques de la part qu'Elle veut bien prendre à ce qui m’arrive,
+    je crois qu'il ne Lui sera tout-à-fait indifférent de savoir que me voilà dame et suzeraine du
+    plus profond fossé dont j'ai jamais entendu parler. Le prince <persName ref="people.xml#dol03">
+     Dolgorouki</persName> avec son armée a forcé le 17 juin n. st. la fameuse ligne de <placeName
+     ref="places.xml#per04"> Pérécop</placeName>, qui a 13 toises de profondeur et 8 de largeur;
+    elle était gardée par le <persName ref="people.xml#gir06"> Chan</persName> de <placeName
+     ref="places.xml#cri01">Crimée</placeName> en personne avec soixante mille hommes, tant <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> que <orgName ref="orgs.xml#tart01"> Tartares</orgName>,
+    cinq batteries et un fort. J'avoue, qu’à la place du <persName ref="people.xml#mus01">
+     Sultan</persName>, j'aurais de l'humeur en cette occasion. Comment? un abîme gardé par une
+    grosse armée, lardé de canons et garni suffisamment de tout ce qu’on peut imaginer pour le
+    défendre, et cet attirail à peine a-t-il fait quelque résistance? Il ne fait pas bon être sultan
+    lorsqu’on est aussi mal servi. Il est vrai qu’à <placeName ref="places.xml#giu01">
+     Gourgi</placeName> je n'ai guère été mieux servie que lui, le commandant n’a pas jugé à propos
+     d'attendre <persName ref="people.xml#rep01">le prince Repnin</persName> qui n’était plus qu’à
+    quelques heures de la place, il l’a rendue aux <orgName ref="orgs.xml#turk01"> Turcs</orgName>;
+    mais j’espère que cette mésaventure se réparera, car déjà <persName ref="people.xml#rep01">le
+     prince Repnin</persName> a battu le corps ennemi qui était venu à sa rencontre.</p>
+   <p>La lettre de V. A. R. du 21 juin m’a été remise ces jours passés, elle m’a trouvée dans une
+    grande inquiétude au sujet d'une fièvre catarrhale qui est survenue à <rs ref="people.xml#pau01"
+     > mon fils</rs> et qui m'a fait revenir de la campagne en ville. Présentement son mal est
+    diminué et ma tête assez libre pour pouvoir répondre à V. A. R., sans que ma lettre se ressente
+    de l’humeur sombre qui m'occupait les jours passés. Mais dans quelle disposition que je sois, je
+    n’en ressens pas moins combien je suis redevable à V. A. R. de l'amitié et des politesses
+    qu'Elle veut bien me témoigner dans toutes Ses lettres. <persName ref="people.xml#vol01"
+     >Voltaire</persName> m'a envoyé le sermon, dont Elle fait mention et dans lequel St. Nicolas
+     et <persName ref="people.xml#mus01">Moustapha</persName> jouent chacun un rôle, il m’a aussi
+    fait parvenir <rs ref="works.xml#epitre04"> une épître</rs> en vers qui est très plaisante, mais
+    que je n'ai osée envoyer à V. A. R., quoique j’en aie été tentée plusieures fois. Elle me
+    demande que feront mes généraux et mes amiraux en temps de paix.</p>
+   <p>Voici ma réponse. Ils redeviendront citoyens et citoyens zélés, et pour s’amuser ils
+    travailleront tous en commun au <rs ref="works.xml#nakazk01"> nouveau code des lois</rs> que
+    nous avons à achever, qui doit l’être et qui le sera. J'en ai donné ma parole et il ne faut pas
+    que je prenne l'habitude d'y manquer, parce que cela ne serait pas honnête. J’espère que ce code
+    deviendra l'ouvrage du bons sens, et celui-là appartient à toutes les conditions et non aux
+    seuls jurisconsultes.</p>
+   <p>V. A. R. s'intéresse à tout ce qui regarde l'humanité; je prends la liberté de Lui envoyer un
+    imprimé qui contient une méthode singulière et nouvelle comment on a guéri un homme attaqué
+    d’une fièvre pourprée qu'on a voulu faire passer pour la peste et contre laquelle toute
+     l'<placeName ref="places.xml#eur01">Europe</placeName> à présent a tiré des cordons. Je fais
+    comme les autres: c'est une belle chose dont plusieurs se trouvent bien, mais pas tous.</p>
+   <closer><signed>J'ai l'honneur d'être ...</signed></closer>
+  </body>
+ </text>
+</TEI>

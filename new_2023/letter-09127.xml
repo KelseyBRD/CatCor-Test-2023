@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09127</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09127</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#acquisitions"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>Could not find who was Abraham Gerrit</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-06">2023-07-06</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="fr" xml:id="letter-09127"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1790-09-23">1790 г. le 23 Sept.</date>
+                </dateline>
+            </opener>
+            <p>Abraham Gerrit, fleuriste à <placeName ref="places.xml#ams01">Amsterdam</placeName> vend des arbres d’<placeName ref="places.xml#ame01">Amerique</placeName>, avec le nom de chaque arbre, à fl. 50 le 100, et les plus assortimens de fleurs, comme doubles hiacinthes en toutes les couleurs, tulipes, renoncules, anemones, narcisses, semences de fleurs <placeName ref="places.xml#ame01">Américaines</placeName>.—Faites moi avoir de cela pour un millier de florins pour le printems prochain.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03619</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03619</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-09">09/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:55:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03619">
+  <body>
+   <p>Je n’ai que faire de vous dire comment j’étais pendant ces six mois que je ne vous ai pas
+    écrit; vous me connaissez assez pour en juger; ma santé y a résisté; je ne vous écrivais pas,
+    parce qu’en vérité je n’avais rien de réjouissant à vous dire. Ce matin, 20 février, j’ai reçu
+    votre lettre du 24 janvier, à laquelle celle-ci sert de réponse. J’ai fait pendant cet hiver un
+    régistre de 280 mots que j’ai fait traduire dans cent quatre-vingts langues et dialectes; on
+    m’en apporte encore tous les jours, et voilà tout ce que j’ai fait: n’ayant pas le sens commun,
+    j’ai cru qu’il n’était pas nécessaire d’écrire. L’histoire russe dort; mes <rs
+     ref="people.xml#ale01 people.xml#kon01">petits-fils</rs> grandissent; la belle <persName ref="people.xml#ele01">
+     Hélène</persName> est bien nommée, car cet enfant est d’une grande beauté, et voilà pourquoi je
+    l’аі nommée <persName ref="people.xml#ele01"> Hélène</persName>. Les sites de la terre que j’ai
+    achetée sont très agréables; je l’ai été voir; comme vous voyez, je ne suis pas morte, malgré ce
+    que les gazettes ont pu dire; je n’ai aucune trace de maladie non plus, <seg xml:lang="it">
+     ma</seg> jusqu’ici j’ai été un être inanimé, végétant et inanimable; j’ai vu et j’ai appris
+    pendant ce temps combien j’avais de vrais amis et souvent leur amitié m’était à charge;
+    cependant il y a bien des points qu’ils ont su tourner à mon avantage, et c’est en vérité
+    beaucoup, et puis <seg xml:lang="it"> basta</seg>. </p>
+   <closer><signed rend="inline">Voilà tout ce que j’ai à vous dire. Portez-vous
+    bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

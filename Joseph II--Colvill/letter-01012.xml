@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01012</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01012</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:00:55Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01012">
+  <body>
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, <date when-custom="1781-02-08">8 février 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Le <persName ref="people.xml#cob02"> comte de Cobenzl</persName> n’aura
+    pas manqué de porter à la connaissance de V. M. I. l’état dans lequel se trouve la négociation
+    dont il est chargé de Sa part. Je prie instamment V. M. I. d’être persuadée que mon désir égale
+    le sien de finir cette négociation (au devant de laquelle je me suis portée avec le plus grand
+    empressement) à notre satisfaction réciproque. J’ose espérer que des deux côtés le vouloir et le
+    pouvoir l’emporteront sur les noeuds gordiens des formes et des figures. Je dépose entre les
+    mains sacrées de V. M. I. que ce sera avec le plus grand plaisir que de mon côté je me prêterai
+    à aplanir les difficultés auxquelles je pense qu’on pourrait apporter plus d’un expédient
+    admissible.</p>
+   <p>Qu’Elle me pardonne toutes ces belles expressions inventées par la politique du temps présent.
+    Comme il y a quelques mois que j’en entends plus parler que jamais, et que toute celle de
+     l’<placeName ref="places.xml#eur01">Europe</placeName> entière voyage présentement
+     entre <placeName ref="places.xml#vie01">Vienne</placeName> et <placeName ref="places.xml#pet01"
+     > Pétersbourg</placeName>, il n’est pas étonnant que mon style et mes expressions s’en
+    ressentent.</p>
+   <p>Ce qu’il y a de sûr, c’est qu’en aucune occasion les sentiments sincères de la plus haute et
+    la plus parfaite considération ne seront variables. </p>
+   <closer><signed>C’est avec eux que j’ai l’honneur d’être ....</signed></closer>
+  </body>
+ </text>
+</TEI>

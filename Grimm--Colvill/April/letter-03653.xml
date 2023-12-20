@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03653</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03653</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-19">19-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:52:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03653">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1787-11-25">25 novembre 1787</date>.</dateline></opener>
+   <p>Hier, jour de ma fête, à 9 heures du matin <persName ref="people.xml#tou01">
+     Toutolmine</persName> est arrivé; jusqu’à cette heure je n’ai lu que la moitié de ce que vous
+    m’avez écrit par lui; mais aujourd’hui à midi on m’a remis votre lettre du 29 octobre (9
+    novembre), qui m’annonce le départ du susdit courrier. J’ai cru que <rs ref="people.xml#dmi01">
+     l’habit rouge</rs> perdrait l’esprit de joie du cabinet <persName ref="people.xml#orl07">
+     d’Orléans</persName>. Notez, s’il vous plaît, qu’après avoir dessiné, M. <rs
+     ref="people.xml#dmi01"> l’habit rouge</rs> s’est mis à graver des pierres depuis un mois, et
+    que son maître est étonné des progrès qu’il fait. Il a gravé un casque avec son panache, un
+    drapeau, un caducé et Dieu sait quoi encore; mais à force de graver, il a un peu mal aux yeux
+    déjà, et le cabinet est venu fort à propos pour nous tirer de notre atelier. Il vous répondra
+    incessamment.</p>
+   <p>Il est vrai que <persName ref="people.xml#tou01"> Toutolmine</persName> est arrivé chargé non
+    comme un mulet, <seg xml:lang="it"> ma</seg> comme un vaisseau marchand, c’est-à-dire par mer.
+    J’ai tout reçu selon la facture: les oeuvres de <persName ref="people.xml#buf02"> M. de
+     Buffon</persName>, dix volumes folio et vingt-cinq in 4-0 en maroquin rouge pour <rs
+     ref="people.xml#dmi01"> l’habit rouge</rs>. Suite des <title ref="works.xml#oeuvre02"> oeuvres
+     de Voltaire</title>, <title ref="works.xml#memoir06"> mémoires de Goldoni</title>. L’art de la
+    marine de M. <persName ref="people.xml#rom03"> Romme</persName>. Et tous les 9 articles dont
+     <persName ref="people.xml#tou01"> Toutolmine</persName> était porteur; j’ai dit à <rs
+     ref="people.xml#dmi01"> l’habit rouge</rs> qu'il donne un catalogue en récompense d’avoir tout
+    amené à port heureusement; je vous suis bien obligée de toutes les peines que vous vous êtes
+    données au sujet de toutes ces expéditions, et très fâchée des étouffements que vous en avez
+    eus. Pour de l’édition du catalogue, je n’en suis pas de tout carieuse. Réellement il paraît que
+    ce cabinet n’est pas payé cher et qu’à l’encan on aurait pu en faire plus d’argent, mais c’était
+    un hasard.</p>
+   <p>Vous aurez reçu de mes lettres par <persName ref="people.xml#bac01"> Bacchus</persName>: si je
+    me souviens bien, je vous ai écrit plusieurs fois cet automne par lui. Depuis la déclaration de
+    la guerre, il n’y a eu guère encore de choses importantes: les <orgName ref="orgs.xml#turk01">
+     Turcs</orgName> ont voulu nous enlever à diverses reprises le fort de <placeName
+     ref="places.xml#kin01"> Kinbourne</placeName>; ils ont été toujours repoussés, et à la dernière
+    attaque ils ont perdu vers les cinq mille hommes. La flotte de <placeName ref="places.xml#sev01"
+     > Sévastopol</placeName> a souffert par la tempête: plusieurs vaisseaux ont été démâtés, et la
+    Madeleine, je ne sais comment, est allée jeter l’ancre, toute démâtée et avec une voie d’eau,
+    dans le canal de <placeName ref="places.xml#ist01"> Constantinople</placeName>, d’où ce vaisseau
+    a été pris et mené à l’arsenal de Thérapia; le capitaine n’en était pas russe, mais anglais. En
+    revanche, la flotte turque devant <placeName ref="places.xml#och01"> Otchakof</placeName> a perdu deux vaisseaux de guerre et
+    plusieurs frégates, que la flotte du <placeName ref="places.xml#dni03"> Dnieper</placeName> et
+    le fort de <placeName ref="places.xml#kin03"> Kinbourne</placeName> lui ont coulés à fond ou
+    fait sauter en l’air; du côté du Kouban le lieut.-général <persName ref="people.xml#pot01">
+     Potemkine</persName> a battu, dans sept combats divers, les <orgName ref="orgs.xml#tart01">
+     Tartares</orgName> Nogaïs; pour leur faire passer l’envie de passer le fleuve <placeName
+     ref="places.xml#kub01"> Kouban</placeName> il les a été chercher chez eux. Les <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> sont les attaquants; ils nous ont surpris, mais
+    jusqu’ici nous n’avons pas un pouce de terre de perdu, Dieu merci. Vous serez informé
+    régulièrement de ce qui se passera; nous avons une frégate qui s’est défendue comme un démon
+    contre toute l’escadre d’<placeName ref="places.xml#och01"> Otchakof</placeName>; nous avons
+    encore une galère qui sous <placeName ref="places.xml#kin01"> Kinbourne</placeName> a tenu en
+    respect toute cette même escadre; enfin, à tout prendre, tout va bien, et je dois être contente,
+    mais les grands coups ne sauraient encore avoir été portés. Je suis persuadée que mes deux
+    maréchaux feront très bien; j’ai une très grande confiance dans leur génie et habileté, et je me
+    flatte qu’ils en ont en moi; les gens qui ont guerroyé sont les mêmes; les ressources les mêmes;
+    enfin, si quelque chose a changé, j’espère que c’est pour le mieux, <seg xml:lang="de"> und also
+     sehe ich nicht warum man such sollte herumschleppen mit vielen Grillen, vielleicht die Türken,
+     aber nicht wir. Das Korn ist theuer, aber dennoch so isst man allerwegen Brod und brennt
+     Brantwein.</seg></p>
+   <p>Ecoutez: il est impertinent que <persName ref="people.xml#bea01"> Beaumarchais</persName> ait
+    imprimé mes lettres à moi sans ma permission; mais si ce ne sont que les lettres que <persName
+     ref="people.xml#vol01"> Voltaire</persName> m’a écrites, je ne m’en soucie point, pourvu que
+    les miennes ne le- soient pas; mais s’il a imprimé les miennes, je vous prie de faire en sorte
+    qu’elles ne paraissent pas, quoiqu’assurément il n’y ait rien dont on puisse être choqué, ma il
+    mérite correction pour m’avoir manqué. Écoutez, nous sommes tous mortels: brûlez mes lettres,
+    afin qu’elles ne soient pas imprimées de mon vivant; elles sont bien plus lestes que celles que
+    j’ai écrites à <persName ref="people.xml#vol01"> Voltaire</persName>, et pourraient faire un mal
+    du diable; j’exige que vous les brûliez, entendez-vous? ou que vous les mettiez dans un endroit
+    si sûr que de cent ans personne ne les puisse déterrer.</p>
+   <p>Vous devez savoir, à l’heure qu’il est, ce que je vous ai mandé au sujet de <persName
+     ref="people.xml#aug01"> Zelmire</persName>. Il est vrai que <rs ref="people.xml#fri06"> don
+     Féroce de <placeName ref="places.xml#mon01"> Montbéliard</placeName></rs> m’a mandé que pour
+    passion pour les armes russes il demandait à servir et que j’ai répondu que les mêmes
+    circonstances qui l’avaient éloigné d’ici étant immuables, je ne pouvais consentir à ses désirs;
+    là-dessus il m’a mandé qu’il prenait son congé, sur quoi j’ai donné ordre de ne plus le compter
+    au service de l’empire. Pour <persName ref="people.xml#aug01"> Zelmire</persName>, elle passera
+    les étés à <placeName ref="places.xml#loh01"> Lohde</placeName>, sa campagne, et ses hivers a
+     <rs ref="places.xml#tal01"> Réval</rs>. </p>
+   <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>.
+     Portez-vous bien; j’en fais autant. <persName ref="people.xml#seg01"> Ségur </persName>saute de
+     joie de ce que sa cour a rappelé les ingénieurs français aux <orgName ref="orgs.xml#turk01">
+      Turcs.</orgName></signed></closer>
+  </body>
+ </text>
+</TEI>

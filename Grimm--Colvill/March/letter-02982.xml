@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02982</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02982</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+   
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:21:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02982">
+  <body>
+   
+<opener>   <dateline> A <placeName ref="places.xml#tsa01">
+     Tsarekoé-Sélo</placeName>, ce <date when-custom="1776-04-17">17 d’avril 1776</date>.</dateline></opener>
+   <p>J’ai reçu votre No 28 du 10 février, écrit à <placeName ref="places.xml#nap01">Naples</placeName>
+    dans les jours les plus affreux de ma vie: le dix d’avril à quatre heures du matin mon <rs
+     ref="people.xml#pau01"> fils</rs> est venu me chercher, parce que <rs
+     ref="people.xml#wil01"> son épouse</rs> sentait les douleurs de l’enfantement. J’ai sauté
+    du lit et j’y suis accourue: je l’ai trouvée qu’elle se tourmentait beaucoup, mais sans qu’il y
+    eût rien d’extraordinaire; le temps et la patience devaient la tirer d’affaire. <rs
+     ref="people.xml#rum05"> Une femme</rs> et un chirurgien habile la secouraient. Cet état
+    continua jusqu’à la nuit; il y eut des intervalles tranquilles, du sommeil même; les forces ne
+    diminuaient point. Le lundi se passa dans une attente et un état pareil et très inquiétant;
+    outre son <rs ref="people.xml#kru01"> docteur</rs>, qui se tenait dans l’antichambre, celui du
+     <rs ref="people.xml#pau01"> grand-duc</rs> et un autre <rs ref="people.xml#tod01">
+     accoucheur</rs>, le plus habile qu’il y eût, furent appelés pour servir de conseil à ceux qui y
+    étaient. Leur conseil ne produisit ni nouveaux éxpédients, ni nouveau soulagement; ils
+    demandèrent le mardi <rs ref="people.xml#rog01"> mon docteur</rs> et un <rs
+     ref="people.xml#lin01"> ancien accoucheur</rs> habile pour renouveler leur consultation.
+    Ceux-ci arrivés, on décida qu’il fallait sauver la <rs ref="people.xml#wil01">
+     mère</rs>, parce que l’enfant probablement était mort; les instruments furent employés;
+    un concours de malheureuses circonstances, occasionné par la conformation et par divers
+    accidents, rendirent toute la science humaine inutile pendant le mercredi; le jeudi la <rs
+     ref="people.xml#wil01"> grande-duchesse</rs> reçut tous les sacrements. Le <persName
+     ref="people.xml#hen02"> prince Henri</persName> proposa son <rs ref="people.xml#sto01">
+     médecin</rs>; il fut admis, mais il justifia ses confrères; le vendredi cette <rs ref="events.xml#natal01">princesse rendit l’âme à 5 heures du soir</rs>. Hier
+    elle a été ouverte en présence de 13 médecins et chirurgiens, et par ce qu’ils ont trouvé il
+    résulte que c’est un cas presque unique et irrémédiable. Vous ne sauriez vous imaginer ce
+    qu’elle a dû souffrir, et nous avec elle: j’en ai l’âme déchirée; je n’ai pas eu de moment de
+    repos pendant tous ces cinq jours, et je n’ai quitté ni jour ni nuit cette princesse jusqu’à ce
+    qu’elle ait fermé les yeux. Elle me disait: «Vous êtes une excellente garde-malade».
+    Imaginez-vous ma situation: consoler l’un, raffermir l’autre, n’en pouvant plus de corps et
+    d’âme et étant obligée d’encourager, de décider et d’imaginer tout ce qui ne devait point être
+    oublié. Je vous avoue que de ma vie je ne me suis trouvée dans une situation plus difficile,
+    plus horrible, plus pénible: j’oubliais boire, manger et dormir, et mes forces se soutenaient je
+    ne sais comment. Je commence à croire que si de cette aventure mon système nerveux ne se dérange
+    pas, il est indérangeable. Vingt-quatre heures avant la <name ref="events.xml#natal01"
+     >mort de la grande-duchesse</name> j’envoyai prier <persName ref="people.xml#hen02">le prince
+    Henri</persName> de s’emparer, pour mon soulagement, du <persName ref="people.xml#pau01">
+     grand-duc</persName>: il vint et ne le quitta guère; il supporte son profond chagrin avec assez
+    de fermeté, mais aujourd’hui il a pris la fièvre. Dès que son épouse fut morte, je l’enlevai et
+    l’emmenai ici. <seg xml:lang="la">Sic transit gloria mundi</seg>. </p>
+   <closer><signed rend="inline">Adieu, je répondrai à votre 28 No une autre fois. </signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00061</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00061</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-28">28 March 0214</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup and tagging</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-00061">
+        <body>
+
+            <p>Le 25 septembre il est arrivé de la part du <persName ref="people.xml#pot01">maréchal
+                    prince Potemkine Tavritcheski</persName>
+                <persName ref="people.xml#zub02">le colonel Zoubof</persName> qui a apporté les
+                nouvelles suivantes, datées du 16 sept. du quartier général à <placeName
+                    ref="places.xml#cau01">Kauchan</placeName>, à 20 verstes de <placeName
+                    ref="places.xml#ben01">Bender</placeName>:<note type="editorial">This letter to
+                    Grimm is essentially a translation of Potemkin's report to Catherine of 16
+                    September 1789; Catherine sent an identical account of the war news to Johann
+                    Georg Zimmermann, also on 25 September. For bringing this news, Nikolay Zubov
+                    was promoted to colonel. Catherine replied to Potemkin's reports of 10 and 16
+                    September 1789: 'je vous trouve tout à fait charmant de m'avoir envoyé tant de
+                    bonnes nouvelles à la fois' ('I find you utterly charming for having sent me so
+                    much good news all at once') (<bibl><title ref="works.xml#ekater01">Ekaterina II
+                            i G.A. Potemkin</title>, <biblScope unit="pp">pp. 886-87,
+                            374</biblScope></bibl>; <bibl><title ref="works.xml#briefw02">Der
+                            Briefwechsel zwischen der Kaiserin Katharina II. von Russland und Joh.
+                            Georg Zimmermann</title>, <biblScope unit="pp">pp.
+                        109-10</biblScope></bibl>).</note> le 7 sept. <persName
+                    ref="people.xml#orl02">le brigadier Orlof</persName> a battu près de <placeName
+                    ref="places.xml#mal02">la rivière Saltcha</placeName> l'avant-garde d'<persName
+                    ref="people.xml#cez01">Assan-Pascha</persName> consistant en cinq mille Turcs,
+                auquel combat <persName ref="people.xml#cez01">Assan-Pascha</persName> serasquier,
+                ci-devant capitaine-pascha, a assisté en personne. Le 8 sept., à l'approche des
+                troupes russes, <persName ref="people.xml#cez01">Assan-Pascha</persName>,
+                serasquier, abandonna son camp et ses canons et s'enfuit à <placeName
+                    ref="places.xml#izm01">Izmaïl</placeName>, et camp et canons tombèrent entre les
+                mains des troupes russes commandées par <persName ref="people.xml#rep01">le prince
+                    Repnine</persName>.<note type="editorial">Catherine sent this news to Potemkin
+                    on 22 September (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                            Potemkin</title>, <biblScope unit="pp">p.
+                374</biblScope></bibl></note></p>
+            <p><rs ref="events.xml#rymni01">Le 11 septembre</rs>
+                <persName ref="people.xml#suv01">le général Souvorof</persName> et <persName
+                    ref="people.xml#cob01">le prince de Saxe-Cobourg</persName> près de <placeName
+                    ref="places.xml#foc01">Fokchani</placeName> battirent à plate couture l'armée
+                turque commandée par <persName ref="people.xml#cen01">le grand visir</persName>
+                lui-même; 80 canons, 50 drapeaux, tout le camp et bagage turc tombèrent entre les
+                mains des troupes combinées de l'<rs ref="people.xml#jos01">empereur</rs> et de la
+                    <placeName ref="places.xml#rus01">Russie</placeName>; on compte la perte des
+                Turcs jusqu'à six mille hommes de tués.</p>
+            <p>Le 12 sept. le sérasquier <persName ref="people.xml#cez01">Assan-Pacha</persName>
+                s'enferma dans <placeName ref="places.xml#izm01">Izmaïl</placeName>, qui est
+                fortifié par des retranchements.</p>
+            <p><rs ref="events.xml#cause01">Le 13 sept.</rs> près de <placeName
+                    ref="places.xml#cau01">Kauchan</placeName>
+                <persName ref="people.xml#zai01">le pascha à trois queues Zaïnali Assan Beglerbey
+                    d'Anatolie</persName> a été fait prisonnier, après que le corps qu'il commandait
+                eut été battu, son camp et ses canons pris par le corps au commandement du <rs
+                    ref="people.xml#vic01">prince d'Anhalt-Bernbourg</rs>, lieutenant-général.</p>
+            <p><rs ref="events.xml#gadzh01">Le 14 sept.</rs> le château d'<placeName
+                    ref="places.xml#cri01">Adjibey</placeName> a été emporté par <persName
+                    ref="people.xml#rib01">le gl.-major Ribas</persName>. Les détails de tout ceci
+                nous parviendront après; en attendant nous chanterons demain le Te Deum aux sons des
+                cloches et des canons.</p>
+            <closer><dateline><date when-custom="1789-09-25">Ce 25 septembre
+                        1789,</date>
+                    <placeName ref="places.xml#pet01">à S<seg rend="sup">t</seg>
+                        Pétersbourg.</placeName></dateline></closer>
+        </body>
+    </text>
+</TEI>

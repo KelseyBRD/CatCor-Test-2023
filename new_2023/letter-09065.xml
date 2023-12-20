@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09065</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09065</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#navy"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09065"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-07-01">1788 г. июля 1.</date>
+                </dateline>
+            </opener>
+            <p>Заготовьте указ, чтоб <title ref="works.xml#pobedo01">корабль Победоносец</title>, который <persName ref="people.xml#gre01">Грейг</persName> возвратил с больными, и еще другой, вооружили и послали <persName ref="people.xml#gre01">Грейгу</persName> в подкрепление.</p>
+        </body>
+    </text>
+</TEI>

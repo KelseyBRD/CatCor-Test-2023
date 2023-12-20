@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01133</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01133</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-06"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01133">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Завтра поутру поеду на одне сутки в <placeName ref="places.xml#gat01"
+                    >Гатчину,</placeName> о чем хотела Вам дать знать; естьли дела, не терпящия
+                времяни, у Вас не будут, то прежде середы, или вторника вечеру, ко мне оных не
+                присылайте, понеже я еду весьма налегке. Скажите <persName ref="people.xml#pan02"
+                    >брату,</persName> что <persName ref="people.xml#mor02">Морсошникову</persName>
+                от меня приказано отпустить к нему коляску, желая, чтоб он в ней нужды долго не
+                имел, а Вам здравствовать и с <persName ref="people.xml#pot01">Великим
+                    Князем.</persName> Я не нарадуюсь нынешней погоде и, сколько возможно, оною
+                пользуюсь. В будущее воскресение думаю быть в городе.</p>
+            <closer rend="inline">Пребываю с всегдашним к Вам доброжелательством.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1766-05-14">Мая 14 ч.,<lb/>
+                1766.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

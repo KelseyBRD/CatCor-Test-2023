@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00865</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00865</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2017-07-18">18 July 2017</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00865">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute>
+                    </opener>
+                    <p> Письмо твое от 22 августа я сегодня получила. Жалею весьма, что ты столь
+                        много обезпокоен Очаковской осадою. Терпением все преодолевается. Лутче
+                        тише, но здорово, нежели скоро, но подвергаться опасности, либо потере
+                        многолюдной. Какова крепка земля тамо, из того заключить уже можно, что
+                        волами пашут. Я нимало не сумневаюсь, что ты ничего не пропускаешь, что
+                        делать возможно. Жаль и последнего человека, который теряется и при удачном
+                        отражении вылазки, но что делать, естьли инако нельзя. Неприятные два
+                        случая, кои случились с бомбардою, взорванною от собственного огня во время
+                        действия, и второй - сгорения магазейна снарядов для флотилии в <placeName
+                            ref="places.xml#kin01">Кинбурне,</placeName> я усмотрела с ужасом. И
+                        какой вред вящий еще случиться мог, естьли б не десница Божия сохранила
+                        бочки с порохом числом до тысячи пуд, кои остались целы! </p>
+                    <p>Я из <placeName ref="places.xml#rig01">Риги</placeName> имела известия в
+                        июле, что пушки из <placeName ref="places.xml#eng01">Англии,
+                        </placeName>выключая малое число для Днепровского флота, все из <placeName
+                            ref="places.xml#rig01">Риги</placeName> везут чрез <placeName
+                            ref="places.xml#vit01">Витебск</placeName> к вам, и шведам не попалось
+                        из сих транспортов ничего.</p>
+                    <p>Шведский флот блокирован в <placeName ref="places.xml#suo01"
+                            >Свеаборге</placeName> доныне. Армейский их флот одна наша эскадра,
+                        также у <placeName ref="places.xml#han02">Гангуда</placeName> стоя, в шхерах
+                        держит. И шведы, окроме Гогфорского поста, теперь из всей <placeName
+                            ref="places.xml#fin01">Финляндии</placeName> вышли. Король же сам сидит
+                        либо в Гельзингфорсе, либо где ни весть в углу в <placeName
+                            ref="places.xml#fin01">Финляндии</placeName> и кутит между своими, кои
+                        его хотя и не слушают в том, чтоб наступательно действовать противу нас, но
+                        он им внушает разные прихоти и нелепы. Я им велела сказать, что ничего
+                        слушать не могу, пока не выйдут сами, либо не выгнаны будут из Гогфорса.
+                        Ваши мысли ко времяни и кстати употреблю.</p>
+                    <p>Что неприятель тянется, по словам <persName ref="people.xml#rum01">Гр[афа]
+                            Румянцева,</persName> к тебе - сие мне весьма не мило слышать. Он бы мог
+                        в том ему зделать препятствия. Что цесарцы разбиты, о сем и мы слышали.</p>
+                    <p>Старшины казацкие для набору казаков еще не бывали; здешние неохотно,
+                        казалось, хотели приняться за набор казаков: говорили, что они, казаки,
+                        везде готовы служить и что в том нужды нет, понеже их повсюду станет. Я
+                        думаю, что думают, когда здесь будут казаки, тогда Донских менее уважать
+                        будем. Видя сие, я остановила сие дело, пока пришлешь старшин, а теперь
+                        формировать я велела гусарский полк да Эстляндский егерский корпус, понеже
+                        Лифляндский - в армии, а нам люди нужны, и они заменят полки, кои без того
+                        сюда бы повернуть надлежало. Я ныне, как видишь, бойкий воин стала. Ты надо
+                        мною смейся, буде хочешь, однако что добро - прошу одобрить, <seg
+                            xml:lang="fr">parce qu'il faut encourager le mente
+                        naissant.</seg></p>
+                    <closer><signed>Прощай, мой друг любезный, будь здоров, благополучен и
+                            щастлив.</signed>
+                        <dateline rend="below"><date when-custom="1788-08-31">Авг[уста] 31 ч., 1788
+                                г. </date></dateline></closer>
+                        <postscript><p rend="below">Отпиши, каков <persName ref="people.xml#kut01"
+                                >Кутузов</persName> и как он ранен? И от меня прикажи наведываться.
+                        </p></postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03601</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03601</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-03">03/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:53:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03601">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+      when-custom="1783-08-16">16 d’août 1783</date>.</dateline></opener>
+   <p>J’ai reçu le 48 <seg xml:lang="de"> Vortrag</seg> <rs ref="people.xml#gri01">souffre-douleur</rs>ien, il y а une quinzaine de
+    jours, et le seigneur <rs ref="people.xml#bez01"> factotum</rs> vient de m’ordonner de tenir
+    prête la réponse, pour laquelle généreusement il me donne trois jours. NB. Je n’ai point reçu la
+    pancarte dont <persName ref="people.xml#rum02"> Michel Roumiantsof</persName> est chargé, parce
+    qu’il n’est point arrivé.</p>
+   <p>Remarque importante.</p>
+   <p>Ceci s’écrit sur le dos de la seconde époque de l’histoire de la <placeName
+     ref="places.xml#rus01">Russie</placeName>, qui me sert de point d’appui. Remerciez le ciel de
+    ce qu’elle n’est ni achevée ni traduite, parce que si elle l’était, elle vous tomberait comme un
+    morceau de plomb sur la tête.</p>
+   <p>Sur les NB. et les remarques il faut que vous sachiez qu’il sort depuis quatre mois un journal
+    russe à <placeName ref="places.xml#pet01"> Pétersbourg</placeName> où les NB. et les remarques
+    sont employés souvent à mourir de rire; en général, ce journal est un salmigondis de choses très
+    amusantes. J’y ai fait fourrer aussi la première époque de l’histoire de <placeName
+     ref="places.xml#rus01">Russie</placeName>, et on en est assez content; NB. ceci se dit par
+    modestie, car le succès parait être complet. Grand merci de ce que malgré vos peines vous ayez
+    tripoté pour moi.</p>
+   <p>Le connaissement du navire le jeune Ulric je l’ai livré au <rs ref="people.xml#bez01">
+     factotum</rs>, afin qu’il fasse retirer les neuf caisses dont il est chargé.</p>
+   <p>Je suis très-obligée à <persName ref="people.xml#gra01"> M. de Vergennes</persName> de ce
+    qu’il s’est intéressé à favoriser l’apprentissage de <persName ref="people.xml#ale01"> M.
+     Alexandre</persName> et consorts.</p>
+   <p>Ma kyrielle est augmentée ces jours passés d’une <rs ref="people.xml#ale02"> demoiselle</rs>
+    qui en honneur de M. <rs ref="people.xml#ale01"> son frère aîné</rs> a été nommé Alexandrine; à
+    dire la vérité, j’aime infiniment mieux les garçons que les filles. Les miens sont parfaitement
+    bienportants, courant, sautant, adroits, lestes, résolus, ramant sur des nacelles et les
+    conduisant à merveille sur des canaux où il y a un pied d’eau, et Dieu sait tout ce qu’ils font:
+    ils lisent, écrivent, dessinent, dansent, le tout de leur propre volonté; ces jours-ci je les ai
+    pris avec moi à <placeName ref="places.xml#pet02"> Péterhof</placeName>, où nous avons logé à
+     <rs ref="places.xml#pet02"> Mon Plaisir</rs>, où en vérité je les ai vus, partout où ils
+    pouvaient atteindre de la main, poser les pieds; aussi entraient et sortaient-ils également par
+    les fenêtres comme par les portes, <seg xml:lang="de"> ja, das ist ein Leben; wenn Sie das sehen
+     sollten, wie viel halsbrechende Arbeiten wir mit dem kaltesten Blute fürnehmen, und dennoch
+     fallen wir sehr selten oder fast gar nicht.</seg>
+   </p>
+   <p>Eh bien, pour vous faire plaisir je dirai que j’ai tort au sujet des frais de poste que <rs
+     ref="people.xml#lou01"> S. M. T. Chr</rs>. était sensée payer pour vous. Tous les paquets
+     <persName ref="people.xml#pai01"> Païsiello</persName>, <persName ref="people.xml#tod02">
+     Todi</persName> etc. seront délivrés à leur arrivée selon les adresses.</p>
+   <p><persName ref="people.xml#bib01">M. Bibikof</persName> a perdu la direction; elle a été
+    confiée a un comité, à la tête duquel est <persName ref="people.xml#ols01"> M.
+     Olsoufief</persName>; il dit que la place est bonne, mais qu’elle lui a été donnée trop tard;
+    je lui recommanderai <persName ref="people.xml#tod02"> Mad. Todi</persName>. Le <seg
+     xml:lang="de"> Herrnhuter</seg> ébéniste mécanicien sera le bienvenu, parce que nous bâtissons
+    plus que jamais.</p>
+   <p>La statue de <persName ref="people.xml#vol01">Voltaire</persName> etc. n’est point
+    arrivée.</p>
+   <p>Les tableaux de <persName ref="people.xml#cle01">Clérisseau</persName> arriveront bien à
+    propos, parce que je garnis de ses dessins sous glace mon boudoir à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>.</p>
+   <p>Quand le <persName ref="people.xml#lan02"> g-l Lanskoï</persName> a entendu que vous avez
+    laissé échapper une collection de pierres antiques sans les acheter, il a pensé s’évanouir, et
+    il en a été presque suffoqué; il a appris cette nouvelle quelques jours après une chute affreuse
+    qu’il a faite avec un cheval et qui l’a mis au lit pendant plusieurs jours, mais dont il est
+    tout à fait rétabli, quoiqu’il ait eu la poitrine froissée et des crachements de sang, mais
+    grâce à son excellente constitution, il ne paraît plus s’en ressentir.</p>
+   <p>Le recommandé du nonce, s’il a du mérite, trouvera facilement de l’emploi. Remerciez s’il vous
+    plait <persName ref="people.xml#buf02"> M. de Buffo</persName>n pour ce qu’il m’envoie. Nous
+    avons ici présentement un ambassadeur du <persName ref="people.xml#pop03"> pape</persName>.</p>
+   <p>J’ai oublié de vous dire, je pense, que cet été à <placeName ref="places.xml#fre01"
+     >Fredrikshamn</placeName> j’ai eu une entrevue avec mon très cher frère don <persName
+     ref="people.xml#gus01"> Gustave</persName>, que j’ai trouvé habillé à l’espagnole, son bras en
+    écharpe, parce qu’il l’avait démis ou cassé, quinze jours avant notre entrevue, à son camp de
+     <placeName ref="places.xml#tav01"> Tavasthus</placeName>. Ce qui m’a paru assez singulier à
+    moi, qui suis tout entourée d’uniformes, c’est que de ce camp suédois quantité d’officiers
+    étaient venus à <placeName ref="places.xml#fre01"> Fredrikshamn</placeName>, qui, la plupart,
+    étaient des meilleures familles de <placeName ref="places.xml#swe01">Suède</placeName>; toute la
+    journée je les voyais passer et repasser devant mes fenêtres, <placeName ref="places.xml#fre01"
+     >Fredrikshamn</placeName> n’ayant pas plus que deux cent soixante toises, et quand je disais au
+     <persName ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01"
+     >Suède</placeName></persName> : Que ne me les amenez-vous? je serais bien aise de les voir de
+    plus près,—il me répondait: ils n’ont pas un habit décent pour paraître devant vous. Or, cet
+    habit décent était d’ôter l’uniforme suédois pour endosser un costume espagnol noir et ponceau.
+    Ennuyée de ces façons, j’ai pris mon parti: à mesure qu’ils passaient, en sa présence je leur
+    parlais par les fenêtres, mes appartements étant au rez-de-chaussée. J’ai vu le comte don
+     <persName ref="people.xml#cre01"> Creutz</persName>, qui de <placeName ref="places.xml#par01"
+     >Paris</placeName> tout droit a passé en <placeName ref="places.xml#fin01"
+    >Finlande</placeName>; celui-ci n’avait pas de poche à son pourpoint espagnol, de façon qu’il
+    était obligé de mettre dans son chapeau ce qu’on met dans ses poches. Les Suédois sont excédés
+    eux-mêmes de cet accoutrement espagnol. Mais grand bien leur fasse; portez-vous bien. </p>
+   <signed rend="inline">Adieu. </signed>
+   <postscript>
+    <p rend="inline">NB. Mes gens avaient eu la bêtise de ne prendre avec moi que des habits
+     d’uniforme, comme j’en porte ordinairement' dans mes voyages, de façon que la cour
+      de <placeName ref="places.xml#rus01">Russie</placeName> et celle de <placeName
+      ref="places.xml#swe01">Suède</placeName> faisaient un contraste parfait.</p>
+    <p>Voyez-vous comment les NB. et les remarques font bien, quand cela est bien employé.</p>
+    <p>Je n’ai qu’un mot à ajouter: cessez de me nommer Impér. des Grecs, par ce qu’immanquablement
+     cela vous brouillerait avec les très chrétiens et les catholiques qui ne sont pas du tout
+     chrétiens. <seg xml:lang="it"> Basta per lei.</seg></p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

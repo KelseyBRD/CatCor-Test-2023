@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09107</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09107</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>"в городе"/"сюда" - no clear eviddence on where this note was written found</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-29">2023-06-29</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09107"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-04-04">1789 г. апреля 4.</date>
+                </dateline>
+            </opener>
+            <p>Сказывают, что в городе и в лавках офицерское сукно, как-то: зеленое, синее, красное, желтое сукно по 10 и 11 рублей аршин. Спросите, делается ли на <orgName ref="orgs.xml#iamb01"><placeName ref="places.xml#kin01">Ямбургской</placeName> фабрике</orgName> таковых цветов и доброты сукно и прикажите сюда прислать и пустить в продажу за обыкновенную цену, и то, что скорее, то лучше. Также прикажите в <placeName ref="places.xml#fin01">Финляндию</placeName> послать на продажу.</p>
+        </body>
+    </text>
+</TEI>

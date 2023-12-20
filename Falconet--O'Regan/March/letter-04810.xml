@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04810</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04810</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:08:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04810">
+  <body>
+   
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.</salute></opener><p rend="inline">
+     Est-ce que votre brocanteur demande en tout pour ses tableaux, que j’ai marqués 8,000
+     roubles ou est-ce que ceux qui sont marqués sur le plus petit des deux papiers ci-joints sont à
+     part ? car alors la somme totale, selon ce qu’il demande, serait 9,100 roubles ; je vous prie
+     de m’éclaircir cela.</p>
+   <p>
+    Il y a huit jours que ce papier est écrit et que j’ai toujours oublié de vous
+     l’envoyer.</p>
+  </body>
+ </text>
+</TEI>

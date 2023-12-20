@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09015</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09015</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="fr" xml:id="letter-09015">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1786-07-24">1786. le 24 Juillet.</date>
+                </dateline>
+            </opener>
+            <p>Faites dire à <persName ref="people.xml#leb01">Lebrecht</persName> qu’<rs ref="people.xml#leb01">il</rs> cherche une améthiste de <placeName ref="places.xml#sib01">Sibérie</placeName> d’une belle couleur violete et qu’<rs ref="people.xml#leb01">il</rs> y grave mon profil aussi bien qu’<rs ref="people.xml#leb01">il</rs> peut et aussi ressemblant qu’<rs ref="people.xml#leb01">il</rs> pourra inbuglio, après quoi qu’<rs ref="people.xml#leb01">il</rs> cherche aussi une autre pierre pour faire un camée.</p>
+        </body>
+    </text>
+</TEI>

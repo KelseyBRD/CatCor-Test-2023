@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02827</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02827</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:29:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02827">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#kie01"> Kiof</placeName> ce <date
+      when-custom="1787-04-22">22. d’Avril v. st. 1787</date>.</dateline></opener>
+   <p>C’est avec beaucoup de plaisir. Monsieur, que j’aie vue arriver votre lettre du 6. Mars. Je
+    suis ici depuis le 29. Janvier v. st., la débâcle du <rs ref="places.xml#dni03"> Boristhène</rs>
+    ne s’est faite que le 23. Mars. Demain je m’embarquerai et je descendrai le fleuve
+     jusqu’à <placeName ref="places.xml#khe01"> Cherson</placeName>, si je trouve aux cataractes
+    assés d’eaux pour les passer. <placeName ref="places.xml#kie01"> Kiof</placeName> par sa
+    situation est un endroit tout à fait pitoresque. De son ancienne splendeur il ne lui reste que
+    de riches églises. Les quatres parties de la ville qui occupent des hauteurs et des vallons sont
+    très étendues, mais fort mal bâties. Depuis longtems cependant cette ville n’eut un plus grand
+    besoin de bons logemens que pendant les trois mois, que j’y ai séjourné, le nombre des étrangers
+    de différentes nations y étoit fort considérable. Il est difficile de deviner ce qui les y avoit
+    attiré, car il est impossible de supposer qu’ils avoient étés tous trompés par quelques gazettes
+    qui se tuoient d’annoncer mon futur couronnement en <rs ref="places.xml#cri01"> Tauride</rs>, ou
+    ici, dont il n’a jamais etée question.</p>
+   <p>Je suis fort aise que vous disiés du bien du <title ref="works.xml#siberi01"> Schaman
+      de <placeName ref="places.xml#sib01">Sibérie</placeName></title>, car j’aime beaucoup cette
+    pièce, mais je crains bien qu’elle ne corrige personne, les absurdités sont tenaces et ces
+    absurdités là sont devenues de modes, la pluspart des Princes d’<placeName
+     ref="places.xml#ger01">Allemagne</placeName> croyent que c’est du bon ton que de donner têtes
+    baissés <seg xml:lang="de"> in alle diese Gaukeleien</seg>, ils sont las de la saine
+    philosophie, je me souviens que l’année 1740 les têtes les moins philosophiques affectoient
+    d’être philosophes, à cela du moins la raison et le sens commun ne se perdoit pas. Mais ces
+    nouvelles erreurs ont fait devenir foux chés nous plusieurs personnes qui ne l’étoient pas avant
+    cela. </p>
+   <closer><signed rend="inline">Adieu, Monsieur, portés vous bien et soyés assuré de mon estime. <persName
+     ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+   <postscript>
+    <p>P. S. Pour nouvelles de ces cantons je vous dirai qu’à cent werstes d’ici et nommément à
+      <placeName ref="places.xml#kan01"> Kanief</placeName> j’aurai une entrevue avec le <persName
+      ref="people.xml#pon01"> Roi de <placeName ref="places.xml#pol01">Pologne</placeName></persName> sur mes galères au milieu de
+     la rivière et qu’à <placeName ref="places.xml#khe01"> Cherson</placeName> je me flate de
+     rencontrer monsieur le <rs ref="people.xml#jos01"> Comte de Falkenstein</rs>.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

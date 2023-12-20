@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02833</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02833</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#sweden"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-20">20-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:30:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02833">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Czarskocelo</placeName> ce <date
+      when-custom="1788-06-27">27. Juin 1788</date>.</dateline></opener>
+   <p>Je vous ai promis, Monsieur, de vous faire part des nouvelles que je recevrai; en voici
+    quelques unes qui me sont entrées coup sur coup. Le 7. Juin v. st. soixante navires à rames sont
+    entrés dans le liman d’ <name ref="events.xml#ochak01"><placeName ref="places.xml#och01"
+      >Otchakof</placeName></name> sous le commandement du <persName ref="people.xml#cez01">
+     Capitaine Pacha</persName> lui même, nos vaisseaux à rames commandés par le <persName
+     ref="people.xml#nas01">Prince de Nassau</persName> et nos vaisseaux à voiles sous les ordres du
+    Contreadmiral <persName ref="people.xml#jon01"> Paul Jones</persName> leurs ont livré un combat
+    de plusieures heures. Beaucoup de navires <orgName ref="orgs.xml#turk01"> Turcks</orgName> ont
+    été coulés à fond, d’autres sont volés en l’air, en tout leurs perte se monte à dix huit
+    navires, le reste s’est retiré fort endommagé sous les canons d’<placeName
+     ref="places.xml#och01">Otchakof</placeName>. Le dix sept du même mois le <persName
+     ref="people.xml#cez01"> Capitan Pacha</persName> est rentré dans le liman avec ce qu’il lui
+    étoit resté de navires à rames et ce qu’il avoit pu raccommoder, huit vaisseaux de guerre Turcs
+    de 74 et 60 canons soutenoient cette attaque. Leurs intentions étoient non seulement
+    d’exterminer nos bâtimens venus du <rs ref="places.xml#dni01"> Boristhène</rs>, mais aussi de
+    faire une nouvelle entreprise sur <placeName ref="places.xml#kin01"> Kinbourn</placeName>, mais
+    ils furent si bien reçus, que des huit vaisseaux de guerre qu’ils avoient amenés, six volèrent
+    en l’air et deux furent pris. De vaisseaux à rames il n’y en euent que trente, qui se sauvèrent
+    sous la forteresse d’<placeName ref="places.xml#och01">Otchakof</placeName>. Nous avons fait
+    près de quatre mille prisonniers Turks, le <persName ref="people.xml#cez01"> Capitan
+     Pacha</persName> son viceadmiral ont perdu leurs vaisseaux et l’étandard de <placeName
+     ref="places.xml#ott01"> l’empire Turque</placeName> est tombé entre nos mains, ce qu’il y a
+    d’extraordinaire en tout ceci c’est que des vaisseaux à rames secondés, il est vrai, par les
+    batteries de la pointe de terre de <placeName ref="places.xml#kin01"> Kinbourn</placeName> aye
+    pu détruire une flotte aussi considérable, car nos vaisseaux à voiles ont été tirés par des
+    rameurs cosaques aux ordres du brigadier <persName ref="people.xml#ale05"> Aleçiano</persName>
+    ayant eu constamment le vent contraire et par conséquend n’ayant pas pu presque agir. Le
+     Prince <persName ref="people.xml#pot01">Potemkin</persName> m’a envoyé cette seconde nouvelle
+    par le Comte <persName ref="people.xml#apr03"> Apraxin</persName> Capitainelieutenant au garde
+     <orgName ref="orgs.xml#preo01">Preobragensky</orgName> qui n’a pas quitté le <persName
+     ref="people.xml#nas01"> Prince de Nassau</persName> pendant toutes les deux actions, le
+    Maréchal Prince <persName ref="people.xml#pot01">Potemkin</persName> va tout de suite commencer
+    le <name ref="events.xml#ochak01"> siège d’<placeName ref="places.xml#och01"
+      >Otchakof</placeName></name> et la communication entre la flotte et l’armée est parfaitement
+    libre sous les retranchemens d’<placeName ref="places.xml#och01">Otchakof</placeName>. J’espère
+    que cettes excellentes nouvelles vous réjouiront. Notez que la flotte de <placeName
+     ref="places.xml#sev01">Sevastopol</placeName> n’a eue aucune part a cettes deux actions. Après
+    vous avoir parlé d’aussi agréables nouvelles je m’envais vous en donner d’une autre nature. Le
+     <persName ref="people.xml#gus01"> Roy</persName> de <placeName ref="places.xml#swe01"
+     >Suède</placeName> ayant appris, que j’armois une partie de ma flotte de <placeName
+     ref="places.xml#kro01"> Kronstad</placeName> pour l’envoyer dans la <placeName
+     ref="places.xml#med02"> Méditerrannée</placeName>, il a plu à <persName ref="people.xml#gus01"
+     >S. M. Suédoise</persName> de faire semblant d’en prendre ombrage, il a commencé à armer par
+    terre et par mer faisant à croire à ses sujets et répandant partout, que c’étoit pour sa
+    défense, parceque je voulois l’attaquer, quoique sur mon honneur de ma vie je n’ai pensée à lui
+    envier ses arides rochers. Notez que selon les loix fondamentales de la <placeName
+     ref="places.xml#swe01">Suède</placeName> <persName ref="people.xml#gus01"> Sa
+     Majesté</persName> sans la permission des états ne doit attaquer personne, mais <rs
+     ref="people.xml#gus01"> Sa Majesté</rs> n’est pas scrupuleuse, ayant une fois armée par terre
+    et par mer sa défense, le voilà présentement qui <rs ref="events.xml#swedi02"> m’attaque</rs> en
+    pleine paix et sans déclaration de guerre. Mon ministre ayant saesi à <placeName
+     ref="places.xml#sto01">Stockholm</placeName> l’occasion de déclarer au ministre du <persName
+     ref="people.xml#gus01"> Roy</persName> de <placeName ref="places.xml#swe01">Suède</placeName>,
+    que je n’avois aucune intention hostile ni contre lui ni sa nation. <rs ref="people.xml#gus01">
+     S. M.</rs> a jugé à propos de trouver mal qu’on nomma sa nation à côté de lui et il a ordonné à
+    mon ministre de partir de <placeName ref="places.xml#sto01">Stockholm</placeName> en huit jours;
+    ayant pris cela j’ai renvoyé le sien et depuis quatre jours j’apprend qu’il a fait attaquer
+     <placeName ref="places.xml#nys01"> le fort de Nyschlod</placeName> dans la <placeName
+     ref="places.xml#fin01">Finlande</placeName> <placeName ref="places.xml#rus01">
+     Russe</placeName>. Je me flatte que malgré les calomnies du <persName ref="people.xml#gus01">
+     Roy</persName> de <placeName ref="places.xml#swe01">Suède</placeName> l’<placeName
+     ref="places.xml#eur01">Europe</placeName> me rendra justice. Jamais cause ne fut plus juste que
+    la mienne, justice, raison et vérité est de mon côté, du reste il plaira à la providence d’en
+    décider. Jamais manque de foi du côté d’un ennemi ne fut plus manifeste que l’est celui du
+     <persName ref="people.xml#gus01"> Roy</persName> de <placeName ref="places.xml#swe01"
+     >Suède</placeName> vis à vis de moi. Je donnerai hardiment mon cas à décider à toutes les
+    universités de l’univers. </p>
+   <closer><signed rend="inline">Adieu, Monsieur, portés vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

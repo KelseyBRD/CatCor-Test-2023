@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08233</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08233</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:22:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08233">
+  <body>
+   <opener><dateline> ce <date when-custom="1774-03-08">8 mars 1774</date>.</dateline></opener>
+   <p>La satisfaction que V. A. R. veut bien me marquer de la lettre que le comte <persName
+     ref="people.xml#goe01"> Gœrtz</persName> Lui a remise de ma part, m'en a donné une très grande.
+    Je vois que sans aucune répugnance Elle a accepté ma proposition. Je n'ai jamais aimé la guerre,
+    j'en souhaite la fin par une raison de plus: je reverrai V. A. R. Sans en pouvoir donner de
+    raisons bien claires, une quantité de combinaisons, d’idées et de choses me donne des lueurs
+    d'espérance sur cette paix tant désirée. Il faudra voir si le Seigneur <persName
+     ref="people.xml#abd01"> Abduhla-Hamet</persName> voudra soutenir ce dont <rs
+     ref="people.xml#mus01"> son frère</rs> s'est trouvé si mal et dont il a payé les chagrins avec
+    sa vie, à ce que m'assure le très honoré <rs ref="people.xml#nar02"> président</rs> de <persName
+     ref="people.xml#her01">l'hermitage</persName> qui nous a fait sur cette mort des dissertations
+    à sa façon. En reconnaissance de quoi j’ai fêté le jour de son nom avec pompe dans le lieu même
+    des assemblées académiques. Chaque lustre était orné d'un jupon de taffetas couleur de rose, sur
+    lesquels les chiffres en papier doré de <rs ref="people.xml#nar02"> Mr. de Narichkine</rs>
+    brillaient sans affectation d'une lumière douce, qui fit sur moi un effet si saillant qu'à onze
+    heures, fatiguée de la vivacité des plaisirs, j'allais me coucher à mon ordinaire sans
+    souper.</p>
+   <p><name ref="events.xml#dider01"><persName ref="people.xml#did01">Diderot</persName></name> est
+    parti le même jour, je ne doute point que, s'il aura l'honneur de voir V. A. R., Elle ne lui
+    rende la justice que cet homme extraordinaire mérite. <name ref="events.xml#grimm01">
+     <persName ref="people.xml#gri01">Grimm</persName></name> qui a été très malade partira aussi
+    dans peu pour retourner à <placeName ref="pkaces.xml#par01">Paris</placeName> par <placeName
+     ref="places.xml#dar01"> Darmstadt</placeName>, d'où j'ai des nouvelles bien inquiétantes sur la
+    santé de notre chère et bonne amie, <persName ref="people.xml#kar01"> la landgrave</persName>
+    qui va de mal en pis; j'avoue que j’appréhende beaucoup pour ses jours. Je vois qu'elle prépare
+    sa fille à cet événement, cette perte me sera bien douloureuse.</p>
+   <p>Je souhaite de tout mon cœur que la visite du <persName ref="people.xml#gus01"> roi
+     de <placeName ref="places.xml#swe01">Suède</placeName></persName> ait les suites heureuses dont l'amitié
+    de V. A. R. veut bien me flatter, mais j'avoue que j’en doute. Ses entours et ses amis sont
+    imbibés d'idées trop opposées aux miennes pourque dix ou quinze jours de séjour ici puissent
+    faire un changement sensible sur une façon de penser, adoptée dès le berceau, et qui dans
+    l’esprit même du roi, s’il marquait de l'impartialité, serait bientôt effacée par ces mêmes gens
+    qui l'ont vu naître et connaissent la tournure d’esprit de ce prince.</p>
+   <closer><signed>C’est avec la considération ...</signed></closer>
+  </body>
+ </text>
+</TEI>

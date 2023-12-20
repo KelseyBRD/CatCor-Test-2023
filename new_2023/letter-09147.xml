@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09147</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09147</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-07">2023-07-07</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09147"> 
+        <body>
+            <p>NB. Все выписи из <persName ref="people.xml#bla01">Блакстона</persName> прочесть (с) пером в руках и замечая приличное для внесения в законы. Потом прочесть узаконения наши по частям, и выписи, по тем частям поданныя <rs ref="people.xml#vya01">генерал-прокурором</rs>, равномерно (с) пером в руках, замечая, что внести в новое узаконение, что оставить без внесения.
+                <note type="editorial">
+                    This note was attached to Catherine's own extracts from <persName ref="people.xml#bla01">William Blackstone</persName> entitled <hi rend="italic">Habeas corpus</hi> (
+                    <bibl>
+                        <title ref="works.xml#bumagi05">Bumagi N.V. Sushkova v Moskovskom publichnom musee</title>
+                        , <biblScope unit="pp">pp. 9, 19.</biblScope>
+                    </bibl>
+                    ). The note is not dated (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        , <biblScope unit="pp">pp. 61.</biblScope>
+                    </bibl> 
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

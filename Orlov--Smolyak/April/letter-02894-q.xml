@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02894</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02894</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Emma: Use of <persName/> for pronouns - change to <rs/>?</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-23">23-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:21:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02894">
+  <body>
+
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всеросийская, и проч., и проч., и проч.
+   <salute>Нашему генералу графу <persName ref="people.xml#orl03"> Орлову</persName>.</salute></opener>
+   <p>Известно уже было вам намерение <persName ref="people.xml#cat01"> Наше</persName> подкрепить
+    ополчающияся в <placeName ref="places.xml#aeg01"> Архипелаге</placeName>, под
+    предводительством <persName ref="people.xml#orl03"> вашим</persName>, <orgName
+     ref="orgs.xml#russ02"> морския наши силы</orgName>, новою эскадрою линейных кораблей. Теперь
+    оная, с 8 числа сего мая месяца, действительно уже пустилась в предназначенное ей плавание, под
+    командою контр-адмирала <persName ref="people.xml#chi01"> Чичагова</persName>, состоя из трех
+    кораблей, а именно: «Чесмы» о семидесяти четырех, да «Победы» и «Графа Орлова» о шестидесяти
+    шести пушках. Экипаж сих трех кораблей, по собственному <persName ref="people.xml#orl03">
+     вашему</persName> представлению, убавлен сколько можно более, но вместо того они всеми другими
+    потребностями достаточно снабдены, а особливо частию тех припасов и материалов, о которых
+    контр-адмирал <persName ref="people.xml#gre01"> Грейг</persName>, будучи здесь, подал ведомость,
+    ибо всего тою ведомостию требованнаго количества поместить было не можно, почему и будет оное в
+    скором времени, вслед за эскадрою, от <placeName ref="places.xml#kro01">
+     Кронштадтскаго</placeName> порта отправлено, сколь скоро туда прибудет, нарочно для сего
+    транспорта нанятое, <placeName ref="places.xml#gre01"> английское</placeName> судно.</p>
+   <p>Инструкция контр-адмиралу <persName ref="people.xml#chi01"> Чичагову</persName> дана от
+     <persName ref="people.xml#cat01"> Нас</persName> в той же силе, с каковыми прежде отправлены
+    были контр-адмирал <persName ref="people.xml#elp01"> Елфинстон</persName> и <persName
+     ref="people.xml#arf01"> Арф</persName>, и велено <persName ref="people.xml#chi01">
+     ему</persName>, равно как и им предписывано было, зайти в <placeName ref="places.xml#mah01">
+     Порт-Магон</placeName>, для получения там безпосредственных от <persName ref="people.xml#orl03"
+     > вас</persName> наставлений, естлиб вам, между тем, время дозволило доставить туда, к приезду
+     <persName ref="people.xml#chi01"/>, каковыя либо по востребованию обстоятельств вашего места,
+    как <persName ref="people.xml#orl03"> вы</persName> все оное пространнеее сами усмотрите из ея
+    копии, которую <persName ref="people.xml#cat01"> Мы</persName> для того нарочно здесь включить
+    указали. Впрочем, поручая вам, по недостатку здесь при <orgName ref="orgs.xml#coll03">
+     адмиралтействе</orgName> в флагманах, возвратить сюда без потеряния времени и кратчайшим путем
+     контр-адмирала <persName ref="people.xml#chi01"> Чичагова</persName>, ежели только, по
+    соединении его с <orgName ref="orgs.xml#russ02"> флотом</orgName>, <persName
+     ref="people.xml#orl03"> вы</persName> сами не будете иметь крайней нужды в персоне его.
+    Пребываем вам Императорскою Нашею милостию благосклонны. </p>
+   <closer><dateline rend="inline"> Дан в <placeName ref="places.xml#tsa01"> Царском Селе</placeName>, <date when-custom="1772-05-26">26 мая, 1772 года</date>.</dateline>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

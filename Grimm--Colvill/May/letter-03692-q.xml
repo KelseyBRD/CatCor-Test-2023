@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03692</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03692</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The word “nivel” according to sirio is the provencal form of the word “nouveau.” I tried to
+     find a language code for it, and I cam across “fp” for Franco-Provencal, but I’m not 100% if
+     that is correct</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-06">06-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:59:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03692">
+  <body>
+
+   <opener><dateline> Au <placeName ref="places.xml#win01"> palais d’hiver</placeName>, ce <date
+      when-custom="1794-04-21">21 avril 1794</date>.</dateline></opener>
+   <p>Il y a 65 ans révolus que je n’écrivais pas. Je me porte très bien et j’ai passé ici hier du
+     <placeName ref="places.xml#tau01"> palais de la Tauride</placeName> par une tempête terrible
+    qui a fait monter l’eau de la <placeName ref="places.xml#nev01"> Néva</placeName> a près de sept
+    pieds au-dessus de son <seg xml:lang="fp"> nivel</seg> ordinaire; en 1777 elle était au-dessus
+    de 11 pieds; j’ai passé par-ci par-là en passant hier d’un palais dans un autre par des mares
+    d’eau dans les rues, mais dans lesquelles on ne pouvait se noyer. Ainsi, quand encore on vous
+    parlera d’inondation, n’en croyez rien: ici tout le monde se porte bien. Si vous entendez parler
+    des nouvelles équipées de l’égrillarde, soyez assuré que cette dette sera payée avec intérêt, et
+    rira bien celui qui rira le dernier. Vous ne vous doutez pas apparemment que celle-ci sert de
+    réponse à votre No 75, du 20 février (3 mars), reçu par les successeurs <rs
+     ref="people.xml#bac01"> Bacchides</rs>. Je suis-comme <persName ref="people.xml#sha04"> Chah
+     Baham</persName>, je m’entends bien moi-même; ce n’est pas mon affaire si les autres
+    m’entendent ou ne m’entendent pas. Quand j’ai dit à <placeName ref="places.xml#vie01">
+     Vienne</placeName>, je n’ai parlé que d’après votre lettre, qui indiquait elle-même cet
+    endroit: ce n’est pas ma faute encore, si vous avez changé de pensée.</p>
+   <p>Je vous remercie pour le legs que vous me faites c’est une marque de votre confiance en moi.
+    Je vous ai parlé dans une lettre par courrier sur le voyage pour ici: si vous le décidez, alors
+    prenez bien votre temps pour l’entreprendre, car dans ce moment la <placeName
+     ref="places.xml#sam01"> Samogitie</placeName> étant en pleine insurrection, la poste même nous
+    vient de <placeName ref="places.xml#kla02"> Memel</placeName> à <placeName
+     ref="places.xml#lie01"> Libau</placeName>, et dans la <placeName ref="places.xml#pol01">
+     Pol</placeName>. on s’entrecoupe la gorge. <persName ref="people.xml#cat05"> Katinka</persName>
+    et <persName ref="people.xml#cat06"> Catau</persName> seraient au reste bientôt placés, et <rs
+     ref="people.xml#bue02"> leur père</rs> trouverait aussi sa place, mais je veux que vous viviez
+    et vous portiez bien, et il ne faut pas que vous vous priviez du plaisir et de la consolation
+    d’être avec une famille à laquelle vous êtes si nécessaire, que vous ne pouvez qu’aimer et dont
+    vous savez que vous l’êtes. La lettre pour M. <persName ref="people.xml#bus04"> Busse</persName>
+    lui а été envoyée le lendemain de la reçue de votre lettre, qui était aussi le lendemain du
+    départ de certain courrier qui vous portera une énorme pancarte tout en courant. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

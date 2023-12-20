@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02669</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02669</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#austria"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02669">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1772-03-15">ce 15 Mars 1772</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Rien ne saurait m'être plus sensible que d'entendre de la bouche d'un allié
+                        tel que Votre Majesté, les sentiments qu'Elle me marque sur mes affaires, et
+                        qu'Elle exprime d'une manière si obligeante dans Sa lettre du deux de ce
+                        mois. Je ne saurais laisser partir le courrier du <persName
+                            ref="people.xml#sol01">comte de Solms</persName>, son ministre, chargé
+                        des ratifications échangées de notre convention, sans en faire des
+                        remercîments à Votre Majesté, et Lui témoigner combien je me félicite
+                        moi-même de voir consommer un ouvrage, par lequel vient d'être apprecié un
+                        nouvel intérêt si puissant pour la permanence de l'union de nos monarchies.
+                        Nos sujets respectifs nous en auront éternellement des obligations
+                        essentielles. J'aime à voir la cour de <placeName ref="places.xml#vie01">
+                            Vienne</placeName> revenir à elle-même, et je me tiens à ma façon de
+                        sentir que Votre Majesté y a essentiellement contribué. Je veux du bien à
+                        cette cour de son retour, et je suis pleinement persuadée que par les mêmes
+                        sentiments d'humanité et d'amour pour la tranquillité de <placeName
+                            ref="places.xml#eur01">l'Europe</placeName> Votre Majesté se trouvera
+                        disposée à apporter de sa part toutes les facilités convenables au succès de
+                        la négociation qui va s'ouvrir entre nous trois. </p>
+                    <closer>
+                        <signed>J'ai l'honneur d'être avec les sentiments de la plus haute
+                            considération, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            fidèle Alliée et Amie 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

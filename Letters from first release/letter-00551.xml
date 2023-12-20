@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00551</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00551</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-02-07">07 February 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00551">
+                <body>
+                   
+                    <p hand="people.xml#pot01">ы изволили мне приказать: "такого--то
+                        смотреть сквозь пальцы". Я, Всемилостивейшая Государыня, где смотрю, там
+                        смотрю не сквозь пальцы. Отступаюсь же там, где у меня вырвутся из пальцев.
+                        Но, когда бы перестали мои способности или охота, то можно избрать лутчего,
+                        нежели я, на что я со всей охотой согласен.</p>
+                    
+                    <postscript>
+                        <p hand="people.xml#cat01"> колобродным пересказам не причиною.
+                            Я никогда не сказывала, что "такого--то смотреть сквозь пальцев", а
+                            сказывала: "такого--то несмотрение". И того я говорила на щет Толстого,
+                            ибо непростительно ему полк или, лутче сказать, солдат толикое число
+                            оставить без нижнего платья. Я столько смыслу имею, что подполковник не
+                            может быть каптенармус.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

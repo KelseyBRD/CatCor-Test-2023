@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00681</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00681</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-30">30 July 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00681">
+                <body>
+                    <opener>
+                    <salute rend="inline">Батинька,</salute></opener>
+                    <p>письмо твое из Могилева я сейчас, приехавши, в Сенном получила, то есть в 10
+                        часов за полдень. Весьма ласкательныя речи <persName ref="people.xml#jos01"
+                            >Графа Фалькенштейна</persName> приписываю я более желанию его зделаться
+                        приятным, нежели иной причине. Россия велика сама по себе, а я что ни делаю
+                        -- подобно капле, падающей в море. Что же его речи обо мне тебя веселят, о
+                        том не сумневаюсь, зная, колико меня любит любезный и признательный мой
+                        питомец. О свиданье с <persName ref="people.xml#jos01">Графом
+                            Фалькенштейном</persName> отдаю на собственный его выбор, как день, так
+                        и час во дню, когда с ним познакомиться без людей.</p>
+                    <p><seg xml:lang="fr">Si je n'avais suivi que les mouvements de mon
+                            impatience et ma vivacite naturelle, des que Votre lettre m'est
+                            parvenue, c'est--a--dire a dix heures du sour, je me serais remise en
+                            carrosse et aurais courru sans m'arreter nulle part tout droit a
+                            Mohilef, ou j'ai beaucoup de regret de savoir que Mr. le comte de
+                            Falkenstein m'ait devance. Mais comme cela aurait fait une breche a son
+                            incognito, la reflexion a retenu mon premier mouvement, et je m'en vais
+                            suivre ma route, comme Vous saves qu'elle a ete reglee. Je coucherai
+                            demain a</seg> Шклов <seg xml:lang="fr">et dimanche je viendrai
+                            pour la messe a Mohilef.</seg> Только тут не знаю, как выгоднее
+                        будет условиться о свидании без людей; ибо как прийду из обедни, тут люди ко
+                        мне повалят; опять отложить до после обеда -- не учтиво будет; разве пока
+                        все люди со мною у обедни будут, не пожалует ли ко мне, дабы вошед я во
+                        внутренние свои покои, то есть пред спальнею, уже бы тут его нашла. Но
+                        только буде луче найдешь способ, то уведоми меня, а кажется, и так ловко
+                        быть может. Как <persName ref="people.xml#rum01">Гр[аф]
+                            Румян[цев]</persName> ко мне пишет4, что гость нигде не хочет обедать,
+                        то заключаю, что и со мною обедать не станет за большим столом, о чем буду
+                        ждать уведомления. Письмо его влагаю, дабы Вы знали, что и как пишет.
+                            <seg xml:lang="fr">Rien de plus flatteur ni de plus agreable que
+                            cette lettre que Vous m'aves envoyee. Je Vous prie de reiterer a
+                                <persName ref="people.xml#jos01">Mr. le Comte de
+                                Falkenstein</persName> les assurances que mon premier desir est de
+                            me conformer en toute facon a tout ce qui pourra lui rendre le sejour de
+                            Mohilef supportable.</seg></p>
+                    <closer>Прощай, друг мой, мы очень тоскуем без тебя. Я весьма желаю скорее
+                        увидеться с тобою.</closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

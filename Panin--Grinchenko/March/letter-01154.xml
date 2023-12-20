@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01154</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01154</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-17"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01154">
+        <body>
+
+            <opener><dateline>Проезжая <placeName ref="places.xml#vas01">Василь Сурск.</placeName><lb/>
+                <date when-custom="1767-05-24">Маия 24 дня, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Вчерась вечеру получила я Ваше письмо, от 21 Маия, из котораго усмотрела, что Вы с
+                    <persName ref="people.xml#pau01">Великим Князем</persName> здоровы, и что мое
+                последнее письмо сим последним получено. Описание нашего путешествия, о котором
+                пишете, что <orgName ref="orgs.xml#dipl01">Дипломатической Корпус</orgName> Вам
+                расказывал, доказывает, что они своею поездкою довольны.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

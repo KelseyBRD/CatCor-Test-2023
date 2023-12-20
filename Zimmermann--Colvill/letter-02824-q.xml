@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02824</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02824</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#theatre"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to identify M de Gros(s)</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:29:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02824">
+  <body>
+
+   <opener><dateline>
+     <date when-custom="1786-04-17">17. Avril 1786</date> v. st. à St. <placeName
+      ref="places.xml#pet01">Petersbourg</placeName>. </dateline></opener>
+   <p>J’ai reçue hier, Monsieur, votre lettre du 7. d’Avril n-st; elle m’instruit de la peine que
+    vous vous donnés pour nous procurer des bons médecins et chirurgiens. Les deux douzaines que
+    vous nous promettes nous seront très utiles. Je ne puis qu’approuver les mesures prises entre
+    vous et Mr. de Gros mon envoyé. Ceux de ces messieurs que vous aurés examinés n’auront pas
+    besoin de passer par les cérémonies d’examen du collège de médicine, je les en dispense et vous
+    donne pleine créance. N’ayés pas peur, le docteur <persName ref="people.xml#mey01">
+     Meyer</persName> n’aura pas beaucoup à faire avec le collège de médecine, tous les cas
+    pressants dépendent chés nous du gouvernement de la province et nommément tous soupçons de
+    peste. Il sera le bien venu de même que le Sr. <persName ref="people.xml#fal04">
+     de Falkenberg</persName>. La mémoire qui accompagne votre lettre, Monsieur, m’est une preuve du
+    désir que vous avés de favoriser mes vues. Il nous vient quelques familles Suisses qui pourront
+    être utiles.</p>
+   <p>Je suis bien aise que Mr. <rs ref="works.xml#deceiv01"> Kalifalkgerston</rs> vous aye amusé,
+    tout ce que vous dites de cette <rs ref="works.xml#deceiv01"> pièce</rs> est très dateur pour
+     <rs ref="people.xml#cat01"> l’auteur</rs>; il a donné immédiatement après cette comédie une
+    autre intitulée <title ref="works.xml#deceiv02"> „Le trompé“</title>; je ne me souviens pas
+    trop, si je vous en ai envoyé la traduction, en tout cas je joins à cette lettre ci un second
+    exemplaire ; une troisième est sur le métier, c’est <title ref="works.xml#siberi01"> „le Schaman
+      de <placeName ref="places.xml#sib01"> Sibérie</placeName>“</title>; l’article Theosophe de
+     <title ref="works.xml#encycl01"> l’Encyclopédie</title> en a fourni le canavas, vous l’aurés en
+    son tems. Les <rs ref="works.xml#deceiv01 works.xml#deceiv02">deux premières</rs> ont eue chés
+    nous un prodigieux succès, le parterre ne vouloit plus d’autres pièces et elles ont raportés au
+    delà et beaucoup au delà de vingt mille roubles aux entrepreneurs.</p>
+   <closer><signed>Adieu, soyes assuré de ma très parfaite estime. <persName ref="people.xml#cat01">
+     Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

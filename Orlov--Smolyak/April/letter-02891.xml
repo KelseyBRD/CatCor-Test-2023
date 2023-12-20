@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02891</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02891</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:21:05Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02891">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Всего, всего того, что у нас вновь произошло от времени отправления последняго курьера с
+     <orgName ref="orgs.xml#habs01"> венским двором</orgName>, о том граф <persName
+     ref="people.xml#pan01"> Панин</persName> к вам сообщит; ныне отправлю паки
+     к вам контр-адмирала <persName ref="people.xml#gre01"> Грейга</persName>, котораго
+    достойнаго флагмана Мы с удовольствием видели, не захотела
+    Я пропустить случай вам сказать, что Я всегда с отменным к вам благоволением остаюсь к вам
+    доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline> <date when-custom="1772-03-23">Марта 23 ч. 1772 года.</date></dateline></closer>
+   <postscript><p>При сем посылаю вам книжку, для забавы, коя только что переведена.</p></postscript>
+  </body>
+ </text>
+</TEI>

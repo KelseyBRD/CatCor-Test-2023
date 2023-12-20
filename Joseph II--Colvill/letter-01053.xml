@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01053</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01053</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:18:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01053">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1783-08-22">22 d’août 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. Je bénis l’heureux retour de V. M. I. à <placeName ref="places.xml#vie01"
+     >Vienne</placeName>, qui m’a procuré Sa chère lettre du 8 d’août, laquelle m’a remplie de
+    nouveau de reconnaissance pour Elle, y voyant à chaque ligne des traces de Son amitié pour moi.
+    Tandis que V. M. I. allait au midi de Ses frontières, j’allais au couchant des miennes, mais ce
+    voyage n’a pas été heureux pour le <persName ref="people.xml#gus01"> Roi</persName>
+     de <placeName ref="places.xml#swe01">Suède</placeName>, parce qu’il s’est cassé le bras gauche
+    en biais à son camp de <placeName ref="places.xml#tav01"> Tavasthuus</placeName>, et qu’outre
+    cela l’on débite qu’il a été réprimandé par la <placeName ref="places.xml#fra01">
+     France</placeName> sur cette entrevue. Ce que j’ai trouvé vraiment singulier, c’est que dans
+    cette bicoque de <placeName ref="places.xml#fre01"> Fredriksham</placeName>, qui n’a pas plus de
+    deux cents soixante toises de long, toute la Cour de <placeName ref="places.xml#swe01"
+     >Suède</placeName> était habillée a l’espagnole, et que les officiers du camp de <placeName
+     ref="places.xml#tav01"> Tavasthuus</placeName> qui étaient venus là, n’avaient pas la
+    permission du <persName ref="people.xml#gus01"> Roi</persName> de paraître en uniforme devant
+    lui, je dis devant lui, parce que je l’ai prié plusieurs fois de les laisser entrer chez moi,
+    mais il s’en est défendu chaque fois avec beaucoup de gravité, disant qu’ils n’étaient pas en
+    habit décent; or tout ce qui m’entourait, était en uniforme. Voyant cela, j’ai pris mon parti;
+    je faisais la conversation avec ses principaux officiers par la fenêtre, dont plusieurs avaient
+     <rs ref="events.xml#ameri01"> servi la <placeName ref="places.xml#fra01"
+     > France</placeName> en <placeName ref="places.xml#ame01">Amérique</placeName></rs>.</p>
+   <p>J’ai ordonné de communiquer au ministre de V. M. I. ma réponse à l’office verbal de M. de
+     <persName ref="people.xml#ver01"> Vérac</persName>.</p>
+   <p>V. M. I. est déjà informée de la tranquillité avec laquelle se sont effectuées les prises de
+    possession de la <placeName ref="places.xml#cri01">Crimée</placeName> et du <placeName
+     ref="places.xml#kub01"> Couban</placeName>. Les lettres venues ce matin confirment le même état
+    des choses à mon grand contentement, ce que j’attribue en plus grande partie à la puissante
+    coopération de V. M. I. Il ne me reste qu’à souhaiter de pouvoir donner à V. M. I. des
+    témoignages efficaces de ma gratitude, de l’amitié très-sincère et de la très-haute
+    considération avec lesquelles je suis ....</p>
+   <p><rs ref="people.xml#pau01 people.xml#mar02">Mes enfants</rs> osent Lui présenter leurs
+    respects.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04754</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04754</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-18">18/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-20T17:31:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-20">20-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04754">
+  <body>
+   <p>
+    Si la raison pouvait persuader les hommes, l’écrit de M-r
+    <persName ref="people.xml#vil01"> de Villiers</persName>, assurémment, rendrait la
+     tranquillité à vos fanatiques de <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>; notez que les Allemands et les Italiens ne sont pas du nombre,
+     pour la plupart; je crois que les Français devraient choisir M.
+    <persName ref="people.xml#vil01"> de Villiers</persName> pour leur ancien; son écrit ne fera
+     aucun mal, mais je ne sais s’il fera beaucoup de bien; je crois que c’est M. le consul qui
+     souffle tout doucement les Welches, soyez assuré
+     cependant que le tout s’accommodera pour la plus grande gloire de Dieu. </p>
+   <p>
+    Votre lettre, Monsieur, contre la génération des cruches, est très-bonne: je souhaite
+     qu’elle n’ait pas le sort des réflexions de M-r
+    <persName ref="people.xml#vil01"> de Villiers</persName>. Je ferai demander la petite tête
+     de Mad. <persName ref="people.xml#col02"> Collot</persName>.</p>
+  </body>
+ </text>
+</TEI>

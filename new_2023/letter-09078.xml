@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09078</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09078</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-10">2023-07-10</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09078"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-08-11">1788 г. августа 11.</date>
+                </dateline>
+            </opener>
+            <p>Скажите <rs ref="people.xml#str01">Степану Ѳедоровичу</rs>, чтоб <rs ref="people.xml#str01">он</rs> не услал в армию шпагу, как золотую, так и с брилиянтами, такожде и блюдо золотое для <persName ref="people.xml#pot01">кн. Потемкина</persName>, не показав мне самой. Также наведайтесь, когда <placeName ref="places.xml#kie01">киевское</placeName> паникадило поспеет.
+                <note type="editorial">
+                    Catherine mentions the sword and the dish she was writing about to Khrapovitskii in her <ref target="letter-09072">note from <date when-custom="1788-07-13">July 13 1788</date></ref>.
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02646</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02646</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-27">27 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02646">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1764-04-06">ce 6 d'Avril 1764</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>J'ai ratifié avec joie aujourd'hui l'<rs ref="events.xml#pruss01"
+                            >alliance</rs> que le <rs ref="people.xml#sol01">ministre</rs> de Votre
+                        Majesté vient de conclure avec les miens, et je n'ai pas voulu en laisser
+                        partir la nouvelle sans réitérer à Votre Majesté les assurances de la
+                        sincérité de mon amitié et de mes intentions. J'espère que Votre Majesté en
+                        sera de plus en plus convaincue par les effets: la paix en est la base; il
+                        est vrai que tout homme peu informé pourrait, en me voyant agir en
+                            <placeName ref="places.xml#pol01">Pologne</placeName>, prendre le
+                        change, mais il est impossible de supposer qu'un prince aussi éclairé que
+                        Votre Majesté s'y trompe, au moment même surtout où par ses engagements Vous
+                        approuvez mes vues. Me reposant, au reste, sur les sentiments qu'il Lui a
+                        plu de me témoigner si souvent, </p>
+                    <closer>
+                        <signed>c'est à présent plus que jamais qu'avec la plus haute considération
+                            je me dirai, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            sincère Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04773</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04773</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Ref to palace assumed to be the 'Winter Palace'</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:52:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04773">
+  <body>
+ 
+   <p>Je suis bien aise que vous soyez
+      content des tableaux de M-r
+     <persName ref="people.xml#tor01">Torelli</persName>. Je ne sais si vous avez vu celui qu’il m’a apporté le dernier jour de mon
+      séjour en ville: il est au <placeName ref="places.xml#win01">Palais </placeName>, je vous prie de m’en dire votre avis; il m’a
+      semblé qu’il y avait un cheval et sur ce cheval une figure qui ne plaisaient ni l’un ni
+      l’autre; passe pour les entours, j’attends votre jugement. Peut-être que
+      j’ai eu la berlue et que votre cheval a gâté ma visière. Mais pourquoi et <persName ref="people.xml#tor01"> Torelli</persName> et 
+    <persName ref="people.xml#los01">Lossinkoff </persName> ne dessineraient-ils point votre statue? on
+      choisirait le meilleur dessin et il serait gravé: cela paraît tout simple.</p>
+  </body>
+ </text>
+</TEI>

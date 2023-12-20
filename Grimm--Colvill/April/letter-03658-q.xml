@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03658</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03658</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not identify M. Saw.</p>
+    <p>Emma: wrong code ge02  - maybe meant to be geo02?</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:23:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03658">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1787-12-28">28 décembre 1787</date>. </dateline></opener>
+   <p>J’ai reçu par le courrier du comte de <persName ref="people.xml#seg01"> Ségur</persName> votre No 98 du 30 novembre (11
+    déc.); ce <seg xml:lang="de"> Vortrag</seg> était accompagné d’un <seg xml:lang="de">
+     Nachtrag</seg> daté du 1 (12) décembre. Tout cela est arrivé de compagnie, il y a quatre jours;
+    j’ai différé jusqu’à aujourd’hui de vous en annoncer par Bacchus l’arrivée, à cause de
+    différents empêchements, tant des fêtes que d’autres; en attendant j’ai ordonné d’écrire au
+    jeune voyageur par le comte <rs ref="people.xml#vor01"> S. Wor</rs>. de revenir ici et je lui ai
+    nommé un tuteur pour sauver, si faire se peut, les débris d’une fortune très honnête. Avec une
+    aussi bonne tête et d’aussi bonnes dispositions à écouter ce qui serait utile pour lui, je le
+    suppose à peu près bon à rien, quoiqu’on dise qu’il ne faut jamais désespérer des jeunes gens. A
+    présent c’est à M. Saw., tuteur du jeune homme, à voir comme il le tirera d’affaire.</p>
+   <p>Sur la correspondance de  <persName ref="people.xml#vol01"> Voltaire</persName> je vous ai mandé mon avis: faites en sorte,
+    je vous prie, que <rs ref="people.xml#bea01"> Figaro</rs> ne publie aucune de mes lettres, et à
+    cet effet achetez tout ce qu’il y a d’imprimé de ce tome, et jetez-le tout entier au feu; mais
+    faites en sorte que ce <rs ref="people.xml#bea01"> vilain homme</rs> n’en garde pas un
+    exemplaire, afin qu’après l’avoir vendu à moi, il ne le réimprime de rechef; car ce coquin est
+    capable de tout cela, à ce qu’on m’a assuré. Je suis bien aise que la visite du général
+     <persName ref="people.xml#lev01"> Lévachof</persName> vous ait fait plaisir; vous a-t-il
+    parlé pierres gravées? il connaît les miennes, comme moi-même, et les pâtes de <persName
+     ref="people.xml#tas01"> Tassié</persName> encore mieux.</p>
+   <p>Pour toutes vos recommandations, je n’en fais aucun cas, ne vous en déplaise: des volontaires
+    ni des espions, ce n’est pas moi qui en fournirai à mes armées. Messieurs les Français sont trop
+    Turcs dans le coeur pour se plaire chez nous, et outre cela ils ne savent pas un mot de russe,
+    et par là les meilleurs nous deviendraient inutiles. Il est vrai que la cour de <placeName ref="places.xml#fra01">
+    France</placeName> a retiré une dizaine d’officiers français qui étaient en <placeName ref="places.xml#tur01"> Turquie</placeName>, mais
+    outre qu’il en reste encore autant, il vient d’en passer un nouvel essaim d’une vingtaine par
+     <placeName ref="places.xml#ven01"> Venise</placeName>, qui s’en vont à <placeName ref="places.xml#ist01">
+    Constantinople</placeName>. <placeName ref="places.xml#och01"> Otchakof</placeName> est encore au pouvoir de la Sublime <placeName ref="places.xml#ott01"> Porte</placeName>.
+    Malgré ce que vous me dites, je suis intimement persuadée que là où vous êtes on se lierait
+    plutôt, malgré les soufflets réitérés qu’on en a reçus, avec <rs ref="people.xml#geo02"> fr.
+     Ge</rs>. et <rs ref="people.xml#gus01"> fr. Gu</rs>., et même avec le diable qu’avec moi. Voilà
+    les dispositions dans lesquelles on est et se fait gloire d’être là où vous êtes, et dont j’ai
+    des témoignages fort positifs depuis quelques jours: <rs ref="people.xml#geo02"> Fr. Ge</rs>. et
+     <rs ref="people.xml#gus01"> fr. Gu</rs>. sont une paire de lunettes qui iront à merveille <seg
+     xml:lang="de"> auf der armen Leute ihre Nase und mit welcher Erbsen-Suppe sie sich ausblasen
+     mögen bis zum Bersten, und dennoch werden sie bleiben was sie sind D. D. D</seg>. N’allez pas
+    croire que ce sont des etc., point du tout: ce sont trois D allemands; je ne sais ce que c’est
+    que votre <rs ref="people.xml#gus01"> Antoninus</rs>, à moins que ce ne soit cet autre huissier
+    à robe courte qui est allé chercher un cordon bleu pour son ami, parce qu’il ne voulait pas lui
+    donner le sien. <rs ref="people.xml#dmi01"> L’habit rouge</rs> a beaucoup ri de votre lettre;
+    qu’est-ce que le comte de <persName ref="people.xml#seg01"> Ségur</persName> vous en dit? Je vous prie de m’en envoyer copie;
+    il paraît qu’il l’aime; si j’étais le comte de <persName ref="people.xml#seg01"> Ségur</persName>, je ne resterais pas un
+    instant en <placeName ref="places.xml#rus01"> Russie</placeName>. Puisque <rs ref="people.xml#kar03"> papa</rs> et <persName ref="people.xml#aug02">
+    maman</persName> de <persName ref="people.xml#aug01"> Zelmire</persName> sont fort contents, je puis l’être aussi. Mais, au nom de Dieu,
+    brûlez mes lettres, car si vous veniez à mourir, je crains qu’on ne les imprime. </p>
+   <closer><signed rend="inline">Adieu. Que le ciel bénisse <rs ref="people.xml#geo02 people.xml#gus01">fr.
+     Ge Gu</rs> et les tienne en joie, et leur fasse faire toutes les contradictions imaginables, à
+    eux à qui tout réussit. Je me flatte qu’ils viendront en <rs ref="places.xml#fra01"> Fr</rs>.
+    pour voir siéger les états généraux. Est-il vrai que <persName ref="people.xml#gal05">
+     l’abbé Galiani</persName> soit mort? On le dit ici.</signed></closer>
+  </body>
+ </text>
+</TEI>

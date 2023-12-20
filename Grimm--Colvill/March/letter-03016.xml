@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03016</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03016</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-14">14/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:38:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03016">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1778-10-17">17, 18 ou 19 d’octobre 1778</date>.</dateline></opener>
+   <p>A peine ma lettre du 1 d’octobre, qui, par parenthèse, n’a été achevée qu’aujourd’hui, a été
+    remise à la poste que je me suis souvenue que j’ai oublié de vous dire tout plein de choses, et
+    nommément de souscrire pour cent exemplaires de la nouvelle édition des oeuvres de <persName ref="people.xml#vol01">
+    Voltaire</persName>. Donnez- moi cent exemplaires complets des oeuvres de mon maître, afin que je les
+    dépose tout partout. Je veux qu’elles servent d’exemple; je veux qu’on les étudie, qu’on les
+    apprenne par coeur, que les esprits s’en nourrissent: cela formera des citoyens, des génies, des
+    héros et des auteurs; cela développera cent mille talents, qui se perdront d’ailleurs dans la
+    nuit des tenèbres, de l’ignorance etc. Voyez quelle tirade est partie là; qui s’en serait douté
+    lorsque j’ai pris la plume, et qui peut prédire ce avec quoi cette feuille finira? S’il vous
+    plaît, faites-moi avoir la façade du château de <placeName ref="places.xml#fer01">
+     Ferney</placeName> et, s’il est possible, le plan intérieur de la distribution des
+    appartements. Car le parc de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> n’existera pas, ou bien le château
+    de <placeName ref="places.xml#fer01"> Ferney</placeName> viendra y prendre place. Il faut encore que je sache quels appartements
+    du château sont vers le nord, et quels vers midi, levant et couchant; il est encore essentiel de
+    savoir si l’on voit le lac de Genève des fenêtres du château et duquel côté; il en est de même
+    du mont Jura. Autre question: y a-t-il une avenue au château et de quel côté? Voyez un peu,
+    cette idée vous plaît-elle, et pourquoi ne plairait-elle pas? Il est vrai qu’elle n’est pas
+    neuve. Nous avons un C. appelé N. F. Voyons si vous vous rappellerez que vous avez reçu de cet
+    endroit une lettre de moi; je crois même que vous avez une description des meubles et que je
+    vous ai parlé du maître de la maison, qui n’était point du tout à sa place, parce que sa place
+    naturelle était l’académie des sciences. Je n’approuve point l’idée du libraire Panckoucke de
+    faire paraître en premier lieu ce qu’il y a de neuf des ouvrages de <persName ref="people.xml#vol01"> Voltaire</persName>. Je
+    voudrais avoir le tout ensemble arrangé chronologiquement, selon les années où ils ont été
+    écrits. Je suis un pédant qui aime à voir la marche de l’esprit de l’auteur dans ses ouvrages,
+    et croyez-moi qu’un tel arrangement est d’une beaucoup plus grande conséquence que communément
+    on ne le croit: plus vous y penserez, et plus vous trouverez que j’ai raison. Je pourrais vous
+    donner là-dessus une dissertation entière, dans laquelle entrerait le vert, le mûr et le trop
+    mûr, et la conviction tenant à la marche des idées, <seg xml:lang="de"> aber, mein Gott, alles
+     das verlangt sehr tieffe Studia, alles muß man nicht sagen, weil alles zu sagen einigemal toll
+     klingt, wenn es gleich vielleicht weise Sachen sein konnten, wenn sie von guten Orten kämen und
+     in klugen Hora gehalten</seg>. Tenez, c’est du sublime cela, mais basta, cela devient trop
+    fou.</p>
+   <p>L’ouvrier de la fameuse écritoire n’est point arrivé jusqu’ici. Je crois qu’il y a ici un
+    crayon pareil au vôtre, arrivé de <placeName ref="places.xml#rom03"> Rome</placeName>, et qui' appartient au <persName
+     ref="people.xml#zav01"> général-major Zavadofski</persName>. Le comte Vorontsof le lui a
+    envoyé, et c’est Une très belle chose. M. de <persName ref="people.xml#shu02">
+     Schouvalof</persName> m’a dit qu’à <placeName ref="places.xml#rom03"> Rome</placeName> on n’était point du tout embarrassé de
+    faire mon portrait, qu’on prenait bravement une médaille ou médaillon d’ <persName
+     ref="people.xml#ale04"> Alexandre</persName> et qu’avec cela on faisait très-bravement aussi
+    mon portrait. Je me suis rengorgée de cela, et depuis ce temps je dis à tout le monde: je
+    ressemble à <persName ref="people.xml#ale04"> Alexandre</persName>, mais j’ai vingt ans de plus
+    que lui. Je ne sais si <persName ref="people.xml#jos01"> Joseph second</persName> ressemble au
+     <persName ref="people.xml#fri02"> prince coadjuteur de Lubeck</persName>; mais ce qu’il y a
+    d’avéré, c’est qu’il ne veut pas la paix.</p>
+   <p>Tandis que j’achevais la réponse au No 22, m’est arrivé le N 23 intitulé: continuation du N :
+    22, qui a été suivi immédiatement d’un post-scriptum. Mais voyez un peu ce que c’est que ce
+    monde: tandis que vous me parliez du <seg xml:lang="de"> schweben, leben und weben</seg>
+    de <persName ref="people.xml#lut01"> Martin Luther</persName> pour me prouver le haut degré de faveur dans lequel je continue
+    d’être chez vous, moi je me croyais non seulement déchue, mais même dénigrée par l’arrivée de
+    quelque prince, grand génie. Pour le <title ref="works.xml#barbie01">Barbier de
+     Séville</title>, <persName ref="people.xml#car01"> mademoiselle Cardel</persName> et
+    M. <persName ref="people.xml#wag01"> Wagner</persName>, je vous prie de les tenir en grand honneur: ce sont des gens qui vont à
+    toute sauce, et <persName ref="people.xml#bas02"> Basile</persName> est un des sots fripons qui
+    m’ont le plus amusée dans ce monde; quand je verrai <persName ref="people.xml#cae01">
+     César</persName> un jour, je lui recommanderai cette pièce. Quand <persName ref="people.xml#gra01">
+     M. de Vergennes</persName> vous parle de l’achat de la bibliothèque de <persName ref="people.xml#vol01"> Voltaire</persName>,
+    il paraît qu’il ignorait les négociations du chevalier <persName ref="people.xml#bou02">
+     Corberon</persName>, du temps de <persName ref="people.xml#lou15"> Louis quinze</persName>;
+    j’aurais su par là que cela se traitait dans le département du <persName ref="people.xml#bro02">
+     comte de Broglio</persName>; mais présentement je suis désorientée, et je ne soupçonne que
+     <persName ref="people.xml#mig01"> Mignot</persName> et <rs ref="people.xml#dom02">
+     compagnie</rs>. Il ne me manque plus qu’une fourrure et quelques lettres
+    de <persName ref="people.xml#vol01"> Voltaire</persName> pour que le tout parte ensemble à votre adresse. Des lettres, il y en a
+    une centaine, mais nous en recouvrons encore tous les jours. Il est vrai qu’elles ne devront
+    jamais être imprimées, et je ne sais pas trop, après un mûr examen, si elles le pourront être,
+    et cela par trois raisons: la première, parce qu’on me taxera de vanité d’avoir donné à imprimer
+    des lettres qui regorgent d’épithètes flatteuses pour moi; seconde, parce qu’il y a force
+    plaisanteries piquantes sur le compte de la <persName ref="people.xml#mar01"> Manman</persName>
+    de <rs ref="people.xml#jos01"> l’homme à double face</rs>; <seg xml:lang="it"> tertio</seg>,
+    parce que le <rs ref="people.xml#jos01"> piccolo bambino</rs> est plus maltraité encore; or, si
+    l’on choisira celles qui restent, il ne restera pas grand-chose. Si on avait trouvé ou
+    brouillons, ou copies de ses lettres dans ses papiers, alors encore passe, mais je ne voudrais
+    point les fournir, et il vaudra mieux qu’elles restent déposées au château
+    de <placeName ref="places.xml#fer01"> Ferney</placeName>, près de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, dans la bibliothèque de M.
+    de <persName ref="people.xml#vol01"> Voltaire</persName>. J’approuve beaucoup ce que vous me proposez de faire pour <persName
+     ref="people.xml#wag02"> Wagnière</persName>: s’il avait envie de rester bibliothécaire de la
+    bibliothèque de <rs ref="people.xml#vol01"> son maître</rs>, il ne tiendrait qu’à lui, et il
+    pourrait la suivre au printemps prochain, ou comme il serait commode à lai; or, s'il ne peut ou
+    ne veut, vous lui donnerez pour ses peines au moins autant que son maître lui a laissé, ou plus,
+    comme vous le jugerez à propos.</p>
+   <p><persName ref="people.xml#ber05">Monsieur Bertin</persName>, interrogé sur sa prétendue
+    fraternité, a déclaré tout net, tout en suant et en changeant, sans discontinuer le service
+     : <hi rend="italic">Que non</hi>. Ainsi bien vous a pris de garder le silence, lorsque vous
+    vous êtes trouvé proche des plumes, ou bien couvert par les plumes, panaches etc. de la très
+    terrassante <persName ref="people.xml#ber04"> demoiselle Bertin</persName>, parce que, comme de
+    raison, vous n’auriez pu esquiver sa très juste indignation; au reste <persName
+     ref="people.xml#ber05"> M. Bertin</persName> est présentement chef de cuisine chez moi.</p>
+   <p>Engoué, engoué! savez vous bien que ce terme ne convient point lorsqu’on parle de Pyrrhus,
+     <persName ref="people.xml#kor02"> roi d’Epire</persName>, de l’écueil des peintres, du
+    désespoir des sculpteurs. C’est de l’admiration, monsieur, c’est de l’enthousiasme que les chefe
+    d’oeuvre de la nature inspirent; les jolies choses tombent et se fracassent, comme les idoles
+    devant l’arche du Seigneur, devant le caractère du grand. Quand Pyrrhus prend un violon, les
+    chiens l’écoutent; quand il chante, les oiseaux viennent l’écouter, comme Orphée. Jamais Pyrrhus
+    ne fit un geste, un mouvement qui ne fût ou noble ou gracieux; il est rayonnant comme le soleil,
+    il répand l’éclat autour de lui ; tout cela n’est point efféminé, mais mâle et comme vous
+    voudriez que quelqu’un fût; en un mot, c’est Pyrrhus, roi d’Epire: tout est harmonie; il n’y a
+    point de pièce détachée; c’est l’effet des précieux dons accumulés de la nature dans son beau,
+    l’art n’y est pour rien, le maniéré en est à dix mille lieues. Le <persName
+     ref="people.xml#ber03"> cardinal de Bernis</persName>, il est vrai, m’a fait avoir
+    de <placeName ref="places.xml#rom03"> Rome</placeName> la copie du procès d’ <persName ref="people.xml#bol01"> Anne de
+     Boleyn</persName>, mais je vous avoue que ce n’était point à ce procès que j’en voulais, mais
+    bien aux auteurs classiques, grecs et latins, qui n’ont point été imprimés jusqu’ici; l’on m’a
+    dit que dans cette bibliothèque il y a des choses que tout le monde ignore. Pour le
+    postscriptum, qui ne contient que les <seg xml:lang="la"> summa summarum</seg> des comptes de
+    l’écritoire, j’en accuse la réception, mais je n’y réponds point, pour épargner plume et papier. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

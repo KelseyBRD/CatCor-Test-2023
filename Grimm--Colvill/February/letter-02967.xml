@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02967</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02967</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:47:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02967">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1775-03-16">16 mars 1775</date></dateline></opener>
+   <p><seg xml:lang="de">Gott weiß, wunderliche Sachen Schreib der Herr
+     Freiherr und seine Briefe sind länger wie del Sel: Herrn Pastor Wagners abzugs und Antritts
+     beruf predigten</seg>, — ouf! après trois lignes allemandes d’une force pareille je crois que
+    tout honnête homme a le droit de prendre haleine et de toussoter un peu comme les bourgmestres
+    des villes de <placeName ref="places.xml#ger01"> Germanie</placeName>, lorsqu’ils sont
+    parfaitement contents d’eux. C’est, ne vous déplaise, votre très-honoré No 15 qui a produit ces
+    belles conclusions, accompagnées de réflexions. Mais qu’est-ce donc que toutes ces quatre pages
+    de paroles, enfilées comme des perles, que vous m’écrivez pour me demander de nouveau si vous
+    viendrez ou ne viendrez pas? Pour moi, déjà tout net je vous attendais à la suite du <persName
+     ref="people.xml#hen02"> prince Henri</persName>, lorsque je serais de retour à <placeName
+     ref="places.xml#pet01"> St.-Pétersbourg</placeName> en 1776; vous me dites d’en fixer le temps:
+    le moyen, je vous prie, de le fixer? Je reviendrai, moi, par eau au mois d’avril ou de mai
+    d’ici) à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, et vous y viendrez comme
+    bon vous semblera et serez le très bienvenu, y resterez à votre bon plaisir encore et partirez
+    sans contrainte aucune, et plus y resterez, et mieux sera; cela est-il clair? Pour cela il faut
+    avouer que ces philosophes sont de singulières conformations de gens: ils viennent au monde, je
+    pense, pour mettre des points sur les i et pour rendre obscur et indécis ce dont on était
+    persuadé, comme de deux et deux qu’ils font quatre. Or, écoutez encore: à vous permis de venir
+    aussi sans le prince, si fantaisie vous en prend, et alors volontiers je me charge des frais du
+    voyage, et cela avant ou après votre course en <placeName ref="places.xml#ita01">Italie</placeName>. Le moyen de vous écrire de
+    belles lettres, qui vous feraient étouffer de rire, lorsque vous venez mettre des entraves de ci
+    et de ça, auxquelles il faut répondre avec précision, et cela à moi, qui réponds tonte ma vie à
+    tous les questionneurs possibles sans avoir de vocation naturelle pour les réponses; mais je
+    m’en sens infiniment pour les questions. Bref, ne parlons pas de cela; je vous dirai du <rs
+     ref="people.xml#lud02"> jeune homme</rs> qu’il est fourré ici dans une troupe de godelureaux,
+    qui le mènent grand train et ne le feront guère estimer; pour <rs ref="people.xml#wil01">
+     la dame</rs>, elle est hétique ou peu s’en faut, et il n'y a guère d’apparence à ce que vous
+    désireriez, et moi aussi: d’ailleurs le ménage est fort uni. </p>
+   <closer><signed rend="inline">Adieu, monsieur, contentez-vous de cela pour aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01024</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01024</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:11:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01024">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, cc <date when-custom="1781-09-16">16 septembre 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’antiquité païenne qui déifiait les héros, est justifiée à mes yeux de
+    l’accusation de flatterie depuis que je vois l’enthousiasme en tout pays suivre les traces de V.
+    M. I. — C’est l’effet naturel que produisent les vertus sublimes sur les fanes sensibles. Qu’il
+    plaise à V. M. I. de me compter parmi celles-ci, non seulement remplie de l’admiration, de la
+    plus haute estime qu’inspirent Ses éminentes qualités, de l’amitié et de la reconnaissance la
+    plus sincère pour tous les témoignages de bonté dont il a plu à V. M. I. de me combler. J’y
+    ajoute la confiance la plus étendue; elle acquiert, cette confiance, un nouveau degré de
+    vivacité en ce moment où je vois partir mon <rs ref="people.xml#pau01"> fils</rs> pour se rendre
+    à la Cour de V. M. I. — Puissent <rs ref="people.xml#pau01 people.xml#mar02">mes enfants</rs>
+    s’attirer la haute approbation de V. M. I.! S’ils suivront mes désirs, ils tâcheront de la
+    mériter par tous les sentiments dûs à V. M. I., et avec lesquels je ne cesserai d’être ....</p>
+   <p>Qu’il plaise à V. M. I. d’agréer mes bien sincères remercîments pour la part qu’Elle a bien
+    voulu témoigner prendre à l’inoculation de mes <rs ref="people.xml#ale01 people.xml#kon01">
+     petits-fils</rs>, qui a eu le plus heureux succès.</p>
+  </body>
+ </text>
+</TEI>

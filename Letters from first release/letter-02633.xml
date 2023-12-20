@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02633</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02633</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-08">8 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02633">
+                <body>
+                    <opener> 
+                    <salute rend="inline">Sire!</salute></opener>
+                    <p>Je sens trop parfaitement la part que Votre Majesté a au <rs type="event"
+                            ref="events.xml#betro01">grand établissement</rs>, où je viens d'entrer,
+                        pour oublier les remercîments que je Lui en dois, recevez les ici, Sire!</p>
+                    <closer>
+                        <signed>et persuadez Vous, que je ne le considérerai glorieux pour moi,
+                            qu'alors que j'aurai eu l'occasion de Vous convaincre de ma
+                            reconnaissance et de l'attachement, dont j'ai l'honneur d'être, Sire, de
+                            Votre Majesté, la très humble et très obéissante Cousine et
+                            Servante 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                        <dateline><placeName ref="places.xml#mos01">à Moscou</placeName>
+                            <date when-custom="1744-07-21">ce 21 Juillet (1 d'Août)
+                            1744</date>.</dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener>
+                    <salute rend="inline">Sire!</salute></opener>
+                    <p>I have too profound a sense of how much Your Majesty has contributed to the
+                        great establishment into which I have just entered for me to be able to
+                        forget the thanks which I owe you for it: receive them here, Sire!</p>
+                    <closer>
+                        <signed>and be persuaded that I shall not think it glorious for me, except
+                            once I have had the chance to convince you of my gratitude and of the
+                            affection with which I have the honour to be, Sire, Your Majesty's most
+                            humble and most obedient Cousin and Servant
+                        <persName rend="below">Catherine.</persName></signed>
+                        <dateline>at Moscow this <date when-custom="1744-07-21">21 July (1 August) 1744</date>.</dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

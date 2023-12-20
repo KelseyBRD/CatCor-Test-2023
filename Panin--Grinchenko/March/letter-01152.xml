@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01152</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01152</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01152">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#niz01">Нижняго Новагорода.</placeName><lb/>
+                <date when-custom="1767-05-22">Маия 22 ч., 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Сего утра получила письмо Ваше от 18 ч. Маия. Мы все здоровы, и думаю завтра отселе
+                ехать. Сей город ситуациею прекрасен, а строением мерзок, только поправится вскоре,
+                ибо мне одной надобно строить соляные и винные магазейны, так Губернаторской дом,
+                Канцелярию и Архиву, что все или на боку лежит, или близко того; также Корона близко
+                двадцати тысяч в год платит найма для поклажи соли и вина.</p>
+            <closer rend="inline"><persName ref="people.xml#pau01">Сыну</persName> моему кланяюсь, и
+                желаю Вам обоим здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

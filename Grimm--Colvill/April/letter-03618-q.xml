@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03618</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03618</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) The letter talks about words both in Slavonic and Russian, and I have used « cu » as the
+     language code for slavonic. The Russian words should probably be checked for accuracy. (2)
+     Catherine mentions Holberg’s « Chron. Danoise » and I think this might refer to his text « The
+     Danish Empire/Kingdom's History » but could also be another of his works. I have not coded
+     it..</p>
+    <p>Emma: I'm not sure whether the datelines are closers or openers... </p>
+    <p>xml doesn't easily let something be coded as two languages, but didn't want to lose that
+     information, so used ana to record the second language - not sure how that would translate into functionality.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-09">09-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:49:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03618">
+  <body>
+   <div>
+    <opener><dateline> Се <date when-custom="1784-09-14">14 septembre
+     1784</date>.</dateline></opener>
+    <p>J’ai à vous écrire; je devrais relire vos trois dernières lettres, mais, en vérité, je ne
+     puis; vous n’aurez rien de bien gai de ma part, car je suis devenue un être fort triste, qui ne
+     parle même que par monosyllabes. Cependant je suis un peu mieux que je n’étais, car je sors et
+     puis supporter les faces humaines. Je vous envoie deux cahiers de l’histoire de <placeName
+      ref="places.xml#rus01"> Russie</placeName> traduite en allemand, que vous avez voulu avoir. La
+      <title ref="works.xml#alineg01"> reine de Golconde</title> est arrivée, et tout est en bon
+     état, et fort beau. Mais Tout m’afflige......... Et je n’ai jamais aimé à faire pitié.
+     Apparemment que pareil état n’est pas mortel, car je suis en vie, et je n’ai été alitée que six
+     jours. De tous ceux qui ont entouré le <persName ref="people.xml#lan02"> généra</persName>l
+     dans cette fièvre maligne et pourprée qui commença par un mal de gorge le mercredi 19 juin à
+     trois heures après midi, il n’y a que moi qui aie gagné un mal de gorge, et j’ai pensé en
+     mourir. Or, imaginez-vous que ce jour il vint chez moi au moment que la gorge commença à lui
+     faire mal, et il me dit qu’il allait faire une grande maladie dont il ne relèverait pas; je
+     tâchai de lui ôter cette idée de la tête, et même il me parut oublier son mal: il s’en alla
+     chez lui à quatre heures et demie; à six je fis une promenade au jardin; il y vint et fit le
+     tour de l’étang avec moi. Revenue dans ma chambre, il se plaignit de rechef, mais il me pria de
+     faire comme de coutume une partie de reversi; elle fut courte, parce que je voyais qu’il
+     souffrait. Lorsque tout le monde fut sorti, je lui conseillai d’aller chez lui se mettre au
+     lit; il le fit et envoya chercher un très bon chirurgien qui est à <placeName
+      ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> ; celui-ci lui trouva le pouls intermittant,
+     et le lendemain à sept heures du matin cet homme me fit dire qu’il demandait pour conseil
+     (quelqu’un) de ses confrères: j’y envoyai <persName ref="people.xml#kel01"> Kelchen</persName>,
+     et je dépêchai un exprès à <placeName ref="places.xml#pet01"> Pétersbourg</placeName> pour
+     appeler <persName ref="people.xml#wei02"> Weikard</persName>. Celui-ci vint sur le midi; quand
+     je le sus arrivé, j’allai voir le malade, qui me parut avoir une forte fièvre. <persName
+      ref="people.xml#wei02"> Weikard</persName> me prit à part et me dit: <seg xml:lang="de"> Das
+      ist nicht gut</seg>! Je lui dis: <seg xml:lang="de"> Was ist es denn</seg>? <persName
+      ref="people.xml#wei02"> Weikard</persName> me dit: <seg xml:lang="de"> Ein bößartiges Fieber,
+      und er wird sterben</seg>. Là-dessus je lui dis: <seg xml:lang="de"> Aber ist denn keine Hülfe
+      dabei die, die Jugend ist intermittent, und ich will voraus sagen, wie das Stund‘ vor Stund‘
+      gehen wird.</seg> J’appelai <persName ref="people.xml#kel01"> Kelchen</persName>; celui-ci,
+     plus politique que l’autre, cependant ne cachait point ses appréhensions non plus. Le malade,
+     en attendant, avait formé une très forte résolution de ne rien prendre du tout: il se laissa
+     saigner, mit les pieds dans l’eau, but beaucoup d’eau et d’autres boissons, et ne prit pas la
+     moindre chose; il dormit beaucoup pendant la journée du jeudi, et tons ses traits se gonflèrent
+     singulièrement, et le bout de son nez devint blanc. Le vendredi, arriva le docteur Sobolefski,
+     son ami; celui-ci lui fit boire de l’eau froide et-lui donna des figues cuites à manger; il ne
+     voulut voir ni <persName ref="people.xml#wei02"> Weikard</persName>, ni les autres jusqu’au
+     soir, où la fièvre redoubla avec beaucoup d’inquiétude; le samedi il parut être un peu mieux,
+     mais vers midi il commença à vomir, et il vomit toute la journée, après quoi vinrent des
+     hoquets, et le pourpre se montra. Cependant le samedi au soir <persName ref="people.xml#wei02">
+      Weikard</persName> me dit que s’il ne prendra point de transport au cerveau, il peut se tirer
+     d’affaire. Les chaleurs étaient grandes; le dimanche on le fit passer dans une chambre plus
+     aërée. Il y alla lui-même; je vins chez lui à trois heures; il me dit toutes les dispositions
+     qu’il avait faites, se sentant fort mal la veille. Il ne battait point la campagne; mais au
+     bout d’une heure le délire commença; il connaissait tout le monde par nom et surnom; mais il
+     battait la campagne et se fâchait contre tout le monde de ce qu’on ne voulait point lui amener
+     ses chevaux pour les atteler à son lit. Cette colère nous faisait espérer qu’il vomirait de la
+     bile, mais point du tout: le lundi il s’affaiblit de moment en moment. Je quittai sa chambre à
+     onze heures du soir, je n’en pouvais plus et je cachais mon propre mal jusqu’au matin du mardi.
+     J’oubliais de vous dire que le lundi j’envoyai chercher <persName ref="people.xml#rog01">
+      Rogerson</persName>, qui était sur son départ pour les eaux, parce que <persName
+      ref="people.xml#che03"> Ivan Tschernichef</persName> me parla des poudres de <persName
+      ref="people.xml#jam01"> James</persName>, que les docteurs et chirurgiens allemands ne
+     savaient point administrer; <persName ref="people.xml#rog01"> Rogerson</persName> les lui
+     donna, mais sans aucun effet. Après vous avoir dit tout cela, me voilà soulagée, et je crois
+     que je vous ferai une longue lettre, tandis qu’en commençant je n’ai pu vous écrire que des
+     monosyllabes.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-15">15 de septembre</date>.</dateline></opener>
+    <p>Je vous, envoie de nouveau un médaillon de <persName ref="people.xml#kon01">
+      Constantin</persName> au faux air de <persName ref="people.xml#pet01"> Pierre
+      premier</persName>.</p>
+    <p>Vous savez, je crois, que <persName ref="people.xml#har03"> Laharpe</persName> est placé près
+     d’ <persName ref="people.xml#ale01"> Alexandre</persName>; c’est le <persName
+      ref="people.xml#har03"> Laharpe</persName> suisse qui a voyagé avec les deux Lanskoï: <rs
+      ref="people.xml#lan03"> l’enfant perdu</rs> et <persName ref="people.xml#lan04">
+      Basile</persName>. Il trouve du talent à son élève <persName ref="people.xml#ale01">
+      Alexandre</persName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-17">17 septembre</date>.</dateline></opener>
+    <p>L’Hercule du <persName ref="people.xml#ern01"> duc de <placeName ref="places.xml#sax01">
+       Saxe</placeName>-<placeName ref="places.xml#got01"> Gotha</placeName></persName> est achevé;
+     il faut savoir présentement où le duc souhaite qu’il soit rendu, dans quel port: est-ce à
+      <placeName ref="places.xml#lub01"> Lübeck</placeName>? est- ce à <placeName
+      ref="places.xml#ham01"> Hambourg</placeName>? Et alors j’ordonnerai qu’on l’expédie le
+     printemps prochain. Tout le monde dit que c’est une très bonne pièce. Pourra-t-il remonter
+      l’<placeName ref="places.xml#elb01"> Elbe</placeName>? C’est l’affaire des banquiers et
+     marchands qui en auront l’expédition.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-18">18 sept</date>. </dateline></opener>
+    <p>Je vous prie de jeter un coup d’oeil sur les feuilles annexées: elles ont été écrites après
+     la lecture de l’histoire de l’astronomie, par <persName ref="people.xml#bai01"> M.
+      Bailly</persName>; il parle beaucoup dans cet ouvrage d’un peuple primitif qui aurait pu
+     exister en <placeName ref="places.xml#sib01"> Sibérie</placeName>. Son livre fait que nous
+     commençons à chercher ce qui pourrait éclaircir son avis, qui est aussi celui de <persName
+      ref="people.xml#buf02"> M. de Buffon</persName>: si l’un ou l’autre se soucie de ce que ces
+     feuilles contiennent, vous pouvez communiquer ces faibles essais. Si ces messieurs souhaitent
+     de nous envoyer des questions, faites-les nous parvenir. Mais voici qui est pour vous seul,
+     parce que cela n’est pas assez approfondi: c’est que les Saliens et la loi salique, <persName
+      ref="people.xml#chi04"> Chilpéric I</persName>, <persName ref="people.xml#clo02">
+      Clovis</persName> et toute la race de Mérovée était slavonne, de même que tous les rois
+     vandales d’<placeName ref="places.xml#spa01"> Espagne</placeName>; leurs noms les trahissent et
+     leur marche aussi. Les plus grands ennemis des <orgName ref="orgs.xml#slav01">
+      Slavons</orgName> étaient les moines italiens; ils étaient leurs ennemis, comme idolâtres et
+     comme chrétiens d’une autre croyance. Ne vous étonnez plus si les rois de <placeName
+      ref="places.xml#fra01"> France</placeName> prêtent serment sur un évangile slavon à leur
+     couronnement à <placeName ref="places.xml#rei01"> Reims</placeName>. <persName
+      ref="people.xml#chi04"> Chilpéric I</persName> fut chassé du trône parce qu’il voulut que les
+     Gaulois, qui avaient reçu des Romains l’a b c latin, y ajoutassent trois lettres
+     greco-slavonnes nommément Th ou ч, X, qui se prononce cher, et Ψ, qui se prononce psi.</p>
+    <p>Si M. <persName ref="people.xml#cou01"> Court-de-Gébelin</persName> avait su le slavon ou le
+     russe, il aurait bien plus fait des découvertes intéressantes encore. Je regarde sa grammaire
+     universelle comme un des plus excellents ouvrages qui aient paru de ce siècle.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-19">19 septembre</date>.</dateline></opener>
+    <p>Vous m’avez demandé par rapport à <persName ref="people.xml#har04"> Hardy</persName>; vous
+     savez qu’il est parti d’ici pour cause de santé; je ne sais point s’il lui est dû quelque
+     chose; en ce cas vous me le manderez; sinon, il fera comme il voudra: la bibliothèque près de
+     laquelle il était est vendue.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-21">21 de sept</date>. </dateline></opener>
+    <p>Il faut que je vous dise, que pour ce qui regarde les affaires publiques, elles iront
+     parfaitement leur train, comme elles allaient; mais moi dans mon particulier, qui jouissais
+     d’un grand bonheur, je n’en jouis plus; je me noie dans la lecture et l’écriture, et puis c’est
+     tout; il ne me reste que l’excessive sensibilité sur la perte irréparable que j’ai faite.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-23">23 sept</date>. </dateline></opener>
+    <p>Dans peu je vous donnerai des nouvelles sur les <orgName ref="orgs.xml#etru01">
+      Etrusques</orgName> et sur les antiquités runiques, où vous verrez que la matière commence â
+     s’éclaircir, et que, parce qu’aucun écrivain ou historien ne savait le russe, ils ont mis une
+     confusion terrible dans les choses et un voile sur la vérité.</p>
+    <p>Je me suis ravisée: ne montrez ces cahiers ni à <persName ref="people.xml#bai01">
+      Bailly</persName>, ni à <persName ref="people.xml#buf02"> Buffon</persName>; ce n’est point
+     leur tiroir, quoiqu’ils aient les premiers indiqué l’existence du peuple que peut-être ils ne
+     se soucient pas de découvrir; au reste vous ferez comme vous voudrez: cela n’arrêtera point la
+     chaleur de nos recherches. NB. Je ne sais pas trop ce que j’ai mis dans cette lettre, et je
+     n’ai pas le coeur de la relire. Mais elle est pour vous, et vous apprécierez mieux l’état de ma
+     tête.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1784-09-26">26 septembre</date>, </dateline></opener>
+    <p>Je viens de recevoir votre No 76, par lequel vous me demandez comment je me porte; à cela
+     j’ai à vous répondre que je ne suis ni n’ai été malade depuis ma lettre du 2 de juillet, mais
+     excessivement affligée; oui, il m’est impossible de vous promettre de vous écrire tous les huit
+     jours, parce que je l’oublierai: je n’ai jamais su m’assujétir à pareille étiquette, et puis
+     pourquoi instruire les commis des postes aussi exactement de toute chose?</p>
+    <p>Le monument dont vous me parlez se fait ici.</p>
+    <p>Je n’ai guère pu soutenir la vue du salon du matin, ni de tout ce qui nous enchantait
+      à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>.</p>
+    <p>Hier il y a eu trois mois révolus de la malheureuse catastrophe depuis laquelle je suis
+     devenue un être à monosyllabes.</p>
+    <p>Par rapport aux pierres gravées, dites à ceux qui vous en offriront que je n’en ai jamais
+     acheté pour moi, parce que je ne m’y entends pas, et que je n’en achèterai plus du tout. Si
+     vous voulez savoir au juste mon état, je vous dirai que depuis hier trois mois je suis
+     inconsolable de la perte irréparable que j’ai faite, que l’unique mieux qu’il y a, c’est que je
+     me suis raccoutumée aux faces humaines, que d’ailleurs le coeur me saigne comme le premier
+     moment, que je fais mon devoir et tâche de le faire bien, mais que ma douleur est extrême, et
+     comme je n’en ai senti de ma vie, et voilà trois mois que je suis dans cette cruelle situation,
+     souffrant comme un damné.</p>
+    <closer><dateline> Ce <date when-custom="1784-10-12">12 d’octobre</date>. </dateline></closer>
+    <signed rend="inline">Je n’ai pas le coeur de relire cette lettre; je la ferme donc
+     aujourd’hui.</signed>
+   </div>
+   <div>
+    <head><supplied>These are the supplements mentioned in the letters of 18 and 28
+      September</supplied></head>
+    <p><seg xml:lang="cu">
+      <hi rend="italic">Thot</hi></seg>. Th en slavon et russe se rend par la lettre ч, qui
+      s’appelle <seg xml:lang="cu">
+      <hi rend="italic">Tscherf</hi>: Thot</seg> écrit en Russe <seg xml:lang="ru"> чоть</seg>
+     pourrait bien signifier <hi rend="italic">compte</hi>, le compteur; ainsi Mercure ou Thot
+     pourrait bien s’appeler le compteur.</p>
+    <p><seg xml:lang="cu">
+      <hi rend="italic">Inde</hi></seg>. En slavon et russe <seg xml:lang="cu"> чоть</seg> veut dire
+     autre contrée, ailleurs. Quand ils sortirent de la <placeName ref="places.xml#sib01">
+      Sibérie</placeName>, ils allèrent <hi rend="italic">ailleurs</hi>.  </p>
+    <p>En <placeName ref="places.xml#sib01"> Sibérie</placeName>, parmi les peuples idolâtres, il y
+     a trois sortes de superstition: la première est appelée <hi rend="italic">schamanskoï
+     tolk</hi> ou l’opinion des schamans; ces schamans, c’est la religion des mages d’<placeName
+      ref="places.xml#egy01"> Egypte</placeName>; toutes les régions de l’air et de la terre sont
+     vivifiées et déifiées; c’était la religion des Grecs et des Romains. Les Egyptiens n’ont point
+     envoyé de colonies en <placeName ref="places.xml#sib01"> Sibérie</placeName>. La seconde est
+     appelée la religion du Dalaï-Lama; c’est celle de
+     la <placeName ref="places.xml#chi02"> Chine</placeName> etc. La troisième est celle des
+     Bramines. Le professeur <persName ref="people.xml#geo06"> Georgi</persName> de l’ <orgName
+      ref="orgs.xml#acad01"> Académie de <placeName ref="places.xml#pet01"> St
+       Pétersbourg</placeName></orgName> a donné une dissertation assez curieuse sur ces trois
+     sectes idolâtres.</p>
+    <p>NB. Que les montagnes, les vallées, les rivières et une grande quantité d’endroits les plus
+     anciens et de peuples dans les Indes et l’<placeName ref="places.xml#ame01">
+      Amérique</placeName> ont des noms qui ne signifient rien dans les autres langues et qui ont
+     leur signification très intelligible en slavon et en russe; on pourrait en fournir un régistre
+     très étendu, s’il était nécessaire, de même que de celles de <placeName ref="places.xml#fra01">
+      France</placeName>, <placeName ref="places.xml#sco01"> Écosse</placeName> et autres lieux. Le
+     mot sera (métropolie) en slavon et en russe veut dire grise, <seg xml:lang="cu">
+     сѣра</seg>.</p>
+    <p>Le mot ou le nom de Zoroastre, en slavon et en russe, est composé de deux mots: le premier
+     Zora = <seg xml:lang="ru"> заря</seg>, le second ostre = <seg xml:lang="ru"> остръ</seg>, ce
+     qui veut dire mot à mot <seg xml:lang="ru"> заря</seg> ou zora, aurore; ostre ou <seg
+      xml:lang="ru"> остръ</seg>, fin, pointu, spirituel, pénétrant.</p>
+    <p>Le nom d’<persName ref="people.xml#eve01"> Evechous</persName>, premier roi de <placeName
+      ref="places.xml#bab01"> Babylone</placeName>, qui porta nom de Chaldéen, et le nom des
+     Chaldéens ne renferment-ils pas des racines slavonnes ou russes? <seg xml:lang="ru"> vech,
+      ветхой</seg>, veut dire vieux, chlad = <seg xml:lang="ru"> хладъ</seg>, froid, chaldéens ou
+     chladnie = <seg xml:lang="ru"> хладеѢ</seg> ou <seg xml:lang="ru"> хладнѣе</seg>, venant d’un
+     climat froid, ceux qui ont froid. <persName ref="people.xml#bel03"> Jupiter-Belus</persName>,
+     inventeur de la science des astres, avait un fameux temple à <placeName ref="places.xml#bab01">
+      Babylone</placeName>; c’était le bon esprit, le dieu blanc; en slavon, en russe, beloï = <seg
+      xml:lang="ru"> бѣлой</seg>; ce beloï se trouve dans Belus.</p>
+    <p>Chez tous les peuples, dans toutes les opinions figurées, pour aller aux enfers, il faut
+     descendre dans la terre, et le juge des enfers chez les Bramines se nomme Ïama; or en slavon et
+     en russe <seg xml:lang="ru">yamma</seg>, <seg xml:lang="cu">yama</seg> veut dire fosse.</p>
+    <p>On trouve beaucoup de mots semblables qui n’ont aucun sens dans les autres langues
+     européennes, et ont une signification déterminée dans la langue slavonne ou russe. Peut-être
+     ces dialectes sont ceux qui s’éloignent le moins de la langue primitive, ou qui on souffert le
+     moins d’altérations. Hermès plaça dans les sanctuaires ces tables de pierres gravées qui forent
+      appelés <seg xml:lang="cu" rend="italic">stelas</seg>; en slavon, en russe une table est
+     appelée <seg xml:lang="ru"> стол</seg></p>
+    <p><title ref="works.xml#mondep01"> Le Monde primitif</title> pose pour principe que les
+     voyelles changent dans les mots.</p>
+    <p>Le nom d’Osiris veut dire en slavon et en russe: regarde autour de toi, appelée <seg
+      xml:lang="ru"> озbрись.</seg></p>
+    <p>Le nom Scythes en slavon et en russe, <seg xml:lang="ru"> скиты</seg>, <seg xml:lang="cu">
+      скитаются</seg>, veut dire ceux qui vont d’un endroit dans un autre.</p>
+    <p>Les armées scythes étaient distinguées et partagées en deux divisions: l’une de Scythes et
+     l’autre de leurs femmes. Lorsque le père, le mari ou le frère étaient les chefs de la division
+     mâle, la femme, la fille, la soeur avaient les commandements de la seconde division; alors elle
+     était nommée l’amazone, <seg xml:lang="cu"> омазана</seg> ou <seg xml:lang="ru">
+     помазана</seg>, c’est-à-dire l’ointe, en slavon et en russe.</p>
+    <p><persName ref="people.xml#hol01"> Louis Holberg</persName>, Chron. danoise, 1<hi
+      rend="superscript">ere</hi> part. pag. 80, dit: </p>
+    <q>«Les peuples du Nord avaient deux différentes sortes de divinités: les unes supérieures, les
+     autres inférieures; mais <persName ref="people.xml#odi01"> Odin</persName> en était estimé le
+     père universel; ils avaient encore des demi-déesses; car on trouve dans leurs antiques annales
+     qu’il y avait dans le séjour d'<persName ref="people.xml#odi01"> Odin</persName> des vierges
+     nommées Yalky (<seg xml:lang="cu"> valky</seg>, en slavon et en russe <seg xml:lang="ru">
+      валки</seg>, veut dire peu affermi, qui va tomber) dont le nom était emprunté de la fonction
+      dont <persName ref="people.xml#odi01"> Odin</persName>  les avait chargées et qui consistait
+     en ce que toutes les fois qu’il se devait livrer une bataille, elles étaient obligées de se
+     rendre sur le lieu où la bataille avait lieu, et là, recevant les âmes, surtout des grands
+     princes tués les armes à la main, elles les conduisaient dans le séjour du grand <persName
+      ref="people.xml#odi01"> Odin</persName>  et les servaient à table».</q>
+    <p>Elles se nommaient, dit <persName ref="people.xml#hol01"> Holberg</persName>, <seg
+      xml:lang="cu"> Mista</seg>: en slavon et en russe <seg xml:lang="ru" ana="#cu"> mista</seg> ou
+      <seg xml:lang="ru" ana="#cu"> иѣсто</seg> veut dire le lieu; <seg xml:lang="cu">Truda</seg>,
+     slavon et russe <seg xml:lang="ru" ana="#cu">труда</seg>, veut dire la peine; <seg
+      xml:lang="cu"> Milla</seg>, slavon et russe <seg xml:lang="ru" ana="#cu"> мила</seg>, veut
+     dire la chérie; <seg xml:lang="cu"> Goda</seg>, slavon et russe <seg xml:lang="ru" ana="#cu">
+      года</seg>, veut dire les années; <seg xml:lang="ru" ana="#cu">Golla</seg>, slavon et russe,
+     veut dire nue; <seg xml:lang="ru" ana="#cu">Rana</seg>, slavon et russe, veut dire les
+     blessures. <seg xml:lang="ru" ana="#cu">Rada</seg>, slavon et russe, veut dire joie. Il y en a
+     encore cinq autres dont les noms sont trop défigurés pour les reconnaître. Mais tant y a que
+     les statues très mal travaillées de toutes ces dames existent en <placeName
+      ref="places.xml#rus01"> Russie</placeName> le long du <placeName ref="places.xml#dni03">
+      Dnieper</placeName>, <rs ref="places.xml#dni03"> Boristhène</rs>, et d’autres rivières sous le
+     nom de femmes guerrières <seg xml:lang="ru"> военный бабы</seg>.</p>
+    <p>Les Suédois disent qu'<persName ref="people.xml#odi01"> Odin</persName> est venu du <hi
+      rend="italic">Don</hi>, Tanaïs, et qu’il peupla avec sa colonie la <placeName
+      ref="places.xml#swe01"> Suède</placeName>. <seg xml:lang="ru" ana="#cu">Odin</seg>, en slavon
+     et en russe, veut dire un, <seg xml:lang="ru"> одинъ</seg>; ils le nomment encore <seg
+      xml:lang="cu" ana="#ru">Водъ</seg>, Yod, qui veut dire chef; les Suédois comptent 28
+     générations depuis <persName ref="people.xml#odi01"> Odin</persName> jusqu’à l’année 862, qu’un
+     des descendants d'<persName ref="people.xml#odi01"> Odin</persName>, nommément <persName
+      ref="people.xml#rur01"> Rurik</persName>, fut placé sur le trône de <placeName
+      ref="places.xml#rus01"> Russie</placeName>; cela ferait donc, en remontant, à peu près six
+     cents ans depuis la transmigration d'<persName ref="people.xml#odi01">
+      Odin</persName>. <persName ref="people.xml#rur01"> Rurik</persName>, descendant d'<persName
+      ref="people.xml#odi01"> Odin</persName>, placé sur le trône de <placeName
+      ref="places.xml#rus01"> Russie</placeName>, prouve encore l’extraction d’<persName
+      ref="people.xml#odi01"> Odin</persName> . <persName ref="people.xml#odi01"> Odin</persName> ne
+     put passer du Don en <placeName ref="places.xml#swe01"> Suède</placeName> sans passer par la
+      <placeName ref="places.xml#rus01"> Russie</placeName>; il paraît que c’est à peu près l’époque
+     de l’arrivée des <orgName ref="orgs.xml#slav01"> Slavons</orgName> en <placeName
+      ref="places.xml#rus01"> Russie</placeName>; mais d’où vinrent-ils?</p>
+    <p>Partout où les <orgName ref="orgs.xml#slav01"> Slavons</orgName> vinrent, ils bâtirent des
+     bourgs, bourgades et des villes; ce n’était donc point un peuple pasteur, ni vagabond?</p>
+    <p>Les <orgName ref="orgs.xml#slav01"> Slavons</orgName> étaient un peuple libre et qui aimait
+     la liberté; il n’y avait chez eux de non libres que les seuls prisonniers de guerre.</p>
+    <p>Les Anglais disent qu’ils reçurent des <orgName ref="orgs.xml#saxo01"> Saxons</orgName> les
+     jugements d’équité et l’impôt qu’on nomme chez eux saccage, et qu’ils disent eux-mêmes venir du
+     mot saxon saxa, qui, à ce qu’ils disent encore, signifie soc ou <seg xml:lang="cu"> saxa</seg>:
+     en slavon et en russe <seg xml:lang="ru"> caxa</seg>, <seg xml:lang="de"> sacha</seg>,
+     jusqu’aujourd’hui signifie soc, et outre cela il est démontré que les <orgName
+      ref="orgs.xml#saxo01"> Saxons</orgName> étaient <orgName ref="orgs.xml#slav01">
+      Slavons</orgName>: jusqu’à ce moment le dialecte slavon existe en <placeName
+      ref="places.xml#mei02"> Misnie</placeName> et <placeName ref="places.xml#lus01">
+      Lusace</placeName>, qui veut dire, la première, pays où la viande abonde, et la seconde — <seg
+      xml:lang="ru"> лужица</seg> ou mare d’eau.</p>
+    <p><seg xml:lang="cu" ana="#ru">Маія</seg>, mère de Thot, veut dire en slavon et russe <hi
+      rend="italic">ce qui est à moi</hi>, mère de чоть ou <hi rend="italic">des comptes</hi>.</p>
+    <p>Enfin il y a aurait des volumes à faire si on voulait continuer ces cahiers.</p>
+    <p>Comme par exemple le mot calendes, qu’en bas-breton on prononce <seg xml:lang="cu">
+      calene</seg>, c’est un mot slavon: en russe <seg xml:lang="cu"> calena</seg>, <seg
+      xml:lang="ru"> калѣна</seg>, veut dire coude, ou bien aussi il signifie <seg xml:lang="de">
+      Gelenke</seg>, coudée, <seg xml:lang="de"> die Gelenke des Monats oder des Jahres.</seg>
+    </p>
+    <p>NB. Que la <placeName ref="places.xml#nor02"> Normandie</placeName> et la <placeName
+      ref="places.xml#bri01"> Bretagne</placeName> furent peuplées par les Normands et que jusqu’à
+     la fin du siècle passé la mer d’Archangel et la <placeName ref="places.xml#whi02"> mer
+      Blanche</placeName> s'appelaient en <placeName ref="places.xml#rus01"> Russie</placeName> et
+     sont nommées encore à l’heure qu’il est, <seg xml:lang="ru"> Hypманское море</seg>, mot à mot
+     mer des Normands; or, ces Normands, venus de ces contréés, pouvait-се être des Danois, des
+     Suédois, eux qui se disent eux-mêmes peuplés par <persName ref="people.xml#odi01">
+      Odin</persName> , venu du <placeName ref="places.xml#don01"> Don</placeName> ou <rs
+      ref="places.xml#don01"> Tanaïs</rs>? La <placeName ref="places.xml#swe01">
+     Suède</placeName> et le <placeName ref="places.xml#den01"> Danemark</placeName> ont-ils été
+     jamais et ont-ils pu être assez peuplés pour faire des essaims d’émigrations et de conquêtes
+     pareilles à celle-là; mais ayant à dos des essaims dont la <placeName ref="places.xml#rus01">
+      Russie</placeName>, la <placeName ref="places.xml#sib01"> Sibérie</placeName> étaient les
+     magasins, les choses commencent à devenir plus compréhensibles.</p>
+    <p>NB. Les Chaldéens et les <orgName ref="orgs.xml#celt01"> Celtes</orgName> ou Keltes
+     pourraient bien être le même peuple, car l’un et l’autre, Chald et Kelt, veut dire froid.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

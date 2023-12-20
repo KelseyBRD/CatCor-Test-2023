@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08226</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08226</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#europe"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:21:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08226">
+  <body>
+   <opener><dateline> ce <date when-custom="1772-12-12">12 décembre 1772</date>.</dateline></opener>
+   <p>La lettre de V. A. R. du 16 novembre m'a causé beaucoup de satisfaction, tant par l'amitié
+    qu'Elle m'y témoigne que par la façon juste dont Elle envisage les affaires de la <placeName
+     ref="places.xml#swe01">Suède</placeName>. Il est aisé à V. A. R. de se faire une idée des
+    sentiments dont je suis affectée, eu égard à ma place et aux intérêts de mon empire, et comme
+    parente, en considérant la situation d’un prince que la fougue de la jeunesse, et peut-être un
+    peu de légèreté dans le caractère, ont conduit à une entreprise aussi périlleuse. Je ne souhaite
+    rien plus vivement que de trouver un terme moyen qui puisse concilier l'intérêt de la <placeName
+     ref="places.xml#rus01">Russie</placeName>, la paix, le système du nord et le sort personel du
+     <persName ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01"
+     >Suède</placeName></persName>. Ce désir m’occupe et je le préférerais toujours à toute autre vue. Il est
+    triste que dans la situation présente je ne voie point jour à en tenter l'exécution. Le nuage
+    épais que la conduite du <persName ref="people.xml#gus01"> roi de <placeName
+     ref="places.xml#swe01">Suède</placeName></persName>, depuis qu'il a renversé l'ancienne forme de
+    gouvernement, a répandu sur toute cette affaire, est telle que les meilleures intentions ne
+    peuvent se reconnaître ni agir. Les mouvements mititaires de ce <rs ref="people.xml#gus01">
+     prince</rs> vers le <placeName ref="places.xml#den01">Danemark</placeName>, ses intrigues
+    sourdes en <placeName ref="places.xml#nor01">Norvège</placeName>, dont j’envois ci-jointe une
+    esquisse à V. A R., laquelle m'a été communiquée par la cour de <placeName
+     ref="places.xml#den01">Danemark</placeName>, ont causé des justes appréhensions qu'il ne
+    veuille tenter vis-a-vis de ses voisins les mêmes actes de violence et de précipitation qui lui
+    ont réussi vis-a-vis de ses propres sujets. Cependant je ne désespère point qu'il ne s’offre
+    quelque conjoncture moins défavorable, et je me réserve alors de faire part à V. A. R. ce que
+    mes bonnes dispositions me suggéreront, et assurément Elle verra en toute occasion que ma
+    confiance envers Elle est sans réserve, étant fondée sur l'inaltérable amitié ...</p>
+  <postscript> <p>P. S. Dans ce moment je reçois la lettre obligeante de V. A. R. au sujet de
+    ma fête, j'y reconnais Son amitié et je Lui en ai mille obligations.</p></postscript>
+  </body>
+ </text>
+</TEI>

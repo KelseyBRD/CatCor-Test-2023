@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04802</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04802</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">inclusion</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#europe"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:22:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04802">
+  <body>
+   
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>. </salute></opener>
+   <p>Je vous renvoie la missive de Mr. 
+    <persName ref="people.xml#did01">Diderot</persName>; il paraît que son départ n’est plus douteux, son amitié pour vous
+     l’est encore moins. Dès qu’il sera à la <placeName ref="places.xml#lah01">
+     Haye</placeName>, je pense que le prince <persName ref="people.xml#gol03">
+     Galitzin</persName> en dira quelque chose; dans ses lettres que j’ai vues hier, il n’en
+     fait encore aucune mention. Il voyage apparemment lentement, car depuis le 21 mai qu’il est
+     parti de 
+    <placeName ref="places.xml#par01">Paris</placeName>, nous pourrions avoir des
+     nouvelles de son arrivée à la <placeName ref="places.xml#lah01">
+     Haye</placeName>.
+   </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

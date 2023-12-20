@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02786</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02786</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Check correct Shuvalov (taken here to refer to Ivan)
+     – shu01 / shu02 </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:35:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02786">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St:
+     Petersb</placeName> : ce <date when-custom="1777-12-04">4 Décembre 1777</date></dateline></opener>
+   <p>Monsieur, J'ai reçuë les trois feuillets imprimé qui accompagnoit Votre
+     lettre du 20 d'Octobre. Le sujet que Vous proposé
+    est digne de Vous, il est à désirer qu'il soit pleinement rempli. Les inquisitions d'Etate et
+    d'Eglise n'auroit pas besoin d'un grand fatras de règles si les Princes étoit ou instruit ou
+    éclairé. J'attendrés avec impatience les exemplaires
+    complets que Vous me promettés. Je Vous avouë que ceux de Vos écrits me seroit les plus
+    préçieux, ils me délasserai de certain règlemens de finances calqués sur ses mots <hi rend="Emphasis">vivre et laisser vivre</hi>. La
+    confection en dure déjà deux ans et je n'en vois point la fin. Adieu Monsieur, portés Vous bien
+    et souvenés Vous quelque fois de moi. M<hi rend="superscript">r</hi> de <persName ref="people.xml#shu02"> Schouvalow</persName> est revenu
+    plus enchanté de Vous que jamais. </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03719</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03719</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:05:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03719">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1795-11-03">3 novembre</date>.</dateline></opener>
+   <p>Il réside à <placeName ref="places.xml#erf01"> Erfurt</placeName> un chevalier <persName
+     ref="people.xml#aug08"> Augard</persName>, qui m’a fait dire qu’il avait à me communiquer un
+    mémoire qu’il voudrait qui passât à moi par des mains sûres. Je lui ai fait dire qu’il vous
+    envoyât ses papiers à <placeName ref="places.xml#got01"> Gotha</placeName> et que vous me les feriez passer par le premier
+    courrier russe qui vous tombera sous la patte. Je vous avertis donc que, quand vous recevrez du
+    chevalier <persName ref="people.xml#aug08"> Augard</persName> des lettres ou paquets, vous me
+    les envoyiez de la manière susdite. Il me paraît que ce pourrait bien être un rêve creux, <seg
+     xml:lang="it"> ma</seg> il faut entendre, et puis juger. Vos moutardes après-dîner du 15 et
+    17d’octobre me sont parvenues, et je vous en porte remercîment pour l’intention. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien; nous en faisons autant. <seg xml:lang="it">
+     Basta per lei</seg>.</signed></closer>
+  </body>
+ </text>
+</TEI>

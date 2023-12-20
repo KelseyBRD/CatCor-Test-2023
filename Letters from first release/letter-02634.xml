@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02633</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02634</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#peter"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-08">13 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02634">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>
+                            <date when-custom="1762-03-12">ce 12 Mars 1762</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère</salute></opener>
+                    <p>En remerciant Votre Majesté de la part que Vous me témoignez prendre à <rs
+                            type="event" ref="events.xml#ascen01">l'avènement</rs> de <rs
+                            ref="people.xml#pet04">l'Empereur, mon Epoux</rs>, au trône, je me sens
+                        très redevable à Votre Majesté des marques d'attention et d'amitié que Vous
+                        me donnez, </p>
+                    <closer>
+                        <signed>je chercherai les occasions de m'acquitter et de persuader Votre
+                            Majesté de la haute estime et de la grande considération avec laquelle
+                            je suis, Monsieur mon Frère, de Votre Majesté, la bonne Soeur
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00854</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00854</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2017-06-24">24 June 2017</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00854">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1788-06-25">25 июня
+                                1788</date></dateline>
+                    </opener>
+                    <p>Сегодня мы пели молебен за дарованную от Бога нам победу 7 июня. Вышедши из
+                        молебна, Вел[икий] Князь свой кирасирский полк вел здесь мимо, а как сей
+                        прошел чрез двор, я получила весть от Нейшлотского исправника, что шведы
+                        подослали потихоньку к заставе солдат, увезли к себе таможенного надзирателя
+                        и осмотрщиков. Я приказала, чтоб исправник и <persName
+                            ref="people.xml#gin01">Губернатор</persName> свою должность наблюдали: у
+                        себя ловили воров, а на шведских жаловались, где надлежит. </p>
+                    <p>Из <placeName ref="places.xml#den01">Дании</placeName> есть известие, что они
+                        шведам сказали, что они обязаны нам дать помочь и дадут. Естьли <persName
+                            ref="people.xml#fri03">Король Прусский</persName> предложит медиацию, то
+                        прийму.</p>
+                    <p>Храброе дело на <placeName ref="places.xml#lym01">Лимане</placeName>
+                        <placeName ref="places.xml#och01">Очаковском</placeName> меня и всех много
+                        обрадовало. Я награждения с сим же курьером посылаю: к герою <persName
+                            ref="people.xml#nas01">Князю Нассау-Зиген,</persName> к <persName
+                            ref="people.xml#jon01">Пауль Жонесу,</persName> к <persName
+                            ref="people.xml#ale05">Алексиану,</persName> к <persName
+                            ref="people.xml#mor01">Мордвинову</persName> и ко всем от тебя
+                        представленным, а тебе скажу, что ты друг мой любезный и что я тебя много,
+                        много и очень много люблю и качества твои чту и надеюсь от тебя видеть
+                        величайшие услуги. Будь лишь здоров и благополучен, Что морские все
+                        сбесились от <persName ref="people.xml#jon01">Пауль Жонеса,</persName> о том
+                        жалею. Дай Боже, чтоб перестали беситься - он нам нужен. Я приказала к тебе
+                        послать несколько крестов егорьевских и владимирских в запас, кого рассудишь
+                        за благо отличить. <persName ref="people.xml#ale05">Алексиано</persName>
+                        зделан Контр-Адмиралом по твоему представлению, а как у тебя их теперь
+                        четыре, то естьли неравно нужно их ввести под одну шапку, то к тебе
+                        подписала я особый рескрипт, что буде нужно будет и усмотришь надобность, то
+                        тем самым дозволяю <persName ref="people.xml#nas01">Князю Нассау</persName>
+                        употребить и поднять мой Вице-Адмиральский флаг: он же ишпанский
+                        Генерал-Поручик. О капитан-лейтенантских чинах посмотрим. Для <persName
+                            ref="people.xml#dam01">Рожер де Дамаса</persName> шпага пришлется.</p>
+                    <closer><signed> Прости, мой друг крайний, Бог с тобою. Я ни единую минуту
+                            праздную или без забот теперь не имею, однако я здорова. Саша же
+                            человек, которому цены нет.</signed></closer>
+                        <postscript><p rend="below">Еще прибавить тебе за нужно нахожу, что я <persName
+                                ref="people.xml#anh01">Гр[афом] Ангальтом</persName> недовольна.
+                            Когда пришло его нарядить в <placeName ref="places.xml#fin01"
+                                >Финляндию,</placeName> тогда начал требовать главной команды и
+                            Генерала полного чин. Я велела сказать, что тут будет случай оный чин
+                            заслужить. Он ответствовал, что шпагу не вынет без того чину. И так он
+                            невписан в репортиции. У нас 23 человека военнослужащих его старее, да и
+                            по его старшинству в саксонской и прусской службе наши многие старее. Он
+                            говорил: <seg xml:lang="fr">"qu'il ira planter des choux" et j'ai
+                                repondu: "Bon voyage".</seg> Мне казалось, что я и так для него
+                            много делала, а ему бы заслуживать. И так его поступок в такое нужное
+                            время мне весьма, весьма не нравился - оно глупо и неуместно. Я же его
+                            нашла в разных случаях нечто торопливым и не так, как люблю людей
+                            видеть.</p></postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

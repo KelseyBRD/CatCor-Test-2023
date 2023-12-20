@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03704</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03704</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#godchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:02:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03704">
+  <body>
+
+   <opener><dateline> Се <date when-custom="1795-02-01">1 février 1795</date>.</dateline></opener>
+   <p>J’ai reçu ce matin le bulletin No 22 et an numéro pancarte marqué 86, du vingt décembre 1794,
+    avec toutes ses annexes. D’abord je vous dirai que si on ne fera pas main basse sur tous ces
+    chimériques et imbéciles négociations de paix qui doivent couvrir d’opprobre leurs auteurs,
+    fauteurs et négociateurs, et si sans perte de temps, pas même d’une minute, on ne saisira pas
+    les moyens les plus vigoureux pour pousser la guerre contre les Français avec une vigueur loyale
+    et franche, renvoyant à tous les diables toutes les mesquines jalousies, toutes les anciennes
+    rancunes, toutes les triviales duplicités, tous les manquements de foi habituels aux esprits
+    faux et louches, dont on n’a que de la honte à recueillir, je prophétie qu’il en arrivera à tous
+    les états sans exclusion aucune, qu’il leur en reviendra ce qui en est arrivé à la <placeName ref="places.xml#hol02">
+    Hollande</placeName> et qu’ils seront tous engloutis par la colère céleste, qui se sert du bras des
+    scélérats les plus abominables pour les écraser tous. Or, ceci ne sont pas des mots, mais suffit
+    de ne voir pas beaucoup plus loin que son nez pour trouver à chaque pas, non pas une, mais
+    beaucoup de preuves diverses. La guerre serait finie depuis longtemps si on avait suivi mes
+    avis, si on était parti des principes proposés depuis longtemps. Au lieu de prendre les moyens
+    véritables de finir, on s’est embourbé jusque par-dessus les oreilles. A présent, si on ne fera
+    pas ce que je dis, soyez sûr qu’il y va de la destruction générale; c’est moi qui vous le dis;
+    je suis un prophète abominable, qui malheureusement ne s’est jamais trompé. Je vous enverrai dix
+    mille roubles que vous destribuerez en charité, mais, autant qu’il est possible, vous ne direz
+    pas d’où cela vient, et à cet effet vous ferez passer à chacun des suppliants dont vous m’avez
+    parlé, et envoyez avec les lettres quelque chose sans dire d’où cela vient; vous pourrez même
+    cacher votre propre nom, afin qu’on ne me soupçonne pas.</p>
+   <p>La lettre de <persName ref="people.xml#cat05"> Katinka</persName> est charmante; si cette
+    lettre est réellement d’elle, cet enfant promet infiniment; faites-lui beaucoup d’amitiés de ma
+    part; je salue de même <persName ref="people.xml#bue01"> madame de Bueil</persName>. Je voudrais
+    vous voir tous heureux et contents. De tous les malheureux de cette trempe le comte <persName
+     ref="people.xml#est03"> Esterhazy</persName> est celui qui l’est le moins: il a une famille
+    fort intéressante et un <rs ref="people.xml#est04"> fils de 9</rs> ans qui promet
+    singulièrement; c’est mon bon ami, il n’est jamais si heureux que quand il est avec moi. C’est
+    un tapageur du premier ordre. </p>
+   <signed rend="inline">Adieu, portez-vous bien; en voilà assez pour aujourd’hui et précisément ce
+    qu’il faut pour répondre à votre griffonnage. Je me porte très bien. J’ai dîné avec le <persName
+     ref="people.xml#bir01"> duc de <placeName ref="places.xml#cou01">
+     Courlande</placeName></persName>, les députés de la <placeName ref="places.xml#sam01">
+     Samogitie</placeName> et ceux de <placeName ref="places.xml#mos01"> Moscou</placeName>; ces
+    derniers, ayant renouvelé leurs élections de trois ans, sont venus ici l’annoncer. <seg
+     xml:lang="it"> Basta per lei.</seg></signed>
+  </body>
+ </text>
+</TEI>

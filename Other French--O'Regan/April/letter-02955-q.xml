@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02955</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02955</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Taken Stackelberg to be the younger Otto Magnus von
+     Stackelberg</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-01">01/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:31:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02955">
+  <body>
+   <p>Par la grâce de Dieu Nous <persName ref="people.xml#cat01">Catherine II, etc. etc. etc.</persName> à Notre Conseiller Privé
+    Ambassadeur Extraordinaire et Plénipotentiaire <persName ref="people.xml#sta02"> Comte
+     Stackelberg.</persName></p>
+   <p>En accompagnant ici Notre réponse à la derniere lettre reçue par vous de la part du Pape, à
+    fin que vous la lui fassiez parvenir par son Nonce à <placeName ref="places.xml#war01">Varsovie</placeName>, Nous vous ordonnons
+    d’en communiquer une copie à ce Ministre, tout comme il vous en a communiqué une de la lettre du
+    Pape en forme d’une confidence personnelle.</p>
+   <p>Vous verrez par la susdite réponse et encore plus par Notre Ukaz, donné au Senat et annexé
+    ici, les raisons, qui Nous ont porté à ériger dans Notre <placeName ref="places.xml#rus01">Empire</placeName> l’Archevêché de
+     <placeName ref="places.xml#mog01"> Mohilew</placeName> de l’Eglise Romaine, et que pour
+    manifester Notre bienveillance à l’Evêque <persName ref="people.xml#sie02"> Stanislas
+     Siestrzeneewiez</persName>, qui avec la fidélité düe à Notre Trône veille avec soin au bien des
+    Eglises et du troupeau, qui lui ont été confiés, Nous avons jugé à propos de lui conférer la
+    dignité d’Archevêque de <placeName ref="places.xml#mog01"> Mohilew</placeName> des Eglises du
+    Rit Romain, en lui donnant pour Coadjuteur le chanoine et le Supérieur de <placeName
+     ref="places.xml#dau01"> Dinabourg</placeName> <persName ref="people.xml#ben02">Jean Benislawski</persName>; et comme Nous
+    sommes informés de la part du Pape, que son Nonce est pourvû d’instructions relativement à cette
+    matière, vous avez à insinuer à ce dernier, que Nous espérons, que les arrangemens, que Nous
+    avon pris pour le bien de leur Eglise, ne peuvent qu’être agréables à leur Cour, que par
+    conséquent il sera envoyé le pallium à l’Archevêque <persName ref="people.xml#sie02">
+     Siestrzeneewiez</persName>, et que pour Nous complaire, il sera pris des mesures nécéssaires
+    pour le sacre de l’Evêque son coadjuteur.</p>
+   <p>Pour convaincre ce Ministre de la solidité de Notre demande, vous pouvez puiser de Notre
+    réponse même ainsi que de Notre Ukaz au Sénat toutes les insinuations; et au cas qu’il
+    renouvellât encore ses éclaircissements au sujet des raisons du mécontentement du Pape contre
+    l’Archevêque <persName ref="people.xml#sie02"> Siestrzencewicz</persName>, Nous vous renvoyons à
+    Notre Rescript du 14 Février de l’année 1780. Tout ce qui y a été dit, vous deviez le réitérer,
+    lors même que le Nonce, en vous remettant la lettre du Pape, vous a parlé des Jésuites, en
+    accusant le susdit Archevêque. Au reste en faisant entendre au Nonce, que l’Archeveque <persName
+     ref="people.xml#sie02"> Siestrzencewicz</persName> n’a fait qu’éxécuter notre volonté dans
+    cette affaire-là, ne manquez pas de lui faire comprendre avec une fermeté convenable à Notre
+    dignité, que le peu de cas qu’on fera de Notre intercession, ne pourra que tourner au propre
+    préjudice de la Cour de <placeName ref="places.xml#rom03">Rome</placeName>. Sur cela Nous demeurons Votre affectionnée. — Donné
+    à <placeName ref="places.xml#pet01">St.  Petersbourg</placeName> le 31 Janvier 1782. </p>
+   <closer><signed>Signé.
+   <persName ref="people.xml#cat01"> Catherine.</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

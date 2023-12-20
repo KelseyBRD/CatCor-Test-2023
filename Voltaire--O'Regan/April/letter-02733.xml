@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02733</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02733</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-15">15-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:21:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02733">
+  <body>
+
+   <opener><dateline> A ma maison de campagne de <placeName ref="places.xml#tsa01"> Czarskoye
+      Sélo</placeName> ce <date when-custom="1770-06-06">6 juin 1770</date></dateline></opener>
+   <p>Monsieur, Je me hâte de répondre à Votre letre du 18 May que j'ai reçue hier au soir parce que
+    je Vous vois en peine. Les Vicissitudes que les adhérens de <persName ref="people.xml#mus01">
+     Moustapha</persName> répandant que mon armée doit avoir essuyé et la perte de la <placeName
+     ref="places.xml#wal01"> Valachie</placeName> sont des contes dont je n'ai senti d'autre chagrin
+    que celui de voir que Vous apréhendiés que cela ne fût vrai. Dieu merci rien de tout cela n'a
+    existé. Il y a huit jours que j'ai reçu encore la nouvelle qu'un petit corps turk avoit passé
+    sur des radeaux le <placeName ref="places.xml#dan01"> Danube</placeName> près d'<placeName
+     ref="places.xml#isa02"> Istakzi</placeName> pour reconoitre nos poste; mais il a été si bien
+    accommodés qu'il s'en est retourné avec plus de diligence qu'il n'étoit venu et les nôtres ont
+    tiré d'un ruisseau que les Turks avoit voulu passer à la nage plus de trois cens corps noyé sans
+    compter les tué et les blessés. </p>
+   <p>Je vous ai mandé la poste passée les nouvelles que j'ai reçue de la <placeName
+     ref="places.xml#mor01"> Morée</placeName> qui pour premier début paroissent être assés
+    satisfaisantes. J'espère que par votre intercession la sainte Vierge n'abandonera pas les
+    fidèles. Ses pauvres Diables de partisans de <persName ref="people.xml#mus01">
+     Moustapha</persName> n'ont d'autres ressources pour faire aller leurs brouete que de composer
+    aux désavantages de la <placeName ref="places.xml#rus01"> Russie</placeName> des combats sans
+    fins, mais ils ne sauroit par là remédier aux délabrement universels de la monarchie Turque. Ce
+    Fantôme s'écroule, ils l'ont eux même secoué mal àpropos peut être. Voilà ce que s'est que de ne
+    pas conoître à qui l'on a affaire. <persName ref="people.xml#kab01"> Le Roy Ali
+     d'Egipte</persName> a su profiter de l'occasion, on dit que les Chrestien et les Musulmans en
+    sont également content, parce que le <persName ref="people.xml#kab01"> Roy Ali</persName> est
+    tolérant et juste. Les Venitiens à force de Politiquer lors qu'il s'agit de profiter ressemblent
+    à cet animal de la fable qui mouroit de faim entre deux bottes de foin. Dormés tranquilement
+    Monsieur, les affaires de Votre favorite (après ce que Vous me dites et l'amitié que Vous ne
+    discontinués de me témoigner je prends hardiment ce titre) vont un train très honête. Elle même
+    en est contente et ne craint les Turks ni par terre ni par mer. Faute de matelots on a mis sur
+    les vaisseaux les jardiniers du sérail ou bostangis. </p>
+   <p><persName ref="people.xml#pop02"> Frère Ganganelli</persName> a trop d'esprit pour être fâché
+    au fond de son coeur de mes progrès. Nous n'avons rien à démêler ensemble, je ne lui ai prise ni
+     <placeName ref="places.xml#avi01"> Avignon</placeName> ni <placeName ref="places.xml#ben02">
+     Benevent</placeName>. Ma cause au bout du compte est celle de la Chrestieneté. Il n'appartenait
+    qu'à frère <persName ref="people.xml#rez01"> Rezzonico</persName> de s'aveugler dans sa
+    dévotion, <persName ref="people.xml#pop02"> Clément XIV</persName> me paroit plus êclairé. Les
+    Capucins Monsieur ont je pense les même droit que les Cordeliers. Vous pouvés devenir pape et
+    même cela doit ce faire pour le bien de l'église et voici pourquoi. Les deux chefs de <rs
+     ref="orgs.xml#gree01">l'Eglise grecque</rs> et de la <rs ref="orgs.xml#roma01">Romaine</rs> non
+    seulement seront en correspondance directe mais encore on les verra liés par l'amitié, chose qui
+    n'a existé jusqu'ici. J'en prévois déjà d'avance un grand bien pour la Chrétieneté. Je Vous
+    déclare que je serai ferme mais sans âpreté. </p>
+   <signed>Adieu monsieur portés Vous bien et soyés assuré que l'on ne sauroit ajouter à la
+    sensibilité que j'ai pour toutte les marque d'amitié que Vous me doné. Rien aussi n'égale
+    l'estime que j'en fais. <persName ref="people.xml#cat01"> Caterine</persName></signed>
+  </body>
+ </text>
+</TEI>

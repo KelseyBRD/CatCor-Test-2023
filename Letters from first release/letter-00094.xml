@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00094</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00094</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#greatbritain"/>
+                    <term target="kw.xml#navy"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-05-19">20 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00094">
+                <body>
+                    <opener><salute rend="inline">Граф Семен Романович!</salute></opener>
+                    <p>Приобретение Английскаго уроженца <persName ref="people.xml#etc01"
+                            >Эчеса</persName> и другия для службы нашей старания и распоряжения
+                        ваши, дабы предполагаемые первым поиски противу неприятеля имели наилучшие
+                        успехи, относим мы к вашему усердию к нам, ревности искать полезнаго
+                        отечеству и неусыпному радению к должности.<note type="editorial">On 3 March
+                            1789, Catherine sent Vorontsov a list of British counter-admirals,
+                            complete with descriptions of their character traits, and requested that
+                            Vorontsov attempt to engage some of them in Russian service.
+                                    (<bibl><title ref="works.xml#arkhiv01">Arkhiv knyazya
+                                    Vorontsova</title>, <biblScope unit="vol">xxviii</biblScope>,
+                                    <biblScope unit="pp">pp. 89-90</biblScope></bibl>.)</note> Мы
+                        оныя приемлем с особливым благопризнанием, равно как и ту откровенность, с
+                        каковою вы во всех ваших к нам донесениях поступаете. Деньги, по службе
+                        нашей вами употребленныя, тогда же заплатить приказано, да и по другим вашим
+                        представлениям решение сделано.</p>
+                    <p>Все, чтò вы говорите в разных депешах ваших касательно положения дел
+                        политических в <placeName ref="places.xml#eng01">Англии</placeName>,
+                        сходствует совершенно с тем, чему мы частые встречаем опыты. Нынешнее
+                        Английское министерство, привязанное слепо <rs ref="places.xml#pru01"
+                            >Берлинскому двору</rs>, не обещает, конечно, ни малой удобности
+                        предуспеть в отвращении сея державы от соучастия в пагубных того двора
+                        намерениях, кои в последовании во вред самой <placeName
+                            ref="places.xml#eng01">Англии</placeName> обратиться могут; но как
+                        всегда должно надеяться, что при твердости противной стороны современем
+                        упадет сила <rs ref="people.xml#cha02">королевы</rs> и <persName
+                            ref="people.xml#pit01">Пита</persName>, по властолюбию его к Прусской
+                        системе прилепившагося, наипаче же при <rs ref="events.xml#regen01">перемене
+                            правления</rs>, которая, судя по состоянию <rs ref="people.xml#geo02"
+                            >короля Английскаго</rs>, неотдаленна, то и нужно чтобы вы не
+                        переставали питать дружбу и благия расположения <persName
+                            ref="people.xml#por01">дюка Портланда</persName>, <persName
+                            ref="people.xml#fox01">Фокса</persName> и прочих им единомышленных,
+                        стараяся твердить им о наших благоприязненных расположениях к <placeName
+                            ref="places.xml#eng01">Англии</placeName> и о предосудительных
+                        следствиях, кои от настоящей их системы произойти могут. Доводы к тому
+                        достаточные вы найдете как в наставлениях, от нас прежде вам данных, так и в
+                        собственном вашем сведении всех происшествий и обстоятельств. Новым
+                        доказательством слепаго их повиновения <rs ref="places.xml#pru01"
+                            >Берлинскому двору</rs> служит, что <rs ref="people.xml#hai01">министр
+                            их</rs> в <placeName ref="places.xml#war01">Варшаве</placeName>
+                        старается наперерыв с маркизом <persName ref="people.xml#luc01"
+                            >Лукезини</persName> воспалять духи Польские противу нас, как скоро
+                        только малейшее успокоение в них приметит. Дошли до нас слухи, что он
+                        вперяет два пункта в мысли Поляков, первый—заключение с ними коммерческаго
+                        трактата, под предлогом заменить оным недостаток подобнаго с нами
+                        постановления, и второй—составить с <rs ref="places.xml#pol01">сею
+                            республикою</rs> союз. Вы сами можете судить, удовлетворить ли
+                            <placeName ref="places.xml#eng01">Англия</placeName> своим надобностям
+                        посредством торговаго договора с <placeName ref="places.xml#pol01"
+                            >Польшею</placeName>; да и когда <placeName ref="places.xml#gda01"
+                            >гавань Данцигская</placeName> находится в руках Прусских и когда <rs
+                            ref="people.xml#fri03">король Прусский</rs> целит на новыя на счет
+                            <placeName ref="places.xml#pol01">Польши</placeName> приобретения, не в
+                        его ли воле прямо торг тамошний останется, и таким образом <placeName
+                            ref="places.xml#eng01">Англия</placeName> еще более ему порабощена
+                        учинится. Что принадлежит до союза с ре<placeName ref="places.xml#pol01"
+                            >спубликою Польскою</placeName>, какая может быть из онаго для
+                            <placeName ref="places.xml#eng01">Англии</placeName> прибыль и замена
+                        издержек ея? Тут нет иных видов, кроме раздражать нас, отдалять на долгое
+                        время возобновление связи, которую разные интересы самою свойственною между
+                        нами и <rs ref="places.xml#gre01">короною Британскою</rs> полагают. В
+                        употреблении осторожном на пользу нашу подобных внушений полагаемся на ваше
+                        искусство, пребывая всегда вам благосклонны.<note type="editorial">The
+                            original bears the note: 'Получено чрез <ref target="people.xml#jol01"
+                                >Жоли</ref>, 21 Августва (1 Сентября) 1789 г.' ('Received through
+                            Joly, 21 August (1 September) 1789').</note></p>
+                    <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed></closer>
+                    <postscript>
+                        <p hand="people.xml#cat01" xml:lang="fr">Je suis très
+                                particulièrement sensible à la confiance personnelle que vous m’avez
+                                témoignée dans votre dernière lettre; soyez assuré que je ne la
+                                démentirai jamais et continuez à me marquer le même zèle que je
+                                remarque dans toute votre correspondance.</p>
+                    </postscript>
+                    <closer><dateline><placeName ref="places.xml#tsa01">В Царском Селе,</placeName>
+                            <date when-custom="1789-06-07">Июня 7-го 1789
+                        года.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Semen
+                        Romanovich!</salute></opener>
+                    <p>The acquisition of the English-born Etchess and others for our service, your
+                        efforts and arrangements, so that the former's planned pursuits against the
+                        enemy had the best possible success, we attribute to your zeal for us, your
+                        eagerness to seek out that which is useful to the fatherland, and your
+                        vigilant devotion to your position. We receive them with particular
+                        appreciation, and equally that candour, with which you act in all your
+                        reports to us. It has been ordered that the money that you used in our
+                        service be paid out immediately, and a decision has been made about your
+                        other declarations.</p>
+                    <p>All that which you say in your various dépêches about the state of political
+                        affairs in England coincides completely with that which we often experience.
+                        The present English ministry, blindly attached to the court at Berlin, does
+                        not of course promise the least possibility of preventing that power from
+                        participating in the latter court's pernicious aims, which eventually might
+                        turn to the detriment of England itself. But as one must always hope that,
+                        given the opposing side's constancy, time will bring a decline in the power
+                        of the queen and of Pitt, who in his lust for power adhered to the Prussian
+                        system, and chiefly with the change in government which, judging by the
+                        English king's condition, is not far off, it is necessary that you do not
+                        cease to cultivate the friendship and good dispositions of the duke of
+                        Portland, of Fox, and their other associates, while making efforts to
+                        reiterate to them our friendly dispositions toward England and the adverse
+                        consequencces that might result from their current system. You will find
+                        sufficient evidence for this both in the instructions that we have
+                        previously given you and in your own knowledge of all events and
+                        circumstances. As new proof of their blind obedience to the court at Berlin,
+                        their minister in Warsaw is vying with the marquis Lucchesini to enflame
+                        Polish spirits against us, as soon as he notices that they are growing
+                        calmer in the least. Rumours have reached us that he is fixing two points in
+                        the thoughts of the Poles: first, the conclusion of a commercial treaty with
+                        them, on pretext of making up for the lack of such a convention with us,
+                        and, second, to form an alliance with that republic. You can judge for
+                        yourself whether England can satisfy her needs by means of a commercial
+                        agreement with Poland; and when the port of Dantzig is in Prussian hands and
+                        the Prussian king is aiming at new acquisitions at the expense of Poland,
+                        will that trade not be subjected directly to his will? And in this way will
+                        England not become even more his slave? As for an alliance with the Polish
+                        republic, what profit and return on their expenditures can England gain from
+                        it? There are no other aims in this than to annoy us, to put off for a long
+                        time the renewal of ties, which various interests suppose most inherent
+                        between us and the British crown. We rely on your skill in carefully
+                        employing such suggestions in our favour and remain always well-disposed
+                        towards you.</p>
+                    <closer><signed>Catherine.</signed></closer>
+                    <postscript>
+                        <p>I am very particularly touched by the personal confidence whcih you
+                            showed to me in your last letter. Be assured that I will never belie it,
+                            and continue to show me the same zeal that I see in all your
+                            correspondence.</p>
+                    </postscript>
+                    <closer><dateline><placeName ref="places.xml#tsa01">In Tsarskoe
+                                Selo,</placeName>
+                            <date when-custom="1789-06-07">June 7th 1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

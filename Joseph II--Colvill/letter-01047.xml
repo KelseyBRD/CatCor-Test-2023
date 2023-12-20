@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01047</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01047</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+     <term target="kw.xml#europe"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:16:43Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01047">
+  <body>
+  
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1783-02-29">29 février 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre que V. M. I. m’a fait l’honneur de m’écrire le 25 février n. st.
+    m’a été rendue hier. J’y ai vu avec satisfaction les obligations que j’ai à V. M. I. de ce
+    qu’Elle a bien voulu jusqu’ici réunir Ses représentations aux miennes pour obtenir de <placeName
+     ref="places.xml#ott01"> la Porte</placeName> l'exécution des trois articles couchés tout au
+    long dans le traité de la <name ref="events.xml#kuchu01"> paix de Canardgi</name>. Les
+    représentations de V. M. I. et les miennes, appuyées de dispositions de guerre très-sérieuses,
+    ont porté cette puissance à reconnaître ces trois articles conformes au traité. Mais
+    l’expérience m’a appris depuis longtemps combien il y a à compter sur les promesses des <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName>. C’est pourquoi que, remplie de la plus haute estime et
+    de la confiance la plus étendue envers l’<persName ref="people.xml#jos01"> Empereur
+     Joseph</persName> second, je me suis adressée à V. M. I., ne doutant pas que comme <persName
+     ref="people.xml#cae01"> César</persName> il n’y aurait guère d’intervalle entre l’acceptation
+    et l’exécution d’un projet utile, grand et digne de <persName ref="people.xml#cae01">
+     César</persName>. Un moment a détruit toute attente ; V. M. I. trouve que les choses ont changé
+    de face. Il est vrai que la paix est conclue entre les puissances belligérantes. Malgré cela
+    l’assiette des Etats de V. M. I. et des miens, leurs intérêts communs ne sauraient changer. Je
+    n’ignore pas qu’ils peuvent être différemment envisagés. L’amitié que V. M. I. a bien voulu me
+    témoigner personnellement, ne s’effacera jamais de mon coeur, et Elle doit être persuadée de ma
+    persévérance à remplir mes engagements. Les Cours de Bourbon m’ayant fait demander formellement,
+    comme V. M. I. veut bien m’en avertir, les offices de médiateur аu futur traité de paix, et le
+    ministre d’<placeName ref="places.xml#eng01">Angleterre</placeName> tenant à peu près le même
+    langage, l’intérêt des puissances neutres ne pouvant qu’y gagner, mon ministère s’en expliquera
+    conséquemment avec celui de V. M. I.</p>
+   <p>C’est en souhaitant un heureux voyage à V. M. I. pendant la tournée qu’Elle va faire
+     en <placeName ref="places.xml#ita01">Italie</placeName>, que j’ai l’honneur d’être avec les
+    sentiments de la plus haute considération ....</p>
+   <p>Les nouvelles que V. M. I. veut bien me donner de l’état dans lequel <persName
+     ref="people.xml#leo01"> M. le Grand-Duc de Toscane</persName> a trouvé mes vaisseaux qui sont à
+     <placeName ref="places.xml#liv01"> Livourne</placeName>, je les reçois avec reconnaissance.
+    J’ose Lui recommander de nouveau les intérêts de la <persName ref="people.xml#eli06"> Princesse
+     Elisabeth</persName> et La prier de ne point la priver de Sa protection.</p>
+  </body>
+ </text>
+</TEI>

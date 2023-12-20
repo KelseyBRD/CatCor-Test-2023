@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02734</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02734</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-15">15-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:22:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02734">
+  <body>
+
+   <opener><dateline><placeName ref="places.xml#pet01"> à Petersb</placeName> : ce <date
+      when-custom="1770-07-21">21 Juillet 1770</date></dateline></opener>
+   <p>Monsieur, En réponse à Votre lettre et à Vos question du 1 Juillet, je Vous annonce, que selon
+    Vos souhaits le Cte: <persName ref="people.xml#rum01"> Roumenzof</persName> qui comande mon
+    armée en <placeName ref="places.xml#mol01"> Moldavie</placeName> a remporté la Victoire la plus
+    complette sur nos ennemis le 7 Juillet à douze lieuës environ du <placeName
+     ref="places.xml#dan01"> Danube</placeName>. Notre droite étoit appuyé au <placeName
+     ref="places.xml#pru02"> Pruth</placeName>. Le Camp Turk étoit retranché de quatre retranchemens
+    qui furent tous emportés à la pointe du jour la bajonette à la main. Le Carnage dura quatre
+    heures après lesquelles mes troupes ce trouvèrent maitres du Champ de Bataille, du Camp Turk, de
+    trente canons de Fonte, d'une grande quantités de provisions de bouche, et de munitions de
+    guerre et de beaucoup de prisonniers. Notre perte n'est point considérable, il n'y a pas même un
+    seul offiçier de marque blessé ou tués. Au départ du Courier on poursuivoit encore les fuyart.
+    L'Armée Turque étoit de quatre vingt mille home, comandés par le Kan de <placeName
+     ref="places.xml#cri01"> Crimée</placeName> et par trois Bachas. Le Cte: <persName
+     ref="people.xml#rum01"> Roumenzof</persName> me marque qu'il a fait chanter le <seg
+     xml:lang="la"> Tedeum</seg> dans la propre tente du Kan de <placeName ref="places.xml#cri01">
+     Crimée</placeName> qui doit être la plus belle des tentes possible. Le siège de <placeName
+     ref="places.xml#ben01"> Bender</placeName> doit être comencé dans ce moment, et puis nous
+    verrons. Je ne Vous entretiendroit point de tous ses faits de guerres si Vous ne m'aviés paru
+    désirer d'en être informés. Soyés assurés du cas que je fais de Votre amitié, j'y répondrai
+    toujour avec empressement quelque affaire que j'aye.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

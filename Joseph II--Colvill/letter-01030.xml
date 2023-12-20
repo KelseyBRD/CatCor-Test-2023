@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01030</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01030</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-03">03-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:12:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01030">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1781-12-28"
+      >28 décembre 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Rien de plus satisfaisant pour moi que l’approbation gracieuse dont V. M.
+    I. veut bien honorer par Sa lettre du 23 décembre n. st. le séjour prolongé du <rs
+     ref="people.xml#pau01">comte</rs> et de la <rs ref="people.xml#mar02">comtesse du Nord</rs> à
+    Sa Cour. Cette lettre remplie de nouveaux témoignages de la continuation de Ses bontés, est
+    venue me tirer d’une sorte d’appréhension que j’avais, que <rs ref="people.xml#pau01 people.xml#mar02">
+    mes voyageurs</rs> n’abusassent de Son indulgence, d’autant plus que jusqu’ici
+    ils ne me disent pas un mot de leur départ de <placeName ref="places.xml#vie01"
+     >Vienne</placeName> que V. M. I. m’annonce comme prochain, mais ils n’ont pas manqué dans
+    chaque lettre de me faire part do la félicité dont V. M. I. les fait jouir, et si j’en dois
+    juger par leurs écrits, leur reconnaissance est au comble.</p>
+   <p>Que V. M. I. daigne recevoir l'expression de la mienne ; elle égale les sentiments de la haute
+    considération et de l’amitié sincère avec lesquels je suis, en faisant les voeux les plus
+    ardents à l’occasion du renouvellement de l’année pour la constante prospérité de V. M. I.,
+    étant toujours ....</p>
+  </body>
+ </text>
+</TEI>

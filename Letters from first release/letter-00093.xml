@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00093</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00093</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-27">27 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00093">
+                <body>
+                    <opener><salute rend="inline">Граф Семен Романович!</salute><note
+                            type="editorial">The original bears the notes: 'Получено с курьером <ref
+                                target="people.xml#tre01">Трепольским</ref>, Апреля 10 по новому
+                            стилю 1789' ('Received with the courier Trepolsky, April 10 New Style
+                            1789') and 'Continuation of instructions for Minister's conduct' (in
+                            English in the original).</note></opener>
+                    <p> В дополнение к <ref target="letter-00092.xml">наставлениям от меня вам ныне
+                            преподанным</ref>, я нахожу нужным вам приметить, что хотя оныя
+                        составлены главнейше в чаянии, что при новом <rs ref="people.xml#geo03"
+                            >правителе</rs> государства не останется прежнее министерство, которое
+                        ему самому толь многие знаки худых своих расположений оказало; но как, может
+                        быть, под видом надежды скораго выздоровления <rs ref="people.xml#geo02"
+                            >короля</rs>, или же при малейшем облегчении его, которое <rs
+                            ref="people.xml#cha02">королева</rs> и г. <persName
+                            ref="people.xml#pit01">Пит</persName> с товарищи выдадут за совершенное
+                        излечение, сие для нас малонадежное министерство сохранится надолго, а <rs
+                            ref="events.xml#regen01">обстоятельства настоящия</rs> требуют не
+                        отлагать времени и не упускать никакого случая к удержанию <placeName
+                            ref="places.xml#eng01">Англии</placeName> от деятельнаго участия в
+                        злобных умыслах <rs ref="places.xml#pru01">кабинета Берлинскаго</rs>: то и
+                        не оставьте пользоваться всеми теми доводами, кои вам сообщены в письмах и
+                        рескриптах моих к объяснению неприязненных Прусских поступков и к убеждению
+                            <placeName ref="places.xml#eng01">Англии</placeName> обратиться на
+                        дружбу и доброе согласие с <placeName ref="places.xml#rus01"
+                            >Россиею</placeName>. Следственно, если увидите в них лучшия
+                        расположения и податливость, можете по степеням употреблять, к утверждению
+                        их в том и к укреплению связи с сею короною, поручаемую вам негоциацию о
+                        возобновлении торговых постановлений. Я полагаюся на осторожность вашу, что
+                        вы тут отвратите все, чтò могло бы послужить к малейшему предосуждению
+                        достоинства моего. Ожидая частых от вас уведомлений, пребываю вам
+                        доброжелательная.</p>
+                    <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed></closer>
+                    <postscript>
+                        <p hand="people.xml#cat01">Сие письмо заготовлено потому, что
+                            слышно, будто <rs ref="people.xml#geo02">король</rs> выздоровел; но как
+                            ни я, да и никто не знает человека, который, быв без ума, паки очутился
+                            с умом, то я сему не верю, а нынешнее министерство не заслужило
+                            доверенность, которую иметь можно к <rs ref="people.xml#fox01"
+                                >патриотическому</rs>. И для того прощу вас быть с двояким <persName
+                                ref="people.xml#pit01">Питом</persName> осторожну: он управляет
+                            Берлинскими интригами.</p>
+                    </postscript>
+                    <closer><dateline><placeName ref="places.xml#pet01">В С.-Петербурге,</placeName>
+                            <date when-custom="1789-03-04">4 Марта 1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Semen
+                        Romanovich!</salute></opener>
+                    <p>In addition to the instructions delivered to you from me today, I find it
+                        necessary to note that they were composed primarily in the expectation that
+                        under the new governor of the state the former ministry, which gave him
+                        personally so many signs of its ill will, shall not remain. Yet it is
+                        possible that this ministry, for us so unreliable, may last for a long time,
+                        perhaps under the guise of hope that the king will soon recover, or rather
+                        at his smallest improvement, which the queen, Mr. Pitt, and company will
+                        pass off as a complete recovery. The current circumstances demand that no
+                        time be lost and that we not miss any chance to restrain England from active
+                        participation in the malicious intents of the cabinet at Berlin. That, and
+                        do not fail to make use of all those arguments, which have been communicated
+                        to you in my letters and rescripts, in order to explain Prussia's inimical
+                        actions and to bring England round to friendship and good harmony with
+                        Russia. Consequently, if you see in them better dispositions and
+                        amenability, you can encourage them and strenthen ties with this crown by
+                        gradual use of the negotiation entrusted to you for the renewal of
+                        commercial regulations. I rely on your prudence: you will here avoid
+                        anything that could cause the least prejudice to my dignity. In expectation
+                        of your frequent reports, I remain well-disposed to you.</p>
+                    <closer><signed>Ekaterina.</signed></closer>
+                    <postscript>
+                        <p>This letter was prepared because we have heard that the king has
+                            recovered. But as neither I nor anyone else has known a person who had
+                            lost his mind to find his mind again, I do not believe it. The current
+                            ministry has not earned the trust that one may have for the patriotic
+                            one. And therefore I ask you to be cautious with the duplicitous Pitt:
+                            he is driving the intrigues at Berlin.</p>
+                    </postscript>
+                    <closer><dateline><placeName ref="places.xml#pet01">In St.
+                                Petersburg,</placeName>
+                            <date when-custom="1789-03-04">4 March 1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

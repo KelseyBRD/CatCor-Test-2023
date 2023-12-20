@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03011</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03011</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-11">11/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:37:09Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03011">
+  <body>
+  
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Tsareko-Sélo</placeName>, ce <date when-custom="1778-08-11">11 d’aôut 1778</date>.</dateline></opener>
+   <p>Il faut convenir que vous avez un goût décidé pour les post-scriptum; en voilà un du 15
+    juillet, qui doit faire pendant à un No 20, qui n’est pas arrivé, me semble, car il y a une
+    éternité que je n’ai pas reçu de vos lettres, ni ne vous ai écrit; j’attendais, pour prendre la
+    plume, quelque grand mal de tête ou quelque autre événement important qui revéillât
+    l’imagination. Votre post-scriptum bariolé me met, primo, dans l’attente des bustes de Houdon.
+    J’ai ordonné de vous adresser deux mille livres pour ces bustes au lieu fies 1500 que vous me
+    demandez. Seconde, j’ai reçu sous la même enveloppe les têtes dessinées par <persName
+     ref="people.xml#hub01"> Huber</persName>; je vous confesse que depuis la mort du <persName
+     ref="people.xml#vol01"> patriarche</persName> je ne pois les regarder. Les vers de <persName
+     ref="people.xml#cra03"> Mad. de Boufflers</persName> en revanche m’ont fait grand plaisir.</p>
+   <p>Nous vivons ici dans l’attente de grands événements; <seg xml:lang="de"> Gott Weiß, mir
+     deucht, von allen Seiten wird besognirt, der Herr mit zweien Angesichten, hat noch nirgends
+     nicht die Überhand bekommen; der Zuwachs in <placeName ref="places.xml#eur01"> Europa
+     </placeName>bis Dato ist bei weiten denen Stammbäumen nicht
+     endlich</seg>. On dirait que c’est l’histoire des littérateurs français et la proportion de
+     <persName ref="people.xml#har02"> M. de Laharpe</persName> à <persName ref="people.xml#vol01"> Voltaire</persName>. Notez,
+    s’il vous plait, que je n’ai jamais rien lu de <persName ref="people.xml#har02"> M. de
+     Laharpe</persName> que quelques fragments de scènes de sa tragimanie de <title ref="works.xml#menzik01">Menchikof</title>, et que par instinct j’ai du dégoût pour
+    tout ce qu’il écrit. Allons, premier développeur que je connaisse, développez-moi le principe de
+    cette injustice criante de juger d’un auteur sans avoir lu ni vu l’enveloppe de ses
+    ouvrages.</p>
+   <p>Savez-vous quel tort ces armateurs américains me font? Ils me prennent des vaisseaux marchands
+    qui partent d’ <placeName ref="places.xml#ark01"> Archangel</placeName>; ils ont fait ce beau
+    métier au mois de juillet et d'août, mais je vous promets bien que le premier qui se frottera au
+    commerce d’ <placeName ref="places.xml#ark01"> Archangel</placeName> l’année qui vient, il me le
+    paiera cher, car je ne suis pas <persName ref="people.xml#geo02"> frère G</persName>: on ne me
+    joue point impunément sur le nez; or, ils feront au frère <persName ref="people.xml#geo02">
+     G</persName>. tout ce qu’ils voudront, mais pas à moi, sans s’en mordre les doigts; je suis
+    fâchée, mais très fâchée. La gazette de <placeName ref="places.xml#vie01"> Vienne</placeName> dit que les Prussiens ont partout
+    le dessus; cela se peut, mais dans mon esprit celui qui va en avant a toujours gagné; pendant la
+    dernière guerre les politiques français du premier ordre, comme <persName ref="people.xml#dur01"
+     > Durand</persName>, <persName ref="people.xml#sab01"> Sabathier</persName> et Sequelles, nous
+    disaient toujours battus, et nous fîmes la <name ref="events.xml#kuchu01">
+     paix</name> à 500 verstes d’Andrinople: nous courions en avant. C’est une belle chose qu’une
+    soupe aux pois: il y entre une essence de babil et de longs récits de rien qui ne vaille pas la
+    peine d’être relevé, et puis sur le tout un assaisonnement de conjectures, dont la plupart du
+    temps pas une seule n’est juste ni vraie, et voilà comme le monde se régit et ce qui très
+    souvent décide du sort des nations: <seg xml:lang="de"> wahrhaftig, arme Leute und elende
+     Sachen</seg>! Depuis que <persName ref="people.xml#vol01"> Voltaire</persName> est mort, il me semble qu’il n’y a plus
+    d’honneur attaché à la bonne humeur; c’était lui qui était la divinité de la gaîté; faites-moi
+    donc avoir une édition ou plutôt un exemplaire bien, bien complet de ses oeuvres pour renouveler
+    chez moi et corroborer ma disposition naturelle au rire, car si vous ne m’enverrez pas cela au
+    plus tôt, je ne vous enverrai plus que des élégies. </p>
+   <closer><signed rend="inline">Adieu. Cela suffit pour ce jourd’hui</signed></closer>
+  </body>
+ </text>
+</TEI>

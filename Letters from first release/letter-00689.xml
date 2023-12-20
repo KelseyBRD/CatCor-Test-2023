@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00689</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00689</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-03">03 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00689">
+                <body>
+                    <opener><dateline><date when-custom="1780-09-25">25
+                        сент,</date>пятница, в девятом часу вечеру.</dateline></opener>
+                    <p>Сейчас, батинька, получила я твое письмо от 24 и очень тем обрадованы мы, то
+                        есть Саша и я. Вложенная цыдулка ему отдана и при сем посылаю его ответ. Что
+                        скорее возврати[шь]ся, то тем приятнее будет для меня, не то, чтоб забыть
+                        тебя. В ту минуту, как милое твое письмо принесли, то об тебе речь была и
+                        сумневались, что возврати[шь]ся ко вторнику, а теперь не без сожаления вижу,
+                        что и в середу в твои имянины не изволишь быть. Однако, как бы то ни было,
+                        лишь будь здоров и об нас знай, что ты нами весьма любим.</p>
+                    <p>К Александре Васильевне за письмом к тебе послала я, но она, чаю, уехала к
+                            <persName ref="people.xml#har01">Гаррису</persName>, и так не
+                        прогневайся, быть тебе сегодни без письма от них.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

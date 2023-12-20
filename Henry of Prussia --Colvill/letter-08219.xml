@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08219</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08219</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#moscow"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    
+     <term target="kw.xml#culture"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:19:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08219">
+  <body>
+   <opener><dateline> ce <date when-custom="1772-01-20">20 janvier 1772</date>.</dateline></opener>
+   <p>Je rends mille grâces à V. A. R. de toutes les expressions dont Son amitié se sert dans La
+    lettre du 3 de janvier. Le cœur grand et sensible de V. A. R. se peint non seulement dans toutes
+    Ses actions, mais même dans chaque ligne qu'Elle trace. Telles sont celles entre autres où Elle
+    me parle de la <rs ref="events.xml#plagu01"> contagion</rs> de <placeName ref="places.xml#mos01"
+     >Moscou</placeName>. J'ai la satisfaction de pouvoir Lui dire que cette <rs
+     ref="events.xml#plagu01"> maladie</rs> n’a emporté personne depuis le jour de l'an. Nous nous
+    précautionnons pour le printemps présentement, j'espère qu’à la force de soins nous y
+    réussirons.</p>
+   <p>Je n'ai rien de nouveau à mander à V. A. R., Elle sait depuis longtemps la destruction du
+    chantier turc à <placeName ref="places.xml#met03"> Métélin</placeName> où ma flotte a fait une
+    grande illumination de trois vaisseaux de guerre que l’ennemi allait lancer à l'eau. <persName
+     ref="people.xml#cat08"> Milady Cathcart</persName> séjourne encore avec nous, quoiqu'elle ne
+    joue plus au piquet, elle ne quittera probablement ce pays qu'avec <rs ref="people.xml#cat03">
+     son époux</rs> qui vient d’être rappelé; je crois que cela le jetterait dans l’opposition, s'il
+    n'était Ecossais. Mais je m'aperçois que ma lettre devienne aussi stérile que cette saison. Mes
+    vœux cependant et ceux de tout ce qui m'entoure pour le bonheur et le contentement permanent de
+    V. A. R., tant dans cette année que pendant toute Sa vie, ne le sont point, au contraire
+    l'espérance de revoir V. A. R. qu'Elle veut bien entretenir, en nous les rende que plus animés..
+    Le jour de Sa naissance, à l'occasion duquel je Lui fais mes compliments les plus sincères, les
+    a renouvellés avec plus de vivacité encore. C'est avec les sentiments . . .</p>
+   <postscript><p>P. S. <rs ref="people.xml#nar02">Mr. le président</rs> en
+    punition de ce qu'il a voulu s'approprier sans partage les dons que V. A. R. a daignés faire à
+    l'assemblée, est alité, il a mis prudemment dans la même poche un flacon d'eau de Luce et un
+    autre rempli d'esprit de vinaigre (la médisance dit: par précaution contre la peste qui est à
+    sept-cent werstes). En faisant son train ordinaire l'un et l'autre se sont brisés dans sa poche
+    et lui ont fait une très grande plaie avec laquelle il a dansé et sauté une soirée entière, en
+    se plaignant toujours et n'étant écouté de personne. Le lendemain il fut obligé de se mettre au
+    lit.</p></postscript>
+  </body>
+ </text>
+</TEI>

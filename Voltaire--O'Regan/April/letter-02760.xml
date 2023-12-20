@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02760</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02760</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:29:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02760">
+  <body>
+   <opener><dateline> ce <date when-custom="1771-11-28">28 Nov: / 9 Déc. 1771</date></dateline></opener>
+   <p>Monsieur, Par Votre lettre du 12 9bre je vois avec affliction que l’argent pour les
+    fabriquants des montres ne Vous a pas encore été remis, et qui plus est que les pauvres gens en
+    ont besoin. Je ne sais à quoi attribuer ce retardement, qui me peine extrêmement. J’espère que
+    cette lettre de change n’a pas été soustraite come celle que j’envoyois à M<hi
+     rend="superscript">r</hi>
+    <persName ref="people.xml#did01"> Diderot</persName> un jour et qui se perdit à la poste entre
+     <placeName ref="places.xml#par01"> Paris</placeName> et la frontière de <placeName ref="places.xml#fra01">
+     France</placeName>, toutes les autres postes avait le paquet marqué sur leurs cartes. On croyoit
+    par là persuader les gens que je n’avais point d’argent. Mais à quoi peuvent servir des ruses
+    aussi mesquines? si ce n’est à montrer la petitesse d’esprit et l’aigreur. L’Une et l’autre ne
+    saurait produire ni estime ni considération. J’ai fait ordoner au Sr: <persName ref="people.xml#fre03">
+     Friderichs</persName> mon banquier, de prendre ses précautions.</p>
+   <p>Ma flotte a tant pris de magasins aux Turks à <placeName ref="places.xml#cha01"> Negrepont</placeName>, à
+     <placeName ref="places.xml#vol04"> Volo</placeName>, à <placeName ref="places.xml#kav01"> Cavalla</placeName>, à
+     <placeName ref="places.xml#mak01"> Magria</placeName>, à <placeName ref="places.xml#lok01"> Lurci</placeName> et dans
+    plusieurs autres endroits, sans compter les prises sur mer, que j’ose croire qu’elle aura moins
+    de disette que ceux qui se plaisent à Lui en supposer. Je veut bien croire qu’il lui faut plus
+    de provisions qu’on n’avoit calculé d’abord, vu le nombre d’Albaniens qui ce joint à mes
+    troupes, mais les dépêches que le dernier Courier m’a apportés de là il y a huit jours ne
+    parlent point de manque de subsistance pour le présent.</p>
+   <p>Les Maladies de <placeName ref="places.xml#mos01"> Moscow</placeName> ont presque finie grâce au
+    précautions prises et au froid. Le <persName ref="people.xml#orl01"> Cte: Orlof</persName> a déjà quité
+     <placeName ref="places.xml#mos01"> Moscow</placeName> et fait sa quarantaine dans ses terres.</p>
+   <p>Pénétrés des marques d’amitié que Vous me donés, Vous ne doutés pas j’espère de toute ma
+    reconoissance.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

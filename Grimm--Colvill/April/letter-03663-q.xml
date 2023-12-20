@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03663</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03663</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify M de La Fite.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-25">25-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:24:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03663">
+  <body>
+ 
+   <p>J’ai l’honneur de vous annoncer ce que vous savez peut être déjà, c’est- à-dire, la prise
+    d’<placeName ref="places.xml#och01"> Otchakof</placeName> par assaut, que le mar: <persName ref="people.xml#pot01"> prince
+     Potemkine</persName> m’a annoncée par l’envoi du <persName ref="people.xml#bau07">
+     lieutenant-colonel Bauer</persName> que j’ai fait tout de suite colonel. C’était le 6 décembre
+    v. st., jour de St Nicolas, à la petite pointe du jour, que six colonnes commandées par trois
+    lieutenants-généraux ont emporté en une heure et demie de temps les retranchements de M. de La
+    Fite, le château d’Hassan pacha et la forteresse d’<placeName ref="places.xml#och01"> Otchakof</placeName>. Les
+    lieutenants-généraux pr: <persName ref="people.xml#vic01"> d’Anhalt Bernbourg</persName> et
+     <persName ref="people.xml#sam02"> Samoïlof</persName>, l’un d’un côté, l’autre de l’autre, ont
+    été les premiers à remplir leur besogne, et par là ont conquis la grande croix de St George de
+    la 2 classe. Le maréchal a eu pour la conquête le grand St George de la 1 classe. La nouvelle
+    nous en est venue le 15 décembre au soir, tandis que j’étais malade au lit d’un refroidissement;
+    le Te Deum a été chanté au bruit de 101 canons, le lendemain, 16, en ma présence pendant une
+    gelée de 25 à 28 degrés de froid. Lajoie publique est grande; nous voilà sur le chemin
+    accoutumé, et moi aussi je me suis mise en règle d’être toujours malade, comme pendant la guerre
+    passée, le jour où il me venait de bonnes et grandes nouvelles; cela est sans doute fort
+    singulier, mais cela est vrai. Le nombre des prisonniers est immense: il passe les 12000; le
+    pacha à trois queues est du nombre. Nous sommes à attendre les détails. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien. Qui aurait jamais cru que l’ami G. eût quelque
+    chose à perdre du côté perdu!</signed>
+   <dateline> Du <date when-custom="1788-12-17">17 ou 18 décembre 1788</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

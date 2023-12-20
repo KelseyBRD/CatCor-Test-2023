@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09128</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09128</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>                
+                <keywords n="culture">
+                    <term target="kw.xml#theater"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-06">2023-07-06</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="fr" xml:id="letter-09128"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1790-12-14">1790 г. lе 14 Dec.</date>
+                </dateline>
+            </opener>
+            <p>N’oubliez pas de dire au <rs ref="people.xml#pas03">compositeur</rs> que le</p>
+                <p xml:lang="ru">Эх, эх, не ладно!</p>
+                <p><seg xml:lang="ru">Ах не складно</seg> — du Père peut être une parodie ou doit tourner en ridicule les:</p> 
+                <p xml:lang="ru">Эх, Эх,</p>
+                <p>et</p>
+                <p><seg xml:lang="ru">Ах</seg>,—des Enfans.
+                    <note type="editorial">
+                        In this note Catherine writes about her opera <title ref="works.xml#fedoul01">"Fedul s det'mi"</title> (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        , <biblScope unit="pp">pp. 56.</biblScope>
+                    </bibl>
+                    ). A.V. Khrapovitskii notes in his diary that on <date when-custom="1790-12-14">December 14</date> he handed to Catherine rewritten opera and was ordered to make the composer hurry with the composition of music (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khranovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 353.</biblScope>
+                    </bibl>
+                        ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

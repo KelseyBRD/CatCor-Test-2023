@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01188</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01188</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domestic">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-31"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01188">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Как я более двух часов разговаривала с <persName ref="people.xml#mun01">Графом
+                    Минихом</persName>, то я приметила, сколько <seg xml:lang="fr">étourderie</seg>,
+                как и лжей из сего речей, и так прошу ни о чем не судить прежде Вашего сюда в совет
+                завтре приезда, когда усмотрите из реляции <persName ref="people.xml#gol17">Князя
+                    Голицына</persName>, что дело не так, как <persName ref="people.xml#mun01"
+                    >Миних</persName> врет.</p>
+            <closer><signed rend="inline"><persName ref="people.xml#pau01">Сыну</persName> моему кланяюсь, я здорова.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1769-05-03">Маия 3 числа,
+                1769.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

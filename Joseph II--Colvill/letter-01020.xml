@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01020</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01020</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:10:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01020">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1781-05-26">26 mai v. St. 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre de V. M. I. du 20 mai n. st. et ses incluses du 21 mai me
+    confirment dans l’opinion qu’il y a des âmes d’une trempe vis-à-vis de laquelle les difficultés
+    ne sont créées que pour être vaincues. Ces précieuses pièces tracées de la main de V. M. I.
+    viennent d’en écarter de bien grandes. Le choix des exemplaires qu’il Lui a plu de m’envoyer, ne
+    m’est pas difficile. Ses caractères augustes et chers me resteront, puisqu’Elle le veut bien. Je
+    joins à mes deux lettres ci-annexées le duplicat signé par V. M. I. tel qu’Elle me l’a envoyé.
+    J’ose me flatter que V. M. I. ne désapprouvera pas (conformément d’ailleurs à la vérité) que
+    l’époque anniversaire du jour le plus beau et le plus mémorable de ma vie, celui où j’ai eu le
+    bonheur de voir pour la première fois V. M. I. à <placeName ref="places.xml#mog01">
+     Mohilew</placeName>, serve de date aux lettres par lesquelles je forme avec Elle les liens de
+     <name ref="events.xml#allia01"> l’alliance</name> la plus solennelle qui s’en est en
+    suivie.</p>
+   <p>J’ai l’honneur de les Lui adresser par celle-ci. Qu’Elle daigne ajouter foi au contentement, à
+    la joie, à l’empressement, mais surtout à la reconnaissance dont j’ai été remplie en les
+    écrivant. Mon allégresse est grande de voir rentrer les choses dans leur ordre naturel. Selon
+    les désirs de V. M. I. j’ai ordonné à mes ministres d’assurer que le traité projeté n’a pas eu
+    lieu, et d’écrire à tous mes employés aux Cours étrangères que, quoique le traité projeté
+    n’avait pas eu lieu par des difficultés de cérémonial, qu’ils en aient cependant à agir en
+    toutes choses avec la plus grande harmonie et confiance vis-à-vis de ceux de V. M. I., vu la
+    bonne intelligence et l’amitié qui subsistaient entre nous. J’espère que ces précautions et
+    celle que j’ai prise de ne pas me dessaisir un instant des instruments que je tiens cachetés
+    sous ma clef, et que je n’ai montrés à personne, empêchera que, qui que ce soit, ne puisse en
+    avoir connaissance avec certitude.</p>
+   <p>Pour les spéculations de la nature de celle dont il a plu à V. M. I. de me communiquer une
+    preuve par écrit et sur laquelle le secret sera bien gardé, puisqu’il n’y a que moi qui l’ai
+    lue, il est aussi aisé de les former lorsqu’on est soupçonneux de métier que difficile à les
+    détruire autrement qu’en les regardant avec le moins d’inquiétude qu’une sage prudence le peut
+    permettre. Sur ce qui regarde l’ouvrage salutaire de la paix, je ne puis que m’en rapporter à ce
+    que mes ministres en diront au comte de <persName ref="people.xml#cob02"> Cobenzl</persName>, et
+    je prie V. M. I. d’être persuadée en ce cas comme en tout autre qu’Elle trouvera en moi les
+    sentiments d’une amitié non équivoque, et que j’éviterai tout ce qui pourrait donner lieu à des
+    discussions désagréables dont je voudrais qu’il ne fût jamais même question.</p>
+   <p>Enchantée de ce que V. M. I. me marque Son contentement de la célérité que j’ai mise aux
+    propositions dont il Lui a plu de me charger au sujet du mariage de <persName
+     ref="people.xml#fra04"> S. A. R. l’Archiduc François</persName> avec la <persName
+     ref="people.xml#eli06"> Princesse de Württemberg</persName>, je m’en rapporte à ce que le comte
+     <persName ref="people.xml#cob02"> Cobenzl</persName> aura mandé à V. M. I. de la lettre que je
+    lui ai fait montrer et que le duc <persName ref="people.xml#fri05"> Frédéric Eugène</persName>,
+    père de la <rs ref="people.xml#eli06"> princesse</rs>, m’a écrit. Je me réserve d’en écrire à V.
+    M. I., lorsque je pourrai le faire de la façon dont je désire de voir terminer cette affaire,
+    c’est-à-dire que j’entends sans rémission remettre le bonheur et la main de la <persName
+     ref="people.xml#eli06"> Princesse Elisabeth de Württemberg</persName> à V. M. I. pour le <rs
+     ref="people.xml#fra04"> Prince Son neveu</rs>. J’espère pouvoir Lui mander cela sous peu de
+    jours, et par là je me flatte de répondre à la confiance que V. M. I. a bien voulu me témoigner
+    en cette occasion.</p>
+   <p>Je ne puis que souhaiter que le voyage que V. M. I. va entreprendre, contribue à Sa haute
+    satisfaction. Quelque part qu’Elle aille, mes voeux L’accompagneront, mais le plaisir d’espérer
+    que les promesses de M. le <rs ref="people.xml#jos01"> comte de Falkenstein</rs> se rempliront
+    un jour par V. M. I. et que <placeName ref="places.xml#khe01"> Cherson</placeName> aura le
+    bonheur de La voir, m’est un baume dans mon sang. C’est avec tous les sentiments de la plus
+    haute et plus parfaite considération et tous ceux qui Lui sont dûs que j’ai l’honneur d’être </p>
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur, fidèle
+    amie et alliée <persName ref="people.xml#cat01"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

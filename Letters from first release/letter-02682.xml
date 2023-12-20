@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02682</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02682</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02682">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet02">à Péterhof,</placeName>
+                            <date when-custom="1776-07-25">ce 25 Juillet 1776</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> J'ai mille remercîments à faire à Votre Majesté, et de la réception qu'Elle
+                        a bien voulu faire à mon fils et de tout ce qu'Elle me dit dans sa lettre du
+                        23 Juillet, que je viens de recevoir des mains du <persName
+                            ref="people.xml#goe01">comte de Goertz</persName>, chaque ligne m'y
+                        retrace l'amitié de Votre Majesté dont je connais non seulement tout le
+                        prix, mais à laquelle encore je me ferai toujours un plaisir de répondre
+                        bien sincèrement. L'approbation flatteuse dont Elle honore <rs
+                            ref="people.xml#pau01">le Grand Duc</rs>, s'il suit mes conseils lui
+                        servira d'aiguillon pour profiter du grand exemple qu'il a eu le bonheur de
+                        contempler de ses yeux à <placeName ref="places.xml#ber01"
+                            >Berlin</placeName>. L'agrément de Votre Majesté pour la conclusion du
+                        mariage de <rs ref="people.xml#mar02">la Princesse de Wurtemberg</rs>, sa
+                        nièce, avec mon fils ne me laisse plus rien à désirer sur cet article sinon
+                        que Votre Majesté en agrée les témoignages de ma reconaissance et qu'Elle
+                        soit persuadée qu'en me réjouissant avec Elle de cette alliance, je
+                        considère cette princesse comme un nouveau gage de son amitié, </p>
+                    <closer>
+                        <signed>étant toujours avec les sentiments de la plus haute considération et
+                            de l'amitié la plus parfaite, Monsieur mon Frère, de Votre Majesté la
+                            bonne Soeur et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

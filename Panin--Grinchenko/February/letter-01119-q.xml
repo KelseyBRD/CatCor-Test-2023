@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01119</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01119</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+                <keywords n="internationalrelations">
+                    <term target="kw.xml#military"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Not sure which Rennenkampf is mentioned here. Not sure I identified the correct
+                    Rzhevskii.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-25"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-06"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01119">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>С удовольствием я усмотрела из письма Вашего от <date when-custom="1764-07-30">30
+                    Июля,</date> что <persName ref="people.xml#pau01">сын мой</persName> здоров, и
+                что <placeName ref="places.xml#tsa01">Царскосельское</placeName> житье ему нравится;
+                записку для <persName ref="people.xml#sol01">Графа Сольмса</persName> и ответ
+                Господину Ренненкампфу при сем обратно посылаю; не имею ничего прибавить; весьма Вы
+                хорошо сделали, что ошибку <persName ref="people.xml#gol05">Вице-Канцлера</persName>
+                поправили в разсуждении <persName ref="people.xml#anh01">Ангальтских</persName>
+                Посланниковъ; знать у <persName ref="people.xml#gol05">Кн. Ал. М.</persName> спеха
+                велика была ехать к <placeName ref="places.xml#mos01">Москве.</placeName> Что Вы
+                пишите о <persName ref="people.xml#rzh01">Ржеуском,</persName> то уже мне самой в
+                голову пришло, и я хотела его, естьли он в бытности моей в <placeName
+                    ref="places.xml#rig01">Ригу</placeName> приедит, точно так принять, как Вы
+                вздумали; что же до прочих о нем распорядков касается, я сие на Ваше попечение
+                полагаю. Моя дорога весьма теперь мешкатно продолжается, по причине неслыханных
+                песков и больших жаров. Я вчерась только могла отъехать от <placeName
+                    ref="places.xml#per02">Пернау</placeName> три станции, что учинит шестьдесят
+                верст, из которых сорок ехали шагом, и так я не прежде четверга буду в <placeName
+                    ref="places.xml#rig01">Ригу.</placeName>
+                <seg xml:lang="fr">Me voilà bien loin de mon compte, mais enfin comment faire; à
+                    moins que de vouloir crever hommes et chevaux, ou ne sauroit avancer.</seg>
+                Впрочем, желаю Вам здравствовать.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline>Из мывы, которой имя знала, да позабыла.<lb/>
+                    <date when-custom="1764-07-06">6 Июля, 1764.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

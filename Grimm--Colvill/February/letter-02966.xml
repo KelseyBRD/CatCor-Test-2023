@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02966</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02966</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#education"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:46:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-24">24-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02966">
+  <body>
+   
+   <opener><dateline> A <placeName ref="places.xml#mos01">Moscou</placeName>, ce <date when-custom="1775-02-27" >27 février 1775</date>.</dateline></opener>
+   <p>Comme votre No 13 ne m’était annoncé que sous le titre d’une apostille, j’ai cru qu’il serait
+    bon de consulter les archives pour voir ce qu’il convenait de faire en pareil cas; mais comme
+    nul exemple de pareil incident n’a été découvert, j’ai cru qu’il suffirait d’y répondre par une
+    feuille détachée, et cela pas avant que le No 14 ne serait arrivé. Dieu merci, il ne s’est pas
+    fait attendre: je l’ai reçu aujourd’hui en bonne et due forme, et voici ma réponse. Votre <rs
+     ref="people.xml#gir03"> Olympie</rs> est une originale, qui ne se mouche pas du pied; j’ai
+    beaucoup d’estime pour elle sans avoir l’honneur de la connaître. — Jamais il n’est venu dans
+    l’esprit de feu le marquis <persName ref="people.xml#pug01"> Pougatchef</persName> de me
+    proposer la conquête de la Chine; je ne sais pas même s’il était informé qu’elle faisait partie
+    de la création. — Vous m’écrivez donc pour des prunes; il faut convenir que vous en parlez
+    beaucoup. Je suis fâchée de ne les avoir pas reçues, mais je vous en remercie comme si je les
+    avais déjà, et je les envisage comme une marque de votre attention, monsieur: vous voyez
+    qu’aujourd’hui je n’oublie point le mot de monsieur. <persName ref="people.xml#car01">Mademoiselle Cardel</persName> m’aurait
+    grondée sans doute d’une pareille inattention, car la défunte répétait sans cesse que le mot de
+    monsieur ne cassait la mâchoire à personne. Je crois qu’elle avait tiré cette maxime de quelque
+    comédie. Entre autres sciences elle possédait celle de savoir sur les doigts toutes les comédies
+    et tragédies possibles, et <persName ref="people.xml#car01"> mademoiselle Cardel</persName> avec
+    cela était très amusante. Mais, à propos de cela, écoutez donc, n’allez point me jouer un tour
+    aussi affreux que d’aller donner des copies de mon bavardage avec <persName ref="people.xml#did01">Diderot</persName>. J’ai
+    beaucoup d’estime pour <persName ref="people.xml#cas01"> M. de Castries</persName>), mais il
+    est mortel, et mon mémoire passerait de main en main jusqu’aux imprimeurs; or, je crains
+    l’impression comme le feu; ainsi, malgré ce que vous pourrez dire et mon ami <persName ref="people.xml#hen02">le
+    prince Henri</persName> encore, point de copie, s’il vous plaît, à âme qui vive, et dites à 
+    <persName ref="people.xml#did01">Diderot</persName>, que je salue, de n’en point donner et de mettre mes réponses dans notre bibliothèque
+    commune en dépôt.  </p>
+   <p>Mais écoutez un peu, messieurs les philosophes, qui ne faites point secte, vous seriez des
+    gens charmants, adorables, si vous aviez la charité de dresser un plan d'étude pour les jeunes
+    gens, depuis l’abc jusqu’à l’université inclusivement. Vous me direz que c’est une indiscrétion
+    que de vous demander cela; mais on me dit qu’il faut <rs ref="works.xml#essair01"> trois sortes
+     d’écoles</rs>, et moi, qui n’ai point étudié et qui n’ai point été à <placeName ref="places.xml#par01">Paris</placeName>, je
+    n’ai ni science ni esprit, et par conséquent je ne sais point ce qu’il faut apprendre, ni même
+    qu’est-ce qu’on peut apprendre, et où puiser tout cela, si ce n’est chez vous autres. Je n’ai
+    point encore <rs ref="works.xml#conver01"> le livre</rs> que vous avez bien voulu envoyer par
+    le  <persName ref="people.xml#dol01">pr. Dolgorouki </persName>de la part de la mère d’Emilie); mais je suis fort en peine
+    d’avoir une idée d’université, de sa régie de gymnases et de sa régie d’écoles et de sa
+    régie……En attendant que vous acquiesciez ou n’acquiesciez pas à ma prière, je sais ce que je
+    m’en vais faire: je m’en vais feuilleter <title ref="works.xml#encycl01">
+     l’Encyclopédie</title>; oh, pour sûr j’y prendrai par les oreilles tout ce qu’il me faut et ne me
+    faut pas.</p>
+   <p>Je trouve dans l’extrait de la lettre du <persName ref="people.xml#hen02"> prince
+     Henri</persName> tout le poids de la solidité de son jugement ; mais malgré cela je dispute
+    contre lui : mes réponses ne valent point le prix que vos génies ont la bonté d’y attacher; vous
+    voyez cela comme <persName ref="people.xml#did01">Diderot</persName> voit les tableaux et les livres, et comme le père
+     <persName ref="people.xml#mal01"> Mallebranche</persName> voyait tout en Dieu. </p>
+   <closer><signed rend="inline">Bonsoir. En voilà, ma foi, assez pour ce soir; une autre fois le reste.
+    Adieu, monsieur.</signed></closer>
+  </body>
+ </text>
+</TEI>

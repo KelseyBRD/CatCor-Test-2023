@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03585</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03585</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not locate Tchesma where Catherine says she
+     was the day before writing the letter.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-28">28/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:51:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03585">
+  <body>
+
+   <opener><dateline> А <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1781-06-25">25 juin 1781</date>.</dateline></opener>
+   <p>C’est аu No 28, autrement <seg xml:lang="de"> Römischer-Vortrag</seg>, que j’ai à répondre. Je
+    commence par vous dire que hier, jour de la St Jean, j’ai été à Tchesma; de là j’ai été au
+    couvent des demoiselles, et demain je vais à <placeName ref="places.xml#pet02">
+     Péterhof</placeName>. Vous voilà au fait du train des choses; voulez-vous savoir nos nouvelles
+    de chez vous? L’opéra de <placeName ref="places.xml#par01">Paris</placeName> est brûlé avec tous ses acteurs, actrices, danseurs
+    et danseuses; cela fait redoubler l’attention sur nos théâtres, et j’espère que cela nous
+    donnera des escaliers aux fenêtres. Avant cette nouvelle la retraite de <persName
+     ref="people.xml#nec01"> M. Necker</persName>, son mémoire et son compte rendu faisaient
+    fermenter le levain de la finance. <seg xml:lang="de"> Die Biene sucht aus dem Übeln, so wie aus
+     dem Guten, Honig für ihren Stock zu ziehen</seg>. Mais venons en au <seg xml:lang="de">
+     Römischer Vortrag</seg>. Les camées seront les bienvenus; si vous en voulez avoir un,
+    faites-vous en faire et payez-le de mon argent qui est à votre disposition; mais sachez que ceux
+    qui viendront ici ne retourneront point à <placeName ref="places.xml#par01">Paris</placeName>; ce serait nom arracher une
+    dent.</p>
+   <p>J’espère que l’uniforme vert parti pour chez vous, vous aura remis la pancarte d’une vingtaine
+    de pages écrites pendant plusieurs mois; apparemment que c’est lui aussi qui sera chargé des
+    camées à caboches. Je suis très fâchée de la maladie du Sr <persName ref="people.xml#san03">
+     Santini</persName>, et j’espère que vous avez déjà le nouveau créditif, afin de ne point
+    manquer d’argent quand le premier créditif sera épuisé. Oh! pour les titres de banquier et de
+    consul, ne m’en parlez plus, car d’ailleurs nous tirerons toute l’<placeName ref="places.xml#eur01">Europe</placeName> et nos
+    titres ressembleront à ceux de l’électeur de <placeName ref="places.xml#col01">Cologne</placeName>, c’est-à-dire qu’on fuira ceux qui les portent. Le <persName
+     ref="people.xml#bar02"> pr. Bariatinski</persName> vous reviendra; de l’a b c de <persName ref="people.xml#ale01">M. Alexandre</persName> nous avons extrait ce qui peut
+    servir pour tout le monde, et cela fait l’a b c russe présentement; de cet a b c dans quinze
+    jours on a vendu ici en ville vingt mille exemplaires; c’est cet a b c qui va devenir
+    l’accoucheur de toutes nos cervelles futures.</p>
+   <p>Je vous ai mandé au sujet des oeuvres de <persName ref="people.xml#met01">
+     Metastasio</persName> ce que j’avais à vous dire sur cela.</p>
+   <p>C’est le <rs ref="people.xml#shu02"> grand chambellan</rs> qui fait courir le bruit comme quoi
+    le <rs ref="people.xml#rei03"> divin</rs> achète trop cher, parce que lui, gr. ch., n’a jamais
+    acheté que de la drogue, et cela à bas prix; or, ces drogues, il nous les a voulu faire passer
+    pour de belles choses. Il est étonnant d’ailleurs qu’ayant passé tant d’années à <placeName ref="places.xml#rom03">Rome</placeName>, il se soit si peu formé de goût et d’entendement. Sachez qu’il est en amitié avec trois ou
+    quatre vieilles duchesses auxquelles il dit de ces pauvretés-là.</p>
+   <p>Si vous pouviez nous procurer les empreintes en soufre ou autrement des pierres gravées du
+    cabinet du roi de <placeName ref="places.xml#fra01">France</placeName>, de celles de St Denis et de celles du duc <persName
+     ref="people.xml#orl07"> d’Orléans</persName>, vous nous obligeriez infiniment, et faites-les
+    nous passer le plus tôt possible. S’il se présente au <rs ref="people.xml#rei03"> divin</rs> des
+    pierres bien gravées, priez le divin d’aller jusqu’à la somme de trois à quatre mille roubles,
+    et qu’il prenne pour règle la beauté de la pierre et la beauté du travail; or, si vous trouvez
+    quelque chose de pareil à <placeName ref="places.xml#par01">Paris</placeName> aussi, à vous permis de vous en emparer. Car c’est
+    la fureur du jour. J’ai ordonné de préparer les médailles d’or pour <persName
+     ref="people.xml#buf02"> M. de Buffon</persName>, et dès qu’elles seront prêtes, je vous les
+    enverrai pour lui. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien; pour cette fois-ci vous vous contenterez de
+    deux pages.</signed></closer>
+  </body>
+ </text>
+</TEI>

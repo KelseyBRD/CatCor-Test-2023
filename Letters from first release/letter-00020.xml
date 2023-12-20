@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00020</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00020</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change><date when="2013-10-21">22 October 2013</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Edited markup and added annotations.</p>
+            </change>
+            <change><date when="2015-07-15">15 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00020">
+                <body>
+                    <opener><dateline rend="right">A <placeName ref="places.xml#pet02"
+                                >Péterhof</placeName>, <date when-custom="1774-07-10">ce 10 juillet
+                                1774</date>.</dateline>
+                    <salute>Madame, </salute></opener>
+                    <p>C’est toujours avec un égal plaisir que je reçois vos lettres: celle du 1
+                        juillet n. st. est par conséquent du nombre. Comme vous voyez, je ne suis
+                        point à <placeName ref="places.xml#tsa01">Tsarskoé-Sélo</placeName>: les
+                        grandes chaleurs que nous avons eues ont été cause qu'il y a précisément un
+                        mois aujourd'hui que j'en suis partie, et ce n'est qu'ici au bord de la mer
+                        qu'on a pu respirer. Mais imaginez-vous, madame, ce qui vient d'arriver sur
+                        cette mer. Le fils aîné du <rs ref="people.xml#geo01">feu prince George, mon
+                            oncle</rs>, <persName ref="people.xml#wil02">le prince Auguste de
+                            Holstein</persName>, m'ayant prié de lui permettre de faire une campagne
+                        sur mon escadre qui croise cet été, comme de coutume, dans <placeName
+                            ref="places.xml#bal01">la Baltique</placeName>, partit sur un de mes
+                        vaisseaux de guerre nommé l’Ezéchiel, il y a de cela à peu près trois
+                        semaines, de <placeName ref="places.xml#kro01">Kronstadt</placeName>. Après
+                        avoir été retenu par les vents contraires, le 3 de ce mois à 5 heures du
+                        soir on aperçut sur le vaisseau le phare de <placeName
+                            ref="places.xml#tal01">Reval</placeName>; <rs ref="people.xml#wil02">le
+                            prince</rs> n'eut rien de plus pressé, quoiqu'il ne fût point d'un
+                        naturel fort vif, que de grimper sur un des mâts; mais en redescendant il se
+                        laissa choir, tomba sur un des bords du vaisseau la tête en bas, et de là
+                        dans la mer, où il se noya, malgré quatre nageurs qui se plongèrent dans la
+                        mer pour le sauver. On croisa plusieurs jours pour retrouver au moins son
+                        corps, mais jamais on n'a pu: vous ne sauriez croire la peine que cet
+                        accident aussi malheureux nous cause à tous. <rs ref="people.xml#pet02">Son
+                            frère</rs> est à l'armée. On dit qu'il est d'un courage téméraire: il
+                        fait le coup de pistolet avec les Turcs; j'ai déjà prié <rs
+                            ref="people.xml#rum01">le maréchal</rs> de l'empêcher de se faire
+                            tuer.<note type="editorial">Compare with <ref target="people.xml#cat01"
+                                >Catherine</ref>'s letter of 14 July 1774 to <ref
+                                target="people.xml#gus01">Gustav III of Sweden</ref>, in which she
+                            informs him too of the death of <ref target="people.xml#wil02">Wilhelm
+                                August</ref>, son of their shared uncle <ref
+                                target="people.xml#geo01">Georg Ludwig</ref> (<bibl><title
+                                    ref="works.xml#cather01">Catherine II et Gustave III</title>,
+                                    <biblScope unit="pp">pp. 54-55</biblScope></bibl>).</note> Vous
+                        savez déjà, madame, que <rs ref="people.xml#rum01">ce maréchal</rs> a
+                        commencé la campagne par la défaite au-delà du <placeName
+                            ref="places.xml#dan01">Danube</placeName> d'un corps turc de quarante
+                        mille hommes et la prise de 29 pièces de canons fondus par <persName
+                            ref="people.xml#tot01">M. Tott</persName>, brigadier du <rs
+                            ref="people.xml#lou01">roi très-chrétien</rs>, avec 108 drapeaux et deux
+                        camps turcs. Il y a eu encore un autre corps turc battu entre <placeName
+                            ref="places.xml#rus02">Roustchouk</placeName> et <placeName
+                            ref="places.xml#tut01" cert="medium">Tourtoukaï</placeName>.<note
+                            type="editorial">On the very day this letter was written, 10/21 July
+                            1774, <ref target="people.xml#rum01">Field-Marshal P.A. Rumyantsev</ref>
+                            secured for <ref target="places.xml#rus01">Russia</ref> the advantageous
+                            peace <ref type="event" target="events.xml#kuchuk01">treaty of <ref
+                                    target="places.xml#kuc01">Kuchuk Kainardzhi</ref></ref>. For
+                            this diplomatic feat, and for the military one of crossing the Danube as
+                            mentioned in this letter, <ref target="people.xml#rum01"
+                                >Rumyantsev</ref> was rewarded upon his return to <ref
+                                target="places.xml#mos01">Moscow</ref> in 1775 with the honorific
+                            title of 'Zadunaisky' ('Задунайский' or 'beyond the Danube'). The
+                            successful crossing of the <ref target="places.xml#dan01">Danube</ref>
+                            was of great symbolic significance, as Russian forces had last done so
+                            under <ref target="people.xml#svy01">Svyatoslav</ref> in the 10th
+                            century.</note></p>
+                    <p>Avant-hier enfin il a plu à <rs ref="people.xml#gus01">sa majesté
+                            Suédoise</rs> de me tirer de l'incertitude au sujet de son voyage: il
+                        m'a envoyé un courrier pour m'instruire qu'il a remis ce voyage jusqu'à
+                        l'année prochaine.<note type="editorial"><ref target="people.xml#gus01"
+                                >Gustav</ref> informed <ref target="people.xml#cat01"
+                                >Catherine</ref> that he was postponing his visit, a change he
+                            attributed to the delayed arrival of the new <ref
+                                target="people.xml#hed01">duchess of Södermanland</ref>, in a letter
+                            of 7 July 1774 (NS) (<bibl><title ref="works.xml#cather01">Catherine II
+                                    et Gustave III</title>, <biblScope unit="pp">pp.
+                                    52-53</biblScope></bibl>). He finally <ref
+                                target="events.xml#gustav01">visited</ref>
+                            <ref target="places.xml#rus01">Russia</ref> in 1777.</note> Dites-moi,
+                        je vous prie, si <rs ref="people.xml#lou02">la duchesse de
+                        Mecklembourg</rs>, dont vous m'annoncez l'arrivée à <placeName
+                            ref="places.xml#ham01">Hambourg</placeName>, est séparée d'avec <rs
+                            ref="people.xml#fri02">son mari</rs>, ou n'est-ce qu'un voyage de
+                        plaisir? Il est très sûr que <persName ref="people.xml#mos01">M.
+                            Moser</persName> est un des plus grands vilains que j'aie connus de mes
+                        jours; je ne crois pas cependant que les chagrins qu'il a donnés à <rs
+                            ref="people.xml#kar01">la landgrave</rs> aient avancé ses jours: <rs
+                            ref="people.xml#kar01">cette princesse</rs> était mourante tous les
+                        jours depuis neuf ans; on a trouvé son état décrit jour par jour par
+                        elle-même depuis ce temps.<note type="editorial">In a letter of 1 July 1774
+                            (NS), <ref target="people.xml#bie01">Mme Bielke</ref> told <ref
+                                target="people.xml#cat01">Catherine</ref> that <ref
+                                target="people.xml#mos01">Moser</ref> had accelerated the death (on
+                            30 March 1774) of <ref target="people.xml#kar01">Landgravine Karoline of
+                                Hesse-Darmstadt</ref> by causing her to quarrel with her husband.
+                                <ref target="people.xml#cat01">Catherine</ref> greatly regretted the
+                            death of the <ref target="people.xml#kar01">landgravine</ref>, with whom
+                            she had just become acquainted during the latter's <ref
+                                target="events.xml#karoline01">visit</ref> to <ref
+                                target="places.xml#pet01">St. Petersburg</ref>. As she wrote to <ref
+                                target="people.xml#bie01">Mme Bielke</ref> on 9 April 1774: 'j'ai
+                            perdu la landgrave, et je suis inconsolable de cette perte'
+                                    (<bibl><title ref="works.xml#sborni01">Sbornik Imperatorskago
+                                    Russkago Istoricheskago Obshchestva</title>, <biblScope unit="vol">xiii</biblScope>, <biblScope unit="pp">p.
+                                    400</biblScope></bibl>).</note></p>
+                    <p>Je suis très curieuse d'apprendre la suite du voyage de <rs
+                            ref="people.xml#hed01">la duchesse de Sudermanie</rs>; j'espère qu'on ne
+                        la fera pas attendre aussi longtemps pour son débarquement que pour son
+                        départ; les vaisseaux suédois ont été quinze jours à <placeName
+                            ref="places.xml#wis01">Wismar</placeName> avant qu'on ait envoyé avertir
+                            <rs ref="people.xml#fri02">mon oncle</rs> de faire partir <rs
+                            ref="people.xml#hed01">sa fille</rs> d’<placeName ref="places.xml#eut01"
+                            >Eutin</placeName>.<note type="editorial"><ref target="people.xml#gus01"
+                                >Gustav III</ref> consulted <ref target="people.xml#cat01"
+                                >Catherine</ref> in a letter of 22 August 1773 (NS) on the choice of
+                                <ref target="people.xml#hed01">Hedwig Elisabeth Charlotte of
+                                Holstein</ref> for his brother <ref target="people.xml#cha01"
+                                >Charles of Södermanland</ref>; the other candidate for <ref
+                                target="people.xml#cha01">Charles</ref>'s hand, <ref
+                                target="people.xml#lou03">Louise of Hesse-Darmstadt</ref>, was at
+                            the time in <ref target="places.xml#pet01">St. Petersburg</ref> with her
+                                <ref target="people.xml#kar01">mother</ref> and sisters, for the
+                                <ref target="events.xml#marriage01">wedding</ref> of her sister <ref
+                                target="people.xml#wil01">Wilhelmine</ref> to the future <ref
+                                    target="people.xml#pau01">Paul I</ref>. In her reply of 29 August 1773, <ref
+                                target="people.xml#cat01">Catherine</ref> expressed her support for
+                            the choice of <ref target="people.xml#lou03">Louise of
+                                Hesse-Darmstadt</ref>, who had been suggested by <ref
+                                target="people.xml#fre01">Frederick II of Prussia</ref>, but <ref
+                                target="people.xml#cat01">Catherine</ref> nonetheless acquiesced to
+                            the choice of <ref target="people.xml#hed01">Hedwig Charlotte of
+                                Holstein</ref> (<bibl><title ref="works.xml#cather01">Catherine II
+                                    et Gustave III</title>, <biblScope unit="pp">pp.
+                                    42-46</biblScope></bibl>).</note></p>
+                    <closer><signed>Mais en voilà assez pour aujourd’hui, n’est il pas vrai? Adieu,
+                            aimez-moi toujours un peu.</signed></closer>
+
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">At <placeName ref="places.xml#pet02"
+                                >Peterhof</placeName>, <date when-custom="1774-07-10">this 10 July
+                                1774</date>.</dateline>
+                    <salute>Madam, </salute></opener>
+                    <p>I always receive your letters with equal pleasure: that of 1 July N.S. is
+                        therefore amongst that number. As you see, I am not at Tsarskoe Selo: the
+                        intense hot spell we had made me leave exactly a month ago today, and it was
+                        only here at the seaside that we could breathe. But can you imagine, madam,
+                        what just happened on this sea? The elder son of the late Prince George, my
+                        uncle, Prince Augustus of Holstein, had entreated me to allow him to go on
+                        campaign with my squadron, which is cruising this summer, as usual, in the
+                        Baltic. He departed from Kronstadt on one of my warships, named the
+                        Ezechiel, about three weeks ago. Having been detained by contrary winds, on
+                        the third of this month at 5 in the evening, they sighted from the ship the
+                        lighthouse of Reval. Although he was not of a particularly lively nature,
+                        the prince was in a great hurry to climb one of the masts. But on the way
+                        down he let himself fall, hit one of the sides of the ship head-first, and
+                        from there went into the sea, where he was drowned, in spite of four
+                        swimmers who dove into the sea to save him. They cruised for several days to
+                        find his body at least, but they could not: you cannot believe how much such
+                        an unhappy accident grieves us all. His brother is with the army. They say
+                        that he is of audacious courage: he fights the Turks with pistols. I have
+                        already entreated the field marshal to keep him from getting himself killed.
+                        You already know, madam, that this field marshal began the campaign by
+                        defeating on the other side of the Danube a Turkish corps of forty thousand
+                        men and by taking 29 cannons cast by Mr. Tott, brigadier to the Most
+                        Christian King, along with 108 flags and two Turkish camps. Another Turkish
+                        corps was beaten between Ruse and Tutrakan.</p>
+                    <p>The day before yesterday His Swedish Majesty was finally pleased to release
+                        me from my uncertainty regarding his voyage: he sent me a courier to inform
+                        me that he has put off that voyage until next year. Tell me, I pray you,
+                        whether the duchess of Mecklenburg, who, you tell me, has arrived in
+                        Hamburg, has separated from her husband, or is it just a pleasure trip? It
+                        is certain that Mr. Moser is one of the greatest villains I have known in
+                        all my life. Yet I do not think that the grief he caused the landgravine
+                        hastened her death: the princess had been dying every day for nine years.
+                        They have since found her day-by-day description of her condition from that
+                        time on.</p>
+                    <p>I am very curious to find out about the rest of the duchess of Sudermanland's
+                        voyage. I hope that she will not be made to wait as long to disembark as she
+                        was at her departure: the Swedish vessels spent fifteen days at Wismar
+                        before they sent anyone to notify my uncle to send his daughter from
+                        Eutin.</p>
+                    <closer><signed>But that's enough for today, is it not? Farewell, carry on
+                            loving me a little.</signed></closer>
+
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

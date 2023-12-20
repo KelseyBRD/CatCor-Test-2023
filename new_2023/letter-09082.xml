@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09082</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09082</idno>
+            </publicationStmt><notesStmt>  
+                <note type="enclosure">Letter from Catherine to <persName ref="people.xml#spr01">Georg Magnus Sprengtporten</persName></note>
+         </notesStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-23">2023-06-23</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09082"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-08-26">1788 г. августа 26.</date>
+                </dateline>
+            </opener>
+            <p>Сие письмо, <date when-custom="1788-08-26">сего дня</date> полученное, пошлите казать <rs ref="people.xml#ost05">вице-канцлеру</rs>
+                <note type="editorial">
+                    Catherine writes about her letter to <persName ref="people.xml#spr01">baron Georg Magnus Sprengtporten</persName>, in which she talks about the intention to separate Swedish and Finnish armies and let Sprengtporten command the Finns. A.V. Khrapovitskii noted in his diary under <date when-custom="1788-08-26">the same day</date> that he showed this letter to <rs ref="people.xml#ost05">Vice-Chancellor</rs> as he was ordered (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 80.</biblScope>
+                    </bibl>
+                    ).
+                </note>. Я думаю писать к <persName ref="people.xml#mus02">Пушкину</persName>, чтоб <rs ref="people.xml#mus02">он</rs> <placeName ref="places.xml#swe01">Шведам</placeName> и <placeName ref="places.xml#fin01">Финнам</placeName> дал выразуметь, что как <placeName ref="places.xml#den01">Датчане</placeName> войну <rs ref="places.xml#swe01 places.xml#fin01">им</rs> объявили, то уже о мире и перемирии теперь не время говорить, разве <placeName ref="places.xml#fin01">Финны</placeName> отстанут от <placeName ref="places.xml#swe01">Шведов</placeName>.</p>
+        </body>
+    </text>
+</TEI>

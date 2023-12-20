@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02826</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02826</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Catherine says that she will leave from Klovie to start her tour of Crimea through the
+     Dneiper. I am fairly certain she means Kiev (fr: Kiovie), but wanted to check this before
+     coding.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:29:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02826">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01">Petersb.</placeName> ce <date
+      when-custom="1786-12-26">26. Décembre 1786</date>.</dateline></opener>
+   <p>Monsieur de <persName ref="people.xml#zim01"> Zimmermann</persName>. J’ai reçue votre lettre
+    du 28. Novembre; vous apprendrez avant devoir reçue celle que vos recommandations n’ont pas
+    etées sans effet. En général on est fort content des gens, que vous avés envoyé. Je vous avoue
+    que je n’entends rien aux procédés de <persName ref="people.xml#wei02"> Weikardt</persName>, je
+    l’ai toujour cru votre ami jusqu’au moment, où j’ai reçu votre lettre; je ne l’ai pas vue depuis
+    le mois de Juillet. Mr. <persName ref="people.xml#rog01"> Rogerson</persName> nous est revenu et
+    il m’a parlé de vous avec estime et intérêt. Dans huit jours je partirai d’ici pour Klovie, où
+    je m’embarquerai à la débâcle de la glace, je descendrai le <rs ref="places.xml#dni03">
+     Boristhène</rs> jusqu’aux cataractes, je ferai en suite le <name ref="events.xml#crime01"> tour
+     de la <placeName ref="places.xml#cri01">Tauride</placeName></name>. En tout j’ai cinq milles
+    werstes à faire par terre et par eau et cependant j’espère d’être de retour dans le courant du
+    mois de Juin.</p>
+   <closer><signed>Adieu, Monsieur, portés vous bien et soyés assuré de mon estime. <persName
+      ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed>
+   </closer>
+  </body>
+ </text>
+</TEI>

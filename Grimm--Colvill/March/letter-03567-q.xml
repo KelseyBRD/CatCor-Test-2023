@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03567</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03567</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is mention of « Westmoreland » but it is
+     unclear from the context to what Catherine refers</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-19">19/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:52:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03567">
+  <body>
+<div type="part" n="1">
+   <opener><dateline> А <placeName ref="places.xml#pet02"> Péterhof</placeName>, ce <date when-custom="1779-07-14">14 juillet 1779</date>.</dateline></opener>
+   <p>Il faut que je vous parle <persName ref="people.xml#pai01"> Païsiello</persName>; lundi, qui,
+    ne vous déplaise, était avant-hier, il nous a régalés ici de son opéra <title ref="works.xml#astrol01">« Les Astrologues ou les Philosophes »</title> pour la
+    seconde fois, et j’ai voulu voir cela au grand jour, une troisième fois aujourd’hui, et plus je
+    vois cela et plus je suis étonnée du singulier emploi qu’il sait faire des tons et des sons: et
+    la toux, par exemple, devient harmonieuse, et tout plein de folies sublimes, et vous ne savez
+    comment ce magicien fait pour faire prêter attention aux organes les moins sensibles à la <seg
+     xml:lang="it"> musica</seg>, et ces organes-là sont les miens. Je sors de sa musique, la tête
+    remplie de musique; je reconnais et chante presque sa composition: oh, la singulière tête que
+    celle de <persName ref="people.xml#pai01"> Païsiello</persName>! J’ai ordonné de transcrire pour
+    vous cette musique-là, et vous verrez tout plein de choses sublimes, <seg xml:lang="de"> das ist
+     unvergleichlich</seg>. Vous me direz: <seg xml:lang="de"> Aber was geht mir das an, und warum
+     muss ich Bost-Geld bezahlen um das zu wissen</seg>? A cela je réponds: <seg xml:lang="de"> Das
+     ist wahr, aber Sie haben vergessen dass sie titulirter <rs ref="people.xml#gri01">souffre-douleur</rs> seinen anders habe ich
+     keine excuse</seg>.</p>
+   <p>A présent, à la suite de cela, je suis en droit de vous donner à deviner à quoi je m’amuse
+    ici. Ne vous en doutez pas pour sûr: à montrer l’a b c à <persName ref="people.xml#ale01"> M.
+     Alexandre</persName>, qui ne sait pas parler encore et qui n’a qu’un an et demi. Il connaît si
+    bien l’А, qu’il a trouvé sur un tou-tou, qu’il le retrouve partout où il en voit, et à present
+    nous sommes occupés des autres voyelles, après quoi nous en viendrons aux syllabes. C’est un
+    plaisant <rs ref="people.xml#ale01"> marmot</rs>, dont je fais tout ce qui me plaît et qui prend
+    plaisir à imiter ce qu’il me voit faire; pour de l’autre je ne donnerai pas dix sous; je me
+    trompe fort si cela restera sur terre. Je suis très curieuse de savoir comment vous plaisent les
+    inscriptions lapidaires de sire <persName ref="people.xml#nar02"> Léon N</persName>. Je sais
+    très bien que c’est peu de chose, mais cela vous a-t-il fait sourire, car dès lors leur but est
+    rempli: lui il en est enchanté. Tout le monde ici me demande quand vous reviendrez; je réponds à
+    cela: quand il lui plaira; et on prétend que j’en fais mystère; cependant vous m’êtes témoin que
+    je dis vrai.</p></div>
+   <div type="part" n="2">
+   <opener><dateline>Ce 18 juillet. </dateline></opener>
+   <p>Vu la grande chaleur et la sécheresse, cet été est moins fertile en champignons qu’en <seg
+     xml:lang="de"> Vortrag</seg>, en pancartes et en manifestes. Le 7-ième <seg xml:lang="de">
+     Vortrag</seg> m’est arrivé hier, et le No 41 ce jourd’hui; tout cela me vient fort mal à
+    propos: j’ai la cervelle desséchée par les loix danoises, que j’étudie à fond pour savoir
+    pourquoi dans ce pays, selon <title ref="works.xml#trista01">Tristram
+    Schandy</title>, tous les hommes sont au niveau,<seg xml:lang="de"> und allerwärts finde ich große
+     Billigkeit und Klarheit der Gesetze</seg>: on a beau se casser la tête, aucune chicane ne peut
+    avoir lieu; tout est prévu; par conséquent donc personne ne pense et tout devient moutonnier.
+    L’excellent chef d’oeuvre: j’aimerais mieux jeter au feu tout ce que selon vous j’ai mis sens
+    dessus-dessous que de faire une belle législation qui produisit l’insupportable race de moutons
+    fades et sots. Voyez un peu, à force d’art où on en parvient; j’aurais envie d’être découragée,
+    ma morgué, ne le suis; il y a du démon à cela.</p>
+   <p>Ne vous arrachez pas tant les cheveux: quoique je n’aie pas grand besoin de <persName
+     ref="people.xml#wag02"> Wagnière</persName>, vu le dessèchement de ma cervelle causé par la
+    raison susdite, cependant il sera le bienvenu, et nous choisirons en pays plat le mont Jura et
+    les Alpes avec lui; pour la bibliothèque, nous la placerons en attendant dans les chambres de
+    Mad. Levschine, qui demeure présentement avec ses compagnes, parce que n’en pouvions venir à
+    bout. A côté de cette bibliothèque <persName ref="people.xml#wag02"> Wagnière</persName> aussi trouvera son coin.
+     <seg xml:lang="it"> Ma</seg> jusqu’ici ni <persName ref="people.xml#wag02">
+    Wagnière</persName>, ni bibliothèque, ni paquebot ne sont encore à la rade de <placeName ref="places.xml#kro01">
+    Cronstadt</placeName>; je les attends de moment à autre, vu que des lettres particulières d’un <seg
+     xml:lang="de"> Rathsherr</seg> de <placeName ref="places.xml#ham01"> Hambourg</placeName> les
+    dit partis de <placeName ref="places.xml#lub01"> Lübeck</placeName>, <seg xml:lang="de"> Gott
+     segne ihre Reife</seg> , et trêve d’excuses: de votre part, d’avoir embarqué <persName
+     ref="people.xml#wag02"> Wagnière</persName> et compagnie sur des mi-et tiers et trois quarts et
+    entiers, consentements, presque révoqués ensuite, et de la mienne, de n’avoir pas su au juste en
+    cette occasion, comme en bien d’autres, ni ce que je voulais, ni ce que je ne voulais pas, et
+    d’avoir écrit par conséquence le vouloir et non vouloir. Si jamais cette belle page tombe entre
+    les mains de quelqu’un qui n’aura vu que cela de moi, il n’y trouvera là rien de bien clair ni
+    décisif, et il me jugera en conséquence. Si vous voulez, à côté de la chaire que vous me
+    conseillez d’ériger, je fonderai une sur la science de l’indécision, à moi plus naturelle qu’on
+    ne le pense, et le premier professeur de droits en sera <rs ref="people.xml#shu02"> mons. le gr.
+     cham</rs>. Pour les occupations de <persName ref="people.xml#wag02"> Wagnière</persName>, dont
+    vous vous occupez si fort, elles seront <seg xml:lang="it"> primo</seg> de...</p>
+   <p><hi>(Suite de la lettre commencée le 14 juillet et continuée le 18)</hi></p>
+   <p>déballer et ranger <rs ref="works.xml#librar01">la bibliothèque</rs>; puis il
+    deviendra lecteur: ma plume n’est point aussi fertile que celle de feu son maître, ni n’écrivons
+    si bien; par conséquent, peu nous griffonnerons; puis, si nous nous convenons, nous resterons ou
+    non ensemble. Voilà de ces grandes vérités dont personne ne doute et qui s’écrivent pourtant.
+     <persName ref="people.xml#wag02">Wagnière</persName> recevra tout ce qu’il vous a plu
+    m’envoyer d’instruction pour lui et le déballage de son compagnon de voyage, la bibliothèque,
+    pourvu que cela ne s’égare point sur ma table parmi mes paperasses.</p>
+   <p>Pour les achats <rs ref="people.xml#rei03"> Reiffensteiniens</rs>, des Corrège, des <title ref="works.xml#logera01">Raphaël</title>, des <persName ref="people.xml#dav02">
+     Léonard da Vinci</persName>, des Carrache, des Palma Scarcelüno et des Poussin, qui diable
+    pourrait résister à ces grands noms, et s’il plaisait au <rs ref="people.xml#rei03"> divin
+     homme</rs> de les faire visiter par les <persName ref="people.xml#men01"> Mengs</persName>,
+    Battoni, <persName ref="people.xml#mar01"> Maron</persName> et <persName ref="people.xml#hac01">
+     Hackert</persName>, et s’il plaisait à ceux-ci de les déclarer légitimes et non bâtards, alors
+    il ne s’agirait que de proposer au sieur <persName ref="people.xml#san03"> Gaspard
+     Santini</persName> le déboursé sous clause d’être remboursé à vue par l’ <rs
+     ref="people.xml#fre03"> amplissime baron</rs>, qui pour sa taille devient enfantissime
+    vis-à-vis d’un baron livonien débarqué ici depuis quelques semaines. Ouf! jamais je n’ai cru que
+    je me tirerais avec honneur de cette instruction que vous aurez la bonté de transmettre au divin
+     <persName ref="people.xml#rei03"> Reiffenstein</persName>, s’il vous plaît, telle que je l’ai
+    tracée sur la feuille que les commis de poste ont insérée sous votre enveloppe pour préserver ma
+    lettre de tout accident ou peut-être aussi leur est-elle échappée lorsqu’ils tiraient copie de
+    ma lettre.</p>
+   <p>Je baptisais avant-hier un enfant avec <persName ref="people.xml#ale01"> M.
+     Alexandre</persName>, qui, entendant crier cet enfant, dit dans son langage monosyllabe qu’on
+    donne à cet enfant sa nourrice. Voyant cela je fis exécuter sur-le-champ la proposition de
+     <persName ref="people.xml#ale01"> M. Alexandre</persName>, vu que marchand d’oignon se connaît
+    en ciboule, selon l’ancien proverbe de <persName ref="people.xml#san02"> Sancho
+    Pansa</persName>, et à la lettre, l’enfant se tut. Je suis si lasse de purées aux pois que je ne
+    voudrais plus en entendre parler; la nouvelle surtout sera si difficile à digérer que <persName
+     ref="people.xml#bar03"> M. Barmann</persName> et compagnie y perdront leur latin, vu que les
+    ingrédients sont inconnus et que leur nombre et espèces augmentent de moment à autre. L’on ne
+    voit point clair à tout cela; cependant je ne négligerai aucune occasion pour rendre service au
+    genre humain; quoiqu’il n’y ait là aucune tête &amp; la tondue, il y en a pourtant de plus d’un
+    genre.</p>
+   <p>Pour à votre manifeste, je ne répondrai rien du tout, parce que ce manifeste ne me regarde
+    point du tout; achète chez moi du tabac qui veut, dévide de la soie qui peut et comme il peut,
+    nous ne fermons les oreilles à aucune proposition, et surtout à celles qui nous accommodent
+    autant les uns que les autres. <persName ref="people.xml#ver01"> M. de Vérac</persName> sera le
+    très bien venu et reçu, surtout avec le timbre de M. le <persName ref="people.xml#mau01"> comte
+     de Maurepas</persName>. Vous savez comme je pense sur tous ceux qui occupent les premières
+    places depuis le règne bienheureux de <persName ref="people.xml#lou15"> Louis xvi</persName>. Je
+    dois plus d’un remercîment à <persName ref="people.xml#gra01"> M. de Vergennes</persName> au
+    sujet du Westmoreland et à vous aussi pour mille et mille choses, et comme cela s’entend du
+    reste que vous méritez mille et mille remercîments, je ne vous le mande presque jamais. <seg
+     xml:lang="de"> Nun weiter weiß ich für dieses Mal nichts mehr, und deßwegen endige ich dies
+     kleine Brieschen auf fremdem Papier geschrieben mit dem guten Wunsch von vieler Gesundheit und
+     Vergnügen. Wenn Sie sich verheirathen, so können Sie lange Jahre die Frau Liebste mit
+     ungetauften Papilloton versehen; Sie können nur diese schöne Briefe darzu gebrauchen lassen, so
+     wie <title ref="works.xml#trista01">Tristram Shandy</title> seine Reiseanmerfungen.</seg> Je vous prie, lisez ce livre
+    en allemand; c’est une encyclopédie inépuisable de choses qui ornent l’esprit, et cela est tout
+    aussi bon à citer qu’ <persName ref="people.xml#oua01"> Ouen-Ouang</persName>. Depuis que je
+    suis à la campagne, <title ref="works.xml#trista01">Tristram Shandy</title> et les
+    lois danoises sont en droit chez moi <seg xml:lang="de"> zu alterniren, so wie die
+     altfürstlichen Häuser auf dem Reichstag zu <placeName ref="places.xml#reg01"> Regensburg</placeName>, Ihrem Geburtsorte.</seg>
+   </p>
+   <closer><signed rend="inline">Adieu. La foudre est tombée sur le Grand Caprice de <placeName ref="places.xml#tsa01">
+    Tsarsko-Sélo</placeName> et y a détruit le petit kiosque de marbre qui couronnait ce Caprice, mais à quoi
+    bon cela?</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

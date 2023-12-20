@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03561</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03561</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:51:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03561">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarskoé-Sélo</placeName>, <date when-custom="1779-05-07">7 mai 1779</date>.</dateline></opener>
+   <p>J’ai reçu avant-hier au soir l’immense masse de dépêches dont il vous a plu de charger <hi
+     rend="italic">gentil courrier</hi>, comme vous l’avez baptisé; or, vous saurez, que vous n’êtes
+    pas le seul qui imitez St Jean Baptiste dans ses fonctions de baptiser le monde. Gentil courrier
+    baptisé par vous, nous est arrivé lorsque nous revenions, fatiguée à mourir, du baptême du sieur
+     <persName ref="people.xml#kon01"> Constantin</persName>, venu au monde le 27 d’avril 1779. Ce
+    drôle-là s’est fait attendre depuis la mi-mars, et quand une fois il s’est mis en chemin, il
+    nous est tombé comme la grêle, dans une heure et demie; les bonnes vieilles qui sont autour de
+    lui prétendent qu’il me ressemble comme deux gouttes d’eau. On m’a demandé qui serait le
+    parrain; j’ai dit: je ne connais que mon meilleur ami <persName ref="people.xml#abd01"> Abdoul Hamet</persName> qui pût l’être; mais comme nul chrétien ne saurait être
+    baptisé par un Turc, au moins faisons-lui honneur en le nommant <persName ref="people.xml#kon01"
+     > Constantin</persName>, et tout le monde s’écria: <persName ref="people.xml#kon01">
+     Constantin</persName>! Et le voilà <persName ref="people.xml#kon01"> Constantin</persName>, gros
+    comme le poing, et me voilà moi avec <persName ref="people.xml#ale01"> Alexandre</persName> à ma
+    droite et <persName ref="people.xml#kon01"> Constantin</persName> à ma gauche. J’aime, tout
+    comme le père de <title ref="works.xml#trista01">Tristram Shandy</title>, les noms
+    sonores, et comme l’église grecque n’en donne jamais qu’un, il nous en restera encore pour la
+    douzaine à venir. Mais sti-ci est plus délicat que son aîné, et pour peu que l’air froid le
+    touche, il cache son nez dans ses langes, il veut avoir chaud.... morgué.... nous savons ce que
+    nous savons, ma....chut.... point de trépied.... <seg xml:lang="de">Ja, das
+     heißt man wohl mit die Thüre in das haus gefallen</seg>. Ceci fait réponse à votre No 37, qui
+    commence par la méfiance que vous aviez sur le compte de la jeunesse, de la vitesse et autres
+    merveilleuses qualités du gentil courrier, après quoi vous m’instruisez de la beauté et
+    diversité des déshabillés qui orneront vôtre déjeûner du 2 mai (21 avril). Je suis bien aise que
+    vous aimiez le mois de mai: j’ai toujours eu pour lui une inclination très distinguée; en
+    vérité, c’est de tous les mois le plus charmant.</p>
+   <p>Eh bien, voilé une grande partie de l’<placeName ref="places.xml#eur01"> Europe</placeName> qui va vivre en paix et en repos,
+    et tout le monde bâillera en lisant les gazettes. Mon bon ami, pour le coup je vous attrape sur
+    le fait: vous avez l’oreille dure; je vous ai tant parlé de <persName ref="people.xml#pyr01">
+     Pyrrhus</persName>, jusque là qu’un jour vous m’avez écrit que vous en aviez les oreilles
+    rebattues, et à présent vous venez me demander ce que c’est que <persName ref="people.xml#pyr01"
+     > Pyrrhus</persName>. Vous n’en saurez rien, mais tant y a que vous avez reconnu mes traits,
+    comme bien d’autres, dans les traits de <persName ref="people.xml#pyr01"> Pyrrhus</persName>,
+    qui n’est pas moi cependant. Dites-nous seulement si <persName ref="people.xml#pyr01">
+     Pyrrhus</persName> est beau, s’il a la mine noble et fière, et sachez que si vous l’entendiez
+    chanter, vous pleureriez comme vous avez pleuré en entendant chanter la <persName
+     ref="people.xml#gab01"> Gabriella</persName> chez <persName ref="people.xml#ela01">
+     Yélaguine</persName>, qui ne se serait jamais laissé tondre. Pour les tracasseries d’ <persName
+     ref="people.xml#aga01"> Agamemnon</persName> et d’<persName ref="people.xml#ach01">
+     Achille</persName>, je leur tire ma révérence. <persName ref="people.xml#ach01">
+     Achille</persName> n’est pas <persName ref="people.xml#ach01"> Achille</persName>, <persName
+     ref="people.xml#aga01"> Agamemnon</persName> ne lui a pas volé de <persName
+     ref="people.xml#bri01"> Bryséis</persName>, car <persName ref="people.xml#ach01">
+     Achille</persName> non plus <persName ref="people.xml#aga01"> Agamemnon</persName> ne se
+    soucient point des <persName ref="people.xml#bri01"> Briséis</persName>, et tout cela est
+    infiniment plus mesquin qu’ <persName ref="people.xml#hom01"> Homère</persName>, puisqu’il faut
+    dire les choses comme elles sont. <seg xml:lang="de"> Gott sei mit Ihnen</seg>!</p>
+   <p>Je vous ai déjà mandé que je ne fais point de vers dans aucune langue, que ma prose est
+    mauvaise en français et bien pire en allemand; ainsi n’allez plus me tarabuster pour les quatre
+    lignes de monsieur <title ref="works.xml#lustuc01">Lustucru</title> qui avaient été
+    tirées d’un mauvais opéra de <persName ref="people.xml#fon02"> Fontenelle</persName>. Voilà ce
+    que c’est que ces gens à littérature: ils ne vous laissent pas passer la plus misérable chose
+    sans y ajouter un pendant de leur façon; je vois le .moment où ils vont faire du filleul du mari
+    de la Vierge un Bacchus; encore iront-ils dire que c’est une énergie garrottée; c’est bien
+    plutôt avidité garrottée, c’est convoitise garrottée, c’est péché contre le 9<hi
+     rend="superscript">me</hi> ou 10<hi rend="superscript">me</hi> commandement de Dieu. Mais qui
+    vous a prié de montrer mes gaucheries à des intendants? je vois encore le moment où vous allez
+    me faire imprimer: au nom de Dieu, évitez-moi ce désagrément; je ne yeux d’aucune inquisition.
+    J’ai vu par les cahiers du <rs ref="people.xml#vol01"> patriarche</rs> nouvellement reçus ce que
+    c’est que l’inquisition littéraire et l’inquisition militaire aussi. Cela devait faire un tripot
+    bon à jeter par les fenêtres: j’ose dire que j'ai eu assez bon nez sur tout ce point.</p>
+   <p>Mais, monsieur le faiseur de conventions germaniques, que je ne lirai jamais, pourquoi
+    placez-vous éternellement fr. G. dans tous les points de vue possibles, tandis que sa place
+    naturelle est celle de marchand drapier, bon citoyen et dans tout antre c’est un S., né. Vous en
+    roulez terriblement à ce pauvre homme qui ne vous a jamais rien fait. Non, non, il ne font pas
+    que sire <persName ref="people.xml#pop03"> Pape</persName> crêve, et ce ne sera jamais moi qui
+    lui donnerai du chagrin, ni mes coquins en titre, les <orgName ref="orgs.xml#jesu01"> J. de la
+     <placeName ref="places.xml#whi01"> R. bl</placeName></orgName>., qui lui sont très soumis et ne veulent jamais que ce qu’il
+    veut, lui. Je crois en vérité que c’est vous qui fournissez aux gazetiers de <placeName
+     ref="places.xml#col01"> Cologne</placeName> les articles qu’il imprime au grand détriment de la
+    serre chaude. Vous trouvez donc que c’est parce que je trouve cela plaisant que je leur fais du
+    bien: il faut avouer que vous me donnez de jolis motifs, tandis que je n’ai d’autre vue que de
+    remplir ma parole donnée et que j’y vois un motif de bien public. Pour de vos épiciers, je vous
+    en fais présent et ne m’y arrêterai pas même un seul instant, mais je sais bien qu’ils ne
+    viendront point me chanter la chanson qui dit: 
+   <q>Bonhomme, tu n’es pas maitre dans ta maison, quand nous y sommes; </q>
+   et voilà sur quoi roule ma thèse, qu’on fait semblant de ne pas comprendre, mais tant y a que
+    comme <persName ref="people.xml#sha04"> Chah Baham</persName> je me comprends bien moi-même et
+    agirai en conséquence.</p>
+   <p>Mais puisque vous êtes en train de faire des conventions, faisons en une: ne me faites jamais
+    plus d’excuses sur la longueur de vos lettres; pour moi ces petits traités sont toujours trop
+    courts, et moi je ne vous en ferai pas non plus sur toutes les impolitesses qu’entraîne la
+    morgue de ma bu plume, qui quelquefois se hâte trop pour avoir le temps d’arranger un
+    compliment. Ceci contient un traité entier sur le Tu et le Vous, <seg xml:lang="de"> aber das
+     ist zu lang hierher zu schreiben ; es ist schon 6 Uhr und ein halb, und der 8te May 1779</seg>:
+    ne voilà-t-il pas un chapitre entier de <title ref="works.xml#trista01">Tristram
+     Shandy</title>, que je vous conseille de lire en allemand et point en français, parce qu’il est
+    mal traduit en deux tomes, tandis qu’en allemand il y en a six. C’est un livre classique sur la
+    marche des idées, et même sur celle des seigneurs tondus, à tondre et qui tondent. Je n’ai point
+    lu le mémoire concernant le commerce etc., parce que nous sommes accablés de pièces pareilles de
+    gens qui ne connaissent rien du local, et que mon principe est que tout commerce aille comme il
+    peut, et qu’il ne faut point donner de crocs-en-jambe au commerce comme à tout plein d’autres
+    choses, témoins les suites des crocs-en-jambes contenus dans les nouveaux cahiers que <persName
+     ref="people.xml#pan06"> Panckoucke</persName> m’a envoyés. J’ai donné la préférence à la
+    recette contre les mulots, parce qu’elle est courte et raisonnable, ma chez nous on regarde tout
+    cela comme très peu de chose, vu la quantité et la différence des choses et des climats.
+    Les <title ref="works.xml#memoir05">Mémoires de la Chine</title> disent que la
+    petite <placeName ref="places.xml#eur01"> Europe</placeName> n’a point d’idée de l’immensité de la <placeName
+     ref="places.xml#chi02"> Chine</placeName> et des choses qu’elle contient; voilà notre cas: ce
+    qui est un objet ailleurs, n’en est pas chez nous. Le baron <persName ref="people.xml#fre03">
+     Friedrichs</persName> prétend avoir expédié à <persName ref="people.xml#san03"> Gaspard
+     Santini</persName> ses ordres, et <persName ref="people.xml#bez01"> Bezborodka</persName>, que
+    j’ai chargé d’en prendre connaissance, en est persuadé.</p>
+   <p>Paix, paix! comment la cour d’équité de <placeName ref="places.xml#smo01">
+     Smolensk</placeName> peut-elle se mêler des affaires d’autrui sans le désir des autrui, et puis
+    laissez-nous finir Tondu, après quoi nous verrons comment sont les dispositions
+     réciproques: <seg xml:lang="de"> kommt Zeit, kommt Rath, sagen die Bürgermeister der freien
+     Reichs-Städte</seg>, en frappant des doigts sur leurs tabatières d’argent et affectant de rire
+    en toussotant. Ma vous conviendrez avec moi que la besogne des marabouts va me donner plus de
+    travail que jamais; aussi la <placeName ref="places.xml#rus01"> Russie</placeName> est-elle menacée de voir tomber sur elle un
+    très gros in-quarto rempli de tout plein de choses faites pour être oubliées, afin que la
+    machine marche toute seule, par impulsion imprimée autant dans les têtes que dans les livres, et
+    cela peut être ainsi, lorsque toutes choses seront simplement et naturellement arrangées, de
+    telle façon qu’une chose tienne sa place là justement où elle doit être, sans empiéter sur une
+    autre. Voilà le développement de la création du monde qu’une chiquenaude ne peut déranger. Les
+    plans Racle sont arrivés, et nous sommes à les étudier; puis viendra le compas, et puis nous
+    imaginerons où <rs ref="works.xml#librar01">la bibliothèque</rs> sera la
+    bienvenue, et je n’oublierai pas qu’il y a un <persName ref="people.xml#tro03">
+     Tronchin</persName> qui n’est pas médecin. Le cabinet <persName ref="people.xml#wal02">
+     Walpole</persName> n’est pas acheté encore; en attendant il faut me dire ce qu’il faut pour ce
+     <persName ref="people.xml#tro03"> Tronchin</persName>, qui n’est pas médecin. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien si vous pouvez.</signed></closer>
+   <postscript><p>Un des <persName ref="people.xml#tho01"> Thomas</persName> s’est couché mi-partie sur un
+    coussin qui est derrière moi et mi-partie sur mon épaule. NB il m’empêche d’écrire.</p></postscript>
+  </body>
+ </text>
+</TEI>

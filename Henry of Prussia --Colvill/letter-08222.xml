@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08222</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08222</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#summer"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:20:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08222">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet02">Péterhof</placeName> ce <date
+      when-custom="1772-07-03">3/14 de juillet 1772</date>.</dateline></opener>
+   <p>La lettre de V. A. R. du 11 juin m’est parvenue, lorsque je me préparais fort tristement à
+    quitter le séjour de mon cher <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>,
+    après neuf semaines que j'y ai passé le plus agréablement du monde. Je suis venue dans cet
+    endroit-ci, pour lequel je ne me sens la moindre inclination, j'y ai vu dans ma vie tant de
+    vilaines choses que l'idée s'en retrace dans mon esprit chaque fois que j'y viens. Il y a des
+    gens qui disent qu'il y a à cela du caprice, de l'injustice; cela se peut, je n'aime pas à
+    disputer sur les termes, mais toujours est-il très vrai, que je n'ai pas osé prendre la plume
+    les premiers jours de mon séjour céans pour répondre à V. A. R., crainte que mes idées sombres
+    ne lui communiquassent l'hypocondrie que m'inspirait le murmure de ces détestables fontaines,
+    qui donnent la torture à l'eau pour lui faire prendre un cours opposé à celui de la nature. On
+    trouve cela beau dans ce monde, il me semble que voilà des beautés bien mesquines, et de
+    l'argent très mal employé, n'en déplaise aux préjugés de l'<placeName ref="places.xml#eur01"
+     >Europe</placeName> et de l'<placeName ref="places.xml#asi01">Asie</placeName>. Je voudrais que
+    toutes ces fontaines fussent au sultan et qu'il se pâmât de joie tous les jours en les
+    considérant Les lui souhaiter, c'est l'équivalent de les donner à Satan. Mais aussi le
+     Seigneur <persName ref="people.xml#mus01">Moustapha Gazi</persName> ne mérite-t-il pas bien
+    cette comparaison après ce quil vient de faire? Il y a plus de six semaines que mes <rs
+     ref="people.xml#orl01 people.xml#obr01">plénipotentiaires</rs> sont à <placeName
+     ref="places.xml#ias01">Jassy</placeName>, et lui il n'a expédié les siens que le 14 juin n. st;
+    faute de chevaux il fait traîner leurs équipages par des boeufs; je m'attend à les voir arriver
+    même sur des tortues, et que ce congrès traînera jusqu'à la fin des siècles, ou peu s'en faut Je
+    prie V. A. R. de m’insérer dans Ses prières, pour m'obtenir du ciel une prolongation de
+    patience. Cette idée m'est venue parceque je n'en avais nulle part plus que dans les
+    appartements de <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, où nous déjeunions
+    ce printemps presque tous les matins, et d'où il nous semblait que nous sortions toujours trop
+    tôt; j'ose dire que la joie y régnait. Je me doute que c'est V. A. R. qui l'y a semée et je Lui
+    en ai mille obligations. Je partage celle que l'arrivée de la <persName ref="people.xml#lou05">
+     reine de <placeName ref="places.xml#swe01">Suède</placeName></persName> à <placeName
+     ref="places.xml#rhe01"> Rheinsberg</placeName> a due inspirer à V. A. R., parceque je
+    m'intéresse vivement à tout ce qui peut arriver à V. A. R. Je La prie d'être bien intimement
+    persuadée de cette vérité, de même que de la haute considération . . .</p>
+  </body>
+ </text>
+</TEI>

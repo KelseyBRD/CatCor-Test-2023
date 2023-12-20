@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00086</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00086</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#health"/>
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-17">17 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation, annotation.</p>
+            </change>
+            <change>
+                <date when="2014-02-05">3 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Themes.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00086">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный Князь Григорий
+                            Александрович.</salute></opener>
+                    <p> Письмы твои от 21 и 24 августа из <placeName ref="places.xml#dub01"
+                            >Дубоссар</placeName> я получила. Оне меня застали еще немного слабой от
+                        спазматической колики, которая продолжалась целые две недели. Теперь я
+                        совершенно выздоровела, что приписываю много подушкам с ромашкою, коими
+                            <persName ref="people.xml#gav01">Санкт-Петерб[ургский]
+                            Митрополит</persName> мне советовал обложить около всего тела.</p>
+                    <p>Сказав о себе, теперь буду ответствовать на твои письмы. Чему дивишься, что
+                        тебе Бог определил готовить или приготовить для всех, а для тебя ниже
+                        переправы не изготовили?<note type="editorial">Potemkin opened his letter of
+                            21 August with the complaint that upon his arrival at the Dniester
+                            River, he found no preparations for his crossing, other than two small
+                            ferries, so he was forced to have a bridge built there and on the Pruth.
+                                    (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin</title>, <biblScope unit="pp">p. 366</biblScope>,
+                                    <idno>Letter 986</idno>.</bibl>)</note> В тебе в одном более
+                        ревности к общему делу и к моей службе, нежели в протчих, и ты же
+                        замысловатее. Помоги тебе Бог во всех твоих предприятиях. Я с вашей стороны
+                        весьма покойна, ибо прошлогодняя кампания оправдала совершенно мои о тебе
+                        мысли и доверенность. Ты же ко мне пишешь часто и подробно <seg
+                            xml:lang="fr">et par conséquant je suis <supplied
+                                resp="Kelsey Rubin-Detlev">sans</supplied> inquiétude de Votre
+                            côte.</seg> Что <persName ref="people.xml#cob01">Кобург</persName>
+                        после победы храбрится, тому не дивлюся: им удача не в привычке. <seg
+                            xml:lang="fr">Ils ressemble[nt] en cela aux parvenus, qui sont étonnés
+                            de se voir des beaux meubles et qui ne cessent d’en parler et de les
+                            admirer.</seg><note type="editorial">Potemkin attached to his letter
+                            of 21 August a report from Prince Cobourg and provided a commentary on
+                            it: while Cobourg was so pleased with the victory at Fokshani that he
+                            now thought he could take Walachia and <ref target="places.xml#bra01"
+                                >Braila</ref>, the Austrians had actually already ceded
+                            opportunities to take them for fear of losing Khotin. (<bibl><title
+                                    ref="works.xml#ekater01">Ekaterina II i G.A. Potemkin</title>,
+                                    <biblScope unit="pp">p. 367</biblScope>, <idno>Letter
+                                986</idno>.</bibl>)</note></p>
+                    <p>Говорят, будто турецкий флот слаб людьми; также, будто <persName
+                            ref="people.xml#bul01">Булгаков</persName> освобожден, но ни то, ни
+                        другое, может статься, несправедливо.<note type="editorial">Catherine was
+                            right: the Russian ambassador in Constantinople, Ya. I. Bulgakov was
+                            freed only in November 1789.</note> Желаю тебе от всего сердца
+                        преодоления над врагом и надо всеми препятствиями. Пакости поляков вытерпеть
+                        должно до времяни.</p>
+                    <p>Я думаю писать к <persName ref="people.xml#rum01">Румянцеву</persName>, что
+                        его присудствие в <placeName ref="places.xml#mol01">Молдавии</placeName>
+                        подает случаи к слухам, моим и общим нашим делам вредным, и что я желаю и
+                        требую, чтоб он выехал из <placeName ref="places.xml#mol01"
+                            >Молдавии</placeName>.<note type="editorial">See Catherine's <ref
+                                target="letter-00071.xml">letter to Rumyantsev of 8 March
+                            1789</ref>. On 21 August, Potemkin mentioned that Rumyantsev was still
+                            in the south and commented: 'Как ему не стыдно. Сие не могло производить
+                            толков и разглашений, хотя пустых, однако ж вредных' ('He should be
+                            ashamed of himself. How could this but produce commentaries and
+                            divulgences that, while empty, would nonetheless be harmful').
+                                    (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin</title>, <biblScope unit="pp">p. 367</biblScope>,
+                                    <idno>Letter 986</idno>.</bibl>)</note> Мысли твои по делам
+                        теперь ожидаю; ты знаешь мои правила: что полезно – всегда не отрекусь
+                        делать, лишь бы сходно было с честью и достоинством <rs
+                            ref="places.xml#rus01">Империи</rs>.<note type="editorial">On 21 August,
+                            Potemkin promised his thoughts on current affairs, but entreated
+                            Catherine not to be angered by what he had to say.</note> Французские
+                        суда перестанут ходить к нам: <persName ref="people.xml#mon02"
+                            >Монморен</persName> писал к <persName ref="people.xml#cho02"
+                            >Шуазелю</persName>, чтоб перестал оных пос[ы]лать.<note
+                            type="editorial">On 21 August, Potemkin complained that yet another
+                            French ship had arrived at Feodosiya and asked what would come of the
+                            apparent French desire to snoop around in all Russian ports.</note>
+                        <rs ref="events.xml#frenc01">Французские безпокойства</rs>
+                        <rs ref="events.xml#braba01">переносятся в <placeName ref="places.xml#bra02"
+                                >Брабантию</placeName> и в <placeName ref="places.xml#hol02"
+                                >Голландию</placeName></rs> и озабочивают уже <rs
+                            ref="places.xml#pru01">Берлинский двор</rs>. Услышите вскоре, что они
+                        окажутся и в областях прусских, ибо народ гол, а войски чужестранные.</p>
+                    <p>Что ты <rs ref="events.xml#svens01">нашей галерной победе</rs> рад был, сие я
+                        себе представить могу. Ты увидишь из посланных подробностей, что наша потеря
+                        менее, нежели сгоряча думали. Из <placeName ref="places.xml#hog01"
+                            >Гекфорса</placeName> и <placeName ref="places.xml#kym02"
+                            >Кюменеграда</placeName> шведы вышли, но по сей час <persName
+                            ref="people.xml#mus02">Пушкина</persName> ничем принудить не можно было
+                        воспользоваться сим случаем, чтоб нанести шведам наивящий вред. Сей мешок
+                        нерешимый мне весьма надоел, и воистину он командовать не умеет.</p>
+                    <p><orgName ref="orgs.xml#preo01">Преобр[аженского] полка</orgName> капитана
+                            <persName ref="people.xml#che02">Черткова</persName>, да прап[орщиков]
+                            <persName ref="people.xml#tsy01">Сизирева</persName> и Терскова
+                        приказала послать к тебе, чтоб ты их притравил, либо из полку выгнал.<note
+                            type="editorial">According to V.S. Lopatin, these three Guards officers
+                            absented themselves from battle on 13 August 1789, leaving sergeants to
+                            command their ships. The sergeants were promoted to sub-lieutenants in
+                            the Guards, while the delinquent officers were sent to serve in the army
+                            under Potemkin. On 25 March 1791, Potemkin obtained their pardon in
+                            recognition of their service at the <ref target="events.xml#izmai01"
+                                >storming of Izmail</ref>. (<bibl><title ref="works.xml#ekater01"
+                                    >Ekaterina II i G.A. Potemkin</title>, <biblScope unit="pp">p.
+                                    884</biblScope>.</bibl>)</note></p>
+                    <p>За ласку к <persName ref="people.xml#zub03">Платону Александровичу</persName>
+                        и <rs ref="people.xml#zub01">его брату</rs> тебе спасибо. Я не знаю <rs
+                            ref="people.xml#zub03">брата, который у вас</rs>, а он сам себя ведет
+                        так, как только желать можно.<note type="editorial">In his letter of 21
+                            August, Potemkin said that he would give Nikolay Zubov, currently in
+                            Potemkin's army, opportunities to distinguish himself, which he soon
+                            accomplished by sending him to St. Petersburg bearing news of victory in
+                            the Battle of Rymnik. Potemkin also asked for a description of Valerian
+                            Zubov, the youngest brother: 'Описывайте другого: что мешает его
+                            отличить, чем сходно' ('Describe the other one: what prevents us from
+                            distinguishing him in a suitable way?') (<bibl><title
+                                    ref="works.xml#ekater01">Ekaterina II i G.A. Potemkin</title>,
+                                    <biblScope unit="pp">p. 367</biblScope>, <idno>Letter
+                                986</idno></bibl>).</note>
+                        <seg xml:lang="fr">Il est d’une humeur égale et très aimable</seg> и сердце
+                        предоброе и благородное, <seg xml:lang="fr">en un mot, il gagne à être
+                            connu.</seg></p>
+                    <closer><signed xml:lang="fr">Adieu, mon Ami, portés Vous bien et soyés assuré
+                            de toute mon amitié.</signed>
+                        <dateline><date when-custom="1789-09-06">Сен[тября] 6 ч.,
+                            1789</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear friend Prince Grigory
+                            Aleksandrovich.</salute></opener>
+                    <p>I received your letters of 21 and 24 August from Dubossary. They found me a
+                        bit weak from my spasmatic colic, which lasted two whole weeks. Now I have
+                        made a complete recovery, which I attribute in large measure to the pillows
+                        full of camomile, which the Metropolitan of Saint Petersburg recommended
+                        that I put around my entire body.</p>
+                    <p>Now that I have told you about myself, I will answer your letters. Why are
+                        you surprised that God has determined that you should prepare or make ready
+                        for everyone, while they do not even prepare a crossing for you? In you
+                        alone there is more zeal to the common cause and to my service, than in the
+                        others, and you are more ingenious too. God help you in all your
+                        enterprises. I am quite at ease about you, for last years' campaign
+                        completely justified my thoughts about you and my confidence. You write to
+                        me too often and in detail and as a result I have no concerns about you. I
+                        am not surprised that Cobourg is swaggering after his victory: they are not
+                        used to success. They are in this respect like upstarts who, astonished to
+                        have nice furniture, cannot stop talking about and admiring it.</p>
+                    <p>They say that the Turkish navy is lacking in soldiers, and also that Bulgakov
+                        has been freed, but it is possible that neither one nor the other is true. I
+                        hope with all my heart that you will overcome the enemy and all obstacles.
+                        For the time being we must endure the Poles' mean tricks.</p>
+                    <p>I am thinking of writing to Rumyantsev that his presence in Moldavia is
+                        giving rise to rumours that are harmful to my and our common affairs, and
+                        that I desire and demand that he leaves Moldavia. I now await your thoughts
+                        on affairs. You know my rules: I will not refuse to do whatever is useful,
+                        as long as it is compatible with the honour and dignity of the Empire.
+                        French ships will stop coming to us: Montmorin wrote to Choiseul that he
+                        should stop sending them. The French disorders are spreading into the
+                        Brabant and Holland and are already causing concern at the court of Berlin.
+                        You will soon hear that they have turned up in the Prussian provinces too,
+                        for the people are naked and the troops are foreign.</p>
+                    <p>I can imagine that you were pleased at the victory of our galleys. You will
+                        see from the details that have been sent that our losses are lesser than
+                        they thought in the heat of things. The Swedes have left Högfors and Kymi,
+                        but there was no way for the moment to force Pushkin to take advantage of
+                        this opportunity to do more harm to the Swedes. I am thoroughly sick of that
+                        sack of indecisiveness, and he truly does not know how to command.</p>
+                    <p>I have ordered that Captain Chertkov and ensigns Sizirev and Terskov of the
+                        Preobrazhenskii Regiment be sent to you, so you can train them up or chase
+                        them from the regiment.</p>
+                    <p>I thank you for your affection for Platon Aleksandrovich and his brother. I
+                        do not know the brother who is with you, but he himself behaves himself as
+                        well as can possibly be desired. He is even-tempered and very amiable and a
+                        most kind and noble heart. In a word, the more you know him the more you
+                        like him.</p>
+                    <closer><signed>Farewell, my friend, be well and be assured of all my
+                            friendship.</signed>
+                        <dateline><date when-custom="1789-09-06">Sep 6,
+                        1789</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

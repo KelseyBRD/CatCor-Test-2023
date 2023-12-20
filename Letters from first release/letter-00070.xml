@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00070</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00070</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-02">2 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, annotations, and translation.</p>
+            </change>
+            <change>
+                <date when="2014-04-25">25 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Themes</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00070">
+                <body>
+                    <p>О трех вещах по сегоднишним вестям сомнения нет: 1) что <rs
+                            ref="events.xml#oland01">дело</rs> было между <rs ref="orgs.xml#russ02"
+                            >нашим флотом</rs> и <rs ref="orgs.xml#swed01">шведским</rs>; 2) что <rs
+                            ref="events.xml#oland01">дело</rs> решилось в нашу пользу, ибо <persName
+                            ref="people.xml#chi01">Чичагов</persName> не пошел починиваться в
+                            <placeName ref="places.xml#cop01">Копенгаген</placeName>; 3) что <rs
+                            ref="people.xml#chi01">адмирал</rs> соединился с <persName
+                            ref="people.xml#koz01">Козляниновым</persName>, ибо послал ему сказать,
+                        чтоб шел, и сей пошел действительно; о сем прислан курьер из <placeName
+                            ref="places.xml#cop01">Копенгагена</placeName>, а от <rs
+                            ref="people.xml#chi01">адмирала</rs> нет еще ничего.<note
+                            type="editorial">The editors of the original edition date this letter to
+                            6 July 1789, citing the diary of Catherine's secretary <ref
+                                target="people.xml#khr01">A.V. Khrapovitsky</ref>. But the diary
+                            entry for 6 July concerns a meeting between the <ref
+                                target="people.xml#nas01">Prince of Nassau</ref> and the commander
+                            of Russian forces on land, Musin-Pushkin. The entry of 4 July concerns
+                            news from <ref target="people.xml#chi01">Chichagov</ref> about an attack
+                            on <ref target="people.xml#koz01">Kozlyaninov</ref>. The diary in fact
+                            indicates that the present letter must date from 6 August 1789: on that
+                            date, <ref target="people.xml#khr01">Khrapovitsky</ref> noted, 'По
+                            сказкам корабельщиков торговых судов, 21 Июля должно быть сражение у
+                            Чичагова с Шведами, и что через 3 дня после того, соединясь с
+                            Козляиновым [sic], он возвратился, ибо видели уже одни датские корабли
+                            на рейде; усумнились, что нет рапорта' ('According to what the merchant
+                            captains are saying, there must have been a battle on 21 July between
+                            Chichagov and the Swedes. 3 days afterward he met Kozlyainov [sic] and
+                            returned, for they saw only Danish ships in the roadstead. [Catherine]
+                            worried that she has not yet received a report') (<bibl><title
+                                    ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskago</title>,
+                                    <biblScope unit="pp">pp. 295, 301-302</biblScope></bibl>). The
+                            supposition of a battle, the meeting between <ref
+                                target="people.xml#chi01">Chichagov</ref> and <ref
+                                target="people.xml#koz01">Kozlyaninov</ref>, and the absence of a
+                            report from Chichagov all seem to confirm the match between this letter
+                            and <ref target="people.xml#khr01">Khrapovitsky</ref>'s account of
+                            Catherine's preoccupations on 3 August. The battle turned out to be the
+                                <ref target="events.xml#oland01">Battle of Öland</ref>.</note></p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                   
+                    <p>Judging by today's news, there is no doubt about three things: 1) that there
+                        was a battle between our navy and the Swedish one; 2) that the battle ended
+                        in our favour, for Chichagov did not go to Copenhagen for repairs; 3) that
+                        the admiral joined up with Kozlyaninov, for he sent to tell him to go, and
+                        he indeed went. A courier was sent from Copenhagen about this, but there is
+                        nothing yet from the admiral.</p>
+                  
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

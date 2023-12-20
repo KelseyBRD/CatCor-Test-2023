@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00041</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00041</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-22">22 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-06-30">30 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup and tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <div>
+                        
+                        <p>Приложенный при сем манифест повелеваем вам напечатать числом тысячу
+                            двести экземпляров: половину гражданскою, в другую половину церковною
+                            печатью, а как скоро оные изготовлены будут, имеете вы отправить оные с
+                            нарочным курьером, так как и включенный здесь рескрипт, к нашему
+                                <persName ref="people.xml#bib01">генералу Бибикову</persName>.</p>
+                        <closer><dateline><date when-custom="1774-03-23">Марта 23-го 1774
+                                г.</date></dateline></closer>
+                    </div>
+                    <div type="attachment">
+                        <p>Божиею милостию мы <persName ref="people.xml#cat01">Екатерина
+                                Вторая</persName>, императрица и самодержица Всероссийская, и
+                            прочая, и прочая, и прочая.</p>
+                        <p>По истинной к верным подданным нашим материнской любви усматриваем мы с
+                            немалым оскорблением, что, хотя неоднократно публиковано манифестами в
+                            народе, дабы никто не дерзал приставать к разбойнику <persName
+                                ref="people.xml#pug01">Пугачеву</persName> и его сволочи, но и за
+                            сими увещаниями и запрещениями показывается в некоторых местах от
+                            невежества колебленность в умах одной части простаго народа. И для того
+                            вновь повелели мы публиковать сей наш указ, дабы удержался всякий не
+                            только от сообщений с ворами, но и ото всякой колебленности, ибо таковых
+                            непослушных и присяги верности не помнящих людей склонность ни к чему
+                            иному не влечет как к собственной их же погибели и к самой неминуемой
+                            изменникам казни, чего разбойничьи сволочи в весьма коротком времени
+                            конечно не избегнут: ибо к совершенному их истреблению приближаются уже
+                            победоносныя наши войски, управляемыя десницею всемогущаго Бога,
+                            Которого Промысл чрез столь многие веки сохраняет <rs
+                                ref="places.xml#rus01">Империю</rs> нашу и защищает от внутренних и
+                            внешних злодеев и разорителей. Дан <placeName ref="places.xml#pet01">в
+                                Санктпетербург</placeName>
+                            <date when-custom="1774-03-15">от Рождества Христова в лето 1774-е марта
+                                15-го числа</date>, государствования нашего дванадесятаго года.</p>
+                        <closer><signed><persName ref="people.xml#cat01">Екатерина</persName>.</signed></closer>
+                    </div>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <div>
+                        
+                        <p>We order you to print one thousand two hundred copies of the the attached
+                            manifesto: half in civil, half in church type. As soon as they are
+                            ready, you are to send them by special courrier, with the included
+                            rescript, to our General Bibikov.</p>
+                        <p><date when-custom="1774-03-23">March 23rd 1774.</date></p>
+                    </div>
+                    <div type="attachment">
+                        <p>We, by the grace of God, Catherine the Second, empress and autocrat of
+                            all Russia, etc., etc., etc.</p>
+                        <p>With our true motherly love to our loyal subjects, we see with no little
+                            grief that, although manifestos to the effect that no one dare join the
+                            brigand Pugachev and his rabble were more than once published amongst
+                            the people, even after these exhortations and prohibitions, wavering,
+                            caused by ignorance, can be seen in the minds of one part of the common
+                            people in some places. And for this reason we again order this our
+                            decree to be published, to the effect that every one not only refrain
+                            from communications with the thieves, but also from all wavering, for
+                            this inclination in such disobedient people, who do not remember their
+                            oath of loyalty, leads to nothing other than their own perdition and to
+                            the most inevitable punishment for traitors, which the thieving rabble
+                            will of course not avoid in the very near future. For our victorious
+                            troops are already approaching to bring about their complete
+                            destruction, guided by the hand of Almighty God, Whose Providence has
+                            guarded our Empire through so many ages and defended it from internal
+                            and external miscreants and destructors. Given at St. Petersburg in the
+                            year 1774 from the Nativity of Christ, on the 15th day of March, in the
+                            twelfth year of our reign.</p>
+                        <closer><signed><persName>Catherine</persName>.</signed></closer>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

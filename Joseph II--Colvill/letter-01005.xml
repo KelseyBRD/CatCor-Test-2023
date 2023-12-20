@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01005</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01005</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:31:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01005">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1780-11-20">20 novembre 1780</date>.</dateline></opener>
+   <p>Monsieur mon frère. Heureux est le moment ou à <placeName ref="places.xml#mog01">
+     Mohilew</placeName> j’ai eu la satisfaction de faire la connaissance de Monsieur le <rs
+     ref="people.xml#jos01"> comte de Falkenstein</rs>. II est bon à être connu! Il est agréable
+    d’avoir à faire à lui! ai-je dit en lisant la charmante lettre qu’il a plu à <persName
+     ref="people.xml#jos01"> Votre Majesté Impériale</persName> de m’écrire en date du 13 novembre.
+    Elle voit par là qu’Elle a deviné avec Sa justesse de jugement ordinaire l’effet que la lettre
+    de <persName ref="people.xml#jos01"> V. M. I.</persName> devait produire sur mon âme, et le
+    contentement qu’Elle allait me donner. Si ma précédente a pu Lui causer quelque plaisir, j’en
+    suis bien payée par cette réponse remplie d’amitié, et des expressions les plus flatteuses dont
+     <persName ref="people.xml#jos01"> V. M. I.</persName> vient de m’honorer. L’usage encore
+    qu’Elle a bien voulu faire de cette missive, m’est une nouvelle preuve de Son approbation, et je
+    Lui en suis infiniment redevable.</p>
+   <p>J’ignorais jusqu’à ce jour le propos de mon vieil ami <persName ref="people.xml#vol01"
+     >Voltaire</persName> ; j’en suis fâchée pour lui, mais je me rends garant que ce même <persName
+     ref="people.xml#vol01">Voltaire</persName> que le dépit a fait bavarder dans ce moment, s'il
+    avait eu le bonheur de voir et d’entendre une demie-heure celui sur le compte duquel il se
+     trompait, <persName ref="people.xml#vol01">Voltaire</persName>, dis-je, dont l’âme avait
+    l’enthousiasme du grand et du beau, aurait regardé comme sublime la modestie compagne des plus
+    hautes vertus, et tout de suite il se serait mis à chanter avec nous le cantique: </p>
+   <q>„Béni soit le sein, qui vous a porté,“ </q>
+   <p>et il aurait fini par celui de Saint Siméon.</p>
+   <p>Je dois convenir avec <persName ref="people.xml#jos01"> V. M. I.</persName> que <rs
+     ref="events.xml#ameri01"> cette guerre</rs> est infiniment plus coûteuse que fertile en
+    événements, et que, s’il y a de beaux projets prémédités, ils ont été très-mal exécutés. Il me
+    paraît que les intéressés sont partis du pied gauche. Il est triste sans doute que les têtes à
+    prudence consommée aient fait moins de grandes choses que naguère quelques têtes moins sages
+    peut-être. Mais le moyen de tout soumettre aux calculs et d’éviter tous les risques, ceux qui le
+    feront, laisseront échapper mille occasions où avec un peu de risque il y a beaucoup quelquefois
+    à gagner par d’autres qualités qui ne doivent pas être rayées, comme le courage et cette sorte
+    d’habileté du moment, qui non seulement à son mérite, mais qui souvent a décidé et pris le
+    dessus sur la prétendue prudence consommée. Celle-ci est admirable sans doute pour rester en
+    place, prendre la goutte et engourdir les plus actifs, mais à laquelle en vérité je n’entends
+    rien; aussi ne puis-je me vanter que de quelque bonheur.</p>
+   <p>J’ai fait l'horoscope des <rs ref="places.xml#ter01 places.xml#jos01">deux nouvelles
+     forteresses</rs> de <placeName ref="places.xml#boh01"> Bohème</placeName> en présence du
+     <persName ref="people.xml#lig01">prince de Ligne</persName>; je me flatte qu’il me rendra
+    justice et qu’il renouvellera à <persName ref="people.xml#jos01"> V. M. I.</persName> le
+    souvenir des sentiments qu’Elle m’a inspirés.</p>
+   <p>J'ai mille remercîments à Lui faire pour les portraits des Reines de <placeName
+     ref="places.xml#fra01">France</placeName> et de <placeName ref="places.xml#nap01">
+     Naples</placeName>; j’ai trouvé à la première les yeux du <rs ref="people.xml#jos01"> comte de
+     Falkenstein</rs>. J’en ai encore à Lui présenter pour le miséréré qui, malgré l'excommunication
+    papale, est parvenu à <placeName ref="places.xml#pet01"> Pétersbourg</placeName> et tout de
+    suite m’a renouvelé le souvenir du <placeName ref="places.xml#vat01"> Vatican</placeName> de
+     <placeName ref="places.xml#smo01"> Smolensk</placeName> et des litanies prophétiques que j’y ai
+    entonnées. Je crois que c’est pour couper court à ce mien chant que <persName
+     ref="people.xml#pop03"> Pie VI</persName> m’a écrit ces jours passés une belle lettre de sa
+    propre main, à la fin de laquelle il m’exhorte à me ranger de son côté et prie Dieu de
+    m’éclairer. Comme je trouve cela très-poli, je m’en vais par ma réponse en faire autant
+    vis-à-vis de lui.</p>
+   <p>J’ai prié le comte <persName ref="people.xml#cob02"> Cobenzl</persName> de joindre à mes
+    félicitations sur la naissance de la jeune <rs ref="people.xml#mar23"> Archiduchesse</rs>
+    l’expression de tous mes sentiments pour <persName ref="people.xml#fer05"> S. A. R. le Grand-Duc
+     de Toscane</persName>. <persName ref="people.xml#jos01"> V. M. I.</persName> me comble de Ses
+    bontés en me disant qu’Elle a bien voulu en écrire déjà à Son Altesse Royale.</p>
+   <p>Je conviens avec <persName ref="people.xml#jos01"> V. M. I.</persName> que le métier des
+    gazetiers n’est pas fait pour nos places. Le mépris qu’Elle marque pour ces petits moyens
+    d’employer des fictions et des fantômes politiques pour Ses vues, est bien digne de la noblesse
+    de Sa façon de penser. J’ai dit toujours: tant pis pour ceux qui y ont recours, ils se
+    discréditent eux-mêmes en pure perte. Je ne crois pas qu’on m’en présente; s’il m’en
+    parvenaient, je La prie d’être persuadée qu’ils ne sauraient influer sur ma façon de penser,
+    étant toujours avec les sentiments de la plus haute estime et considération ....</p>
+  </body>
+ </text>
+</TEI>

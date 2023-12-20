@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03649</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03649</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-19">19-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:22:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03649">
+  <body>
+   <p>Arrivée avant hier ici à <placeName ref="places.xml#kol01"> Kolomenski</placeName>, à 10
+    verstes de <placeName ref="places.xml#mos01"> Moscou</placeName>, où j’ai trouvé mes <rs ref="people.xml#ale01 people.xml#kon01">
+     petits-fils</rs> établis depuis le commencement de ce mois, hier, second jour de mon arrivée,
+    j’ai reçu votre 86, que <rs ref="people.xml#bez01"> factotum</rs> m’a dit être venu par la voie
+    de <persName ref="people.xml#bac01"> Bacchus Gloutonewitch</persName>. Sans entrer dans toutes
+    les galimatias que vous me faites, parce que je n’ai pas le temps et parce que, outre cela, mes
+    <rs ref="people.xml#ale01 people.xml#kon01">deux petits-fils</rs> font dans ma chambre un
+    tintamarre terrible et qu’après six mois que nous ne nous sommes pas vus, ce serait une cruauté
+    que de les chasser. Je m’attache uniquement à la détresse dans laquelle se trouvé le <rs
+     ref="people.xml#bob01"> jeune homme</rs> à la suite des sottises qu’il a faites, et pour ne
+    rien avoir à faire à son aimable tuteur d’autrefois ni aux chicanes insupportables de la
+    décrépitude, de l’entêtement et de la mauvaise volonté, j’ai ordonné à <rs
+     ref="people.xml#bez01"> factotum</rs> de vous envoyer les 23.000 roubles dont le <rs
+     ref="people.xml#bob01"> jeune homme</rs> a un besoin si urgent; il est pris d’un fonds qui est
+    en réserve pour lui, mais c’est ce qu’il ignore et doit ignorer; ainsi vous pouvez donner à cela
+    telle tournure qu’il vous plaira, pourvu que vous payiez ce qu’il est indispensablement
+    nécessaire de payer, ou fassiez payer. </p>
+   <closer><signed rend="inline">Adieu, je suis revenue en parfaite santé de mon voyage, dont j’ai tout
+    lieu d’être parfaitement "contente; dans la huitaine je compte de partir d’ici pour <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>. Tous ceux qui sont avec moi se portent comme
+    moi et nommément le comte de <persName ref="people.xml#seg01"> Ségur</persName> et le <persName ref="people.xml#lig01"> prince
+     de Ligne</persName>, qui font beau train avec M. l’ <rs ref="people.xml#dmi01"> habit
+     rouge</rs>, et surtout mes petits fils; je ne sais comme j’ai pu écrire ceci.</signed>
+   <dateline>A <placeName ref="places.xml#kol01"> Kolomenski</placeName>, à 10 verstes
+    de <placeName ref="places.xml#mos01"> Moscou</placeName>, ce <date when-custom="1787-06-25">25 juin v. st. 1787</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

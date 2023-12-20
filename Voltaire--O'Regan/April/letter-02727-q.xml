@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02727</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02727</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of reference to General Slotteln.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-13">13-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:20:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02727">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date
+      when-custom="1769-12-13">13 Décember 1769</date></dateline>
+    <salute rend="inline">Monsieur,</salute></opener>
+   <p> Nous somes si loin d'être chassé de la <placeName ref="places.xml#mol01">
+     Moldavie</placeName>, et de <placeName ref="places.xml#cho02"> Holzin</placeName> ome la <rs
+     ref="works.xml#gazett02"> gazette</rs> de <placeName ref="places.xml#fra01"> France</placeName>
+    l'a publié, qu'il nì a que quelques jours que j'ai reçuë la nouvelle de la prise de <placeName
+     ref="places.xml#gal01"> Galatzo</placeName>, place fortifié sur le <placeName
+     ref="places.xml#dan01"> Danube</placeName>, où un Seraskier et un Bacha ont été tué au dire des
+    prisoniers, mais ce qu'il y a de bien vérifié s'est qu'entre ses dernier ce trouve le Prince de
+     <placeName ref="places.xml#mol01"> Moldavie</placeName>
+    <persName ref="people.xml#mav03"> Mavrocordato</persName>, Trois jours après nos troupes légères
+    amenèrent de <placeName ref="places.xml#buc01"> Boukarest</placeName>, Capitale de la <placeName
+     ref="places.xml#wal01"> Valachie</placeName>, le Prince ou Gospodar de celle çi <persName
+     ref="people.xml#ghi02"> Gregoire Gika</persName>, son frère et son fils, à <placeName
+     ref="places.xml#ias01"> Yassi</placeName> au Lieutenant Général Slotteln qui y comande. Tout
+    ses Messieurs passeront leurs Carnaval non pas à <placeName ref="places.xml#ven01">
+     Venise</placeName> mais à <placeName ref="places.xml#pet01"> Petersbourg</placeName>.
+     <placeName ref="places.xml#buc01"> Boukarest</placeName> est occupé présentement par nos
+    troupes. Il ne reste plus guère de poste dans la <placeName ref="places.xml#mol01">
+     Moldavie</placeName> aux Turks de ce côté si du <placeName ref="places.xml#dan01">
+     Danube</placeName>. Je Vous mande Monsieur ses détails afin que Vous puissiés juger de l'état
+    des choses, qui assurément n'ont point un aspect affligeant pour tout ceux qui come Vous veulent
+    bien s'interresser à mes affaires. Je croi ma Flotte à <placeName ref="places.xml#gib01">
+     Gibraltar</placeName>, si elle n'a pas encore franchi ce détroit. Vous saurés aprésent plutôt
+    de ses nouvelles que moi. Que Dieu conserve <persName ref="people.xml#mus01">
+     Moustapha</persName>, il conduit si bien ses affaires que je ne voudrais point que malheur lui
+    arrive, ses amitiés, ses liaisons tout y contribue. Son Gouvernement est si aimé de ses sujets
+    que les Habitans de <placeName ref="places.xml#gal01"> Galatzo</placeName> ce joignirent au
+    moment même de la prise à nos troupes pour courir sur le misérable reste du Corps Turks qui
+    venoit de les quitter et qui fuyoit à toutte jambes. Voilà Monsieur ce que j'avais à Vous dire
+    en réponse à Votre lettre remplie d'amitié du 28 9<hi rend="superscript">bre</hi>. Je Vous prie
+    de me continuer ses sentimens, dont je fais un si grand cas, et d'être assuré des miens.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

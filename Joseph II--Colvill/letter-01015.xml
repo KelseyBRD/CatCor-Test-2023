@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01015</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01015</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+ 
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:09:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01015">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1781-03-23">23 de mars 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. En remettant au courrier prochain la réponse que je dois à la lettre de V.
+    M. I. du 6 mars, qu’Elle me permette aujourd’hui de ne L’entretenir que du contenu de celle
+    qu’Elle m’a fait l’honneur de m’écrire le 17 mars, du plaisir, du contentement, mais surtout de
+    la reconnaissance que j’en ai ressentie pour les différentes marques d’amitié dont V. M. I. veut
+    bien m’honorer. Aurais-je pu croire, en ouvrant cette précieuse lettre que je tiens de Ses
+    bontés, qu’à la suite de l’arrangement définitif de la désagréable affaire de <persName
+     ref="people.xml#jul02"> Julius</persName>, qu’Elle m’annonce de la façon du monde la plus
+    flatteuse pour moi, et pour laquelle j’ose Lui présenter mes plus sincères remercîments, je
+    trouverai une proposition aussi intéressante que l’est celle d’un mariage entre M. l'archiduc
+     <persName ref="people.xml#fra04"> François</persName>, fils aîné de S. A. R. le <persName
+     ref="people.xml#leo01"> Grand-Duc de Toscane</persName>, et la <rs ref="people.xml#eli06">
+     cadette des soeurs</rs> de ma <rs ref="people.xml#mar02"> belle-fille</rs>? J’ai pris la
+    liberté de dire déjà à <persName ref="people.xml#jos01"> V. M. I</persName>. qu’il était
+    très-agréable d’avoir à faire à Elle; Sa lettre me confirme encore dans l’opinion qu’Elle devine
+    aisément la pensée des gens. Cette affaire parfaitement conforme à mes désirs, puisqu’il a plu à
+    V. M. I. de la confier à mes soins, je m’en vais Lui rendre un compte exacte de ce que j’ai fait
+    pour la mettre en train; mes démarches la feront juger de mon empressement. D’abord que j’ai
+    reçu Sa lettre, j’ai remis le même soir à <rs ref="people.xml#pau01 people.xml#mar02"> mes
+     enfants</rs> les lettres que V. M. I. leur a fait l’honneur de leur écrire. Ils les ont reçu
+    avec autant de reconnaissance que d’intérêt; j’ose joindre ici leur réponse. Dès le lendemain
+    j’ai expédié à <placeName ref="places.xml#mon01"> Montbeillard</placeName> un courrier au duc
+     <persName ref="people.xml#fri05"> Frédéric Eugène</persName> et à <rs ref="people.xml#fri04">
+     son épouse</rs>; je leur ai écrit que j’étais chargée de sonder leurs intentions sur une aussi
+    importante affaire pour leur maison et particulièrement pour la <persName ref="people.xml#eli06"
+     > Princesse Elisabeth</persName> leur fille cadette; (<rs ref="people.xml#pau01 people.xml#mar02">
+     mes enfants</rs> ont écrit avec le même courrier). Je leur ai dit de se presser de me répondre
+    et ne leur ai pas caché que j’allais envoyer ce courrier à V. M. I. pour Lui dire que j’avais
+    fait vis-à-vis d’eux cette démarche. Je ne doute point que leur réponse n’arrive vers le 21
+    d’avril de notre style. </p>
+   <closer><signed rend="inline">C’est avec tous les sentiments de la plus haute considération, de
+    l’estime et de l’amitié la plus sincère que je suis ....</signed></closer>
+   <postscript><p>P. S. Sur le compte de la <persName ref="people.xml#eli06"> Princesse de
+     Württemberg</persName> voici les notions que j’ai ; je ne doute pas que <persName
+     ref="people.xml#jos01"> V. M. I.</persName> n’en sache plus que moi, mais toujours faut-il que
+    je me satisfasse en Lui mandant que tant de figure que de caractère on la dit très-ressemblante
+    à ma <rs ref="people.xml#mar02"> belle-fille</rs>.</p></postscript>
+  </body>
+ </text>
+</TEI>

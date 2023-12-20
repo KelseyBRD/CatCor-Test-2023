@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00062</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00062</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-29">29 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup and tagging. Added translation.</p>
+            </change>
+            <change>
+                <date when="2014-02-05">3 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Themes.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00062">
+                <body>
+                    <div>
+                        
+                        <p>J'ai reçu de vous beaucoup de lettres; j'en ai une pour vous qui date du
+                            mois d'avril; je n'ai du temps pour rien, et ne fais presque rien
+                            pourtant.</p>
+                        <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+                    </div>
+                    <div>
+                        <p>Comme les temps sont changés! <persName ref="people.xml#hen01">Henri
+                                IV</persName> et <persName ref="people.xml#lou06">Louis
+                                XIV</persName> se disaient les premiers gentilshommes de leur
+                            royaume et se croyaient invincibles à la tête de cette noblesse. De leur
+                            temps les evêques et prédicateurs ne trouvaient d'autres textes dans la
+                                <title ref="works.xml#biblea01">bible</title> et autres <title
+                                ref="works.xml#holysc01">écritures sacrées</title> que ceux qui
+                            affermissaient l'autorité royale; la splendeur du règne de <persName
+                                ref="people.xml#lou06">Louis XIV</persName> se soutenait dans
+                            l'étranger jusqu'à nos jours. Je vous avoue que je n'aime pas les
+                            cordons bleus inscrits dans la garde de nuit, ni la justice sans
+                            justice, et ces barbares exécutions à la lanterne. Je ne saurais croire
+                            non plus aux grands talents de <rs ref="orgs.xml#nati01">savetiers et
+                                cordonniers</rs> pour le gouvernement et la législation; faites
+                            écrire une seule lettre par mille personnes, donnez-leur à mâcher chaque
+                            terme, et vous verrez ce qui en arrivera.</p>
+                        <closer><signed rend="inline">Adieu.</signed></closer>
+                    </div>
+                    <div>
+                        <p>J'ai lu tout ce temps-ci les <title ref="works.xml#memoir03">mémoires de
+                                la ligue</title>.</p>
+                        <p>Nous venons de recevoir l'agréable nouvelle que la ville et forteresse de
+                                <placeName ref="places.xml#ben01">Bender</placeName> sur le
+                                <placeName ref="places.xml#dni01">Dniester</placeName> s'est rendue
+                            à discrétion au <persName ref="people.xml#pot01">maréchal prince
+                                Potemkine Tavritcheski</persName>
+                            <rs ref="events.xml#bende01">le 4 novembre v. st</rs>., sans qu'il en
+                            ait coûté un seul homme à l'armée sous ses ordres. Il y avait dans la
+                            ville un sérasquier, deux pachas à trois queues et vingt mille hommes de
+                            garnison, outre un grand amas de munitions et d'approvisionnements, et
+                            aux environs de 400 canons sur les remparts.</p>
+                        <closer><signed rend="inline">Adieu. Portez-vous
+                                bien.</signed><dateline rend="below">
+                                <date when-custom="1789-11-15">Ce 15 nov. v. st.
+                                1789.</date></dateline></closer>
+                    </div>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <div>
+                        
+                        <p>I have received many letters from you. I have one for you that dates from
+                            the month of April. I have no time for anything, and yet I do almost
+                            nothing.</p>
+                        <closer><signed rend="inline">Good-bye. Keep well.</signed></closer>
+                    </div>
+                    <div>
+                        <p>How times have changed! Henri IV and Louis XIV called themselves the
+                            first gentlemen of their kingdom and thought themselves invincible at
+                            the head of that nobility. In their time, bishops and preachers found no
+                            texts in the Bible and the other holy scriptures save those that
+                            reinforced royal authority. Foreigners admired the splendour of the
+                            reign of Louis XIV up to the present day. I confess that I do not like
+                            to see the wearers of blue ribbons on night watch; nor do I like justice
+                            without justice, nor those barbarous executions on lamp posts. Nor can I
+                            believe in the great talents of cobblers and shoemakers in government
+                            and legislation; make a thousand people write a single letter, have them
+                            mull over every word, and you will see what will happen.</p>
+                        <closer><signed rend="inline">Good-bye.</signed></closer>
+                    </div>
+                    <div>
+                        <p>I have been reading the memoirs of the league all this time.</p>
+                        <p>We have just received the agreeable news that the city and fortress of
+                            Bender on the Dniester have surrendered unconditional to the Marshal
+                            Prince Potemkin Tavrichesky on 4 November O.S., without costing a single
+                            man in the army under his orders. In the city there were a serasker, two
+                            three-tailed pashas and a twenty-thousand-man garrison, besides a great
+                            heap of ammunition and provisions, and about 400 canon on the
+                            ramparts.</p>
+                        <closer><signed rend="inline">Good-bye. Keep
+                                well.</signed><dateline rend="below">
+                                <date when-custom="1789-11-15">This 15 Nov. O.S.
+                                1789.</date></dateline></closer>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

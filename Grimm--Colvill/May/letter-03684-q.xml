@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03684</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03684</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#history"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unclear which “Vestries” Catherine is talking about in this letter, so I was unable to
+     code</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-02">02-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:57:55Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03684">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1793-06-28">28 juin 1793</date>.</dateline></opener>
+    <p>J’ai reçu avant-hier trois de vos lettres ou plutôt trois paquets de comptes les plus
+     ennuyeux du monde. O <rs ref="people.xml#gri01"> souffre-douleur</rs>, vous donnez là dans le
+     plus mauvais des genres, et malgré la clarté admirable de toutes ces pièces justificatives, je
+     veux mourir si j’y entends rien. Je ne sais ce que je vous ai envoyé ou promis l’année passée,
+     mais ce que je n’ai pas oublié, c’est qu’il y avait six mille roubles pour madame du <persName
+      ref="people.xml#bue01"> Bueil</persName>; ceci est clair, entendez-vous?</p>
+    <p>Je pense que de quinze jours je ne finirai de lire ce qu’il vous a plu de m’envoyer à moi qui
+     suis enterrée dans l’histoire ou plutôt dans les chroniques de la <placeName
+      ref="places.xml#rus01">Russie</placeName>, que j’aime à la folie. Dans votre No 56 vous me
+     faites de jolis petits reproches; d’abord, vous me donnez l’épithète gentille de <seg
+      xml:lang="de"> große Meisterin im Stichelreden</seg>; puis vous ajoutez que je m’accroche aux
+     accessoires et que je glisse sur le fond de la chose. Voilà de belles et bonnes vertus
+     véritablement; eh bien, puisque c’est comme cela, je m’en vais vous accuser d’être jacobin,
+     ennemi des rois. Souvenez-vous, à la mascarade de <placeName ref="places.xml#pet02"
+      >Péterhof</placeName>, quand les deux tyrans du Nord rencontrèrent le philosophe et comme ils
+     lui chantèrent pouilles? Mais allez, allez, malgré tous nos défauts tyranniques on a plus
+     besoin de nous dans ce monde que jamais: voyez un peu comme l’on s’accommode sans nous.
+      Le <persName ref="people.xml#pan01">comte Panine</persName>, en parlant du nez et en faisant
+     hem hem à chaque pose, disait: <hi rend="italic">Les rois, les rois sont un mal nécessaire dont
+      on ne peut se passer</hi>, et quand je me plaignais que ci ou cela n’allait pas à souhait,
+     alors il me disait: <hi rend="italic">De quoi vous plaignez-vous? Si tout dans ce monde allait
+      au mieux ou était susceptible d'aller au mieux, on n'aurait pas besoin de vous autres</hi>. Eh
+     bien, la <placeName ref="places.xml#fra01">France</placeName> ou la Gaule d’à présent ne
+     prouve-t-elle pas cela à merveille? Or, quand je dis la Gaule, je m’entends bien moi, car en
+     chassant la noblesse de <placeName ref="places.xml#fra01">France</placeName>, qui ne voit
+     pas (expression favorite de <persName ref="people.xml#lav03"> Lavater</persName>) que ce sont
+     les Gaulois qui chassent leurs conquérants, les Francs, de la Gaule! (Or, un récenseur de
+      <persName ref="people.xml#lav03"> Lavater</persName>, ennuyé de voir continuellement cette
+     répétition exclamatoire de qui ne voit pas au bout d’un tel nez telle et telle chose, lui
+     répond: c’est moi qui ne le vois pas). Je vous excuse d’avance si vous me ferez cette même
+     réponse à cette page dans le style de <persName ref="people.xml#pin03"> Pindare</persName>. Mon
+     cher seigneur, vous nous prenez pour des bêtes, et cela après avoir été deux fois
+     en <placeName ref="places.xml#rus01">Russie</placeName>: vous croyez ou doutez si nous savons ce que c’est qu’un acte de
+     contrition; mais c’est fort, cela! Il est vrai que ce qui suit est plus fort encore, et c’est
+     bien là qu’on peut dire: <seg xml:lang="de"> Oh weh! Der Herr Schmerzdulder will uns zu
+      Paßgängern machen. Oh! Verflucht seien die miserablen Paßgängern, die nichts wie Nötherenen
+      anfangen sich ruiniren und keinen Zweck haben als Nötherenen</seg>! Tout est mal entendu avec
+     ces G u e u x-là qui prennent la vérité pour des absurdités et des absurdités pour des vérités.
+     Eh bien ! Mon cher monsieur, l’exemple de la <orgName ref="orgs.xml#targ01"> confédération de
+      Targowitza</orgName> n’a frappé que votre excellence: les autres ont continué dans leur chemin
+     battu; nous verrons ce qu’ils feront, mais si je dois être de la partie, ce ne sera pas dans le
+     chemin des sottises que je m’embarquerai. J’ai tâché de m’embarquer en-envoyant ou en
+     conseillant à M. <persName ref="people.xml#cha11"> d’Artois</persName> d’aller en <placeName
+      ref="places.xml#eng01">Angleterre</placeName>; il n’aurait pas débarqué en <placeName
+      ref="places.xml#fra01">France</placeName> sans moi, et peut-être aurions nous fini la bagarre,
+      <seg xml:lang="it"> ma</seg> là-bas on s’est servi du prétexte des dettes pour renvoyer ce
+      <persName ref="people.xml#cha11"> prince</persName> à <placeName ref="places.xml#ham02">
+      Hamm</placeName>. On ne veut ni là, ni nulle part ce qui peut servir à finir, et avec cela on
+     se plaint des dépenses qui doublent et triplent, parce qu’on ne prend pas les mesures qui
+     peuvent seules les terminer; enfin, c’est un salmigondis de politique et de vues
+     contradictoires dont vous voyez les misérables résultats. Ils veulent tous la paix, mais il n’y
+     a pas avec qui traiter, et personne ne prend les mesures convenables pour la faire; au
+     contraire, à la suite de ce qu’on fait, il est visible que la guerre se prolongera.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1793-08-05">5 d’août</date>, jour du départ de la
+       <persName ref="people.xml#fre06"> princesse Frédérique de <placeName ref="places.xml#bad01"
+        >Bade</placeName></persName> de <placeName ref="places.xml#tsa01"
+      >Tsarsko-Sélo</placeName>.</dateline></opener>
+    <p>Or, ce matin j’ai reçu de M. <persName ref="people.xml#str01"> Strékalof</persName>, le
+     conducteur de la susdite <rs ref="people.xml#fre06"> princesse</rs>, un paquet venant
+      de <placeName ref="places.xml#got01">Gotha-Grimma</placeName> par les mains de <persName
+      ref="people.xml#liv01"> Livio</persName>, successeur de <persName ref="people.xml#bac01">
+      Bacchus</persName>; cette petite pancarte est du 20 juin (1 juillet). J’ai un coin de ma table
+     chargé de vos lettres auxquelles je dois réponse, et pour ne pas l’oublier j’ai mis une vieille
+     chronique livonienne dessus vos lettres. Mais je n’ai pas le temps de répondre, parce que je
+     fais le second tome de généalogie pour l’histoire de <placeName ref="places.xml#rus01"
+      >Russie</placeName>, NB. que tous ceux qui ont touché à l’histoire de <placeName
+      ref="places.xml#rus01">Russie</placeName> sont tombés de faute en faute parce qu’ils n’avaient
+     pas cet ordre généalogique que nous allons leur fournir. Le <rs ref="works.xml#notice01">
+      premier tome</rs> est déjà imprimé et réputé livre classique à consulter à chaque pas qu’on
+     fait dans l’histoire de la <placeName ref="places.xml#rus01">Russie</placeName>; il finit à
+     l’an 1224, où Commence le second, qui va jusqu’au temps présent. Oh, que cette nomenclature est
+     charmante! c’est l’ouvrage vraiment d’un esprit paresseux qui n’a pas une idée. M. <persName
+      ref="people.xml#ela01"> Yélaguine</persName>, qui a mis l’histoire russe en style
+     déclamatoire, parce qu’il est éloquent et ennuyeux, raccommode présentement son histoire
+     d’après notre généalogie. Or, moi je trouve dans cette généalogie tout ce qui a rapport à
+     l’histoire, tout comme Vestris lisait le bonheur présent de la <placeName
+      ref="places.xml#fra01">France</placeName> dans le menuet de M. le dauphin d’alors. Donnez-moi
+     s’il vous plaît un conseil: faut-il que je commence à vous répondre par les plus vieilles ou
+     par les plus jeunes de vos lettres? Adieu pour le présent, car je crains que <persName
+      ref="people.xml#str01"> Strékalof</persName> ne m’échappe avec sa <rs ref="people.xml#fre06">
+      princesse</rs>; je me porte bien. Le voyage prétendu de M. <persName ref="people.xml#ale01">
+      Alexandre</persName> est une bêtise des gazetiers et un mensonge pur et plat. Il sera bien et
+     dûment marié d’ici à Noël. <placeName ref="places.xml#mai03"> Mayence</placeName> prisé,
+      l’<placeName ref="places.xml#ger01">Allemagne</placeName> n’a plus rien à craindre, mais
+      <placeName ref="places.xml#val01"> Valenciennes</placeName> et <placeName
+      ref="places.xml#con01"> Condé</placeName> sont conquête, et voilà pourquoi votre fille est
+     muette et les princes relégués à <placeName ref="places.xml#ham02"> Hamm</placeName>. </p>
+    <closer><signed rend="inline">Adieu, adieu, notre homme s’échappe.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

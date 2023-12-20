@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03697</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03697</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Cannot identify the “miller” she mentions, though he may be an author of a dictionary? </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-06">06-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:00:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03697">
+  <body>
+   <div>
+    <opener>
+     <dateline> Ce <date when-custom="1794-09-30">30 sept</date>.</dateline></opener>
+    <p>On m’a apporté hier la <title ref="works.xml#cosara01"> cosa rara</title>, et tout de suite
+     je l’ai fait cacheter et j’ai mis dessus No 4. En voilà donc quatre qui attendent l’occasion de
+     partir; en attendant j’ai reçu par le successeur de <persName ref="people.xml#bac01">
+      Bacchus</persName> deux paquets. Mais écoutez donc, vous qui êtes là au milieu du <placeName
+      ref="places.xml#hol01"> Saint-Empire Romain</placeName>, qu’est-ce qu’il en deviendra donc, de
+     cet empire? Un électorat est déjà à tous les diables; deux autres sont dans le plus grand et
+     éminent danger, et ses défenseurs? Le <persName ref="people.xml#fri03"> roi de <placeName
+       ref="places.xml#pru01"> Prusse</placeName></persName>, par exemple, le marquis <persName
+      ref="people.xml#luc01"> Lucchesini</persName> le mène grand train. Il n’y a pas de perfidie
+     qu’il ne lui fasse commettre, il le mène aussi à tous les diables. Il le fait pour parler avec
+      <persName ref="people.xml#kos01"> Kostiouchko</persName>; et c’est une politique avec laquelle
+     il n’y a pas moyen de convenir d’un seul fétu. <seg xml:lang="de"> Das sind die uniferabelften
+      Leute von der Welt</seg>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-10-01">1 d’octobre</date>, à 5 heures du
+      soir.</dateline></opener>
+    <p>Après mon dîner j’ai enlevé le sieur <persName ref="people.xml#kon01"> Constantin</persName>,
+     et je m’en suis allée au <placeName ref="places.xml#tau01"> palais Taurique</placeName>; j’ai
+     fait avec lui et quatre de ses soeurs le tour de l’immense jardin de ce palais; après quoi je
+     sais remontée en carrosse, et par le quai des Anglais je sais venue descendre à l’escalier de
+     parade, d’où je suis revenue dans ma chambre un peu fatiguée, à dire la vérité, mais de plus
+     jeunes que moi l’étant, je m’en console.</p>
+    <p>Depuis le huit septembre nous avons des jours d’été absolument. Mais écoutez donc, <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>, vous qui êtes un des oracles de l’<placeName
+      ref="places.xml#ger01"> Allemagne</placeName>, vous devriez prêcher au <persName
+      ref="people.xml#cha05"> duc de Weimar</persName>, qu’une soeur, quand son frère meurt sans
+     héritiers, autres qu’elle, est l’heritière de son frère pour tout ce qui a appartenu à ce frère
+     en propre, et qu’alors on ne va pas chercher des descendants d’<seg xml:lang="de">
+      Urgroßmutter</seg>, quand la descendance la plus proche du dernier possesseur existe.
+     Imaginez-vous que S. A. S. m’a annoncé par une lettre qu’il m’envoie une dissertation énorme
+     pour me prouver que c’est lui qui est l’héritier de <rs ref="people.xml#fri15"> mon frère</rs>,
+     non pas moi dans la seigneurie de <placeName ref="places.xml#jev01"> Iever</placeName>. Or
+     cette seigneurie ne lui appartient pas plus que l’affection des gens de ce pays, qui sont tout
+     gros de m’appartenir et qui levaient déjà partout les armes de la <placeName
+      ref="places.xml#rus01"> Russie</placeName> et voulaient endosser <orgName
+      ref="orgs.xml#coss01"> cosaques</orgName> vertes et rouges, mais je leur ai conseillé de
+     garder les armes de la seigneurie. J’ai donné l’administration à ma <rs ref="people.xml#fri16">
+      belle-soeur</rs>, et je leur ai envoyé mon portrait en pied qu’on m’a demandé à corps et à
+     cris. Ils seront malheureux comme des pierres quand ils sauront que <persName
+      ref="people.xml#cha05"> S. A. S</persName>. me dispute cette possession. Il me paraît par la
+     lettre que M. le <persName ref="people.xml#goe01"> comte Goertz</persName> le boutonné,
+     ci-devant gouverneur de <persName ref="people.xml#cha05"> S. A. S</persName>., a remis de la
+     part du <rs ref="people.xml#cha05"> duc d. S. W</rs>. à mon chargé d’affaire à <placeName
+      ref="places.xml#reg01"> Ratisbonne</placeName>, que <persName ref="people.xml#cha05"> S. A.
+      S.</persName> n’est pas éloignée de me céder ses prétendus droits pour une compensation. Ne
+     pourriez-vous pas savoir par le <persName ref="people.xml#ern01">duc de <placeName
+       ref="places.xml#sax01"> Saxe</placeName>-<placeName ref="places.xml#got01">
+      Gotha</placeName></persName> en quoi cette compensation pourrait consister à peu près? Car
+     j’aimerais mieux que ce prétendu droit me revînt qu’à tout autre. Au fond, le <persName
+      ref="people.xml#cha05"> duc de Saxe-Weimar</persName> n’a pas plus de droit que le <persName
+      ref="people.xml#ern01"> duc de <placeName ref="places.xml#sax01"> Saxe</placeName>-<placeName
+       ref="places.xml#got01"> Gotha</placeName></persName> lui-même, qui est aussi descendant d’une
+     soeur d’un prince d’Anhalt-Zerbst, possesseur de <placeName ref="places.xml#jev01">
+      Iever</placeName>, d’après lequel mon <rs ref="people.xml#joh01"> oncle</rs> et mon <rs
+      ref="people.xml#chr03"> père</rs> ont hérité, par conséquent mon <rs ref="people.xml#fri15">
+      frère</rs>, duquel je suis l’héritière très legitime. Cependant je n’entends pas parler un mot
+     des prétentions de la maison de <placeName ref="places.xml#got01"> Gotha</placeName>, tandis
+     que le <persName ref="people.xml#cha05"> duc de Weimar</persName> s’annonce. J’aurais presque
+     envie de supposer que c’est l’abominable politique du cabinet de <placeName
+      ref="places.xml#ber01"> Berlin</placeName> qui suscite ce compétiteur pour lui acheter ses
+     prétentions, en cas que je refuse, et au fond pour en temps et lieu annexer la seigneurie de
+      <placeName ref="places.xml#jev01"> Iever</placeName> à l’<placeName ref="places.xml#eas01">
+      Ostfrise</placeName>. Ces gens-là sont d’une perfidie si odieuse qu’il faut s’attendre d’eux à
+     tout ce qui est moralement mauvais. Les Polonais ont fait imprimer tout au long la conversation
+     du vertueux <persName ref="people.xml#man05"> Manstein</persName> avec <persName
+      ref="people.xml#zai02"> Zaionczek</persName>; c’est un chef-d’oeuvre de bêtise. Si la sagesse
+     caractérise le règne de l’<persName ref="people.xml#fri17"> électeur
+       de<placeName ref="places.xml#sax01"> Saxe</placeName></persName>, la justice ne l’accompagne pas
+     toujours, car il retient, depuis la mort de <rs ref="people.xml#fri15"> mon frère</rs>, à la
+     maison d’Anhalt un baillage qu’elle a possédé depuis plus de deux cents ans sans interruption,
+     mais malgré cela son surintendant des bâtiments peut être un homme d’un mérite distingué; ce
+     qu’il y a de sûr encore, c’est qu’il ne gagne rien sur les <seg xml:lang="de">
+      Bauanschläge</seg>; car l’<rs ref="people.xml#fri17"> électeur</rs> ne bâtit jamais.—Ce
+     dictionnaire de Miller, selon ce que vous m’en dites, serait un livre à recommander à la
+     société économique de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, qui mendie
+     toujours et même escamote quand on la laisse faire. Je lui ai déjà fait demander si c’est là ce
+     qu’elle appelle économie? Imaginez-vous que la gaz. . . .</p>
+   </div>
+   <div hand="people.xml#unknown">
+    <head>Copie de la lettre de <rs ref="people.xml#cat01"> Sa Majesté
+      Impériale</rs> au <persName ref="people.xml#cha05"> duc de Saxe-Weimar</persName> eu date du
+     23 mars 1795</head>
+    <p>Monsieur mon cousin, la lettre de <rs ref="people.xml#cha05"> V. A. S</rs>. et la déduction
+     qu’elle y avait jointe pour constater ses droits sur la succession de <placeName
+      ref="places.xml#jev01"> Iever</placeName>, dérivés de sa bisaïeule la princesse <persName
+      ref="people.xml#sop05"> Sophie Auguste d’Anhalt-Zerbst</persName>, me sont exactement
+     parvenues. Je suis persuadée que <rs ref="people.xml#cha05"> V. A</rs>., en examinant elle-même
+     ses titres de plus près, n’aura pas de peine à se convaincre qu’eu égard à ma qualité de soeur
+     et unique héritière légale de <rs ref="people.xml#fri15"> feu mon frère</rs>; j’ai disposé,
+     selon mes droits incontestables, de toute cette succession, du moment qu’elle m’est tombée en
+     partage; et il ne lui sera par difficile d’en tirer la conséquence qu’il ne dépend plus de moi
+     de faire là-dessus aucun autre arrangement.</p>
+    <closer><signed>Je suis avec des sentiments distingués etc.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

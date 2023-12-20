@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00683</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00683</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-03">3 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00683">
+                <body>
+                    <opener><dateline>Из Мшаги,<date when-custom="1780-06-09">июня 9 ч.
+                            1780</date></dateline>
+                    <salute rend="inline">Батинька Князь,</salute></opener>
+                    <p>письмо твое из Вязьмы, приехавши сюда в 10-том часу вечера, сегодни я
+                        получила, из которого усмотрела, что <persName ref="people.xml#jos01">Гр[аф]
+                            Фалькенштейн</persName>, а ты за ним, полетели к <placeName
+                            ref="places.xml#mos01">Москве</placeName>. Мы все, равно и дети Ваши,
+                        здоровы. Я их везу скоренько, думаю быть в пятницу дома. Спешу, чтоб Вы меня
+                        не упредили. Буде Вас найду в Новогороде, то увезу с собою. Вы подумаете,
+                        что брежу; нет не брежу, но знаю, что с проворными людьми дело имею. Буде
+                        гость заботится еще знать мое о нем мнение, то можете сказать, что <seg
+                            xml:lang="fr">je pense qu'aucun Souverain presentement vivant ne
+                            l'approche en fait de merite et de connaissances et de politesse; je
+                            suis enchantee d'avoir fait sa connaissance; comme particulier meme ce
+                            serait une excellente connaissance a faire. Adieu, mon bon
+                            Ami.</seg></p>
+                    <p>Будь уверен, что моя к тебе дружба равна твоей ко мне привязанности, которой
+                        цены не ставлю. За каврижки благодарствую. Ал[ександр] Дм[итриевич] просил
+                        Вам поклониться, без Вас скучаем, нивесть как долго не видали.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

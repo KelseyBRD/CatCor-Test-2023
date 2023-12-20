@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01052</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01052</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:18:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01052">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1783-07-30">30 juillet 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. La part que V. M. I. a bien voulu témoigner prendre à ce qui me regarde,
+    me fait espérer qu’Elle partagera ma satisfaction au sujet de la naissance de ma <rs
+     ref="people.xml#ale02"> petite-fille</rs> dont la <persName ref="people.xml#mar02">
+     Grande-Duchesse</persName> ma bru vient d’accoucher le 29 juillet. La <rs
+     ref="people.xml#mar02"> mère</rs> et <rs ref="people.xml#ale02">l’enfant</rs> se portent à
+    merveille. En m’empressant de mander cette bonne nouvelle à V. M. L, je saisis avec joie la même
+    occasion pour Lui renouveler les assurances de la plus haute estime et de l’amitié sincère avec
+    lesquelles je ne cesserai jamais d’être ....</p>
+  </body>
+ </text>
+</TEI>

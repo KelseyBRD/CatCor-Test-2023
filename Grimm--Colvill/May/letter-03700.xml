@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03700</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03700</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-07">07-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:01:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03700">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1794-12-08">8 décembre</date>.</dateline></opener>
+   <p>J’ai reçu hier par les <persName ref="people.xml#liv01"> Livio</persName> votre lettre du 12
+    (23) nov., et comme j’y ai vu que vous avez je ne sais quoi à me communiquer, j’ai ordonné de
+    vous envoyer cet homme-ci tout exprès. Je ne saurais finir cette lettre, parce que j’ai une
+    espèce d’érysipèle à la tête, dont je souffre terriblement et qui m’empêche de pouvoir faire la
+    moindre chose. 11 y a douze jours que je n’ai presque dormi ni mangé, et les médecins n’ont pas
+    le sens commun; je me tue de leur dire que c’est un spasme, et aujourd’hui, ayant pris le mors
+    aux dents, j’ai commencé à traiter mon mal en spasme, et ai fait usage du plus grand
+    antispasmodique que je connaisse, des gouttes de Bestoujef, et voilà que j’ai dormi pendant une
+    heure, et voilà que je puis vous écrire, et voilà que les docteurs sont des bêtes; et voilà que
+    j’ai raison, et voilà qu’il faudra donner des remèdes au <persName ref="people.xml#fri03"> roi
+      de <placeName ref="places.xml#pru01"> Prusse</placeName></persName>, s’il continue à agir et à
+    faire comme il fait, et pour cela je ne connais pas de meilleur administrateur que le maréchal
+    comte des deux empires, et il vous poussera dans les reins de cet homme-là des gourmades qui le
+    rendront moins spasmatique quand il faudra agir.</p>
+   <p>Ecoutez donc, jetez au feu tout de bon mes lettres; je ne veux pas qu’elles soient lues ni par
+    les démagogues ni par les constitutionnels, que je ne peux pas souffrir, parce que ce sont eux
+    qui sont accouchés de tous les maux présents et futurs de la <placeName ref="places.xml#fra01">
+     France</placeName>. Je ne vous dis pas un mot delà prise de <placeName ref="places.xml#war01">
+     Varsovie</placeName> ni de <placeName ref="places.xml#pra01"> Prague</placeName> : vous savez
+    tout cela aussi bien que moi ; vous savez aussi que le <persName ref="people.xml#suv01"> comte
+     des deux empires</persName> a été fait maréchal; vous savez aussi qu’aux malades on défend
+    d’écrire. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

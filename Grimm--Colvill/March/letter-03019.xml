@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03019</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03019</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-14">14/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:39:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03019">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1778-11-19">19 novembre 1778</date>.</dateline></opener>
+   <p>Un rhume de cerveau qui m’incommode beaucoup depuis quelque temps, m’oblige de rester
+    aujourd’hui au lit, parce que cette nuit une sueur singulière, qui me poursuivait déjà depuis
+    trois jours (ayant apparemment trouvé le moment favorable), s’est emparée de moi ; or, M.
+    <persName ref="people.xml#kel01"> Kelchen</persName> a opiné pour rester dans le lit en pleine fainéantise, et c’est cette
+    fainéantise entière et plénière de l’avis de <persName ref="people.xml#kel01"> Kelchen</persName>, qui m’a renvoyée de mon
+    cabinet et m’a fait coucher entre deux draps, qui vous procure cette lettre, car, ai-je dit, il
+    faut lui écrire: puisque l’on veut que je ne travaille pas, amusons-nous. Reste à savoir si cela
+    sera amusant pour vous, mais il me semble que ma plume est enrhumée aussi; prenons en une autre.
+    La voilà prise; à présent voyons un peu ce que je vous dirai. Voulez-vous savoir d’où vient que
+    toute là caravane des lettres de <persName ref="people.xml#vol01"> Voltaire</persName> et des présents pour <persName
+     ref="people.xml#den02"> Mme Denis</persName> ne sont pas arrivés, jusqu’ici, chez vous? je vous
+    le dirai. Ils ne sont pas encore partis de céans; on copie les lettres, et les présents
+    attendent les lettres.</p>
+   <p>J’ai entendu dire ces jours-ci que <persName ref="people.xml#pan05"> Panini</persName>,
+    peintre à <placeName ref="places.xml#rom03"> Rome</placeName>, vendait les tableaux de l’intérieur de toutes les basiliques
+    possibles; j’ai prié <persName ref="people.xml#shu02"> M. de Schouvalof</persName> d’écrire au
+    divin <persName ref="people.xml#rei03"> Reiffenstein</persName> d’en faire l’acquisition pour
+    moi; je vous prie aussi de vouloir bien recommander et les basiliques et moi dans l’occasion, à
+    la même enseigne, et informez-vous, s’il vous plaît, en même temps, avec toute la discrétion
+    convenable, des ouvrages de <persName ref="people.xml#men01"> Meng</persName>s. Viendra-t-il
+    enfin ce jour où je dirai: j’ai vu de l’ouvrage de Mengs? Mais n’allez pas de nouveau mander
+    toutes ces folies à <placeName ref="places.xml#rom03"> Rome</placeName>; je crains, comme de raison, la critique des monsignori
+    et celle des cardinaux. Mais à propos de cela, le comte <persName ref="people.xml#orl03"> Alexis
+     Orlof</persName> a écrit en <placeName ref="places.xml#ita01"> Italie</placeName> pour faire venir la <persName
+     ref="people.xml#oli01"> Corilla</persName> et <persName ref="people.xml#nar03">
+     Nardini</persName>. Savez-vous, nous devenons plus art, science, musique etc. que jamais.
+    Depuis certain baron qui braquait sa lorgnette dans le gosier de la <rs ref="people.xml#bon01">
+     bonna fina</rs> et qui pleurait d’aise ou d’attendrissement lorsqu’il entendait japer la
+     <persName ref="people.xml#gab01"> Gabrieli</persName>, je n’ai jamais vu personne plus
+    réellement goûter tons les sons de l’harmonie que Pyrrhus, roi d’Epire, dont le profil partira
+    avec les bijoux <persName ref="people.xml#den02"> Denis</persName> et les lettres
+    de <persName ref="people.xml#vol01"> Voltaire</persName>: <seg xml:lang="de"> das ist denn wohl (so könnten gewisse
+     Bürgermeister sagen ohne dennoch zu wissen was sie sagen für besondre Seelen besondre
+     Seligkeiten.</seg> Tout cela dépend de l’organisation, n’est-il pas vrai? La mienne est
+    vicieuse; je meurs d’envie d’écouter et d’aimer la musique, mais j’ai beau faire, c’est du
+    bruit, et puis c’est tout. J’ai envie d’envoyer à votre nouvelle société de médecine un prix
+    pour celui qui inventera un remède efficace contre l’insensibilité aux sons de l’harmonie.
+    Dites-moi un peu, pourquoi le roi très chrétien a rassemblé tous ces charlatans pour parler de
+    charlatanerie? Croit-il aux médecins? Ne suffisait-il pas d’une faculté qui eût droit de les
+    créer? Savez-vous bien que c’est <persName ref="people.xml#car01"> Mlle Cardel</persName> qui
+    m’a rendue mécréante en fait de médecins et de médecine: elle était toujours à me faire lire les
+    comédies de <persName ref="people.xml#mol01"> Molière</persName>. Alors l’éducation n’était pas encore aussi épurée qu’à
+    présent, où la <persName ref="people.xml#mar02"> grande-duchesse</persName> m’a dit que les
+    bonnes moeurs n’en permettaient plus ni la lecture, ni la représentation; c’est dommage, car
+    jusque là je la trouvais très bonne. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien, vous voyez bien que je n’ai plus rien à vous
+    dire d’aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

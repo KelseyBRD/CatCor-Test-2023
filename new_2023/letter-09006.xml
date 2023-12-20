@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09006</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09006</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09006">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1784-07-13">1784 г. июля 13.</date>
+                </dateline>
+            </opener>
+            <p><persName ref="people.xml#her01">Герберштейна</persName> из <persName ref="people.xml#mul02">Миллеровы</persName> библиотеки взять— <title xml:lang="fr" ref="works.xml#rermos01">Chronique</title> <rs ref="people.xml#her01">его</rs>, хотя полатыни. Мы переведем здесь порусски, буде на ином языке иметь не можно,—о чем наведаться
+                <note type="editorial">
+                    According to A.V. Khrapovitskii's letter to <persName ref="people.xml#pop01">V.S. Popov</persName> from <date when-custom="1794-11-29">November 29 1794</date>, the Russian translation of <persName ref="people.xml#her01">Herberstein</persName>'s <title ref="works.xml#rermos01">Commentarii</title> either existed or was created: "Доставлено к <persName ref="people.xml#zub03">гр. Пл.Ал. Зубову</persName>, записка бар. фон Герберштейна на российском языке. Манускрипт в сафьяном переплете in folio" (  
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskago 1782-1793</title>
+                        , <biblScope unit="pp">pp. 468.</biblScope>
+                    </bibl>
+                    ). 
+                </note>.</p>
+        </body>
+    </text>
+</TEI>
+
+

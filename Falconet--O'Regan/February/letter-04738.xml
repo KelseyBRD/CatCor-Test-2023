@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04738</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04738</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="enclosure">Inclusion mentioned in first paragraph and postscript (see
+                    Russian footnote in PS?)</note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-13">13/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:03:12Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-04-16">16/04/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Queries resolved and markup
+                corrected.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04738">
+        <body>
+
+
+            <opener><dateline> А <placeName ref="places.xml#mos01"> Moscou</placeName>, се <date
+                        when-custom="1767-11-04">4 Novembre 1767</date>.</dateline></opener>
+            <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, les trois incluses
+                répondront suffisamment aux trois premiers paragraphes de votre lettre du 18 Octobre
+                1767 et disculperont M. <persName ref="people.xml#did01"> Diderot</persName>, votre
+                ami, sur les reproches que vous lui avez faits; l’on ne peut être en même temps et
+                au bon Dieu et au Diable, dit, s’il m’en souvient bien, <rs ref="works.xml#biblea01"
+                    >l’Evangile</rs>. Vous me remerciez du ton de confiance que j’ai pris avec vous,
+                mais c’est à moi à vous remercier de ce que Vous me distinguez du nombre de mes
+                confrères qui la plupart sont, dit-on, peu propres à devenir les confidents des gens
+                de mérite.</p>
+            <p>Gardez les 20 pages de <rs ref="people.xml#did01"> votre ami</rs> pour ceux qui les
+                ont lues et ne les faites point lire à... elles sont brûlées selon votre lettre,
+                dont j’ai lu et l’original et la copie. Je reviendrai pour sûr vers la fin de
+                Janvier à  <placeName ref="places.xml#pet01"> St-Pétersbourg</placeName> et je me
+                réjouis d’avance de voir la course, le coursier, le <rs ref="works.xml#pierre01"
+                    >Législateur</rs> et le <rs ref="works.xml#falcon01">buste</rs> de <rs
+                    ref="people.xml#fal01">celui dont le nom, le visage et les œuvres iront malgré
+                    lui à la postérité</rs>. </p>
+            <closer><signed rend="inline"><persName ref="people.xml#cat01" type="signature">
+                        Catherine</persName>.</signed>
+            </closer>
+            <postscript>
+                <p>Renvoyez-moi les incluses par la même voie du maître de poste.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

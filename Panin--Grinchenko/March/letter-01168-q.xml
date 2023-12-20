@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01168</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01168</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>abbé Giot?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-22"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01168">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#mur01">Мурома</placeName>.<lb/>
+                <date when-custom="1767-06-12">Июня 12 числа, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Не так чорт страшен, как об нем сказывают, говорит пословица; нам грозили прескучным
+                переездом чрез <placeName ref="places.xml#oka01">Оку</placeName>, и будто
+                одиннадцать верст перевоз, а в самом деле мы пяти минут не были на воде и только
+                двести сажень переехали; вода чрез несколько суток таким неслыханным образом сбыла,
+                и сего утра в шесть часов мы сюда приехали: все спят, окроме меня, изволь со мной
+                скуку делитъ; я надосуге сделаю Вам короткое описание того, что приметила дорогою.
+                Где чернозем и лутчия произращения, как то <placeName ref="places.xml#uly01"
+                    >Синбирская</placeName> провинция и половина <placeName ref="places.xml#ala01"
+                    >Алатырской</placeName>, там люди ленивы, и верст по пятнадцами пусты, не
+                населены а земли не разработаны. От <placeName ref="places.xml#ala01"
+                    >Алатыря</placeName> до <placeName ref="places.xml#arz01">Арзамаса</placeName>,
+                и от сего места до <placeName ref="places.xml#mur01">Муромских</placeName> лесов,
+                земли час от часу хуже, селении чаще и ни пяди земли нет, коя бы не была разработана
+                и хлеб лутче, нежели в первых сих местах, и, <seg xml:lang="fr">en dépit du
+                    misérable abbé Giot</seg>, нигде голоду нет, и истинно везде хлеба прошлогодняго
+                не молоченнаго мало, естьли скажу вдвое противу того, что съесть могут в один год,
+                не продают же, страшась двулетняго неурожая; по городам рубли же по три четверть, а
+                по деревням везде излишество; мужики же говорят: ныне на все Бог дал цену: хлеб
+                дорог и лошади дороги и все дорого, и за то Богу благодарят, у пахатных солтат
+                особливо, в хижинах живут, а скирдов с хлебом безщетное множество. <persName
+                    ref="people.xml#pau01">Великому Князю</persName> прошу кланяться, я в исходе сей
+                недели с Вами буду. Мы все здоровы, только к Вам приедим <seg xml:lang="fr">ce qu'on
+                    appelle fatigués à mourir et sur les dents</seg>; днем за жаром ехать нельзя; и
+                так уже четыре ночи никто постели не видал, а спят днем; и так когда вы ночи
+                прописываете на сквозь, знайте, что мы тогда скачем.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

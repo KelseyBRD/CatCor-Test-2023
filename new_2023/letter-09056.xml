@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09056</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09056</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#education"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09056"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-06-01">1788 г. июня 1.</date>
+                </dateline>
+            </opener>
+            <p>Написать к <persName ref="people.xml#pas02">Пассеку</persName>, чтоб прислал реестр по именам, каких лет и какой нации ученики у <orgName ref="orgs.xml#jesu01">иезуитов</orgName> в <rs ref="orgs.xml#jesu02">Полоцкой</rs> и других <rs ref="orgs.xml#jesu01">сего ордена</rs> школах, и новицияты учатся как давно и с каким успехом.
+                <note type="editorial">
+                    In 1773 <persName ref="people.xml#cle04">the Pope Clement XIV</persName> banned <orgName ref="orgs.xml#jesu01">the Order of Jesuits</orgName>. Russian Empire did not support this ban and the Jesuits continued to exist on its territory (
+                    <bibl>
+                        <title ref="works.xml#iesuit01">Iesuity v Rossii, s tsarstvovaniia Ekateriny II i do nashego vremeni.</title>
+                        , <biblScope unit="pp">pp. 20,27.</biblScope>
+                    </bibl>
+                    ). In 1780, a novitiate was opened at the <orgName ref="orgs.xml#jesu02">Jesuit College in <placeName ref="places.xml#pol02">Polatsk</placeName></orgName> (
+                    <bibl>
+                        <title ref="works.xml#polots01">Polotskaia akademiia. 1812-1820.</title>
+                        , <biblScope unit="pp">pp. 36.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

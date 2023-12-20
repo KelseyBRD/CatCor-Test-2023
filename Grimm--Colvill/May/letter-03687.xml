@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03687</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03687</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#history"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-03">03-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:58:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03687">
+  <body>
+  
+    <opener><dateline> Ce <date when-custom="1794-01-12">12 janvier 1794</date>.</dateline></opener>
+    <p>Le ciel a destiné ce jour apparemment pour que je vous présente mes compliments sur la
+     nouvelle année, car jusqu’à ce jour je n’ai pas trouvé un moment à le faire, grâce aux affaires
+     et aux vieilles chroniques. Parvenue à l’année 1321, j’ai fait une pause et j’ai donné à copier
+     à peu près huit cents pages de griffonnage. Imaginez-vous quelle rage d’écrire de vieux
+     événements dont personne ne se soucie et que personne ne lira, j’en suis sûre, excepté deux
+     pédants, l’un nommé <seg xml:lang="de"> Bolckner</seg>, mon traducteur, l’autre <seg
+      xml:lang="de"> Buße</seg>, bibliothécaire de l’académie, qui s’efforce à louer mon exactitude
+     etc. dans des journaux que pas quatre personnes lisent en <placeName ref="places.xml#eur01">
+      Europe</placeName>, et moi je suis contente d’avoir mis en ordre tout ce qui peut servir pour
+     l’histoire mieux qu’on n’a fait jusqu’ici. On dirait que je suis payée pour faire cela, tant
+     j’y mets de soin et de travail et d’intelligence et de sagacité, et quand j’ai fini une page,
+     je dis: «ah! que cela est beau, cela est charmant, cela est admirable», mais je n’ai garde de
+     le dire à âme qui vive, excepté vous, car on se moquerait de moi, comme vous le jugez bien.
+     Mais, <rs ref="people.xml#gri01"> souffre-douleur</rs> confident: tout cela ne répond pas à vos
+     pancartes, me direz-vous. J’en conviens, mais la rage de l’histoire a emporté ma plume. <seg
+      xml:lang="de"> Die Ränke der Mißgunst, die sitzen jetzt, wo sie sitzen; das Sprichwort sagt:
+      kommt Zeit – kommt Rath und die Nötherenen bleiben im Nöthe, so wie auch die Nöther</seg>.
+     Cela n’est-il pas beau? Eloquent et spirituoso. Pour M. <persName ref="people.xml#ela01">
+      Yélaguine</persName>, il est mort, et son histoire restera probablement non achevée; mais il a
+     laissé un fatras inoui qu’il a écrit sur la maçonnerie, qui démontre qu’il était devenu fou.
+     Bien loin d’envier le bonheur du prince <persName ref="people.xml#hen02"> Henri</persName> de
+     posséder le pendant de <persName ref="people.xml#ela01"> Yélaguine</persName>, j’en suis
+     enchantée; les voilà ivres d’eau tous les deux; je me félicite, moi, de n’être point de leurs
+     délices en tiers. Votre demi-favori <persName ref="people.xml#jos03"> Josias</persName> est
+     très bon dès qu’il a le colonnel <persName ref="people.xml#max01">Max</persName> à ses côtés;
+     c’est le pendant de <persName ref="people.xml#bau01"> Bauer</persName>, et lui seul vaut mieux que tous
+     les héros de cette guerre. Vous vous lamentiez sur les événements lorsque vous m’écriviez par
+      <persName ref="people.xml#sch08"> Charles Schweizer</persName>; à présent que direz-vous quand
+     tout va de mal en pis, que le régent n’ira pas à <placeName ref="places.xml#tou03">
+      Toulon</placeName>, parce que <placeName ref="places.xml#tou03"> Toulon</placeName> est
+     évacué, que le comte <persName ref="people.xml#cha11"> d’Artois</persName> est encore à
+      <placeName ref="places.xml#ham02"> Ham</placeName>, parce que les amiraux anglais ne savent
+     pas aborder en <placeName ref="places.xml#bri01"> Bretagne</placeName>. <seg xml:lang="de">Alles das ist nicht Wind und Wetter; das ist die
+      miserabelste Paßgängern; freilich werden sich die Höllenbalge selbst auffressen und aufreiben,
+      aber unterdessen ist kein Friede zu hoffen, und alle verlieren Geld und Leute.</seg></p>
+    <p>Voilà encore une pancarte à laquelle faut répondre; c’est № 67. Je n’ai pas besoin d’agent
+     à <placeName ref="places.xml#rom03"> Rome</placeName>. Mais dites-moi si vous avez reçu par les frères <persName ref="people.xml#liv01"> Livio</persName> et le correspondant de <placeName
+      ref="places.xml#fra03"> Francfort</placeName> mon billet accompagné de quelques chiffons pour
+     faire aller la marmite souflfre-douleurienne; je meurs de peur qu’il n’ait été volé en chemin;
+     au reste <persName ref="people.xml#liv01"> Livio</persName> ne sait pas lui-même ce qu’il a
+     envoyé; non pas que je me défie de lui, mais les effets étaient d’un autre. Oh! comme vous me
+     gronderez et me critiquerez sur cet esclandre; mais je voulais faire un coup de force et de
+     vitesse, et voilà pourquoi <seg xml:lang="de"> die Sache so unordentlich scheint</seg>. Je
+     n’achète plus rien du tout: je veux payer mes dettes et amasser de l’argent; ainsi refusez tous
+     les achats qu’on vous proposerait. </p>
+   <closer> <signed rend="inline">Adieu, il faut finir.</signed>
+    <dateline> Ce <date when-custom="1794-01-13">13 janvier</date>, à huit heures du matin.</dateline></closer>
+   
+  </body>
+ </text>
+</TEI>

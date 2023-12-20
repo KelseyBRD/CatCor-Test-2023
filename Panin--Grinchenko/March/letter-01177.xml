@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01177</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01177</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-24"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01177">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Из письма Вашего, от 25 Генваря, усмотрела я, что <persName ref="people.xml#pau01"
+                    >сын</persName> мой, благодаря Бога, здоров и что Вы <placeName
+                    ref="places.xml#war01">Варшавскими</placeName> депешами довольны. Вы очень
+                хорошо сделали, что Вы <persName ref="people.xml#rep01">Репнину</persName>
+                предписали на уничтожение нонциатуры не настоять у <orgName ref="orgs.xml#sejm01"
+                    >Сейма</orgName>, естьли то прочия дела портить может, ибо самое ненастояние
+                сего пункта еще менее показывает вид гонения, следовательно, сходнее будет с образом
+                наших мыслей. Признаюсь, что весьма любопытна видеть Ваши ответы, и надеюсь, знав
+                Ваше искуство, что Вы ничего не пророните того, что к поспешению сих дел служить
+                может. Из <persName ref="people.xml#kho01">Хотинскаго</persName> реляции увидите,
+                что <persName ref="people.xml#jos02">Принц Карл Курляндской</persName> посажен в
+                    <placeName ref="places.xml#bas02">Бастилию</placeName>; и так ожидаю, что Вы мне
+                советовать будете в разсуждении того, что он в нашей службе Генерал-Маиор; <seg
+                    xml:lang="fr">il est vrai, que c'est un garnement et qu'il y a toute apparence,
+                    que c'est pour un vol, et qui plus est, cela ne lui arrive pas pour la première
+                    fois</seg>.</p>
+            <closer rend="inline">Прощайте, будьте здоровы, и приезжайте скорее к нам,<lb/>
+                <dateline><date when-custom="1768-01-29">Генваря 29 ч., 1768.</date></dateline>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

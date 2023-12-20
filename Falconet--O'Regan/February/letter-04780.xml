@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04780</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04780</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Coded VMI as a person, Votre Majesté Impériale. Kelsey: Corrected to refer to Catherine.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-24">24/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:06:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-22">22/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected and query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04780">
+  <body>
+
+   <opener>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,</opener>
+   <p>je suis très-contente du dernier médaillon de M-lle <persName ref="people.xml#col02">
+     Collot</persName>; on grave un coin de médaille d’après ce médaillon. Quand <persName
+     ref="works.xml#didero01"> Diderot</persName> sera achevé, je le verrai avec plaisir.</p>
+   <p>Je ne sais pourquoi vous me dites </p>
+   <q rend="inline">«je réclame le droit de tous les hommes honnêtes, qui ont le bonheur de pouvoir
+    s’adresser à <rs ref="people.xml#cat01"> V. M. I</rs>., celui de prouver que je ne suis pas
+    aussi répréhensible qu’on voudrait bien le faire croire». </q>
+   <p>Car je ne vous ai point cru répréhensible.</p>
+   <p> Je crois que c’est moi qui ai donné lieu au refus, qu’on vous a fait de la petite
+    augmentation que vous avez demandée; mais indirectement, je réparerai cela, le fait serait
+    inutile et trop long à conter. Vous logerez où il vous plaira, je l’ai dit, et j’aime à tenir ce
+    que j’ai dit; il est vrai qu’on doit bâtir où vous demeurez, mais ce bâtiment ira après ma
+    parole donnée.<note type="editorial">Letter dated 1772 by Réau, <ref target="works.xml#corres04"
+      >Correspondance de Falconet avec Catherine II</ref>, p. 188. <ref target="works.xml#sborni01"
+      >SIRIO</ref> dates it to 1770.</note></p>
+  </body>
+ </text>
+</TEI>

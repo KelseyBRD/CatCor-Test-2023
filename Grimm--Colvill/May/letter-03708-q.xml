@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03708</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03708</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) unclear which daughter of the Friedrich Wilhelm Catherine is talking about (2) Could not
+     identify Dadais le Grand.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:03:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03708">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-09">9 d’avril</date>.</dateline></opener>
+    <p>Que dit-on de <rs ref="people.xml#pau01"> Secondât</rs> en <placeName ref="places.xml#ger01">
+      Allemagne</placeName>? ici on continue à en dire beaucoup de mal; il est vrai aussi qu’il se
+     fait le plus d’ennemis qu’il peut.</p>
+    <p>Hier j’ai donné ici un petit bal où mes Lithuaniens ont dansé autant qu’ils ont pu, et
+     paraissaient s’amuser beaucoup.</p>
+    <p>Ce 9 d’avril, à 4 heures après dîner.</p>
+    <p>Dieu merci, la flotte anglaise a battu dans la <placeName ref="places.xml#med01">
+      Méditerranée</placeName> celle des régicides; chantez-en le Te Deum. </p>
+    <p>Vous faites très bien d’adresser vos <seg xml:lang="de"> Preisfragen</seg> à la société
+     économique de <placeName ref="places.xml#pet01"> St Pétersbourg</placeName>: elle m’est connue
+     par les traits de génie qu’elle a produits dès sa naissance; d’abord après son établissement
+     elle a rêvé pendant six mois comment avoir de l’argent, et elle est accouchée du sublime trait
+     de génie de venir m’en demander. L’année passée j’ai découvert que cette habile société avait
+     eu l’art, je ne sais comment, de me tirer une libre impression âmes dépens des mémoires qu’elle
+     publiait, ce qui devait se monter à cent roubles par an; eh bien, elle avait en l’art, d’année
+     en année, de tirer de ma poche du cabinet, sous prétexte d’augmentation de frais, jusqu’à
+     quatre mille roubles par an pendant plusieurs années de suite et que de cet argent elle
+     distribuait des prix à droite et à gauche et proposait des questions, les unes plus bêtes et
+     plus oiseuses que les autres. Alors, comme j’avais ri du premier trait de génie de la société,
+     à peu près comme de la levée du siège de <placeName ref="places.xml#war01">
+      Varsovie</placeName>, je me suis fâchée tout de bon et ai dit au président que cela s’appelait
+     friponner, d’autant plus qu’ils retiraient le profit de la vente de leurs mémoires soi-disant
+     fameux et dont je ne paierais pas dix sous; alors il m’a dit qu’on ne les achetait guère, sur
+     quoi j’ai répliqué qu’il était donc inutile de les imprimer et que je ne donnerais plus une
+     obole pour l’impression; depuis ce moment je n’en entends plus parler, ni de leur économie, et
+     moi j’ai augmenté le nombre de mes axiomes par celui-ci: toute société économique qui ne sait
+     pas donner l’exemple en vivant de sa propre économie, ne devrait pas écrire pour faire
+     prospérer l’économie des antres.</p>
+    <p>Monsieur, quand vous comparerez quelque chose aux pâtés de Périgueux et qu’à l’avenir vous
+     direz: farci comme un pâté de <placeName ref="places.xml#per05"> Périgueux</placeName> de
+     trufles, je vous prie de vous souvenir que le <persName ref="people.xml#ant01"> comte
+      Lascy</persName>, ministre d’<placeName ref="places.xml#spa01"> Espagne</placeName>, et moi,
+     soupant un jour chez le grand écuyer, nous avons fort longtemps cherché dans un pâté de
+     Périgueux des trufles sans jamais pouvoir y trouver une seule, ce dont tout de suite nous nous
+     sommes plaints amèrement à l’hôte, qui, au lieu de trufles qu’il n’avait pas, pour nous faire
+     taire nous apporta du fromage, ce qui nous fit rire aux larmes. Or, qui dirait qu’après le pâté
+     de <placeName ref="places.xml#per05"> Périgueux</placeName> aux trufles et celui qui se trouva
+     sans trufles, viendrait le tour de la prétendue conspiration contre le régent du <placeName
+      ref="places.xml#swe01"> Suède</placeName>?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-10">10 d’avril</date>.</dateline></opener>
+    <p>Le <persName ref="people.xml#cha01"> duc de Sudermanie</persName>, auquel nos matelots, après
+     les deux batailles navales, celle de <placeName ref="places.xml#kal04"> Kalkskär</placeName> et
+     celle de <placeName ref="places.xml#tal01"> Revel</placeName>, où il s’est conduit comme un
+     pleutre, lui ont donné par dérision le nom de <rs ref="people.xml#cha01"> Sidor
+      Yermalaïtsch</rs>, a voulu mêler dans cette prétendue conspiration la cour de <placeName
+      ref="places.xml#nap01"> Naples</placeName> et moi. J’ai été nommée publiquement dans ses
+     écrits et même dans les cours judiciaires; or, si je m’en fusse mêlée et qu’il y en eût une, je
+     vous promets qu’elle eût réussi. <persName ref="people.xml#arm01"> Armfelt</persName>, qui
+     contre la teneur du testament du <rs ref="people.xml#gus01"> feu roi</rs>, avait été chassé du
+     conseil de régence, par ce qu’il était royaliste zélé et qu’à sa place on voulait y mettre un
+     fieffé jacobin le Sr <persName ref="people.xml#reu01"> Reuterholm</persName>, avait porté le
+      <rs ref="people.xml#gus01"> feu roi</rs> à faire la <name ref="events.xml#varal01"> paix de
+      Verelä</name>, l’avait négociée et signée avec le général <persName ref="people.xml#ige01">
+      Igelstrôm</persName>, ce qui n’avait pas pu manquer de le mettre en connexion avec nous à la
+     mort malheureuse du <rs ref="people.xml#gus01"> feu roi</rs>. Toute sa passion pour son ancien
+     maître se tourna en faveur du <rs ref="people.xml#gus02"> jeune roi</rs>; il savait que le <rs
+      ref="people.xml#gus01"> feu roi</rs> m’avait recommandé en mourant <rs ref="people.xml#gus02">
+      son fils</rs>; il savait qu’avant cela j’avais appuyé à haute voix la cause de cet enfant
+     contre ses ennemis, que j’avais dit au <rs ref="people.xml#gus01"> feu roi</rs> lui-même et à
+     qui voulait l’entendre que dès qu’un père dit: cet enfant est à moi, personne n’a droit de
+     dispute et qu’un roi outre cela a plus de pouvoir encore qu’un père ordinaire. Il voyait que
+     tout ce que faisait le régent était contraire aux principes du <rs ref="people.xml#gus01"> feu
+      roi</rs> et l’intérêt du <rs ref="people.xml#gus02"> jeune roi</rs>; il partit de <placeName
+      ref="places.xml#swe01"> Suède </placeName>et continua une correspondance indiscrète avec ses
+     amis et connaissances et parents en <placeName ref="places.xml#swe01"> Suède</placeName>. A
+     cela il se joignait une jalousie personne du <rs ref="people.xml#cha01"> régent</rs>: il roule
+     dans le monde deux lettres écrites de la propre main du <rs ref="people.xml#cha01">
+     régent</rs>, extrêmement passionnées, à la demoiselle <persName ref="people.xml#rud01">
+      Rudenskiöld</persName>, maîtresse d’<persName ref="people.xml#arm01"> Armfelt</persName> que
+     le régent a voulu faire fouetter et qu’il a fait mener sur l’échafaud, et puis enfermer dans la
+     maison de force, apparemment parce qu’elle préférait <persName ref="people.xml#arm01">
+      Armfelt</persName> à <persName ref="people.xml#cha01"> S. A. R</persName>. Outre cela M. le
+      <rs ref="people.xml#cha01"> régent</rs> voit des conspirateurs partout, mais il lui est
+     impossible de prouver des conspirations. Pour le massacre du <rs ref="people.xml#gus01"> feu
+      roi</rs>, il n’a fait punir que l’<rs ref="people.xml#anc01"> assassin</rs>, mais pour cette
+     affaire-ci il y a beaucoup de gens d’enfermés et d’autres qui ont perdu leurs places
+     arbitrairement; une déclaration de guerre de donnée contre la cour de <placeName
+      ref="places.xml#nap01"> Naples</placeName> et un chipotage sans fin avec nous; je m’en moque;
+     rira bien qui rira, le dernier; la régence finira bientôt, et si je m’en étais mêlée, elle
+     serait finie déjà; mais tout le royaume pensant comme moi, il ne vaut pas la peine pour l’amour
+     d’un pauvre hère de faire du tintamarre, mais il est vrai qu’il ne cesse pas un seul moment de
+     me provoquer et que M. de <persName ref="people.xml#ste01"> Stedingk</persName>, son
+     ambassadeur, joue un rôle misérable, tandis qu’il en avait un si agréable ci-devant à remplir,
+     et avait devant lui une perspective plus brillante encore. Le <rs ref="people.xml#gus01"> feu
+      roi</rs> ayant désiré <rs ref="people.xml#ale02"> l’aînée de mes petites-filles</rs> pour <rs
+      ref="people.xml#gus02"> son fils</rs>, en conséquence de quoi il avait fait plusieurs lois
+     pour lever les difficultés, il en avait inspiré le désir vif même à ce fils, qui ne rêvait que
+     cela. Pour <rs ref="people.xml#ale02"> la demoiselle</rs>, elle peut attendre patiemment la
+     majorité du <rs ref="people.xml#gus01"> roi</rs>, avant que son sort soit décidé, car elle n’a
+     qu’onze ans et elle s’en consolera, s’il lui échappe, par la réflexion que ce sera tant pis
+     pour celui qui en prendra une autre, car je dirai hardiment qu’en beauté, en talent et en
+     amabilité il sera difficile de la remplacer, sans compter la dot qui pour la pauvre <placeName
+      ref="places.xml#swe01"> Suède</placeName> pourrait seule être un objet de très grande
+     considération, outre que par là la paix se consoliderait pour longues années. Mais enfin,
+     l’homme propose et Dieu dispose: on ne l’achètera pas avec des avanies et des offenses, et sans
+     que sire <rs ref="people.xml#gus02"> roi</rs> lui-même ne lui plaise à elle-même.</p>
+    <p>Messieurs de <placeName ref="places.xml#lit01"> Lithuanie</placeName> et ceux de <placeName
+      ref="places.xml#cou01"> Courlande</placeName> sont venus ici sans proposer condition aucune,
+     mais demandent simplement d’être traités comme les autres provinces de l’empire, c’est-a-dire,
+     d’être érigés et partagés en gouvernements. J’ai répondu que cela s’entendait de soi-même, et
+     tout de suite on va prendre pour cela les arrangements préalables, qui consistent à régler les
+     cercles, à partager les affaires en quatre sortes, à préparer les bâtiments de la régie et des
+     dicastères, à en régler la distribution intérieure. Ceci ne prend ordinairement pas moins d’une
+     année, mais comme cette opération a été faite déjà une quarantaine et plus de fois, il y a pour
+     cela quantité de gens stylés à cela, et peu à peu cela devient comme un papier de musique, et
+     tout le monde s’en trouve bien, et moi aussi.</p>
+    <p>M. <persName ref="people.xml#pal02"> Pallas</persName> va s’établir en <rs
+      ref="places.xml#cri01"> Tauride</rs>. Il m’a dit l’autre fois qu’une des choses les plus
+     caractéristiques de mon règne était la guerre et la paix avec la <placeName
+      ref="places.xml#swe01"> Suède</placeName>. Voyez un peu où les savants vont se fourrer. Il y a
+     une raison pourquoi j’ai paru si bien faire dans ce moment; c’est que j’étais seule sans
+     presque d’aide, et que craignant de manquer à quelque chose par ignorance ou par oubli, j’étais
+     devenue d’une activité dont je ne me croyais pas capable, et je donnais dans des détails
+     inouis, jusque là que je devins pourvoyeur de l’armée et que, de l’aveu de tous, jamais armée
+     n’a été mieux nourrie dans un pays qui sans cela ne fournissait aucune ressource. Un jour le
+     comte <persName ref="people.xml#mus02"> Pouchkine</persName> vint me dire qu’il lui fallait
+     quatre cents voitures et huit cents chevaux. C’était à midi; j’envoyai tout de suite
+      à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> et j’ordonnai de demander aux
+     paysans combien ils donneraient volontairement et de chevaux et de voitures pour cette
+     entreprise; eux, tout de suite, dirent qu’ils la prenaient toute entière, et à six heures du
+     soir arrivèrent au comte <persName ref="people.xml#mus02"> Pouchkine</persName> quatre cents
+     voitures à deux chevaux, qui n’ont pas quitté l’armée de <placeName ref="places.xml#fin01">
+      Finlande</placeName> jusqu’au mois d’octobre. Une autre fois j’envoyai dire aux paysans des
+     villages de la couronne du gouvernement de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName> que j’avais besoin de recrues, qu’ils m’en envoyassent tant qu’il
+     voudraient: ils m’envoyèrent 75 hommes de mille, ce qu’on peut regarder comme énorme. J’avais
+     encore en réserve 22 mille hommes que la seule ville de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName> pouvait armer; on n’en eut pas besoin, mais ils étaient tout prêts. Le
+     seul gouvernement de <placeName ref="places.xml#pet01"> Pétersbourg</placeName> fit, pour ainsi
+     dire, cette guerre. Mais les autres voulurent apparemment y avoir part, car ils m’offrirent
+     chacun un bataillon et un escadron, mais je les refusai n’en ayant plus besoin, et à la paix je
+     renvoyai tontes ces recrues d’ici à l’entour, à la maison, une médaille à la boutonnière.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-10">10 d’avril</date>, à 4 heures après
+      dîner.</dateline></opener>
+    <p>Je ne sais pas de quoi sont composées les gouttes de Bestoujef; je sais seulement qu’il y
+     entre de la ferraillerie; on les donne en guise de quiquina et pour toute sorte d’obstructions;
+     je les donne moi à tort et à travers; <persName ref="people.xml#kon01"> Constantin</persName>
+     leur doit, entre autres, la vie et on s’en sert à l’entour de moi beaucoup et toujours avec un
+     succès certain. La femme de chambre malade l’est devenue avec moi en même temps; elle était
+     alitée, et moi pas; ainsi je venais plusieurs fois la journée pour qu’elle me vît, parce
+     qu’elle était plus inquiète de moi que d’elle-même, et à la fin c’est moi qui l’ai remise sur
+     pied en lui faisant encore prendre les gouttes de Bestoujef. Mais qu’est-ce donc que vous avez
+     et d’où vient que vous vous plaignez de votre santé? Si vous étiez ici, je vous ferais prendre
+     des gouttes de Bestoujef: elles sont très bonnes encore contre les vapeurs et les vents et les
+     convulsions même.</p>
+    <p>Je partage les sentiments de M. F. pour <persName ref="people.xml#mal03"> Malet du
+      Pan</persName> et pour ce très vilain et bête <persName ref="people.xml#nec01">
+      Necker</persName>: je les trouve non seulement haïssables, mais outre cela bavards et ennuyeux
+     au possible. Fiez-vous en pour la contre-révolution aux Français même: ils feront cette
+     besogne-là beaucoup mieux que tous les coalisés. Ils vont grand train. Selon moi, quand la
+     canaille régicide sera exterminée, en viendront de moins criminels qui auront moins d’intérêt à
+     soutenir leurs infâmes paradoxes. <seg xml:lang="it"> Ma</seg> pour être leur roi avec succès,
+     il en faudrait un qui ait plus d’une qualité et plus d’un moyen. Il faudrait leur dire entre
+     autre: «Messieurs, je veux le bien de tous et d’un chacun en particulier; c’est ma passion, et
+     j’y trouverai mon bien-être tout comme le vôtre; je vous prié de me seconder dans cette
+     carrière». Après quoi il s’agirait de tirer un clou oppressif du corps politique de
+      la <placeName ref="places.xml#fra01"> France</placeName> après l’autre; il ne faudrait pas se
+     hâter à perdre haleine, mais travailler sans relâche tous les jours quelque chose pour y
+     réussir et écarter les entraves, à mesure qu’elles se présenteraient; écouter tout le monde
+     avec patience et bonté, leur montrer en tout bonne foi et bonne volonté, et s’attirer leur
+     confiance par une grande équité et une fermeté inébranlable sur les principes adoptés pour le
+     rétablissement de l’ordre, de la tranquillité, de la sûreté des personnes et des biens
+     légitimes. Renvoyer toutes disputes et procès aux cours de justice. Protéger les oppressés.
+     N’avoir ni rancune, ni partialité. Si l’on n’avait rien, dire: je n’ai rien; d’ailleurs je vous
+     donnerai volontiers. Si l’on avait, il conviendrait d’être généreux dans l’occasion. Morbleu,
+     au bout de six mois avec une conduite pareille les choses changeraient de face, ou bien je vous
+     permets de dire que je sois frère Gu tout craché. Et l’abondance renaîtrait d’elle-même. Au
+     bout du compte ces gens-là ne sont pas des buches; ils sont et ils ont été menés comme des
+     montons, et jamais peuple n’est pins sage que celui qui sort fatigué comme celui-ci de la
+     bagarre. On dit que les négociations de <placeName ref="places.xml#bas03"> Bâle</placeName>
+     dans ce moment n’avancent ni ne reculent; j’espère que les convulsions de l’intérieur de
+      la <placeName ref="places.xml#fra01"> France</placeName> en feront rompre le fil ou le
+     poil.</p>
+    <p>La Convention a beau piller la <placeName ref="places.xml#hol02"> Hollande</placeName>, elle
+     n’en sera pas plus riche pour cela; à peine lui serviront ses richesses pour un mois de
+     dépenses, tout cela se perdra entre leurs doigts. Le maréchal de <persName
+      ref="people.xml#cas01"> Castries</persName> n’aime pas plus que moi les marches rétrogrades, à
+     ce que je voie par sa lettre du 22 janvier, dont vous m’envoyez copie. Il faudrait marcher sur
+     le corps des 40 milles carmagnole avec les cent mille Autrichiens; à quoi tient-t-il? à un seul
+     mot: marchez! Je consentirais volontiers au rappel du <persName ref="people.xml#cas02"> duc
+       de <placeName ref="places.xml#sax01"> Saxe</placeName> <placeName ref="places.xml#tes01">
+       Teschen</placeName></persName>: car l’<rs ref="people.xml#mar20"> archiduchesse</rs> ne
+     consentira jamais à la marche en avant de <rs ref="people.xml#cas02"> son mari</rs>; cela
+     l’éloignerait trop d’elle. Je dis avec le maréchal de <placeName ref="places.xml#cas01">
+      Castries</placeName>: voilà une bien longue lettre, mais cela n’y fait rien; vous y êtes fort
+     accoutumé.</p>
+    <p>Cet <persName ref="people.xml#fon04"> archevêque de <placeName ref="places.xml#tou01">
+       Toulouse</placeName></persName> était du choix de <persName ref="people.xml#jos01"> Joseph
+      II</persName>, qui en était épris.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-11">11 d’avril</date>.</dateline></opener>
+    <p>Remerciez, je vous prie, <persName ref="people.xml#cat05"> Katinka</persName> et sa soeur
+     pour le petit exercice dramatique qu’elles m’ont envoyé. <persName ref="people.xml#zub01">
+      Valérien</persName> est ici, marchant très lestement sur deux béquilles; il s’est fait faire
+     une jambe qui doit être merveilleuse, parce que les médecins ont défendu de la lui montrer
+     encore, crainte qu’il ne s’en empare jusqu’à ce que sa blessure soit fermée; elle l’était déjà,
+     mais notre homme, dans la chaleur de la conversation ayant oublié à la lettre qu’il lui
+     manquait la moitié d’une jambe, s’étant levé de sa chaise, est tombé tout de son long et par
+     cette chûte la plaie s’est ouverte de nouveau, et il en est sorti des ligatures du premier
+     appareil. A cela près, il est plus beau que jamais et bien portant.</p>
+    <p><rs ref="people.xml#fri03"> Frère Gu</rs> est un homme sans entrailles et honte absolument:
+     le plus gueux de humains retirerait chez lui dans le malheur <rs ref="people.xml#fre05"> sa
+      soeur</rs>, sa fille et son petit-fils; les deux premières vivaient dans la maison
+     lorsqu’elles n’etaient pas mariées, et l’on ne disait pas que les finances en souffraient;
+     toute l’<placeName ref="places.xml#eur01"> Europe</placeName> sait le mesquin entretien dont
+     elles y jouissaient; il n’y avait pas là de quoi se ruiner; ce benêt n’a pas senti qu’il était
+     honteux de leur refuser le pain quotidien. Ici le cher oncle, qui prétend avoir tant d’esprit,
+     n’a pas averti le cher neveu que c’était manquer au devoir, à l’humanité, à ce qu’il se devait
+     et à ses plus proches que de leur refuser le pain quotidien. Tous ces gens-là sont sans
+     entrailles, et quand ils prétendent en montrer, ils s’étudient pour le faire; ce sont des
+     prétendus en vérité en toutes choses, qui marchent sur des échasses. <seg xml:lang="de">
+      <persName ref="people.xml#fri03"> Der Gu</persName> ist voll von Untugend, ohne Herz und
+      Seele</seg>.</p>
+    <p>Le maréchal de <persName ref="people.xml#cas01"> Castries</persName> voyait bien en 1785,
+     mais il n’avait pas affaire à un prince qui voyait, ni qui faisait. Je sais de source qu’il
+     disait: ne me conseillez pas des actions de vigueur: je me sens incapable de les suivre.</p>
+    <p>La prétendue lettre du <persName ref="people.xml#jos03"> pr. de <placeName
+       ref="places.xml#cob01"> Cobourg</placeName></persName> ne saurait être de lui. Eh bien! Je
+     suis enchantée que vous voyiez que la race de 24 ans vaut infiniment mieux que celle qui l’а
+     précédée. Cela est très vrai.</p>
+    <p>Si nous avions été sur le <placeName ref="places.xml#rhi01"> Rhin</placeName> avec les
+     Prussiens, nous aurions fait tout tout seuls selon notre noble coutume, et nous aurions par là
+     inspiré l’émulation de paraître faire au moins quelque chose.</p>
+    <p>Le <persName ref="people.xml#fri03"> roi de <placeName ref="places.xml#pru01">
+       Prusse</placeName></persName> a négocié sous <placeName ref="places.xml#war01">
+      Varsovie</placeName> tout comme à <placeName ref="places.xml#bas03"> Bâle</placeName>: <seg
+      xml:lang="de"> aus dem einen ist D…herausgekommen, aus dem andern ist dasselbe zu
+      erwarten</seg>. Si <persName ref="people.xml#fay01"> La Fayette</persName> et <persName
+      ref="people.xml#dum05"> Dumouriez</persName> fussent venus en <placeName
+      ref="places.xml#pol01"> Pologne</placeName>, ils auraient partagé le sort de <persName
+      ref="people.xml#kos01"> Kostiouchko</persName>; ces héros de la guerre des p... de c auraient
+     fait maigre figure chez nous: le second y a déjà été, et le <persName ref="people.xml#suv01">
+      comte des deux empires</persName> l’a fait rentrer à <placeName ref="places.xml#kra01">
+      Cracovie</placeName> dans le même égout par lequel il en était sorti, chose dont il ne souffle
+     pas, ni dans ses mémoires, ni dans sa vie.</p>
+    <p>Le plus saint des devoirs, l’insurrection est présentement défendue à <placeName
+      ref="places.xml#par01"> Paris</placeName>; ça s’appelle mettre de la contradiction dans ses
+     principes, et avec cela on ne va pas loin.</p>
+    <p>Voici la phrase interrompue de la fin de la pancarte non achevée, autant qu’il m’en souvient.
+     Imaginez-vous que la gazette annonce 18 ou 20 canons de pris par les Prussiens aux Polonais
+     au-delà de la Pilitza ; or, à bon entendeur salut. <persName ref="people.xml#fer01">
+      Fersen</persName>, en poursuivant, après la prise de <placeName ref="places.xml#war01">
+      Varsovie</placeName>, le reste des bandes polonaises, une troupe des nôtres leur prit ses
+     canons, mais ne pouvant les amener, faute de chevaux, et étant à la poursuite, les laissa dans
+     un bois; le cordon prussien étant proche de là, les tira du bois et fit accroire à <rs
+      ref="people.xml#fri03"> S. M.</rs> qu’il les avait conquis, ce qui fit manquer aux pauvres
+     officiers de notre troupe la croix de St George, qu’il n’eut pas, n’ayant rien de pris à
+     montrer. </p>
+    <p>Dites-moi donc, qui est le plus sot, <persName ref="people.xml#man05"> Manstein</persName> ou
+     son maître, puisque vous les connaissez tous les deux. Vous savez que le lieutenant-général
+     comte <persName ref="people.xml#fer01"> Fersen</persName> avait en vain prié, Dieu sait combien
+     de fois, le <persName ref="people.xml#fri03"> roi de <placeName ref="places.xml#pru01">
+       Prusse</placeName></persName> de lui permettre de passer la <placeName ref="places.xml#vis01"
+      > Vistule</placeName> pour aller attaquer <placeName ref="places.xml#pra01">
+      Prague</placeName> et que jamais <rs ref="people.xml#fri03"> S. M</rs> et ses jockeys ne
+     voulurent y consentir; qu’on proposai <persName ref="people.xml#fer01"> Fersen</persName>
+     d’attaquer une des redoutes et qu’il répondit: une, non, mais tontes à la fois, et vous et moi,
+     allons; qu’on m’envoya plus d’une fois des courriers pour se plaindre-de <persName
+      ref="people.xml#fer01"> Fersen</persName> par le <persName ref="people.xml#nas01"> prince de
+      Nassau</persName>, à qui <persName ref="people.xml#luc01"> Lucchesini</persName> avait tourné
+     la cervelle en lui faisant espérer que ce serait lui qui aurait le commandement du corps que
+     commandait <persName ref="people.xml#fer01"> Fersen</persName>, qui s’est comporté avec une
+     formeté et un courage vraiment chevaleresques. Or, le <persName ref="people.xml#nas01"> prince
+      de Nassau</persName> a perdu la confiance des troupes et des officiers, lorsqu’il a perdu une
+     partie de sa flotte à rames; on n’aime pas chez nous les battus, et pour être considéré il faut
+     battre. Il avait battu trois fois, mais cela ne le mit pas à l’abri, et tout le monde lui a vu
+     prendre son congé avec satisfaction.</p>
+    <p>Le mécompte de <seg xml:lang="en"> milord</seg>
+     <persName ref="people.xml#har01"> Malmsbury</persName> est un peu fort; il paie ou fait payer à
+     son maître pour 33.000 hommes ce que coûteraient 82.000. Mais apparemment que M. <persName
+      ref="people.xml#pit01"> Pitt</persName> s’est aperçu du mécompte, car il ne paie plus un
+     sou.</p>
+    <p>Si <persName ref="people.xml#bue01"> Mad. du Bueil</persName> vient ici, je pense qu’elle
+     brillera à nos concerts d’amateurs.</p>
+    <p>Je sais, et n’en doute pas, que vous m’êtes très profondément attaché: entendez-vous, <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>? et voilà pourquoi je vous dis tout ce qui se
+     trouve au bout de ma plume et même des injures pour ceux qui en méritent.</p>
+    <p>J’attendrai donc avec patience la confession générale. Je vous avoue que tous ces officiers
+     de rangs supérieurs sont très difficiles à placer et que le grand nombre n’est nullement
+     agréable ici. Or, la liste envoyée en contient 130; c’est beaucoup.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-12">12 d’avril</date>.</dateline></opener>
+    <p>Il y a un Clermont qui nous est venu par l’<placeName ref="places.xml#ita01">
+      Italie</placeName>, qui est allé tout simplement planter des choux dans le gouvernement de <rs
+      ref="places.xml#dni04"> Ekaterinoslav</rs>, dont on loue beaucoup l’établissement, et
+     plusieurs lui ont confié leurs affaires. Je verrai quelle confidence vous me ferez au sujet du
+     maréchal de <persName ref="people.xml#cas01"> Castries</persName>.</p>
+    <p>La reconnaissance du roi par les puissances est tout aussi obscure que la paix prétendue de
+     la <placeName ref="places.xml#ven02"> Vendée</placeName>.</p>
+    <p>J’aurais voulu qu’à la place du comte <persName ref="people.xml#gol02"> Goltz</persName>,
+     mort à <placeName ref="places.xml#bas03"> Bâle</placeName>, on eût envoyé son frère, le comte
+      <rs ref="people.xml#gol14"> Goltz vivant</rs>, qui a été ici; c’est un homme qui voit tout en
+     noir, et qui est bilieux, mais qui ne manque pas d’esprit; Barthélemy ne l’aurait jamais gagné
+     et ne serait pas parvenu à le leurrer ni tromper, et il aurait rompu pour sûr ses imbéciles
+     négociations. Je vous enverrai la lettre que j’ai écrite au <persName ref="people.xml#cha05">
+      duc de Weimar</persName> en réponse à la sienne au sujet de ses prétentions sur <placeName
+      ref="places.xml#jev01"> Iever</placeName>; vous la trouverez, j’espère, dépourvue de paroles
+     inutiles. Vous y verrez que toute négociation après cela se trouve fermée.</p>
+    <p>Les Hollandais vont être bien punis: la convention ayant décliné le traité d’alliance avec
+     eux, on va donc les traiter en peuple conquis et les dépouiller à la française; jamais la cour
+      d’<placeName ref="places.xml#spa01"> Espagne</placeName> ni le <persName
+      ref="people.xml#tol04"> duc d’Albe</persName> ne les traitèrent si mal; voyons ce qu’ils
+     feront!</p>
+    <p>Tremblez, mes amis, tremblez, disait <persName ref="people.xml#fay01"> La Fayette</persName>
+     à son armée: c’est l’état de perfection d’une armée. Vous tremblez, <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, pour l’<placeName ref="places.xml#ger01"> Allemagne</placeName>; le <rs
+      ref="people.xml#fri03"> grand Gu</rs> avec ses négociations y mettra ordre; en attendant
+     tremblez: vous serez du moins en état de perfection, selon Dadais le Grand. Pourquoi
+     tourmentez-vous <persName ref="people.xml#cat05"> Katinka</persName> avec des choses qui sont
+     contraires à la vérité encore? Si elle et ses frères et soeurs sont quittes de la rougeole, je
+     les en félicite; les suites ordinairement en sont plus longues que celles de la petite-vérole.
+     Vous disposerez de la traite des 10 mille selon votre propre entendement propice, et plus vous
+     aiderez de gens, mieux cela sera sans doute.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-13">13 d’avril</date>.</dateline></opener>
+    <p>Hier un courrier a apporté ici de la part du <persName ref="people.xml#fri03"> roi
+       de <placeName ref="places.xml#pru01"> Prusse</placeName></persName> une lettre pour moi, par
+     laquelle il m’annonce la conclusion de sa <rs ref="events.xml#basel01"> paix avec les bandits
+      régicides</rs> et l’écume du genre humain, qui pendant ce temps-là ont pensé être massacrés
+      à <placeName ref="places.xml#par01"> Paris</placeName> et qui ne sont pas un moment en sûreté.
+     Le grand <persName ref="people.xml#hen02"> Henri</persName> a fourré donc le <rs
+      ref="people.xml#fri03"> roi, son neveu</rs>, dans un procédé contraire à tous les traités
+     qu’il avait conclus avec l’empereur, l’<placeName ref="places.xml#eng01">
+      Angleterre</placeName> et moi. Ils n’ont eu garde de m’envoyer les conditions honteuses de
+     cette paix où, après avoir menti à ses alliés, apparemment une partie de l’<placeName
+      ref="places.xml#ger01"> Allemagne</placeName> est sacrifiée, sans compter les désastres qui
+     s’en suivront. Les Français ont donné au <persName ref="people.xml#fri03"> roi de <placeName
+       ref="places.xml#pru01"> Prusse</placeName></persName> ce vrai poisson d’avril le 1 d’avril,
+     où la <rs ref="events.xml#basel01"> paix</rs> a été signée. Admirez cet empressement à me dire
+     qu’il a manqué deux fois à tout le monde en faisant cette paix séparée. Le grand <persName
+      ref="people.xml#hen02"> Henri</persName> hait <rs ref="people.xml#fri03"> son neveu</rs>
+     cordialement, car s’il l’aimait le moins du monde, il n’aurait jamais pu le fourrer dans des
+     procédés aussi honteux pour lui-même que désastreux pour le reste de l’<placeName
+      ref="places.xml#eur01"> Europe</placeName> et peut-être pour le <persName
+      ref="people.xml#fri03"> roi de <placeName ref="places.xml#pru01">
+      Prusse</placeName></persName>, le premier.</p>
+    <p>Ce 13 d’avril, après diner.</p>
+    <p>Je félicite le comte <persName ref="people.xml#rum03"> Nicolas de Roumiantsof</persName> de
+     savoir qui est <persName ref="people.xml#rur01"> Rurik</persName>, le premier prince de sa
+     dynastie en <placeName ref="places.xml#rus01"> Russie</placeName>. Mes conjectures là-dessus
+     sont imprimées dans le drame de <persName ref="people.xml#rur01"> Rurik</persName> avec les
+     commentaires de <persName ref="people.xml#bol02"> Boltine</persName>: mais celui qui en sait
+     plus, c’est à celui-là qu’il faut donner le livre, dit le proverbe russe.</p>
+    <p>Pour répondre à la seconde question: quel est le peuple que Nestor appelle Russes? Je crois
+     qu’on pourrait y répondre, mais cela pourrait occasionner un travail qu’il est bon d’éviter au
+     printemps. Pour les paroles enclavées entre deux crochets (<seg xml:lang="ru">и Польша тоже всю
+      Русь</seg>), je demanderais qu’on ne dît pas <seg xml:lang="ru">Польша</seg>, mais qu’à <seg
+      xml:lang="ru">Польша</seg> on substituât <seg xml:lang="ru">Литва</seg>, et alors cela serait
+     correct, et l’article de cette lettre où l’ignorance du grand <persName ref="people.xml#her02">
+      Hertzberg</persName> est fouettée, prouve cela suffisamment. Mais la <placeName
+      ref="places.xml#pol01"> Pologne</placeName>, dont anciennement <placeName
+      ref="places.xml#kra01"> Cracovie</placeName> était la capitale, est un pays à part, peut-être
+     aussi peuplé par les <orgName ref="orgs.xml#slav01"> Slaves</orgName>, comme leur langue peut
+     le prouver. A la question 3 je répondrai en ignorant: que je n’en sais rien, en toute
+     humilité.</p>
+    <p>Je respecte le reste des propositions, parce que chacun peut faire des hypothèses et qu’à
+     force d’en faire, elles obscurcissent ou elles éclaircissent l’histoire, selon qu’elles sont
+     plus ou moins lumineuses; mais à moi il me faut des preuves comme celles sur la <placeName
+      ref="places.xml#lit01"> Lithuanie</placeName>, par exemple, feuille première de cette
+     pancarte. Moi je dis: les <orgName ref="orgs.xml#slav01"> Slaves</orgName> ayant conquis trois
+     fois le monde entier, devaient avoir des armes, et l’on ne peut pas dire des <orgName
+      ref="orgs.xml#slav01"> Slaves</orgName>: peuple sans armes. La concordance des différentes
+     provinces, dis-je, venait de ce que trois fois elles avaient été conquises par les <orgName
+      ref="orgs.xml#slav01"> Slaves</orgName>. La première venue des <orgName ref="orgs.xml#slav01">
+      Slaves</orgName> peut dater du temps qu’Odin, venu du Don et n’ayant pas d’ailes pour voler
+      jusqu’en <placeName ref="places.xml#swe01"> Suède</placeName>, fut donc obligé de passer par
+     le pays qui est entre le Don et la <placeName ref="places.xml#swe01"> Suède</placeName>. Les
+     Suédois firent d’Odin un dieu dont la race régna longtemps en <placeName ref="places.xml#swe01"
+      > Suède</placeName> etc. etc. etc.</p>
+    <p>Je soutiens moi que le roi <persName ref="people.xml#alf01"> Alfred</persName> ou tel autre
+     de race anglo-saxonne était slave, que présentement encore on paie un tribut en <placeName
+      ref="places.xml#eng01"> Angleterre</placeName> qu’on appelle <hi rend="italic">omz
+     coxu</hi>, du soc, et que les Anglais savent que ce tribut est établi par les Saxons, qui sont
+     tribu slave. Je ne lis aucun livre ni n’en feuillette même qu’il n’ait au moins trois cents
+     ans; dans tous les autres je n’apprends rien, et en conjectures, j’en ai jusqu’au cou.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-14">14 d’avril</date>.</dateline></opener>
+    <p>J’ai lu le fatras de vielles nouvelles, et je souscris à la pendaison de <persName
+      ref="people.xml#sie03"> l’abbé Sieyès</persName>. </p>
+    <p>Si <persName ref="people.xml#hen02"> le prince Henri</persName> devient roi de <placeName
+      ref="places.xml#fra01"> France</placeName> en récompense de la honteuse et désastreuse paix
+     qu’il a fait conclure à son <rs ref="people.xml#fri03"> neveu</rs>, au moins faudra-t-il
+     espérer que s’il n’est pas guillotiné lui-même, il fera justice des ennemis de sa cause, ou
+     bien aussi nous dirons que le petit grand homme fait et fait faire des pauvretés
+     impardonnables, et que lui et <rs ref="people.xml#fri03"> son neveu</rs> <hi rend="italic"
+      >n’ont ni foi ni loi ni entrailles.</hi> Prenez garde, cela deviendra à leur sujet refrain de
+     chanson.</p>
+    <p>Tout ce que le maréchal de <persName ref="people.xml#cas01"> Castries</persName> écrit, porte
+     l’empreinte du cachet de la sagesse.</p>
+    <p>Des quatre incluses que contenait l’inventaire, trois ont été remises: celle pour M. de
+      <persName ref="people.xml#lam03"> Lambert</persName>, qui n’est pas ici, lui parviendra avec
+     le temps.</p>
+    <p>Je vous félicite d’avoir, rompu communication avec le citoyen <persName
+      ref="people.xml#nec01"> Necker</persName>. Souvenez-vous de l’aversion que j’avais toujours
+     pour ce faiseur de phrases empesées et dans lesquelles on voyait à chaque ligne, en grandes
+     lettres, le moi.</p>
+    <p>Enfin, enfin, <rs ref="people.xml#gri01"> souffre-douleur</rs>, avec 48 pages de réponse je
+     suis parvenue à couler à fond la revue de vos pancartes. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien; j’en fais autant.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

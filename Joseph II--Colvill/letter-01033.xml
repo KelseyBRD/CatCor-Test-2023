@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01033</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01033</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:13:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01033">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-03-11">11
+     mars 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Chaque ligne de la lettre que V. M. I. a bien voulu m’écrire le 19
+    février, me retrace Sa précieuse amitié. Qu’il Lui plaise d’en recevoir l’expression de ma
+    reconnaissance avec Sa bonté ordinaire ! Je trouve mes enfants très-heureux d’avoir pu mériter
+    ce que V. M. I. veut bien m’en dire. Il est fâcheux sans doute pour l’humanité que les
+    puissances belligérantes marquent aussi peu de disposition pour le rétablissement de la paix,
+    qu’il est peu consolant pour les puissances médiatrices d’avoir, malgré les intentions les plus
+    pures, la certitude que leurs bons offices restent infructueux. Puisque le <persName
+     ref="people.xml#pop03"> Pape</persName> ne traitera que de l’intérêt de sa daterie et non de
+    ceux de la chrétienté, j’espère que pour le bien de cette même daterie V. M. I. raccourcira la
+    durée du séjour de Sa Sainteté à <placeName ref="places.xml#vie01">Vienne</placeName>. Pour ce
+    qui regarde les bruits répandus sur une prochaine rupture de notre part avec la <placeName
+     ref="places.xml#ott01">Porte</placeName> et un nouveau partage de la <placeName
+     ref="places.xml#pol01">Pologne</placeName>, j’avoue à V. M. I. qu’accoutumée depuis longtemps à
+    souffrir et à mépriser les calomnies, je n’ai fait aucun cas de ces commérages dont il paraît
+    qu’on voudrait faire une branche à la politique. Il vaudrait infiniment mieux s’occuper d’un
+    bien qui deviendrait universel à toutes les puissances. L’exposé comparatif communiqué par mon
+    vice-chancelier comte d’<persName ref="people.xml#ost05"> Ostermann</persName> au comte de
+     <persName ref="people.xml#cob02"> Cobenzl</persName> démontre le besoin évident qu’a toute
+     l’<placeName ref="places.xml#eur01">Europe</placeName> d’établir par le consentement unanime
+    des nations des principes universels et permanents pour le commerce des neutres. La confection
+    de ce code des nations est réservée au règne de V. M. I. — Trop heureuse de pouvoir seconder Ses
+    vues, qu’il me soit permis de Lui réitérer la très-haute considération et tous les sentiments
+    avec lesquels j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

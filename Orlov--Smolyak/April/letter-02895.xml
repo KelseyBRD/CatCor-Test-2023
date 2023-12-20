@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02895</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02895</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:21:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02895">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Мая 19 числа, обоюдные коммисары заключили в <placeName ref="places.xml#giu01">
+     Журжеве</placeName> перемирие на время держанья <name ref="events.xml#focsa01"> конгресса</name>, для
+    котораго означены <placeName ref="places.xml#foc01"> Фокшаны</placeName> в <placeName
+     ref="places.xml#mol01"> Молдавии</placeName>. <persName ref="people.xml#orl01"> Братец
+     ваш</persName> и господин <persName ref="people.xml#obr01"> Обресков</persName> перед тем уже
+    приехали благополучно в <placeName ref="places.xml#ias01"> Яссы</placeName>, и к вам фельдмаршал
+     <persName ref="people.xml#rum01"> Румянцев</persName>, посредством <persName
+     ref="people.xml#mus04"> визиря</persName>, чрез <placeName ref="places.xml#ist01">
+     Царьград</placeName> отправил курьера, дабы вы, с своей стороны, о удержании оружия
+    договориться могли. Впрочем, остаюсь к вам, как всегда, доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline> <date when-custom="1772-06-11">Июня 11ч. 1772 г.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

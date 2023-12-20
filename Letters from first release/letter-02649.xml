@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02649</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02649</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#europe"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-05">5 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02649">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Czarscoe Sélo</placeName>,
+                                <date when-custom="1765-05-04">ce 4 Mai 1765</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>Votre Majesté est sans doute informée par son <rs ref="people.xml#sol01"
+                            >ministre résidant auprès de moi</rs>, du courant de mes affaires, je me
+                        flatte qu'Elle n'y a rien trouvé, et que par la suite Elle n'y trouvera
+                        assurément rien non plus, qui ne soit marqué au coin de notre union,
+                        d'autant plus parfaite qu'elle est posée à la fois sur le principe éclairé
+                        de l'intérêt commun et permanent de nos monarchies, et sur nos sentiments
+                        d'amitié réciproque, je reconnais partout la sincérité des vôtres, et je
+                        prie Votre Majesté d'être assuré que les miens sont inaltérables, et se
+                        conserveront toujours tels par la haute estime et la confiance que j'ai pour
+                        Votre Majesté. Je ne Vous cacherai point que je m'applaudis d'avoir embrassé
+                        un système qui conduit le Nord à l'indépendance politique des puissance
+                        étrangères, dont les principaux intérêts ne consistent, que dans la division
+                        de cette partie de <placeName ref="places.xml#eur01">l'Europe</placeName>,
+                        j'estime certainement notre alliance, comme un fondement solide de ce
+                        système. Aussi Votre Majesté peut toujours être persuadée qu'Elle ne
+                        trouvera jamais un allié ni plus sincère ni plus exact à remplir ses
+                        engagements, ni un ami plus fidèle à conseiller Vos vues et à favoriser Vos
+                        intérêts. Votre Majesté parut appréhender qu'à la diète du couronnement en
+                            <placeName ref="places.xml#pol01">Pologne</placeName>, il n'arriva un
+                        changement de l'unanimité des voix en pluralité, je savais que les Polonais
+                        ne désiraient qu'un des deux alternatifs: ou de se procurer le dit
+                        changement à leurs diètines, pour qu'à leurs diètes générales il ne se
+                        trouve un petit nombre de nonces, qui ne décident pas moins du sort des
+                        palatinats, dont l'élection des nonces manque souvent par des ruptures
+                        faciles de leurs diètines. Ou d'introduire dans les diètes générales la
+                        liberté des voix avec leur unanimité pour recevoir ou refuser chaque
+                        proposition en particulier qui compose le sujet de la convocation de la
+                        diète, en abolissant la liberté de la rompre dès qu'une de ses propositions
+                        est rejetée. Telle a été la vraie recherche des Polonais. Cependant la diète
+                        exista et il n'y en fut pas même parlé un seul mot. J'aurais souhaité que
+                        notre affaire touchant les dissi (dents) <note type="editorial">The missing
+                            letters were supplied in the source text.</note> ait eu alors plus de
+                        succès, mais nous avions à y combattre les préjugés et la superstition d'un
+                        peuple catholique. La conservation du repos est une base de notre alliance
+                        et de notre concert particulier sur les affaires présentes de <placeName
+                            ref="places.xml#pol01">Pologne</placeName>. Votre Majesté connaît les
+                        mesures que je me suis proposée de prendre en conséquence de ce principe
+                        pour atteindre le but convenu entre nous en faveur des dissidents, et il m'a
+                        paru, par plusieurs conférences amicales entre nos ministres, qu'Elle
+                        approuve la voie de négociation conciliant les esprits que j'avais adoptée.
+                        Ma confiance dans les lumières de Votre Majesté, la sincérité des sentiments
+                        de mon amitié, ne me permettent point de Lui cacher, ce que je ne saurais me
+                        dissimuler à moi-même. Je crois devoir craindre avec fondement, que la dite
+                        négociation pourra souffrir encore de nouvelles difficultés. L'acte d'une
+                        représaille si rigoureuse dans la nouvelle douane de <placeName
+                            ref="places.xml#kwi01">Marienwerder</placeName>, que Votre Majesté vient
+                        de faire percevoir sur la Vistule, ne saurait qu'allarmer les esprits dans
+                        toute la <placeName ref="places.xml#pol01">Pologne</placeName> et faire des
+                        impressions très contraires à notre véritable façon de penser et au principe
+                        de notre alliance. Il n'échappera pas sans doute à la pénétration de Votre
+                        Majesté l'effet, qu'en même temps produit auprès des rivaux de notre union
+                        étroite la moindre apparence d'altération dans le système du Nord, que nous
+                        souhaitons de fixer. Qui sait mieux que Votre Majesté combien ils sont
+                        habiles et ingénieux à saisir chaque circonstance et à s'en prévaloir. J'ai
+                        ordonné à <persName ref="people.xml#pan01">Mr. Panin</persName>, qu'il
+                        communique en grand secret à Votre ministre <persName ref="people.xml#sol01"
+                            >le comte de Solms</persName> pour faire parvenir à Votre Majesté en
+                        mains propres, les copies tirées des originaux de deux lettres des ministres
+                        de <placeName ref="places.xml#fra01">France </placeName>. Votre Majesté y
+                        verra dans toute son étendue le plan d'intrigues et les règles qu'on observe
+                        en cabalant contre notre alliance. Le changement présent du <rs
+                            ref="people.xml#mus04">grand Vizir</rs> fournira assurément une nouvelle
+                        carrière aux intrigues de nos envieux, et peut-être jamais, il ne nous sera
+                        ni plus utile ni plus nécessaire qu'à présent, de montrer une unanimité
+                        parfaite dans toutes nos actions, pour confondre leurs cabales. Je suis sûre
+                        que rien de tout ceci n'échappera à l'étendue de Vos lumières, et je reviens
+                        à l'objet, qui m'a conduit à cette digression confidentielle, et qui peut
+                        être à l'heure qu'il est ne sert déjà que trop au ressort de la méchanceté:
+                        je veux dire la nouvelle douane de <placeName ref="places.xml#pru01"
+                            >Prusse</placeName>. Je suis très éloignée de vouloir justifier la
+                        conduite de la <placeName ref="places.xml#pol01">Pologne</placeName>, de
+                        même que de discuter son droit, au contraire, je blâme sincèrement le
+                        premier, et je pourrais bien donner dans la rigueur gain de cause au
+                        dispositif final du XVII article du <rs type="event"
+                            ref="events.xml#wehla01">traité de Velau</rs>. Mais <persName
+                            ref="people.xml#pon01">le roi de Pologne</persName> m'assure que sa
+                        nouvelle douane facilite le commerce, soulage les intéressés par la
+                        diminution effective de la taxe et les met à couvert des vexations des
+                        particuliers, qui par une coutume abusive se sont approprié le droit de se
+                        faire payer des douanes arbitraires, par les convois qui passent par leurs
+                        terres. Votre Majesté connaît que cette douane générale est établie par la
+                        constitution d'une diète, ainsi <persName ref="people.xml#pon01">le roi de
+                            Pologne </persName> avec la meilleure volonté du monde ne saurait la
+                        changer sans une autre diète, et je ne puis pas m'imaginer qu'Elle voulût en
+                        occasionner une extraordinaire à la faveur d'un motif qui ne saurait
+                        paraître qu'onéreux à la république, surtout si le fond de l'affaire ne nuit
+                        à personne et qui par conséquent pourra préjudicier essentiellement aux vues
+                        communes de notre alliance, d'autant plus que du côté de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName> on n'a encore rien exécuté,
+                        et le roi a tout suspendu dès qu'il a su que Votre Majesté s'en plaint. Je
+                        parle à un Prince judicieux, et Vous distinguerez sans doute, que je
+                        n'embrasse pas la cause de la douane, chose en elle même trop petite, si
+                        elle ne touchait pas d'ailleurs à des considérations importantés, mais je
+                        m'intéresse essentiellement à tout ce qui seul réalise les avantages d'un
+                        système politique. Je ne puis donc pas m'empêcher de dire à Votre Majesté
+                        qu'à la vérité notre <rs ref="people.xml#pon01">nouveau roi</rs> est plus à
+                        plaindre qu'à blâmer ; la <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>, depuis 60 ans accoutumée à la dépendance dans ses
+                        affaires politiques du sort des intérêts de <placeName
+                            ref="places.xml#sax01">Saxe</placeName>, fournit à ce <rs
+                            ref="people.xml#pon01">roi</rs> au lieu des ministres habiles pour
+                        conduire les affaires, des chefs de partis et des intrigants, qui mesurant
+                        toutes les affaires d'état sur leurs intérêts de factions croient avoir tout
+                        fait lorsqu'ils remplissent les formalités de la chancellerie. La franchise
+                        et la sincérité avec laquelle je viens d'exposer ici ma façon de penser,
+                        m'oblige aussi de prier Votre Majesté de vouloir bien faire suspendre à
+                            <placeName ref="places.xml#kwi01">Marienwerder</placeName> l'exécution
+                        de représailles, et de se prêter à la réconciliation. Comme je suis
+                        persuadée que Votre Majesté n'exigera rien qui ne soit juste et équitable,
+                        je puis l'assurer que la cour de <placeName ref="places.xml#pol01"
+                            >Pologne</placeName> de son côté fera tout ce qui est en son pouvoir
+                        pour satisfaire aux prétentions de Votre Majesté, et Elle s'empressera à
+                        cette négociation ainsi qu'à lui exposer le vrai fond et la situation de
+                        l'affaire qui est en contestation. Il me reste à dire à Votre Majesté encore
+                        quelques mots sur nos affaires de <placeName ref="places.xml#swe01"
+                            >Suède</placeName>. Elle n'ignore pas, sans doute, les succès continués
+                        des intrigues du nommé <rs ref="people.xml#sin01">Sinkler</rs> contre mes
+                        bonnes et sincères intentions pour la cour de <placeName
+                            ref="places.xml#swe01">Suède</placeName>, Votre Majesté me rendra
+                        justice de croire que cette entrave ne changera point mes sentiments pour le
+                            <rs ref="people.xml#ado01">roi</rs> et la <rs ref="people.xml#lou05"
+                            >reine</rs> de <placeName ref="places.xml#swe01">Suède</placeName>, ils
+                        sont en erreur et ils sont à plaindre, sans que mes intérêts dans la nation
+                        puissent souffrir, vu la bonne consistence que la diète d'à présent a prise.
+                        Je sais que <rs ref="people.xml#coc01">Votre ministre</rs> fait tout ce
+                        qu'il peut avec zèle pour rectifier la <rs ref="people.xml#lou05"
+                        >reine</rs>; mais je dois craindre que les préventions de Sa Majesté et la
+                        perfidie heureuse envers elle de <persName ref="people.xml#sin01">Sinkler
+                        </persName>, dont j'ai des preuves convaincantes ne révoltent à la fin
+                        tout-à-fait le bon parti contre Leurs Majestés Suédoises et ne me mettent
+                        hors d'état de leur être utile. Je prie donc Votre Majesté de s'employer
+                        auprès de <rs ref="people.xml#lou05">la reine sa soeur</rs> en sa propre
+                        faveur contre <rs ref="people.xml#sin01">un homme</rs> qui pour coup sûr
+                        fera perdre tout à elle et à son époux, si on ne le renvoie point de la
+                        cour. </p>
+                    <closer>
+                        <signed>Je suis avec les sentiments de la plus haute estime et
+                            considération, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            sincère Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed></closer>
+                    <postscript>
+                        <p>Quoique j'aie furieusement abusé aujourd'hui de la patience de Votre
+                            Majesté, je ne puis cependant finir celle-ci sans la remercier de la
+                            lettre remplie d'amitié, dont Elle a chargé <persName
+                                ref="people.xml#vor01">le comte Worontzow</persName> à son départ de
+                                <placeName ref="places.xml#ber01">Berlin</placeName> et qu'il m'a
+                            remise.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00829</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00829</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-09">09 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00829">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute></opener>
+                    <p> Напиши ко мне, правда ли, что ногайские татары учинили нападение на
+                            <placeName ref="places.xml#tam01">Таман?</placeName> Здесь пруссаки
+                        таскаются с ложным слухом, будто татары ногайские не токмо учинили
+                        нападение, но и завладели <placeName ref="places.xml#tam01"
+                            >Таманом</placeName>
+                        <seg xml:lang="fr">et qu'ils у ont pris pied.</seg> Но я полагаю,
+                        что сия весть выдумана вот каким образом: когда получено известие, что
+                            <persName ref="people.xml#pot02">Павел Потемкин</persName> ходил за
+                            <placeName ref="places.xml#kub01">Кубань,</placeName> то приняли или
+                        конфондировали <placeName ref="places.xml#kub01">Кубань</placeName> с
+                            <placeName ref="places.xml#tam01">Таманом,</placeName> а зломыслящие или
+                        желающие сложили прочее, ибо имея от тебя столь подробное описание состояния
+                        дел, нельзя, кажется, статься, чтоб ты не упоминал о чем подобном.</p>
+                    <closer><signed>Прощай, мой друг, Бог с тобою, будь здоров, бодр, весел и
+                            благонадежен на лучего твоего друга, то есть я, и напиши ко мне, что
+                            признаешь меня таким.</signed>
+                        <dateline rend="below"><date when-custom="1787-11-11">Ноября 11 ч., 1787
+                                г.</date></dateline>
+                        
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

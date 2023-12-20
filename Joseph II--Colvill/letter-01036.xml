@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01036</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01036</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:14:02Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01036">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date
+      when-custom="1782-06-15">15 juin 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’appréhension seule d’augmenter par la lecture d’une lettre l’incommodité
+    que V. M. I. a ressentie aux yeux ce printemps, m’a empêchée de Lui en témoigner plus souvent ma
+    vive inquiétude. J’ose Lui en parler aujourd'hui où l’amitié la plus sincère et le devoir d’une
+    alliée fidèle me met la plume à la main, pour Lui communiquer en toute confiance les nouvelles
+    que j’ai reçues de la <placeName ref="places.xml#cri01">Crimée</placeName>, qui sont de nature à
+    faire naître plus d'une réflexion. Je viens d’apprendre que les frères du <persName
+     ref="people.xml#gir05"> Chan</persName> de la <placeName ref="places.xml#cri01"
+     >Crimée</placeName> ont excité une révolte contre le <persName ref="people.xml#gir05"> Chan
+     Shahin Giray</persName>. Il est à supposer que ces troubles, fomentées sous main par
+     la <placeName ref="places.xml#ott01">Porte</placeName>, ne manqueront pas d’être soutenues par
+    elle. Que ces soupçons se vérifient ou non, je ne pourrai me dispenser non seulement de prendre
+    les précautions nécessaires pour garantir mes frontières des incursions auxquelles elles
+    pourraient être exposées, mais encore toutes celles que la prudence dictera pour rétablir au
+    plutôt la tranquillité et l’indépendance de la <placeName ref="places.xml#cri01"
+     >Crimée</placeName> (à laquelle les révoltés paraissent porter enfreinte) conformément au <name
+     ref="events.xml#kuchu01"> traité de Canardgi</name> aussi longtemps que celui-ci sera en
+    vigueur. Déjà le <persName ref="people.xml#gir05"> Chan Shahin Giray</persName> qui s’est retiré
+    de <placeName ref="places.xml#feo01"> Kafa</placeName> à <placeName ref="places.xml#ker01">
+     Kertsch</placeName>, a réclamé mon secours et mon appui. Je ne puis me dispenser de l’en faire
+    jouir, ce prince ayant toujours été invariablement attaché au principe do l’indépendance des
+     <orgName ref="orgs.xml#tata01"> Tartares</orgName>. Quoique ces premiers avis ne laissent point
+    voir au clair encore les intentions de la <placeName ref="places.xml#ott01">Porte</placeName>,
+    on mettant les choses au pis et supposant des dénudés inévitables avec l’<placeName
+     ref="places.xml#ott01">Empire Ottoman</placeName>, il n’en deviendrait que plus indispensable
+    pour moi, que conformément à l’esprit des liaisons d’amitié et d’alliance qui
+    subsistent heureusement entre V. M. I. et moi, je Lui fasse part tant des circonstances dans
+    lesquelles se trouvent les choses de ce côté-là, que des suites qui s’en laissent prévoir, afin
+    que, si V. M. I. le trouve convenable, dès à présent nous puissions convenir préalablement,
+    selon la teneur de nos engagements, de l’arrangement des principes invariables qui
+    écarteraient au futur tout ce qui pourrait diminuer, affaiblir ou nuire à cette intime amitié et
+    alliance aussi précieuse qu’utile aux intérêts unis et communs de nos deux monarchies, et gagner
+    par là un temps considérable sur tous les empêchements ou contradictions quelconques, que
+    les suites ne manqueront pas de produire.</p>
+   <p>J’en étais ici lorsque les deux lettres de V. M. I. du 1 et 11 juin m’ont été apportées par
+    Son courrier adressé au comte <persName ref="people.xml#cob02"> Cobenzl</persName>.
+    Qu’Elle daigne en recevoir l’expression de ma reconnaissance, et qu’Elle me permette d’avoir
+    l’honneur d’y répondre incessamment par la même voie, en donnant cours à celle-ci.</p>
+   <closer><signed>C’est avec, tous les sentiments que V. M. I. inspire, et ceux de
+    la plus liante considération et de l’amitié la plus sincère que je suis à jamais</signed></closer>
+  </body>
+ </text>
+</TEI>

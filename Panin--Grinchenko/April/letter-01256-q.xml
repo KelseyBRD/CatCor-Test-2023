@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01256</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01256</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#deathnotification"/>
+                </keywords>
+                <keywords n="domestic">
+                    <term target="kw.xml#familypolicy"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Великая княгиня и ее мать/бабка?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-23"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01256">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Я, по получении вчерашняго Вашего письма, Великой Княгине сказывала о кончине ея
+                бабки, - и она, хотя не рвется, как у нас водится, но сердечно печальна: но
+                признаюсь, что не знаю, как она снесет печаль кончины матери своей. Я сама столь
+                тронута сим приключением, что Вам довольно сказать не могу. Хотя Вы и пишите, что по
+                моей <persName ref="people.xml#alb02">бабке</persName> и <persName
+                    ref="people.xml#anh02">матери</persName> носили <sic>троур</sic> три недели, но
+                думаю, что пригожее будет шесть недель по каждой, ибо и по <persName
+                    ref="people.xml#geo01">Принце Жеорже</persName>, дяде моем, мы носили толикое
+                время.</p>
+            <closer rend="inline"> <signed>Впрочем, остаюсь к Вам доброжелательна.<lb/>
+               <persName ref="people.xml#cat01"
+                >Екатерина.</persName></signed><lb/></closer>
+            <postscript>
+                <p xml:lang="fr">
+                    Faites moi un mot de réponse, si Vous approuvez mon
+                        avis.
+                </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02773</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02773</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Nb. inclusion</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:32:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02773">
+  <body>
+ 
+   <opener><dateline> ce <date when-custom="1772-12-05">5 Décembre 1772</date></dateline></opener>
+   <p>Monsieur, Voici la traduction française de deux de nos nouvelles Comédies
+     Russes, je ne crois pas qu’elle soutiene la traduction, il y a des finesses d’Ironie et
+     d’Allégorie dans l’Original qui ne sauroit avoir ni le même sens ni le même sel dans toute
+     autre langue, c’est aussi en plus grande partie ce qui a fait la fortune ou bien la réputation
+     de ses pièces. Je Vous les envoye parceque Vous avés
+    souhaités de les avoir, je souhaite qu’elles puissent Vous amuser un instant, toujour Vous
+    témoigneront elles le désir que j’ai d’embrasser toutes les occasions qui ce présentent pour
+    Vous renouveller les assurance de mon amitié et de mon estime.</p>
+   <closer><signed><persName>#people-cat01 Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03020</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03020</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>One person with two codes - Emma </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-14">14/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:39:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03020">
+  <body>
+
+  <opener> <dateline> A <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1778-11-30">30 de novembre</date>, fête de St André, avec une gelée de 16 à 17
+    degrés.</dateline></opener>
+   <p>Le post-scriptum a devancé le courrier qui devait apporter à <persName ref="people.xml#eck01">
+     M. d’Eck</persName> le gros et petit paquet accompagné du No 25. Le courrier est devenu malade
+    en chemin Dieu sait où; il a envoyé les lettres ministérielles par un autre, et a gardé les
+    particulières, entre autres celles addressées à <persName ref="people.xml#eck01"> M.
+     d’Eck</persName>. Ma nous avons envoyé chercher notre paquet, M. d’Eck et moi, et je m’en vais
+    tous les jours envoyer chez <persName ref="people.xml#eck01"> M. d’Eck</persName> pour avoir
+    lettres et paquet, car je sais très avide de vos lettres: NB que je n’écris guère plus qu’à vous
+    de ma griffe. Velà qui s’appelle répondre à l’exorde de votre post-scriptum; dès ce moment je
+    m’en vais prendre à tâche le corps du susdit très respectable post-scriptum.</p>
+   <p>Je suis très fâchée des insomnies que vous a données l’écritoire et des soucis que vous cause
+    la bibliothèque; mais, croyez-moi, il n’y a pas de remède à cela, à moins de ne plus avoir à
+    l’avenir ni écritoire ni bibliothèque, de ne m’en plus proposer à vous, à moi de n’en plus
+    acheter ni commander par vous. Or, je regarde cela comme très difficile, sinon impossible, et
+    pour vous et pour moi, parce qu’alors il faudrait non seulement que nous changions de manière à
+    nous naturelle d’écrire, mais encore de penser et d’agir.</p>
+   <p>Vous m’excuserez si toute la page précédente est très mal écrite: je suis extrêmement gênée
+    dans ce moment par certaine jeune et belle <persName ref="people.xml#zem01"> Zémire</persName>,
+    laquelle de tous les Thomassins est celle qui se place le plus proche de moi et pousse ses
+    prétentions jusqu’à avoir ses pattes sur mon papier; outre cela, elle me parle continuellement
+    et jappe pour tous ses besoins, caprices, et volontés; je vois en elle ma prophétie, que les
+     <persName ref="people.xml#tho01"> Thomas</persName> parleront un jour, s’approcher de son
+    accomplissement; cette espérance m’empêche de la corriger, crainte de nuire ou retarder le
+    développement de la parole dans la race.</p>
+   <p>Pour ce qui regarde le paiement de la bibliothèque patriarcale, vous savez ou vous saurez que
+    le baron <persName ref="people.xml#fre03"> Friedrichs</persName> vous a envoyé un créditif de
+    trente mille roubles, que bijoux, portraits, fourrures sont tout prêts à partir et attendent
+    seulement que les lettres patriarcales soient copiées. Or, je remets à votre jugement si vous
+    voulez donner la somme, ou de cette somme acheter encore des-diamants ou toute autre chose qui
+    puisse faire-plaisir à <persName ref="people.xml#den02"> Mme Denis</persName>, et je m’en lave
+    les mains. J’espère que tout ce que je vous ai mandé de la bâtisse du nouveau <placeName ref="places.xml#fer01">
+    Ferney</placeName> aura mis l’esprit de <persName ref="people.xml#den02"> Mme Denis</persName> dans une
+    assiette tranquille. Mais il faut que vous me fassiez savoir comment chaque chambre du château
+    était meublée et à quoi elle servait, afin que ma santa casa puisse, ainsi que celle de Lorette,
+    représenter au vrai. Or, envoyez-moi votre jugement signé et contresigné si cette idée n’est pas
+    meilleure que celle de tombe et de tel autre monument dont l’univers regorge pour de bien
+    moindres sujets. Je vous ai déjà donné mes lettres à <persName ref="people.xml#vol01"> Voltaire</persName>; j’aime mieux
+    qu’elles soient à vous qu’aux <rs ref="people.xml#pau01 people.xml#mar02">Secondat</rs>, mais je
+    veux mourir si je sais ce qu’elles contiennent. Priez très instamment <persName
+     ref="people.xml#den02"> Mme Denis</persName> de ma part de ne point donner de copies de ces
+    lettres, de ne point en permettre l’impression, ni qu’elles soient divulguées en aucune façon:
+    je crains l’impression comme le fen; je n’écris pas assez bien pour cela, quoi qu’en disent
+     <persName ref="people.xml#den02"> Mad. Den</persName>is et ses amis. Faites cela, commentes mes
+    lettres si tous croyez qu’il en vaille la peine, cela peut faire l’ouvrage le plus bouffon qu’il
+    y eût jamais. Or, écoutez donc, s’il y a de la force, de la profondeur, de la grâce dans mes
+    lettres ou expressions, sachez que je dois tout cela à <persName ref="people.xml#vol01"> Voltaire</persName>, car pendant fort
+    longtemps nous lisions, relisions et étudiions tout ce qui sortait de sa plume, et j’ose dire
+    que par là j’ai acquis un tact si fin que je ne me suis jamais trompée sur ce qui était de lui
+    ou n’en était pas: la griffe du lion a une empoignure à elle que nul humain n’imita jusqu’ici,
+    mais dont <title ref="works.xml#epitre02"> l’épître à Ninon</title> du comte <persName
+     ref="people.xml#shu01"> Schouvàlof</persName> approche. Je suis fâchée que ce père du Désert se
+    soit si opiniâtrement coiffé de <persName ref="people.xml#har02"> M. de Laharpe</persName>, et
+    je suis bien aise que malgré ses claquements, les <title ref="works.xml#barmec01">
+     Barmécides</title> soient tombés, parce que cela rendra son excellence plus sage, s’il peut le
+    devenir <seg xml:lang="de"> Die Frau Mama hat nicht schlucken wollen, der herr Sohn allein hat
+     großen appetit gehabt und da des Taschenspielers vier Sohne bedürftig sind zu leben, so hat die
+     Kunst das Ihrige zugetragen, wodurch denn liebe Mama zur passivsunde eingeleitet worden ist,
+     nun aber sind die Bußstunden vorhanden und Mama bezeigt sich so geneigt, das wenn ihre guten
+     Neigungen nicht wieder verkärt und verdräht werden, wirklich Gutes leicht zu stiften ist.</seg>
+    Allez-vous en avec votre tondu; cela n’ose pas ouvrir la bouche: <rs ref="people.xml#cha06"
+     >
+    <seg xml:lang="de"> arme Leute</seg></rs>, il а peur de la bête qui est dans sa chemise. Si <persName
+     ref="people.xml#ela01"> Yélaguine</persName> occupait sa place, l’opiniâtreté n’aurait pas cédé
+    un pouce sans force ouverte, tout comme, malgré toutes les clameurs, le soleil de l’opéra <title ref="works.xml#nitett01"> Nitetti</title> allait toujours son train jusqu’au moment où
+    je défendis à ce soleil masqué en lampe de nuit de reparaître. Pour ce qui regarde le directeur
+    d’opéra que vous auriez envie de voir à la place de <persName ref="people.xml#ela01">
+     Yélaguine</persName>, vous verrez dans peu le motif de toute sa conduite. Je m’intéresserai
+    pour <persName ref="people.xml#pai01"> Païsiello</persName> chez <persName
+     ref="people.xml#ela01"> M. Yélaguine</persName>, et j’espère que tous les grands intérêts
+    s’accommoderont ensemble. Eh bien, le <persName ref="people.xml#fri02"> prince
+     coadjuteur</persName>, ne vous avais-je pas dit que c’était un garçon comme il faut; lui et ma
+    mère sont ce qu’il y eut jamais de mieux dans cette maison-là. J’ai ordonné la médaille en
+    bronze pour l’abbé <persName ref="people.xml#gal05"> Galiani</persName>; il a beau dire,
+    mademoiselle <persName ref="people.xml#car01"> Cardel</persName> l’aurait appelé tète de
+    travers, tout comme elle m’appelait esprit gauche. Quel dommage que la tête de cet homme-là
+    reste sans utilité à <placeName ref="places.xml#nap01"> Naples</placeName>, qu’on y
+    ignore jusqu’à ses ouvrages et qu’on fosse des édits à l’antique sans se servir de lui et de ses
+    idées sages. Sti-là aussi n’est pas à sa place. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien et souvenez-vous quelquefois de moi.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02886</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02886</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#receipt"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter demonstrated continuous correspondence about the preparation of the so-called
+     ‘Archipelago’ navy expedition (1769-1774) (<rs>#event-orlov01</rs>), which was part of the
+     First Russo-Turkish war (<rs>#event-turki01</rs>). Emma: kept orlov</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-27">27/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:47:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Checked for queries; keywords modified (letter type: note removed
+     as inappropriate)</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02886">
+  <body>
+   <opener>
+    <salute rend="inline"><persName ref="people.xml#orl03"> Граф Алексей Григоръевич</persName>.
+    </salute></opener>
+   <p>Сие письмо имеет вам служить вместо квитанции, на все вами издержанные деньги во время <rs
+     ref="events.xml#orlov01">экспедиции вашей</rs> в <placeName ref="places.xml#med02">Средиземное
+     море</placeName>, как морем так и сухим путем, в каких бы то суммах не было.</p>
+   <closer><signed><persName type="signature" ref="people.xml#cat01">Екатерина</persName>.</signed>
+    <dateline>
+     <date when-custom="1771-03-24">Марта 24 ч, 1771 года</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

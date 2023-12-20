@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08251</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08251</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#paul"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify Mademoiselle Palensky</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:28:28Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08251">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1776-11-04">4 novembre 1776</date>.</dateline></opener>
+   <p>J'espère que V. A. R. est persuadée que c'est toujours avec la même satisfaction que je reçois
+    les témoignages de la continuation de l'amitié et du souvenir de V. A. R. La dernière lettre
+    du 10 d'octobre qui en était remplie, m'est parvenue au milieu du tourbillon des fêtes de la
+     <name ref="events.xml#marri02"> noce</name> de <rs ref="people.xml#pau01"> mon fils</rs>, et
+    quoiqu'en public elles passent pour être finies, l'allégresse des jeunes époux, au bonheur
+    desquels V. A. R. a tant contribué, en fait imaginer tous les jours de nouvelles. Au milieu de
+    tout ce tintamarre mes conversations avec le Sr <persName ref="people.xml#gri01"
+     >Grimm</persName> roulent très souvent sur son séjour de <placeName ref="places.xml#rhe01">
+     Rheinsberg</placeName> et de <placeName ref="places.xml#ber01">Berlin</placeName>, mais surtout
+    sur celui de V. A. R. à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName> ce
+    printemps.</p>
+   <p>V. A. R., il faut l'avouer, se souvient de tout, d'un côté Elle m'envoie des épreuves de jolis
+    carreaux de porcelaine pour la salle de mon amirauté prétendue, dont j'ai mille remercîments à
+    Lui faire; de l'autre Elle me parle des gaucheries de Mlle Palensky. Les simagrées de cette
+    dernière n’ont duré que jusqu’à mon retour de <placeName ref="places.xml#pet02"
+     >Péterhof</placeName>. Le <rs ref="people.xml#nar02"> grand écuyer</rs> et le comte <persName
+     ref="people.xml#bru02"> Bruce</persName> les ont fait cesser, une belle soirée ils l'ont prise
+    sous les bras et l’ont fait asseoir, moitié de gré moitié grognant, sur ce taureau si
+    redoutable. Après cette douce violence elle n'a plus fait de façons.</p>
+   <p>J'ai encore un remercîment à faire à V. A. R. de la charmante garniture de pierres vertes que
+    le <persName ref="people.xml#pau01"> grand-duc</persName> m'a remise de Sa part. Je La prie
+    d'être assurée...</p>
+  </body>
+ </text>
+</TEI>

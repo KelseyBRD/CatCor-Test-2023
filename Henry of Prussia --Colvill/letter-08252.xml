@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08252</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08252</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+   <term target="kw.xml#painting"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:28:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08252">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01">St.
+     Pétersbourg</placeName>, ce <date when-custom="1777-01-01">1 janvier 1777</date>.</dateline></opener>
+   <p>Entre nous soit dit, V. A. R. en veut, ce me semble, un peu à ma Sainte, ou bien Son amitié
+    Lui donne trop de prédilection pour moi. La légende constate que Sainte Catherine était une
+    belle princesse, qui par un acte de fermeté envers Mr. son père s'est acquise beaucoup de
+    célébrité et le privilège exclusif d'avoir été inhumée en cérémonie par les anges sur la pointe
+    inaccessible du <placeName ref="places.xml#mon03"> mont Sinai</placeName>; honneur que tout le
+    monde n'acquiert pas. Mais quoiqu'il en soit, je rends mille grâces à V. A. R. de tout ce
+    qu'Ellè a eu la bonté de me dire d'obligeant au sujet de ma fête, j'y reconnais la continuité
+    des sentiments, flatteurs pour moi, qu'Elle me témoigne depuis tant d'années. J'ai bien des
+    remercîments encore à Lui faire pour ce qu'Elle me dit au sujet du renouvellement d'année. Je
+    prie instamment V. A. R. d'être persuadée qu'il n'y a sorte de contentement et de prospérité que
+    je ne Lui souhaite en cette occasion et à l'approche du jour de Sa naissance.</p>
+   <p>Je Lui suis aussi très redevable des plans des différentes maisons royales que V. A. R. m'a
+    envoyés. Le <persName ref="people.xml#lin02"> Sr. Lindon</persName> pareillement m'est parvenu
+    en bonne santé et m'a fait grand plaisir, il est charmant, son humeur pétillante et gaie l'a
+    fait établir dans ma chambre, il y ranime la vieillesse du <persName ref="people.xml#tho01"> Sr.
+     Tom</persName> qui l'admet déjà à toutes ses parties de plaisir et lui destine sa petite
+    fille.</p>
+   <p>Le peintre <persName ref="people.xml#ros01"> Roslin</persName> n'a point fini sa besogne
+    jusqu’ici, je me réserve d'en parler une autre fois. Je finis en priant V. A. R. d'être assurée
+    ...</p>
+  </body>
+ </text>
+</TEI>

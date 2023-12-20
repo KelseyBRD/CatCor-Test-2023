@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03732</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03732</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#europe"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#godchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:08:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03732">
+  <body>
+   <div>
+    <opener><dateline> Се <date when-custom="1796-07-02">2 juillet</date>.</dateline></opener>
+    <p>Le chevalier <persName ref="people.xml#nic04"> Nicolas</persName> sera baptisé dimanche, et
+     il se porte à merveille.</p>
+    <p>J’ai écrit à <placeName ref="places.xml#vie01"> Vienne</placeName> pour persuader l’<rs
+      ref="people.xml#fra04"> empereur</rs> de faire rester <persName ref="people.xml#lou09"> Louis
+      XVIII</persName> à l’armée de <persName ref="people.xml#lou10"> Condé</persName>, et pour les
+     jeter en <placeName ref="places.xml#fra01"> France</placeName>, ce qui pourrait faire diversion
+     aux affaires d’<placeName ref="places.xml#ita01"> Italie</placeName>; il faudrait vaincre
+      <placeName ref="places.xml#car02"> Carthage</placeName> dans <placeName ref="places.xml#car02"
+      > Carthage</placeName> même. Dieu sait ce qu’ils me répondront. Je vous ai écrit sur le voyage
+     du <rs ref="people.xml#gri01"> souffre-douleur</rs> par toutes les voies possibles; si le
+     prétendu trésor vous donne des soucis et des inquiétudes, jetez-le au feu; je vous l’ai
+     conseillé déjà une vingtaine de fois; ne vous gênez pas là-dessus et soyez assuré que je n’y
+     ajoute aucun prix. Il est vrai que l’on a renvoyé mes réponses au <persName
+      ref="people.xml#cha11"> comte d’Artois</persName>, présentement Monsieur, d’un temps à
+     l’autre, quelquefois ne sachant où le trouver, d’autres fois ne sachant trop que lui dire de
+     consolant, attendant toujours un bon moment et n’en trouvant pas. Ce qu’il y a de sûr, c’est
+     que je n’ai jamais varié sur le compte des princes; le comte <persName ref="people.xml#est03">
+      Esterhazy</persName> sur ce point ne peut avoir de doute; aucune occasion n’a été négligée
+     pour les servir et leur cause aussi.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-07-05">5 juillet</date></dateline></opener>
+    <p>Le chevaliér <persName ref="people.xml#nic04"> Nicolas</persName> depuis trois jours mange
+     déjà de la bouillie, parce-qu’il veut manger à tout moment; je pense que jamais enfant de huit
+     jours n’a fait pareil repas; c’est inouï. Les bras en tombent à toutes les bonnes; si cela
+     continue, je pense qu’on le sèvrera à six semaines. Il toise tout le monde, et tient et remue
+     sa tête comme moi.</p>
+    <p>Je suis bien aise que le <persName ref="people.xml#bue02"> comte de Bueil</persName> ait
+     rejoint sa famille.</p>
+    <p>J’ai donné la cantate traduite de M. <persName ref="people.xml#got01"> Gotter</persName>,
+     écrite pour moi par <persName ref="people.xml#cat05"> Katinka</persName>, au prince <persName
+      ref="people.xml#zub03"> Zoubof</persName>, parce qu’elle est fort belle, même en traduction.
+     Vous en remercierez <persName ref="people.xml#cat05"> Katinka</persName>.</p>
+    <p>J’ai reçu tout ce que le comte <persName ref="people.xml#tie01"> Tiesenhausen</persName> a
+     apporté, selon la facture.</p>
+    <p>Remerciez s’il vous plait le <rs ref="people.xml#ogi02"> pair d’Ecosse</rs> pour ses
+     envois.</p>
+    <p>Les paquets pour le comte <persName ref="people.xml#rum03"> Nic. Roumiantsof</persName> lui
+     ont été délivrés.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

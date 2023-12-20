@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02752</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02752</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:27:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02752">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-06-10">10/21 Juin 1771</date></dateline></opener>
+   <p>Monsieur, Après une <rs ref="events.xml#chesm01">bataille</rs> aussi
+     signalée que celle de <placeName ref="places.xml#che02"> Tchesme</placeName>, la
+     première Victoire navale que la Flotte de <placeName ref="places.xml#rus01"> l’Empire
+      de Russie</placeName> aye gagnée depuis 900 ans, il parut bien naturel de rendre au fondateur
+     de cette marine dans la Ville qu’il avoit bâti un homage de la reconoissance Publique. Le lendemain dont du <seg xml:lang="la">Te Deum</seg> chanté dans l’Eglise où cet
+    Empereur est inhumé, on célébra en grande Cérémonie selon le rite de la vraye Eglise Catholique
+    grecque un service pour le repos de son âme, mais avant qu’il comença l’Evêque de
+     <placeName ref="places.xml#tve01"> Twer</placeName> prononça le Sermon que la Princesse
+     <persName ref="people.xml#das01"> Daschkof</persName> Vous a doné et dont Vous trouvé le sujet si beau.
+    Il n’i eut persone des assistans qui ne donna des marques de sensibilité et de reconoissance
+    pour la mémoire de ce grand home, et nous sortimes tous de l’Eglise très content les uns des
+    autres. J’ai regretée seulement que l’Etandard de <placeName ref="places.xml#ott01"> l’Empire
+     Ottoman</placeName> que les nôtre avoit arraché de dessus le Vaisseaux Amiral Turk aye volé en
+    l’air avec notre navire l’Eustache, ce qui m’a privée du plaisir ce jour là de l’étendre de mes
+    mains au pied de la tombe de <persName ref="people.xml#pet01"> Pierre le grand</persName>.</p>
+   <p>Je ne connois les ouvrages du <persName ref="people.xml#las01"> Sr. la Salle</persName> que par ce que
+    Vous venés de m’en dire; si mon portrait qui est dans Votre salon me ressemble il doit Vous
+    exprimer ma sensibilité pour l’amitié que Vous voulés bien me marquer. Votre conversation de
+    quatre heures avec la Princesse <persName ref="people.xml#das01"> Daschkof</persName> sur mon sujet m’en
+    est une nouvelle preuve. Le <title ref="works.xml#sermon01">Sermon</title> prêché à <placeName ref="places.xml#tol02"> Ste: Toleranski</placeName>
+    que Vous m’avés envoyé est admirable, la guayeté qui règne dans ses Sermons là, les rend bien
+    efficaçe et préserve les Auditeurs de l’ennuy que la plupart des autres prédicateurs inspirent.
+    Vous trouvé dont Monsieur, mes enemis bien sots, cependant une grande partie de
+     l’<placeName ref="places.xml#eur01"> Europe</placeName> a beaucoup de peine à ce persuader que le grand
+    Turk et les prétendu Confédérés ses amis soyent aussi dépourvu du sens comun qu’ils le sont en
+    effet. J’espère que la postérité dégagée de passions me fera justice de ses gens là, et Vos
+    écrits n’y contribueront pas peu.</p>
+   <p>La Cour de <placeName ref="places.xml#vie01"> Viene</placeName> au lieu des Croisades qu’on lui supposait
+    et le <persName ref="people.xml#fre01"> Roy</persName> de <placeName ref="places.xml#pru01"> Prusse</placeName> par
+    leurs bons offices ont porté le sultan après avoir été bien batu à mettre le Sr.
+     <persName ref="people.xml#obr01"> Obrescof</persName> en liberté, ce qui achemine la Paix qui cependant
+    n’aura pas lieu avant que cette Campagne ne soit terminé.</p>
+   <p>Lorsque je répondait à Votre lettre du 15 de May j’ai reçu celle du 25<hi
+     rend="superscript">e</hi> du même mois, où
+    Vous me parlé de M<hi rend="superscript">r</hi>: <persName ref="people.xml#pol01">
+     Poliansky</persName>, que je fais voyager, s’est un jeune offiçier qui s’est distingué par son
+    intégrité en <placeName ref="places.xml#sib01"> Siberie</placeName>, où il a par ordre du gouverneur réparti
+    dans deux cercles une Capitation unique au lieu des vexations qui ce cometoit ancienement, au
+    grand contentement de tous les paÿens aux quels il a eu à faire et qui ce montoit à plus de
+    quatorze mille âmes; le gouverneur me l’ayant fortement recomandé et trouvant en lui joint à ses
+    qualités un grand désir de s’instruire, je l’ai envoyée dans les pays Etranger. Il auroit crut
+    qu’il lui auroit manqué beaucoup s’il ne Vous avait vu et entendu; compatriote
+     d’<persName ref="people.xml#att01"> Attila</persName> mais bien éloigné de la possibilité de l’imiter je
+    lui souhaite au moins une <persName ref="people.xml#jus01"> Princesse Honoria</persName> pareille à celle
+    que Vous cités, sœur ou fille de quelque souverain bien sot, n’importe pourvu qu’elle aye une
+    bone dote car M<hi rend="superscript">r</hi>: <persName ref="people.xml#pol01">
+     Paliansky</persName> n’est pas riche. Ne pourriés Vous point lui en procurer une? Je Vous
+    remerçie au reste bien sincèrement de l’accueil obligeant que Vous faites aux Russes qui vienent
+    Vous voir. Ils en sont bien reconoissant et ne cessent de chanter les Louanges du Seigneur de
+     <placeName ref="places.xml#fer01"> Ferney</placeName>.</p>
+   <p>L’Envoyé d’<placeName ref="places.xml#spa01"> Espagne</placeName> m’a dit hier en me notifiant le décès
+    d’un <persName ref="people.xml#xav01"> Infant</persName> mort de la
+    petite Vérole, que le <persName ref="people.xml#cha09"> Roy</persName> d’<placeName ref="places.xml#spa01">
+     Espagne</placeName> avoit déclaré que ce ferait inoculer qui voudrait mais que jamais il ne le
+    permettrait à sa famille quoique <persName ref="people.xml#cat01"> l’Impératrice Reyne</persName> lui en
+    eût doné l’exemple. Ne trouvés Vous pas extraordinaire qu’un Roy de guayeté de cœur prenne la
+    résolution de livrer toute sa famille à la mort ? Sa Majesté Catholique ce fait je pense saigner
+    par précaution, hébien s’il raisone conséquenment pourquoi ne pas préserver sa famille de la
+    plus horrible des maladies par un moyen aisé et qui en vérité est moins douloureux qu’une
+    saignée? Je suis persuadée que le grand Inquisiteur ce ferait inoculer aussi, pour plaire au
+     <persName ref="people.xml#cha09"> Roy d’<placeName ref="places.xml#spa01"> Espagne</placeName></persName> qui l’en
+    récompenserait par quelque grosse Abbaye, ce qui vaut bien quelque grains de petite vérole.</p>
+   <p>Je n’ai rien à redire aux amusement présent de Messieurs les
+       Welches parceque je trouve que tout
+     est au mieux dans le meilleur des mondes possibles. On dit qu’ils ont eu un très beau feu
+     d’Artifice au Noces du <persName ref="people.xml#lou09"> Cte: de
+     Provence</persName>. Je Vous prie d’être assurés des sentimens que j’ai pour Vous et de me
+     continuer Votre souvenir. S’est aujourd’huy que l’armée comandée par le Gl: Prince
+      <persName ref="people.xml#dol04"> Dolgorouki</persName> ce présente devant
+      <placeName ref="places.xml#per04"> Perecop</placeName>. Vous lui souhaité bonheur
+     n’est ce pas?</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01236</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01236</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#health"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Боссет?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01236">
+        <body>
+           
+            <opener> <dateline>Из <placeName ref="places.xml#pet01">Санктпетербурга</placeName>, в середу, в
+                восьмом часу.</dateline>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Сейчас я получила Ваше письмо из <placeName ref="places.xml#nov01"
+                    >Новгорода</placeName>; весьма мне приятно, что <persName ref="people.xml#pau01"
+                    >сын</persName> мой здоров, и что Вы так проворно едите; я б вчерась выехала
+                отселе, но, по нещастию, в Воскресение так сильно охрипла, что в Понедельник не
+                слышно было к вечеру, что говорю; вчерась мало было полутче, а сегодня хотя и не
+                совсем еще прошло, однако ж, после обеденнаго кушанья поеду в <placeName
+                    ref="places.xml#tsa01">Царское Село</placeName>, и по усмотрении, как по моей
+                простуде можно будет, поеду в Четверг, или в Пятницу, прямо в путь. При сем посылаю
+                к Вам конференцию <persName ref="people.xml#gol05">Вице-Канцлера</persName> с
+                Министрами; ему <persName ref="people.xml#ass01">Ассебург</persName> в Воскресение
+                сказал, что он имеет на другой день ему вручить приложенную записку, на что я
+                    <persName ref="people.xml#gol05">Вице Канцлеру</persName> приказала принять оную
+                на доношение просто, сделав комплимент, которой прописан в конф. записке. Боссет
+                писал письмо к <persName ref="people.xml#gol05">Вице-Канцлеру</persName> с тем, что
+                он сожалеет, что со мною проститься не может, болезни ради; я не приказала письменно
+                отвечать, а только словесно то, что Вы усмотрите, <seg xml:lang="fr">afin qu’après
+                    cela il ne fasse passer cela pour une formalité de congé pour son départ d’ici.
+                    Voilà une confession de foi, que j’ai cru, qu’il étoit nécessaire de vous faire
+                    et dont vous porterez le jugement, que vous voudrez; je souhaite que vous
+                    continuiez votre voyage en bonne santé avec Votre Élève.</seg></p>
+            <closer rend="inline"><signed xml:lang="fr">Soyez assuré de la continuité de mon amitié.<lb/>
+                    <persName ref="people.xml#cat01"
+                >Catherine</persName>.</signed></closer>
+            <postscript>
+                <p>Проезжая по станциям, прикажите, чтоб к моему приезду выстудили дворцы, а то
+                    боюсь, голова болеть станет, а Вы знаете, как я на то нежна.</p>
+                <p><persName ref="people.xml#pau01">Великому Князю</persName> посылаю мое
+                    благословение.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

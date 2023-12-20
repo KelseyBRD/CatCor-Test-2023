@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03632</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03632</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:20:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03632">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1786-04-21">21 d’avril 1786</date>.</dateline></opener>
+   <p>Je me sers du couvert de <persName ref="people.xml#bac01"> Bacchus Gloutonewitz</persName>
+    pour vous dire que le courrier qui vous porte mon immense dépêche étant parti avant-hier, j’ai
+    fait depuis ce temps-là des réflexions, et j’ai appris quelques petites circonstances que
+    j’ignorais sur le compte du jeune homme que <persName ref="people.xml#lec01"> M. de
+     Juigné</persName> protège et au sujet duquel il vous a donné une marque bien chaude de
+    l’intérêt qu’il y prend par la lettre que vous m’avez envoyée. Jamais vous ne vous douteriez que
+    c’est une manigance d’Hérodé. Cependant j’ai des preuves en main. Or donc, je vous prie d’écrire
+    un billet au <rs ref="people.xml#bob01"> Sr B</rs>. et de lui dire que vous avez ordre de ma
+    part de lui faire savoir que le banquier <persName ref="people.xml#sut01">
+     Southerland</persName> lui fera tous les ans crédit pour la somme de trente mille roubles et
+    que lui <rs ref="people.xml#bob01"> B</rs>. est très fort le maître de rester là où il
+    lui plaira le mieux, qu’il dépend aussi de lui de revenir. Il faut que vous sachiez que la
+    maudite clique ci- dessus nommée du boutonné a fait naître dans la tête de <rs
+     ref="people.xml#bob01"> B</rs>. un fantôme qu’il s’imagine avoir pour ennemi, quoique ce
+    prétendu ennemi ne l’a jamais été de qui que ce soit. Vous ferez encore mieux si vous pouvez le
+    faire venir chez vous et lui parler vous-même, et conseillez-lui qu’il s’adresse à vous; vous
+    verrez qu’il ne manque pas d’esprit, mais qu’il est très difficile de gagner sa confiance. Je
+    vous demande excuse de la peine que je vous donne, et vous laisse le maître d’agir comme il vous
+    plaira, pourvu que l’autre soit instruit qu’il ne manquera point de recevoir son revenu net tous
+    les ans.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00845</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00845</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-11-09">09 November 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00845">
+                <body>
+                    <opener><dateline><date when-custom="1788-04-20">Апр[еля] 20 ч., 1788</date>
+                        </dateline><salute rend="inline">Друг мой <persName ref="people.xml#pot01"
+                                >Князь Григорий Александрович.</persName></salute></opener>
+                    <p>Письмы и репорты твои от 6 апреля я получила в самый день праздника, с
+                        которым тебя поздравляю, и желаю тебе щастия, здоровья и силы душевной и
+                        телесной в высшней мере. Спасибо тебе, что немешкотно ты ответствовал на мои
+                        письмы о шведском вооружении. Оне в самом деле существуют, но будут ли
+                        употреблены в действие противу нас - сие время докажет. Между тем, здравый
+                        рассудок требует, чтоб с той стороны были всячески обезабочены мы, наипаче
+                        во всех тех способах, кои от нас самих зависят: и для того на море
+                        изготовляются, как тебе уже известно, 10 кораблей и прочее. А вчерашний день
+                        я подписала набор из церковников. И так наша постура теперь весьма
+                        почтительна. Датчанам также сказано, чтоб свой долг не упустили, в чем не
+                        откажут, я уверена. Лишней же тревоги никакой, конечно, не окажем. <persName
+                            ref="people.xml#nol01">Нолькен</persName> сам собою изъяснился, по
+                        городовым слухам о войне с шведами, с <persName ref="people.xml#ost01"
+                            >Вице-канцлером</persName> и между прочими речами сказал, что <persName
+                            ref="people.xml#gus01">Король</persName> его без сумашествия подобный
+                        шаг предпринять не может, но что от молодежи, его окружающей, всякую
+                        нелепо[сть] ожидать немудрено, и естьли сие зделается, то он, <persName
+                            ref="people.xml#nol01">Нолькен,</persName> поедет жить в <placeName
+                            ref="places.xml#liv02">Лифляндии.</placeName> Сказывают, что шведская
+                        нация на сие не будет взирать с приятностию, а очень статься может, что
+                            <persName ref="people.xml#gus01">Король,</persName> выманя деньги у
+                        других держав под видом вооружения, потом оные покинет.</p>
+                    <p>Отселе писано к <persName ref="people.xml#raz02">Разумовскому,</persName> и
+                        надеюсь, что все на речах кончится. Перлюстрированное письмо <persName
+                            ref="people.xml#lig02">Линьева сына</persName> не великое уважение
+                        прибавляет к распорядку нашего союзника; но лутче его иметь для, нежели
+                        противу нас, как в прошедшей войне.</p>
+                    <p>Пришли ко мне чертеж двойных шлюпок, как у тебя строятся и какие советуешь
+                        употребить. Касательно мещан и ямщиков пришли план и штат, как их
+                        формировать на казацкий образец. Я надеюсь теперь получить вскоре известие о
+                        выступлении войск, понеже и у нас уже трава показалась и погода весенняя и
+                        красная.</p>
+                    <closer><signed>Прощай, мой друг, будь здоров и весел. По полученным из
+                                <placeName ref="places.xml#ist01">Царяграда</placeName> известиям,
+                            то капитан-паша выжидает только первой неудачи турков, чтоб сильно
+                            домогаться о мире, и повсюду разнесся, что под осень заключен будет. Дай
+                            Боже. Я сие от сердца желаю и чтоб ты сюда возвратился, и я б не была бы
+                            без рук, как ныне.</signed></closer>
+                        <postscript><p rend="below">Как возьмешь с Божиею помощию <placeName
+                                ref="places.xml#och01">Очаков,</placeName> тем и кончится, а
+                                <persName ref="people.xml#bul01">Булгакова</persName> я щитаю теперь
+                            уже в <placeName ref="places.xml#liv01">Ливорно,</placeName> понеже
+                            хотели его отпустить в половину марта, морем.</p></postscript>
+                        
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

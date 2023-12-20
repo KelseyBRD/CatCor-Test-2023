@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02702</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02702</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:14:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02702">
+  <body>
+ 
+   <opener><dateline> Сe <date when-custom="1765-06-27">27 juin 1765</date>.</dateline></opener>
+   <p>J’ai été très édifiée, Monsieur, de la saine raison qui règne dans le <rs
+     ref="works.xml#destru01"> livre</rs> que vous m’avez envoyée (sic). Veuille le ciel qu’elle
+    gagne cette raison partout le dessus. Il est étonnant que depuis que le monde existe, il n’y ait
+    qu’elle qui, la plupart du temps a eu le dessous; les maximes delà page 121
+    aurait (sic) cependant dûs (sic) servir sur cette matière de règle en tout lieu, comme les plus
+    simples et les plus naturelles à suivre. Malgré l’esprit et les finesses qu’on attribue à
+    l’ordre des <orgName ref="orgs.xml#jesu01"> Jésuites</orgName>, il me semble que la plus lourde
+    faute qu’ils ont faite et qu’aucun institut ne peut commettre, c’est de ne pas s’établir sur des
+    principes qu’aucune raison ne puisse renverser, car on a beau dire, le vrai ne peut se détruire;
+    mais les illusions se détruisent, toutes les disputes qui en dérivent deviennent absurdes. Ce
+    qui jamais (sic) a fait déraisonner le monde entier, c’est que ceux qui l’auraient pu instruire
+    ne l’ont pas fait par différents motifs. C’est à vous, monsieur, plus qu’à tout autre, à prêter
+    l’appui de votre génie à la raison, pour l’aider à percer les ténèbres qui l’empêchent de faire
+    les progrès qui lui sont dus. Je me souviens toujours du catéchisme que vous avez entrepris et
+    que vous craignez d’achever. Hélas, Monsieur, si les persécutions imbéciles des fanatiques vous
+    font peur, au moins confiez m’en une copie ; je vous engage ma parole, que jamais on ne saura
+    que je l’ai de vous; mais aussi en ferai-je usage pour la raison, avec toute la prudence civile
+    et politique dont je serai capable. La confiance que vous me marquez dans votre lettre du 15
+    avril, m’autorise à vous faire cette demande; mes occupations quelconques ne m’empêcheront
+    jamais de lire avec le plus grand plaisir vos lettres et vos écrits. J’ai lue (sic) ces derniers
+    au milieu d’une Compagnie bruyante de 33,000 hommes, avec lesquels je campe depuis 8 jours ;
+    cela n’est guère intéressant pour vous, aussi je ne le vous mande que comme un témoignage que
+    j’ai toujours du temps pour recevoir les lumières que vous voudrez bien me donner. J’attends
+    celle que vous me promettez, avec la dernière impatience. Il y a longtemps que je m’étais
+    proposée (sic) de vous l’écrire, vous devant en quelque façon une réponse. Je voulais y joindre
+    certain cahier, mais il a fallu du temps pour le rendre raisonnable et encore n’est-il pas
+    achevé; si vous l’approuvez, j’en serai contente ; vous y verrez comme pour l’utilité de mon
+    empire j’ai pillé le président de <persName ref="people.xml#mon03">Montesquieu</persName>, sans
+    le nommer; j’espère que si de l’autre monde il me voit travailler, il me pardonnera ce plagiat
+    pour le bien de trente millions d’hommes qui en doit résulter; il aimait trop l’humanité pour
+    s’en formaliser. Son livre est mon bréviaire.</p>
+   <p>Voilà, Monsieur, un exemple du destin qu’ont les livres des hommes de génie; ils servent au
+    bien-être du genre humain.</p>
+   <p>Voilà le sort des vôtres ; je vous parle peut-être comme un inspiré; mais mon fanatisme hait
+    la persécution et il s’enthousiasme pour les ouvrages où le génie guide la raison; écrivez
+    toujours, je tâcherai d’appliquer; je suis comme toujours, avec la considération due à vos
+    talents, </p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName>
+   </signed></closer>
+  </body>
+ </text>
+</TEI>

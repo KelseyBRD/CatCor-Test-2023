@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03015</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03015</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-13">13/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:38:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03015">
+  <body>
+  
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1778-10-01">1 d’octobre 1778</date>. Réponse au No 22.</dateline></opener>
+   <p>Il y a très longtemps que dans mes actions je ne prends plus garde à deux choses, et qu’elles
+    n’entrent en rien eu ligne de compte dans tout ce que je fais: la première, c’est la
+    reconnaissance des hommes, la seconde l’histoire. Je fais le bien pour faire le bien, et puis
+    c’est tout; voilà ce qui m’a relevée du découragement et de l’indifférence pour les choses de ce
+    monde que je me suis sentis à la nouvelle de la mort de <persName ref="people.xml#vol01"> Voltaire</persName>. Au reste, c’est
+    mon maître; c’est lui ou plutôt ses oeuvres qui ont formé mon esprit et ma tête. Je vous l’ai
+    dit plus d’une fois, je pense: je suis son écolière; plus jeune, j’aimais à lui plaire; une
+    action faite, il fallait, pour qu’elle me plût, qu’elle fût digne de lui être dite, et tout de
+    suite il en était informé; il y était si bien accoutumé qu’il me grondait lorsque je le laissais
+    manquer de nouvelles et qu’il les apprenait d’autre part. Mon exactitude sur ce point s’est
+    ralentie les dernières années par la rapidité des événements qui précédèrent et succédèrent à la
+     <rs ref="events.xml#kuchu01">paix</rs>, et par le travail immense que j’ai
+    entrepris j’ai perdu la coutume d’écrire des lettres, et je me sens moins de disposition et de
+    facilité à en écrire.</p>
+   <p>Je vous ai beaucoup d’obligations de la persévérance que vous me supposez à cultiver,
+    arranger, tripoter etc. J’en conviens, toutes choses vont leur train comme ci-devant,
+    mais <persName ref="people.xml#vol01"> Voltaire</persName> n’est plus, et <seg xml:lang="en"> milord</seg>
+    <persName ref="people.xml#pit02"> Chatam</persName> manque à l’<placeName ref="places.xml#eng01"> Angleterre</placeName>. Vous
+    retrouvez la nation anglaise dans ce qu’elle a fait pour honorer la mémoire de <seg
+     xml:lang="en"> milord</seg>
+    <persName ref="people.xml#pit02"> Chatam</persName> et dans la récompense qu’elle a donnée à sa
+    descendance, et moi je n’ai pu lire ni l’un ni l’autre sans sentir de l’indignation. Il m’a paru
+    que c’était une insulte que lui faisaient ses ennemis: quoi, ce parlement vendu, réjoui de sa
+    mort, le fait enterrer et fait pension à ses enfants! Cela ressemble à ce tyran, empereur
+    romain, qui disait que le corps d’un ennemi mort sentait bon. Eh, que ne l’honorait-il lorsqu’il
+    pouvait être utile à la patrie, que ne suivait-on ses idées et ses plans par acclamation? <rs
+     ref="people.xml#pit02"> Sa dernière harangue</rs> au parlement contenait précisément ce que
+    j’ai deviné qu’il pensait, il y a deux ans. Si mon ministre eût été le baron <persName ref="people.xml#gri01">
+    Grimm</persName>, je l’aurais grondé de ce qu’il n’a point réclamé en mon nom le corps de <persName ref="people.xml#vol01">
+    Voltaire</persName> resté sans sépulture dans sa patrie; mais il faut rendre justice à un chacun: le
+     <persName ref="people.xml#bar02"> prince Bariatinski</persName> ne doit point être grondé, non
+    plus que l’ <persName ref="people.xml#mig01"> abbé Mignot</persName>, de ne me l’avoir pas
+    envoyé tout emballé.</p>
+   <p>Je suis bien aise de savoir la cause de votre silence, car bonnement je croyais que mon crédit
+    chez vous clignotait, et que quelque prince d’<placeName ref="places.xml#ger01"> Allemagne</placeName> m’avait éxpulsée de votre
+    souvenir. Vu la passion que je vous connais pour eux, je disais en moi-même: il est à la piste
+    de quelque génie rare, comme nous lui en avons vu. Pour les chagrins que vous cause l’amitié,
+    soyez persuadé que j’y prends une part sincère, comme à tout ce qui vous regarde</p>
+   <p>Vous me faites un récit délicieux de l’achat de la bibliothèque de <persName ref="people.xml#vol01"> Voltaire</persName>.
+    Dieu donne que <persName ref="people.xml#den02"> madame Denis</persName> reste ferme dans ses
+    résolutions, et qu’il vous bénisse vous de vos comportements, eu égard à l’histoire du
+    soi-disant achat de la bibliothèque de <placeName ref="places.xml#fer01"> Ferney</placeName>. <seg xml:lang="it"> Primo</seg>,
+    j’ai ordonné de vous envoyer une lettre de crédit pour trente mille roubles; <seg xml:lang="it">secondo</seg>, voici ma lettre à <persName
+     ref="people.xml#den02"> madame Denis</persName>; 3-o, la boîte à portrait va être travaillée et
+    ira de compagnie avec 4-o, les diamants, et 5-o, la fourrure se rendra en droiture chez vous,
+    afin que vous fassiez échange de tout cela contre la susdite bibliothèque, mais surtout ayez
+    soin que mes lettres s’y trouvent, et que rien ne soit détourné de ce qui est réellement
+    intéressant.</p>
+   <p>Mais pour que vous puissiez compléter les mémoires pour servir à l’histoire des héritiers des
+    grands hommes, il est bon que vous soyez instruit du trait suivant. <persName
+     ref="people.xml#bou02"> Corberon</persName> est venu ces jours passés chez <persName
+     ref="people.xml#shu02"> M. de Schouvalof</persName> et lui a dit que l’ <persName
+     ref="people.xml#mig01"> abbé Mignot</persName> et <rs ref="people.xml#dom02"> compagnie</rs>
+    lui avait écrit et fait écrire de prier <persName ref="people.xml#shu02"> M. de
+     Schouvalof</persName> pour qu’il suppliât l’ <persName ref="people.xml#cat01"> impératrice
+     de <placeName ref="places.xml#rus01"> Russie</placeName></persName> de ne pas les priver de la bibliothèque de leur oncle,
+    qu’elle faisait acheter de <persName ref="people.xml#den02"> madame Denis</persName>, que
+    c’était l’unique bien qui leur restât de leur oncle. <persName ref="people.xml#shu02"> M.
+     Schouvalof</persName> a répondu qu’il ne pouvait se charger d’une aussi sotte prière, que
+     <persName ref="people.xml#den02"> madame Denis</persName> était la maîtresse de vendre et que
+    l’impératrice était en droit d’acheter ce qu’il lui plaisait, que ce n’était ni la première, ni
+    la dernière chose qu’elle achèterait dans ce genre. Je lui ai dit d’ajouter qu’il n’était pas
+    conséquent de vouloir garder dans un pays ce pour quoi l’on privait les citoyens de la
+    sépulture. Prenez donc garde qu’on ne vous escamote ou ne vous change en nourrice cette
+    bibliothèque: vous voyez que ces chers neveux ne demanderont pas mieux que de voir brûler en
+    Grève la bibliothèque de <persName ref="people.xml#vol01"> leur oncle</persName>. Les lettres
+    de <persName ref="people.xml#vol01"> Voltaire</persName> que je suis à chercher et dont <persName ref="people.xml#fal01">
+     Falconet</persName>, NB qui est parti d’ici sans prendre congé de moi, pourrait bien avoir
+    emporté grand nombre qu’il m’avait priée de lui donner à lire et qu’il ne m’a jamais rendus, si
+    ma mémoire ne me trompe. Dès qu’elles seront trouvées, j’en ferai un paquet que je vous
+    enverrai; jusqu’ici il n’y en a encore de déterrées que 92.</p>
+   <p>La fameuse écritoire fait l’ornement de mon <placeName ref="places.xml#her01">
+     hermitage</placeName>, de même que les <title ref="works.xml#voltai02"> deux bustes
+     de <persName ref="people.xml#vol01"> Voltaire</persName></title>; j’aime mieux le buste sans perruque; vous connaissez mon
+    aversion pour les perruques et surtout pour les bustes à perruques: il me semble toujours que
+    toute perruque est mise pour rire. J’ai fait rendre au <persName ref="people.xml#tey01">
+     chevalier de la Teissonnière</persName> le paquet que vous m’avez envoyé pour lui. Le prince
+     <persName ref="people.xml#pot01"> Potemkine</persName> a pris cet officier en affection et
+    s’entretient avec lui volontiers; surtout dans ses fréquentes courses il le met dans son
+    carrosse et s’amuse à l’entendre conter ses voyages et ses campagnes. Je vois avec plaisir que
+    vous soyez content de mon <rs ref="people.xml#pet02"> coadjuteur</rs>. </p>
+   <closer><signed rend="inline">Adieu</signed></closer>
+  </body>
+ </text>
+</TEI>

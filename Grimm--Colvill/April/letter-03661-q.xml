@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03661</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03661</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find information on Schnoor.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:53:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03661">
+  <body>
+ <div>
+   <opener><dateline> Ce <date when-custom="1788-03-03">3 mars</date>.</dateline></opener>
+   <p>Le g-l <persName ref="people.xml#lev01"> Lévachof</persName> est arrivé depuis trois jours, et
+    il m’a apporté votre lettre, monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs>, du 30
+    janvier (10 février) et tous les paquets de livres adhérents à cette courte dépêche de six
+    pages. Je ne sais ce que c’est que le voyageur russe qui a demandé à <persName
+     ref="people.xml#did03"> Didot</persName> s’il pouvait graver les caractères russes; ce qu’il y
+    a de sûr, c’est que nous n’avons pas besoin de cela, parce qu’on grave, imprime et fait des
+    lettres chez nous, et que nommément Schnoor a imprimé et imprime l’alcoran et toutes les
+    écritures tatares, que c’est un plaisir, et qu’il a des correcteurs de toutes ces nations à
+    gages; or, imprimant dans ces langues-là, comment n’en ferait- il pas autant en russe? or donc
+    Sa Majesté ignore la question faite à <persName ref="people.xml#did03"> Didot</persName>, comme
+    vous jugez bien.</p>
+   <p>Je trouve la lettre du curé dont vous m’avez honorée moins bien écrite que celle de <persName
+     ref="people.xml#vol04"> M. de Volney</persName>. Vous m’aviez demandé une médaille pour
+     <persName ref="people.xml#bai01"> M. de Bailly</persName>; me semble, présentement vous voulez
+    une tabatière: soit, vous l’aurez, mais mes tabatières ne portent pas bonheur: <persName
+     ref="people.xml#gal05"> l’abbé Galiani</persName> est mort peu de temps après avoir reçu celle
+    que je lui ai envoyée. J’aime et j’estime le peu que j’ai lu des ouvrages de <persName ref="people.xml#bai01"> M.
+    Bailly</persName>. Vous voilà bien malheureux avec vos recommandations; eh bien, puisque c’est comme cela,
+    envoyez-nous M. des Veuelx (sic), ou envoyez-le au maréchal <persName ref="people.xml#pot01"> pr. Potemkine</persName>, et
+    qu’il parte avec les officiers qu’il voudra amener, fussent-ils vingt, puis- qu’enfin ils font
+    tant que de se repentir de leur vilaine inclination pour les marabouts.</p>
+   <p>Je me tais sur le nom de l’auteur de la lettre à ami <rs ref="people.xml#gus01"> Gu</rs>,
+    puisqu’il ne veut pas être nommé. Je suis bien aise que mon talent à ranger les pierres gravées
+    soit parvenu jusqu’à vous, et que vous commenciez enfin à rendre justice à mon mérite de ce
+    côté-là. Pour ce qui regarde les pauvres productions dramatiques que vous avez mises si bas, que
+    vous méprisez si fort, quoique le public les coure et que la direction y ait gagné dix à douze
+    mille roubles cet hiver, pour vous faire dépit je vous envoie la dernière pièce dont les
+    spectateurs ont raffolé: la voilà traduite en allemand, et malgré, votre critique, je vous
+    soutiens qu’elle est bonne et très bonne. Il est vrai que <persName ref="people.xml#lev01">
+     Lévachof</persName> ne fait pas l’éloge de vos portraits. Je ne sais pas si M. <rs
+     ref="people.xml#dmi01"> l’habit rouge</rs> vous écrira, lorsque ceci partira; mais ce qu’il y a
+    de sûr, c’est qu’en habit rouge il s’en va aujourd’hui à confesse, ce qui ne le met pas tout à
+    fait d’humeur couleur de rose.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1788-03-11">11 mars</date>.</dateline></opener>
+   <p><rs ref="people.xml#bez01"> Factotum</rs> dit que son courrier va partir et demande mon
+    paquet. Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>, je n’ai rien à ajouter à ce
+    verbiage, sinon que je me porte bien et que je souhaite que vous en fassiez autant. Je travaille
+    comme un cheval depuis quelque temps, et mes secrétaires, au nombre de quatre, ne peuvent plus
+    suffire: je suis obligée d’en augmenter le nombre. Je suis devenue toute écriture et mes pensées
+    se délaient en encre. <seg xml:lang="de"> Mein Lebetag habe ich nicht so viel geschrieben. Im
+     Anfange des Krieges wollte ich nichts sehen und hören als Krieg, und jetzt muß ich Alles das
+     nahholen, was ich habe liegen laßen, um wieder vor dem Frühjahre das</seg> courente <seg
+     xml:lang="de"> zu gewinnen; das ist ein sehr scharfer L</seg>auf.</p>
+  <closer><signed rend="inline"> Adieu, en voilà assez.</signed></closer></div>
+  </body>
+ </text>
+</TEI>

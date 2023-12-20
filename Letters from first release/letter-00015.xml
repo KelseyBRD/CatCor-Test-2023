@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00015</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00015</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#selfportraits"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-03">03 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and annotation.</p>
+            </change>
+            <change>
+                <date when="2015-04-26">26 April 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00015">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#tsa01"
+                                >Tsarskoe-Sélo</placeName>
+                            <date when-custom="1774-08-22">ce 22 d'août
+                        1774</date>.</dateline></opener>
+                    
+                    <p>J'avoue très naïvement à V. A. R. que je me doutais du plaisir que Lui ferait
+                        la nouvelle de la conclusion de ma paix avec <placeName
+                            ref="places.xml#ott01">la Porte</placeName>. Sa lettre du 15 d'août, que
+                        je viens de recevoir, m'a convaincue que je ne saurais me tromper chaque
+                        fois que je compterais sur les sentiments de l'amitié de V. A. R. à mon
+                        égard. Je Lui ai mille obligations de tout ce qu'Elle veut bien me dire
+                        d'affectueux et de flatteur sur cet événement qui rend le repos à mon
+                        empire.</p>
+                    <p>Je crains bien que lorsque V. A. R. verra ces réponses aux <rs
+                            ref="works.xml#questi01">questions</rs> de <persName
+                            ref="people.xml#did01">Diderot</persName> prônées par le Sr. <persName
+                            ref="people.xml#gri01">Grimm</persName>, Elle ne trouve la montagne
+                        accouchée d'une souris; j'avoue que je suis un peu honteuse de les voir
+                        paraître devant V. A. R.</p>
+                    <p>J'ai tout lieu d'être extrêmement sensible au souvenir de mad. la <persName
+                            ref="people.xml#phi01">duchesse de Brunswic</persName>, dont V. A. R. me
+                        fait part; les circonstances des différents séjours que j'ai faits à sa cour
+                        dans mon enfance, sont très présentes à ma mémoire, et entre autres je me
+                        souviens de Lui avoir voué, à l'âge de huit ou neuf ans, une reconnaissance
+                        ineffaçable pour m'avoir sauvée par son intercession d'une punition très
+                        méritée que feu ma mère voulait m'infliger.</p>
+                    <p>V. A. R, n'ignore plus, comme je vois par Sa lettre, que <rs
+                            ref="people.xml#gus01">S. M. Suédoise</rs> malgré ce qu'elle m'a fait
+                        dire et répéter d'affirmatif sur son voyage, n'est pas venu cependant, comme
+                        j'ai osé le deviner d'avance. Mais ce qui n'est pas encore parvenu, je
+                        pense, à la connaissance de V. A. R., c'est que ce prince m'a fait une
+                        lettre dans laquelle il me donne sa parole d'honneur (que je ne lui ai point
+                        demandée) de venir l'année qui vient.<note type="editorial">On 7 July 1774
+                            (NS), Gustav III of Sweden wrote to Catherine in an autograph letter:
+                            'Ce n'est pas par des paroles que je veux vous convaincre, Madame, de
+                            mes sentiments pour Vous, c'est par une conduite droite et uniforme et
+                            par les mesures que je prendre pour que rien au monde ne puisse empêcher
+                            l'année prochaine cette entrevue avec Votre Majesté Impériale, que je
+                            désire avec tant d'ardeur et d'impatience et dont je vous donne ma
+                            parole d'honneur' (<bibl><title ref="works.xml#cather01">Catherine II et
+                                    Gustave III: une correspondance retrouvée</title>, <biblScope unit="pp">pp. 52-53</biblScope></bibl>).</note> Je suis bien
+                        fâchée d'être dans le cas de me trouver obligée de la lui rendre; mes
+                        affaires m'appellent à <placeName ref="places.xml#mos01">Moscou</placeName>,
+                        où je me transporterai à la fin de cette année ou au commencement de la
+                        suivante; mon séjour y sera environ d'un an à vue de pays.<note
+                            type="editorial">On reading this letter, Frederick the Great commented
+                            to his brother: 'J'avoue que S.M. Suédoise a bien donné lieu au
+                            mécontentement de l'Impératrice; car c'est se moquer d'elle que de lui
+                            annoncer toujours son arrivée et de ne s'y rendre jamais. Souvent ces
+                            petites choses laissent de longues impressions et, dans leur temps,
+                            influent sur les grandes; mais ce n'est pas ma faute' (<bibl><title
+                                    ref="works.xml#politi01">Politische Correspondenz Friedrich's
+                                    des Großen</title>, <biblScope unit="vol">xxxvi</biblScope>,
+                                    <biblScope unit="pp">p. 46</biblScope> (<idno>Letter
+                                    23336</idno>)</bibl>).</note></p>
+                    <p>V. A. R. juge bien que ce n'est pas de voir retarder la visite du <rs
+                            ref="people.xml#gus01">roi de Suède</rs> que je suis le plus affectée
+                        dans cette circonstance, mais bien autrement de ce que ce voyage éloigne le
+                        plaisir dont je m'étais flattée de revoir V. A. R. immédiatement après la
+                        paix et même de la fêter avec Elle.<note type="editorial">With Pugachev
+                            approaching Moscow and thus the heart of the Russian Empire threatened
+                            by the uprising, Catherine wanted to travel personally to the ancient
+                            capital to demonstrate her strength and fearlessness and to rouse the
+                            public defense. Her advisors dissuaded her from this step, and she did
+                            not travel to Moscow until early 1775, following Pugachev's execution in
+                            that city on 10 January 1775 (OS). Henry and his brother Frederick had
+                            been anticipating that Henry would have to go to Russia to celebrate
+                            Catherine's peace with the Turks. Although they had not expected
+                            Catherine to put off Henry's visit, they had been eagerly seeking news
+                            about Pugachev and about Catherine's relations with Sweden. On 5
+                            September 1774 (NS), for example, Frederick wrote to his brother: 'Les
+                            Français craignent que la Russie ne tombe à présent sur le corps du roi
+                            de Suède [...] La Russie ne pense pas à présent à la Suède; ce
+                            Pugatschew lui donne beaucoup d'occupation [...] Et l'on m'avertit, en
+                            même temps, que l'Impératrice se propose, mon cher frère de vous inviter
+                            là-bas pour assister aux fêtes qu'elle veut donner pour la paix des
+                            Turcs. Je crains que cette invitation ne vous soit pas fort agréable,
+                            mais je ne vois pas trop comment la refuser, sans indisposer contre vous
+                            et contre nous l'Impératrice, que notre maison a tout sujet de ménager.
+                            [...] l'impératrice de Russie ne tardera pas à vous en écrire elle-même
+                            [...]'. On 15 September (NS), Henry declared his willingness to go to
+                            Russia: 'Je n'aurais jamais de répugnance, lorsqu'il s'agit même du
+                            moindre service, lorsque je me trouve, mon très cher frère, en état de
+                            vous le rendre; je ne pense donc plus au barbare climat de la Russie ni
+                            à la longueur d'un voyage ni à tout plein de difficultés'; three days
+                            later, Frederick wrote back with a certain amount of mockery: 'Je vous
+                            applaudis, mon cher frère, et je vous trouve inimitable; car, en vérité,
+                            personne ne me déterminerait à faire le voyage de Russie, quoique je ne
+                            l'aie jamais fait. C'est un terrible pays où, dans le fond, le gros de
+                            la nation est encore très barbare' (<bibl><title
+                                    ref="works.xml#politi01">Politische Correspondenz Friedrich's
+                                    des Großen</title>, <biblScope unit="vol">xxxvi</biblScope>,
+                                    <biblScope unit="pp">p. 33</biblScope> (<idno>Letter
+                                    23318</idno>)</bibl>). The present letter from Catherine to
+                            Henry put an end to these deliberations, at least temporarily. Upon
+                            reading Catherine's letter, Frederick wrote to his brother: 'Je crois,
+                            mon cher frère, que, comme elle a là-bas des séditions à apaiser,
+                            qu'elle est peut-être bien aise de n'y point avoir de témoins, et que
+                            c'est une raison pourquoi elle vous renvoie à son retour' (<bibl><title
+                                    ref="works.xml#politi01">Politische Correspondenz Friedrich's
+                                    des Großen</title>, <biblScope unit="vol">xxxvi</biblScope>,
+                                    <biblScope unit="pp">pp. 4-5, 46</biblScope> (<idno>Letters
+                                    23286</idno>, <idno>23336</idno>)</bibl>).</note> Ce me sera un
+                        motif de plus de hâter mon retour à <placeName ref="places.xml#pet01"
+                            >Pétersbourg</placeName>; c'est alors, tout comme à présent, que je ne
+                        négligerai aucune occasion pour témoigner V. A. R., de bouche comme par
+                        écrit, les sentiments de la plus haute considération...</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">at Tsarskoe Selo, <date>this 22 August
+                                1774</date>.</dateline></opener>
+                   
+                    <p>I admit most candidly to Your Royal Highness that I had suspected the
+                        pleasure that the news of my peace concluded with the Porte would cause You.
+                        Your letter of 15 August, which I just received, has convincement that I
+                        could never go wrong in counting upon Your Royal Highness's sentiments of
+                        friendship towards me. I am a thousand times indebted to You for all the
+                        affectionate and flattering things that You are kind enough to say to me
+                        about this event, which restores calm to my empire.</p>
+                    <p>I fear that when Your Royal Highness sees those responses to Diderot's
+                        questions, which Grimm has extolled, You will find that a mountain has been
+                        made of a molehill. I admit that I am a bit ashamed to see them appear
+                        before Your Royal Highness.</p>
+                    <p>I have every cause to be extremely touched by the duchess of Brunswick's
+                        remembrance of me, of which Your Royal Highness informs me. I recall very
+                        well the circumstances of my various stays at her court. Amongst other
+                        things, I remember being eternally grateful to her, at the age of eight or
+                        nine, for having saved me by her intercession from a well-deserved
+                        punishment that my late mother wanted to inflict on me.</p>
+                    <p>Your Royal Highness is no longer ignorant, as I see by Your letter, that His
+                        Swedish Majesty, despite that which he had had said and repeated to me
+                        positively about his journey, nonetheless did not come, as I had dared to
+                        guess in advance. But it has not yet been brought to Your Royal Highness's
+                        knowledge, I think, that that prince has written me a letter in which he
+                        gives me his word of honour (which I did not ask of him) to come next year.
+                        I am quite vexed to find that I must free him of it: business calls me to
+                        Moscow, whither I shall convey myself at the end of this year or the start
+                        of th next. My stay will be of about a year, as far as I can see from here. </p>
+                    <p>Your Royal Highness can well believe that I am most affected not by seeing
+                        the king of Sweden's visit delayed by these circumstances, but rather by the
+                        fact that this journey will put off the pleasure that I had hoped to have of
+                        seeing Your Royal Highness again immediately after the peace was made and
+                        even of celebrating it with You. That will be another motivation for me to
+                        hasten my return to St. Petersburg, which is when, just as now, I will on no
+                        occasion fail to express to Your Royal Highness, orally as in writing, the
+                        sentiments of the highest consideration...</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

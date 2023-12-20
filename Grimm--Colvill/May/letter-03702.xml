@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03702</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03702</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:01:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03702">
+  <body>
+
+  <opener> <dateline> Ce <date when-custom="1795-01-16">16 janvier 1795</date>.</dateline></opener>
+   <p>Voilà seize jours bien remplis. Le 1 janvier, jour de l’an, fête. Le six janvier, jour des
+    rois, fête et bénédiction des eaux. Le sept janvier est née la <persName ref="people.xml#ann01">
+     Gr Duch. Anne</persName>. Le 13 janvier fête an sujet du jour de naissance de la <persName
+     ref="people.xml#eli04"> Gr. Duch. Elisabeth</persName>. Le 14 janvier le baptême de la <rs
+     ref="people.xml#ann01"> nouveau-née</rs>. Le 15 janvier est décédée la Gr. <persName
+     ref="people.xml#olg01"> Duchesse Olga</persName>. Imaginez-vous de quoi ! Il y a dix-huit
+    semaines qu’il lui a pris une faim telle qu’elle voulait manger à tout moment; à la suite de
+    cela une croissance extraordinaire pour un enfant de deux ans et demi, après quoi, et en même
+    temps, une grande quantité de dents mâchelières, et, après 16 semaines de souffrances et une
+    fièvre lente de consomption, une agonie affreuse de 24 heures; elle est morte hier entre sept et
+    huit heures du soir. Vendredi ou samedi l’enterrement. Tournez.</p>
+  <closer> <signed>Adieu, portez-vous bien. J’en fais autant.</signed></closer>
+  </body>
+ </text>
+</TEI>

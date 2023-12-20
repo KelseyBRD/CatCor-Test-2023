@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08258</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08258</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-12">12-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-07-13T11:25:35Z</date><name>Kelsey B Rubin-Detlev</name></change>
+   <change><date when="2021-07-13">13-07-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change></revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08258">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet02"> Péterhof</placeName>, où ni moi ni
+      <persName ref="people.xml#tho01"> Thomas</persName> nous ne nous plaisons point et où
+     cependant nous sommes tous les deux depuis un mois, ce <date when-custom="1774-07-14">14
+      juillet 1774</date>.</dateline></opener>
+   <p>Monsieur <persName ref="people.xml#dan01"> George Dandin</persName>, s’il vous plaît,
+    qu’est-ce que ces émissaires que vous me dépêchez? <persName ref="people.xml#rie01">
+     Riedesel</persName> est venu me faire ici des galimatias de votre part, auxquels je veux mourir
+    si j’entends goutte. Si je ne me trompe, depuis le mois de septembre je n’ai cessé de répéter,
+    aussi souvent qu’il vous a plu de me mettre dans le cas, que monsieur <persName
+     ref="people.xml#dan01"> George Dandin</persName> était parfaitement le maître de ses
+     actions, <hi rend="italic">de rester, d'aller, de revenir</hi>. Or, je crois que M. <persName
+     ref="people.xml#dan01"> George Dandin</persName> et compagnie nous prennent <persName
+     ref="people.xml#tho01"> Tom</persName> et moi, Dieu me le pardonne, pour des girouettes de
+    clocher, puisqu’à tout bout de champ ils s’étudient à faire répéter des paroles aussi claires,
+    aussi laconiques que peu propres à interprétation quelconque, ou bien aussi selon le texte
+    d’aujourd’hui de l’évangile vous avez des oreilles et vous n’entendez pas, et de l’entendement
+    sans compréhension. Cette dernière expression me paraît cependant d’une force qui sent
+    l’impolitesse. J’ai eu de la peine à l’employer, <hi rend="italic">car</hi> vous savez que je
+    suis polie; vous m’avez donné pareil attestât de bouche et par écrit, et vous n’êtes pas homme à
+    vous dédire, quoique vous et vos adhérents soupçonniez les autres de girouetterie. Je me doute
+    d’où vous vient ce petit <hi rend="italic">scripile</hi>: c’est, je veux parier, parce qu’en
+    votre présence je me suis éloignée de certain excellent, mais très ennuyeux <rs
+     ref="people.xml#vas01"> citoyen</rs>, qui a été tout de suite remplacé, je ne sais pas trop
+    comment, par <rs ref="people.xml#pot01"> un</rs> des plus grands, des plus drôles et des plus
+    amusants originaux de ce siècle de fer.</p>
+   <p>Mais à propos de cela, je viens de recevoir votre lettre de <placeName ref="places.xml#ber01">
+     Berlin</placeName> du 30 juin, et j’ai été enchantée de l’acceuil que le <persName
+     ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">
+    Prusse</placeName></persName> vous a fait, et que l’un à l’autre vous vous faisiez la cour. Je
+    ne suis point étonnée de ce qui s’est passé à <placeName ref="places.xml#rhe01">
+     Rheinsberg</placeName> ; je connais l’amitié du <persName ref="people.xml#hen02"> prince
+     Henri</persName>.</p>
+   <p>Voulez-vous des nouvelles d’ici? Il y a huit jours que par une très longue lettre <rs
+     ref="people.xml#gus01"> S. M. suédoise</rs> a annoncé ce dont nous nous doutions, malgré toutes
+    les assurances du contraire, qu’il se tuait à nous donner sans qu’on l’en priât, savoir qu'il ne
+    viendrait pas.</p>
+   <p>Vous aurez en <placeName ref="places.xml#fra01"> France</placeName> un règne de vigueur; ne
+    voilà-t-il pas que le <rs ref="people.xml#lou01">roi</rs> et tous ses frères se sont fait
+    inoculer? Je souhaite de tout mon coeur que les eaux de <placeName ref="places.xml#kar01">
+     Carlsbad</placeName> rendent de la sagesse à vos boyaux et que vous croissiez en vertu, en
+    science et en belle humeur, jusqu’à la fin des siècles ou du siècle, à votre choix. Il m’est
+    impossible de vous laisser ignorer que M. <persName ref="people.xml#tho01"> Tom</persName> a une
+    fille charmante, dont il est fou et qui lui ressemble de figure et d’humeur; vous devez être
+    parfaitement heureux de savoir cela. Le maréchal <persName ref="people.xml#rum01">
+     Roumiantsof</persName> fait en delà du <placeName ref="places.xml#dan01"> Danube</placeName> de
+    fort jolies choses, que vous pourrez lire dans les gazettes. Mais après avoir dit tout cela, je
+    n’ai garde de signer.</p>
+  </body>
+ </text>
+</TEI>

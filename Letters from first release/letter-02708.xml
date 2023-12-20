@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02708</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02708</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#health"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-03-17">17 March 2016</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>File created, letter marked up and translated.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02708">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#tsa01"
+                                >Czarskoçelo</placeName>
+                            <date rend="inline" when-custom="1783-04-21">ce 21 d'avril [v.st.]
+                                1783</date></dateline>
+                    <salute>Soyez assuré, mon cher Frère,</salute></opener>
+                    <p rend="inline">que Vous ne Vous trompez pas quand Vous me dites, que Vous êtes
+                        persuadé que je partage Vos joies et Vos chagrins. J'ai senti une vraie
+                        peine de la mauvaise nouvelle que Votre lettre du 28 mars m'annonce, je
+                        souhaite de tout mon cœur, que Vous répariez au plus tôt cette perte si
+                        sensible. Mais puisque Vous me faites l'honneur de me parler en détail de
+                        l'accident qui Vous a enlevé <rs ref="people.xml#cha03">Votre second
+                            Prince</rs>, permettez que je Vous recommande un remède efficace contre
+                        les convulsions, et surtout celles des enfants, quand ils font leurs dents,
+                        ce sont les gouttes de <persName ref="people.xml#bes01"
+                            >Bestouchef</persName>, je Vous prie de n'en point croire aux médecins
+                        et autres qui Vous diront que ces gouttes sont celles du G[énéra]l La Mothe.
+                        J'en ai vu faire des miracles à ce remède en pareil cas sur grand et petit,
+                        j'ai vu entre autres un enfant d'onze jours prêt à expirer de l'avis des
+                        médecins revenir contre leurs avis, avec ce remède, et qui vit encore et se
+                        porte parfaitement bien. J'ai vu il y a deux ans ici à <placeName
+                            ref="places.xml#tsa01">Czarskoçelo</placeName> un danseur français nommé
+                            <persName ref="people.xml#lef01">Le Febre</persName> tomber de ce mal à
+                        la répétition d'un ballet, huit hommes avaient peine à le tenir tant l'accès
+                        était violent, on voulait le saigner. Au lieu de cela, je lui ai fait donner
+                        les gouttes en question, à peine les eut-il avalées qu'il revint à lui, on
+                        les lui donna encore une fois le même soir et le lendemain au matin. Le soir
+                        de ce jour-là il se sentit si bien, qu'il fut en état de danser au ballet de
+                        la comédie. Je ne Vous dis que ce que j'ai vu de mes yeux. Outre cela c'est
+                        le seul remède efficace contre les coqueluches d'estomac; si je Vous en
+                        disais tout ce que j'en sais Vous me prendriez pour un charlatan. Je n'ai
+                        osé Vous en envoyer, mon cher Frère, mais en cas que Vous en souhaitiez et
+                        que Vous me les demandiez, si tant [il] y a que les bruits de Votre prochain
+                        voyage en <placeName ref="places.xml#fin01">Finlande</placeName> se
+                        vérifient, et qu'il Vous plaise de m'indiquer selon notre ancienne
+                        convention l'endroit sur la frontière où je pourrai avoir le plaisir et
+                        l'agrément de Vous revoir, je Vous remettrai moi-même un ou plusieurs
+                        flacons de cet excellent élixir.</p>
+                    <p>Le <persName ref="people.xml#gol03">prince Gallitzin</persName> est fort
+                        heureux d'avoir pu mériter Votre approbation.</p>
+                    <p>Que le Ciel Vous préserve à l'avenir de tout malheur; cette année est remplie
+                        de beaucoup d'événements qui m'ont sensiblement affectée, j'ai perdu
+                        plusieurs personnes que j'aimais et estimais, entre autres le <persName
+                            ref="people.xml#bau01">G[énéra]l Bauer</persName>, le <persName
+                            ref="people.xml#pan01">Comte Panin</persName>, le <persName
+                            ref="people.xml#orl01">Prince Orlof</persName>. <rs
+                            ref="works.xml#candid01">Ce meilleur des mondes possibles</rs> fait
+                        pousser bien des soupirs.</p>
+                    <closer>
+                        <signed>Adieu, mon cher Frère, portez-Vous bien et soyez assuré de la
+                            continuation de mon amitié.</signed>
+                        
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">at Tsarskoe Selo this 21st of April
+                            1783</dateline>
+                    <salute rend="inline">Rest assured, my dear brother, </salute></opener>
+                    <p>that you are not wrong when you say that you are convinced that I share in
+                        your joys and your sorrows. I felt real pain at the bad news announced in
+                        your letter of 28 March. I hope with all my heart that you can recoup such a
+                        painful loss as soon as possible. But since you do me the honour of telling
+                        me in detail about the accident which deprived you of your second prince,
+                        permit me to recommend an effective remedy against convulsions, and
+                        especially those of teething children: Bestuzhev drops. I beg you not to
+                        believe the doctors and others who tell you that they are General La Mothe’s
+                        drops. I have seen this remedy work miracles on such occasions in young and
+                        old. Amongst others, I have seen an eleven-day-old child on the point of
+                        death, according to the doctors, recover with this remedy despite their
+                        opinion: he is still alive and perfectly healthy. Two years ago I saw here
+                        at Tsarskoe Selo a French dancer named Lefèvre brought down by that illness
+                        during a ballet rehearsal. The attack was so violent that eight men could
+                        scarcely hold him down: they wanted to bleed him. Instead, I had him given
+                        some of the drops in question. He had scarcely swallowed him when he came
+                        to. They were given to him again once more the same evening and the
+                        following morning. That very evening he felt so well that he was able to
+                        dance the ballet in the play. I tell you only what I have seen with my own
+                        eyes. Besides, it is the only effective remedy against pertussis of the
+                        stomach; if I told you all I know of it, you would take me for a charlatan.
+                        I dare not send you some, my dear brother, but if you would like some and if
+                        you ask me for some, and if the rumours of your upcoming trip to Finland
+                        come true, and if you were pleased to indicate, according to our ancient
+                        agreement, the place on the border where I might have the pleasure and the
+                        delight of seeing you again, I will hand you myself one or several bottles
+                        of this excellent elixir.</p>
+                    <p>Prince Golitsyn is most fortunate to have won your approbation.</p>
+                    <p>May Heaven preserve you from all future misfortunes; this year has been full
+                        of many events that have keenly affected me: I have lost several people whom
+                        I loved and esteemed, including General Bauer, Count Panin, and Prince
+                        Orlov. This best of all possible worlds makes us sigh so much.</p>
+                    <closer rend="inline">
+                        <signed>Farewell, my dear brother, be well and rest assured of my continued
+                            friendship.</signed>
+                        
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

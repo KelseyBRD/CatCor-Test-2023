@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01023</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01023</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:11:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01023">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1781-08-08">8 d’août 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. V. M. I. se plaît à me combler d’honneur et de satisfaction. Le baron de
+     <persName ref="people.xml#dim01"> Dimsdale</persName> m’a remis la lettre qu’il Lui a plu de
+    m’écrire de <placeName ref="places.xml#bru01"> Bruxelles</placeName> le 28 juin. Chaque
+    expression de cette précieuse lettre ne saurait qu’augmenter ma gratitude envers V. M. I. Elle
+    imite la divinité; celle-ci nous promet ses bénédictions jusqu’à la quatrième génération, V. M.
+    I. pousse ses attentions jusqu’à s’intéresser à l’inoculation de mes <rs ref="people.xml#ale01 people.xml#kon01">
+     petits-fils</rs>, et aucune occupation ni soin du gouvernement ne peut La
+    détourner à prendre part aux inquiétudes qu’auront <rs ref="people.xml#pau01"> père</rs>, <rs
+     ref="people.xml#mar02"> mère</rs> et <rs ref="people.xml#cat01"> grand’-mère</rs> pendant le
+    temps que l’inoculateur sera en fonction. Cela s’appelle entre particuliers s’attacher une
+    famille entière et ne laisser échapper ni grandes ni petites choses. Aussi subjuguer tous les
+    esprits et tous les coeurs Lui est chose facile, témoin Ses voyages, où les acclamations et
+    l’admiration universelle suivent Ses pas. Il est vrai que, quand on a vu V. M. I., personne
+    n’est plus bon à voir. Je parle d’expérience. Nos fêtes de <placeName ref="places.xml#pet02">
+     Péterhof</placeName> dont Elle daigne se souvenir, sont devenues insipides cette année. Je n’ai
+    pas dépassé le seuil de ma porte, mais un coup de tonnerre est venu dans ma chambre me rendre
+    visite; il a donné un coup un peu lourd au chambellan <persName ref="people.xml#lan02">
+     Landskoy</persName> et lui a fait une tâche bleue, et puis s’est dissipé.</p>
+   <p>En ce moment arrive mon courrier qui m’apporte la lettre de V. M. I. du 23 juillet. Qu’Elle me
+    permette de Lui présenter de nouveau mes très-humbles remercîments pour tout ce qu'Elle a la
+    bonté de me dire de gracieux. Ce me sera assurément en toute occasion un devoir bien doux, que
+    de témoigner à V. M. I. ma sincère reconnaissance pour toutes les preuves d’amitié qu’Elle veut
+    bien me donner. Le <persName ref="people.xml#fri05"> Prince de Württemberg</persName> m’a mandé
+    la demande que V. M. I. a trouvé bon de lui faire de la <rs ref="people.xml#eli06">
+     Princesse</rs> sa fille, et pénétré des sentiments qu’une pareille proposition ne peut que lui
+    inspirer, il y a ajouté l’allégresse du bonheur dont il va jouir lorsque M. le <rs
+     ref="people.xml#jos01"> comte de Falkenstein</rs> arrivera chez lui. Il ne m’est pas difficile
+    de partager sa joie sur l’un et l’autre événement. Mes désirs sont satisfaits; un nouveau lien
+    se forme entre la maison de V. M. I. et la mienne. Elle a du temps pour tout; ne voila-t-il pas
+    qu’à <placeName ref="places.xml#spa02"> </placeName>Spaa V. M. I. en а trouve non seulement pour
+    voir le <persName ref="people.xml#hen02">Prince Henri de <placeName ref="places.xml#pru01">Prusse</placeName></persName>, mais
+    encore à s’entretenir avec lui et <persName ref="people.xml#gri01">Grimm</persName> de leurs
+    anciennes connaissances. Ce qui est vraiment ravissant pour mon âme sensible, ce sont les bontés
+    et l’amitié dont V. M. I. se plaît à combler Son apôtre. J’espère qu’Elle qui sait tout, qui se
+    souvient de tout, n’aura pas oublié que j’ai osé La prier de me compter parmi les siens. En
+    lisant ce que V. M. I. veut bien me dire de flatteur, il y aurait de quoi me faire devenir
+    glorieuse sur mes vieux jours, mais quelle peut être la gloire qui égalera la vôtre? V. M. I.
+    n’a qu’à continuer aussi naturellement qu’Elle a commencé. Telle est la prophétie de celle qui
+    Lui est attachée par la plus sincère reconnaissance, la plus haute estime, par les liens de
+    l’amitié, j’ose dire la plus intime, et par une considération sans bornes et qui ne cessera
+    d’être</p>
+
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur, sincère amie et fidèle
+    alliée <persName ref="people.xml#cat01"> Catherine</persName>.</signed></closer>
+   <postscript><p><rs ref="people.xml#pau01 people.xml#mar02">Mes enfants</rs> présentent leurs
+    très-humbles respects et remercîments à V. M. I.</p></postscript>
+  </body>
+ </text>
+</TEI>

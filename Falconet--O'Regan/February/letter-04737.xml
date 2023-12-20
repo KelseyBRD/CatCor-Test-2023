@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04737</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04737</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-13">13/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:02:40Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-04-16">16/04/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Corrections to markup and query about identity of
+                    Gallitzin resolved: gal01 changed to correct gol03.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04737">
+        <body>
+
+            <opener><dateline> А monsieur de <persName ref="people.xml#fal01"> Falconet</persName>:
+                        à <placeName ref="places.xml#mos01"> Moscou</placeName>, <date
+                        when-custom="1767-10-12">12 Octobre 1767</date>.</dateline></opener>
+            <p> Vous voudrez bien peut-être ne pas me faire tort, et pensez que je sais sentir, et
+                que quand on me donne des marques d’estime aussi peu douteuses que celles que Vous
+                venez de me témoigner en me confiant la lettre du <rs ref="people.xml#did01">
+                    Philosophe</rs>, je sais comprendre d’où cela part et à quoi cela m’engage;
+                enfin, en un mot comme en cent, soyez assuré, et de ma reconnaissance et de ma
+                discrétion. Cependant, je regrette et le <rs ref="people.xml#did01">
+                Philosophe</rs>, et quoiqu’il en dise, son ouvrage; je ne sais ce qu’il a pu voir
+                dans la lettre du g. <persName ref="people.xml#bet01"> Betzky</persName>, mais je
+                n’ignore pas que je n’ai jamais refusé cette besogne; je prie mon sculpteur de
+                redresser mon <rs ref="people.xml#did01"> Philosophe</rs> sur cet article qui est
+                faux. Mais pourquoi la tête tournerait-elle au premier? Je ne crois pas cela: une
+                tête bien vraie ne saurait tourner, et la vôtre, je Vous jure autant que je la
+                connais, est de ce nombre; et puis, en <placeName ref="places.xml#rus01"
+                    >Russie</placeName>, l'on dit que je puis tout; <rs ref="works.xml#nakazk01"
+                    >j’ai écrit et j’ai signé qu’un souverain ne doit rien vouloir qui ne tende au
+                    bien</rs>, je ne veux pas que votre tête tourne, je lui défendrais de tourner,
+                si cette défense ne sentait trop le Despotisme, il ne faut pas qu’elle tourne, cette
+                bonne tête; cela serait le mal, non le bien, que nous voulons, pourtant toutes les
+                deux, contentez-vous de ces raisons-là en attendant que je revienne; après mon
+                retour, au mois de Janvier, nous ferons plus au long la belle conversation, et quand
+                j’aurai vu le grand <rs ref="works.xml#pierre01"> Empereur</rs> et sa bête
+                spirituelle nous aurons plus d’une matière à discuter et à déterminer.</p>
+            <p> Dans la lettre du <rs ref="people.xml#did01"> Philosophe</rs>, il dit: c’est moi
+                qu’on veut, non mon ouvrage; et par quelle contradiction ne voudrais-je pas son
+                ouvrage? lorsque j’ai offert aux Encyclopédistes de faire imprimer ce livre-ici, et
+                qu’à présent quantité de personnes se sont cottisées à <placeName
+                    ref="places.xml#mos01">Moscou</placeName> pour traduire tant qu’ils pourront
+                d’articles de <rs ref="works.xml#encycl01">ce dictionnaire</rs> en Russe et qu’il y
+                a déjà <rs ref="works.xml#perevo01">un volume qui se vend et un autre sous
+                    presse</rs>. J’estimais infiniment M. <persName ref="people.xml#did01">
+                    Diderot</persName>, je l’estime encore plus après la lecture des 20 pages, son
+                aveu sincère est un effort héroïque; il viendra quand il pourra et il sera toujours
+                le bienvenu; je n’aurai pas le cœur de lui conseiller de faire son propre malheur ni
+                    celui <hi rend="italic">des autres.</hi> Je crois le Pr. <persName
+                    ref="people.xml#gol03">Gallitzin</persName> suffisamment instruit pour les
+                achats des différentes collections que Votre ami Vous propose. Je renonce non aux
+                ouvrages de <persName ref="people.xml#gre02"> Greuze</persName>, mais bien an
+                personnage et a sa digne moitié. J’ignorais que <persName ref="people.xml#van01">
+                    Vanloo</persName> fût au monde lorsque le g. <persName ref="people.xml#bet01">
+                    Betzki</persName> reçut la lettre à son sujet du Pr. <persName
+                    ref="people.xml#gol03"> Gallitzin</persName>, mais s’il ne fait que des
+                portraits, nous pourrions bien nous en passer pour l’Académie.</p>
+            <p> La difficulté que trouve le Pr. <persName ref="people.xml#gol03">
+                    Gallitzin</persName> à traduire du français en Russe, vient de ce qu’il ignore
+                comme la plupart de nos seigneurs sa propre langue, qui cependant n’a pas sa
+                pareille, je pense, en richesse; je n’ose citer mon propre ouvrage, <rs
+                    ref="works.xml#nakazk01">la grande instruction pour la composition des
+                Lois</rs>; demandez aux Russes il n’y a pas un mot étranger et cependant la matière
+                n’est pas des plus simples et j’espère qu’on n’y prendra pas un mot pour un
+                autre.</p>
+            <closer><signed> Adieu, Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,
+                    soyez bien assuré que je me hâterai de revenir à <placeName
+                        ref="places.xml#pet01"> Pétersbourg</placeName> en grande partie pour votre
+                    ouvrage et que je me réjouis d’avance de jaser avec vous sur bien des choses,
+                    mais puisque vous me confiez les secrets de vos meilleurs amis, dites-moi votre
+                    avis sur M. <persName ref="people.xml#riv01"> de la Rivière</persName>, entre
+                    nous soit dit, je souhaite qu'il ne le prenne pas sur un ton trop haut, car
+                    d’ailleurs il pourrait me devenir inutile; voyez un peu, je vous prie, ce qui en
+                    est, et si cette commission ne vous est pas agréable, prenez-vous-en au ton
+                    amical, que vous avez pris avec moi, je vous rends confiance pour confiance;
+                    soyez y aussi sensible que moi, et n’ayez point d’humeur.</signed></closer>
+        </body>
+    </text>
+</TEI>

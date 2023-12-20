@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04752</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04752</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>"Ce pauvre petit abbé" still needs identifying.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-18">18/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:02:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-05">05/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup and text corrected; query resolved and further query added
+     for future research.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04752">
+  <body>
+
+   <opener><dateline> Се <date when-custom="1769-05-10">10 Mai 1769</date>.</dateline></opener>
+   <p rend="body">Le jour du <seg xml:lang="la"> Te Deum</seg>, lorsque j’étais en ville, l’on
+    m’apporta une lettre dont l’adresse était de votre main, je l’ouvris et j’y trouvai des vers. Je
+    m’écriais: de quoi Diable se mêle-t-il, d’habile sculpteur qu’il est, ne voilà-t-il pas qu’il
+    devient mauvais rimailleur! mais après un peu de réflexion j’ai vu que je ne voyais pas plus
+    loin que mon nez. Ce pauvre petit abbé bat le pavé de <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, fait des vers et de la politique avec légèreté à frais perdus; je
+    crois qu’il ferait mieux d’aller jouir de son canonicat s’il est important, sinon il revient à
+    peu près au même pour lui où il se trouve et ce n’est qu’un individu de plus dans une grande
+    ville; passons là-dessus. J’ai reçu avant-hier votre lettre datée du même jour: je m’en vais y
+    répondre; mais avant de commencer, il faut que je vous dise que M. <persName
+     ref="people.xml#did01"> Diderot</persName> est hors de <hi rend="italic">tracas</hi> et
+    d’embarras, il a tiré l’argent; j’ai vu son nom signé sous la lettre de change qui a été payée
+    ici avant-hier en roubles tout neufs; nous voilà donc, Dieu merci, tranquilles sur cet article.
+    J’ai lu avec bien du plaisir et beaucoup d’éclats de rire votre longue missive à <persName
+     ref="people.xml#did01">Diderot</persName>, ou plutôt le recueil des lettres perdues; il y a des
+    choses aussi vraies que spirituelles; je vous suis bien obligée de m’avoir procuré cet
+    amusement, mais une fois pour toutes, je n’ai, ni ne veux avoir aucun droit à voir vos lettres,
+    je vous prie de me rendre cette justice. Puisque vous voulez que je corrige celle-ci, je vous
+    prie d’en effacer les louanges que vous me donnez et que je ne mérite pas. Dites-moi à coeur
+    ouvert que pourrai-je faire pour rendre à M. <persName ref="people.xml#col03"> Collin</persName>
+    un cadeau comme celui qu’il m’a fait. Vous me direz une autre fois qui est l’homme que vous
+    trouvez qui me sert bravement. Je crois M-lle <persName ref="people.xml#col02">
+     Collot</persName> bien fâchée contre moi de ce que le rossignol que je lui ai promis n’est pas
+    venu encore, mais je lui tiendrai parole. L’on dit qu’il y en a en-ville qui ont cessé de
+    chanter avant la St. Pierre,<note type="editorial">The Feast of Saints Peter and Paul is
+     celebrated on 29 June.</note> temps auquel ils s’enrhument tous. Mes compliments à <persName
+     ref="works.xml#pierre01"> Pierre le-grand</persName>, s’il vous plaît, je prie Dieu que la
+    fonte d’essai réussisse. </p>
+   <closer><signed rend="inline">Adieu, Monsieur <persName ref="people.xml#fal01">
+      Falconet</persName>, portez-vous bien et soyez content, voilà ce que je
+    désire.</signed></closer>
+  </body>
+ </text>
+</TEI>

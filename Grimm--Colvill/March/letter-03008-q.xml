@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03008</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03008</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is a section of this letter written in Russian
+     that I am unable to fully correct/edit because I cannot read/write Russian.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-11">11/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:36:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03008">
+  <body>
+
+   <div type="part" n="1">
+    <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarskoé-Sélo</placeName>, ce <date when-custom="1778-05-16">16 mai 1778</date>.</dateline></opener>
+   <p>Votre pancarte à mourir de rire, intitulée No 17, du 15 d’avril, est la pancarte du monde
+    venue le plus mal à propos pour que je sois en état d’y répondre. J’ai la tête détraquée
+    totalement ; j’ai remarqué que ces accès suivent de fort près les dispositions législomaniques ;
+    de celles-ci j’ai été attaquée au mois de décembre ; elles ont duré jusqu’à présent avec force
+    et énergie: c’était tout feu et génie, de façon à extasier; hélas, je ne mange, ni ne bois, ni
+    ne dors ; monsieur <persName ref="people.xml#kel01"> Kelchen</persName> a de la difficulté à trouver mon pouls; j’ai de
+    l’oppression dans la poitrine. Mes amis me grondent; ils disent et prétendent que cela ne vaut
+    rien ; je le sais bien ; ils consultent les médecins, ils me croient malade, ils veulent des
+    remèdes; j’y consens: pourvu qu’on m’en laisse le choix, cela ne sera pas difficile à avaler. Eh
+    bien, qu’en dites-vous? Tout cela ne démontre-t-il pas la détraquerie?</p>
+   <p>Je n’ai pu écrire que comme cela; d’ailleurs, j’ai de la répugnance pour l’encre, les plumes
+    et le papier, comme les chiens enragés pour l’eau ; je n’entends point ce qu’on me dit ou me
+    lit; je veux lire, mais je ne vois point : mes yeux sont fixes ; je ne puis les mouvoir, je
+    tricote mon purement; il est souffert, parce qu’il permet toute autre idée et qu’il ne distrait
+    point; je suis morne et je ne dis plus mot; on veut me faire parler, et cela m’impatiente. Voilà
+    un diable de mal, chère législomanie ; admirable raison, beau jardin, agréable saison,
+    réveillez-moi tour à tour ou en chorus. Eh bien, toutes ces choses, les <title ref="works.xml#logera01">loges de Raphaël</title>, les bains de Titus, <persName
+     ref="people.xml#bib04"> Bibiena</persName> et <persName ref="people.xml#bla01">
+     Blackstone</persName>, sont insipides ; <seg xml:lang="de"> pfui der Teufel, das ist zu
+     stark</seg>; mais en voilà beaucoup trop de suite ; il faut que je me repose, je reprendrai ma
+    plume quand je pourrai. Après quatre jours je reprends ma plume pour vous dire que je me porte
+    un peu mieux: mon pouls est plus fort, la violence de la fièvre a diminué, gare la rechûte.</p>
+  <closer> <dateline> Ce <date when-custom="1778-05-26">26 de mai</date>, de <placeName ref="places.xml#pet01">
+     St Pétersbourg</placeName>. </dateline></closer></div>
+   <div type="part" n="2">
+   <p>Enfin je m’en vais vous écrire. Je suis venue en ville où je suis mal et bien mieux qu’à la
+    campagne; ne voilà-t-il pas cette cinquantième année que vous avez tant célébrée, bien
+    commencée, et tout cela ne promet-il pas infiniment? Ajoutez encore qu’il est arrivé un grand
+    malheur dans la famille des <persName ref="people.xml#tho01"> Tom</persName> : sir Tom Anderson
+    et sa petite-fille lady Azor ont été mordus par un chien soupçonné de la rage: ils sont en
+    quarantaine, mais bien portants jusqu’ici; il y a de cela trois semaines.</p>
+   <p>Autre anecdote: c’est que le <rs ref="people.xml#azo01"> gentilhomme africain</rs> ne se
+    nomme pins autrement que Grigori Alexandrovitch de la <placeName ref="places.xml#gua01">
+     Guadeloupe</placeName> et que le nom d’Azor, nourricier des tortues, est devenu insupportable à
+    ses oreilles. Je suis bien aise que la fête au macao ait trouvé grâce devant vos yeux
+    ; on exécute le dessin du dessert de diamants en fausses pierres, et cela même sera très beau ;
+    vous en aurez un jour l’estampe, ou bien aussi vous ne l’aurez pas et n’en serez ni plus gras,
+    ni plus maigre pour cela.</p>
+   <p>Je trouve que vous avez une excellente mémoire de vous souvenir encore de <rs
+     ref="people.xml#nar02"> M. Lustucru</rs>, de sa fête et des vers que son auteur n’avait point
+    faits, mais bien parodié un couplet d’un mauvais opéra de Fontenelle. <rs ref="people.xml#nar02"
+     > M. Lustucru</rs> n’a pu donner sa fête, parce que la maison pour laquelle elle était
+    destinée, a été louée pour trois ans au <persName ref="people.xml#ant01"> comte
+    Lacy</persName>.</p>
+   <p>Mon épitaphe vous est destinée, mais je ne veux pas que les commis de la poste la copient
+    avant vous. Je suis si lasse de m’entendre demander de mes portraits que par humeur vous verrez
+    que mon berceau n’en aura pas. J’oublie même de faire demander à <persName
+     ref="people.xml#eri01"> Erikson</persName> celui que vous louez tant. Je n’ai aucune dent
+    contre M. <persName ref="people.xml#wag01"> Wagner</persName>, mais je suis intimement persuadée que c’était un sot, et que
+    mademoiselle <persName ref="people.xml#car01"> Cardel</persName> était une fille d’esprit. Je ne
+    connais personne qui aime plus l’ennui que vous ; vous avez été excédé des <seg xml:lang="de">
+     Prüfungen</seg>, répétées à tout moment, et vous en reparlez toujours; voulez- vous donc être
+    aussi ennuyeux que moi ? Pour ce pauvre diable de <persName ref="people.xml#roe02">
+     Roellig</persName>, je ne vous en ai jamais parlé, parce que vous connaissez comment ses leçons
+    ont fructifié : il avait toujours avec lui un homme qui hurlait une basse; il le faisait chanter
+    dans ma chambre, je t'écoutais et disais en moi- même : <seg xml:lang="de"> er brüllt wie eine
+     Ochse</seg>; mais M. <persName ref="people.xml#roe02"> Roellig</persName> se pâmait dès que le
+    gosier de sa basse était en action.</p>
+   <p>Vous êtes bien bon de nommer ma plume enchanteresse ; je croyais écrire comme un ange dans ma
+    jeunesse, mais depuis ce temps-là ma plume ayant eu des désagréments par-ci par-là, je ne crois
+    plus écrire bien, mais j’écris comme je puis, le tâcher ne vaut pas la peine. Je vous ai dit
+    mille fois, et je vous le répète encore, que votre <rs ref="people.xml#mei01"> successeur
+     littéraire</rs> n’est pas vous ; je n'apprends rien là, il n’y a point là de morgue qui dresse
+    le goût et l’esprit, cette évidence sans preuves qui fait taire la contradiction même.
+    L’enthousiasme des gens instruits pour le patriarche ne m’étonne point, mais celui de la
+    populace, qui ne connaît à peine que son nom, montre bien au clair la moutonnerie du peuple: je
+    voudrais savoir s’il y avait des ecclésiastiques dans la foule; cela me prouverait beaucoup et
+    me mènerait à des comparaisons très instructives sur la façon de penser des nations. Je vous
+    donne plein pouvoir de commander le <title ref="works.ref#voltai02"> buste du <rs
+     ref="people.xml#vol01"> patriarche</rs></title> ; il y a ici un médailleur qui veut frapper sa
+    médaille, mais il travaille si mal que le médailleur est indigne de cette besogne. L’écritoire
+    n’est point arrivée encore. Vous avez beau dire, j’aime mieux l’affaire de l’éducation que vous
+    me promettez.</p>
+   <p>A <placeName ref="places.xml#esc01"> Eschenbaum</placeName>, autrement dit Ossinovaïa
+    Rochtcha, terre que j’ai donnée l’année passée à mon prince <persName ref="people.xml#pot01">
+     Potemkine</persName>, située à 23 verstes de <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, sur la côte de <placeName ref="places.xml#fin01"> Finlande</placeName>, ce 29 mai. Il ne fait point de
+    vent aujourd’hui ; par conséquent l’imagination n’agit pas, mais visiblement tout est crater
+    ici. Hier, jour de mon arrivée, j’avais continuellement à la bouche ce qui suit : je vous le
+    traduirai en allemand tant bien que mal ; c’est une description de la <placeName ref="places.xml#fin01">
+    Finlande</placeName> très poétique que j’ai faite pendant la dernière législomanie. Cette pièce est devenue
+    trop poétique, je suis obligée de la livrer à mes secrétaires pour qu’ils ôtent le trop, et Dieu
+    sait ce qu’ils en feront, mais soyez sûr que cette pièce qui contient un résumé de mon règne et
+    une description de la <placeName ref="places.xml#rus01"> Russie</placeName> entière, province par province, courte, exacte,
+    nerveuse et précise, est une pièce comme je n’en ai jamais fait encore: il y en a qui disent que
+    c’est une pièce académique. A la fin j’avais mille peines à éviter la rime, qui venait toujours
+    se placer au bout de ma plume; c’est une prose cadencée comme jamais je n’aurais cru que je
+    pourrais faire. Voici le texte : <seg xml:lang="ru"> Финляндской губѳрнін камеввстыхъ горъ
+     хребетъ покрыть лѣсахі, ущеляны водою, немного ровныхъ мѣстъ къ ямтію удобны со трудным проходы
+     жкмщя раэсѣвая</seg> etc. Mauvaise traduction : <seg xml:lang="de"> des finnischen
+     Gouvernements steinerne Gebirgespitz bedeckt mit Wälder, Erniedrigungen mit Waßer nicht viel
+     Flächen bequem zum Leben, beschwerliche Wege, zerstreuen die Wohnungen</seg> etc. Eh bien,
+    voilà <placeName ref="places.xml#esc01"> Eschenbaum</placeName> tout craché, et cela fait un
+    endroit charmant: <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, la mer sont à vos
+    pieds, toutes les maisons de campagne qui bordent le chemin de <placeName ref="places.xml#pet02"> Péterhof</placeName>, et puis
+    des lacs, des monticules, des bois, des champs, des pierres, des cabanes. Le <rs
+     ref="people.xml#gou01"> jardinier anglais</rs> et <rs ref="people.xml#sta05">
+     l’architecte</rs> sont à notre suite, et nous avons déjà rôdé toute la journée d’hier, et Dieu
+    sait ce que nous avons planté, bâti. <placeName ref="places.xml#tsa01">
+     Tsarskoé-Sélo</placeName> et <placeName ref="places.xml#gat01"> Gatschina</placeName> et même
+     <placeName ref="places.xml#tsa04"> Tsaritsino</placeName> sont des morveux, en fait de
+    situation, vis-à-vis d’ <placeName ref="places.xml#esc01"> Eschenbaum</placeName>. Pour le
+    présent, toute la cour habite une maison où il y a une dixaine de chambres, mais quelle vue de
+    chaque fenêtre! Morgué, cela est beau; je vois deux lacs de la mienne, trois monticules, un
+    champ et un bois.</p>
+   <p>Vos comptes avec feu la <persName ref="people.xml#mar02"> grande-duchesse</persName> sont
+    suprimés, comptez là-dessus. <persName ref="people.xml#unknown"> La dame Tenover</persName>
+    n’est point arrivée encore ; je ne me soucie pas beaucoup de vos <seg xml:lang="en">
+     postscripts</seg> ; ils contiennent, la plupart du temps, des comptes, des écritoires, des
+    pauvretés ; j'aime mieux vos lettres, je crains les affaires comme peste depuis quelque temps,
+    et jamais je n’en eus plus. Ma comment faire? Partez, partez, ma lettre: vous n’avez pas le sens
+    commun, ni ne l’aurez encore de longtemps, si je continue à vous griffonner. Mais voilà un
+    cousin d’ <placeName ref="places.xml#esc01"> Eschenbaum</placeName> qui vient me mordre le
+    doigt; </p>
+   <closer><signed rend="inline">adieu. Dites la vérité, vous ne vous attendiez pas que la morsure d’un
+    cousin finît cette lettre?</signed></closer></div>
+  </body>
+ </text>
+</TEI>

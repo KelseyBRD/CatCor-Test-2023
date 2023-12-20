@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02838</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02838</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:32:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02838">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"
+     >Czarskoçelo</placeName> ce <date when-custom="1789-05-07">7. May 1789</date>.</dateline></opener>
+   <p>Monsieur de <persName ref="people.xml#zim01"> Zimmermann</persName>, l’incluse vous mettra au
+    fait des avantages remportées par une partie de mon armée en <placeName ref="places.xml#mol01"
+     >Moldavie</placeName> et pour lesquels nous avons chanté hier le Te Deum, outre cela onze
+    postes Suédois ont etées renversées et défaites depuis la mer jusqu’à <placeName
+     ref="places.xml#nys01"> Nislot</placeName> dans le courant de la semaine passée. Les
+    prisonniers Turks prétendent savoir que le <rs ref="people.xml#abd01"> sultan</rs> est mort et
+    que son neveu sultan <persName ref="people.xml#sel01"> Selim</persName> lui a succédé. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien et soyés assuré de mon estime.
+   <persName ref="people.xml#cat01" type="signature">Catherine.</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

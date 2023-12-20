@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04794</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04794</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-26">26/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:09:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04794">
+  <body>
+   
+   <p>Vous trouverez étrange qu’au bout d’un mois, je vous réponds à votre billet,
+     mais voici ce qui est arrivé à ce billet: en le recevant, je l’ai mis sur ma table pour y
+     répondre le lendemain, et de lendemain en lendemain, il s’est accumulé une honnête quantité de
+     papiers sur le vôtre qui me l’ont fait oublier; je ne l’ai retrouvé que ce matin par hasard.
+     Mr. <persName ref="people.xml#cho04"> de Choisy</persName> pourrait être, je crois,
+     à <placeName ref="places.xml#kaz01">Casan</placeName> avec les
+     autres Polonais parmi lesquels il a servi; cependant, je ne puis vous dire cela au juste, parce
+     que je l’ignore; ce n’est pas une mauvaise défaite, c’est la vérité.</p>
+  </body>
+ </text>
+</TEI>

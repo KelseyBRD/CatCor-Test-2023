@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02697</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02697</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#europe"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02697">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Zarskoe-Selo,</placeName>
+                            <date when-custom="1781-04-26">ce 26 d'Avril 1781</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> C'est avec une satisfaction conforme à cette ancienne et permanente amitié,
+                        connue depuis longtemps de Votre Majesté, que j'ai reçu la lettre qu'il Lui
+                        a plu de m'écrire le 22 d'Avril, et par laquelle Elle me fait part de
+                        l'approbation que Votre Majesté veut bien donner aux principes adoptés par
+                        la plupart des puissances neutres, et qu'Elle souhaite de rendre solennelle
+                        par Son accession formelle au traité. Je suis intimement convaincue que la
+                        neutralité armée ne peut qu'acquérir un nouveau lustre, lorsque parmi les
+                        noms des souverains, qui ont reconnu les principes de ce traité conformes à
+                        ceux de l'équité et de l'indépendance des états, l'univers pourra compter
+                        celui d'un grand roi dont les vertus éclatantes et les actions héroïques
+                        inspirent aux nations un tout aussi grand et profond respect que sa
+                        puissance. Que Votre Majesté me permette de Lui en témoigner ma gratitude.
+                        Je Lui suis aussi très-redevable des bonnes recommandations qu'Elle me
+                        promet près de <persName ref="people.xml#pet01">l'empereur Pierre
+                            Premier</persName> dans l'autre monde, cependant j'ai un intérêt pas
+                        moins grand de prier Votre Majesté de remettre cette partie jusqu'au siècle
+                        qui suivra celui-ci, alors j'aurai le temps de l'accompagner pour être
+                        témoin de Sa première entrevue avec les illustres personnages dont Elle me
+                        fait l'honneur de me parler. Je voudrais surtout voir <persName
+                            ref="people.xml#mar05">Marc Aurèle</persName>, <persName
+                            ref="people.xml#cae01">César</persName> et <persName
+                            ref="people.xml#ale04">Alexandre</persName> se disputer le pas pour
+                        venir au-devant de Votre Majesté et faire tourner la conversation sur les
+                        anciens, en rougissant un peu des faits de Votre Majesté, auxquels seuls ils
+                        porteront envie. </p>
+                    <closer>
+                        <signed>Mais enfin dans ce monde ou dans l'autre je me ferai toujours un
+                            honneur de témoigner à Votre Majesté en toute occasion la très-haute
+                            considération et l'amitié sincère avec laquelle je ne cesserai d'être,
+                            Monsieur mon Frère, de Votre Majesté la bonne Soeur et fidèle Amie et
+                            Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04785</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04785</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">NB. inclusion. </note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure who 'Mr l’Intendant de la Martinique' or 'M-r le capitaine réformé' refer to. Only
+     reference found for Lecointe was that he was a writer [?] Kelsey: identified and marked up</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:07:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-27">27/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected and queries resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04785">
+  <body>
+
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,
+    </salute></opener>
+   <p rend="inline">je vous envoie les deux lettres que M-r <persName ref="people.xml#mar07">
+     Lecointe</persName> m’a adressées et j’espère que sa modestie ne vous fera pas souvenir de
+    celle de <rs ref="people.xml#riv01">M-r l’Intendant</rs> de la <placeName ref="places.xml#mar01"
+     >Martinique</placeName> qui s’en alla d’ici comme il y était venu, après m’avoir donné force
+    conseils avant d’arriver; si vous souhaitez d’avoir <rs ref="works.xml#scienc01">les ouvrages
+     militaires</rs> de <rs ref="people.xml#mar07">M-r le capitaine réformé</rs>, je vous les
+    fournirai. Ils me sont parvenus, mais j’ai fait voeu de ne jamais en lire de cette espèce,
+    depuis que j’ai lu <persName ref="people.xml#mon04"> Montecuculli</persName>, dont je n’ai
+    retenu que trois paroles; les voulez-vous savoir? <rs ref="works.xml#memoir09">il dit que</rs>
+    pour faire la guerre, il ne faut que trois choses: de <hi rend="italic">l'argent,</hi> de <hi
+     rend="italic">l'argent</hi>, de <hi rend="italic">l'argent.</hi></p>
+  </body>
+ </text>
+</TEI>

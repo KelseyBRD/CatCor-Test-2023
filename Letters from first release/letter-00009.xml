@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00009</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00009</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-18">18 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata.</p>
+            </change>
+            <change>
+                <date when="2015-06-04">4 June 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00009">
+                <body>
+                    <opener><dateline><date when-custom="1774-02-21"/></dateline></opener>
+                  
+                    <p>Чистосердечная исповедь</p>
+                    <p><persName ref="people.xml#cho01">Марья Чоглокова</persName>, видя, что чрез
+                        девять лет обстоятельствы остались те же, каковы были до свадьбы, и быв от
+                        покойной Государыни часто бранена, что не старается их переменить, не нашла
+                        инаго к тому способа, как обеим сторонам зделать предложение, чтобы выбрали
+                        по своей воле из тех, кои она на мысли имела. С одной стороны выбрали вдову
+                            <persName ref="people.xml#gro03">Грот</persName>, которая ныне за
+                        Арт[иллерии] Генер[ал]-пору[чиком] <persName ref="people.xml#mil01"
+                            >Миллером</persName>, а с другой - <persName ref="people.xml#sal01"
+                            >Сер[гея] Сал[тыкова]</persName> и сего более по видимой его склонности
+                        и по уговору мамы, которую в том поставляла великая нужда и надобность.</p>
+                    <p>По прошествии двух лет <persName ref="people.xml#sal01">С[ергея]
+                            С[алтыкова]</persName> послали посланником, ибо он себя нескромно вел, а
+                            <persName ref="people.xml#cho01">Марья Чоглокова</persName> у большого
+                        двора уже не была в силе его удержать. По прошествии года и великой скорби
+                        приехал нынешний <persName ref="people.xml#pon01">Кор[оль]
+                            Пол[ьский]</persName>, которого отнюдь не приметили, но добрыя люди
+                        заставили пустыми подозрениями догадаться, что он на свете, что глаза были
+                        отменной красоты и что он их обращал (хотя так близорук, что далее носа не
+                        видит) чаще на одну сторону, нежели на другая. Сей был любезен и любим от
+                        1755 до 1761. Но тригоднешная отлучка, то есть от 1758, и старательства
+                            <persName ref="people.xml#orl01">Кн[язя] Гр[игория]
+                            Гр[игорьевича]</persName>, которого паки добрыя люди заставили
+                        приметить, переменили образ мыслей. Сей бы век остался, естьли б сам не
+                        скучал. Я сие узнала в самый день его отъезда на конгресс из <placeName
+                            ref="places.xml#tsa01">Села Царского</placeName> и просто сделала
+                        заключение, что о том узнав, уже доверки иметь не могу, мысль, которая
+                        жестоко меня мучила и заставила сделать из дешперации выбор кое-какой, во
+                        время которого и даже до нынешнего месяца я более грустила, нежели сказать
+                        могу, и иногда более как тогда, когда другие люди бывают довольные, и всякое
+                        приласканье во мне слезы возбуждало, так что я думаю, что от рождения своего
+                        я столько не плакала, как сии полтора года. Сначала я думала, что привыкну,
+                        но что далее, то хуже, ибо с другой стороны месяцы по три дуться стали, и
+                        признаться надобно, что никогда довольна не была, как когда осердится и в
+                        покое оставит, а ласка его меня плакать принуждала.</p>
+                    <p>Потом приехал некто богатырь. Сей богатырь по заслугам своим и по всегдашней
+                        ласке прелестен был так, что услыша о его приезде, уже говорить стали, что
+                        ему тут поселиться, а того не знали, что мы письмецом сюда призвали
+                        неприметно его, однако же с таким внутренним намерением, чтоб не вовсе слепо
+                        по приезде его поступать, но разбирать, есть ли в нем склонность, о которой
+                        мне <persName ref="people.xml#bru04">Брюсша</persName> сказывала, что давно
+                        многие подозревали, то есть та, которую я желаю чтоб он имел.</p>
+                    <p>Ну, Госп[один] Богатырь, после сей исповеди могу ли я надеяться получить
+                        отпущение грехов своих. Изволишь видеть, что не пятнадцать, но третья доля
+                        из сих: первого по неволе да четвертого из дешперации я думала на счет
+                        легкомыслия поставить никак не можно; о трех прочих, естьли точно разберешь,
+                        Бог видит, что не от распутства, к которому никакой склонности не имею, и
+                        естьли б я в участь получила смолоду мужа, которого бы любить могла, я бы
+                        вечно к нему не переменилась. Беда та, что сердце мое не хочет быть ни на
+                        час охотно без любви. Сказывают, такие пороки людские покрыть стараются,
+                        будто сие произходит от добросердечия, но статься может, что подобная
+                        диспозиция сердца более есть порок, нежели добродетель. Но напрасно я сие к
+                        тебе пишу, ибо после того взлюбишь или не захочешь в армию ехать, боясь,
+                        чтоб я тебя позабыла. Но, право, не думаю, чтоб такую глупость зделала, и
+                        естьли хочешь на век меня к себе привязать, то покажи мне столько же дружбы,
+                        как и любви, а наипаче люби и говори правду.</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline><date when-custom="1774-02-21"/></dateline></opener>
+                    
+                    <p>A Sincere Confession</p>
+                    <p>Seeing that after nine years matters remained as they had been before the
+                        wedding and being often rebuked by the late empress for not trying to change
+                        them, Mariya Choglokova found no other means of doing so than to propose to
+                        both sides that they chose someone to their liking from amongst those whom
+                        she had in mind. On the one side, they chose the widow Grot, who is
+                        currently married to Lieutenant-General of the Artillery Miller. On the
+                        other side, they chose Ser[gey] Sal[tykov], and that all the more readily
+                        because of his visible inclination and the persuasions of his mother, who
+                        saw in it a great need and necessity.</p>
+                    <p>After two years, S[ergey] S[altykov] was sent away as an ambassador, for he
+                        behaved himself immodestly and Mariya Choglokova could no longer convince
+                        the court to keep him. Following a year of great sorrow, the present king of
+                        Poland arrived. He was not noticed at all, but the empty suspicions of good
+                        people forced us to discern that he existed, that his eyes were
+                        extraordinarily beautiful, and that he directed them (although so
+                        nearsighted that he could not see past his nose) more frequently in one
+                        direction than in the other. He was dear and beloved from 1755 until 1761.
+                        But three years' separation, that is, from 1758, and the strivings of
+                        Pr[ince] Gr[igory] Gr[igorevich], whom good people again forced us to
+                        notice, changed our manner of thinking. He would have remained forever, if
+                        he himself had not grown bored. I found out about it on the very day of his
+                        departure from Tsarskoe Selo for the peace congress. And I came to the
+                        simple conclusion that, after learning of it, I could no longer trust him.
+                        This thought tormented me cruelly and forced me to make some sort of choice
+                        out of desperation. During this time and even up until this month I was
+                        sadder than I can say, and sometimes most of all when other people are
+                        satisfied, and every caress brought tears to my eyes. So I think that in my
+                        whole life I have never cried as much as I have in the past year and a half.
+                        At first I thought I would get used to it, but the farther it went, the
+                        worse it was, for on the other side they started to sulk for three months at
+                        a time. And I must confess that I was never as pleased as when he got mad
+                        and left me in peace, whereas his tenderness made me cry.</p>
+                    <p>Then a certain hero arrived. This hero has always been so delightful in his
+                        merits and constant affection that, when it became known that he arrived,
+                        people already began to say that he was to settle here. But they did not
+                        know that we had summoned him imperceptibly, but with the inward intention
+                        not to go about it blindly upon his arrival. Rather, we would look into
+                        whether he had the inclination, about which Bryussha had told me that many
+                        had long suspected, that is, that inclination which I hope he has.</p>
+                    <p>Well, Mister Hero, after this confession may I hope to receive absolution for
+                        my sins? Please deign to see that there have not been fifteen, but rather
+                        one third as many. The first was against my will, and the fourth was out of
+                        desperation, and I think it cannot be counted as frivolity. As for the other
+                        three, if you examine it carefully, God knows that it was not out of
+                        dissolution, for which I have no inclination. If I had had the good fortune
+                        to receive in my youth a husband whom I could have loved, I would never have
+                        changed towards him. The trouble is that my heart cannot willingly go a
+                        single hour without love. They say that people try to hide such human vices,
+                        as though that showed a good heart, but it might happen that such as
+                        disposition of the heart is more a vice than a virtue. But it is vain to
+                        write this to you, for then you will fall in love or not want to depart for
+                        the army, for fear that I shall forget you. But, truly, I do not think that
+                        I would do something so foolish, and if you want to bind me to you forever,
+                        then show me friendship as much as love, and, most importantly, love me and
+                        speak the truth.</p>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

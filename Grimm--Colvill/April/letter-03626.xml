@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03626</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03626</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-13">13/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:57:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03626">
+  <body>
+   <opener><dateline> Ce <date when-custom="1786-10-22">22 d’octobre 1785</date>.</dateline></opener>
+   <p>Je viens de recevoir une lettre autographe de <persName ref="people.xml#leo02"> S. A. S. le
+     prince régnant d’Anhalt-Dessau</persName>, accompagnée d’une incluse du S<hi rend="superscript"
+     >r</hi> <persName ref="people.xml#cle01"> Clérisseau</persName>, qui se plaint infiniment de moi à ce <rs
+     ref="people.xml#leo02"> prince</rs> (apparemment à titre d’aîné de la maison d’Anhalt) comme
+    quoi je ne le paie pas, et comme quoi je l’abandonne. J’ai répondu à sa dite altesse que
+    c’est tous qui avez payé <persName ref="people.xml#cle01"> Clérisseau</persName> et qui le paierez en cas que je lui doive.
+    J’ai trouvé ces deux lettres, à vous dire le vrai, un peu singulières; <seg xml:lang="it">
+     primo</seg>, parce que c’est la première lettre que <rs ref="people.xml#leo02"> S. A.</rs>
+    m’écrit et que cette lettre contient comme une sorte de reproche que je suis mauvaise payeuse,
+    ce qui dans le fond n’existe pas. Seconde, j’ai cru que le S<hi rend="superscript"
+    >r</hi> <persName ref="people.xml#cle01"> Clérisseau</persName> devrait être content de mes procédés, parce que la vente a été
+    bonne et honnête; or, ce qu’il m’a envoyé de plus, je ne me souviens pas trop si je l’ai
+    demandé, commandé ou acquiescé à sa proposition; mais enfin, qu’il en soit comme il lui plaira,
+    je vous prie au plus vite de payer ce que je pourrais devoir, anciennes ou nouvelles dettes, au
+    Sr <persName ref="people.xml#cle01"> Clérisseau</persName>, et de le prier, pour éviter tout mésentendu à l’avenir, de
+    m’envoyer de son ouvrage pas autrement que quand je lui en demanderai, parce que d’ailleurs il
+    pourrait m’envoyer sur les bras encore beaucoup d’altesses au même titre, et que je ne suis pas
+    toujours d’humeur à répondre à ceux qui se mêlent de mes affaires sans que je les en prie. Au
+    reste, j’espère que vous aurez reçu mes lettres expédiées par deux courriers respectifs; le
+    dernier a emporté aussi des lettres de crédit; ainsi vous avez, je pense, de quoi payer tous
+    les <persName ref="people.xml#cle01"> Clérisseau</persName> possibles; je pense que le <persName ref="people.xml#leo02"> prince
+     d’Anhalt-Dessau</persName>, après m’avoir fait une querelle pour les paiements de <persName ref="people.xml#cle01">
+    Clérisseau</persName>, ne manquera pas d’adhérer à la ligue des trois électeurs pour soutenir son protégé,
+    si vous ne le payez pas. </p>
+   <closer><signed rend="inline">Adieu, je m’en vais lire la traduction allemande de l’ <title
+     ref="works.xml#iliadh01"> Iliade</title> d’<persName ref="people.xml#hom01"> Homère</persName>,
+    par le <persName ref="people.xml#sto02"> comte Stolberg</persName>, qui est ici présentement, et
+    je trouve cette traduction charmante.</signed></closer>
+  </body>
+ </text>
+</TEI>

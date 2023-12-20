@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03563</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03563</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I was unable to identify “l’abbé Deshayes” mentioned
+     in the sign off</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:52:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03563">
+  <body>
+
+   <opener><dateline>A <placeName ref="places.xml#tsa01">
+     Tsarsko-Sélo</placeName>, се <date when-custom="1779-05-29">29 mai ou 30 peut-être, 1779</date>.</dateline></opener>
+   <p><seg xml:lang="de"> Die Madame Bermittlerin, so schlecht regiret, lässt Ihnen grüßen, soeben
+     bekömmt sie Ihre 36 No, welche alles, so in diesen zwei ersten Linien geschrieben,
+     enthält</seg>. Mais avant que de vous parler de <persName ref="people.xml#ela01">
+     Yélaguine</persName> et de <persName ref="people.xml#pai01"> Païsiello</persName>, je veux
+    vous conter qu’au congrès de <placeName ref="places.xml#tes01"> Teschen</placeName> l’on a
+    disputé pendant dix semaines pour quatre millions d’écus, tandis que pendant la dispute on en
+    dépensait aux environs de quinze : <seg xml:lang="de"> fluge Leute thun wunderliche Dinge,
+     absonderlich aber die perrücfirten Häupter, so neben denen gefronten die besten Stellen
+     bestreben. </seg><seg xml:lang="it">Basta per lei</seg>. Présentement, tout naturellement j’en viens à
+    l’augmentation de <persName ref="people.xml#pai01"> Païsiello</persName> : que vous importe
+    comment cela est venu, pourvu qu’il l’ait? <seg xml:lang="it"> Ma</seg> le S. <persName
+     ref="people.xml#ela01"> Yélaguine</persName> ayant entendu ou non entendu qu’il ferait mieux
+    que des tondus, et les tondus mieux que lui, très brusquement a demandé d’être déchargé de
+    l’office de maître directeur, et tout de suite <persName ref="people.xml#bib01"> M. Bibikof</persName> a été mis à sa place
+    avec défense expresse de composer ou fournir aucun salmigondis en forme de programme pour
+    ballets, opéras, comédies ni prologues, défense en outre d’user d’allégories, de faire danser la
+    fièvre putride, de mettre des lampes de nuit en place du soleil, de présenter au parterre plus
+    d’une fois ce qui pourrait lui déplaire, fût-ce même la bonne amie de sire maître directeur. Or,
+    que dites-vous, le sieur conseiller d’état presse-éponge et <persName ref="people.xml#pai01">
+     Païsiello</persName>, de tout cela? J’espère que vous direz autant de bravississimo à cela que
+    j’ai trouvé de sississimo à la suite de ce que vous a mandé <persName ref="people.xml#pai01">
+     Païsiello</persName>. Au moins faillait-il y mettre des virgules, parce que je me suis
+    essouflée en lisant les deux lignes sissi sissi sissi de suite; j’ai fini par baisser ma tête
+    avec humilité, car non ai mérité. Amen. C’est l’opéra secret qui a été de si dure digestion au
+    seigneur <persName ref="people.xml#ela01"> Yélaguine</persName>, car il n’a pu ni disputer ni
+    faire des difficultés sur une chose qu’il ignorait aussi bien que tout le monde, et cela est
+    très dur à gens à talents que d’être ainsi furtivement privé de ce qu’on aime le mieux à étaler.
+    Savez-vous bien que j’aimerais mieux avoir la colique que d’avoir la charge de vous envoyer des
+    opéras ou la musique des opéras : où voulez-vous que je prenne cela?<seg xml:lang="de"
+     >Gott muß mir helfen, sonst verzage ich, dieses aus dem Leibe des Herrn Telagin
+     heraus zu ziehen</seg>; moi je m’en défais et vous me mettez aux prises avec lui.</p>
+   <p>Quoique je trouve la comparaison de <persName ref="people.xml#vol01"> Voltaire</persName> à un étalon d’<placeName ref="places.xml#spa01">
+    Espagne</placeName> très bonne, je ne la trouve point prouvée par les faits: il a fait plus d’avortons, et
+    personne jusqu’ici ne le surpasse, mais détournez votre conseiller d’état de venir ici;
+    dites-lui que je ne suis bonne qu’à être vue de loin, comme tous mes frères et soeurs. Je crains
+    les robins comme le feu, depuis М. <persName ref="people.xml#riv01"> de la Rivière</persName>; leurs perruques sont épaisses et
+    l’on ne porte guère perruque chez nous. A toutes vos jérémiades que puis-je répondre,
+    sinon <persName ref="people.xml#dan01">George Dandin</persName>, tu l’as bien voulu. Vous avez beau vous
+    moquer de moi sur l’arrangement chronologique des ouvrages du <rs ref="people.xml#vol01">
+     patriarche</rs> en l’étendant jusqu’à morceler ses ouvrages, <seg xml:lang="de"> ist nicht das
+     genug das sie herauskommen so wie sie geschrieben warne, sonften wurde sie sein Mensch
+     verstehen</seg>.</p>
+   <p>L’ <persName ref="people.xml#cat01"> impératrice</persName> ne vous donnera jamais d’histoire,
+    parce qu’elle n’a point de plume pour l’histoire; elle n’en a que pour son métier. Mais
+    savez-vous bien qu’en, me parlant de monsieur <persName ref="people.xml#ale01">
+     Alexandre</persName>, vous me prenez par mon faible? Je vous ai dit ci-devant que c’était un
+    prince qui se portait bien, mais présentement c’est bien autre chose: il commence à montrer une
+    intelligence singulière pour un enfant de son âge; j’en raffole, et ce marmot passerait sa vie
+    avec moi si on le laissait faire. Il est d’une humeur toujours égale, parce qu’il se porte bien,
+    et cette humeur consiste à être toujours gai, accueillant, prévenant, ne craignant rien et beau
+    comme les amours. Cet enfant fait les délices de tout le monde, et en particulier de moi; je
+    puis faire de lui ce que je veux; il marche seul; quand il fait des dents, la douleur même ne
+    change point son humeur; en riant, en folâtrant, il montre la douleur qu’il sent; il comprend
+    tout ce qu’on lui dit; par signes et par sons il s’est formé un langage à lui très intelligible.
+    La musique la plus gaie est celle qui lui plait le plus; <persName ref="people.xml#pai01">
+     Païsiello</persName> vous dira quel rôle il joue au concert qu’il arrange et dérange
+    quelquefois à sa façon, et comment il vient les prier de lui jouer toute sorte d’airs qui lui
+    plaisent, après quoi il les en remercie à sa façon.</p>
+   <p><persName ref="people.xml#den02"> Madame Denis</persName> vous a grondé de ce que vous l’avez
+    soupçonnée d’avoir placé de l’argent sur votre tête, et moi j’aurais envie de croire que vous
+    avez perdu la raison quand vous me proposez d’employer votre argent ou celui de <persName
+     ref="people.xml#den02"> mad. Denis</persName> à mon usage. Que cette idée vous passe, ou bien
+    aussi de ma vie je ne vous mettrai dans le cas de l’employer, en ne vous chargeant d’aucune
+    commission. <persName ref="people.xml#oua01"> Ouen-Ouang</persName>! où était votre tête dans ce
+    sublime moment, et comment avez-vous pu imaginer cela? </p>
+   <closer><signed rend="inline">Adieu</signed>, mais n’allez pas vous fâcher, ni me quereller de ce que je vous
+    dis là; faisons mieux, n’en parlons plus. Voilà une terrible année pour le cardinal de <persName
+     ref="people.xml#ber03"> Bernis</persName>: après avoir perdu l’abbé Deshayes, il vient encore
+    de perdre sa nièce. Dieu le préserve et nous aussi de la mort du pape: il faudrait prendre congé
+    des loges. Le premier pilier est arrivé à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName> avec mes frégates; je m’en irai un de ces jours leur rendre visite: je
+    dis leur, parce que la pacotille contient aussi tout plein de <persName ref="people.xml#hac01">
+     Hackert</persName> etc. Les <persName ref="people.xml#wal02"> Walpole</persName>, les <persName
+     ref="people.xml#udn01"> Udney</persName> ne sont point encore arrivés; voilà une terrible année
+    d’emplettes. Faites dire aux <persName ref="people.xml#san03"> Santini</persName> que si l’ample
+     <rs ref="people.xml#fre03"> baron</rs> ne leur fait pas des remises, qu’ils tirent sur loi ou
+    tel autre à <persName ref="people.xml#pet01"> Pétersbourg</persName>; cependant l’ample <rs
+     ref="people.xml#fre03"> baron</rs> prétend qu’il a écrit et remis, mais pas toute la somme
+    encore : aussi n'en ont-ils pas besoin encore; l’ample baron a eu une espèce d’indigestion
+    apoplectique; je meurs de peur qu’elle ne lui ait balayé la mémoire.</closer>
+  </body>
+ </text>
+</TEI>

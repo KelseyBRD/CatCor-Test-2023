@@ -1,0 +1,1029 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00048</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00048</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                    <term target="kw.xml#greatbritain"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#holland"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                    <term target="kw.xml#courtlife"/>
+                    <term target="kw.xml#reading"/>
+                    <term target="kw.xml#music"/>
+                    <term target="kw.xml#patronage"/>
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#children"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change><date when="2014-03-15">16 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup and annotations.</p></change>
+            <change>
+                <date when="2014-06-10">10 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-12">12 March 2021</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Merged with former letter-49 through letter-56.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr">
+                <body>
+                    <div>
+                        <opener><dateline><date when-custom="1789-01-13">Ce 13 janvier
+                                1789.</date></dateline><note type="editorial">Although Catherine
+                                worked on this letter from 13 January through 13 April 1789, she
+                                mislaid it: she eventually found it and sent it with a letter in
+                                which the last date was 23 June 1790 (<bibl><title
+                                        ref="works.xml#sborni01">SIRIO</title>, <biblScope
+                                        unit="vol">xxiii</biblScope>, <biblScope unit="pp">p.
+                                        485</biblScope></bibl>).</note></opener>
+                        
+                        <p>J'ai reçu ce matin une pluie de pancartes et de <seg xml:lang="de"
+                                >Vortrag</seg> de son excellence monsieur le souffre-douleur; la
+                            plus âgée est du 1 septembre de l'année passée, la plus jeune du 25
+                            décembre 1788 (5 janvier 1789). Par conséquent j'ai à répondre à un
+                            fonds de deux ans; vous serez payé avec usure, car Dieu sait quand ceci
+                            vous parviendra; ce qu'il y a de sûr, c'est que vous n'aurez pas <title
+                                ref="works.xml#recuei01">le recueil des pièces de
+                                l'hermitage</title> imprimées depuis peu (NB. Il n'y en a qu'une
+                            trentaine d'exemplaires) par deux raisons, comme disait <persName
+                                ref="people.xml#pin01">M. Pincé</persName><note type="editorial"
+                                >Character from Destouches' <title ref="works.xml#tambou01">'Le
+                                    tambour nocturne'</title>.</note>: la première, parce que vous
+                            dédaignez de parler des trésors que vous avez reçus en ce genre;<note
+                                type="editorial">On 3 October 1788, Catherine announced to Grimm
+                                that she was sending to Grimm two proverbs written by her favourite
+                                Aleksandr Dmitriev-Mamonov (<bibl><title ref="works.xml#sborni01"
+                                        >SIRIO</title>, <biblScope unit="vol">xxiii</biblScope>,
+                                        <biblScope unit="pp">p. 465</biblScope></bibl>).</note> la
+                            seconde, parce qu'aucun exemplaire ne se donne sans que celui qui en
+                            veut avoir ne livre au moins un proverbe: même les militaires n'en
+                            sauraient racheter par leurs exploits. <persName ref="people.xml#nas01"
+                                >Monsieur de Nassau</persName>, venu d'<placeName
+                                ref="places.xml#och01">Otchakof</placeName>, a été rançonné par
+                                <persName ref="people.xml#seg01">Ségur</persName>, son hôte, qui a
+                            livré pour lui un proverbe; <rs ref="people.xml#dmi01">l'habit
+                                rouge</rs> a produit le sien, et personne n'est exempt; ainsi,
+                            souffre douleur, dites bien ou mal de ce que je vous ai envoyé, et
+                            envoyez-moi une comédie ou proverbe faite par vous ou sous votre nom,
+                            bien gaie, bien folle, ou bien vous n'aurez rien, et cela sans
+                                rémission.<note type="editorial">Ségur contributed five plays to the
+                                    <ref target="works.xml#recuei01">'Recueil des pièces de
+                                    l'Hermitage'</ref>: 'Coriolan', a tragedy; 'Crispin duègne', a
+                                three-act comedy; 'L'Homme inconsidéré', which was called a
+                                'comédie' in the original edition even though it also falls into the
+                                genre of the 'proverbe'; 'L'Enlèvement', called a
+                                'comédie-proverbe'; and 'Le Sourd et le bègue' or 'A quelque chose
+                                malheur est bon', labeled a 'proverbe'. Catherine helped her
+                                favourite, Aleksandr Dmitriev-Mamonov ('l'habit rouge'), to complete
+                                a three-act comedy that appeared in the 'Recueil des pièces de
+                                l'Hermitage', 'L'Insouciant'. In the flurry of theatrical activity
+                                that surrounded the collection, she also finished Dmitriev-Mamonov's
+                                Russian proverb play, 'За вздор пошлины не платят' ('You don't pay
+                                taxes on nonsense'). (<bibl><title ref="works.xml#sochin01"
+                                        >Sochineniya imperatritsy</title>, <biblScope unit="vol"
+                                        >iv</biblScope>, <biblScope unit="pp">pp.
+                                    248-52</biblScope></bibl>; <bibl><author>Hyart</author>, <title
+                                        ref="works.xml#theatr01">'Le Théâtre de l'Ermitage'</title>,
+                                        <biblScope unit="pp">pp. 92-97</biblScope></bibl>;
+                                        <bibl><title ref="works.xml#dnevni01">Dnevnik A.V.
+                                        Khrapovitskago</title>, <biblScope unit="pp">p.
+                                        197</biblScope></bibl>.</note></p>
+                        <p><rs ref="people.xml#gus01">M. Falstaff</rs> assemble présentement une
+                                <name type="event" ref="events.xml#swedi01">diète</name> en
+                                <placeName ref="places.xml#swe01">Suède</placeName>, et il a ordonné
+                            d'arrêter en <placeName ref="places.xml#fin01">Finlande</placeName>
+                            <rs ref="orgs.xml#anja01">94 généraux et officiers</rs>, dont ceux qui
+                            en ont été avertis sont venus se refugier chez nous; le nombre en
+                            augmente tous les jours, et pourra devenir singulièrement considérable.
+                            Il paraît que cet homme-là est du nombre de ceux qui n'ont pas de plus
+                            grand ennemi que lui-même; il n'y a qu'à le laisser faire, mais <rs
+                                ref="people.xml#fri03">frère Gu</rs> sous la tutelle lui-même des
+                            insensés qui le gouvernent ne manquera pas de l'assister; quand sa
+                            nation aura dit son mot, je dirai le mien.</p>
+                        <p>J'envoie à <persName ref="people.xml#sed01">Sedaine</persName> la
+                            médaille que vous demandez pour sa tragédie de <title
+                                ref="works.xml#mailla01">Paris sauvé</title>.</p>
+                        <p>Remerciez s'il vous plaît <persName ref="people.xml#nec01">M.
+                                Necker</persName> pour <title ref="works.xml#repons01">sa réponse à
+                                    <persName ref="people.xml#cal01">M. de
+                                Calonne</persName></title> qu'il vous a donnée pour moi. Vous aurez
+                            appris déjà <name type="event" ref="events.xml#ochak01">la prise
+                                    d'<placeName ref="places.xml#och01">Otchakof</placeName></name>,
+                            ce qui aura mis fin aux sécheresses dont vous vous plaignez, de même que
+                            la retraite du <rs ref="people.xml#koc01">visir</rs> de la <placeName
+                                ref="places.xml#hun01">Hongrie</placeName>.<note type="editorial"
+                                >Catherine notified Grimm of the storming of Ochakov in a short
+                                letter of 17 or 18 December 1788 (<bibl><title
+                                        ref="works.xml#sborni01">SIRIO</title>, <biblScope
+                                        unit="vol">xxiii</biblScope>, <biblScope unit="pp">pp.
+                                        467-68</biblScope></bibl>.)</note> Je suis bien aise que
+                            vous soyez malcontent de tous les cabinets; je le suis aussi. Tout ce
+                            que vous dites sur l'école de génie est d'une très exacte vérité: nous
+                            en avons une qui pour pratique a eu deux villes prises d'assaut dans
+                            vingt ans;<note type="editorial">Probably the taking of Bender on 16/27
+                                September 1770 and that of Ochakov on 6/17 December 1788.</note>
+                            <seg xml:lang="de"><rs ref="places.xml#fra01">die armen
+                                Leute</rs></seg> qui vont gâter ce qu’ils avaient de meilleur,
+                                <seg xml:lang="de"><rs ref="places.xml#fra01">die armen
+                                    Leute</rs> taugen ja zu nichts mehr, nicht als Freunde, nicht
+                                als Feinde; was ist denn das für eine Constipation von Gefühle,
+                                welches unerhört ist.</seg><note type="editorial">German: 'the
+                                poor people are indeed good for nothing anymore, neither as friends
+                                nor as enemies; but what is this constipation of feelings, which is
+                                unheard-of?'</note> Qu'est-ce que ce <persName
+                                ref="people.xml#nen01">comte de Nenny</persName>? si c'est un des
+                            fous des <placeName ref="places.xml#hol02">Pays-Bas</placeName>, je lui
+                            baise les mains.</p>
+                        <p>Je n'ai rien à faire avec l'héritage de la <persName
+                                ref="people.xml#chu01">duchesse de Kingston</persName>.<note
+                                type="editorial">The will of Elizabeth Chudleigh, the scandalous
+                                Duchess of Kingston, who died in Paris on 26 August 1788, would
+                                undoubtedly have been the talk of the town: it was not enough that
+                                her late husband's nephew Evelyn Meadows, who had been fighting to
+                                win back the Duke of Kingston's wealth since the duke's death in
+                                1773, and her servants pillaged her belongings immediately.
+                                Elizabeth also left two different wills: one lodged in France in
+                                October 1786, and a more complete will in England that had remained
+                                unsigned at her death. Tussles in France over the legacy would last
+                                through the impending French Revolution.
+                                        (<bibl><author>Gervat</author>, <title
+                                        ref="works.xml#elizab01">Elizabeth</title>, <biblScope
+                                        unit="pp">pp. 237-42</biblScope></bibl>). Catherine did, in
+                                fact, have something to do with Elizabeth Chudleigh's will:
+                                Elizabeth had not just requested that she be buried in St.
+                                Petersburg, should she die near the place where she had so much
+                                longed to be, but she had also left to Catherine the paintings she
+                                possessed in Petersburg and a headdress of diamonds, pearls, and
+                                other precious stones. A very complicated legal battle began almost
+                                immediately in Russia: Baron Friedrich von Rosen immediately laid
+                                claim to Elizabeth's estate in Estonia, called Chudleigh. He
+                                asserted that Elizabeth had left a blank space in her French will
+                                where she should have filled in the heir of these lands, and that
+                                his was the name she intended to write in. Meanwhile, Catherine's
+                                ambassador in London, Semen Romanovich Vorontsov, sent extracts of
+                                Elizabeth's English will, which had been attested by the archbishop
+                                of Canterbury. One of the official executors of Elizabeth's will,
+                                George Payne, soon arrived in St. Petersburg and handed over
+                                responsibility for her estates in Russia to Colonel Mikhail
+                                Antonovich Garnovsky, who was one of Grigory Potemkin's most trusted
+                                members of staff and who had once accompanied Elizabeth back to
+                                Europe from her first Russian visit in 1777. On Elizabeth's death,
+                                her secretary in St. Petersburg had informed Garnovsky that
+                                Elizabeth had left him 50,000 rubles and that the Empress Catherine
+                                was to receive the paintings and headdress. But two of the
+                                paintings, a Raphael and a Claude Lorrain, were already the subject
+                                of a legal dispute, since Elizabeth had given them to Ivan
+                                Grigorevich Chernyshev on her first visit to Russia, but then
+                                subsequently tried to claim them back. Catherine was still embroiled
+                                in this matter on 2 January 1790, when she read out to her secretary
+                                Khrapovitsky an extract from Elizabeth's will and mentioned that
+                                Chernyshev had been saying the day before that they had been gifts
+                                to him. Catherine had answered that 'à sa place à la première
+                                demande je les aurais jetés par la fenêtre' ('in his place, the
+                                first time she asked for them, I would have thrown them out the
+                                window'). Since Garnovsky realised he was unlikely to extract any
+                                money from the Europe-wide legal battles, he successfully petitioned
+                                Catherine to receive instead Elizabeth's house in St. Petersburg and
+                                her two estates on the outskirts of the city. As Elizabeth's
+                                executor, Garnovsky began helping himself to the rich furnishings of
+                                her Estonian lands as well; von Rosen died before his legal case to
+                                obtain the lands could be concluded. Garnovsky failed to free the
+                                four serfs that Elizabeth liberated in her will, nor did he pay any
+                                other Russian heirs their due portions. Became fantastically rich
+                                and greatly annoyed the poet Gavrila Romanovich Derzhavin, who
+                                bought a house near the Izmailovsky Bridge next door to the house
+                                that Garnovsky had inherited from the Duchess of Kingston. In the
+                                reign of Catherine's son Paul, the emperor found the Russian legal
+                                battle still unfinished: accused of being deliquent in his duties as
+                                executor of the Duchess of Kingston's will, Garnovsky wound up in
+                                prison for unpaid debts before dying in poverty, and the Duchess's
+                                formerly opulent home by Izmailovsky Bridge was converted into
+                                barracks for the Horse Guards. (<bibl><author>Karnovich</author>,
+                                        <title ref="works.xml#gertso01">'Gertsoginya
+                                        Kingston'</title>, <biblScope unit="pp">pp.
+                                        97-108</biblScope></bibl>).</note></p>
+                        <p>Le № 1 <seg xml:lang="de">Vortrag</seg> en est un de comptes; je
+                            n'ai aucun, besoin de pareil ennui: je vous jure, mon impatience
+                            naturelle n'est pas diminuée en 1788, comme vous le jugez bien; c'est ce
+                            qui m'empêche aussi de faire un commentaire sur ce beau sujet.</p>
+                        <p>J'ordonnerai à <persName ref="people.xml#zav01">M. Zavadofski</persName>
+                            de finir avec vous; pour ce qui est de l'argent que vous avez payé pour
+                                <rs ref="people.xml#bob01">son pupille</rs>, il est juste qu'il
+                            reste sur mon compte.</p>
+                        
+                    </div>
+                    <div>
+                        <opener><dateline><date when-custom="1789-01-17">Ce 17
+                                janvier.</date></dateline></opener>
+                        
+                        <p>Je chercherai ce que j'ai de vos pancartes, et je vous les enverrai, mais
+                            gare à l'impression de notre vivant. Vous avez bien raison de dire que
+                            le règne actuel NB. ne ressemble point à celui qui l'a précédé: celui-ci
+                            est sot, insolent, téméraire, ostentieux, et n'ayant pas l'ombre du bon
+                            sens; avec cela ils sont extrêmement expéditifs; ils emploient deux ou
+                            trois heures à quoi je rêverais trois semaines; cela rend ce qu'ils
+                            écrivent diffus et mal digéré; outre cela, à ce qu'on leur répond ils
+                            donnent un contre-sens tiré par les cheveux; cela les fait paraître
+                            doubles, triples et louches.</p>
+                        <p>Je suis bien fâchée de ce que votre № 2 me dit de votre santé: la mienne
+                            a essuyé les secousses de cette année 1788 avec une constance étonnante,
+                            et à quelques coliques près, dont je n'ai fait aucun cas, je ne puis me
+                            plaindre de rien, et voilà la cinquième année que pas une recette n'a
+                            été écrite pour moi et qu'à la lettre je n'ai pris aucune sorte de
+                            médecine. Il ne faut pas que <rs ref="people.xml#gus01">Gustaveschlaf
+                                Falstaff</rs>, l'insensé, vous fasse du mauvais sang, et parce qu'il
+                            s'enivre tous les jours et qu'étant dans cet état il met ordre à ses
+                            affaires, dicte des ordres et les souscrit, il n'est pas juste que vous
+                            mourriez de chagrin. Je vous dirai encore quelque anecdote de ce
+                            garnement: il dit un jour au <rs ref="people.xml#spr02">frère</rs> de
+                                <persName ref="people.xml#spr03">l'ambassadeur
+                                Sprengtporten</persName> qui est en <placeName
+                                ref="places.xml#den01">Danemark</placeName>: «Avez-vous remarqué la
+                            signature de l'ordre que je vous ai donné pour partir de <placeName
+                                ref="places.xml#fin01">Finlande</placeName> avec les troupes pour
+                            opérer la révolution?» Celui-ci lui dit que non; alors il lui dit: «Je
+                            n'ai eu garde de le signer comme je signe toujours; j'ai contrefait ma
+                            signature, car si nous n'avions pas réussi, les états vous auraient
+                            coupé la tète, et moi j'aurais nié la signature, comme ne ressemblant
+                            pas à la mienne.» Il en a fait à peu près autant cet été avec <persName
+                                ref="people.xml#has01">le brigadier Hastfer</persName>, auquel il
+                            avait envoyé un ordre signé d'attaquer <placeName ref="places.xml#sav01"
+                                >Neuslott</placeName>, qu'il retira ensuite; présentement il l'a
+                            fait arrêter en <placeName ref="places.xml#fin01">Finlande</placeName>
+                            sous prétexte qu'il a eu part à <rs ref="orgs.xml#anja01">l'association
+                                des troupes finnoises</rs>, et <persName ref="people.xml#has01"
+                                >Hastfer</persName> court risque de perdre la tête pour peu que <rs
+                                ref="people.xml#gus01">le roi</rs> croire [sic] qu'il lui soit
+                            nécessaire vis-à-vis des états de cacher l'ordre d'attaque qu'il a
+                            donné. <seg xml:lang="de"><rs ref="places.xml#fra01">Die armen
+                                    Leute</rs></seg> font aussi bien des pauvretés. Si cet <rs
+                                ref="people.xml#cho02">ambassadeur</rs> à <placeName
+                                ref="places.xml#ist01">Constantinople</placeName> qui n'a pas le
+                            moindre brin de crédit, ne fait pas les choses à leur goût, pourquoi ne
+                            le rappellent-ils pas? d'ailleurs il s'y meurt et s'y déplaît. <seg
+                                xml:lang="de">Aber <rs ref="places.xml#fra01">die armen Leute</rs>
+                                sind viel zu tückisch um daß sie sollten gegen uns oder vor uns was
+                                offenherziges fürnehmen. In 15 Monat sind wir so weit vorgerückt als
+                                wir waren, und dieses ist ein großer Beweis der tückischen Armuth,
+                                nicht mal wollen sie an <rs ref="people.xml#gus01">Bruder Gu</rs>
+                                ein Wortchen sagen wegen sein unartiges Betragen; der <rs
+                                    ref="people.xml#gus01">Herr Bruder Gu</rs> hat den eifrigen <rs
+                                    ref="people.xml#geo02">Herrn Bruder Ge</rs> ganz verloren und
+                                wenn meine Successions-Regeln nicht unrichtig sich beweisen, so wird
+                                wohl <rs ref="people.xml#geo03">Bruder Ge Söhnchen</rs> nicht so ein
+                                ganz eifriger Beförderer derer Lieblingsgesinnungen des <rs
+                                    ref="people.xml#geo02">Herrn Papas</rs> seyn; <rs
+                                    ref="people.xml#geo02">der liebe Papa</rs> hat das Wenige, so
+                                ihm der Himmel beschert, ja ganz verloren, das ist den doch elend
+                                genug, absonderlich für denen so auf ihn so großgegründete Hoffnung
+                                machten; man sieht es schon an allem ihren Betragen, daß sie von
+                                dorten nicht viel zu hoffen und gegen Aufgang der Sonne auch an
+                                Kredit nicht zugenommen; bleibt <rs ref="people.xml#gus01"
+                                    >Gustafschlaffalstaff</rs> übrig mit diesen Narren, wird die
+                                Hetze nicht weit getrieben werden, Gott helfe Ew. Excell. zur
+                                Verständniß dieser äusserst wichtigen deutschen Seite.</seg></p>
+                        
+                    </div>
+                    <div>
+                        <opener><dateline><date when-custom="1789-01-23">Ce 23 janvier (3 février)
+                                    1789.</date></dateline></opener>
+                        <p>L'atmosphère que le <rs ref="people.xml#hen02">pr. H.</rs> venait de
+                            quitter quand il est débarqué chez vous est chargée de fumée et de
+                            vapeurs épaisses qui tôt ou tard ne seront dissipées que par les coups
+                            de canon; comme je ne suis point magicienne, je suis la bête noire des
+                            fripons; c'est à <rs ref="people.xml#jos01">frère J.</rs> à opérer les
+                            merveilles que vous proposez, car c'est pour lui qu'on m'en veut. Mais
+                            je parierais avec qui voudra que <rs ref="people.xml#cat01">soeur
+                                C.</rs> tôt ou tard aura le dessus, entendez-vous, souffre-douleur?
+                            Cet hiver est rude, mais vous en souffrez plus que nous, vu les
+                            précautions que nous avons et que vous n'avez pas. Faites mon portrait
+                            si vous voulez, je ne m'y oppose pas; faites ce que vous jugerez à
+                            propos sur la sommation du <seg xml:lang="de"><title
+                                    ref="works.xml#graueu01">graue Ungeheuer</title></seg>.</p>
+                        <p>Les <rs ref="works.xml#oeuvre03">oeuvres</rs> du <rs
+                                ref="people.xml#fre01">roi de Prusse</rs> nous sont arrivées depuis
+                            longtemps; je n'en ai lu encore que 30 pages, sur lesquelles j'ai fait
+                            par écrit 27 remarques; l'on dit chez nous que <rs
+                                ref="people.xml#fre01">S. M.</rs> mentait comme un arracheur de
+                            dents, en mille endroits de son livre. Je ne sais encore ce qui en est,
+                            mais dans le peu que j'ai lu il m'a paru que par-ci par-là le bon mot
+                            brillant l'emporte souvent sur l'exactitude du fait, mais il y a de fort
+                            bonnes choses et de plusieurs; <rs ref="people.xml#gus01">frère Gu</rs>:
+                            ferait bien de faire son profit, mais qui est bête ne fait profit de
+                            rien. Je n'ai point vu les passages qui regardent le <persName
+                                ref="people.xml#hen02">prince Henri</persName> et son séjour d'<rs
+                                ref="places.xml#rus01">ici</rs>, mais ce qu'il y a de sûr, c'est que
+                                <rs ref="people.xml#fre01">le roi</rs> ne repectait pas toujours la
+                            vérité, et qu'il a fait passer le <persName ref="people.xml#hen02"
+                                >prince Henri</persName> pour avoir perdu l'esprit l'hiver après la
+                            campagne qui a fini par la <rs ref="events.xml#tesch01">paix</rs> de
+                                <placeName ref="places.xml#tes01">Teschen</placeName>; ce fait je le
+                            tiens du <persName ref="people.xml#pan01">comte Panine</persName>, qui
+                            prétendait avoir lu ce passage écrit de la propre main du <rs
+                                ref="people.xml#fre01">roi</rs> dans un postscript. J'ai souvent
+                            pensé ce qui aurait pu le porter à inventer ce trait, et je pense que
+                            c'était un trait d'économie pour empêcher <rs ref="people.xml#hen02">le
+                                prince</rs> de venir ici une troisième fois; mais que tout ceci
+                            reste entre nous: cela n'est plus bon à rien. Au reste, les bonnes
+                            intentions que vous avez remarquées au <rs ref="people.xml#hen02"
+                                >prince</rs> ne sauraient que m'être très agréables; je ne saurais
+                            en dire autant de la conduite toute farcie de duplicité et d'un
+                            machiavellisme parfait de <rs ref="people.xml#fri03">monsieur son
+                                neveu</rs>. Vous pouvez dire à <persName ref="people.xml#buf01">M.
+                                de Buffon</persName> que je n'achète ni ne reçois de présents de
+                            personne. Je savais déjà que <rs ref="people.xml#sta04">Mad. la
+                                représentante Falstaffine</rs> était folle à lier. Nous verrons et
+                            saurons bientôt si la <rs ref="events.xml#ochak01">prise</rs>
+                                d'<placeName ref="places.xml#och01">Otchakof</placeName> aura rendu
+                            le sens commun aux <rs ref="places.xml#ott01">musulmans</rs>; sinon,
+                            nous verrons encore ce qui en arrivera.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-01-24">Ce 24
+                                    janvier.</date></dateline></opener>
+                       
+                        <p>J'aime beaucoup cette définition que vous faites dans votre № 3 de
+                            l'esprit de vertige et de folie qui s'est emparé de toute l'<placeName
+                                ref="places.xml#eur01">Europe</placeName> depuis deux ans, et je
+                            vous garantis qu'il se pourra très bien que dans un quart d'heure de
+                            temps tous ces beaux projets de faiseurs de systèmes s'en iront en belle
+                            et bonne fumée. Vous pouvez être persuadé <seg xml:lang="de">daß <rs
+                                    ref="places.xml#fra01">die armen Leute</rs></seg>, jusqu'au
+                            mois de décembre inclusivement de l'année passée, ont payé à <rs
+                                ref="people.xml#gus01">Falstaff</rs> leurs subsides le plus
+                            exactement que possible et qu'ils sont enchantés des embarras qui m'ont
+                            été excités de tous côtés (c'est moi qui suis leur bête) et qu'ils
+                            prendraient plutôt des engagements avec les Gegu qu'avec moi: ceci est
+                            démontré. Assurément je n'ai pas oublié que j'ai eu l'honneur de rendre
+                            à <persName ref="people.xml#fre01">Frédéric II</persName> son royaume de
+                                <placeName ref="places.xml#pru01">Prusse</placeName> et une partie
+                            de la <placeName ref="places.xml#pom01">Poméranie</placeName> en <rs
+                                ref="events.xml#seven01">1762</rs>. Je ne doute pas non plus que si
+                                <rs ref="people.xml#fri03">M. son neveu</rs> continue, il ne se
+                            mette dans le cas de perdre plus que <rs ref="people.xml#fre01">M. son
+                                oncle</rs>, qui eut bien de la peine, malgré son génie, à se tirer
+                            d'affaire. Je suis bien aise que <persName ref="people.xml#pri01">M. de
+                                    S<seg rend="sup">t</seg> Priest</persName> soit entré au
+                                <orgName ref="orgs.xml#coun02">conseil</orgName>; je sais bien où je
+                            voudrais le voir. Vous n'avez que faire de rendre la <rs
+                                ref="places.xml#pol01">nation polonaise</rs> nulle: elle y
+                            travaille; de reste, elle vient d'abolir le <orgName
+                                ref="orgs.xml#perm01">conseil permanent</orgName>, le seul dicastère
+                            qui pouvait faire exécuter les lois; n'ayez pas peur: sa nullité folle
+                            la mènera d'extravagance en extravagance, et le moment viendra qu'elle
+                            se verra bien bête et que le repentir lui viendra. Il faut dire la
+                            vérité: vous êtes un grand politiqueur; vous parcourez toute
+                                l'<placeName ref="places.xml#eur01">Europe</placeName> en deux
+                            pages, mais comme cela s'est fait pour me dire que je n'ai qu'à faire
+                            que ce que mon intérêt me dictera, je vous en suis bien obligée, et je
+                            vous assure que je n'y manquerai pas.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-01-27">Ce 27
+                                    janvier.</date></dateline></opener>
+                        
+                        <p>Vos <orgName ref="orgs.xml#nota01">notables</orgName> ont-ils fait de la
+                            besogne? Mais je vous avoue que je n'aime point ces <orgName
+                                ref="orgs.xml#esta01">états généraux</orgName> renvoyés. <seg
+                                xml:lang="de">Was wird denn daraus werden? Die Wirthschaft wird
+                                immer armseliger.</seg> J'ai été très fâchée de la mort du
+                                <persName ref="people.xml#suf01">bailli de Suffrein</persName>: je
+                            n'aime pas que les gens de mérite meurent. J'ai reçu <title
+                                ref="works.xml#almana01">l'almanach de Gotha</title>. Je suis très
+                            fâchée de ce que votre santé souffre du froid de ce terrible hiver. Il
+                            nous manque huit postes d'<placeName ref="places.xml#eng01"
+                                >Angleterre</placeName>; on dit tous les ports gelés. Je suis
+                            étonnée de ce que vous me dites des discours que vous tient <persName
+                                ref="people.xml#hen02">le prince Henri</persName> sur le compte de
+                            votre très humble servante, car elle avait eu des notions pas tout à
+                            fait conformes à ce que vous en dites ci-devant; mais enfin il est si
+                            difficile de débrouiller dans ce monde le vrai du faux qu'il faut
+                            laisser aller les choses comme elles vont. La meute Gegu<note
+                                type="editorial"><ref target="people.xml#geo02">George III</ref> and
+                                    <ref target="people.xml#fri03">Friedrich Wilhelm
+                                II</ref>.</note> est forte en aboyeurs; l'on dit <persName
+                                ref="people.xml#har01">Harris</persName> à la tête; je pense que <rs
+                                ref="people.xml#goe01">le boutonné</rs> en est aussi; par conséquent
+                            ils peuvent se vanter qu'ils ont deux biles personnifiées qui composent
+                            la politique Gegu; c'est avec ces deux rages-là qu'ils courent
+                            rapidement, nous verrons où. Présentement <persName
+                                ref="people.xml#har01">Harris</persName>, dit-on, s'est rangé dans
+                            le parti du <rs ref="people.xml#geo03">prince de Galles</rs>; il a signé
+                            la <rs ref="events.xml#prote01">protestation des pairs</rs>; il faudra
+                            voir s'il déplacera ou remplacera <persName ref="people.xml#fox01"
+                                >Fox</persName>; mais jamais je ne le croirai que quand je le
+                            verrai.</p>
+                        <p>La mort de <persName ref="people.xml#gre01">l'amiral Greigh</persName>
+                            est l'une de celles qui m'ont fait le plus de chagrin dans ma vie. La
+                            conduite des parents de <persName ref="people.xml#aug01"
+                                >Zelmire</persName> vis-à-vis d'elle et de moi a été bien fausse et
+                            bien inconsidérée. <rs ref="people.xml#aug02">La mère</rs> lui disait
+                            toujours des tendresses, lui conseillait de s'adresser à moi, semblait
+                            souvent trahir <rs ref="people.xml#kar03">le père</rs>, lui escamoter
+                            son secret; puis la critiquait et désaprouvait sa conduite; le <rs
+                                ref="people.xml#kar03">papa</rs> agissait d'accord avec <rs
+                                ref="people.xml#fri06">le mari</rs> et me disait à moi qu'il s'en
+                            rapportait à ce que je conseillerais à <persName ref="people.xml#aug01"
+                                >Zelmire</persName>. Mais <persName ref="people.xml#aug01"
+                                >Zelmire</persName> craignait de retourner et de lâcher le morceau
+                            pour l'ombre.<note type="editorial">An proverbial allusion to Jean de La
+                                Fontaine's version of Aesop's fable, <ref
+                                    target="works.xml#chienq01">'Le chien qui lâche sa proie pour
+                                    l'ombre'</ref>.</note>
+                            <persName ref="people.xml#aug01">Zelmire</persName> ne manquait pas
+                            d'esprit et de fermeté, et elle avait sa petite tête à elle; son projet
+                            était fait de vivre parfaitement indépendante; à <placeName
+                                ref="places.xml#loh01">Lohde</placeName> elle avait gagné tout ce
+                            qui l'entourait. L'on dit que le <persName ref="people.xml#pot01">pr.
+                                Potemkine</persName>, que nous attendons à toute heure, est fort
+                            content du chirurgien que vous lui avez envoyé. Le zèle du <persName
+                                ref="people.xml#fay01">marquis de La Fayette</persName> a embrassé
+                            un vaste champ, et il ne manquera pas d'exercice à voir les choses comme
+                            elles vont. Je vous remercie, de même que <persName
+                                ref="people.xml#bue01">madame de Bueil</persName>, pour les souhaits
+                            que vous me faites à l'occasion du renouvellement d'année; je souhaite
+                            que le courant de celle-ci vous donne bien du contentement à tous les
+                            deux. Je vous renvoie l'<rs ref="works.xml#khrabr01">opéra</rs> de <rs
+                                ref="people.xml#wan01">Wantschura</rs> et j'y joins un autre, dont
+                            la musique est imprimée et qui vient de paraître. Vous voilà bien
+                            embarrassé; faites copier un des soixante-dix portraits que vous avez
+                            pour la boîte de <persName ref="people.xml#bai01">M.
+                                Bailly</persName>.<note type="editorial">Grimm owned a very large
+                                collection of portraits of Catherine the Great, which were destroyed
+                                in the French Revolution.</note> Le <rs ref="works.xml#voyage01"
+                                >livre</rs> de <persName ref="people.xml#bar01">l'abbé
+                                Barthélémy</persName> est trop gros pour le lire, et par conséquent
+                            je l'ai envoyé à ma bibliothèque. L'éventail pour <rs
+                                ref="people.xml#mar02">la grande-duchesse</rs> ne m'est pas arrivé;
+                            je l'ai cherché dans tous les paquets, et on en a demandé nouvelle à
+                                <persName ref="people.xml#lit01">Mr. Litvinof</persName>, qui a dit
+                            qu'il avait remis tout ce qu'il avait reçu; ainsi, souffre-douleur, vous
+                            n'avez qu'à le chercher chez vous.</p>
+                        <p>Les énormes paquets de <persName ref="people.xml#seg02">la comtesse de
+                                Ségur</persName> ont été envoyés au <rs ref="people.xml#seg01"
+                                >comte</rs>, son époux.</p>
+                        <p>Voilà une année assez remplie. La <rs ref="events.xml#turki02"
+                                >guerre</rs> de <placeName ref="places.xml#ott01"
+                                >Turquie</placeName>, <rs ref="events.xml#swedi02">celle</rs> de la
+                                <placeName ref="places.xml#swe01">Suède</placeName>, la <rs
+                                ref="events.xml#regen01">folie</rs> du <rs ref="people.xml#geo02"
+                                >roi d'Angleterre</rs>, la <rs ref="events.xml#ochak01">prise</rs>
+                                d'<placeName ref="places.xml#och01">Otchakof</placeName>, la mort du
+                                <rs ref="people.xml#car02">roi d'Espagne</rs>, les <rs
+                                ref="events.xml#prote01">débats du parlement</rs> d'<placeName
+                                ref="places.xml#eng01">Angleterre</placeName>, la diète de
+                                <placeName ref="places.xml#pol01">Pologne</placeName>, <rs
+                                ref="events.xml#swedi01">celle</rs> de <placeName
+                                ref="places.xml#swe01">Suède</placeName>, les affaires d'<placeName
+                                ref="places.xml#hol02">Hollande</placeName><note type="editorial"
+                                >Catherine thus refers to the unrest in the United Provinces that
+                                threatened the ruling Prince of Orange, Willem V, and his
+                                Prussian-born wife. These events concerned her particularly because
+                                they pushed Holland toward a <ref target="events.xml#tri01">Triple
+                                    Alliance</ref> with Prussia and Britain, which was aimed against
+                                Russia.</note>, la conduite du <rs ref="people.xml#fri03">roi de
+                                Prusse</rs> en <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>, en <placeName ref="places.xml#den01"
+                                >Danemark</placeName>, les combats navaux du <rs
+                                ref="places.xml#dni02">Liman</rs> dans <placeName
+                                ref="places.xml#bal01">la Baltique</placeName>, les <rs
+                                ref="events.xml#braba01">bêtises</rs> des <placeName
+                                ref="places.xml#hol02">Pays-Bas</placeName>, les <orgName
+                                ref="orgs.xml#nota01">notables</orgName>, les <orgName
+                                ref="orgs.xml#esta01">états généraux</orgName>, la <rs
+                                ref="events.xml#khoti01">prise</rs> de <placeName
+                                ref="places.xml#kho01">Khotine</placeName>, <rs
+                                ref="events.xml#banat01">l'arrivée et la retraite</rs> du <rs
+                                ref="people.xml#koc01">visir</rs> du <placeName
+                                ref="places.xml#ban01">banat</placeName> etc.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-01-29">Ce 29
+                                    janvier.</date></dateline></opener>
+                       
+                        <p>Si les <orgName ref="orgs.xml#nota01">notables</orgName> ou les <orgName
+                                ref="orgs.xml#esta01">états généraux</orgName> se montreront trop
+                            échauffés, je conseillerais de les régaler d'une ruade politique contre
+                            le parti stathoudérien<note type="editorial">Allusion to the supporters
+                                of the Dutch Stadtholder, <ref target="people.xml#wil03">William V
+                                    of Orange</ref>, whose power was opposed by the Dutch patriots
+                                'Patriots'. He received armed support from Catherine's nemesis, <ref
+                                    target="people.xml#fri03">Friedrich Wilhelm II</ref> of
+                                Prussia.</note> en <placeName ref="places.xml#hol02"
+                                >Hollande</placeName>; alors toutes les têtes chaudes y courraient,
+                            et les froides paieraient les dettes et fixeraient les impôts. Ce serait
+                            le moyen d'accommoder tout le monde, et peut-être l'unique d'apaiser
+                            l'effervescence que les têtes ont prise chez vous.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-03-06">Ce 6
+                                    mars.</date></dateline></opener>
+                        
+                        <p>Ecoutez, je pense que les opérations de finances en <placeName
+                                ref="places.xml#fra01">France</placeName> sont très propres à
+                            persuader les gens qu'il y a des choses auxquelles il faut croire sans y
+                            rien comprendre; c'est en relisant votre № 4 pour y répondre que j'ai
+                            fait cette belle réflexion et nommément ce que vous me dites de la
+                            manière dont vous avez jugé à propos de placer l'argent donné à la <rs
+                                ref="people.xml#cle02">fille</rs> de <persName
+                                ref="people.xml#cle01">Clérisseau</persName>; cependant par ce que
+                            vous me dites je vois qu'on accumule les dettes de l'état et que <rs
+                                ref="people.xml#lou01">S. M.</rs> doit plus en effet qu'il n'est
+                            entré dans ses coffres.<note type="editorial">From this letter, one must
+                                assume that Grimm chose to invest Catherine's gift to <ref
+                                    target="people.xml#cle02">Marie-Josephine Clérisseau</ref> in
+                                the French state, which was indeed a risky choice in
+                            1789.</note></p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-03-19">Ce 19
+                                    mars.</date></dateline></opener>
+                        
+                        <p>La pièce allemande qui décrit les hauts faits de <rs
+                                ref="people.xml#gus01">Falstaff</rs> est assez plaisante.<note
+                                type="editorial">Catherine herself wrote a Russian play mocking
+                                Gustav, <title ref="works.xml#gorebo01">Gorebogatyr
+                                    Kosometovich</title>.</note> Au premier échec il y aura de
+                            nouvelles scènes; il a dit, après avoir fait arrêter <persName
+                                ref="people.xml#fer01">le maréchal Fersen</persName> etc., qu'il
+                            venait de passer le <placeName ref="places.xml#rub01"
+                                >Rubicon</placeName> comme <persName ref="people.xml#cae01"
+                                >César</persName>, et je ne sais qui s'est écrié: «Eh bien, Sire,
+                            évitez présentement de finir comme lui».<note type="editorial">A
+                                prophetic statement: on 16 March 1792 (NS), Gustav III was shot in
+                                the back by a member of noble conspiracy, and he died of his wounds
+                                on 29 March, thus joining Julius Caesar as a victim of
+                                assassination.</note> Vous dites dans votre № 5 que les insensés
+                            disent qu'il n'y a plus de <persName ref="people.xml#cat01"
+                                >Catherine</persName>, mais s'il n'y en avait plus, l'empire de
+                                <placeName ref="places.xml#rus01">Russie</placeName> n'en existerait
+                            pas moins, et celui-ci en vérité n'est pas fait pour être écrasé ni par
+                                <rs ref="people.xml#gus01">Falstaff</rs>, ni par <rs
+                                ref="people.xml#fri03">Gu</rs> combiné même avec l'ami <persName
+                                ref="people.xml#abd01">Abdoul Hamet</persName>, et plus nous gagnons
+                            en temps, et plus nous serons en force. Outre cela soyez assuré qu'il ne
+                            faut qu'un quart d'heure pour que tous ces noeuds se dénouent; mais il
+                            est très sûr que si <seg xml:lang="de"><rs ref="places.xml#fra01"
+                                    >die armen Leute</rs></seg> voulaient bien hausser le ton
+                            vis-à-vis des Hollandais et ne pas laisser écraser tout à fait leur
+                            parti dans cette <rs ref="places.xml#hol02">république</rs>, ils
+                            m'aideraient infiniment; je voudrais que vous eussiez là-dessus une
+                            conversation amicale avec <persName ref="people.xml#pri01">M. de S<hi
+                                    rend="sup">t</hi> Priest</persName> et que vous avisiez ensemble
+                            s'il n'y aurait pas moyen de porter la cour où vous êtes à quelque
+                            démarche qui montrât au moins que la <placeName ref="places.xml#fra01"
+                                >France</placeName> existe encore parmi les puissances signifiantes
+                            et qu'ayant 80 vaisseaux de guerre, elle ne les a pas comdamnés [sic] à
+                            les laisser pourrir dans ses ports sans aucune utilité pour l'état. La
+                            considération de cette cour se perd totalement par son inaction. On ne
+                            m'a jamais accusé d'avoir été bien partiale pour elle; mais mon intérêt
+                            et celui de toute l'<placeName ref="places.xml#eur01">Europe</placeName>
+                            exigent qu'elle reprenne la place qui lui convient, et cela le plus tôt
+                            possible, et voilà ce qu'en payant ses dettes, les <orgName
+                                ref="orgs.xml#esta01">états-généraux</orgName> devraient conseiller
+                            au <rs ref="people.xml#lou01">roi</rs>, et toute l'<placeName
+                                ref="places.xml#eur01">Europe</placeName> battrait des mains, ce qui
+                            comblerait la nation d'honneur dans le siècle présent et à l'avenir. Les
+                            Français aiment l'honneur et la gloire: ils feront tout pour elles dès
+                            qu'on leur montrera ce que l'honneur et la gloire de la patrie exigent:
+                            chaque Français ne peut que convenir qu'il n'y en a pas dans cet état
+                            d'inexistence politique dans lequel les troubles intérieurs
+                            s'alimentent, s'étendent, croissent et s'accumulent à chaque pas. Que
+                            ses cordes s'étendent hors du royaume, elles cesseront de le miner et
+                            gruger comme les vers le corps d'un vaisseau. Si ce que je vous dis peut
+                            produire quelque effet, je vous prie de vous en servir partout là où
+                            vous en verrez l'utilité. Au reste, les conditions de paix, dès que <rs
+                                ref="people.xml#bul01">mon ministre</rs> sera hors des <placeName
+                                ref="places.xml#yed01">Sept Tours</placeName>, ne seront pas bien
+                            difficiles à arranger, pourvu que la <rs ref="places.xml#ott01"
+                                >Porte</rs> veuille s'y entendre; de mon côté j'y apporterai toutes
+                            les facilités convenables: <placeName ref="places.xml#ber02">l'île de
+                                Bérésan</placeName> est un endroit insignifiant qui ne garde rien,
+                                <placeName ref="places.xml#kin01">Kinbourn</placeName> n'est qu'une
+                            amorce, <placeName ref="places.xml#och01">Otchakof</placeName> ne
+                            saurait être ruiné qu'il n'amène avec lui de nouvelles constructions, et
+                            par conséquent des dépenses en conséquence, qui d'ailleurs ne sont pas
+                            petites. Si la <placeName ref="places.xml#fra01">France</placeName>
+                            haussait son ton et reprenait sa place, la paix se ferait bien vite: que
+                            n'envoie-t-elle une flotte dans <rs ref="aeg01">l'Archipel</rs> pour la
+                            faire? Les dernières lettres parlent du rétablissement du <rs
+                                ref="people.xml#geo02">roi d'Angl.</rs>.—Si <persName
+                                ref="people.xml#mir01">Mirabeau</persName> dans son <rs
+                                ref="works.xml#monarc01">livre</rs> n'est pas plus véridique sur le
+                            compte d'autrui que sur le mien, son <rs ref="works.xml#monarc01"
+                                >livre</rs> ne mérite aucune attention; il y en a <rs
+                                ref="works.xml#histoi02">un bien plus atroce encore qui vient de
+                                paraître</rs>, mais qui porte avec lui une si grande touche de
+                            calomnie qu'il ne saurait inspirer nulle part que l'horreur la mieux
+                            méritée.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-04-13">Ce 13
+                                    d'avril.</date></dateline></opener>
+                        <salute rend="inline">Monsieur le souffre-douleur,</salute>
+                        <p>en cas qu'il a encore de l'argent à moi, aura la bonté de faire parvenir
+                            à <persName ref="people.xml#pfi01">Sophie Albertine
+                                Pfitznerin</persName>, dans son refuge de <placeName
+                                ref="places.xml#fri01">Frienstedt bey Erfurt</placeName>, cent
+                            roubles dont elle prétend avoir grand besoin dans ce monde et pour
+                            lesquels elle me promet tant de belles choses dans celui-ci et dans
+                            l'autre, comme l'atteste sa pancarte ci-jointe.<note type="editorial"
+                                >Just as in earlier years Grimm had acted as an intermediary between
+                                Catherine and the artists and writers she patronised, during the
+                                French Revolution he filtered requests for and distributed aid to
+                                émigrés like Pfitznerin on the empress's behalf.</note></p>
+                        
+                    </div>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <div>
+                        <opener><dateline><date when-custom="1789-01-13">This 13 January
+                                    1789.</date></dateline></opener>
+                       
+                        <p>I received this morning a shower of notices and lectures from his
+                            excellence mister whipping-boy: the eldest is of 1 September last year,
+                            the youngest of 25 December 1788 (5 January 1789). As a result I have to
+                            reply to a stock of two years. You will be repayed at high interest, for
+                            God knows when this will reach you. What is certain is that you will not
+                            get the collection of plays of the Hermitage that was printed recently
+                            (nota bene: there are only some thirty copies) for two reasons, as Mr.
+                            Pincé used to say. The first: because you do not deign to speak of the
+                            treasures of this sort that you have received. The second: because no
+                            copy will be given without he who wants one delivering up at least one
+                            proverb. Even military men cannot buy one with their exploits. Mr. de
+                            Nassau, who arrived from Ochakov, was ransomed by Ségur, his host, who
+                            delivered up a proverb for him. The redcoat produced his own, and no one
+                            is exempt. Therefore, whipping-boy, say something, good or bad, about
+                            what I sent you, and send me a comedy or a proverb written by you or in
+                            your name. It should be suitably gay, suitably daft, or you will
+                            suitably have nothing, and that without hope of redemption.</p>
+                        <p>Mr. Falstaff is currently bringing together a diet in Sweden, and he as
+                            ordered the arrest in Finland of 94 generals and officers, of whom those
+                            who were warned have taken refuge with us. Their number increases by the
+                            day and could grow extraordinarily substantial. That man seems to be one
+                            of those who have no greater enemy than themselves. One need only leave
+                            him to his own devices, but Brother Gu, under the guidance of the madmen
+                            who govern him, will not fail to help him. When his nation has said its
+                            piece, I will say mine.</p>
+                        <p>I am sending to Sedaine the medallion that you requested for his tragedy,
+                            'Paris saved'.</p>
+                        <p>Please thank Mr. Necker for his reply to Mr. de Calonne, which he gave
+                            you for me. You will already have learned of the taking of Ochakov,
+                            which put an end to the drought of which you complained, as well as the
+                            vizir's retreat from Hungary. I am very glad that you are displeased
+                            with all cabinets: I am too. All that you say about the school of genius
+                            is quite exact truth: we have one that has had two cities taken by storm
+                            in twenty years for practice. The poor people are going to ruin the best
+                            thing they had. The poor people are indeed good for nothing anymore,
+                            neither as friends nor as enemies; but what is this constipation of
+                            feelings, which is unheard-of? Who is this Count de Nenny? If he is one
+                            of the madmen from the Netherlands, I kiss his hands.</p>
+                        <p>I have nothing to do with the duchess of Kingston's will.</p>
+                        <p>Lecture number 1 is made up of accounts. I have no need of something so
+                            boring: I swear to you that my natural impatience did not diminish in
+                            1788, as you can see for yourself. That is what prevents me from
+                            providing a commentary on that lovely subject.</p>
+                        <p>I will order Mr. Zavadovsky to settle things with you. As for the money
+                            that you paid for his pupil, it is fair that it should be charged to
+                            me.</p>
+                        
+                    </div>
+                    <div>
+                        <opener><dateline><date when-custom="1789-01-17">This 17
+                                January.</date></dateline></opener>
+                        
+                        <p>I will look for what I have of your notices, and I will sent them to you,
+                            but mind you do not print them in our lifetime. You are very right to
+                            say that the present reign (nota bene) does not resemble the preceding
+                            one at all: this one is stupid, insolent, rash, ostentatious, and
+                            without a shadow of good sense. With all that they are exremely
+                            efficient: they take two or three hours to do what I would dream about
+                            for three weeks. That makes them write in a diffuse and poorly-digested
+                            manner. Moreover, they make far-fetched nonsense of the replies they
+                            receive: that makes them seem two-faced, three-faced, and shifty.</p>
+                        <p>I am very sorry to hear what your No. 2 tells me of your health. My own
+                            has endured the jolts of this year 1788 with surprising constancy, and,
+                            other than a few colics to which I paid no mind, I can complain of
+                            nothing. This is the fifth year in which not a single prescription has
+                            been written for me, and I have taken absolutely no medicine whatsoever.
+                            You should not worry yourself sick over the madman Gustaveschlaf
+                            Falstaff. It is unfair that you should die of grief just because he gets
+                            drunk every day and puts his affairs in order, dictates his orders, and
+                            signs them in that state. I will tell you a certain other anecdote about
+                            that brat: he said one day to the brother of the ambassador
+                            Sprengtporten who is in Denmark: 'Did you notice the signature on the
+                            order I gave you to go carry out the revolution?' The latter said no,
+                            and then he said to him: 'I did not care to sign it as I always do: I
+                            counterfeited my signature, for if we had failed, the Estates would have
+                            cut off your head. And I would have denied the signature as not
+                            resembling mine.' He did more or less the same this summer with
+                            Brigadier Hastfer, to whom he had sent a signed order to attack
+                            Neuslott, which he then retracted. At present he has had him arrested in
+                            Finland on the pretext that he took part in the association of Finnish
+                            troops, and Hastfer risks losing his head if the king decides that he
+                            needs to hide from the Estates the order he gave for the attack. The
+                            poor people are also doing plenty of poor things. If that ambassador in
+                            Constantinople who has not the least bit of credit is not doing things
+                            as they like, why do they not recall him? He is dying there and does not
+                            like it there to boot. But the poor people are far too treacherous to
+                            undertake anything candid towards us or ahead of us. In 15 months we
+                            have advanced exactly as far as we were, and this is a great proof of
+                            treacherous poverty. They will not even say a word to Brother Gu about
+                            his naughty behaviour. Mister Brother Gu has completely lost the zealous
+                            Brother Ge, and if my succession-rules prove not wrong, then Brother Ge
+                            the Son will not be such a thoroughly zealous promoter of Mister
+                            Father's favourite dispositions. The dear Father completely lost what
+                            little Heaven bestowed upon him, which is wretched enough, especially
+                            for those who placed such high hopes on him. One can see already in all
+                            their behaviour that they have not so much to hope for from there and
+                            that with the rising of the Sun their credit has not increased.
+                            Gustafschlaffalstaff is left over with these fools, and the agitation
+                            will not go far. God help Your Excellency to understand this exceedingly
+                            important German page.</p>
+                        
+                    </div>
+                    <div>
+                        <opener><dateline><date when-custom="1789-01-23">This 23 January (3
+                                    February) 1789.</date></dateline></opener>
+                        <p>The atmosphere that Pr. H. had just left when he landed by us is filled
+                            with smoke and thick vapours, which will sooner or later by dissipated
+                            by canon fire. As I am no magician, I am the bugbear of rogues. It is up
+                            to Brother J. to work the marvels that you propose, for it is because of
+                            him that people are angry with me. But I would bet against anyone that
+                            Sister C. sooner or later will get the upper hand: do you hear,
+                            whipping-boy? This winter has been tough, but you are suffering more
+                            than we are, given the precautions that we have and that you do not.
+                            Have my portrait done if you like, I do not object. Do what you think is
+                            right as regards 'The Grey Monster'.</p>
+                        <p>We received the works of the King of Prussia long ago. I have thus far
+                            read only 30 pages, on which I have written 27 remarks. People say here
+                            that H.M. lied like a tooth-puller in a thousand places in his book. I
+                            do not know yet if that is so, but in the bit that I read it seemed to
+                            me that here and there the brilliant witticism got the better of factual
+                            accuracy. But there are some very good things and many of them. Brother
+                            Gu would do well to profit from it, but dumb people profit from nothing.
+                            I have not seen the passages concerning Prince Henry and his stay here.
+                            But it ic certain that the king did not always respect the truth, and
+                            that he passed the prince off as having lost his mind the winter after
+                            campaign that ended in the peace of Teschen. I learned this fact from
+                            Count Panin, who claimed to have read this passage written in the king's
+                            own hand in a postscript. I have often wondered what could have
+                            prevented the prince from coming here a third time. But let all this
+                            remain between us: it is no longer good for anything. Besides, the good
+                            intentions that you saw in the prince cannot be other than very
+                            agreeable to me. I cannot say as much of his nephew's conduct, which is
+                            all stuffed with duplicity and perfect in its machiavellism. You can
+                            tell Mr. de Buffon that I neither buy nor receive presents from anyone.
+                            I already knew that Mrs. Falstaffian ambassador was mad and fit to be
+                            tied. We will see and will soon know if the taking of Ochakov will have
+                            restored the common sense of the Muslims. If not, we will then see what
+                            will happen.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-01-24">This 24
+                                    January.</date></dateline></opener>
+                        
+                        <p>I like very much that definition which you give in your No. 3 of the
+                            spirit of vertigo and madness that has seized all of Europe over the
+                            past two years. I guarantee you that it is very possible that in a
+                            quarter of an hour all the system-maker's lovely projects will go up in
+                            good and proper smoke. You can be certain that the poor people, through
+                            December of last year, paid their subsidies to Falstaff as exactly as
+                            can be and that they are thrilled with all the troubles that have been
+                            caused to me from all sides (I am their bugbear). And they would make
+                            engagements with the Gegu sooner than with me: that is proven. Certainly
+                            I have not forgotten that I had the honour of returning to Frederick II
+                            his kingdom of Prussia and a part of Pomerania in 1762. I do not doubt
+                            either that if his nephew continues the way he is going, he will put
+                            himself in a position to lose more than did his uncle, who had much
+                            difficulty getting himself out of trouble, despite his genius. I am very
+                            glad that Mr. de St. Priest has joined the council. I know quite well
+                            where I would like to see him. You have no business rendering the Polish
+                            nation null: they are working on it themselves. Moreover, they just
+                            abolished the permanent council, the only dicastery that could execute
+                            the laws. Fear not: their mad nullity will lead them from wild deed to
+                            wild deed, and the time will come when they will see themselves to be
+                            quite foolish, and repentance will set in. Truth be told, you are a
+                            great politician: you run through the whole of Europe in two pages, but
+                            since you did that to tell me that I need only do as my interest
+                            dictates, I am most obliged, and I assure you that I will do so without
+                            fail.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-01-27">This 27
+                                    January.</date></dateline></opener>
+                       
+                        <p>Have your notables done their work? But I will admit to you that I do not
+                            like these delayed Estates General. What will come of it? The economy
+                            grows ever more pathetic. I was very distressed by the death of the
+                            bailiff de Suffren: I do not like it when people of merit die. I have
+                            received the Almanach de Gotha. It vexes me very much to hear that your
+                            health is suffering from this terrible winter's cold. We are missing
+                            eight posts from England. They say that all the ports are frozen. I am
+                            surprised by what you say about Prince Henry's words on the subject of
+                            your most humble servant, for my notions did not entirely match what you
+                            said before. But after all it is so difficult to sort out the true from
+                            the false in this world that one must let things go as they are. The
+                            Gegu pack is full of barkers: they say that Harris is the leader. I
+                            think the buttoned-up one is in it too. Therefore they can boast of
+                            having two personified biles that make up Gegu politics. With those two
+                            rabies cases, they are running fast: we shall see where to. Harris, they
+                            say, has at present sided with the party of the Prince of Wales: he
+                            signed the peers' protest. It remains to be seen whether he will
+                            displace or replace Fox, but I will not believe it until I see it.</p>
+                        <p>The death of Admiral Greig grieved me as much as any in my life. The
+                            conduct of Zelmire's parents towards her and toward me has been most
+                            false and most short-sighted. The mother always said tender things to
+                            her, advising her to appeal to me, and seemed often to betray the father
+                            and steal his secrets. But then she criticised and disapproved of her
+                            conduct. The papa colluded with the husband, but told me that he would
+                            yield to what I advised Zelmire. But Zelmire was afraid of letting go
+                            her prey for its shadow. Zelmire did not lack wit and steadfastness, and
+                            she had a little head of her own. She had made a plan to live perfectly
+                            independently. She had won over all who came near her in Lohde. They say
+                            that Prince Potemkin, whom we expect at any moment, is very pleased with
+                            the surgeon whom you sent to him. The zeal of the marquis de La Fayette
+                            has ranged over a vast field, and, judging by the way things are going,
+                            he will not be lacking in exercise. I thank you and Madame de Bueil for
+                            your wishes for the new year: I hope that the course of the present one
+                            will bring you both much joy. I am returning Wanzura's opera to you, and
+                            I am adding another, the music for which has been printed and just
+                            appeared. Now there you are in an awkward situation: have one of your
+                            seventy portraits copied for Mr. Bailly's snuffbox. The abbé
+                            Barthélemy's book is too big to read, and I have therefore sent it to my
+                            library. The fan for the grand duchess did not reach me: I have searched
+                            for it in all the parcels, and Mr. Litvinov was asked for news of it,
+                            but he said that he had delivered all that he had received. Therefore,
+                            whipping-boy, you have nothing to do but look for it by you.</p>
+                        <p>The countess de Ségur's enormous packets of letters have been sent to the
+                            count, her husband.</p>
+                        <p>Now there is a fairly full year. The war with Turkey, that with Sweden,
+                            the madness of the king of England, the taking of Ochakov, the death of
+                            the king of Spain, the English parliamentary debates, the Polish diet,
+                            that of Sweden, the affairs in Holland, the conduct of the king of
+                            Prussia in Poland and in Denmark, the naval battles of the Liman and in
+                            the Baltic, the tomfoolery of the Netherlands, the notables, the
+                            estates-general, the taking of Khotin, the arrival and retreat of the
+                            Grand Vizir in the Banat, etc.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-01-29">This 29
+                                    January.</date></dateline></opener>
+                        
+                        <p>If the Notables or the Estates General prove too heated, I would
+                            recommend treating them to a political battering of the Stadtholder's
+                            party in Holland. Then all the hot-headed would rush over there, and the
+                            cool-headed would pay the debts and set the taxes. It would be the way
+                            to accommodate everyone, and perhaps the only way to appease the
+                            effervescence that heads there have entered into.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-03-06">This 6
+                                    March.</date></dateline></opener>
+                        
+                        <p>Listen, I think that financial operations in France are quite likely to
+                            persuade people that there are things in which one must believe without
+                            understanding at all. This fine reflection came to me as I was rereading
+                            your No. 4 in order to respond, and namely what you say about the way in
+                            which you deemed it appropriate to invest the money given to
+                            Clérisseau's daughter. Yet, given what you tell me, I see that state
+                            debts are accumulating and His Majesty indeed owes more than has entered
+                            his coffers.</p>
+                       
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-03-19">This 19
+                                    March.</date></dateline></opener>
+                        
+                        <p>The German play describing Falstaff's lofty deeds is quite amusing. There
+                            will be new scenes, come his first failure. After arresting Marshal
+                            Fersen, he said that he had just crossed the Rubicon like Caesar, and
+                            someone cried out: 'Well, Sire, now try not to come to the same end as
+                            he'. You say in your No. 5 that the madman say there is no more
+                            Catherine, but even if there were not, the Russian Empire would exist no
+                            less. It is truly not made to be crushed by either Falstaff or Gu, even
+                            in combination with friend Abdul Hamid. The more time we gain, the
+                            stronger we will be. Besides that, rest assured that it would take only
+                            a quarter of an hour for all these knots to come untied. But it is very
+                            certain that it would be infinitely helpful to me if the poor people
+                            would be so kind as to press the Dutch and to not allow their party in
+                            that republic to be crushed completely. I would like it if you had a
+                            friendly conversation with Mr. de St Priest about that and if you would
+                            decide together whether there is no way to push the court where you are
+                            toward some action that would show at least that France still exists
+                            among the significant powers, and that, possessing 80 warships, they
+                            have not condemned them to rot in their ports without being of any use
+                            to the state. All respect for that court is being lost due to their
+                            inaction. I have never been accused of being very partial to them, but
+                            my interest and that of all Europe demands that they reclaim the place
+                            that befits them, and that as soon as possible. That is what the Estates
+                            General should advise the king, while paying their debts. And all Europe
+                            would applaud, which would cover the nation with honour for the present
+                            century and for the future. The French love honour and glory: they will
+                            do anything for them when shown what the honour and glory of the
+                            fatherland require. Each Frenchman cannot but agree that there is no
+                            such honour and glory in this state of political nonexistence in which
+                            interior troubles feed, spread, grow, and accumulate at each step. If
+                            they stretch their ropes outside the kingdom, they will cease to
+                            undermine and sap it like worms do to the hull of a ship. If what I am
+                            telling you might have an effect, I entreat you to use it wherever you
+                            see it might be of use. For the rest, as soon as my minister is out of
+                            the Seven Towers, the conditions for peace will not be very hard to
+                            arrange, as long as the Porte wishes to comply. For my part I will make
+                            things as easy as is appropriate: Berezan Island is an insignificant
+                            post that keeps nothing, Kinburn is just a start, Ochakov cannot be
+                            ruined without bringing with it new constructions and the resultant
+                            expenses, which are moreover not small. If France pressed and reclaimed
+                            their place, peace would be made very quickly: why do they not send a
+                            flotilla into the Archipelago to make it? The latest letters speak of
+                            the king of England's recovery. --If Mirabeau is no more truthful in his
+                            book about others than he is about me, his book is worth no attention.
+                            There is another even more terrible one that just appeared, but it bears
+                            such a large mark of calumny that it cannot be regarded anywhere but
+                            with the most deserved horror.</p>
+                        
+                    </div>
+                    <div>
+                        <opener rend="right"><dateline><date when-custom="1789-04-13">This 13 of
+                                    April.</date></dateline></opener>
+                        <salute rend="inline">Mister whipping-boy,</salute>
+                        <p>if there happens to be any of my money left, will have the goodness to
+                            send to Sophie Albertine Pfitznerin, in her refuge of Frienstedt by
+                            Erfurt, one hundred roubles, of which she claims to have a great need in
+                            this world and for which she promises me so many beautiful things in
+                            this one and the next, as her attached letter attests.</p>
+                        
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02847</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02847</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:34:05Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02847">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1791-02-06">6. Février 1791</date>.</dateline></opener>
+   <p>Monsieur de <persName ref="people.xml#zim01"> Zimmermann</persName>. Je vois par votre lettre
+    du 28. Janvier, que la prise <placeName ref="places.xml#izm01"> d’Imail</placeName> a fait sur
+    vous l’effet qu’elle a produit partout. Je vous remercie des complimens que vous m’en faites.
+    Dans l’histoire militaire on n’a pas jusqu’ici découvert d’exemple d’un fait pareil, où sans
+    tranchée ouverte et sans brèche dixhuit mille hommes ayent escaladé une forteresse
+    vigoureusement défendue pendant quatorze heures par trente mille qui étoient dedans. Je désire
+    de tout mon coeur avec vous, que cet événement mémorable contribue à rétablir la paix et
+    indubitablement il seroit convainquant pour y faire consentir les <orgName ref="orgs.xml#turk01"
+     > Turks</orgName>, à qui cette paix devient de moment en moment plus nécessaire, et cela seroit
+    d’autant plus façile, que mes conditions sont des plus modérées, ne demandant de toutes mes
+    conquêtes de la <rs ref="events.xml#turki02"> guerre</rs> présente à retenir qu’<placeName
+     ref="places.xml#och01"> Ozakof</placeName> avec les bords du <placeName ref="places.xml#dne01">
+     Dnester</placeName> pour garantir mes propres frontières, à quoi assurément les <orgName
+     ref="orgs.xml#turk01"> Turks</orgName> seroient enchantés eux mêmes de consentir. Mais comme la
+    dictature leurs a promis et la <rs ref="places.xml#cri01"> Tauride</rs> et Dieu sait quoi encore
+    et que messieurs les <orgName ref="orgs.xml#turk01"> Turks</orgName> sont assés aveuglés et
+    abandonnés par la providence pour croire que toutes les puissances de l’<placeName
+     ref="places.xml#eur01">Europe</placeName> dépenseront leurs trésors, épuiseront leurs forces de
+    terre et de mer et se ruineront à l’envie l’une de l’autre de guaieté de coeur, pour leurs faire
+    ravoir ce qu’eux mêmes ils ne savent ni garder ni défendre, le sérail en dépit du peuple et
+    des ulemas regimbent contre les meilleures conditions possibles pour son pays dans la position
+    présente et pénible. Le congrès be <placeName ref="places.xml#svi02"> Sischtoura</placeName>
+    atteste ceçi pleinement depuis six mois, quoique <rs ref="people.xml#leo01">
+     l’Empereur</rs> rende aux <orgName ref="orgs.xml#turk01"> Turks</orgName> toutes conquêtes,
+    qu’il aye accepté toutes les médiations, il n’en est pas plus avancé pour cela, ni la <placeName
+     ref="places.xml#ott01"> sublime  Porte</placeName>, qui jusqu’ici n’en a recueilli encore
+    d’autres fruits qu’à peu près un demi million de piastres de dépenses de plus que les <orgName
+     ref="orgs.xml#turk01"> Turks</orgName> payent à tant par jour à chaque plénipotentiaire de ce
+    congrès assemblé, apparemment que ce moyen n’est pas bien persuasif pour mener les choses ou les
+    écritures à fin. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

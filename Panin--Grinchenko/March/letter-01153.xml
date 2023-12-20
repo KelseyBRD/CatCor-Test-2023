@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01153</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01153</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-17"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01153">
+        <body>
+            <opener><dateline>Между <placeName ref="places.xml#niz01">Нижняго Новагорода</placeName> и села
+                    <placeName ref="places.xml#lys01">Лыскова</placeName>
+                <placeName ref="places.xml#geo01">Грузинских</placeName> Князей.<lb/>
+                <date when-custom="1767-05-23">Маия 23 ч., 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Отъезжая вчерась из <placeName ref="places.xml#niz01">Нижняго</placeName>, получила
+                Вашего куриера от 19 ч. Я надеюсь взять Троицын день в <placeName
+                    ref="places.xml#kaz01">Казане</placeName>, а там, остановясь несколько дней, уже
+                пущусь в обратной путь, ибо <placeName ref="places.xml#uly01">Синбирск</placeName>
+                ближе к <placeName ref="places.xml#mos01">Москве</placeName>, нежели <placeName
+                    ref="places.xml#kaz01">Казань</placeName>. Ничего приятнее быть не может, как
+                вояжировать без устали, целым домом. Истинно, что с галеры сойтить не хочется, и
+                надобно <persName ref="people.xml#che03">И. Г. Чернышеву</persName> честь отдать,
+                что ничего не позабыто, что может служить к облегчению толь дальняго пути.</p>
+            <closer rend="inline"><persName ref="people.xml#pau01">Велик. Князю</persName> прошу
+                кланяться; мы все здоровы; желаю Вам обоим также здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

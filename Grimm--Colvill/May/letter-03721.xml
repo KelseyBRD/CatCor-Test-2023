@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03721</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03721</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:05:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03721">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-12-12">12 décembre
+     1795</date>.</dateline></opener>
+    <p>Nous fêtons aujourd’hui la fête de Monsieur <persName ref="people.xml#ale01">
+      Alexandre</persName>, qui, Dieu merci, entre dans sa 19-ème année. Dieu le bénisse; c’est un
+     excellentissime sujet.</p>
+    <p>Toute ma table est chargée de bulletins et de pancartes souffre-douleuriennes, par exemple
+     sous ma patte se trouvent en bulletins les 39, 40, 41 et 44; les No 42 et 43 se trouvent
+     apparemment dans mon tiroir ou d’un autre côté. Je vous remercie: vous avez été le premier à me
+     donner la nouvelle de la prise de <placeName ref="places.xml#man03"> Manheim</placeName>. De
+     pancartes j’ai devant moi No 1, 2, 3 et les brimborions politiques. Commençons donc par le
+     commencement: No 1 marche en avant. Je trouve d’abord que vous étiez très hypocondre le 23
+     septembre; <rs ref="people.xml#rum03"> votre saint</rs>, dont vous regrettiez le départ, est
+     ici; il y console, à ce que je crois, <rs ref="people.xml#nar01"> sa cousine</rs>, qui prétend
+     être inconsolable de la perte de <rs ref="people.xml#nar04"> son mari</rs>, qui était
+     insupportable à elle-même et à tout le monde et point aimable du tout, et dont vingt fois elle
+     a voulu se séparer; et la voilà, depuis 7 mois, d’une doléance dont je n’ai guère vu d’exemple,
+     logée dans une mezzanine au troisième et ne sortant pas même pour prendre l’air; tout cela est
+     d’un entêtement, et par contradiction, il faut la laisser faire; nous verrons ce qui en
+     arrivera.</p>
+    <p>Comme M. de <persName ref="people.xml#cle06"> Clairfeldt</persName> va en avant, vous n’avez
+     pas à craindre les visites des brigands, et il faut espérer que vous passerez votre hiver
+     tranquillement à <placeName ref="places.xml#got01"> Gotha</placeName>, avec <rs
+      ref="people.xml#cat05 people.xml#cat06">mes filleuls</rs> et <rs ref="people.xml#bue01"> leur
+      mère</rs>. Mais ce que vous me dites du <rs ref="people.xml#bue02"> père</rs> me donne
+     beaucoup d’appréhension, car ce transport a beaucoup souffert dans son trajet, et même il y en
+     a eu de noyé et de jeté dans les ports de <placeName ref="places.xml#fra01">
+     France</placeName>. Il parait que M. <persName ref="people.xml#pit01"> Pitt</persName>, loin
+     d’alimenter les troubles, devrait les faire cesser, afin de faire moins crier contre lui. Le
+     marquis de <persName ref="people.xml#lam03"> Lambert</persName> a eu le paquet fourré dans le
+     No 100, dont <persName ref="people.xml#mar22"> Antoinette Louise Marchais</persName> a été la
+     porteuse, fille du jardinier de <persName ref="people.xml#bor05"> M. de La
+      Borde</persName>,<note type="editorial">Identification uncertain. May also be <ref
+       target="people.xml#bor03">Jean-Benjamin de la Borde</ref>.</note> le guillotiné à cause de
+     ses richesses, crime impardonnable parmi les scélérats qui gouvernent la <placeName
+      ref="places.xml#fra01"> France</placeName>. Tout ce que vous me dites de cette personne est
+     très intéressant, et si vous me la léguez, je me trouverai obligée d’en avoir soin; mais il
+     vaudra mieux que vous restiez en vie et que nous nous en occupions tous les deux. Si vous venez
+     ici, vous l’amènerez avec vous; sinon, vous me direz ce que je puis faire pour elle.</p>
+    <p>Si vous preniez les gouttes de Bestoujef, vous ne seriez pas hypocondre.</p>
+    <p>Le Solon de l’<placeName ref="places.xml#ger01"> Allemagne</placeName> ne sera pas des noces
+     de la <rs ref="people.xml#suv02"> fille</rs> du <rs ref="people.xml#suv01"> maréchal</rs>,
+     puisqu’elle a été mariée au comte <persName ref="people.xml#zub02"> Nicolas Zoubof</persName>
+     au mois d’avril et qu’elle est dans ce moment déjà grosse à pleine ceinture; le <rs
+      ref="people.xml#suv01"> maréchal</rs> dans ce moment est ici depuis huit jours et va demain
+     inspecter le département de la <placeName ref="places.xml#fin01"> Finlande</placeName>, où,
+     d’après ses idées, on a bâti des fortifications très considérables.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-12-14">14 décembre</date>, par un froid de 18 à 19
+      degrés.</dateline></opener>
+    <p>Nous avons ici, depuis environ un mois, un seigneur persan nommé <persName
+      ref="people.xml#mur03"> Mourtaza Kouli-kan</persName>, que son frère <persName
+      ref="people.xml#aga02"> Aga Mehemet-kan</persName> a privé de ses possessions, et qui s’est
+     réfugié en <placeName ref="places.xml#rus01"> Russie</placeName>; c’est un homme d’esprit
+     rempli d’aménité et de politesse. Il a demandé de voir l’<placeName ref="places.xml#her01">
+      hermitage</placeName>; il y a été aujourd’hui pour la quatrième fois; il y passe à regarder
+     tout ce qu’il y a des trois et quatre heures de suite; il regarde tout en amateur parfait; ce
+     qu’il y a de plus beau en tout genre, le frappe, mais rien ne lui échappe. Il a voulu voir
+     graver; il a voulu voir peindre; on lui a procuré ce plaisir; il a été des heures entières à
+     côté du graveur d’estampes et des peintres. Il est entré dans les <title
+      ref="works.xml#logera01"> loges de Raphaël</title>; il s’est mis à parler de la Bible,
+     reconnaissant dans les plafonds et partout les histoires de l’ancien et nouveau testament.
+     Quand il a vu Adam et Eve chassés du paradis, il a dit: «étant ici, on serait tenté de croire
+     que cette histoire est une fable, car nous sommes ici dans le paradis», faisant allusion aux
+      <title ref="works.xml#logera01"> loges de Raphaël</title>. Les <orgName ref="orgs.xml#turk01">
+      Turcs</orgName> sont de vrais paysans grossiers vis-à-vis des <orgName ref="orgs.xml#pers01">
+      Persans</orgName>; surtout ces sots ambassadeurs bouffis qu’on nous a envoyés à plusieurs
+     reprises ici. L’autre jour au bal je fis dire à <persName ref="people.xml#mur03"> Mourtaza
+      Kouli-kan</persName> par le truchement qui l’accompagnait: que je pensais que nos coutumes
+     devaient lui paraître fort étranges et singulières; il me répondit qu’il serait à souhaiter
+     qu’en beaucoup de choses on nous imitât chez eux. Ses réponses sont toujours justes et
+     extrêmement sensées. Le jour de la Saint-George me voyant dîner avec les chevaliers de <rs
+      ref="orgs.xml#geor01"> l’ordre</rs>, il se fit expliquer les plus petits détails de cet
+     institut, après quoi il s’écria: «Cela ne peut produire qu’un très grand zèle et
+     encouragement».</p>
+    <p>Vons êtes bien singulier avec votre édit de <rs ref="people.xml#cha01"> Sidor
+      Yermalaïtch</rs> contre les jacobins: ne voyez-vous pas que c’est par une bassesse envers la
+     faction constitutionnelle, qui avait le dessus dans ce moment-là dans la Convention et dont il
+     tâchait de tirer de l’argent, qu’il a lâché cet édit fulminant contre les jacobins? Aussi l’en
+     a-t-on payé avec sept cent mille écus en lettres de change envoyées à <placeName
+      ref="places.xml#tal01"> Rival</placeName>. <rs ref="people.xml#cha01"> Sidor Yermalaïtch</rs>,
+     sachant par son ambassadeur <persName ref="people.xml#sta05"> Staël</persName> que les lettres
+     de change étaient en chemin, n’a en rien de plus pressé que de faire une émission de sept cent
+     mille écus en billets; Rival ne s’est pas pressé de délivrer ces lettres de change, et en
+     partant il les a laissées à <persName ref="people.xml#hoc01"> Le Hoc</persName>; celui-ci les
+     donna au <rs ref="people.xml#cha01"> régent</rs>, qui les envoya tout de suite en <placeName
+      ref="places.xml#hol02"> Hollande</placeName>, d’où elles furent renvoyées avec protêt, étant
+     échues toutes et la Convention ayant disposé autrement des fonds, de sorte que le régent reste
+     avec son émanation de billets et est encore à solliciter l’argent à nouveaux frais. L’oracle
+     d’Ecosse devine juste: il a donné comme un oiseau de proie sur la <persName
+      ref="people.xml#ann02"> Julie</persName>; voilà la seconde fois que nos idées avec milord se
+     rencontrent; dites-lui que je suis à la chasse de levrauts, et que jusqu’ici il n’y en a pas un
+     de levé. S’il avait vu <placeName ref="places.xml#kie01"> Kiof</placeName>, il ne me
+     conseillerait pas de l’aller habiter: le proverbe russe dit qu’il n’y a que les sorcières qui
+     l’habitent.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-12-15">15 décembre</date>.</dateline></opener>
+    <p>Vous jugez bien que je n’ai garde d’éplucher toutes les idées du <rs ref="people.xml#ogi02">
+      pair d’Ecosse</rs>: cela me mènerait trop loin dans un temps où je fais l’ouvrage le plus
+     pédant qui jamais ait été entrepris; par exemple, je me suis amusée ce matin à classifier
+     les circonstances pendant trois heures; hier j’en ai employé autant à classifier les moyens; y
+     comprenez-vous quelque chose? Pour <persName ref="people.xml#kon01"> Constantin</persName>, qui
+     a quelque teinture de ce que je fais, il ne m’a parlé ce matin que du cas dans lequel il se
+     trouvait lui, qui est celui de se marier au mois de février; il dit qu’une des circonstances de
+     son mariage était qu’il occuperait le palais de marbre pour ses noces, et voilà comme nous
+     avons jasé ensemble en nous tenant les côtés de rire et parlant très pédamment. Savez-vous que
+     ce <persName ref="people.xml#kon01"> Constantin</persName> est une machine à bâtons rompus
+     pétillant d’esprit?</p>
+    <p>Vous êtes très plaisant: tous craignez de manquer de pancartes, de ci de cela, et vous ne
+     manquerez de rien; c’est moi qui vous le prédis.</p>
+    <p>Je viens de trouver bulletin No 38.</p>
+    <p>J’ai ordonné de payer les 442 florins que je vous dois d’après votre compté.</p>
+    <p>Vient No 2, contenant un raisonné sur l’emploi des dix mille roubles donnés en partie aux
+     émigrés et dont vous avez encore à donner pour quelque temps; j’ai ordonné qu’à la révolution
+     anniculaire (sic) où on vous a envoyé cette somme, on vous en envoie une seconde pareille. Mais
+     je ne veux point que vous m’envoyiez les nippes ni hardes que vous avez achetées; rendèz-les
+     aux propriétaires et dites que les invisibles n’en veulent pas, et que dans des temps
+     difficiles il est bon de conserver leurs nippes et leurs hardes.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-12-18">18 décembre</date>.</dateline></opener>
+    <p>Vient No 3. Mais avant cela, tenez, voilà une lettre pour le maréchal de <persName
+      ref="people.xml#cas01"> Castries</persName> en réponse à la sienne que j’ai lue correctement,
+     malgré tout ce qu’il a plu au <rs ref="people.xml#gri01"> souffre-douleur</rs> de dire sur le
+     caractère inlisible d’écriture de ce maréchal. Faites-lui tenir, s’il vous plaît, ma
+     réponse.</p>
+    <p>Notez ceci: je ne veux pas que vous ayez mal à la gorge, mais que vous vous portiez
+     parfaitement bien; j’en fais autant.</p>
+    <p>Rien de plus vilain que le prétendu portrait d’<persName ref="people.xml#ale02">
+      Alexandrine</persName> et <persName ref="people.xml#ele01"> Hélène</persName> par <persName
+      ref="people.xml#bru06"> Mad. Le Brun</persName>: ce sont deux singes accroupis qui grimacent à
+     côté l’un de l’autre; il n’y a ni noblesse, ni goût, ni finesse, ni l’innocence de leur âge
+     dans ce portrait, ni leur beauté, ni rien, en vérité, d’elles; elles ont l’air de
+     deux filles, et puis c’est tout.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

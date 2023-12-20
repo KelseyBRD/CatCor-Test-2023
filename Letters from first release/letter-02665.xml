@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02665</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02665</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                    <term target="kw.xml#moldavia"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#greece"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#italy"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-20">20 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02665">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1771-01-19">ce 19 Janvier 1771</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> C'est dans les mêmes sentiments d'amitié et de confiance, que Votre Majesté
+                        m'a communiqué ses observations sur mon plan de pacification, que je les ai
+                        reçues et que je vais y répondre avec la franchise qu'Elle me connaît, et
+                        qui convient à une union aussi étroite que la nôtre. Je commencerai avant
+                        toutes choses à dire mon sentiment à Votre Majesté sur la déclaration de
+                            <placeName ref="places.xml#ott01">la Porte</placeName>, qu'Elle a eu la
+                        bonté de me communiquer. Elle sait la loi formelle, que je me suis imposée,
+                        de n'entendre à aucune proposition de paix, qu'après que <rs
+                            ref="people.xml#obr01">mon ministre</rs> sera élargi et me sera rendu.
+                        Je me suis déjà avancée au delà d'un principe si juste par amour pour la
+                        paix, mais comme je vois que <placeName ref="places.xml#ott01">la
+                            Porte</placeName> par les différentes formes dont elle varie son désir
+                        de garder <rs ref="people.xml#obr01">mon ministre</rs> en sa puissance,
+                        croit m'entraîner dans ses vues, je prie Votre Majesté d'être dépositaire de
+                        ma résolution, qui est, que je ne négocierai jamais à <placeName
+                            ref="places.xml#ist01">Constantinople </placeName>, et même que je ne
+                        consentirai à négocier nulle part, avant que <persName
+                            ref="people.xml#obr01">le sieur Obrescoff</persName> ne me soit rendu.
+                        Je serai très obligée à Votre Majesté, si Elle veut bien permettre, que son
+                            <rs ref="people.xml#zeg01">ministre</rs> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName> le fasse savoir aux
+                        Turcs. L'élargissement de <rs ref="people.xml#obr01">mon ministre</rs> est
+                        une réparation qui m'est due et que je ne veux point soumettre à des
+                        conditions. J'ai avancé dans la lettre, que <persName ref="people.xml#rum01"
+                            >le comte Roumianzoff</persName> a écrit au <rs ref="people.xml#sil01"
+                            >Grand Vizir</rs>, que si après m'avoir donné satisfaction sur ce point,
+                        les Turcs veulent convenir d'un congrès, j'y consens; je suis toujours dans
+                        la même disposition, et je veux bien y persister, mais toute promesse, qui
+                        m'engagerait plus loin, serait déjà un équivalent à la réparation d'une
+                        offense personnelle, et conséquemment annulerait la réparation; je demande
+                        que <rs ref="people.xml#obr01">mon ministre</rs> me soit rendu sans
+                        condition, et si au moment, où ils me le rendront, ils veulent convenir d'un
+                        congrès, j'en conviendrai avec eux. Quant aux conditions sur lesquelles je
+                        crois, qu'on peut travailler à la pacification, je vais les récapituler
+                        toutes, et je prie Votre Majesté de vouloir bien en peser la valeur avec
+                        cette justice qui Lui est propre, même sans la faveur que je me promets de
+                        son amitié. Je travaille à terminer une guerre, qui m'a été suscitée par
+                        l'injustice la plus manifeste; et malgré les succès, dont Dieu a béni mes
+                        armes, je ne demande aucune acquisition propre à mon empire. Les deux
+                            <placeName ref="places.xml#kab01">Cabarda </placeName> et <placeName
+                            ref="places.xml#azo01">le district d'Azoff</placeName> sont des terres
+                        qui appartiennent incontestablement à la <placeName ref="places.xml#rus01"
+                            >Russie</placeName>; elles feront aussi peu d'accroissement à sa
+                        puissance, qu'elles y ont fait de diminution, quand elles en ont été
+                        distraites pour former une barrière; tout ce que la <placeName
+                            ref="places.xml#rus01">Russie</placeName> gagne en rentrant dans son
+                        bien, c'est de garantir d'incursions de voleurs et de brigands les
+                        habitations de ses sujets en deça de la frontière et d'empêcher que leurs
+                        troupeaux, qu'ils font paître dans ces contrées, ne soient autant exposés à
+                        leur être enlevés, qu'ils l'étaient auparavant. Si Votre Majesté veut se
+                        représenter ce que c'est un pareil pays, habité tout au plus par quelques
+                        milliers de familles, qui ne rapporte aucun revenu, mais qui est un ancien
+                        domaine, Elle demeurera d'accord, qu'on ne saurait le mettre en ligne de
+                        compte dans une paix tant soit peu honorable. La libre navigation de la
+                            <placeName ref="places.xml#bla01">mer Noire</placeName> est un objet que
+                        le simple état de paix entre les nations porte avec soi, et sur lequel la
+                            <placeName ref="places.xml#rus01">Russie</placeName> n'avait consenti à
+                        se restreindre, que pour conniver aux barbares préjugés de <placeName
+                            ref="places.xml#ott01">la Porte</placeName> par amour pour la paix, qui
+                        cependant a été rompue au mépris de tous ses engagements. Si j'ai quelque
+                        droit à un dédommagement pour une guerre aussi injuste, ce n'est assurément
+                        pas là, où je puis, ni où je dois le trouver. Je l'ai proposé dans le
+                        séquestre de la <placeName ref="places.xml#wal01">Valachie</placeName> et de
+                        la <placeName ref="places.xml#mol01">Moldavie</placeName>, parce qu'aucun
+                        autre objet, que je connaisse dans l'état des choses, ne peut me le fournir,
+                        et encore dès qu'on préfèrera de rendre ces deux principautés indépendantes,
+                        j'y renonce absolument. Je crois manifester par là ma modération et mon
+                        désintéressement, et que je ne cherche qu'à éloigner toute occasion de
+                        nouvelle guerre avec <placeName ref="places.xml#ott01">la Porte</placeName>.
+                        Je croirais la cour de <placeName ref="places.xml#vie01">Vienne</placeName>,
+                        Votre Majesté me permettra de le dire, en contradiction manifeste avec son
+                        intérêt le plus clair, si elle laissait exciter si vivement sa jalousie sur
+                        cet article. Par rapport à moi, je n'avance pas mes frontières d'une ligne.
+                        Je reste toujours à la même distance de ses possessions, et si elle est si
+                        contente d'avoir un voisin faible comme le Turc, elle devra d'autant mieux
+                        s'accommoder du voisinage d'une petite souveraineté de la <placeName
+                            ref="places.xml#mol01">Moldavie</placeName> et de la <placeName
+                            ref="places.xml#wal01">Valachie</placeName>, incomparablement plus
+                        faible, et indépendante des trois empires. Pour les Turcs, je pense bien,
+                        qu'ils ne font de paix que par nécessité, mais s'ils ne sont pas un peu
+                        corrigés, ce sera à la première occasion à recommencer avec eux. En tout cas
+                        si leur situation est telle, qu'ils doivent obtenir la paix par des
+                        cessions, je les croirais fort mal avisés, s'ils se défaisaient de
+                            <placeName ref="places.xml#bel01">Belgrade</placeName> possédée
+                        tranquillement par eux, pour deux principautés, qu'ils n'ont déjà plus, et
+                        dont le retour serait toujours dépendant du sort des armes. D'ailleurs ce
+                        serait une question, qui ils aimeront mieux agrandir, ou de la <placeName
+                            ref="places.xml#rus01">Russie</placeName>, ou de la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName>? Mais l'érection d'une
+                        principauté indépendante la résout. Je ne dissimule pas, que le système
+                        actuel du ministère de <placeName ref="places.xml#vie01">Vienne</placeName>
+                        est d'insister beaucoup sur cet équilibre de l'Orient, qui n'avait pas
+                        encore figuré avec tant d'éclat dans les intérêts des princes de <placeName
+                            ref="places.xml#eur01">l'Europe</placeName>, et dont l'invention peut
+                        être n'est due qu'à une alliance avec la <placeName ref="places.xml#fra01"
+                            >France</placeName>; je veux cependant concéder à cet équilibre de la
+                        politique; mais qui a pu jamais apprécier, que cette balance soit juste,
+                        lorsque les frontières de la domination Turque s'étendent au <placeName
+                            ref="places.xml#dni01">Dniestre</placeName>, et qu'elle soit renversée
+                        lorsque ces mêmes frontières se trouvent restreintes au <placeName
+                            ref="places.xml#dan01">Danube</placeName>? Que l'état de l'Orient serait
+                        à plaindre, si de la différence d'une telle distance pouvait dépendre son
+                        renversement! Il faudrait avoir bien envie de faire la guerre, pour la faire
+                        sur une crainte aussi frivole, ou plutôt il faudrait que la résolution en
+                        fût déjà prise si décidément que tout ménagement sur cet article n'y
+                        changeât rien. L'affaire de l'indépendance des <rs type="orgs"
+                            ref="org.xml#tart01">Tartares</rs> est le droit de l'humanité, qu'une
+                        nation entière réclame à laquelle je ne puis refuser mon assistance. Le
+                        privilège d'être libre, de n'être plus le sacrifice des caprices de
+                            <placeName ref="places.xml#ott01">la Porte</placeName>, de se gouverner
+                        par eux-mêmes, est plus important, que l'appas d'une succesion éventuelle,
+                        qu'ils n'auront jamais, et qui leur sera toujours fermée par la différence
+                        de secte et le mépris, où ils sont chez la nation turque. Au reste ceci ne
+                        serait qu'une difficulté propre pour eux, et non pas pour les princes
+                        chrétiens. Ce rétablissement de l'indépendance des <rs type="org"
+                            ref="orgs.xml#tart01">Tartares</rs> ne diminue foncièrement rien de la
+                        puissance de <placeName ref="places.xml#ott01">la Porte</placeName>, ni
+                        n'ajoute à celle de la <placeName ref="places.xml#rus01">Russie</placeName>,
+                        mais arrange seulement les embarras des frontières de celle-ci. La cour de
+                            <placeName ref="places.xml#vie01">Vienne </placeName> ne les ayant point
+                        pour voisins, n'a aucune raison de s'en inquièter. L'île que je demande dans
+                            <placeName ref="place.xml#aeg01">l'Archipel</placeName>, n'est qu'un
+                        simple entrepôt pour le commerce de la <placeName ref="places.xml#rus01">
+                            Russie</placeName>; je n'en demande point une qui puisse former un état,
+                        comme <placeName ref="places.xml#cyp01">Chypre</placeName> ou <placeName
+                            ref="places.xml#cre01">Candie</placeName>, ni même qui approche de
+                            <placeName ref="places.xml#rho01">Rhodes</placeName> en force et en
+                        considération. Je crois que <placeName ref="place.xml#aeg01">
+                            l'Archipel</placeName>, <placeName ref="places.xml#ita01"
+                            >l'Italie</placeName> et <placeName ref="places.xml#ist01"
+                            >Constantinople</placeName> même gagneront à ce débouché des productions
+                        du Nord, qu'elles pourront avoir de la première main, et conséquemment à
+                        meilleur compte. D'ailleurs, pour ôter tout ombrage, on pourra limiter et la
+                        force de la garnison et le nombre de vaisseaux à y entretenir. Je crois que
+                        Votre Majesté conviendra au reste, que si l'indépendance de la <placeName
+                            ref="places.xml#wal01">Valachie</placeName> et de la <placeName
+                            ref="places.xml#mol01">Moldavie</placeName> a lieu, ce sera dans cette
+                        île seule, que consistera tout mon dédommagement, et qu'ainsi en y
+                        renonçant, je renoncerais absolument à tout. Je ne saurais marquer plus de
+                        confiance à Votre Majesté qu'en Lui montrant ainsi le fond de ma pensée, et
+                        en déposant dans le sein de son amitié, qu'à moins que je ne puisse obtenir
+                        ce que je Lui ai confié, je ne saurais compter ma paix sûre, ni honorable,
+                        ni avantageuse; je La prie de ne se point laisser détourner par des
+                        difficultés, de son désir si vrai, de m'obliger et de procurer le bien de
+                        mon empire et ma gloire personnelle. L'abattement de nos ennemis nous
+                        servira peut être mieux, que nous n'oserions l'attendre et vis-à-vis des
+                        autres la fermeté contiendra tout. J'attends pour cela beaucoup de la
+                        prudence et des lumières de Votre Majesté. Je Lui ai communiqué mes vues
+                        pour procurer une bonne paix à mes peuples. Elle ne peut être telle selon
+                        moi, que d'après la base, que j'ai adoptée, d'assurer mieux mes frontières
+                        contre toute attaque de la <placeName ref="places.xml#tur01"
+                            >Turquie</placeName>, de me procurer un dédommagement raisonnable pour
+                        les frais d'une guerre, qui m'a été faite si injustement, et enfin
+                        d'affermir la paix elle même par des liaisons et une communication immédiate
+                        d'intérêt entre les deux nations. C'est aussi la base, que je me propose
+                        pour la négociation, et dont Votre Majesté m'obligera de faire usage dans le
+                        temps et les circonstances, qu'Elle jugera les plus convenables pour donner
+                        l'idée préalable de mes conditions. Quant à mes conditions en elles mêmes,
+                        je ne les confie qu'à Votre Majesté. Je ne les ai rédigées que pour Elle, et
+                        je n'en raisonne qu'avec Elle. Elles ne peuvent être sues à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName> et même à <placeName
+                            ref="places.xml#vie01">Vienne</placeName>, que lorsqu'une négociation
+                        effective sera déjà en train. Alors, après avoir sondé et préparé les
+                        esprits et les dispositions, je les ferai rédiger dans la forme qu'elles
+                        doivent avoir pour être proposées, et je saisirai toutes les voies, qu'offre
+                        un congrès pour en faciliter l'acceptation. Je fais part à Votre Majesté,
+                        que j'ai fait une première ouverture à la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName> sur l'état actuel des
+                        démarches pour la pacification, non dans la vue de sonder ses sentiments,
+                        que je ne saurais jamais savoir plus sûrement, que par Votre Majesté, mais
+                        uniquement pour prévenir, que cette cour, qui a déjà tant de préventions sur
+                        mes affaires, n'en prenne de nouvelles de mon silence, en couvrant
+                        d'ailleurs le sien du prétexte de l'absence de son ministre de ma cour. Je
+                        joins ici une copie de la lettre du <persName ref="people.xml#pan01">comte
+                            Panin</persName> au <persName ref="people.xml#gol04">prince
+                            Galitzine</persName>, en priant Votre Majesté d'y voir en quoi consiste
+                        cette ouverture. Je prie Votre Majesté de concourir avec moi à vaincre tous
+                        les obstacles, je n'aurai point une bonne paix, si je ne me raidis contre la
+                        fierté des Turcs et les partialités qui les soutiennent. Mais je me flatte
+                        du succès dès que Votre Majesté voit mes affaires avec la même amitié et le
+                        même intérêt; et dans la conviction où je suis, que, si les circonstances
+                        m'y appelaient, je ne négligerais rien pour l'avancement des siennes, je me
+                        promets avec la même confiance, que rien n'ébranlera sa bonne volonté, ni ne
+                        ralentira ses bons offices. </p>
+                    <closer>
+                        <signed>C'est en les Lui demandant que je suis avec un attachement
+                            invariable et une parfaite amitié, Monsieur mon Frère, de Votre Majesté
+                            la bonne Soeur, Amie et Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04735</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04735</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="enclosure">The return of a
+                    book</note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#Note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+               
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+          
+        </profileDesc>  
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-13">13/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:02:11Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04735">
+        <body>
+     
+            <opener><dateline> <date when-custom="1767-06-07">1767 се 7 Juin</date>, d’un coin de l'<placeName
+                    ref="places.xml#asi01"> Asie</placeName></dateline></opener>
+            <p>Je ne puis décider, vous êtes tous les deux très disposés à rester chacun de son
+                    avis, et j’aurais beau dire tout ce que je voudrais, l’un ou l’autre me ferait
+                    des objections, et la dispute recommencerait. Si Vous m’aviez dit <hi
+                    rend="italic">dites-nous votre avis</hi>, j’aurais su que répondre, mais
+                    Vous me dites <hi rend="italic">décidez</hi>. Je ne puis. Si je me
+                    déclare pour 
+                <persName ref="people.xml#did01">M-r Diderot</persName>, 
+                <persName ref="people.xml#fal01">M-r Falconet</persName> ne sera pas, de l'humeur
+                    qu’il est, persuadé pour cela; et si c’est à ce dernier que je donne raison, la
+                    logique de l’autre agira contre moi. Mais voyons un peu: ne vous
+                    disputeriez-vous pas en théologiens, l’un dit tout net: J’en veux à la
+                    postérité, j’y cours; l’autre: Je ne la méprise pas, ce n’est pas pourtant pour
+                    elle, bien au juste, que je me donne de la peine, je veux bien faire, et c’est
+                    l’approbation de mes contemporains que je désire. Eh bien! Monsieur
+                    <persName ref="people.xml#fal01"> Falconet</persName>, pour Vos
+                    contemporains Vous avez mis Votre nom à <placeName ref="places.xml#par01">
+                    St. Roch</placeName>, Monsieur <persName ref="people.xml#did01">
+                    Diderot</persName>, effaçons ce nom: à présent les contemporains l’ont vu,
+                    peut-être quelqu’un y mettra celui d’un autre. M-r
+                <persName ref="people.xml#fal01"> Falconet</persName>, une réponse, s’il vous
+                    plaît à cette proposition: si vous y mettez un <hi rend="italic"
+                    >mais</hi>, elle deviendra épineuse pour votre cause. Vous avez trouvé que
+                    vos contemporains souvent n’ont pas raison, et qu’il en est de même de la
+                    postérité. Votre âme fière et vraie en veut à l’approbation du petit nombre des
+                    connaisseurs, et pourquoi serait-ce à celle de ceux de votre siècle? que vous
+                    ont fait ceux qui les suivront pour ne pas vouloir leur plaire? serait-ce
+                    parceque vous ne les connaissez pas, faut-il n’être complaisant qu’avec ceux que
+                    vous connaissez, donneriez-vous un coup de poing à un inconnu, et pourquoi donc
+                    auriez-vous si peu d’égard pour nos petits-fils? Mais Votre <persName
+                    ref="people.xml#pet01"> Pierre-le-Grand</persName> prouvera à la postérité
+                    non-seulement votre bonne volonté pour les contemporains, mais encore votre
+                    complaisance pour la postérité, car vous ne vous en tiendrez pas au cheval de
+                    terre glaise, mais vous finirez celui de fonte, disant toujours: je fais bien
+                    parce qu’il ne faut pas mal faire ce qu’on a entrepris.</p>
+            <p>Mais ce cheval court malgré vous et d’entre vos doigts appliqués sur la terre
+                    glaise, tout droit à la postérité, qui en connaîtra, à coup sûr, plus la
+                    perfection que les contemporains. Marquez à votre grand ouvrage où vous en étiez
+                    lorsque vous reçûtes ce billet; en revenant j’examinerai si cette dernière
+                    phrase vous a fait rebrousser chemin. </p>
+           <closer> <signed rend="inline">Adieu, Monsieur <persName ref="people.xml#fal01">
+                    Falconet</persName>, portez-vous bien, je serai bientôt de retour. C’est un vrai
+                plaisir que de lire une dispute sans aigreur et traitée cependant avec autant de
+                chaleur que d’agrément, je vous renvoie votre livre, grand merci.</signed></closer>
+        </body>
+    </text>
+</TEI>

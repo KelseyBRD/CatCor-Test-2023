@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03673</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03673</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-01">01-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:55:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03673">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-09-16">16 septembre</date>.</dateline></opener>
+    <p>J’ai reçu une énorme lettre du marquis de <persName ref="people.xml#bou05">
+      Bouillé</persName> avec deux annexes: l’une sur les dispositions qu’il a faites pour la fuite
+     du <rs ref="people.xml#lou01"> roi</rs>, qui n’a pas réussi; par conséquent, quoi qu’il dise,
+     elles étaient vicieuses; l’autre sur la propaganda dont je me moque; dans celle-ci, entre
+     autre, il est dit qu’ils emploient 30 millions pour soulever tous les peuples; mais il faudrait
+     commencer à les avoir; or, ils n’ont que des assignats, et cela pas suffisamment pour
+     eux-mêmes; vous avez beau louer la tête du marquis de <persName ref="people.xml#bou01">
+      Bouillé</persName> ou Bouilly, elle n’est pas nette. Voici ma réponse. Je ne sais si elle vous
+     plaira. </p>
+    <p>M. <persName ref="people.xml#cha11"> d’Artois</persName> m’a envoyé de <placeName
+      ref="places.xml#dre01"> Dresde</placeName> le <persName ref="people.xml#est02"> comte
+      d’Esterhazy</persName>; je monte la tête à tous ceux de chez eux qui me tombent entre les
+     mains, et ils me viennent tous avec la tête au-dessous de la besogne; je ne sais comment ils
+     s’en reviennent, mais j’y fourre tant que je puis, et je leur prêche de chercher leurs plans et
+     leurs moyens dans la conduite d’<persName ref="people.xml#hen01"> Henri IV</persName>, qui
+     avait contre lui bien plus de choses qu’eux tous, et qui n’avait entre autre pas toute
+      l’<placeName ref="places.xml#eur01">Europe</placeName> pour soi. De tous ceux que j’ai vus,
+     c’est la tête du comte de <persName ref="people.xml#pri01"> St Priest</persName> que j’aimerais
+     le mieux: il joint un discernement exquis à une grande expérience, et il est courageux et sage. </p>
+    <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01">souffre-douleur</rs>,
+      portez-vous bien.</signed></closer>
+   </div>
+   <div>
+    <head>Copie <note type="editorial">The following is a copy of a letter <persName
+       ref="people.xml#cat01">Catherine</persName> wrote to <persName ref="people.xml#bou05">
+       Bouilly</persName></note></head>
+    <p>Monsieur le marquis de <persName ref="people.xml#bou05"> Bouilly</persName>! Informée par les
+     nouvelles publiques des circonstances dans lesquelles vous vous êtes trouvé depuis que vous
+     m’avez fait parvenir votre demande de servir dans mon armée, et ayant appris en même temps que
+     vous étiez déjà entré au service du <persName ref="people.xml#gus01"> roi
+      de <placeName ref="places.xml#swe01">Suède</placeName></persName>, j’ai bien jugé que ma réponse au baron
+      de <persName ref="people.xml#gri01">Grimm</persName>, laquelle se trouvait déjà depuis plus
+     d’un mois à <placeName ref="places.xml#fra03"> Francfort</placeName> à attendre qu’il fût
+     permis au dit baron de sortir de <placeName ref="places.xml#fra01">France</placeName>, devenait
+     inutile et ne pouvait tout au plus être bonne qu’à prouver seulement que j’avais accueilli
+     votre demande avec cette attention que je ne saurais refuser à tout serviteur fidèle du <rs
+      ref="people.xml#lou01"> roi</rs>, votre maître. Au reste, Monsieur, je ne puis que louer et
+     approuver le zèle que vous montrez pour son service, sa cause et sa personne, et dont j’ai
+     trouvé l’expression dans la lettre que vous m’avez écrite de <placeName ref="places.xml#dre01">
+      Dresde</placeName> et à laquelle ces lignes servent de réponse. J’y ai trouvé deux annexes,
+     dont je vous remercie.</p>
+    <closer><signed> Signé: <persName ref="people.xml#cat01">Catherine</persName>.</signed>
+     <dateline><placeName ref="places.xml#pet01"> St Pétersbourg</placeName>, ce <date
+       when-custom="1791-09-16">16 sept. v.s. 1791</date>.</dateline></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

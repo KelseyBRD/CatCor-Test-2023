@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01064</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01064</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:21:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01064">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date when-custom="1785-05-23"
+      >23 mai 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. Les communications des négociations de V. M. I. avec la <placeName
+     ref="places.xml#hol02">Hollande</placeName>, qui se traitent à <placeName
+     ref="places.xml#par01">Paris</placeName>, de même que les réponses qu’Elle y a faites, je les
+    ai reçues comme une nouvelle marque de la confiance et de l’amitié de V. M. I. envers moi, et de
+    cette intimité heureusement établie, et essentiellement nécessaire aux intérêts communs de <rs
+     ref="events.xml#allia01"> notre alliance</rs>. Il paraît que la fin de ces différends
+    s'approche, à moins que les intrigues qui se trament en haine de nos liens ne réussissent à la
+    ralentir. Selon les désirs de V. M. I. j’ai fait expédier des ordres circulaires à mes ministres
+    aux Cours étrangères, afin qu’ils détrompent les têtes échauffées au sujet des faux bruits et
+    clameurs, surtout en <placeName ref="places.xml#ger01">Allemagne</placeName>, comme quoi la
+    constitution germanique se trouvait en danger. J’ose espérer que la vérité abattra le
+    mensonge.</p>
+   <p>Mon ministre à <placeName ref="places.xml#ist01">Constantinople</placeName> a aussi reçu de
+    nouveaux ordres très-précis de se conformer au langage de celui de V. M. I, mon bon et fidèle
+    allié. L’énergie et la dignité avec laquelle Elle a répondu au cabinet de <placeName
+     ref="places.xml#ver01">Versailles</placeName> sur les affaires de <placeName
+     ref="places.xml#tur01">Turquie</placeName>, ne m’est pas échappée. Il est sans contredit de la
+    haute sagesse et prudence de V. M. I. d’avoir l’oeil sur les armements, de ne négliger aucune
+    mesure et précaution convenable, mais aussi de différer toute résolution finale, jusqu’à ce que
+    les affaires avec la <placeName ref="places.xml#hol02">Hollande</placeName> soient entièrement
+    terminées, et que la fermentation des esprits en <placeName ref="places.xml#ger01"
+     >Allemagne</placeName> soit assoupie et calmée. Mais quoiqu’il en soit, en tout temps, en tout
+    lieu, en toute occasion, que V. M. I. soit persuadée que je remplirai en paroles comme en effet
+    mes engagements avec Elle. Ils me sont chers et précieux; c’est avec ces sentiments et ceux de
+    la plus haute considération que j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

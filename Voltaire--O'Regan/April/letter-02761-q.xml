@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02761</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02761</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of reference to book by Abbé Chappe</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:30:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02761">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-12-08">8/19 Décember 1771</date></dateline></opener>
+   <p>Monsieur, Je viens de recevoir Votre lettre du 18 Novembre. Grâce aux arrangemens pris par le <persName ref="people.xml#orl01">
+     Cte: Orlof</persName> à <placeName ref="places.xml#mos01"> Moscou</placeName> il n’i avoit le 28 Novembre
+    que deux persones de mortes dans la Ville de cette contagion dont Vos pays méridiaunaux ont si
+    grand effroy et avec raison, mais il y a encore des malades, les Médecins assurent que les deux
+    tiers en échaperont. Ce qu’il y a de singulier s’est qu’aucune persone de qualité n’en a été
+    attaquée et qu’il en est morts plus de femes sans comparaison que d’homes. Dans les corps
+    anatomisés l’on a trouvés que le sang s’étoit réfugiés dans le cœur et les poumons et qu’il ni
+    en avoit pas une goute dans les veines, que tous les autres remèdes étoit mortel hors ceux qui
+    provoquoit la sueur. Je Vous enverrés incessament des nois de cèdre de <placeName ref="places.xml#sib01">
+     Siberie</placeName>, j’ai fait écrire au gouvernement de m’en envoyer de toutes fraiches. Vous
+    les aurés vers le printems. Les contes de <rs ref="people.xml#aut01"> l’Abbé Chappe</rs> ne mérite guère de croyance. Je ne l’ai jamais vuë, et
+    cependant il prétend dans son livre dit-on avoir mesuré des bout de bougie dans ma chambre, où
+    il n’a jamais mis le pied; ceçi est un fait. Votre lettre me tire d’inquiétude au sujet de
+    l’argent pour les montres, puis qu’enfin il est arrivé. Pour ce qui regarde le Comerce des
+    montres à la <placeName ref="places.xml#chi02"> Chine</placeName> je crois qu’il ne seroit pas impossible
+    d’y parvenir en s’addressant à quelque conteur d’ici, qui trouveront bien le moyen de faire
+    assurer ses montres à la frontières de la <placeName ref="places.xml#chi02"> Chine</placeName>, car
+    quoiqu’on disent les écrivains la Courone ne fait plus ce Comerce. Les tableaux que j’avois fait
+    acheter en <placeName ref="places.xml#hol02"> Hollande</placeName> de la Collection de
+     <persName ref="people.xml#bra08"> Brancamp</persName> sont tout
+    péris sur les côtes de <placeName ref="places.xml#fin01"> Finlande</placeName>, il faudra s’en passer, j’ai
+    euë du gignon cette année, en pareil cas il n’i a d’autre ressource que de s’en consoler. Je
+    Vous ai mandées les nouvelles que j’ai de mes armées de terres et de mer, il ne me reste dont
+    pour aujourd’huy qu’à Vous renouveller Monsieur tout les sentimens que Vous me connoissés.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

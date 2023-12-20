@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02769</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02769</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:31:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02769">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1772-09-12">12 Sept: 1772</date></dateline></opener>
+   <p>Monsieur, J'ai à Vous annonçer en réponse à Votre lettre du 21 d'Auguste,
+     que je m'en vais comencer avec <persName ref="people.xml#mus01">
+      Moustapha</persName> une nouvelle correspondance à coup de Canon: il lui
+     a plu d'ordoner à ses Plénipotentiaires de rompre le Congrès de <placeName ref="places.xml#foc01">
+      Fokchany</placeName>, la trève finit avec lui. S'est apparement l'ami
+    qui a ce département là qui Vous dit cette nouvelle. Je Vous prie de m'instruire, de ce que font
+    les autres amis qui Vous me donés tandis que je pense à <persName ref="people.xml#mus01">
+     Moustapha</persName>, il m'a toujour paru que je n'avois à la fois qu'une idée. J'espère qu'au
+    moins Messieurs les Théologiens me feront un compliment en Cérémonie au premier Concile
+    universel où je présiderai pour avoir soutenu leur opinion <hi rend="Emphasis">en cette occasion</hi>. </p>
+   <p>Je suis bien fâchée de ce que Vos Cèdres n'ont point germés, s'il Vous reste des fêves je Vous
+    conseille de les faire semer cet automne et Vous les verrés sortir de terre le printems
+    prochain. Je crois qu'il faut ranger le Château que les Dames Polonaises prétendent bâtir aux
+    Officiers français engagés au service des prétendu Confédérés au nombre de beaucoup d'autres
+    bâtimens pareil élevé dans l'imagination de l'une et de l'autre nation depuis plusieurs années,
+    et qui se sont évaporées en particules si subtiles que personne ne les a pu apercevoir. Il n'i a
+    pas jusqu'aux miracles de la Dame de <placeName ref="places.xml#cze01"> Czestachow</placeName> qui n'ayent
+    eu ce sort depuis que les moines de ce Couvent se trouvent en Compagnie d'un beau régiment
+    d'Infanterie Russe qui occupe présentement cette forteresse. On ne Vous a point trompé Monsieur,
+    l'orsqu'on Vous a dit que j'ai augmenté ce printems d'un cinquième la paye de tous mes offiçiers
+    Militaires depuis le Maréchal jusqu'à l'enseigne. J'ai achetée en même tems la Collection de
+    Tableaux de feu M<hi rend="superscript">r</hi> de <persName ref="people.xml#cro01"> Crosat</persName>, et je suis en marché d'un Diamant de la
+    grosseur d'un œuf. Il est vrai qu'en augmentant ainsi mes dépenses d'un autre côté mes
+    possessions ce sont aussi un peu accru, par un <rs ref="events.xml#parti01">accord</rs> fait entre la Cour de <placeName ref="places.xml#vie01">
+     Viene</placeName>, le <persName ref="people.xml#fre01"> Roy de Prusse</persName> et
+     <persName ref="people.xml#cat01"> moi</persName>, nous n'avons point trouvé d'autres moyens pour garantir
+    nos frontières des incursions des prétendus Confédérés dirigés par les Offiçiers français que de
+    les étendre. La Cour de la <placeName ref="places.xml#dvi01"> Dwina</placeName> et du
+     <placeName ref="places.xml#dni03"> Boristhene</placeName> dont j'ai fait prendre possession ses jours çi
+    fera cet effet. Ne trouvés Vous pas raisonable que ceux qui ferme l'oreille à la raison paye les
+    violons? J'ai ordonée de faire venir le Comédien dont Vous me parlés. Lorsque Votre Baron de
+     <persName ref="people.xml#pel02"> Pellemberg</persName> sera arrivé je Vous en parleré. Adieu Monsieur,
+    souvenés Vous de moi en bien et soyés assurés du sensible plaisir que me font Vos lettres, Vous
+    pourriés m'en faire un plus grand encore, ce seroit de Vous porter bien en dépit des années.</p>
+   <p>A propos que dite Vous de la révolution arrivée en <placeName ref="places.xml#swe01">
+      Suede</placeName>? Voilà une nation qui perd dans moins d'un quart d'heure
+     sa forme de gouvernement et sa liberté. Les Etats entouré de troupes et de Canons ont délibéré
+     vingt minutes sur cinquante sept points, qu'ils ont signés come de raison. Je ne sai si cette
+     violence est douçe, mais je Vous garanti la <placeName ref="places.xml#swe01">
+      Suede</placeName> sans liberté et le Roy de ce pays aussi Despotique que
+     celui de <placeName ref="places.xml#fra01"> France</placeName>, et cela deux mois
+     après que le Souverain et toute la nation s'étoit juré réciproquement la stricte conservation
+     réçiproque de leurs droits. Le père Adam ne trouve t'il pas que voilà bien des conçiences en
+     danger?</p>
+  </body>
+ </text>
+</TEI>

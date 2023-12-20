@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00059</title>     
+            </titleStmt>          
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00059</idno>            
+            </publicationStmt>        
+        <notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc><p>CatCor v1</p></sourceDesc>
+</fileDesc>
+        <profileDesc>
+            <textClass>   
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+            </textClass>
+        <langUsage>
+<language ident="fr">French</language>
+</langUsage>
+</profileDesc>
+<encodingDesc>
+<editorialDecl>
+<p/>
+</editorialDecl>
+</encodingDesc>
+        <revisionDesc>
+            
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-27">27 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup.</p>
+            </change>
+            <change>
+                <date when="2015-07-08">8 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+        <change>
+<date when="2021-03-29">29 March 2021</date>
+<name>HD|DH</name>
+<p>Made encoding consistent with new release.</p>
+</change></revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00059">
+                <body>
+                    <opener rend="right"><dateline><placeName ref="places.xml#tsa01">A
+                                Tsarsko-Sélo,</placeName>
+                            <date when-custom="1789-08-08">ce 8 d'août v. st.
+                            1789.</date></dateline></opener>
+                    
+                    <p>Je viens de recevoir un courrier du <persName ref="people.xml#pot01">maréchal
+                            prince Potemkine Tavritcheski</persName> avec la nouvelle que <persName ref="people.xml#suv01">le général Souvorof</persName> combiné avec
+                            <persName ref="people.xml#cob01">le prince de Cobourg</persName> a
+                        remporté près de <placeName ref="places.xml#foc01">Fokchani</placeName> en
+                            <placeName ref="places.xml#mol01">Moldavie</placeName> une victoire sur
+                        un corps de Turcs fort de trente mille hommes, qui ont été battus et
+                        dispersés; les troupes alliées leur ont pris huit canons, douze drapeaux, et
+                        le camp turc avec un considérable butin est tombé entre les mains des
+                        troupes victorieuses. Ceci s'est passé le 21 juillet vieux style; les
+                        détails suivront; <rs ref="people.xml#pot01">le maréchal</rs> ayant expédié
+                        le même sergent des gardes <persName ref="people.xml#ber01">Bering</persName>, petit-fils du fameux <persName ref="people.xml#ber02">Bering</persName>, qui lui avait porté de la part
+                        du <persName ref="people.xml#suv01">g-l Souvorof</persName> cette nouvelle,
+                        tout droit ici comme témoin oculaire; demain nous chanterons le Te Deum in
+                        pontificalibus à <placeName ref="places.xml#pet01">Pétersbourg</placeName>.</p>
+                    <closer><signed rend="inline">Adieu. Portez-vous
+                        bien.</signed></closer>
+                    <postscript>
+                        <p><persName ref="people.xml#ber02">Le capitaine commandeur
+                                Bering</persName> est fameux chez nous pour ses découvertes dans
+                                <placeName ref="places.xml#pac01">la mer Pacifique</placeName>,
+                            ayant été deux fois au <placeName ref="places.xml#kam01">Kamtchatka</placeName>.</p>
+                    </postscript>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener rend="right"><dateline><placeName ref="places.xml#tsa01">At Tsarskoe
+                                Selo,</placeName>
+                            <date when-custom="1789-08-08">this 8 of August o.s.
+                            1789.</date></dateline></opener>
+                    
+                    <p>I just received a courier from Marshal Prince Potemkin-Tavrichesky with news
+                        that General Suvorov joined with the Prince of Coburg has achieved near
+                        Fokshani in Moldavia over a corps of Turks thirty thousand men strong. They
+                        were beaten and dispersed; the allied troops took from them eight canons and
+                        twelve flags, and the Turkish camp with considerable booty has fallen into
+                        the hands of the victorious troops. This occurred on 21 July old style;
+                        details shall follow. The Marshal sent straight here as an eyewitness the
+                        same sergeant of the Guards Bering, grandson of the famous Bering, who bore
+                        him this news from General Suvorov. Tomorrow we shall sing the Te Deum in
+                        pontificalibus in St. Petersburg.</p>
+                    <closer><signed rend="inline">Farewell. Be well.</signed></closer>
+                    <postscript>
+                        <p>The captain and commanding officer Bering is famous amongst us for his
+                            discoveries in the Pacific Ocean; he was twice on Kamchatka.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

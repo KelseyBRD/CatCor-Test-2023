@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02683</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02683</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02683">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Zarskoe Selo,</placeName>
+                            <date when-custom="1776-08-19">ce 19 Août 1776</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Je prie Votre Majesté d'agréer les témoignages de ma très vive
+                        reconnaissance et mes remercîments bien sincères, pour toutes les bontés,
+                        attentions, et amitié qu'il Lui a plû de marquer au <rs
+                            ref="people.xml#pau01">Grand Duc mon fils</rs>, pendant son séjour dans
+                        ses états; j'en ai entendu le récit agréable de la bouche de mon fils
+                        pendant plusieurs jours avec ce vif intérêt qui me guide vers tout ce qui me
+                        vient de la part de Votre Majesté mon meilleur Ami et Allié. J'ai eu la
+                        satisfaction de reconnaître partout les traces de cette amitié, dont je fais
+                        un si grand cas et qui répond si parfaitement à la mienne, qui est immuable
+                        parce qu'elle est fondée sur la plus haute estime des grandes vertus de
+                        Votre Majesté; </p>
+                    <closer>
+                        <signed>je ne cesserai d'être avec les sentiments d'une considération sans
+                            bornes et de l'amitié la plus sincère, Monsieur mon Frère de Votre
+                            Majesté la bonne Soeur et fidèle Amie et Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

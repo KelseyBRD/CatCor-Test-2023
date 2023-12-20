@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01264</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01264</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-28"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01264">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p><persName ref="people.xml#raz01">Гетман</persName> был у меня, и я имела с ним
+                экспликацию, в которой он мне все то же сказал, что и Вам, а наконец просил меня,
+                чтоб я с него столь трудной и его персоне опасной чин сняла; я на то ответствовала,
+                что я теперь о его верности уже сумневаться не могу, а впредь с ним далее изъяснюсь.
+                Теперь извольте ему моим имянем сказать, сегодни, или завтра, чтоб он письменно
+                подал то, что он мне говорил.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

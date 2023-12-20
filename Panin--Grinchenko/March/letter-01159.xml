@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01159</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01159</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-18"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01159">
+        <body>
+
+            <opener><dateline>Из <placeName ref="places.xml#kaz01">Казани</placeName>.<lb/>
+                <date when-custom="1767-05-31">Маия 31 дня, 1767 г.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Вчерашной день получила я чрез куриера Ваше письмо со всеми обстоятельствами о
+                    <persName ref="people.xml#gom01">Гомовом</persName> деле, и совершенно из двух
+                одно, или уставится, или сделается достойным виселицы. Понятнее мне стал теперь его
+                весь торг, нежели прошлаго году в <placeName ref="places.xml#tsa01">Царском
+                    Селе</placeName>, однако ж я еще света не вижу к заплате страшной суммы, которую
+                он Казне должен, ибо и первые пятьдесят тысяч Банковаго долга сумнительно, чтоб
+                заплачены были. Я не думаю, чтоб вся цицовая фабрика стоила ста тысяч, а он не один;
+                о прочих его Фабриках и проч. и упомянуть почти нечего, все хуже сей.</p>
+            <p><persName ref="people.xml#pau01">Вел. Князя</persName> письмо очень меня обрадовало,
+                особливо ласку, с которою оно писано. Я все позабыла Вам отписать, чтоб Вы его еще
+                употребили под диктатуру Вашу писать, о чем он мне желание в предъидущем письме
+                оказывал. Мы все здоровы; сегодня у нас маскарад, а завтра, или после завтра, отселе
+                поеду в <placeName ref="places.xml#uly01">Синбирск</placeName>, чего почитаю уже
+                обратной путь, и там более не промешкаю, как только надобно будет для выгрузки
+                экипажа из судов. <persName ref="people.xml#che01">Гр. Зах. Чернышев</persName> и
+                    <persName ref="people.xml#orl01">Гр. Григ. Орлов</persName> отложили поездку
+                свою в <placeName ref="places.xml#tsa02">Царицын</placeName>, а только до <placeName
+                    ref="places.xml#sar03">Саратова</placeName> едут, что учинит, я чаю, три ста
+                верст более, нежели я поеду; отселе выехать нельзя; столько разных объектов,
+                достойных взгляду, <seg xml:lang="fr">idée</seg> же на десять лет здесь собрать
+                можно; <seg xml:lang="fr">c’est un <placeName ref="places.xml#rus01"
+                        >Empire</placeName> à part et il n’y a qu’ici, où l’on peut voir ce, que
+                    c’est que l’immense entreprise de nos lois, et combien celles d’à présent sont
+                    peu conformés à l’état de l’<placeName ref="places.xml#rus01">Empire</placeName>
+                    en général</seg>. Они извели народу безчисленно, котораго состояние шло по сих
+                пор к исчезанию, а не к умножению; таково же и с имуществом онаго поступлено.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p>Три пакета возвращаю Вам, а <persName ref="people.xml#gom01">Гомовой</persName> у
+                    себя оставлю. Старик <persName ref="people.xml#kud01">Кудрявцев</persName>
+                    подарил мне весьма изрядной цуг лошадей, а я к нему послала табакерку
+                    золотую.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

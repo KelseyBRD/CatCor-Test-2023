@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01086</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01086</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:26:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01086">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, cе <date when-custom="1788-02-15">15 février 1788</date>.</dateline></opener>
+   <p>Monsieur mon frère. La démarche à laquelle V. M. I. s’est déterminée à l’égard de
+    la <placeName ref="places.xml#ott01">Porte Ottomane</placeName>, et dont Elle me fait part
+    dans Sa lettre du 7 février, justifie pleinement la confiance que j’ai toujours mise dans Son
+    amitié pour moi et Sa fidélité à Ses engagements. Cette nouvelle preuve qu’Elle vient de m’en
+    donner, augmente encore Ses droits à ma reconnaissance la plus étendue. Je prie V. M. I. d’en
+    vouloir bien agréer l’expression accompagnée de la sensibilité la plus vive. V. M. I. s’est
+    déclarée non seulement le défenseur de ma cause, Elle en a fait la Sienne, et par là même Elle a
+    resserré les liens qui nous unissent. Je La prie d’être persuadée que je connais parfaitement
+    mes obligations et celles de nos engagements. D’après ces principes je ne puis que conformer ma
+    conduite à celle que V. M. I. se trouverait dans le cas de tenir vis-à-vis de ceux qui
+    voudraient injustement s’immiscer dans <rs ref="events.xml#turki02"> notre guerre</rs> vis-à-vis
+    de la <placeName ref="places.xml#ott01">Porte</placeName>, ou en profiter au préjudice de nos
+    intérêts réciproques. La possibilité en ayant déjà été prévue par notre traité, et les mesures
+    adoptées pour en empêcher les suites, leur stricte exécution, lorsque le cas existerait, me
+    paraîtrait suffisante pour notre tranquillité mutuelle. Les opérations de mes armées
+    commenceront aussitôt que la saison le permettra. Mes ordres sont donnés pour les pousser avec
+    toute la vigueur et activité possibles, et toutes les dispositions sont faites en conséquence.
+    Il ne me reste qu’à faire des voeux pour que le Très-Haut bénisse nos entreprises; j’en fais de
+    très-particuliers encore pour la conservation et la gloire de V. M. I. En attendant qu’ils
+    soient exaucés, qu’Elle me permette de partager avec Elle la satisfaction qu’Elle ressent du
+    commencement heureux de l’union de deux <rs ref="people.xml#fra04 people.xml#eli06">nouveaux
+     époux</rs> qui La touchent de si-près.</p>
+  <closer> <signed>C’est avec les sentiments de la plus haute considération, de l’amitié la plus vraie et de
+    l’attachement le, plus inviolable que j’ai l’honneur d’être ....</signed></closer>
+  </body>
+ </text>
+</TEI>

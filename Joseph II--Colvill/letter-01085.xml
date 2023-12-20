@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01085</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01085</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:26:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01085">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1788-01-26">26 janvier 1788</date>.</dateline></opener>
+   <p>Monsieur mon frère. C’est avec la plus vive satisfaction que j’ai appris par la lettre de V.
+    M. I. du 7 janvier l’heureuse conclusion du mariage de <persName ref="people.xml#fra04"> S. A.
+     R. l’Archiduc François</persName> avec la <persName ref="people.xml#eli06"> Princesse Elisabeth
+     de Württemberg</persName>. Je regarde cette union comme une suite de l'époque infiniment chère
+    à mon coeur, celle où j’ai eu le bonheur de faire la connaissance personnelle de V. M. I. C’est
+    de là que datent aussi les liens d’une <rs ref="events.xml#allia02"> alliance</rs> pour le bien
+    de nos monarchies respectives. Je me retrace avec plaisir et enthousiasme la sincérité et la
+    loyauté qui caractérisent les procédés de V. M. I. à mon égard. Je ne forme pas le moindre doute
+    sur leur persévérance. Je La prie d’avoir la même confiance aux soins que j’aurai en toute
+    occasion de La convaincre d’une entière réciprocité de sentiments et de procédés. V. M. trouvera
+    en moi également une alliée et une amie sincère qui mettra sa gloire et son contentement à Lui
+    prouver les sentiments de la plus haute estime, de l’attachement le plus vrai, et de la
+    considération inaltérable avec lesquels j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

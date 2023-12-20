@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03668</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03668</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-26">26-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:54:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03668">
+  <body>
+
+   <p>Je m’empresse de faire part au seigneur <rs ref="people.xml#gri01"> souffre-douleur</rs> que
+     la <rs ref="events.xml#varal01">paix</rs> entre le
+     <persName ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01">Suède</placeName></persName> et sa cousine <persName
+     ref="people.xml#cat01"> l’impératrice</persName> de <placeName ref="places.xml#rus01">Russie</placeName> a été signée, de notre
+    côté, par le <persName ref="people.xml#ige01"> l.-g-l Igelstrom</persName>, et du côté opposé,
+    par <persName ref="people.xml#arm01"> Armfelt</persName> le bien-aimé du <rs
+     ref="people.xml#gus01"> roi</rs>, le 3 d’août 1790, sans intervention <hi rend="italic"
+     >aucunière</hi>. Voilà un mal de moins; il m’est encore tombé ce matin quatre cors des pieds
+    qui m’incommodaient beaucoup; par conséquent je pense ranger ce jour entre les jours favorables. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed>
+   <dateline> Ce <date when-custom="1790-08-05">5 d’août 1790</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

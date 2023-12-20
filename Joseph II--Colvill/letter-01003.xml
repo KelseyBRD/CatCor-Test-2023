@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01003</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01003</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-24">24-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:30:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01003">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1780-08-27">27 août 1780</date>.</dateline></opener>
+   <p>Monsieur mon frère. Je rends grâces au ciel de l’heureux retour de V. M. I. à <placeName
+     ref="places.xml#vie01">Vienne</placeName>. Mes inquiétudes sur mille accidents de la route
+    n’ont cessé qu’au moment où j’ai reçu cette agréable nouvelle. La façon dont Elle veut bien me
+    l’annoncer Elle-même, ne me laisse plus aucun doute sur la santé et la satisfaction dont Elle
+    jouissait, de même que toute Son auguste famille lors du départ du courrier. Je n’ignorais point
+    le profond sommeil du <rs ref="people.xml#jos01"> comte de Falkenstein</rs> à son passage par
+     <placeName ref="places.xml#mit01"> Mietau</placeName>, et cela m'a confirmée dans l’opinion
+    que j’ai prise de ce seigneur, qui est que dans aucune occasion il ne manque jamais à point
+    nommé de ressources. Je suis persuadée encore qu’en <placeName ref="places.xml#pol01"
+     >Pologne</placeName> il n’avait besoin ni de moi ni de mon ambassadeur pour se tirer
+    parfaitement bien d’embarras, et que tout obstacle qu’il trouvera sur sa route, doit s’attendre
+    indubitablement à lui faire place. Il ne me reste plus qu’il le féliciter sur le bonheur dont il
+    jouit dans ce moment ; puisse-t-il toujours être égal il ses vertus, tels sont les voeux de
+    celle qu’il se plaît à rendre heureuse par ses suffrages. Je suppose que son éloquence naturelle
+    et les charmes de sa conversation lui fourniront plus d’auditeurs que la matière même du récit
+    de son voyage, mais ma reconnaissance sincère ne sera sujette à aucune variation. C’est un grand
+    pas sans doute vers les bénédictions de l’église d’Orient que d’avoir les voeux de son chef dans
+    sa poche, mais ne méprisons point le patriarche et ses chandeliers. Pour que l’<persName
+     ref="people.xml#sie02"> évêque de <placeName ref="places.xml#mog01">Mohilew</placeName></persName> officiât avec dignité,
+    n’aurait-il pas fallu que son clergé agît à l’unisson? Ici tout naturellement j’aurais à dire un
+    mot du <placeName ref="places.xml#vat01"> Vatican</placeName>, mais il est temps que je finisse.
+    Je ne parle plus au <rs ref="people.xml#jos01"> comte de Falkenstein</rs>, mais au chef suprême
+    du <placeName ref="places.xml#hol01"> Saint Empire Romain</placeName> revenu dans sa résidence
+     à <placeName ref="places.xml#vie01">Vienne</placeName> en <placeName ref="places.xml#aus01">
+     Autriche</placeName>. Que V. M. I. me permette de Lui répéter les sentiments de la plus haute
+    considération et de l’amitié constante avec lesquels j’ai l’honneur d’être</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02654</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02654</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#healthpolicy"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-17">17 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02654">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St.-Pétersbourg,</placeName>
+                            <date when-custom="1768-11-14">ce 14 Novembre 1768</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>Quoique la lettre qu'il a plu à Votre Majesté de m'écrire le 27 Septembre par
+                            <persName ref="people.xml#vor02">le chambellan comte
+                            Woronzoff</persName> m'ait donné la satisfaction la plus pure, l'ayant
+                        trouvée remplie des assurances précieuses de son amitié, et de sentiments et
+                        d'actions d'un allié fidèle et constant. Quelque envie que j'eusse de
+                        témoigner à Votre Majesté, et ma reconnaissance et la réciprocité de mes
+                        sentiments, et de La prier d'ajouter foi à tout ce que <persName
+                            ref="people.xml#che03">le comte Czernicheff</persName> Lui a dit de ma
+                        part, je n'ai pas osé Lui répondre plutôt, tant parce que la moindre
+                        application m'était défendue pendant l'<rs ref="events.xml#inocu01"
+                            >inoculation</rs> de la petite vérole, que parce qu'ayant appris du
+                            <persName ref="people.xml#che03">comte Czernicheff </persName> que Votre
+                        Majesté désapprouvait cette action: ce qui aurait sans doute influé sur ma
+                        résolution, si je ne l'avais appris trop tard. Je voulais laisser passer le
+                        temps critique, et donner moi même à Votre Majesté la nouvelle que tout
+                        danger pour mon personnel avait cessé, et que cette fois-ci ma témérité a
+                        été heureuse. D'un autre côté à-peine rétablie, j'ai été obligée de
+                        m'arranger pour la <rs ref="events.xml#turki01">guerre</rs> que <placeName
+                            ref="places.xml#ott01">la Porte</placeName> prétend me faire pour plaire
+                        à mes envieux, et sans trop savoir pourquoi. J'ai retardé les remercîments
+                        mais non la sensibilité que je dois à Votre Majesté pour toutes les choses
+                        obligeantes qu'Elle veut bien me dire sur mes différentes entreprises, rien
+                        ne me fait assûrément plus de plaisir que la part sincère que je vois
+                        prendre à Votre Majesté au bien-être de mon empire. J'ai tâché jusqu'ici de
+                        faire le bien, à présent je suis obligée de faire le mal, car toute guerre
+                        en est un, à ce que disent les philosophes. La seule supportable je crois
+                        est celle que je m'en vais faire. Je suis attaquée, je me défends. Voilà ce
+                        que je faisais aussi jusqu'ici en <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>. Depuis que la lettre de Votre Majesté est écrite,
+                        la face des affaires est bien changée dans ce pays, par la rupture de la
+                        Porte, ainsi je ne puis que remercier Votre Majesté de ce qu'Elle m'a
+                        communiqué son avis sur la situation d'alors, de même que des ouvertures que
+                        le <persName ref="people.xml#sol01">comte de Solms</persName> a faites à mes
+                        ministres au sujet de la guerre, et de la part que Votre Majesté y a prise.
+                        J'ai pour moi la conviction que je n'ai rien fait en <placeName
+                            ref="places.xml#pol01">Pologne</placeName> qui ne soit de l'intérêt
+                        essentiel et permanent de la république et de ses voisins. Je crois donc
+                        fermement que la justice de ma cause conduira la Providence à tourner le
+                        tout au grand détriment de mes ennemis présents, et qu'ils se repentiront de
+                        l'offense qu'ils m'ont faite par les intrigues de mes envieux. Je me tiens
+                        assurée de la fidélité de l'alliance de Votre Majesté, je porterai mon
+                        attention tant par sentiment personnel que par principe d'état à saisir
+                        toute occasion pour y apprécier chaque évènement, afin de rendre le noeud de
+                        notre alliance indissoluble. En conséquence mon ministère fera parvenir à la
+                        connaissance de Votre Majesté par son ministre les mesures que j'ai prises
+                        tant pour ma défense contre mon ennemi que pour la pacification de la
+                            <placeName ref="places.xml#pol01"> Pologne</placeName>, </p>
+                    <closer>
+                        <signed>ne doutant pas de la coopération en tout de Votre Majesté par la
+                            raison de la confiance, de la haute considération, de l'amitié et de
+                            l'estime particulière avec laquelle je suis, Monsieur mon Frère, de
+                            Votre Majesté la bonne Soeur et fidèle Amie et Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

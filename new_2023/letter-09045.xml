@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09045</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09045</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#healthpolicy"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09045"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-02-01">1788 г. 1 февраля.</date>
+                </dateline>
+            </opener>
+            <p>К <persName ref="people.xml#pot01">кн. Потемкину</persName> писать, чтоб <persName ref="people.xml#mey01">доктору Майеру</persName> дал дозволение приехать сюда. <seg xml:lang="fr">Un bonnet fouré de zabel</seg>, чай <placeName ref="places.xml#chi02">Китайский</placeName> и кофе <placeName ref="places.xml#mec01">Меккский</placeName>,—все сие <ref target="letter-02831">с моим письмом</ref> отправьте к <persName ref="people.xml#zim01">Циммерману</persName>.
+                <note type="editorial">
+                    In A.V. Khrapovitskii's diary under <date when-custom="1788-02-01">the same day</date> stands: "Позван после обеда, чтоб для <persName ref="people.xml#zim01">Цимермана</persName>, живущаго в <placeName ref="places.xml#han01">Гановере</placeName>, сшить соболью шапку и послать лучшаго чаю и кофе."(                    
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 37.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

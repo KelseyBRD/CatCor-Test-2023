@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00737</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00737</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-28">28 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00737">
+                <body>
+                    <opener><dateline><date when-custom="1783-06-29">Июня 29,
+                            1783.</date> Из<placeName ref="places.xml#tsa01">Царского
+                            Села</placeName></dateline>
+                    <salute rend="inline">Друг мой сердечный,</salute></opener>
+                    <p>с праздниками тебя поздравляю. В прошедшую субботу я возвратилась из
+                            <placeName ref="places.xml#fre01">Фридрихсгама,</placeName> где я
+                        виделась с <persName ref="people.xml#gus01">Королем Шведским,</persName>
+                        который много терпит от изломленной руки. Ты его знаешь, и так писать о том
+                        нечего. <seg xml:lang="fr">J'ai seulement trouve qu'il etoit
+                            excessivement occupe de sa parure se tenant fort volontiers devant le
+                            miroir, et ne permettant a aucun officier de se presenter autrement a la
+                            Cour qu'en habit noir et ponceau et point en uniforme; ceci m'a choque
+                            parce que selon moi in n'y a point d'habillement plus honorable et plus
+                            cher qu'un uniforme.</seg></p>
+                    <p>Видела я и <persName ref="people.xml#cre01">Крейца,</persName> его нового
+                        министра. Сей прямо из <placeName ref="places.xml#par01">Парижа</placeName>
+                        в <placeName ref="places.xml#fre01">Фридрихсгам</placeName> приехал.
+                            <seg xml:lang="fr">Il m'a paru que</seg>
+                        <persName ref="people.xml#she02">Шефер</persName>
+                        <seg xml:lang="fr">avoit plus d'esprit.</seg> Лутчим в <seg
+                            xml:lang="fr">suite</seg> королевской показался <persName
+                            ref="people.xml#tau01">Таубе,</persName> что зимою был в <placeName
+                            ref="places.xml#pet01">Петербурге,</placeName> а прочие все люди весьма,
+                        весьма молодые. Вот тебе вести наши. Теперь ответствовать буду на твое
+                        письмо из <placeName ref="places.xml#khe01">Херсона</placeName> от 12 июня.
+                        Что ты выбился из сил, о том весьма сожалею; ты знаешь, что ты мне очень,
+                        очень надобен. И так прошу тебя всячески беречь здоровье. К оружению
+                        морскому люди отправлены и отправляются, и надеюсь, что выбор людей также
+                        недурен - самому <persName ref="people.xml#pau01"
+                            >Ген[ерал]-Адмир[алу]</persName> поручен был. На все взятые тобою меры о
+                        укреплении <placeName ref="places.xml#kin01">Кинбурна,</placeName> о
+                        доставлении повсюду провианта и о понуждении войска, имею твердую надежду,
+                        что все то пойдет, как желается. Одна чума меня страшит, чтоб не
+                        распространилась. Для Бога, не упущай ни единого известного способа для
+                        предосторожности от оной, как для себя, так и для всех. Опасаюсь иногда и
+                        того, чтоб не вкралась паки в Россию. Пехотные полки по твоим представлениям
+                        апробованы. Генерал-кригскомиссар[ом] зделан <persName
+                            ref="people.xml#pot04">Святой.</persName> Проект твой на Синоп или
+                        другие места, естьли война будет объявлена, недурен. Отовсюду слышу, что
+                        турки сильно вооружаются, но друзья их удержут от войны до времяни. О Цесаре
+                        мысли мои с твоими весьма согласны, лишь бы он не был в том положении, как
+                        был в прошедшей войне; всякая иная [помощь] нам от него полезна. <persName
+                            ref="people.xml#pot04">Мих[аилу] Серг[еевичу] Пот[емкину]</persName> по
+                        твоей прозьбе прикажу ехать к тебе. Надеюсь, что по сей час судьба
+                            <placeName ref="places.xml#cri01">Крыма</placeName> решилась, ибо
+                        пишешь, что туда едешь.</p>
+                    <closer><signed><seg xml:lang="fr">Adieu, mon cher Ami, portes--Vous bien,
+                            je Vous embrasse de tout mоn coeur.</seg> Саша тебе
+                        кланяется.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

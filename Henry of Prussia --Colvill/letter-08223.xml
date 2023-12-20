@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08223</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08223</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:20:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08223">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName> ce <date
+      when-custom="1772-08-27">27 d'août 1772</date>.</dateline></opener>
+   <p>Revenue dans ma retraite bien aimée depuis quelques jours, j'ai vu augmenté mon contentement
+    de m'y trouver par la lettre, remplie d'amitié, que V. A. R. a bien voulu m'écrire le 10 d'aôut
+    n. st. Son amitié pour moi La fait entrer jusque dans mes fantaisies. Elle se donne la peine de
+    me parler de mes maisons de campagne et Elle pousse la complaisance jusqu'à quitter Son avis
+    pour celle qui par sa situation Lui paraisse mériter la préférence, pour se conformer à mon
+    sentiment. Tout le monde après cela doit avouer que V. A. R. sans contredit est le héros de son
+    siècle le plus complaisant. <persName ref="people.xml#vol01">Voltaire</persName> ne manquerait
+    pas d'ajouter qu' «à vous autres héros il n'y a rien d'impossible.» J'irai plus loin et
+    j'ajouterai que, si V. A. R. se met en tête, comme Elle me le mande, de métamorphoser toutes les
+    femmes de <persName ref="people.xml#mus01">Moustapha</persName> en ambassadrices d’<placeName
+     ref="places.xml#eng01">Angleterre</placeName>, je crois qu'Elle en viendra à bout Je Lui ai vu
+    entreprendre des choses plus difficiles. Elle a mis non seulement trois têtes, mais même trois
+    puissances dans un bonnet Cela peut se prouver, papier sur table ; preuve, cette <rs
+     ref="events.xml#parti01"> convention de partage, signée le 25 juillet</rs> de cette année entre
+    le Roi, Son frère, la maison <placeName ref="places.xml#aus01">d'Autriche</placeName> et moi. V.
+    A. R. le premier entama cette grande affaire qui va devenir une époque, et nous Lui en devons
+    tous les plus sincères remercîments.</p>
+   <p>Ma paix avec les <orgName ref="orgs.xml#turk01"> Turcs</orgName> ne s'accrochera plus guère
+    après cela, et indirectement encore V. A. R. l'aura accélérée. Nous nous réjouirons après. Il
+    est vrai que même pendant le congrès nous avons eu quelques fêtes assez animées. M. de <persName
+     ref="people.xml#nar02"> Narichkine</persName>, notre président, nous a donné une très belle à
+    sa maison de campagne, il y avait quelques milliers de masques, et entre autres vers la fin du
+    bal arrivèrent une douzaine des bottes de foin, en sautant et en dansant, qui ont bien fait rire
+    l'hôte et une partie des convives. On prétend que ces bottes sortirent de l'académie de
+     <placeName ref="places.xml#her01"> l’hermitage</placeName>; je ne dis pas cela moi, il faut
+    respecter les masques. J'avoue cependant que j’étais du secret qui fut bien gardé.</p>
+   <p>J'espère que le voyage de la <persName ref="people.xml#lou05"> reine douairière
+     de <placeName ref="places.xml#swe01">Suède</placeName></persName> sera heureusement terminé à l'heure qu'il est. Le souvenir de
+    S. M., dont V. A. R. veut bien m'informer, me flatte infiniment, je ne négligerai assurément
+    aucune occasion où je pourrai témoigner à cette princesse la sincérité de mes sentiments et
+    comme proche parente et comme bonne voisine. V. A. R. voudra bien être assurée que
+    je suis...</p>
+  </body>
+ </text>
+</TEI>

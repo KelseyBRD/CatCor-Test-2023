@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09040</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09040</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09040"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-12-27">1787  г. 27 декабря.</date>
+                </dateline>
+            </opener>
+            <p>№ 80. Симбирскаго и <placeName ref="places.xml#ufa01">Уфимскаго</placeName>—об отдаче Меленских казенных винокуренных заводов
+                <note type="editorial">
+                    Catherine most likely writes about distilleries in <placeName ref="places.xml#dim01">Melekess</placeName> (
+                    <bibl>
+                        <title ref="works.xml#brokef01">Entsiklopedicheskii slovar' Brokgauza i Efrona</title>
+                    </bibl>
+                    ).
+                </note>
+                на аренду купцу <persName ref="people.xml#ust01">Устинову</persName>
+                <note type="editorial">
+                    A.V. Khrapovitskii's under <date when-custom="1788-01-30">January 30 1788</date> notes that <rs ref="people.xml#vya01">General Procurator</rs> and <persName ref="people.xml#suk01">Ober Procurator Sukharev</persName> were scolded by Catherine for selling the distilleries (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 37.</biblScope>
+                    </bibl>
+                    ).
+                </note>.</p>
+        </body>
+    </text>
+</TEI>

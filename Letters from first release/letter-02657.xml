@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02657</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02657</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#europe"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-18">18 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02657">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1769-03-11">ce 11 Mars 1769</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Je prie Votre Majesté d'être persuadée que je trouve dans mes propres
+                        sentiments d'amitié pour Elle, la conviction de ceux qu'Elle a bien voulu me
+                        marquer dans Sa lettre du 14 Février. C'est aussi à mes propres désirs que
+                        je défère en concertant avec Votre Majesté la prolongation et le
+                        renouvellement de nos traités, non seulement mon intention est de rendre
+                        Notre union indissoluble, mais je souhaite encore qu'Elle paraisse telle aux
+                        yeux de toute <placeName ref="places.xml#eur01">l'Europe</placeName>. Je me
+                        montrerai si décidée sur ce point dans tous mes plans, et dans les moindres
+                        de mes démarches, qu'il faudra que chacun y règle son système, et renonce à
+                        toute spéculation contraire. Nous y trouverons, je l'espère, Notre
+                        tranquillité, et Nous n'influerons pas peu sur celle des autres. Les
+                        affaires en <placeName ref="places.xml#pol01">Pologne</placeName> persistent
+                        opiniâtrément dans le même état, le petit feu de la petite noblesse s'allume
+                        et s'éteint comme à l'ordinaire, sans faire de progrès ni entamer le corps
+                        de la nation; il est probable que celui-ci ne sortira point de son état
+                        léthargique toute la campagne prochaine, et si nous disputons bien la
+                        frontière aux Turcs, nous mettrons fin aux tracasseries et aux vaines
+                        chicanes des Français. J'ai vu avec une sorte de satisfaction que Votre
+                        Majesté reçoit des nouvelles de son <rs ref="people.xml#gol02">ministre</rs>
+                        à <placeName ref="places.xml#par01">Paris</placeName>. J'en augure qu'il est
+                        moins en crédit auprès du <persName ref="people.xml#cho03">duc
+                            Choiseul</persName> que mon <rs ref="people.xml#kho01">chargé
+                            d'affaires</rs>, du moins ses dépêches sont elles moins soignées par <rs
+                            ref="people.xml#cho03">ce duc</rs>, ce n'est sans doute qu'à une
+                        attention particulière de <rs ref="people.xml#cho03">ce ministre</rs> que je
+                        suis redevable d'un très long silence dans une correspondance aussi curieuse
+                        qu'importante. Je ne saurais assez admirer sa fertilité en pareils
+                        expédients, puisque les embarras propres à sa position ne l'en distraient
+                        pas une seule poste. Il y a sans doute autant de dignité que de profit à
+                        assortir de telles minuties aux intérêts d'une grande monarchie, ou si c'est
+                        une voie détournée pour en venir à une interruption absolue de toute
+                        correspondance, il faut avouer que la gloire du Souverain n'est pas mal
+                        consultée. Quoiqu'il en soit j'ai fait prier <persName
+                            ref="people.xml#sol01">le comte de Solms</persName> d'écrire à <persName
+                            ref="people.xml#gol02"> Mr. Goltz</persName> de m'envoyer un certificat
+                        de vie ou de mort de mon <rs ref="people.xml#kho01">chargé d'affaires</rs>.
+                        Je rends trop de justice aux sentiments de Votre Majesté, à sa bonne foi et
+                        à la pureté de sa politique, pour douter un seul moment qu'on ait pris ses
+                        conseils sur ce qui se fait actuellement en <placeName
+                            ref="places.xml#swe01">Suède</placeName>. J'ai au contraire de grands et
+                        de sincères remerciements à Lui faire, des ordres qu'Elle a fait parvenir à
+                        son <rs ref="people.xml#coc01">ministre</rs> à <placeName
+                            ref="places.xml#sto01">Stockholm</placeName>, <persName
+                            ref="people.xml#sol01">le comte de Solms</persName> m'en a fait informer
+                        et <persName ref="people.xml#ost01">le comte Ostermann</persName> m'a mandé
+                        qu'il agit avec le <rs ref="people.xml#coc01">ministre de Votre Majesté</rs>
+                        dans le plus grand concert et qu'ils ont préparé une déclaration à faire dès
+                        que les circonstances l'exigeront; cet accord si parfait entre Nous doit
+                        nécessairement produire un bon effet. L'état de la <placeName
+                            ref="places.xmlswe01">Suède </placeName> m'est connu et j'en tire les
+                        mêmes conclusions que Votre Majesté, mais là où la corruption est parvenue à
+                        son comble, l'argent peut ameuter une troupe de factieux, les aveugler sur
+                        leur propre faiblesse et leur faire risquer tout, jusqu'à leur ruine,
+                        uniquement pour tenter de nuire aux autres. Ils n'y réussiront certainement
+                        pas, et si quelque chose peut guérir les mauvaises têtes, ce sont assurément
+                        les dispositions si décidées de Votre Majesté et du <persName
+                            ref="people.xml#chr01">roi de Danemark</persName>. Je remercie Votre
+                        Majesté d'une attention aussi vigilante aux intérêts de notre alliance. Je
+                        Lui dirai aussi avec une vraie satisfaction que le <persName
+                            ref="people.xml#chr01">roi de Danemark </persName> prend on ne peut pas
+                        mieux ses affaires, il est décidé dans le bon parti, et il suit toutes les
+                        mesures qui peuvent lui être favorables. J'en parle comme d'un allié sûr;
+                        ainsi de tout côté je ne vois rien qui ne doive dérouter nos adversaires, et
+                        leur faire abandonner ou au moins extrêmement restreindre leurs projets. Je
+                        ne me trompe point du tout sur la politique de la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName>, pour y pénétrer davantage et
+                        juger mieux de l'embarras où elle se trouve entre ses intérêts les plus
+                        naturels, et la politique envers ses alliés ou peut être même ses
+                        engagements; j'ai chargé mon <rs ref="people.xml#gol04">ministre</rs>
+                        d'entrer avec elle en quelques explications, et je ne manquerai pas de faire
+                        part à Votre Majesté de sa réponse. Quelque vue qu'on ait pour l'avenir je
+                        crois que nous pourvoirons à tout. Notre alliance telle qu'Elle est fixée
+                        par nos sentiments mutuels doit faire beaucoup. </p>
+                    <closer>
+                        <signed>J'aime à me la représenter au dessus de tout atteinte, tout comme
+                            l'amitié parfaite et inviolable avec laquelle je suis, Monsieur mon
+                            Frère, de Votre Majesté la bonne Soeur et Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                    <postscript>
+                        <p>P. S. Je prie Votre Majesté de m'excuser d'avoir tardé de faire remettre
+                            au <persName ref="people.xml#sol01">comte de Solms </persName> le
+                            contre-projet du renouvellement de notre alliance, une fièvre de rhume
+                            m'a empêché de vaquer à toutes les affaires et c'est avec peine que
+                            j'écris même cette lettre vu la faiblesse qui me reste, mais je compte
+                            réparer ce délai par la sincérité et l'exactitude avec lesquelles je
+                            veux apprécier cet arrangement.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

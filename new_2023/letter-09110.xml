@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09110</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09110</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-10">2023-07-10</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-09110"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-06-01">1789 г. 1 июня.</date>
+                </dateline>
+                <salute>Александр Васильевич,</salute>
+            </opener>
+            <p>поговорите с <persName ref="people.xml#vou01">преосвященным Евгением</persName> о печатании <rs ref="people.xml#vou01">его</rs> перевода <persName ref="people.xml#vir01"><rs ref="works.xml#aeneid01">Виргилия</rs></persName>, да напишите к <persName ref="people.xml#luz01">Лужкову</persName>, чтоб книгу, большой ин фолио (sic) о <placeName ref="places.xml#tur01">Туреции</placeName>, которую я нынешнюю зиму купила, послал к <rs ref="people.xml#vou01">тому же архиерею</rs>.
+                <note type="editorial">
+                    A.v. Khrapovitskii noted in his diary under <date when-custom="1791-11-13">November 13 1791</date>: "От Архиепископа Евгения поднес напечатанныя на греческом языке четыре книги Энеиды". According to the commentaries on A.V. Khrapovitskii's diary, this translation of <title ref="works.xml#aeneid01">"Aeneid"</title> into Greek was dedicated to Catherine herself and financed from the <orgName ref="orgs.xml#acad01">Imperial Academy of Sciences</orgName>. In gratitude for this translation Catherine awarded Evgenii with 1,000 rubles (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 383, 494.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

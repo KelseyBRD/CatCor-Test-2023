@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00708</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00708</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-04">04 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00708">
+                <body>
+                    
+                    <opener><salute rend="inline">Батинька Князь <persName ref="people.xml#pot01">Григорий
+                            Александрович.</persName></salute></opener>
+                    <p>Не токмо желание мое узнать о твоем добром состоянии принуждает меня послать
+                        к тебе сего нарочного, но и самая нужда по делам: в <placeName
+                            ref="places.xml#cri01">Крыму</placeName> татары начали снова не малые
+                        безпокойства, от коих Хан и <persName ref="people.xml#ves01"
+                            >Веселицкий</persName> уехали из Кафы водою в <placeName
+                            ref="places.xml#ker01">Керчь.</placeName>
+                        <persName ref="people.xml#fil01">Филисовым</persName> приняты не ласково.
+                        Теперь нужно обещанную защиту дать Хану, свои границы и его, нашего друга,
+                        охранить. Все сие мы б с тобою в полчаса с тобою положили на меры, а теперь
+                        не знаю, где тебя найти. Всячески тебя прошу поспешить своим приездом, ибо
+                        ничего так не опасаюсь, как что-нибудь проронить или оплошать. <seg
+                            xml:lang="fr">Adieu, mon cher Ami, revenes au plus vite, portes--Vous
+                            bien,</seg> а обо мне будь уверен, что я тебя, как душу, люблю.
+                        Денег пошлю и суда наряжу, а о войсках полагаюсь на тебя, также -- кого
+                        пошлешь. Ведь ты горазд избрать надобного. <seg xml:lang="fr">Cette
+                            affaire me parait delicate parce qu'elle peut avoir des suites, qu'il
+                            serait bon d'eviter encore quelque terns.</seg></p>
+                    <p> Агличане жестоко побили на море: французский Адмирал с четырьмя кораблями
+                        взят в полон у острова <placeName ref="places.xml#dom01">Доминго</placeName>
+                        близ <placeName ref="places.xml#jam01">Ямайки.</placeName> При сем прилагаю
+                        цыдулу человека, тебе крайне привязанного, и который жестоко по тебе
+                        тоскует.</p>
+                    <closer><signed><date when-custom="1782-06-03">Июня 3 ч., 1782 г.</date> Пятница по утру
+                        </signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

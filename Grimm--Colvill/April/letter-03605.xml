@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03605</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03605</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter is ostensibly from AD Lanskoy to Grimm, but the letter is written entirely in
+     Catherine’s hand, save for Lanskoy’s signature.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-07">07-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:19:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03605">
+  <body>
+   <opener>
+    <dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, се <date
+      when-custom="1784-03-01">1 mars 1784</date>.</dateline>
+    <salute hand="people.xml#lan02">Monsieur,</salute></opener>
+   <p>J’ai eu l’honneur de recevoir votre lettre du 12 (23) janvier par la poste d'hier; je l’ai
+    portée tout de suite à notre très chère <persName ref="people.xml#cat01">
+    Impératrice</persName>, et je l’ai laissée chez S. M., qui me la rendra aujourd’hui accompagnée
+    de son commentaire impérial; par conséquent, Monsieur, votre abstinence cette fois-ci sera
+    raccourcie. <persName ref="people.xml#cat01"> S. M. I</persName>. proteste contre le titre de
+    redoutable que vous lui prodiguez, à ce qu’elle prétend, et elle m’ordonne de vous dire que ce
+    titre-là sent la moustache, et qu’il n’a pu être qu’une suite du mauvais et rude hiver que vous
+    avez essuyé, ou aussi une suite des visions que produit l’abstinence; tout ceci, comme vous
+    voyez, coule de source et je n’y suis pour rien. Pour vous égayer un moment, Monsieur, je vous
+    dirai que <persName ref="people.xml#lan03"> mon frère</persName>, auquel vous avez bien voulu
+    vous intéresser, est présentement en <rs ref="places.xml#cri01"> Tauride</rs>, à <placeName
+     ref="places.xml#feo01"> Théodosie</placeName>, ci-devant <rs ref="places.xml#feo01"> Kafa</rs>,
+    que de là il ira dans l’endroit où anciennement Iphigénie exerça la fonction de prêtresse, et
+    qu’il aura tout le temps d’examiner à fond les lieux d’où partirent Oreste et Pylade. Je les
+    quitte, Monsieur, pour vous témoigner la part sincère que je prends à la situation qui vous fait
+    dire qu’heureux sont ceux qui n’aiment rien. Hélas! je n’en suis pas là: ce monde est une
+    étrange chose, et le nombre des heureux est fort petit. Je vois bien que M. le comte de
+     <persName ref="people.xml#bau04"> Baudouin</persName> ne saurait l’être sans vendre son cabinet
+    de tableaux, et il paraît que je suis destiné à lui prouver ce bonheur. J’ai une grande maison à
+    arranger, à meubler, à laquelle je cours tous les jours, et qui, malgré l’ardeur, la chaleur et
+    l’activité que j’y mets, n’est encore qu’une grande bâtisse sans portes, fenêtres, planchers,
+    plafonds, cheminées etc. etc. etc. Mais, à cela près, c’est une très belle maison que je casse,
+    renverse, bâtis et rebâtis tous les jours et avec laquelle j’occupe plus d’un architecte. Le
+    commentaire lmp. me dicte qu’à la suite de cette lettre partiront des créditifs sur votre nom.
+    Monsieur, pour la somme de cinquante mille roubles, afin que vous soyez mis en état de conclure
+    marché avec le susdit comte de <persName ref="people.xml#bau04"> Baudouin</persName> pour son
+    cabinet de tableaux en entier. Or, s’il fallait plus que cela, le restant ne manquera pas de
+    suivre dès que nouvelle en viendra ici à votre très humble serviteur, ou à son secrétaire dont
+    vous n’ignorez pas le nom, Monsieur, ni l’écriture non plus, à ce qu’il m’assure. Ce secrétaire
+    est, comme vous savez, un fort bon et doux personnage, dont je suis bien aise de dire du bien en
+    passant, d’autant plus volontiers qu’il fait assez exactement son devoir, qu’il est assidu,
+    alerte, gai et tout à fait bon diable; qu’il me sert sans gâges de sa plume, et quelquefois,
+    plus que je ne veux, de ses conseils.</p>
+   <p>Il m’a dit que vous le trouviez un original plaisant; j’espère que vous l’avez trouvé toujours
+    plus véridique que le docteur <persName ref="people.xml#sam03"> Samoïlewitz</persName>: celui-ci
+    a le droit d’exercer son art; il faut espérer que ce ne sera point aux dépens de son prochain.
+    NB. Le commentaire lmp. se récrie fortement contre l’expression de prescrire des lois aux
+    voisins, parce que nous prétendons n’avoir rien fait que de très raisonnable et ce que tout
+    autre (excepté <rs ref="people.xml#geo02"> les fr. G</rs>.) à notre place aurait fait, car il
+    est notoire que les comptoirs des <rs ref="people.xml#geo02"> fr. G</rs>. n’ont fait que des
+    pertes; aussi nous ne mêlons point nos actions avec celles de ces gens-là; j’espère, Monsieur,
+    que vous trouverez cela l’on ne peut plus compatible avec la vérité et le bon sens. L’<title
+     ref="works.xml#sleepi01">Endymion</title> du sieur <persName ref="people.xml#shc02">
+     Chedrine</persName> repose à l’ <placeName ref="places.xml#her01"> hermitage</placeName> en
+    compagnie des meubles faits à <placeName ref="places.xml#neu01"> Neuwied</placeName>. Il serait
+    utile et bon à savoir de quelle grandeur peut être le plan en-relief de la ville de <placeName
+     ref="places.xml#rom01"> Rome</placeName> de l’ingénieur mathématicien Grimani. </p>
+   <closer><signed rend="inline">Soyez assuré que personne ne saurait être avec plus d’estime et
+     d’attachement que je le suis, Monsieur, votre très humble et très obéissant serviteur <persName
+      ref="people.xml#lan02" type="signature"> Lanskoi</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03600</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03600</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-02">02/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:53:43Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03600">
+  <body>
+   <div>
+    <opener><dateline>A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1783-06-01">1 juin 1783</date>, À dix heures du matin.</dateline></opener>
+    <p>Revenue du jardin où j’ai laissé <persName ref="people.xml#ale01"> M. Alexandre </persName>et
+     le S<hi rend="superscript">r </hi><persName ref="people.xml#kon01">
+     Constantin </persName>jusqu’au cou dans un ruisseau, occupés à pêcher avec un filet du poisson,
+     le <rs ref="people.xml#bez01"> seigneur factotum</rs> m’a annoncé qu’il allait dépêcher
+     messager exprès vers le lieu de votre résidence, et m’a prescrit de tenir prêtes dépêches
+     longues ou courtes. Or, il est bon que vous sachiez que le huit de ce mois je m’en vais
+      en <placeName ref="places.xml#fin01"> Finlande</placeName> pour y avoir une entrevue avec mon
+     très cher frère et cousin le <persName ref="people.xml#gus01"> roi de <placeName
+       ref="places.xml#swe01">Suède</placeName></persName> à <placeName ref="places.xml#fre01"
+      >Fredrikshamn</placeName>, comme nous en sommes convenus lorsque nous nous quittâmes
+      à <placeName ref="places.xml#pet02">Peterhof</placeName>, c’est-à-dire que si lui il venait
+     dans sa <placeName ref="places.xml#fin01"> Finlande</placeName>, moi j’irais dans la mienne et
+     que <persName ref="people.xml#bru02"> le comte Bruce</persName> commandant les troupes dans la
+     province nous logerait dans les baraques de <placeName ref="places.xml#fre01"
+      >Fredrikshamn</placeName>. Quand vous recevrez ceci, il y aura longtemps que tout cela sera
+     passé, parce que je ne resterai là que trois jours.</p>
+    <p>Tout le monde convient que <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName> ce
+     printemps est un paradis: depuis que j’y suis, nous avons le plus beau temps du monde, et je me
+     promène tant que je puis; en vérité, j’en avais un grand besoin après tous les chagrins que
+     j’ai eus des pertes que j’ai faites: depuis le 14 d’octobre je n’ai pas eu un moment de repos,
+     et la perte du <persName ref="people.xml#orl01"> pr. Orlof</persName> m’a mise au lit avec une
+     fièvre si forte, avec un délie si fort pendant la nuit qu’on a été obligé de me saigner le 1 de
+     mai à midi. Je ne vous parle point de la perte que vous avez faite, parce qu’il ne faut point
+     nourrir les idées tristes ni les renouveler; soyez assuré que j’ai partagé vos peines tout
+     comme je suis persuadée que vous avez pris part aux miennes. Comment se porte <persName
+      ref="people.xml#bue01"> Emilie</persName>? où est-elle? <seg xml:lang="it"> Basta</seg>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1783-06-03">3 juin</date>. </dateline></opener>
+    <p>Parlons de choses agréables. Si vous voyiez comme <persName ref="people.xml#ale01"> M.
+      Alexandre</persName> bêche la terre, sème des pois, plante des choux, laboure avec la charrue,
+     se sert de la herse, puis tout suant va se laver dans un ruisseau, après quoi il prend son
+     filet et à l’aide du Sr <persName ref="people.xml#kon01"> Constantin</persName> les voilà dans
+     l’eau pour pêcher du poisson; là ils séparent les brochets d’avec les perches, parce que,
+     dit-il, les brochets mangent les autres poissons; il faut donc les tenir à part de là. Pour se
+     reposer, il va chercher son maître à écrire ou son maître à dessiner; il apprend chez l’un et
+     l’autre selon la méthode des écoles normales; nous faisons tout cela de notre propre gré, avec
+     un égal désir, et sans nous apercevoir seulement que nous faisons tout cela, et l’on ne nous
+     oblige à rien; aussi sommes-nous gai et frais comme des poissons; il n’y a ni gronderie, ni
+     humeur, ni entêtement, ni pleurs, ni cris; nous prenons un livre pour lire avec la même
+     disposition avec laquelle nous sautons dans un esquif pour ramer; c’est encore dans cet esquif
+     qu’il faut nous voir. <persName ref="people.xml#ale01"> Alexandre</persName> est d’une force et
+     agilité étonnantes; l’autre fois le <persName ref="people.xml#lan02"> g-l Lanskoï</persName>
+     lui a apporté un <seg xml:lang="de"> Panzerhemd</seg> qu’en vérité j’avais de la peine à lever
+     d’une main. <persName ref="people.xml#ale01"> M. Alexandre</persName> s’en est emparé et s’est
+     mis à courir avec une telle agilité qu’on a eu de la peine à le ratrapper.</p>
+    <p><seg xml:lang="de"> Excusiren Sie, wenn ich ein Blatt Papier genommen habe, was nicht ganz
+      ist; bei der dritten Seite habe ich es erst gemerkt.</seg>
+    </p>
+    <p>Imaginez-vous ce qui m’est arrivé hier: ne voilà-t-il pas que M. <persName
+      ref="people.xml#nic02"> Friedrich Nicolaï</persName> de <placeName ref="places.xml#ber01"
+      >Berlin</placeName> m’envoie imprimée en allemand la traduction d’une partie de la
+     bibliothèque Alexandrine.</p>
+    <p>Que dites-vous de la première époque de l’histoire de <placeName ref="places.xml#rus01"
+      >Russie</placeName>? Faut-il vous envoyer le reste? Ou bien cela vous ennuie-t-il?</p>
+    <p>Ce 7 juin. Pour récompenser M. <persName ref="people.xml#nic02"> Friedrich Nicolaï</persName>
+      de <placeName ref="places.xml#ber01">Berlin</placeName> de ce qu’il m’envoie tout ce qu’il
+     écrit lui-même, je viens de lui envoyer le manuscrit de toute la bibliothèque Alexandrine
+     traduite en allemand; que dites-vous de cela encore?</p>
+    <p>Voilà mon voyage de <placeName ref="places.xml#fre01">Fredrikshamn</placeName> réduit ou
+     remis, parce que le héros suédois, par maladresse et puisqu’il est mauvais écuyer, est tombé de
+     cheval et s’est cassé le bras gauche entre l’épaule et le coude en biais; avec cette belle
+     nouvelle il m’a envoyé un gentilhomme de sa chambre. Je me serais bien passée de pareille
+     nouvelle, lui ai-je tait dire: j’aime les bonnes, point les mauvaises nouvelles. Quel temps
+     fait-il chez vous? On meurt de chaud chez nous. N’est-il pas vrai que cela ressemble aux
+     questions que faisait <persName ref="people.xml#bur02"> Burigni</persName> chez <persName
+      ref="people.xml#geo04"> Mad. Geoffrin</persName> pour faire sentir qu’il était revenu en
+     carrosse à la maison? Vous n’aurez pas grand’chose de chez moi présentement, parce que je suis
+     pauvre comme un rat d’église dans ce moment-ci; mais aussi vous avez eu tant d’envois cet hiver
+     que vous excuserez de n’avoir rien cette fois-ci. A propos, dans la ville on dit tantôt que
+     nous aurons la guerre avec les Turcs, et tantôt que nous ne l’aurons pas: je n’en sais pas plus
+     que le public là-dessus; arrivera ce qu’il pourra. J’écris l’histoire du vieux temps, et j’en
+     suis à l’année 1137. Il me roule dans la tête que l’histoire des contemporains par siècles
+     pourrait jeter une grande lumière sur les choses, et comment elles ont été, et surtout sur
+     l’histoire ancienne.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1783-06-10">10 juin</date>. </dateline></opener>
+    <p>Dans ce moment l’on m’apporte la tabatière que feu le <persName ref="people.xml#bau01"> g-l
+      Bauer</persName> a fait faire par mon ordre pour M. <persName ref="people.xml#buf02"> De
+      Buffon</persName>; c’est avec cette pierre qu’on pave la chaussée qui mène de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName> à <placeName ref="places.xml#pet02"
+      >Peterhof</placeName>; feu <persName ref="people.xml#bau01"> Bauer</persName> prétend que
+     c’est la même que celle qu’on a trouvée dans la terre de <placeName ref="places.xml#lab01">
+      Labrador</placeName> et qui prend toute sorte de couleurs à mesure qu’on la tourne. Quelqu’un
+     à l’ <orgName ref="orgs.xml#acad01"> Académie</orgName> ici s’est vanté d’en avoir une petite
+     pierre, et alors <persName ref="people.xml#bau01"> Bauer</persName> lui en promit pour le
+     lendemain une charrette; j’en ai montré une botte au comte de <persName ref="people.xml#buf01">
+      Buffon</persName> fils. Je vous prie, M. le <rs ref="people.xml#gri01">souffre-douleur</rs>, d’avoir la bonté d’envoyer de ma
+     part cette boîte à <persName ref="people.xml#buf02"> M. le comte de Buffon père</persName>;
+     c’est lui qui décidera si cette pierre mérite qu’on en fasse cas. </p>
+    <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01">souffre-douleur</rs> impérial ; pour aujourd’hui je n’ai plus
+      rien à vous dire ; ma si factotum continue à lambiner, je ne jure pas que cette dépêche ne
+      devienne ample comme le ventre du feu <persName ref="people.xml#fre03"> baron
+       Friedrichs</persName> d’épaisse mémoire.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

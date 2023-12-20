@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02723</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02723</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Query date – no month when the editor’s added New
+     Style date is removed.</p><p> Cabarda – unknown location. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-12">12-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:19:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02723">
+  <body>
+  
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St.
+      Petersb</placeName> : ce <date when-custom="1769-10-22">22 1769</date></dateline></opener>
+   <p>Monsieur, <placeName ref="places.xml#cho02"> Chotzin</placeName>
+     est pris et l'Armée Turque est anéantie. Les combats
+    du 23 du 29 d'Août et surtout celui du 6<hi rend="superscript">e</hi>Septembre l'avoit considérablement diminué, ce voyant ainsi
+    toujour battu et toujour ramené au combats elle pris la fuite de même que la garnison de la
+    place, et abandona trente cinq Canon de fonte dans son Camp. On a trouvé la place munie
+    suffisament de canons d'Armes et de munitions de guerre et de bouche. Nos trouppes légères leurs
+    ont donée la chasse, et à plus de quarante Werstes de la Ville il n'y a plus d'enemis de façon
+    que le Général me mande qu'il va envoyer des trouppes à <placeName ref="places.xml#ias01">
+    Yassi</placeName>, Capitale de la <placeName ref="places.xml#mol01"> Moldavie</placeName>. J'espère Monsieur
+    que ses nouvelles ne Vous seront point désagréables, et s'est pour cela que je me hâte de Vous
+    les faire parvenir, je répondrai dans peu à Vos deux lettre dont la dernière est du 2 de
+    Septembre.</p>
+   <closer>Adieu Monsieur porté Vous bien et mocquons nous de Moustapha le Victorieux.
+    Apropos j'ai entendu dire qu'on avoit défendu de rendre mon <rs ref="works.xml#nakazk01"
+     > Instruction</rs> pour le Code à <placeName ref="places.xml#ist01">
+     Constantinople</placeName> et à <placeName ref="places.xml#par01"> Paris</placeName>.
+   <signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+ <postscript>  <p>PS. J'ai vue Monsieur par Votre lettre au Cte: <persName
+     ref="people.xml#shu01"> Schouvalow</persName>, que la prétenduë dévastation de la nouvelle
+    Servie que les Gazettes Fanatiques ont tant prônée Vous avoit donée quelque apréhension,
+    Cependant il est très vrai que les Tartares quoiqu'ils ayent attaqué nos frontières de trois
+    côté ayant trouvé partout une résistance considérable ce sont retiré sans causer de domages
+    considérables, Toutte cette expédition n'a duré que trois jours, durant un froid excessif mêlée
+    de vent et de neige, ce qui a causé beaucoup de perte au Tartares tant en homes qu'en
+    chevaux.</p>
+   <p>Mais que dirés Vous Monsieur lorsque Vous saurés que les
+     belles Czircassienes, indignées d'être enfermées à <placeName ref="places.xml#ist01">
+      Constantinoples</placeName> dans des sérails, come des Animaux
+     dans une écurie, ont persuadés à leurs pères et frères de ce soumettre à la <placeName ref="places.xml#rus01"> Russie</placeName>. Le
+     fait est que les Czircassiens des montagnes m'ont prêtées serment de fidélité, ce sont ceux qui
+     habite le pays nomé Cabarda, et s'est une suite de la Victoire qu'ont remporté nos Kalmucks
+     soutenu de troupes régulières sur les Tartares de <placeName ref="places.xml#kub01">
+      Kouban</placeName> sujet de Moustapha qui habitent le pays que
+     traverse la rivière de ce nom au de là du <placeName ref="places.xml#tan01">
+      Tanaïs</placeName>.</p></postscript>
+  </body>
+ </text>
+</TEI>

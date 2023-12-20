@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09084</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09084</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#navy"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-28">2023-06-28</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09084"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-09-12">1788 г. 12 сентября.</date>
+                </dateline>
+            </opener>
+            <p>Есть <placeName ref="places.xml#swe01">Шведам</placeName> теперь чем справедливо чваниться, понеже взяли у нас слишком сто пушек на Кильдюме
+                <note type="editorial">
+                    Kil'diuin was a Russian transport ship that was captured by Swedish navy on <date when-custom="1788-08-05">August 5 1788</date> (
+                    <bibl>
+                        <title ref="works.xml#ruflot01">Materialy dlia istorii russkogo flota. Chast' 13</title>
+                        , <biblScope unit="pp">pp. 427.</biblScope>
+                    </bibl>
+                    ).
+                    </note>. Каким образом сие транспортное судно отправлено было из <placeName ref="places.xml#cop01">Копенгагена</placeName> и зачем, поныне не понятно. Знали, что <placeName ref="places.xml#swe01">шведские</placeName> фрегаты тут крейсируют,—три (трем?) стопушечным кораблям в виду. <placeName ref="places.xml#swe01">Шведы</placeName> увели оное, а стопушечные были зрителями. <persName ref="people.xml#pov01">Повалишин</persName> был столь близок, что <rs ref="people.xml#pov01">ему</rs> можно было доехать и свои пушки взять в <placeName ref="places.xml#cop01">Копенгагене</placeName> с транспортных. Буде же шли к городу, то на что их отпустили без конвоя до безопасной вышины?</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02785</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02785</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass> 
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#legislation"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:35:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02785">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St: Petersb:</placeName> ce <date when-custom="1777-10-01">i d'Octobre 1777</date></dateline></opener>
+   <p>Monsieur, Pour répondre avec ordre à Vos lettre, il faut que je Vous dise
+     premièrement que si Vous êtes content du <persName ref="people.xml#yus01">
+      Pr: Joussoupof</persName> je
+     dois lui rendre le témoignage qu'il est enchanté et de l'accueil que Vous avés bien voulu lui
+     faire et de tout ce que Vous avés dis pendant le tems qu'il a eu le plaisir de Vous
+    voir.</p>
+   <p>Secondement je ne saurai Vous envoyer Monsieur un recueil de mes loix, parcequ'il n'en existe
+    pas encore. L'année 1775 j'ai fait publier des <rs ref="works.xml#provin01">règlemens</rs> pour le gouvernement
+    des Provinces, ceux si ne sont traduit qu'en Allemand. La pièçe qui est à la tête rend raison du
+    pourquoi de ses arrangemens, c'est une pièçe estimé à cause de la manière précise et consise
+    dont y sont décrit les fait Historiques des différentes époques. Je ne croit pas que ses
+    règlemens puissent servir aux treize cantons, mais je Vous envoye un exemplaire pour la
+    bibliothèque du château de <placeName ref="places.xml#fer01"> Ferney</placeName>. Notre édifice Lesgislatif
+    s'élève peu à peu, le fondement en est l'instruction pour
+    le <rs ref="works.xml#nakazk01">Code</rs> que je Vous ai envoyé il y a dix ans, Vous verrés que ses règlemens
+    ne déroge point aux principes, mais qu'ils en découlent. Ses règlemens seront suivi de ceux de
+    finances, de Comerce, de Poliçe etc: lesquels nous occupent depuis deux ans, après quoi le
+     <rs ref="works.xml#nakazk01">Code</rs> ne sera qu'un ouvrage aisé et façile.</p>
+   <p>Voiçi l'idée que je m'en fait pour le criminel, les crimes ne sauroit être en grand nombre, de
+    proportioner les peines aux crimes. Je crois que cela demande un travail à part. Je pense que la
+    nature et la force des preuves et des présomptions pourroit être réduites à une forme méthodique
+    très simple, des demandes éclairçiroit le fait. Je suis persuadée et je l'ai établie que la
+    meilleure des procédures Criminelles et la plus sûre est celle qui fait aller ses sortes de
+    matières dans un tems fixé par trois instances, sans quoi la sûreté personelle pourroit être à
+    la merçi des passions, de l'ignorance, des balourdises involontaires, ou des têtes chaudes.</p>
+   <p>Voilà des précautions qui pourroit ne pas plaire au St: office soit disant, mais la raison a
+    ses Loix contre les quelles tôt ou tard le déraisonement échouë. Je me flatte que la société de
+     <placeName ref="places.xml#ber03"> Berne</placeName> parceque Vous en êtes approuvera cette façon de
+    penser. Soyés assurés Monsieur que la miene à Votre égard n'est soumise à aucune variation.</p>
+   <p>J'oubliai de Vous dire que l'expérience depuis deux ans nous persuade que
+     la Cour d'Equité établie par mes Règlement, devient le tombeau de la Chicane.</p>
+  </body>
+ </text>
+</TEI>

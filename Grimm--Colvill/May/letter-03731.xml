@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03731</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03731</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:08:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03731">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-06-27">27 juin 1796</date>.</dateline></opener>
+    <p>Réponse au No 10, ou peut-être tout autre chose. Si j’étais <persName ref="people.xml#lou09">
+      Louis XVIII</persName>, ou bien je ne serais pas sortie de <placeName ref="places.xml#fra01">
+      France</placeName>, ou bien aussi il y aurait longtemps que j’y serais rentrée malgré vent et
+     marée, et cette sortie ou rentrée n’aurait dépendu que de moi, exclusivement puissance humaine.
+     J’y aurais pris consistance dépendante de mon caractère, et j’y aurais joué rôle très
+     signifiant malgré toutes les autorités constituées ou non constituées, et l’on aurait dit:
+     «Voilà un drôle qui ne se mouche pas du pied», et comme j’aurais en un droit mieux fondé que
+     celui de tout autre, je l’aurais emporté sur les régicides, procureurs et avocats, tous tant
+     qu’ils sont, et j’aurais rangé toute la nation de mon côté, avec quoi j’aurais été roi
+      de <placeName ref="places.xml#fra01"> France</placeName> de fait comme de droit. <seg
+      xml:lang="it"> Basta per lei</seg>.</p>
+    <p>A propos de cela il faut que je vous rende compte de la manipulation des affaires
+      de <placeName ref="places.xml#swe01"> Suède</placeName> dont vous me parlez dans votre
+     dernière lettre; cette manipulation n’a été rien du tout. Elle a commencé par le refus
+     d’accepter le comte Schwerin, que <rs ref="people.xml#cha01"> Sidor Yermalaïtch</rs> avait
+     expédié ici avec la nouvelle de la déclaration du mariage du <rs ref="people.xml#gus02"> jeune
+      roi</rs>; un caprice féminin m’a pris de refuser de le recevoir, disant tout net que c’était
+     parce que je ne pouvais jamais lui répondre que l’objet de son envoi m’était agréable et que je
+     ne voulais pas non plus mentir pour les beaux yeux du <rs ref="people.xml#cha01"> régent</rs>.
+     M. Schwerin, qui voyageait fort vite apparemment, était déjà en deçà de <placeName
+      ref="places.xml#vib01"> Viborg</placeName> quand l’ambassadeur lui fit parvenir ma réponse;
+     toute ma politique, nommément mon vice-chancelier, furent très scandalisés de mon caprice, et
+     il s’en retourna comme il était venu. Peu de temps après il nous parvint que le jeune <persName
+      ref="people.xml#gus02"> roi</persName> n’aimait pas les Russes, ni les bossues, et que pour
+     cause de santé il tourmentait le <rs ref="people.xml#cha01"> régent</rs> de différer son
+     mariage jusqu’à sa majorité. Sur ces entrefaites M. de <persName ref="people.xml#bud01">
+      Budberg</persName> vint de votre bal en <placeName ref="places.xml#swe01"> Suède</placeName>,
+     et nous apprîmes ce que tout le monde sait à peu près, qu’on faisait des armements de côté et
+     d’autre; ceux-ci amenèrent des explications suivies de pourparlers; <persName
+      ref="people.xml#bud01"> Budberg</persName> eut ordre de revenir ici, après quoi il retourna
+      à <placeName ref="places.xml#sto01"> Stockholm</placeName> comme ambassadeur. Je n’ai pas de
+     nouvelles encore qu’il y soit arrivé. Mais comme on ne peut compter sur rien avec le <rs
+      ref="people.xml#cha01"> régent</rs> faible, double et faux, je n’en sais pas plus que vous ce
+     qui arrivera de tout cela, à moins que le jeune homme n’ait réellement du caractère, de quoi il
+     y a, il faut l’avouer, quelques indices marquants.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-06-27">27 juin 1796</date>.</dateline></opener>
+    <p>Son <rs ref="people.xml#gri01"> excellence souffre-douleurienne</rs> est avertie que
+      <persName ref="people.xml#mez02"> Mézentsof</persName> est arrivé ce matin avec les pancartes
+     13 et 14-ème, qui contiennent une demande expresse de répondre sur-le-champ s’il faut partir ou
+     ne pas partir cette année-ci, et cela encore par eau. Mais vous n’y pensez pas, <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>; cette réponse ne peut vous parvenir qu’à la fin
+     de juillet n. st. Comment puis-je vous conseiller d’aller à <placeName ref="places.xml#lub01">
+      Lübeck</placeName> vous embarquer au mois d’août, qui est si orageux dans la <placeName ref="places.xml#bal01">
+     Baltique</placeName> que notre règlement de marine ordonne expressément la rentrée des flottes dans ce mois
+     à cause des orages. Je vous l’ai dit, et je vous le répète, d’aller à <placeName
+      ref="places.xml#kar04"> Carlsbad</placeName>, d’y prendre les eaux et de venir ici plutôt au
+     mois de mai et de juin de l’année qui vient que d’y venir au risque de périr sur mer. Je suis
+     bien aise que le pupille vous ait guéri des maux de nerfs que vous donnaient les circonstances
+     de l’<placeName ref="places.xml#ita01"> Italie</placeName>. Votre danseur n’a fait que passer
+     comme voyageur revenant ici. Mais il s’en est retourné avec caractère à déployer. Or, de tout
+     cela la manipulation était très aisée, les parties intéressées s’entendant assez pour vouloir
+     la même chose. Laissez venir cet autre: cinquième roue au carrosse ne saurait plus rien gâter à
+     l’omelette, avec l’aide de Dieu, et vous verrez ce que vous verrez. Si l’on se verra, on se
+     verra, et si l’on se verra, on se plaira ou ne se plaira pas: les volontés sont très libres de
+     part et d’autre, et si l’on ne se verra pas, on restera chacun chez soi sans s’être vu, ni plu.
+     Tout cela sera fait ou non fait avant que vous recevrez cette précieuse pancarte. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien, et moi aussi me porte très
+     bien.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

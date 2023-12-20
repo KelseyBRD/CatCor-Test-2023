@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09131</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09131</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#finance"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-06">2023-07-06</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09131"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1791-05-23">1791 г. мая 23.</date>
+                </dateline>
+            </opener>
+            <p>Напишите сами ответ к <persName ref="people.xml#spr01">Спренгпортену</persName> и велите отписать ответ к нему от графов: <persName ref="people.xml#ost05">Остермана</persName> и <persName ref="people.xml#bez01">Безбородки</persName>.
+                <note type="editorial">
+                    Catherine mentions a letter that A.V. Khrapovitskii received from baron Sprengtporten on <date when-custom="1791-05-10">May 10</date>, in which Sprengtporten reports that court banker <persName ref="people.xml#sut01">Richard Sutherland</persName> who was responsible for administering financial transactions abroad and in particular for attending to the expenses involved in the running of Russian embassies in the European capitals failed to transfer him necessary funds (
+                    <bibl>
+                        <title ref="works.xml#suther01">The Sutherland Affair and Its Aftermath</title>
+                        , <biblScope unit="pp">pp. 257.</biblScope>
+                    </bibl>
+                    ) and that counts Bezborodko and Ostermann did not respond to his requests either ( 
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 257.</biblScope>
+                    </bibl>
+                    ) A.V. Khrapovitskii notes in his diary under <date when-custom="1791-05-23">May 23</date> "Выговоръ Сутерланду" ( 
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 257.</biblScope>
+                    </bibl>
+                    ). These events became premise to Sutherland's affair which with further reports from Russian ambassadors and investigations made by <persName ref="people.xml#der02">Derzhavin</persName> uncovered that Sutherland misappropriated sums in amount of two million roubles (
+                    <bibl>
+                        <title ref="works.xml#suther01">The Sutherland Affair and Its Aftermath</title>
+                        , <biblScope unit="pp">pp. 259.</biblScope>
+                    </bibl>
+                    )
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

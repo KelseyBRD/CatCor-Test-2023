@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01108</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01108</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>   
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#birthday"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>          
+            <editorialDecl>
+                <p/>
+            </editorialDecl>         
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-22">2021-02-22</date>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>     
+            <change>
+                <date when="2021-03-06">2021-03-06</date>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>      
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01108"> 
+        <body>      
+            <opener><salute><persName ref="people.xml#pan01">Никита Иванович!</persName></salute></opener>
+            <p>Поздравление Ваше со днем моего рождения тем мне приятнее, чем более
+                свидетельствует оное известное Ваше ко мне усердие, которое, приобретши
+                мое благоволение, заслуживает, чтоб я навсегда была Вам
+                доброжелательною.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+            <placeName ref="places.xml#tai01">Село Тайнинское.</placeName><lb/>
+            <dateline><date when-custom="1763-04-21">21 Апрель, 1763 год.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>
+

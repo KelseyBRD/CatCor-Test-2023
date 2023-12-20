@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02711</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02711</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Nephew of ‘Abbé Bazin’ (Pierre Henri Larcher) a guise
+     for Voltaire to reply. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-08">08/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:27:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02711">
+  <body>
+
+   <opener><dateline> [<date when-custom="1765-05-01">May/June 1765</date>]
+   </dateline></opener>
+   <p>L'<persName ref="people.xml#cat01">Impératrice</persName> de
+      <placeName ref="places.xml#rus01">Russie</placeName>, est très
+      obligée au <rs ref="people.xml#vol01">Neveu</rs> de <persName ref="people.xml#lar01">l'Abbé Bazin</persName> de ce
+      qu'il Lui a bien voulu dédier <rs ref="works.xml#larche01">
+      l'Ouvrage de
+      son Oncle</rs>, qui assurément n'a rien de commun avec <persName ref="people.xml#cha12">Abraham Chaumeix</persName>,
+      maître d'école à <placeName ref="places.xml#mos01">Moscou</placeName> où il enseigne
+      l'abc à des petits enfans.Elle a luë ce beau livre d'un bout à
+     l'autre avec beaucoup de plaisir, et ne s'est point trouvée supérieure à ce qu'Elle a luë
+     parcequ'elle fait partie de ce genre humain si rempli, et si enclain à goûter les absurdités
+     les plus étranges; Elle est persuadée que ce livre ne manquera pas d'en éprouver sa part, il
+     sera infailliblement purifié par le feu, à Paris, ce qui lui donnera un lustre de
+    plus.</p>
+   <p>Come le <rs ref="people.xml#vol01">Neveu</rs> de <persName ref="people.xml#lar01">l'Abbé Bazin</persName> a gardé un profond silence sur le
+     lieu de sa résidence, on addresse cette réponse à Monsieur de <persName ref="people.xml#vol01">Voltaire</persName> si
+     reconnu pour protéger et favoriser les jeunes gens dont les talens font espérer qu'ils seront
+     un jour utile au genre humain; cet Illustre Auteur est prié de faire parvenir à sa destination
+     ses peu de lignes. Il ne saurait trouver mauvais en cas qu'il ne connoisse point le neveu de
+     <persName ref="people.xml#lar01">l'Abbé Bazin</persName> qu'on lui indique ce jeune home de mérite, ce qui sera l'excuse de cette
+     démarche.</p>
+  </body>
+ </text>
+</TEI>

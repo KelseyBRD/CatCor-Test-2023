@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01072</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01072</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-30">30-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:23:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01072">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1786-10-11">11 d’octobre 1786</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’ambassadeur de V. M. I. comte de <persName ref="people.xml#cob02">
+     Cobenzl</persName> m’a remis aujourd’hui la lettre qu’il a plu à V. M. I. de m’écrire en date
+    du 30 d’août. Le contenu de cette lettre et tout ce que <persName ref="people.xml#cob02">
+     l’ambassadeur</persName> y a ajouté de bouche, m’a comblée de satisfaction. Je prie instamment
+    V. M. I. d’être persuadée de la parfaite réciprocité de mes sentiments pour Elle, de l’amitié
+    parfaite et sincère que je lui ai vouée pour la vie, de la très-haute considération et estime
+    sans égale avec laquelle je suis ....</p>
+  </body>
+ </text>
+</TEI>

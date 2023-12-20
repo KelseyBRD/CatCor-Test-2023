@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02832</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02832</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+ 
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#catherineasauthor"/> 
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find An Elisa the poem mentioned</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-20">20-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:30:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02832">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName> ce <date when-custom="1788-05-06">6. May 1788</date>. </dateline></opener>
+   <p>Vous direz, Monsieur, que je suis un correspondant peu exact et vous aurés raison. Je vous
+    dois deux réponses à vos lettres du 14. Mars et 25. d’Avril, la première m’annonce l’arrivée du
+    bonnet fourré et compagnie, leur succès, particulièrement celui du premier devant le miroir, il
+    paroit avoir mieux réussi que les arrangements projetées au sujet du sieur <persName
+     ref="people.xml#for01"> Forster</persName>, qu’on a je crois dissuadé de venir ici. J’ai écrit
+    pour ce qui regarde le docteur <persName ref="people.xml#mey01"> Meyer</persName> au maréchal
+     Prince <persName ref="people.xml#pot01">Potemkin</persName>, je m’envais lui demander ce qui a
+    été fait en conséquence; je ne sais, si ce <rs ref="people.xml#mey01"> médecin</rs> pourra être
+    placé à <placeName ref="places.xml#vor01"> Woronetch</placeName>, parcequ’il ne seroit pas
+    juste. Vous en conviendrés de déplacer un autre, si cette place est bien remplie. Jamais
+    pensions ni gratifications ne se sont perdues chés nous, ainsi vous pouvés être tranquille à cet
+    égard, je vous promet de prendre ample information sur tout ce qui regarde vos protégés de la
+     <rs ref="places.xml#cri01"> Tauride</rs>. La demoiselle malade, sur les maux de laquelle je
+    vous ai prié de dire votre avis, est un peu mieux. Je n’ai point reçue encore votre <rs
+     ref="works.xml#friedr01"> ouvrage</rs>, Monsieur, qui est entre les mains de Mr. Gross à
+     <placeName ref="places.xml#ham01"> Hambourg</placeName>. Les jugemens des courtisans sont
+    ordinairement de la classe de ceux qui méritent le moins d’attention. Ces gens là, quoiqu’ils
+    portent le nez haut, ils ont la vue courte et gâtée par la lorgnette, dont ils font
+    continuellement usage, ils ressemblent à ceux qui se tiennent au pied d’une tour, les choses qui
+    sont au haut de la tour à vue d’oiseaux, communément leurs échappent.</p>
+   <p>Si votre imagination ne quitte point la route de <placeName ref="places.xml#ist01"
+     >Constantinople</placeName>, vous courerés risque de ne pas nous rencontrer et de vous heurter
+    contre ceux qui désirent ardemment de nous embarrer le chemin.</p>
+   <p>Vous me dites, Monsieur, que j’ai pour moi „le zèle et les voeux de tout ce qui dans chaque
+    pays raisonne sans préjugé et sans passion“; assurément il me seroit flatteux d’avoir un tel
+    parti, mais il faudra convenir aussi qu’il ne sera pas fort nombreux. Trois choses m’ont fait
+    toujours grand bien dans le monde: <seg xml:lang="it"> Primo</seg>, la passion qu’avoient contre
+    moi mes envieux. <seg xml:lang="it"> Secondo</seg>, les mauvais moyens, la duplicité et les
+    mensonges de mes ennemis. <seg xml:lang="it"> Tertio</seg>, comme les uns et les autres
+    commençoient par se remplir l’imagination de chimères, ils agissoient en conséquence, ils se
+    trouvoient loin de la raison et de la vérité, à laquelle ils ne vouloient pas donner de
+    croyance, parcequ’elle n’étoit pas de leur gout.</p>
+   <p>Je crois les disçiples de <persName ref="people.xml#cag01"> Caliostro</persName> aussi bien
+    épaulés que ceux de <persName ref="people.xml#muh01"> Mahomet</persName> et leur visions plus en
+    vogue que jamais, c’est la secte des esprits foibles et fanatiques. J’ai lue avec plaisir le
+    poëme intitulé „An Elisa“, que vous m’avés envoyé. Je vous remercie de votre paraphrase, elle me
+    fait trop d’honneur. Ci joint vous trouverez <title ref="works.xml#qurana01"> l’Alcoran</title>
+    imprimé à <placeName ref="places.xml#pet01">Petersbourg</placeName>, que vous me demandez pour
+    la bibliothèque de l’université de <placeName ref="places.xml#got04"> Göttingue</placeName> ; je
+    trouve qu’il ne sauroit être mieux placé, je vous prie de l’envoyer ensemble avec la première
+    nouvelle que je vous manderai de quelques succès sur les <orgName ref="orgs.xml#turk01">
+     Turcs</orgName>.</p>
+   <p>Vos ouvrages assurément n’ont rien à craindre de ma bonne ni de ma mauvaise humeur, d’ailleurs
+    mon humeur est comme ma santé très légale, naturellement je suis fort guaie, quand je suis
+    incommodée même, je fais volontiers rire ceux qui m’entourent. Votre <rs
+     ref="works.xml#einsam01"> livre</rs> sur la solitude m’a guéri il y a quatre ans de
+    l’hypocondrie que m’avoit donné trop de sensibilité, qu’on avoit augmenté en voulant la détruire
+    et en s’y prenant trop mal adroitement. Je vous envoyé une <rs ref="works.xml#family01">
+     comédie</rs> sortie pendant cet hiver de la fabrique de trois précédentes; je souhaite que vous
+    l’honnoriés d’un sourire et que vous n’ayés jamais vu ni rencontré dans le monde de caractère
+    qui ressemble de près ou de loin à ce <rs ref="works.xml#family01"> „Hauslöffer“,</rs> dont il
+    est ici question; l’on dit qu’il est plus nouveau au théâtre que dans l’univers. Au reste soyés
+    assuré des sentimens d’estime que vous me connoissés pour vous.</p>
+   <closer><dateline>Je finis cette lettre ce <date when-custom="1788-05-28">28. de May 1788</date> </dateline></closer>
+  </body>
+ </text>
+</TEI>

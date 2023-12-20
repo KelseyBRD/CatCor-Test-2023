@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02739</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02739</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#southernprovinces"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:23:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02739">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1770-09-10">10/21 de septembre 1770</date></dateline></opener>
+   <p>Monsieur, Vous m'avés dit dans Votre dernière lettre que je devais Vous mander la prise
+     d'une demi douzaine de Ville. Je pense Vous avoir
+    déjà dit la nouvelle de la prise d'<placeName ref="places.xml#izm01"> Ismail</placeName> sur le
+     <placeName ref="places.xml#dan01"> Danube</placeName>, j'y ajoute aujourd'huy celle de la forteresse de
+     <placeName ref="places.xml#kil02"> Kilianova</placeName>. Après plusieurs jours de tranchée ouverte la
+    garnison Turque de cinq mille home a été renvoyée sur l'autre rive de la rivière. Les lettres de
+     <placeName ref="places.xml#mal01"> Malte</placeName> m'ont aporté la confirmation du grand combat naval
+    doné dans le <placeName ref="places.xml#chi03"> Canal de Scio</placeName>, et le lendemain de cette action
+    ma flotte a réduite en cendress 33 Vaisseaux Enemis qui s'étoit retiré dans le port de
+     <placeName ref="places.xml#kla01"> Liberno</placeName> en
+     <placeName ref="places.xml#asi01"> Asie</placeName>. J'espère Monsieur que Vous ne serés pas fâchée
+    d'apprendre que ceux qui prennent plaisir à nous faire battre sur le papier sont bien loin de
+    leur compte.</p>
+   <closer><signed>Je Vous prie de me conserver Votre Amitié et d'être assuré de la miene.
+   <persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

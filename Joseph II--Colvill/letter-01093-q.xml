@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01093</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01093</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I coded the minister Catherine mentions as Vorontsov, but I’m not sure if that is quite
+     right. Normally when she mentions an ambassador, she says ambassador rather than minister –
+     though this is not always the case.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:27:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01093">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, le <date
+      when-custom="1789-12-30">23 décembre 1789/3 janvier 1790</date></dateline></opener>
+   <p>Monsieur mon frère. En faisant mes remercîments à V. M. I. pour Sa lettre du 7 décembre n.
+    st., je m’acquitte en même temps de ceux que je Lui dois pour la part qu’Elle a bien voulu
+    prendre à l’importante conquête de <placeName ref="places.xml#ben01">Bender</placeName> faite
+    par mes armes. Il est vrai que les événements de cette campagne ont été si heureux pour notre
+    cause, qu’ils ne nous ont rien laissé à désirer que de les voir couronnés par une paix
+    prochaine. Cet objet de nos voeux n’aurait pas probablement manqué d’être également rempli, s’il
+    n’était traversé par les intrigues et les mauvais desseins de nos ennemis secrets. Mais nous
+    avons du moins cette idée consolante de n’avoir rien négligé de ce qui pouvait nous conduire à
+    ce but salutaire, et j’aurais regardé comme un des plus sûrs moyens de l’atteindre, la démarche
+    que V. M. I. a jugée à propos de faire faire auprès de la Cour de <placeName
+     ref="places.xml#lon01">Londres</placeName>, si je n’avais sujet d’appréhender que l’effet n’en
+    fût éludé par cette aveugle déférence que celle-ci a paru montrer depuis quelque temps pour les
+    plans et les vues de la Cour de <placeName ref="places.xml#ber01">Berlin</placeName>. Cela ne
+    m’a fait balancer cependant de donner mes ordres à <rs ref="people.xml#vor01"> mon ministre</rs>
+     en <placeName ref="places.xml#eng01">Angleterre</placeName>, de se joindre a celui de V. M. I.
+    pour tâcher de porter le ministère britannique a un système plus analogue à ses propres
+    intérêts, aussi bien qu’a la tranquillité générale, que celui où l’entraîne insensiblement la
+    politique inquiète et insidieuse de la <placeName ref="places.xml#pru01">Prusse</placeName>.</p>
+   <p>V. M. I. me permettra de me rapporter à ce que mon <rs ref="people.xml#gol04"> ambassadeur
+     près d’Elle</rs> est chargé d’exposer avec plus de détail à Son ministère, tant à cet égard
+    qu’au sujet des autres mesures que les circonstances présentes m’ont fait paraître nécessaires,
+    et quoique je ne doute point qu’Elle n’y trouve toutes les preuves qu’Elle peut désirer
+    Elle-même de la fermeté de mes intentions et de l’invariabilité de mon attachement à Ses
+    intérêts et a ceux de Sa monarchie, je me fais un plaisir de Lui en répéter moi-même les
+    assurances les plus fortes et les plus sincères.</p>
+   <p>Je me flatte de n’avoir pas besoin de lui en donner sur le chagrin que j’ai éprouvé en
+    apprenant de V. M. I. qu’Elle a sujet de nouveau d’être mécontente de l’état de Sa santé. Je
+    conçois combien le concours actuel des circonstances est peu favorable aux soins qu’exigeait son
+    parfait rétablissement, mais je me crois autorisée par la part vive que je prends, à Lui
+    rappeler que le soin de veiller à la prolongation de jours aussi précieux pour le bonheur de Ses
+    sujets que pour celui de Ses amis personnels, ne doit pas être compté parmi les moindres des
+    devoirs de la place que la providence Lui a confiée.</p>
+   <p>C’est en faisant des voeux pour que le changement de l’année, auquel nous tombons, en fasse un
+    au gré des siens dans Sa santé et dans les autres objets de sollicitude, que je prie V. M. I. de
+    croire que ces voeux sont aussi sincères, aussi vrais que les sentiments de la plus haute
+    considération et de l’amitié la plus inviolable avec lesquels je suis ....</p>
+  </body>
+ </text>
+</TEI>

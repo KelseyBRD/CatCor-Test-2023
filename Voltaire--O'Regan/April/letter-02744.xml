@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02744</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02744</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:24:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02744">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date
+      when-custom="1770-12-04">4/15 Décembre 1770</date></dateline></opener>
+   <p>Monsieur, Les répétitions devienent ennuyeuses, je Vous ai si souvent mandée, telle ou telle
+    Ville est prise, les Turks ont été batus. Pour amuser, dit on, il faut de la diversité. Eh bien!
+    aprenés que Votre cher <placeName ref="places.xml#bra01"> Brahilow</placeName> a été assiégée,
+    qu’on a doné un assaut, que cet assaut a été repoussé et le siège levé. Le Cte: <persName
+     ref="people.xml#rum01"> Roumenzof</persName> s’est fâché, il a envoyé une seconde fois le Gén:
+    Major <persName ref="people.xml#gle02"> Glebof</persName> avec un renfort vers <placeName
+     ref="places.xml#bra01"> Brahilow</placeName>. Vous croirés peut être que les Turks, encouragés
+    par la levé du siège, ce sont défendus come des Lions: point du tout, à la seconde approche de
+    mes troupes, ils ont abandonée la place, les canons et les magasins qui y étoit; M<hi
+     rend="superscript">r</hi><persName ref="people.xml#gle02"> Glebof</persName> y est entré et s’y
+    est établi. Un autre corps est allé réoccuper la <placeName ref="places.xml#wal01">
+     Valachie</placeName>: j’ai reçuë avanthier la nouvelle que <placeName ref="places.xml#buc01">
+     Boucarest</placeName>, la capitale de cette principauté, a été prise le 15 Nov: après un petit
+    combat avec la garnison Turque. Mais ce qui va vraiment Vous divertir, parce que Vous souhaitiés
+    que le <placeName ref="places.xml#dan01"> Danube</placeName> fût franchi, s’est que le Maréchal
+    Cte: <persName ref="people.xml#rum01"> Roumenzof</persName> avoit envoyé dans le même temps
+    quelque centaine de chasseurs et de troupes légères de l’autre côté du <placeName
+     ref="places.xml#dan01"> Danube</placeName>. Ceux çi partirent d’<placeName
+     ref="places.xml#izm01"> Ismail</placeName> sur des bateaux, et s’emparèrent le 10 Nov: du fort
+    de <placeName ref="places.xml#tul02"> Toultcha</placeName> qui est à quinze verste
+     d’<placeName ref="places.xml#isa02"> Isaktchi</placeName>, où le Visir étoit campé. Ils envoyèrent la
+    garnison dans l’autre monde, emenèrent plusieurs prisoniers et treise pièces de Canons, ils
+    enclouèrent le reste et revinrent heureusement à <placeName ref="places.xml#kil01">
+     Kilia</placeName>. Le Visir ayant apris cette petite incartade leva son Camp et s’en fut avec
+    son monde à <placeName ref="places.xml#bab02"> Babadaghi</placeName>. Voilà où nous en somes, et
+    s’il plait à <persName ref="people.xml#mus01"> Moustapha</persName> nous continuerons quoique
+    pour le bien de l’humanité il seroit bien tems que ce seigneur là ce rengea à la raison. M<hi
+     rend="superscript">r</hi><persName ref="people.xml#tot02"> Totleben</persName> est allé
+    attaquer <placeName ref="places.xml#pot02"> Potis</placeName> sur <placeName
+     ref="places.xml#bla01"> la mer Noire</placeName>, il ne dit pas grand bien des successeurs de
+    Mathridate, mais en revange il trouve le climat de l’anciene <placeName ref="places.xml#ibe01">
+     Iberie</placeName> le plus beaux du monde. Les dernières lettres d’<placeName
+     ref="places.xml#ita01"> Italie</placeName> disent ma troisième Escadre à <placeName
+     ref="places.xml#mah01"> Mahon</placeName>; si le Sultan ne ce ravise, je lui en enverrai encore
+    une demi douzaine, on dirai qu’il y prend plaisir. La maladie présente des Anglois ne sauroit
+    être guérie que par une guerre; ils sont trop riches et désunis, une guerre les appauvrira et
+    réunira les esprits, aussi la nation le veut elle, mais la Cour n’en veut qu’aux gouverneur de
+     <placeName ref="places.xml#bue01"> Buenos Aires</placeName>. Vous voyés Monsieur que je réponds
+    à plusieurs de Vos lettres par celle çi. Les fêtes auquelles le séjour du Prince <persName
+     ref="people.xml#hen02"> Henry</persName> de <placeName ref="places.xml#pru01">
+     Prusse</placeName>, qui part aujourd’huy pour voir <placeName ref="places.xml#mos01">
+     Moscow</placeName>, a doné lieu ont un peu dérangé mon exactitude à Vous répondre. Je lui en ai
+    donée plusieures auquelles il a paru ce plaire. Il faut que je Vous conte la toute dernière.
+    S’étoit une Mascarade, à laquelle il ce trouva trois mille six cent persone. A l’heure du souper
+    entra <persName ref="people.xml#app01"> Appollon</persName>, les quatres saisons et les douze
+    mois de l’année; s’étoit des enfans de huit à dix ans pris des instituts d’éducation pour les
+    nobles des deux sexe que j’ai établie. <persName ref="people.xml#app01"> Appolon</persName> par
+    un petit discour invita la compagnie de ce rendre dans le salon préparé par les saisons, puis il
+    ordonna à sa suite de présenter leurs dons à ceux à qui ils étoit destinés. Ses enfans
+    s’acquitèrent au mieux de ce qu’ils avoit à dire et faire. Si joint Vous trouverez leurs petits
+    complimens qui il est vrai ne sont que des enfantillages. Les cent vingt persones qui devoit
+    souper dans la salle des saisons, s’y rendirent; elle étoit ovale et contenoit douze niches,
+    dans chaqu’une des quelle il y avoit une table pour dix persones. Chaque niche représentoit un
+    mois de l’anée et l’appartement étoit orné en conséquence. Sur les niches on avoit pratiqué une
+    gallerie qui régnoit tout au tour sur laquelle, il y a avoit outre la foule des masques, quatre
+    orchestre. Lorsqu’on fut placé à table, les quatre saisons qui avoit suivit <persName
+     ref="people.xml#app01"> Appollon</persName> ce mirent à danser un ballet avec leurs suite.
+    Ensuite arriva <persName ref="people.xml#dia01"> Diane</persName> et ses nimphes. Lorsque le
+    ballet fut fini, la musique composé par <persName ref="people.xml#tra01">
+    Trajetto</persName> pour cette salle ce fit entendre, et les masques entrèrent.</p>
+   <p>A la fin du soupé, <persName ref="people.xml#app01"> Appollon</persName> vint dire qu’il
+    prioit la Compagnie de ce rendre au spectacle qu’il avoit préparé; dans un appartement attenant
+    à la salle on avoit dressé un Théâtre où ses mêmes enfans jouèrent la petite <rs
+     ref="works.xml#oracle01"> Comédie l’Oracle</rs>. Après quoi l’assemblée trouva tant de plaisir
+    à la danse qu’on ne se retira qu’à cinq heures du matin. Toute cette fête avoit été préparé avec
+    tant de mystère qu’on ignoroit qu’il y auroit autre chose qu’une mascarade; vingt un appartement
+    étoit rempli de masque, la salle des saisons avoit dix neuf toises de long et elle étoit très
+    proportionée.</p>
+   <p>Je pense qu’<persName ref="people.xml#kab01"> Aly bey</persName> ne pourra que trouver son
+    compte dans la continuation de la guerre, on dit que les Turks et les Chrestiens sont trés
+    contens de lui, qu’il est tolérans, brave et juste. Ne trouvés Vous pas singulier cette frénésie
+    qui a prise à toute l’<placeName ref="places.xml#eur01"> Europe</placeName> de voir la peste
+    partout et les précautions prise en conséquence, tandis qu’elle n’est qu’à <placeName
+     ref="places.xml#ist01"> Constantinople</placeName>, où elle n’a jamais cessé. J’ai prise mes
+    précautions aussi, on parfume tout le monde, jusqu’à étouffer er cepandant il est très douteux
+    que cette peste aye passée le Danube.</p>
+   <p>J’ai ordonée de parler à la famille de M<seg rend="superscript">r</seg> <persName
+     ref="people.xml#cho06"> Tchoglokof</persName> pour le payement des comptes que Vous m’avés
+    envoyé, lorsque j’aurai leurs réponse je Vous la ferai parvenir Monsieur. La mauvaise conduite
+    de ce jeune home en <placeName ref="places.xml#geo01"> Georgie</placeName> où il avoit demandé
+    d’aller, sa désobéïssance vis à vis de son général, ses intrigues contre M<seg
+     rend="superscript">r</seg> de <persName ref="people.xml#tot02"> Totleben</persName>, l’ont
+    jetté dans un labirinthe dont il aura bien de la peine à ce tirer. Il est présentement à
+    attendre son jugement d’un conseil de guerre à <placeName ref="places.xml#kaz01">
+     Casan</placeName>. Vous savés ce que s’est qu’un pareil conseil quand il s’agit de
+    désobéïssance militaire et de menées contre le général. Les ouvrages d’horlogerie fait à
+     <placeName ref="places.xml#fer01"> Ferney</placeName> ne manqueront point de débit chés nous,
+    ils n’ont qu’à venir, nous nous en accomoderons. </p>
+   <closer><signed rend="inline">Adieu Monsieur, portés Vous bien et continués moi Votre amitié, il
+     n’y a persone qui en connoisse mieux le pris que moi. <persName ref="people.xml#cat01">
+      Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

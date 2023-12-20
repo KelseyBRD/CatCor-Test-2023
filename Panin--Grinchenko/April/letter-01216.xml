@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01216</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01216</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01216">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Я получила Ваше письмо с уведомлением о здравии <persName ref="people.xml#pau01"
+                    >сына</persName> моего, которому прошу кланяться, и при сем к нему посылаю для
+                любопытства письмо резвой <persName ref="people.xml#lev04">Левшины</persName>. Я
+                чаю, на четвертанадцатом году не можно более опыта дать живаго, веселаго и приятнаго
+                сложения. Прочия письмы к Вам возвращу по прочтении;</p>
+            <closer rend="inline"><signed>желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1771-06-10">Июня 10 числа, 1771
+                года.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

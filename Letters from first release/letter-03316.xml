@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-03316</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-03316</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-14">14 June 2016</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Creation of file and text. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-03316">
+                <body>
+                   
+                    <p>Il faudrait <del>dire</del>
+                        <add rend="sup">glisser dans la conversation</add> a <rs
+                            ref="people.xml#ste01">l'Ambassadeur</rs> de <placeName
+                            ref="places.xml#swe01">Suede</placeName> afin qu'il cesse de parler
+                            d'<persName ref="people.xml#arm01">Armfeldt</persName> que Si il étoit
+                        en <placeName ref="places.xml#rus01">Russie</placeName> je <del>ne le
+                            rend</del>
+                        <add rend="sup">me feroit</add> conscience de le rendre, parceque dans Son
+                        affaire au fond je ne voyoit d'autre motif que celui du mecontentement qu'il
+                        avoit conçu de ce que le Testament du <rs ref="people.xml#gus01">feu
+                            Roy</rs> n'avoit pas été rempli, qu'en outre <del>Si l'on me</del>
+                        <del rend="sup">ils</del>
+                        <del>parleroit de cet affaire l'on</del>
+                        <del rend="sup">en me renouvellant</del> en me parlant <add rend="sup">et
+                            reparlant</add> de cette affaire on ne faisoit que <del>ramener</del>
+                        <add rend="sup">renouveller</add> a ma memoire une affaire desagreable Sur
+                        laquelle de droit je pourroit demander une Satisfaction Sur <del>la maniere
+                            peu convenable dont on avoit</del>
+                        <add rend="sup">ce qu'on y avoit</add> osé y nomer<note type="editorial"
+                            >Catherine put a bar over the 'm' to indicate a double 'm'.</note> mon
+                        nom. <del>Que</del>
+                        <add rend="sup">et que</add> Si j'y avoit eu part come<note type="editorial"
+                            >Catherine put a bar over the 'm' to indicate a double letter.</note> on
+                        avoit eu envie de le faire croire et Si je <del>l</del>avoit assisté ou
+                        Soutenu <add rend="sup"><persName ref="people.xml#arm01"
+                            >Armfeldt</persName></add> on S'en Seroit assurement <del>malheur</del>
+                        plus mal trouvé.<note type="editorial">On fol. 4, there is a note in another
+                            hand: 'Ce brouillon est tout entier dela main de l'Imperatrice
+                            Catherine'. The assertion that this is a 'draft' is contestable: the
+                            letter shows signs of folding in the manner that Catherine used for
+                            sending notes within Petersburg. The content is also highly indicative:
+                            she is scripting information that she would like one of her ministers,
+                            perhaps the head of foreign affairs, <ref target="people.xml#bez01">A.
+                                A. Bezborodko</ref>, to 'slip into conversation' with the <ref
+                                target="people.xml#ste01">Swedish representative</ref> at her court.
+                            Therefore, this letter in fact gives us an important insight into her
+                            mode of work: she crosses out and reworks the exact phrasing of what she
+                            wants said at diplomatic meetings, even ones that she does not plan to
+                            attend. She would have had no reason to make a clean copy of such a
+                            note, as it is a working document for herself and her closest advisors:
+                            it would presumably have been sent as is.</note></p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>It must be <del>said</del>
+                        <add rend="sup">slipped into the conversation</add> with the Swedish
+                        ambassador, so that he stops talking about Armfeldt, that if he were in
+                        Russia, I would <del>not return him</del>
+                        <add rend="sup">have</add> scruples about returning him, for in his case I
+                        saw no other motive besides his dissatisfaction with the failure to execute
+                        the late King's will. Besides, <del>if one</del>
+                        <del rend="sup">they</del>
+                        <del>spoke to me about this matter</del>
+                        <del rend="sup">in renewing</del> in speaking to me <add rend="sup">again
+                            and again</add> about this matter they merely <del>brought back</del>
+                        <add rend="sup">renewed</add> in my memory a disagreable affair, in which I
+                        could legitimately demand satisfaction for <del>the most unsuitable manner
+                            in which they</del>
+                        <add rend="sup">for having</add> dared to name me. <del>That</del>
+                        <add rend="sup">And</add> if I had been involved, as they wanted to make
+                        people believe, and if I had helped <del>him</del> or supported <add
+                            rend="sup"><persName ref="people.xml#arm01">Armfeldt</persName></add>,
+                        they would have certainly <del>misfortune</del> have been worse off.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

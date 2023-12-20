@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02726</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02726</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of ‘frère cadet’ and to which Orlov brother it refers: footnote on online edition
+     doesn’t help. G. Orlov = le grand Maitre? </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-13">13-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:20:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02726">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St Petersb</placeName> : ce <date
+      when-custom="1769-11-09">9 Novembre 1769</date></dateline></opener>
+   <p>Monsieur, Je suis bien fâchée de voir par Votre obligeante lettre du 17 d'Octobre que mille
+    fausses nouvelles sur notre compte Vous affligeait. Cependant il est très vrai que nous avons
+    fait la plus heureuse Campagne dont il y aye euë d'exemple; la levée du blocus de <placeName
+     ref="places.xml#cho02"> Chotzin</placeName> par le manque de fourage, étoit le seul désavantage
+    qu'on nous pouvait doner, mais quelle suite a t'elle euë? La défaite entière de la multitude que
+     <persName ref="people.xml#mus01"> Moustapha</persName> avait envoyé contre nous. Toutte la
+    ressource de nos envieux et de nos enemis était donc de répandre des fausses nouvelles et des
+    doutes sur nos succès, s'est en quoi la <rs ref="works.xml#gazett02"> Gazette</rs> de <placeName
+     ref="places.xml#fra01"> France</placeName> et celle de <rs ref="works.xml#gazett01">
+     Cologne</rs> excellent, ils continuerons leurs train je pense, et je m'en mocqueré pourvu que
+    les événemens me soyent favorables. Je ne sens de la peine que de celle que Vous avés eu de ses
+    mauvais bruits. Je Vous ai fait part de tous ce qui méritait quelque attention sachant la part
+    que Vous voulés bien y prendre. Je ne sai si mes lettres Vous sont parvenuës.</p>
+   <p>Je crois un <rs ref="people.xml#war01"> Colonel</rs> qui a servi contre les Corses plus propre
+    qu'un autre à aller trouver les Turks. Mais s'il tombe prisonier entre nos mains, come il sera
+    sans aveux apparament, et que ce n'est pas là justement le chemin qui conduit à l'honneur, il
+    pourra bien aller trouver quelque part ses pareils, toujours il sera indigne de retourner dans
+    Votre château, ayant résisté à la voix de la raison, et n'ayant écouté que celle de la passion,
+    du fanatisme, ou de la folie, ce qui revient au même.</p>
+   <p>Ce n'est point le grand maitre de l'Artillerie Cte: <persName ref="people.xml#orl01">
+     Orlof</persName> qui a la présidence de l'Académie, s'est son frère cadet, qui fait son unique
+    occupation de l'étude. Ils sont cinq frères; il seroit difficile de nomer celui qui a le plus de
+    mérite, et de trouver une famille plus unie par l'amitié. <rs ref="people.xml#orl01"> Le grand
+     Maitre</rs> est le second. Deux de ses frères sont présentement en <placeName
+     ref="places.xml#ita01"> Italie</placeName>. Lorsque j'ai montré au Grand maitre l'endroit de
+    Votre lettre où Vous me dite Monsieur que Vous le soupçonés de ne pas trop aimer les vers
+    français, il m'a répondu, qu'il ne possédait pas assés la langue française pour les entendre, et
+    je crois que cela est vrai, car il aime beaucoup la poésie de sa langue maternelle, et a déterré
+    il n'y a pas longtems un jeune home qui traduit en vers l'<rs ref="works.xml#aeneid01">
+     Eneide</rs> avec un succès surprenant et presque littéralement. Le Cte: <persName
+     ref="people.xml#orl01"> Orlof</persName> aime les belles chose, coment ce pourroit il qu'il ne
+    fût sensible à Vos Vers? J'espère Monsieur que Vous me donerés bientôt des nouvelles de ma
+    flotte, je croi qu'elle a passé <placeName ref="places.xml#gib01"> Gibraltar</placeName>, il
+    faudra voir ce qu'elle fera, s'est un spectacle nouveau que cette flotte dans la <placeName
+     ref="places.xml#med02"> Mediterranée</placeName>, La sage <placeName ref="places.xml#eur01">
+     Europe</placeName> n'en jugera que par l'événement, il faut du bonheur et alors les amis et les
+    loueurs ce trouveront, jusqu'içi Dieu merçi nous n'avons pas manqués de bonheur. Je Vous avouë
+    Monsieur, que ce m'est toujour une satisfaction bien agréable lorsque je vois la part que Vous
+    prenés à ce qui m'arrive. Soyés persuadé que je sens parfaitement le poix de Votre amitié, je
+    Vous prie de me la continuer, et d'être assuré de la miene.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

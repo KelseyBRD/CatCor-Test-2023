@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00827</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00827</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-07">07 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00827">
+                <body>
+                    <opener>Дай Боже тебе терпения сие трилистное письмо прочесть.</opener>
+                    <p>Друг мой <persName ref="people.xml#pot01">Князь Григорий
+                            Александрович,</persName> письмы твои от 26 октября сего 4 ноября до
+                        моих рук дошли, и с сим же курьером получишь потребуемые ответы. Спасибо
+                        тебе за то, что ко мне пишешь откровенно свои мысли. Я из оных не зделаю
+                        употребление иное, нежели то, которое сходно будет с моей к тебе дружбою и с
+                        общей пользою, а французский министр о сем останется неизвестен. <persName
+                            ref="people.xml#nas01">Князь Нассау</persName> еще не приехал, а как
+                        приедет, то прийму его сходственно усердию, которое он повсюду выставляет. А
+                            <persName ref="people.xml#dmi01">Александр Матвеевич</persName>
+                        постарается из него вывести <seg>le fond du sac.</seg> Но потому,
+                        что французское министерство употребляет подобные способы, вверяя половину
+                        доверенности <persName ref="people.xml#nas01">Нассау,</persName> а другую
+                        половину - <persName ref="people.xml#seg01">Сегюру,</persName> оно не токмо
+                        само вредит своим делам, но еще показывает при том не малую слабость, а
+                        более охоту к интригам и каверзам, нежели пристойно, прилично и прибыльно
+                        знаменитой державе.</p>
+                    <p><seg>L'on voit que les moyens de M[onseign]eur l'Archeveque de <placeName
+                                ref="places.xml#tou01">Toulouse</placeName> a la tete des affaires
+                            sont tout aussi bas et petits que ceux qui l'ont porte au poste de
+                            Principal Ministre; ils ont beau proner leur situation presente, ils
+                            n'ont ni argent, ni troupes dans ce moment,</seg> и щелчок,
+                        полученный им[и] в <placeName ref="places.xml#hol02">Голландии,</placeName>
+                        ныне во мнении всей <placeName ref="places.xml#eur01">Европы</placeName> их
+                        поставил нарочито низко.</p>
+                    <p>Что <persName ref="people.xml#rep01">Князь Репнин</persName>приехал к тебе и
+                        показывает желание, и охотно служит, сему я рада. От твоей поездки на
+                            <placeName ref="places.xml#bug01">Буг</placeName> и в <placeName
+                            ref="places.xml#khe01">Херсон</placeName> и <placeName
+                            ref="places.xml#cri01">Тавриду</placeName> ожидаю немалое добро. Дай
+                        Боже только, чтоб здоровье твое снова не почувствовало какой ни есть вред от
+                        сей поездки.</p>
+                    <p>После <placeName ref="places.xml#kin01">Кинбурнской</placeName> победы, когда
+                            <persName ref="people.xml#seg01">Сегюр</persName> услышал, что тут
+                        предводительствовали французы (что ему <persName ref="people.xml#lig01"
+                            >Линь</persName> сказал по моему внушению), тогда уже на другой или
+                        третий день он послал курьера во <persName ref="places.xml#fra01"
+                            >Францию</persName> с представлением, чтоб отозвали французов, кои у
+                        турок, естьли хотят, чтоб здешние мысли о них были, что они нам не злодеи.
+                        Вообще <persName ref="people.xml#seg01">Сегюр</persName> весьма уныл и сам
+                        отзывается, что его двор ему менее верит прежняго и что епископ <placeName
+                            ref="places.xml#tou01">Тулузский</placeName> и <persName
+                            ref="people.xml#mon02">Монморен</persName> враги отцу его.</p>
+                    <p><placeName ref="places.xml#fra01">Французские</placeName> каверзы по
+                        двадцатипятилетним опытам мне довольно известны. Но ныне спознали мы и
+                            <placeName ref="places.xml#eng01">аглинские,</placeName> ибо не мы одни,
+                        но вся <placeName ref="places.xml#eur01">Европа</placeName> уверена, что
+                        посол аглинский и посланник прусский <placeName ref="places.xml#ott01"
+                            >Порту</placeName> склонили на объявление войны. Теперь оба сии дворы от
+                        сего поступка отпираются. <persName ref="people.xml#pit01">Питт</persName> и
+                            <persName ref="people.xml#osb01">Кармартен</persName> клялися, что не
+                        давали о сем приказаний, и сами почти признали, что подозревают на самого
+                        Короля и <placeName ref="places.xml#han01">Ганноверское</placeName>
+                        министерство.</p>
+                    <p> В "Альтоновской" газете нашла я странный артикул, который я в иное время
+                        поставила бы за ложь, но ныне оный привлек мое внимание. Тут написано из
+                            <placeName ref="places.xml#liv01">Ливорно, </placeName>что к <placeName
+                            ref="places.xml#eng01">аглинским</placeName> консулам в <placeName
+                            ref="places.xml#med02">Средиземном море</placeName> писал посол
+                            <persName ref="people.xml#ain01">Энсли,</persName> чтоб все <placeName
+                            ref="places.xml#eng01">аглинские</placeName> вооруженные и военные суда,
+                        кои покажутся в портах, где <placeName ref="places.xml#eng01"
+                            >аглинские</placeName> консулы, прислали к нему. Я сей артикул послала к
+                            <persName ref="people.xml#vor02">Гр[афу] Воронцову,</persName> дабы его
+                        доставил до сведения <placeName ref="places.xml#eng01"
+                            >Аглинского</placeName> министерства, дабы узнать от них, как судят о
+                        таком поступке их посла, и естьли осталась в них хотя крошка доброго
+                        намерения, то не возьмут ли намерения отозвать такого человека, на которого
+                        вся <placeName ref="places.xml#eur01">Европа</placeName> говорит, что он
+                        огонь раскладывал, а они сами говорят, что он то делал без их ведома -
+                        следовательно, им ослушник. <placeName ref="places.xml#lev01"
+                            >Левантская</placeName> же компания <placeName ref="places.xml#eng01"
+                            >аглинская</placeName>, сказывают, что весьма жалуется на <persName
+                            ref="people.xml#ain01">Энслия</persName> и его мздоимства и
+                        корыстолюбие.</p>
+                    <p>Естьли <placeName ref="places.xml#eng01">аглинские</placeName> министры
+                        желание имеют войти с нами в дружбу и доверенность, то, по крайней мере, не
+                        могут себя ласкать, чтоб мы дали доверенности тем (или тому), кои нам тайно
+                        и явно враждуют. Они же никогда и ни в какое время ни [на] какой союз с нами
+                        согласиться не хотели в течение 25 лет. <placeName ref="places.xml#fra01"
+                            >Франция</placeName> конечно и безспорно находится в слабом состоянии и
+                        ищет нашего союза, но колико можно долее себя менажировать. С <placeName
+                            ref="places.xml#fra01">Франциею</placeName> и с <placeName
+                            ref="places.xml#eng01">Англиею</placeName> без союза нам будет полезнее
+                        иногда, нежели самый союз, тот или другой, - понеже союз навлечет единого
+                        злодея более. Но в случае, естьли бы пришло решиться на союз с той или
+                        другой державою, то таковой союз должен быть распоряжен с постановлениями,
+                        сходными с нашими интересами, а не по дуде и прихотям той или иной нации, -
+                        еще менее по их предписаниям.</p>
+                    <p>Я сама того мнения, что войну сию укоротить должно, колико возможно. Я
+                        почитаю, что укрощение ея много зависит от Ваших, дай Боже, успехов. Вы
+                        столь благоразумно вели двухмесячную оборону, что враг имяни християнского и
+                        нарушитель мира, приготовясь коварно и лукаво долгое время к войне и объявя
+                        ее незапно, хотя начал тотчас действовать наступательно, не выиграл однако
+                        нигде ни пяди. Буде вам Бог поможет, как я надеюсь, в нынешних ваших
+                        предприятиях, то тем самым откроется дорога к мирному трактованию и миру. Но
+                        к сему не одна наша, но и неприятельская склонность нужна. Теперь они еще
+                        горды и надуты своею спесиею и чужим наущением, а визирь, спасая свою
+                        голову, будет сутенировать, колико ему можно, им начатое. Но по смене его
+                        скорее достигнем. Я же от мира никогда не прочь, но Вы сами знаете, что
+                        возвращение <placeName ref="places.xml#cri01">Тавриды</placeName> и
+                        уничтожение всех трактатов и заключение новых - <placeName
+                            ref="places.xml#tur01">турецкий</placeName> был предмет, которого не
+                        токмо на конференции предлагали, но и в свое объявление войны не постыдились
+                        вносить. <placeName ref="places.xml#fra01">Французскому</placeName> двору
+                        сказано, что мы от мира не прочь и всегда готовы, когда только сходственно
+                        достоинствам Империи, слушать мирные предложения. <persName
+                            ref="people.xml#cho02">Шуазель</persName> пишет к <persName
+                            ref="people.xml#seg01">Сегюру,</persName> что он старается привлечь паки
+                        доверенность <placeName ref="places.xml#tur01">турок.</placeName></p>
+                    <p>За величайшее нещастие почитать бы можно, естьли б хлеба не было у нас. Сие
+                        нещастие велико во время мира, а еще более, конечно, в военное время, и
+                        тогда облегчило бы таковое внутреннее состояние и то, чтоб армию ввести в
+                        неприятельскую землю, и тамо достать оный. Дабы же дороговизну для солдат
+                        облегчить и им доставить мясо, советую Вам на мой собственный щет закупить в
+                            <placeName ref="places.xml#ukr01">Украине</placeName> или где за удобнее
+                        найдете - тысяч на сто рублей или более - баранов и быков, и оными
+                        производить порции солдатам по стольку раз в неделю, как за благо
+                        рассудите.</p>
+                    <p>Буде никакой надежды к миру чрез зиму не будет, то, как рано возможно, весной
+                        отправим отселе флот. Нужно, чтоб оному от <placeName ref="places.xml#eng01"
+                            >Англии</placeName> не было препятствия, конечно; но когда мои двадцать
+                        кораблей пройдут <placeName ref="places.xml#gib01">Гибралтарский
+                            залив,</placeName> тогда, признаюсь, что бы и лестно, и полезно быть
+                        могло, чтоб авангард его была эскадра <placeName ref="places.xml#fra01"
+                            >французская,</placeName> и ариергард оной же нации, а наши бы корабли
+                        составляли Кор-дарме и так бы действовали и шли кончить войну, проходя
+                        проливы. За сию услугу и заслужа грехи, <placeName ref="places.xml#fra01"
+                            >французам</placeName> бы дать можно участие в <placeName
+                            ref="places.xml#egy01">Египте,</placeName> а <placeName
+                            ref="places.xml#eng01">агличане</placeName> нам в сем не подмогут, а
+                        захотят нас вмешать в свои глупые и безтолковые <placeName
+                            ref="places.xml#ger01">германские</placeName> дела, где не вижу ни
+                        чести, ни барыша, а пришло[сь] бы бороться за чужие интересы. Ныне же
+                        боремся, по крайней мере, за свои собственные, и тут, кто мне поможет, тот и
+                        товарищ. Касательно же наших торгов с <placeName ref="places.xml#eng01"
+                            >Англиею,</placeName> тут себе руки связывать не должно.</p>
+                    <closer><signed>Прощай, мой друг, вот тебе мои мысли.</signed> <dateline rend="below"><date
+                                when-custom="1787-11-06">Ноя[бря] 6 ч., 1787</date></dateline></closer>
+                        <postscript><p><persName ref="people.xml#gus01">Король Шведский</persName> поехал в
+                                <placeName ref="places.xml#cop01">Копенгаген</placeName> и в
+                                <placeName ref="places.xml#ber01">Берлин.</placeName> Знатно он у
+                                <placeName ref="places.xml#fra01">французов</placeName> ушел, а
+                            поехал достать на место <placeName ref="places.xml#fra01"
+                                >французских</placeName> субсидий - <placeName
+                                ref="places.xml#pru01">прусских</placeName> или <placeName
+                                ref="places.xml#eng01">аглинских.</placeName> Странно будет, естьли
+                                <placeName ref="places.xml#eng01">Англия</placeName> ему даст деньги
+                            противу <placeName ref="places.xml#den01">датчан.</placeName></p>
+                        <p><seg xml:lang="fr">Il faut avouer que <placeName
+                                    ref="places.xml#eur01">l'Europe</placeName> est un salmigondis
+                                singulier bien dans ce moment.</seg></p>
+                        <p>Они, как хотят, лишь бы Бог дал нам с честию выпутываться из
+                            хлопот.</p>
+                        <p><persName ref="people.xml#lan02">Саша</persName> день ото дня любезнее
+                            и милее становится.</p></postscript>
+                        
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

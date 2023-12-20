@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04757</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04757</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:48:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04757">
+  <body>
+ 
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>. </salute></opener>
+   <p>Au
+    moment hier que j’allais me mettre en carrosse pour retourner à la campagne, on m’a
+     rendu votre lettre; jusqu'à ce moment j’étais inabordable, grâce au 
+    <seg xml:lang="la">Te-Deum</seg>, à la représentation et aux autres
+     importuns. Je ne doute aucunement de la part que vous prenez à l’envoi des musulmans dans
+     l’autre monde, ils ont été tapés cruellement, les amis de Turcs vont avoir recours à leurs jeux
+     ordinaires en pareille occasion; ils feront semblant de douter et n’enrageront pas moins
+     intérieurement, 
+    à eux permis;
+     chacun a son partage; nous n’en irons pas moins notre chemin, vous et moi ; vous ferez un beau
+     cheval malgré les mauvais discours de vos envieux, qui ne vous envieraient pas s’ils avaient
+     pitié de vous; ainsi, laissez-les dire; chaque chose est à sa place et vous avez les marques de
+     leur estime, vainquez tous les obstacles et moquez-vous du reste; les obstacles dans ce monde
+     sont faits pour être écartés par les gens de mérite, ils augmentent leur réputation; voilà le
+     lot des obstacles. Qu’est ce que les soucis que M-r 
+    <persName ref="people.xml#did01">Diderot</persName> a et dont il ne veut pas
+     parler, serait-ce quelque nouvelle persécution? comme il pourrait les éviter s’il se
+     transplantait, je le voudrais et pour vous, et pour lui, et pour moi aussi: j’espère bien que
+     vous ne doutez point, que je ne négligerai point ce que je pourrai contribuer à vous mettre à
+     votre aise et pour l’esprit, et pour l’homme, et pour l’ouvrage. Si M-lle
+    <persName ref="people.xml#col02"> Collot</persName> aime mieux faire mon portrait, que celui
+     de <persName ref="people.xml#vol01">Voltaire</persName>, volontiers,
+     j’y consens, mais comme la saison est fort avancée, je crains qu’il faudrait trop se hâter s’il
+     fallait l’envoyer cette année et vous savez que c’est ce que j’évite volontiers de recommander
+     aux personnes, qui s’occupent comme M-lle
+    <persName ref="people.xml#col02"> Collot</persName>, et qui s’en acquittent aussi
+     heureusement. Comme les médaillons lui réussissent si bien, ne m’en ferait-elle pas encore
+     quelques-uns? par exemple, <persName ref="people.xml#pet01">
+     Pierre-le-Grand</persName> et sa fille l’Imp. <persName ref="people.xml#eli02">
+     Elisabeth</persName>? J’ai de cette dernière un portrait en profil peint par <persName
+     ref="people.xml#car03">Сагаvaque</persName> que j’ai toujours compté pour un de ses meilleurs ouvrages; il
+     est dans le garde-meuble d’<placeName ref="places.xml#ora01">
+      Oranienbaum</placeName> et c’est <persName ref="people.xml#rot01">
+     Rotari</persName> qui me la fait avoir. Sur tout ceci, Monsieur, je vous consulte et vous
+     me direz votre avis sans inquiéter Mad. <persName ref="people.xml#col02">
+     Collot</persName> mal à propos en lui proposant trop de choses à la fois. Trève de
+     griffonnage. </p>
+   <closer><signed rend="inline">Adieu, Monsieur, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

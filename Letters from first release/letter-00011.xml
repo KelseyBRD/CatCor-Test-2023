@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00011</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00011</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+                <keywords n="personalLife">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change><date when="2013-10-20">21 October 2013</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Edited markup.</p></change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <opener>
+                    <salute rend="inline">Голубчик, </salute></opener>
+                    <p><persName ref="people.xml#pot02">Павел</persName> прав: <persName
+                            ref="people.xml#suv01">Суворов</persName> тут участия более не имел, как
+                            <persName ref="people.xml#tho01">Томас</persName>, а приехал по
+                        окончании драк и <name type="event" ref="events.xml#pugac02">по поимке <rs
+                                ref="people.xml#pug01">злодея</rs></name>. Я надеюсь, что все распри
+                        и неудовольствия <persName ref="people.xml#pot02">Павла</persName> кончатся,
+                        как получит мое приказание ехать к <placeName ref="places.xml#mos01"
+                            >Москве</placeName>.<note type="ed">On 2 October 1774, <ref
+                                target="people.xml#pot02">Pavel Potemkin</ref> reported to <ref
+                                target="people.xml#cat01">Catherine</ref> that, contrary to <ref
+                                target="people.xml#pan02">Petr Panin</ref>'s assertions, <ref
+                                target="people.xml#suv01"> he had himself played a significantly
+                                larger role than Aleksandr Suvorov</ref> in the capture of the rebel
+                                <ref target="people.xml#pug01">Emelyan Pugachev</ref> (<bibl><title
+                                    ref="works.xml#russka01">Russkaya starina</title>, <biblScope unit="vol">2.10</biblScope> (<date>October 1870</date>),
+                                    <biblScope unit="pp">pp. 409-10</biblScope></bibl>). In the same
+                            report, <ref target="people.xml#pot02">Pavel Potemkin</ref> asked to be
+                            removed from his post as the head of the <ref target="orgs.xml#sec01"
+                                >Secret Commission in Kazan</ref> investigating <ref
+                                target="people.xml#pug01">Pugachev</ref>; he cited as the main
+                            reason for his resignation <ref target="people.xml#pan02">Petr
+                                Panin</ref>'s refusal to cooperate with him. Their ongoing power
+                            struggle echoed that in <ref target="places.xml#pet01">St.
+                                Petersburg</ref> between <ref target="people.xml#pot01">Grigory
+                                Potemkin</ref> and <ref target="people.xml#pan01">Nikita
+                            Panin</ref>. As <ref target="people.xml#cat01">Catherine</ref> mentions
+                            in the present letter, she resolved the conflict by transferring <ref
+                                target="people.xml#pot02">Pavel Potemkin</ref> to a <ref
+                                target="orgs.xml#sec02">Special Commission in Moscow</ref> that was
+                            to prosecute the rebels. (<bibl><author>Isabel de Madariaga</author>,
+                                    <title ref="works.xml#russia01">Russia in the Age of Catherine
+                                    the Great</title>, <biblScope unit="pp">pp.
+                                265-66</biblScope></bibl>).</note> Пожалуй, возврати ко мне письмы
+                            <persName ref="people.xml#pan02">Пе<supplied>тра</supplied>
+                                Ив<supplied>ановича</supplied></persName>. Ответ нужно сочинить и
+                        разрешить некоторые запросы его. А я, миленький, очень тебя люблю и желаю,
+                        чтоб пилюли очистили все недуги. Только прошу при них быть воздержан: кушать
+                        бульон и пить чай без молока.</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                  
+                    <p>Darling, Pavel is right: Suvorov took no more part in it than Thomas did, but
+                        rather arrived after the fighting had ended and the villian caught. I hope
+                        that all Pavel's contentions and dissatisfactions will end when he receives
+                        my order to go to Moscow. Please return to me Pe<supplied>tr</supplied>
+                            Iv<supplied>anovich's</supplied> letters. An answer must be written and
+                        some of his queries resolved. But I, dear one, love you very much and hope
+                        that the pills cleared out all your ailments. I only ask that you be
+                        restrained while taking them: eat clear soup and drink tea without milk.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02825</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02825</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:29:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02825">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1786-10-12">12. d’Octobre 1786</date> v.
+    st.</dateline></opener>
+   <p>J’ai reçue hier, Monsieur, votre lettre du 3. Octobre remplie des expressions les plus
+    flateuses pour moi. Je ne doute aucunement du zèle que vous me témoignés; j’en ai déjà des
+    preuves parlantes, vous nous avés envoyé de très bons sujets et j’espère qu’ils sont bien
+    placés, puisque vous me dites qu’ils paroissent être contents. J’ai tout lieu de vous remercier
+    des peines infinies que vous vous êtes donné à cet égard. Mais qu’est ce que cet inimitié de
+     <persName ref="people.xml#wei02"> Weikard</persName>! J’ai envie de prendre cela pour un
+    badinage ; il’ y a plus de deux mois que je ne l’ai vu ; quelle sorte de grief pourroit-il avoir
+    contre vous? J’ai apprise dans son tems votre apparition à <placeName ref="places.xml#pot01"
+     >Potsdam</placeName>. Je savois depuis longtems que le <persName ref="people.xml#fre01"> feu
+     Roi de <placeName ref="places.xml#pru01">Prusse</placeName></persName> se plaisoit à me croire
+    et à me faire passer pour malade, et c’est ce qui m’a le plus persuadé qu’il étoit fort malade
+    lui même, parceque qui se porte bien ne s’occupe guère des maladies d’autruy. Vous ne Lui aurés
+    pas fait plaisir en Lui soutenant une idée contraire à la sienne. Je ne sais, s’il me rendoit
+    toujours justice, mais cela ne m’a jamais empeché de la Lui rendre. Continués moi. Monsieur, les
+    sentimens que vous me marqués et soyés assuré de la continuation des miens.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Catherine</persName>.</signed></closer>
+   <postscript><p>Au mois de Janvier je pars pour la <rs ref="places.xml#cri01">
+    Tauride.</rs></p></postscript>
+  </body>
+ </text>
+</TEI>

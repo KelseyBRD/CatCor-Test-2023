@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03695</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03695</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find any additional info on M. Hisfer or the book Der Dicke Mann; I coded the
+     historian Toumanski that she mentions, but I could not find any information on him; I coded
+     General Grabofski as the Polish King’s natural son, but I don’t have much to back this up
+     besides the name and general dates.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-16">16-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:00:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03695">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-08-27">27 d’août 1794</date>.</dateline></opener>
+    <p>Je vous ai écrit hier pour vous annoncer l’arrivée des pancartes et de tout ce qui en dépend,
+     de même que du portrait de <persName ref="people.xml#men01"> Mengs</persName> destiné pour moi
+     par le <rs ref="people.xml#rei03"> divin</rs>; j’allais dire feu, mais j’ai vu ou j’ai senti
+     que ce mot se trouverait pour la première fois à côté de <rs ref="people.xml#rei03">
+     divin</rs>, et à mon âge et dans ce temps on prend du dégoût pour les innovations. Je vous ai
+     mandé que le journal complet de M. <persName ref="people.xml#bus01"> Busse</persName> était
+     déjà cacheté sur ma table, tout prêt à partir; la vie de <persName ref="people.xml#nev01">
+      St Alexandre</persName> par <persName ref="people.xml#tou02"> Toumanski</persName> et le
+     prétendu essai de la vie de <persName ref="people.xml#rur01"> Rurik</persName> imprimé à
+      l’<orgName ref="orgs.xml#acad02"> Académie</orgName> me furent apportés l’après-midi; <hi
+      rend="italic">notez qu'il n'y a point d'autre imprimé à l’Académie</hi> et que j’ai préféré la
+     seconde édition à la première, parce que celle-ci est affublée d’un commentaire que l’autre n’a
+     pas. A ces deux petits livrets j’ai ajouté par écrit à chacun un petit feuillet explicatoire,
+     dont j’espère que vous ne vous aviserez pas de me prouver l’inutilité. (Ne trouvez-vous pas que
+     tous ceci ressemble au style du <rs ref="people.xml#rei03"> divin</rs>, comme deux gouttes
+     d’eau?) Or donc, ces deux livrets, avec leurs feuillets chacun, ont été cachetés tout de suite,
+     et le journal de M. <persName ref="people.xml#bus01"> Busse</persName> porte No 1, et les deux
+     livrets à feuillets No 2. L’histoire d’Arménie était aussi déjà dans ma chambre, mais comme
+     elle appartenait an général <persName ref="people.xml#pop01"> Popof</persName> et pas à moi, je
+     lui ai rendu son livre avec commission de m’en acheter un autre exemplaire; à cette occasion
+     j’ai appris que le traducteur <persName ref="people.xml#vag01"> Vaganof</persName> a été pendu
+     par le pacha d’<rs ref="places.xml#bil01"> Ackerman</rs> trois jours avant que le prince
+      <persName ref="people.xml#pot01"> Potemkine</persName> prît la ville. Le prince <persName
+      ref="people.xml#pot01"> Potemkine</persName> en fut très fâché: c’était un Arménien qui allait
+     et venait comme marchand dans les deux armées. Pour la partition de l’opéra, la <title
+      ref="works.xml#cosara01" xml:lang="it">cosa rara del</title> Sr <persName
+      ref="people.xml#mar19"> Martini</persName>, elle aura tout le temps d’être copiée avant le
+     départ de celle-ci.</p>
+    <p>Réponse à No 77.</p>
+    <p>Je suis encore à la <placeName ref="places.xml#tau01"> Tauride</placeName> ce 27 d’août par
+     un temps affreux; nous n’avons pas eu d’été, et pas un jour chaud, et voilà qu’il pleut
+     continuellement depuis deux mois an moins. Ce palais, sans doute, est fort à la mode, puisque
+     c’est un rez-de-chaussée avec un grand et beau jardin au beau milieu des casernes, au bord de
+     la <placeName ref="places.xml#nev01"> Néva</placeName>, la garde à cheval à droite,
+     l’artillerie à gauche, et le <orgName ref="orgs.xml#preo01"> régiment de
+      Préobrajenski</orgName> derrière le jardin; il n’y a rien de mieux pour le printemps et
+     l’automne que cette habitation. Je demeure à droite du péristyle; l’entrée de la maison est
+     unique, je pense, dans le monde; M. <persName ref="people.xml#ale01"> Alexandre</persName>
+     demeure à gauche. Il est vrai que ce palais était non pas un peu, mais excessivement humide, de
+     façon que de dessous les colonnes de la salle il coulait des mares d’eau sur le plancher de la
+     salle; la raison en était que l’eau de l’étang était plus haute que le fondement de la salle,
+     mais j’ai fait remédier à cela en faisant tirer un égout muré entre la maison et l’étang; cet
+     égout fait le tour de la maison et saigne si bien qu’aucune humidité ne s’y fait plus sentir,
+     et l’odeur du moisi en est tout à fait sortie. <seg xml:lang="de"> Der Frühling war sehr schön
+      bei uns auch</seg>. Fin de l’article <placeName ref="places.xml#tau01">
+     Tauride</placeName>.</p>
+    <p>Article <persName ref="people.xml#cas01"> Mar. de Castries</persName>.</p>
+    <p>Selon mes dernières lettres de <placeName ref="places.xml#ham02"> Hamm</placeName>, le
+     maréchal accompagne le comte <persName ref="people.xml#cha11"> d’Artois</persName>
+      en <placeName ref="places.xml#eng01"> Angleterre</placeName>; c’est tout ce que dans ce
+     moment-ci il pouvait espérer de mieux pour la bonne cause; je verrai comment les choses
+     tourneront là-bas et comment je devrai aider ce digne homme. Je ne regarde point, comme
+     désespéré le retour des émigrés en <placeName ref="places.xml#fra01"> France</placeName>, et
+     dans ce point, comme dans bien d’autres, je ne suis pas du tout de l’avis du ci-devant héros de
+      <placeName ref="places.xml#bru02"> Brunswick</placeName>; au contraire, je regarde, au travers
+     de tous les nuages qui obscurcissent l’horizon, ce moment comme un des plus favorables qui ont
+     existé pour ramener l’ordre. Toute la <placeName ref="places.xml#fra01"> France</placeName> est
+     excédée, les provinces surtout, du règne scélérat, et persuadé que de la <placeName
+      ref="places.xml#ven02"> Vendée</placeName> sortira le salut de la <placeName
+      ref="places.xml#fra01"> France</placeName>; je le crois et j’en suis persuadée aussi. Il est
+     temps que toutes les puissances reconnaissent comme moi <persName ref="people.xml#lou14"> Louis
+      XVII</persName> pour roi, qu’elles mettent ses amis, ses parents en avant, qu’elles leur
+     fournissent les moyens de se rendre là où le devoir et la nécessité générale les appellent pour
+     le rétablissement de la religion et du roi. C’est sur ce texte que je prêche de nouveau, et si
+     ce prêche ne' me réussit pas plus que celui de l’<rs ref="people.xml#ste02"> auteur</rs> de
+      <title ref="works.xml#trista01"> Tristram Shandy</title>, je suis toute prête à en faire, à
+     l’imitation de <persName ref="people.xml#ste01"> Sterne</persName>, à en faire, dis-je, un
+     roman.</p>
+    <p>Je pense que tout ce qui regarde M. de <persName ref="people.xml#vio01"> Vioménil</persName>
+     est arrangé depuis très longtemps. Vous pouvez me tourmenter tout à votre aise; ne vous gênez
+     pas là-dessus; je suis si accoutumée à être tourmentée dans toutes les directions qu’il y a
+     longtemps que je ne m’en aperçois plus que je le suis. A ma place on vous fait lire quand vous
+     voulez écrire, et parler quand vous désireriez de lire; il faut rire quand on voudrait pleurer;
+     vingt choses empêchent vingt autres, et vous n’avez jamais le temps de penser un moment, et
+     malgré cela vous devez agir à tout instant, sans sentir de la lassitude jamais ni de corps ni
+     d’esprit; malade ou en santé, cela est indifférent; toutes choses à la fois demandent que vous
+     y soyez à la minute. Après cela parlez-nous d’être tourmentés par ci ou par cela. Je vous
+     demande rudement, quelles sont ces peines sans remède? Et j’attends réponse catégorique et
+     claire, non d’un <seg xml:lang="de"> Paßgänger</seg>, mais d’un franc et loyal <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>.</p>
+    <p>Mais en voilà bien d’un autre genre: le mardi saint 4 (15) d’avril je suis accusée par le <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> de ne pas toujours répondre exactement à toutes
+     les questions qu’on me fait! Et ceci est taxé de tic fort gratuitement, et encore de tic
+     impérial! Je ne saurais dire le nom d’un homme que j’ignore, et je vous défie de le demander au
+     comte <persName ref="people.xml#anh01"> d’Anhalt</persName>, qui est mort et que je n’ai pas vu
+     de plusieurs mois avant sa mort, parce qu’il était malade depuis l’hiver. </p>
+    <p>Oh, pour le coup, <rs ref="people.xml#gri01"> souffre-douleur</rs>, permettez-moi de vous
+     dire que j’aurais manqué de sens commun si j’avais donné à M. <persName ref="people.xml#ale01">
+      Alexandre</persName> un livre où il n’était parlé que de moi et de fades louanges pour moi;
+     qu’aurait-il pensé de moi, lui qui est la modestie personnifiée? Mais voilà une feuille
+     terrible: je m’y trouve accusée de lui tendre des pièges; on dirait que le <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> est un loup que je veux attraper, à vous entendre
+     parler, et puis des comparaisons qu’on n’oserait répéter, comme, par exemple, celle du
+     pharisien! Eh bien, pharisien ou non pharisien, sachez que, pour qu’il n’arrive plus aux
+     pancartes ce qui leur est arrivé que d’être transportées d’endroit en endroit entre les
+     chroniques, de façon que de nécessité il a fallu faire vertu et d’avoir été obligée de recourir
+     à l’ordre du jour, j’ai commencé à répondre aux derniers trois numéros tout de suite. Or, s’il
+     vous plaît, ce n’est pas tant moi qui ne réponds pas exactement à vos questions que vous: j’en
+     pourrais compter une centaine au moins, auxquelles vous ne m’avez jamais voulu répondre;
+     peut-être est-ce une malice de votre part, et puis ce beau cahier tiré des chroniques que je
+     vous avais envoyé et que vous n’avez pas décacheté de sept ans; vous n’y pensez plus
+     apparemment, et vous croyez qu’on n’a pas plus de mémoire qu’une poule. N’allez pas devenir sur
+     vos vieux jours chicaneur comme M. Hisfer dans sa jeunesse, que l’auteur du <seg xml:lang="de">
+      dicke Mann</seg>, à cause de cela, a envoyé officier dans le moment présent comme commissaire
+     de la convention à <placeName ref="places.xml#str01"> Strasbourg</placeName>. Pour le mercredi
+     saint le <rs ref="people.xml#gri01"> souffre-douleur</rs> a pris pour ordre du jour le défrisé
+     des réputations, et sur ce point je suis parfaitement de son avis, et je mets bas mes griefs
+     pour claquer des mains à tout ce qu’il dit.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-08-28">28 août</date>, en <placeName
+       ref="places.xml#tau01"> Tauride</placeName>.</dateline></opener>
+    <p>Vous me dites que l’<rs ref="people.xml#fra04"> empereur</rs> est parti pour se mettre à la
+     tête de son armée; nous avons vu depuis qu’il a gagné bataille sur bataille sans avancer les
+     affaires, et puis qu’inopinément il est parti pour <placeName ref="places.xml#vie01">
+      Vienne</placeName> et qu’à la suite de cela on a abandonné les <placeName
+      ref="places.xml#hol02"> Pays-Bas</placeName> etc. etc. etc. etc. etc. etc. etc. etc. etc., et
+     puis vous faites des questions sur les devoirs des souverains, qui font un prêche dont je
+     tâcherai assurément de faire mon profit. Mais dites- moi, monsieur le <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>, si jamais souverain a plus choisi ses ministres
+     et autres employés d’après la voix publique que <persName ref="people.xml#lou01">
+      Louis XVI</persName>? Et nous avons vu ce qui en est arrivé. Selon moi, aucun pays n’a disette
+     d’hommes; ne s’agit pas de chercher, s’agit d’employer ce qu’on a sous sa patte. On a dit
+     continuellement de nous que nous avions disette d’hommes; malgré cela toute chose s’est faite;
+      <persName ref="people.xml#pet01"> Pierre I</persName> en avait qui ne savaient ni lire, ni
+     écrire; eh bien, les choses n’allaient-elles pas? <seg xml:lang="la"><hi rend="italic"
+       >Ergo</hi></seg> n’y a pas disette d’hommes; у a multitude, mais faut faire aller: tout ira
+     s’il y aura cet autre faisant-aller. Comment fait ton cocher, souffre-douleur, quand tu es
+     emboîté dans ton carrosse? Un bon coeur passe partout; parce que celui ou celui-là est borné,
+     le maître ne l’est pas encore; <persName ref="people.xml#fra04"> François II</persName> ne
+     l’est point du tout; au contraire, c’est un prince qui a du courage et de l’ambition: il écoute
+     étant jeune et neuf et ayant sur les bras de grands embarras. Il est échappé à tout le monde
+     pour aller à l’armée; voilà qui lui appartient, et c’est bon, cela: il ira et ira, j’espère, de
+     lui-même lorsqu’il verra et sera persuadé qu’il en sait plus que les autres: <seg xml:lang="de"
+      > in der Jugend die ersten Jahren zu hören ist gut; hernach werden wir sehen</seg>. Ils ont eu
+     un aigle, et ils l’ont méconnu. Cet aigle me disait de son neveu et me demandait ce qu’il en
+     devait croire; là-dessus je lui demandais de lui faire des questions. Il me répondit volontiers
+     et me répondit pertinemment à chacune; alors je lui dis: «Eh bien, votre neveu a de l’esprit et
+     de l’ambition», et je soutiens ma thèse.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-08-29">29 août</date>, an <placeName
+       ref="places.xml#win01"> p. d’hiver</placeName>.</dateline></opener>
+    <p>Le froid m’a chassée de la <placeName ref="places.xml#tau01"> Tauride</placeName>; la fin
+     d’août est devenue octobre. Ah! le pauvre homme avec ses spéculations financières! Je n’aime
+     point à en parler, non pas que la matière ne soit riche, mais elle n’est pas agréable.</p>
+    <p>En entrant dans mon taudis d’hiver par le grand escalier de marbre, j’ai passé les trois
+     salles nouvellement revêtues en faux marbre pour les noces de M. <persName
+      ref="people.xml#ale01"> Alexandre</persName> d’après les dessins et sous la direction du sieur
+      <persName ref="people.xml#qua01"> Quarenghi</persName>. Elles sont charmantes et mènent aux
+     appartements de M. <persName ref="people.xml#ale01"> Alexandre</persName>, qui étaient l’année
+     passée d’une grande richesse; on en a ôté la richesse incommode, et elles sont devenues fort
+     agréables, quoique moins riches. De là je m’en suis allée dans des appartements qu’on prépare
+     pour un <rs ref="people.xml#ann01"> huitième marmot</rs>, dont madame la grande-duchesse
+      <persName ref="people.xml#mar02"> Marie Théodorovna</persName> accouchera probablement à la
+     fin de cette année ou au commencement de 1795. <rs ref="people.xml#eli04"> Madame sa
+      belle-fille</rs> n’est pas encore dans le même cas. De là, par les corridors, je m’en, suis
+     allée dans les appartements d’<persName ref="people.xml#ale02"> Alexandrine</persName>, qui,
+     ayant onze ans passés, est traitée depuis cet été comme une grande demoiselle; de chez elle
+     j’ai été chez sa soeur <persName ref="people.xml#ele01"> Hélène</persName>, qui pour sûr ne
+     dormira pas cette nuit, tant sa chambre à coucher est accommodée joliment. De là je suis allée
+     à la chapelle pour voir ce qu’on y a fait de nouveau; de là dans la galerie que vous
+     connaissez; de là j’ai passé dans mon appartement; de là à l’<placeName ref="places.xml#her01">
+      hermitage</placeName>, au théâtre d’icelui; de là aux <title ref="works.xml#logera01"> loges
+      du Raphaël</title> ; de là dans les trois salles où est le cabinet d’histoire naturelle. De là
+     je suis revenue dans ma chambre, et j’ai commencé à vous écrire, après avoir fait le tour du
+     palais précisément et celui de l’<placeName ref="places.xml#her01"> hermitage</placeName>, ce
+     qui fera à peu près deux à trois verstes. Je vous conte cela, afin que vous admiriez comment
+     votre très humble servante est leste encore à l’heure qu’il est.</p>
+    <p><seg xml:lang="de"> Nun, <persName ref="people.xml#gri01"> Schermzdulder</persName>, alles
+      dieses mußt du ashalten ; das ist ein Muß</seg>. Vos bulletins sont fort bons: par-ci par-là
+     j’y ai trouvé des nouveautés intéressantes. Eh bien, qu’est-ce que l’histoire de ce Japonais
+     naufragé? Il a fait naufrage, et on l’a renvoyé chez lui: elle est bien courte, ce me semble;
+     le <rs ref="people.xml#lax02"> fils</rs> de <persName ref="people.xml#lax01">
+      Laxmann</persName> l’y a accompagné, et il est revenu remportant des brimborions qu’on nous a
+     étalés cette année à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> et dont je ne
+     donnerai pas dix sous; y fera commerce qui voudra, mais ce ne sera pas moi.</p>
+    <p>Pour l’explication de la médaille, je ne saurais la donner, parce que ce n’est pas moi qui
+     l’ai faite, et en honneur, je ne me souviens pas même de l’avoir vue, dans ce moment; c’est
+     apparemment quelque bêtise du médailleur ou de la maison de monnaie pendant la maladie du feu
+     prince <persName ref="people.xml#vya01"> Viazemski</persName>, laquelle maladie l’a rendu
+     inepte pendant quatre ans.</p>
+    <p>Je soutiens qu’en <placeName ref="places.xml#pom01"> Poméranie</placeName> on nomme <seg
+      xml:lang="de"> Röther</seg> un chien bien laid et bien crotté et que quand j’ai dit <seg
+      xml:lang="de"> Röthe</seg>r, je savais bien ce que je disais et que ce n’est pas mal
+     orthographier que d’écrire <seg xml:lang="de"> Röther</seg>, mais très expressif et vrai. Je ne
+     puis pas convenir non plus que <seg xml:lang="de"> Bärenhäuter</seg>, porteur de peaux d’ours,
+     soit une injure, mais celui qui monte sur un ours est un homme ridicule.</p>
+    <p>M. <seg xml:lang="de"> Volckner</seg> est vieux et ne traduit pas si vite; le cinquième tome
+     des <seg xml:lang="de"> Ausschreibungen</seg> est tout généalogique, et le sixième va jusqu’à
+     la vie de <persName ref="people.xml#nev01"> St Alexandre</persName> inclusivement. Le septième
+     est sur le métier, et je crois qu’il ira jusqu’à <persName ref="people.xml#don04"> Dmitri
+      Ivanovitch surnommé Donskoï</persName> à cause de la bataille qu’il gagna sur les <orgName
+      ref="orgs.xml#tart01"> Tartares</orgName> sur la rivière <placeName ref="places.xml#tan01">
+      Don</placeName>, autrement <placeName ref="places.xml#tan01">Tanaïs</placeName>; sti-là ne se
+     mouchait pas du pied. Nulle histoire ne fournit ni de meilleurs, ni de plus grands hommes, que
+     la nôtre; j’aime cette histoire à la folie. Venez, venez avec vos Bistouris et votre critique:
+     vous serez reçu comme un chien dans un jeu de quilles; nous avons nos critiquers à nous, et
+     nous ne craignons pas les autres; nous sommes ferrés à glace, et têtus en conséquence, comme il
+     appartient à des pédants, fouilleurs de chroniques. Pas un paragraphe passe sans que vingt-sept
+     ne soient consultés, et puis comment ne pas s’émerveiller sur pareil ouvrage, et où est-ce que
+     vous en trouverez de pareils?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-09-01">1 sept</date></dateline></opener>
+    <p>L’année ecclésiastique commence parfaitement bien; vous n’ignorez pas que c’est le 1
+     septembre qu’elle commence. Eh bien, cette année s’annonce parfaitement: le g-l major prince
+      <persName ref="people.xml#tsi01"> Tsitsianof</persName> a fait prisonnier, après quatre heures
+     de combat et étant quatre fois moins fort en troupes que son adversaire, le g-l <persName
+      ref="people.xml#gra02"> Grabofski</persName> avec tout "son corps, ses canons etc. et quantité
+     de dames qui étaient à la suite de ce corps; après la prise de <placeName
+      ref="places.xml#vil01"> Vilna</placeName>, où les troupes polonaises ont fui de trois côtés,
+     celui-ci avait fui vers <placeName ref="places.xml#min01"> Minsk</placeName> et a couru comme
+     un enragé jusqu’à <placeName ref="places.xml#lub02"> Louban</placeName> dans notre cordon. Le
+     prince <persName ref="people.xml#tsi01"> Tsitsianof</persName> les a battus là et a fait
+     désarmer tout ce corps; ils avaient des fusils, des piques et des faux et des canons. A présent
+     l’on peut dire que dans peu on les tiendra par les oreilles. Notez que ce prince <persName
+      ref="people.xml#tsi01"> Tsitsianof</persName> est Géorgien de nation, né et élevé ici, et
+     brave comme son épée et rempli d’esprit et de connaissances. Je me réjouis quand je pense
+     combien il y a présentement à l’armée de jeunes gens de la plus haute espérance: <seg
+      xml:lang="de"> das sind seine Paßgänger, aber voll Feuer und Flamme; Gott segne sie und
+      erhalte sie</seg>.</p>
+    <p>J’ose espérer dans ce moment que l’<placeName ref="places.xml#eng01"> Angleterre</placeName>,
+     appelant le comte <persName ref="people.xml#cha11"> d’Artois</persName> en <placeName
+      ref="places.xml#eng01"> Angleterre</placeName>, partira d’un point mathématique: la
+     reconnaissance du roi légitime de <placeName ref="places.xml#fra01"> France</placeName>, et que
+     ce point posé, on agira en conséquence, car ce point est essentiel plus que jamais, je me tue à
+     le répéter; c’est le commencement, et sans commencement point de fin.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-09-03">3 sept</date>.</dateline></opener>
+    <p>Ce matin j’ai reçu la nouvelle comme quoi il a plu à <persName ref="people.xml#fri03"> Sa
+      Majesté Prussienne</persName> de lever le siège de <placeName ref="places.xml#war01">
+      Varsovie</placeName>. Il donne pour raison que dans ses états il s’est formé des
+     insurrections; morbleu, si j’avais été à sa place, je les aurais étouffées en prenant
+     sur-le-champ et à la minute <placeName ref="places.xml#war01"> Varsovie</placeName>; c’est là
+     qu’il fallait y mettre fin. 0 Dieu! je n’ose dire ce que je pense, mais malheureuseument j’ai
+     prédit au <persName ref="people.xml#nas01"> prince de Nassau</persName> et à quantité d’autres,
+     quatre ans d’avance, ce qui est arrivé à <persName ref="people.xml#lou01"> Louis
+     XVI</persName>; ma visière à la minute passe comme une fusée et s’enfuit dans l’avenir
+     quelquefois, ne voyant qu’un seul trait caractéristique. Allons, je me tais; ce prince est
+     entouré de la misère en personne en fait de têtes. Notre public est outré: n’y a pas d’injure
+     qu’on ne dise à ces gens-là; les brigands polonais ont pris à <rs ref="people.xml#fri03"> Sa
+      Majesté</rs> deux convois, l’un sur la <placeName ref="places.xml#vis01"> Vistule</placeName>,
+     dit-il, de grosse artillerie, l’autre de munition, venant de <placeName ref="places.xml#sil02">
+      Silésie</placeName>. Je donnerais beaucoup qu’on lui prît son marquis <persName
+      ref="people.xml#luc01"> Lucchesini</persName>, qui lui revient de <placeName
+      ref="places.xml#vie01"> Vienne</placeName>, mais je suis sûre qu’on ne le prendra pas: il les
+     sert trop bien, et puis c’est un Italien; ceux-là comme les Grecs savent dégager leur tête
+     d’entre la hache et le billot. <seg xml:lang="de"> Verfluchte miserable Kerls! Warum melirt
+      sich das Zeug in Sachen, so sie nicht verstehen? Das sind Bärenreiter.</seg> Il faut savoir
+     qu’en recevant la nouvelle, je suis partie d’immenses éclats de rire et qu’il a fallu six à
+     sept heures avant que l’indignation m’ait prise.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

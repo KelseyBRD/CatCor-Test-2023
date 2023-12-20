@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04787</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04787</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure who Robin refers to here? Kelsey: further research necessary to identify full name of
+     Moreau.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:08:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-28">28/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Revised markup; partially resolved query.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04787">
+  <body>
+
+   <opener><salute rend="inline"> Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.
+    </salute></opener>
+   <p rend="inline">La lettre du Sr. <persName ref="people.xml#lou17"> Louis</persName> dit que <rs
+     ref="people.xml#mor05">Robin</rs> est versé dans la pratique des hôpitaux et qu’il saigne
+    parfaitement bien; pour être reçu ici malgré cette recommandation, il sera obligé de passer par
+    un examen en forme, et si cet examen par lui soutenu tournera à son avantage, il sera reçu;
+    sinon, on ne le recevra pas, reste à savoir si Robin est homme à s’exposer à pareille formalité,
+    qui est d’usage ici avec tous les médecins et chirurgiens qu’on reçoit au service; après cela il
+    ne sera pas bien difficile de le placer; crainte que la gelée ne gâtât la <rs
+     ref="works.xml#winter01"> statue de l’hiver</rs>, je l’ai fait retirer dans la galerie qui
+    n’est qu’en<note type="editorial">Typo of "un" in source edition.</note> attendant. </p>
+   <closer><signed rend="inline">Adieu, Monsieur.</signed></closer>
+  </body>
+ </text>
+</TEI>

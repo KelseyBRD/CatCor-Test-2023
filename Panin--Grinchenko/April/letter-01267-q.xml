@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01267</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01267</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Which Dundukov?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-29"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01267">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Я желаю, чтоб Вы поехали к <persName ref="people.xml#kut01">Михайле
+                    Ларионовичу</persName> и положили на мере с ним и с <persName
+                    ref="people.xml#ost01">Вице-Канцлером</persName>, что делать надлежит с
+                Дундуковым, дабы соображено было правосудие с моим интересом, а естьли заранее не
+                упредим, то пути не выдет, понеже наместник <placeName ref="places.xml#kal03"
+                    >Ханства</placeName> от нас отложиться может, а <persName ref="people.xml#don02"
+                    >Княгиня Дундукова</persName> с детьми также неверна будет и есть, и что
+                положите, о том дайте мне знать.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

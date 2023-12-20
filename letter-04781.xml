@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter-04781</title>
+            <respStmt>
+               <resp>Edited by </resp>
+               <persName>Kelsey Rubin-Detlev</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>CatCor Project</authority>
+            <idno type="CatCor">letter-04781</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <p>OCR text encoded in TEI xml.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <!--
+                    Choose at least three keywords, one from each theme area.  
+                    You can add more than three and can invent your own. 
+                    Make sure you email digital@hubers.org.uk if you need to do this, 
+                    and update the keywords xml file.-->
+
+
+            <keywords n="culture">
+               <term target="kw.xml#sculpture"/>
+            </keywords>
+            <keywords n="letterType">
+               <term target="kw.xml#note"/>
+            </keywords>
+
+         </textClass>
+         <langUsage>
+            <language ident="fr">French</language>
+            <!-- Input main language in letter using two letter ISO code-->
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+
+         <editorialDecl>
+            <p/>
+            <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+         </editorialDecl>
+
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date when="2021-06-13">13/06/2021</date>
+            <persName>Kelsey Rubin-Detlev</persName>
+            <label>File created. Initial markup.</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter" xml:lang="fr" xml:id="letter-04781">
+      <!-- Input main language using two letter ISO code and input the letter id-->
+      <body>
+         <p>Je suis si effrayée du mal que <persName ref="people.xml#coc02">M-r Cochin</persName>
+            dit que le ciseleur peut faire à votre ouvrage, que je laisse là tout le reste de ce
+            qu’on vous écrit; je vous prie d’empêcher si vous pouvez que <rs
+               ref="works.xml#pierre01">votre statue</rs> ne perde rien de la chaleur que vous y
+            avez mise, car pour la grandeur et la dignité, je devine bien que le ciseleur ne l'ôtera
+               pas<note type="editorial">Source edition contains a typo here ("par").</note>.</p>
+      </body>
+   </text>
+</TEI>

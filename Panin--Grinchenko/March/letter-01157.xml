@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01157</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01157</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-18"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01157">
+        <body>
+
+            <opener><dateline>Из <placeName ref="places.xml#kaz01">Казани</placeName>.<lb/>
+                <date when-custom="1767-05-27">Мая 27 числа, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Из письма Вашего, от 23 числа, мною сего утра здесь полученнаго, усмотрела се
+                удовольствием, что <persName ref="people.xml#pau01">сын</persName> мой, слава Богу,
+                здоров. На весьма дружское письмо <persName ref="people.xml#fre01">Короля
+                    Прусскаго</persName> буду ответствовать, а между тем к Вам обратно посылаю
+                церемониальное его письмо, дабы ответ Коллегия изготовила. Что же касается до дела
+                    <persName ref="people.xml#gom01">Гомма</persName>, то буду ждать те письма, кои
+                Вы мне обещаете, а между темъ весьма довольна оборотом тем, которой Вы
+                заблагоразсудили дать сему делу, и как Вы уже до сего края дошли, то позвольте же,
+                чтоб я в крайней откровенности Вам поверила мои сумнении: не замешан ли с <persName
+                    ref="people.xml#gom01">Гоммом</persName> как ни будь <persName
+                        ref="people.xml#gle02">Глебов</persName>, о чем прошу тебя
+                изподоволь предостеречь и не сделать инаго употребления о сем, как сколько Ваша
+                осторожность дозволит, дабы иногда невиннаго не поклепать. Мы вчера вечеру сюда
+                приехали, и нашли город, которой всячески может слыть столицею большаго царства;
+                прием мне отменной, нам отменно он кажется четвертую неделю; видим везде ровную
+                радость, а здесь еще отличнее; естьли б дозволили, они бы себя вместо ковра послали,
+                а в одном месте по дороге мужики свечи давали, чтоб предо мною поставить, с чем их
+                прогнали. Кутухтой быть здесь не долго, однако, выключая сего ексесса, везде весьма
+                чинно все происходит; здесь триумфальные вороты такие, как я еще лутче не
+                видала.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p> Я живу здесь в купеческом каменном доме, девять покоев енфиладою, все шелком
+                    обитые, креслы и канапеи вызолоченные, везде трюмо и марморные столы под
+                    ними.</p>
+            </postscript>
+
+        </body>
+    </text>
+</TEI>

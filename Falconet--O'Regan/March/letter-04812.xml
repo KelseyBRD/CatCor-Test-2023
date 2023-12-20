@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04812</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04812</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-05">05/03/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:08:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04812">
+  <body>
+  
+   <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,
+     savez-vous l’histoire de maître <persName ref="people.xml#sim02"> Simon</persName> qui
+     dans son compte fit un article: <hi rend="italic">tant pour une
+      idée qui du 23 au 24 de ce mois pendant la nuit me passa par la tête;</hi> il était
+     visible que maître <persName ref="people.xml#sim02"> Simon</persName> voulait de
+     l’argent, mais point de raison. <persName ref="people.xml#coc02"> Cochin</persName> et
+     son associé savent-ils l’histoire de maître <persName ref="people.xml#sim02">
+     Simon</persName>? Vous m’apporterez les portraits ou médaillons quand bon vous
+     semblera.</p>
+  </body>
+ </text>
+</TEI>

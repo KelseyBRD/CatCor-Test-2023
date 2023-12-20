@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04755</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04755</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#italy"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-18">18/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-20T17:32:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-20">20-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04755">
+  <body>
+  
+   <p>Vous viendrez à <placeName ref="places.xml#pet02">Péterhof</placeName> quand bon vous semblera, je prie Dieu pour la réussite du <rs
+     ref="works.xml#cupido01"> Cupidon</rs>. Vous me dites que les 33 tableaux dont M.
+     <persName ref="people.xml#col03"> Collin</persName> vous a envoyé le catalogue sont
+     d’un habile homme, mais vous ne me dites pas si ils sont bons, en cas que vous les trouviez
+     tels, vous me feriez plaisir, Monsieur, d’en demander le prix à votre ami. Si tout ce qu’on dit
+     du 
+    <rs ref="people.xml#pop02"> nouveau Pape</rs> est vrai, le nouvel <hi
+      rend="italic">ancien</hi> n’aura pas de peine à faire ses
+     fonctions; l’on prétend que <persName ref="people.xml#pop02"> Clément XIV</persName> a
+     répondu à je ne sais quel ordre religieux qui s’opposait aux arrangements faits par le
+     gouvernement, qu’il devait se soumettre parce-que chaque prince était le maître chez lui, et
+     que lui, Pape, aimait la paix par-dessus tout; il est vrai que ce n’est pas là le langage d’un
+     cordelier, ni celui d’un homme qui ne prend conseil de personne et qui répond à tout propos
+     qu’il fera ce que la St. Esprit lui inspirera. </p>
+  <closer><signed rend="inline">Adieu, Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,
+    je salue <rs ref="works.xml#pierre01"> Pierre-le-grand</rs> dont on dit des merveilles. M-lle
+     <persName ref="people.xml#col02"> Collot</persName> sera la bienvenue de même que vous.</signed></closer>
+  </body>
+ </text>
+</TEI>

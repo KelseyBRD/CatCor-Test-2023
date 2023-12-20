@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01226</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01226</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-14"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01226">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Время стоит очень сырое, отселе до праздника не более как суток трое, едва ли
+                поправится погода; Великий <persName ref="people.xml#pau01">Князь</persName> дней
+                десять уже неможет простудою; не лучше ли будет, чем рисковать его в слабости сюда
+                перевозить, чтоб я в город приехала для праздника? Тогда мы, по прошествии тех дней,
+                увидим, как расположить далее наше летнее пребывание. Мне отселе гораздо свободнее
+                подняться, нежели Вам сюда без подвержения здоровья <persName ref="people.xml#pau01"
+                    >сына</persName> моего какой ни есть разстройке. Вы себе представить не можете,
+                как здесь внизу сыро, а на верху холодно; я нарочно вчерась ходила в вечерние покои,
+                и <persName ref="people.xml#che01">Графа Чернышева</persName> еще не видала; и так
+                не знаю, что он с Вашим советом мне говорить будет, но прошу мне на сие письмо
+                ответствовать завтра поутру; или ночесь, прежде нежели спать ляжете, и тогда уже
+                завтра сделаю распоряжении все по сему моему новому плану. Присланное письмо при сем
+                возвращаю;</p>
+            <closer rend="inline"><signed>желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1771-06-25">Июня 25 числа, 1771
+                года.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02746</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02746</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:24:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02746">
+  <body>
+
+   <p>Monsieur, Si Vous Vous trouvés malheureux dès que <persName ref="people.xml#mus01">
+     Moustapha</persName> n’est pas batu coup sur coup, les mois d’hiver ne peuvent que Vous doner
+    de l’humeur, cepandant j’ai reçuë la consolante nouvelle que <placeName ref="places.xml#cra02">
+     Crayova</placeName> en <placeName ref="places.xml#wal01"> Valachie</placeName>, sur la rivière
+     <placeName ref="places.xml#olt02"> Olta</placeName>, a été occupé par mes troupes dans le
+    courant du mois passé; Il me semble que Vous devriés être content de l’année 1770, et qu’il n’i
+    a pas encore de quoi coqueter avec le <rs ref="people.xml#qia01"> Roy de la <placeName
+     ref="places.xml#chi02"> Chine</placeName></rs> mon voisin, à qui malgré ces Vers et Votre passion
+    naissante (n’allés pas Vous en fâcher) je dispute à peu près le sens comun. Vous dirés que s’est
+    jalousie toute pure de ma part, point du tout, je ne troquerai point mon nez à la <placeName
+     ref="places.xml#rom02"> Romaine</placeName> contre sa façe large et plate, je n’ai aucune
+    prétension à sa capaçité de faire des mauvais vers, je n’aime à lire que les Vôtre. L’épitre à
+    mon rival est charmante, j’en ai d’abord fait part au <persName ref="people.xml#hen02"> Prince
+     H[enry d]e <placeName ref="places.xml#pru01"> Prusse</placeName></persName> à qui elle a fait
+    un égale pla[sir. Mais s]i le destin veut que près de Vous j’aye un rival, au nom de la Vierge
+    Marie, que ce ne soit point ce <rs ref="people.xml#qia01"> Roy de la <placeName
+      ref="places.xml#chi02"> Chine</placeName></rs> contre qui j’ai une dents. Prenés plutôt
+    Monseigneur <persName ref="people.xml#kab01"> Aly Bey</persName> d’<placeName
+     ref="places.xml#egy01"> Egipte</placeName>, qui est tolérants, juste, affable, humain. Il est
+    parfois un peu pilliard, mais il faut passer quelques défauts à son prochain, les lampes d’or de
+    la Mecque l’ont tenté, hébien il saura en faire un bon usage, la besogne en reviendra à
+     <persName ref="people.xml#mus01"> Moustapha</persName> Gazi, qui ne sait faire ni la paix ni la
+    guerre. Vous dirés peutêtre que je cherche à gêner Vos goûts, que cela n’est point équitable, je
+    ne prétend point Vous gêner; je Vous présente seulement une pétitions ou remonstrance en faveur
+     d’<persName ref="people.xml#kab01"> Aly d’<placeName ref="places.xml#egy01">
+     Egipte</placeName></persName> contre le nez camus et les mauvais vers de mon sot voisin avec
+    lequel je n’ai plus de démêlés Dieu merci.</p>
+   <p>J’ai reçuë Vos livres Monsieur, je les dévore, je Vous en suis bien redevable de même que pour
+    la <rs ref="works.xml#questi02"> page</rs> dix sept, je serais au désespoir si cela faisoit du
+    tort à l’Auteur dans sa patrie. Le <rs ref="people.xml#cho03"> seigneur</rs> qui m’avoit pris en
+    gripe n’a plus voix en chapitre, peutêtre ses successeurs distingueront ils mieux les affaires
+    d’avec les passions personelles, du moins pour le bien du bon sens faut il l’espérer. Je Vous
+    prie instament de me faire tenir la suite de cette <rs ref="works.xml#questi02">
+     Ençiclopédie</rs> lors qu’elle paraitra. Dites moi je Vous prie, si Vous avés reçu la
+    volumineuse description de la fête que j’ai donée au <rs ref="people.xml#hen02"> Prince de
+      <placeName ref="places.xml#pru01"> Prusse</placeName></rs>. Il y a six jours qu’il nous a
+    quité, il a paru ce plaire ici plus que l’Abbé <persName ref="people.xml#aut01">
+     Chape</persName> qui courant la poste dans un traineau bien fermé a tout vu en <placeName
+     ref="places.xml#rus01"> Russie</placeName>.</p>
+   <p>Après les informations les plus exacte sur la requête de Vos Genevois, j’ai trouvée que M<hi
+     rend="superscript">r</hi>
+    <persName ref="people.xml#cho06"> Tochoglokef</persName> a beaucoup de dettes et que tout son
+    bien est dissipé. Pour ce qui regarde la manifacture des montres de <placeName
+     ref="places.xml#fer01"> Ferney</placeName>, je Vous ai déjà écrite de nous envoyer des montres
+    de toutes espèçes pour quelques milliers de roubles, je les prendrai toutes.</p>
+   <p>Le <persName ref="people.xml#fre01"> Roy de <placeName ref="places.xml#pru01">
+     Prusse</placeName></persName> a beau dire, <persName ref="people.xml#kab01"> Aly Bey</persName> est maitre
+    souverain de l’<placeName ref="places.xml#egy01"> Egipte</placeName>. Si je vais à <placeName
+     ref="places.xml#ist01"> Stamboul</placeName> je le prierai d’y venir, afin que Vous le puissiés
+    voir de Vos yeux, et come je ne doute point que Vous ne me fassiés le plaisir d’accepter la
+    place de Patriarche Vous aurés la consolation d’administrer à <persName ref="people.xml#kab01">
+     Aly Bey</persName> le baptême par imersion, et par conséquent Vous voudrés bien jusque là ne
+    point mourir de douleur de ce que je ne suis pas encore à <placeName ref="places.xml#ist01">
+     Constantinople</placeName>; qu’elle est la pièce qui finit avant le troisième acte, et quel est
+    le roman qui abandone son Héros à moitié chemin en quartier d’hiver au bord d’une rivière? </p>
+   <closer><signed rend="inline">Je suis toujour avec beaucoup d’amitié la plus sincère de Vos Amie.
+      <persName ref="people.xml#cat01"> Caterine</persName></signed>
+    <dateline> à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date when-custom="1771-01-23">23 Janvier
+      1771</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

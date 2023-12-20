@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09029</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09029</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="fr" xml:id="letter-09029"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-04-17">Ce 17 Avril 1787.</date>
+                </dateline>
+            </opener>
+            <p>Il faut dire la vérité, <rs ref="works.xml#poedin01">ce pauvre manifeste</rs>
+                <note type="editorial">
+                    Catherine writes about her <title ref="works.xml#poedin01">manifesto on duels</title>, first published in <placeName ref="places.xml#kie01">Kiev</placeName> on <date when-custom="1787-04-21">April 21 1787</date>. Catherine read the beginning of the manifesto composed of articles from the <title ref="works.xml#gentry01">Charter to the Gentry</title> to Khrapovitskii on <date when-custom="1787-02-18">February 18 1787</date>. It was continued by the passage on the atrocity of yound people, examples of high treason and cessation of the quarrel, and corresponding interdictions. (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>,
+                        <biblScope unit="pp">pp. 15-18.</biblScope>)
+                    </bibl>
+                </note>
+                est cruellement massacré dans cette traduction. Au lieu de l’éloquence peut être noble, mâle (je n’ose pas dire remplie d’agrement), coulante, mais riche en expression et plus gentile encore en chose qu’en parole, le traducteur a été d’une paresse inouie dans le choix de ses termes, dans de certains endroits, et dans d’autres il a ajouté des phrases, par lesquelles loin de rendre <rs ref="works.xml#poedin01">l’original</rs> plus intelligible il s’est éloigné du sens et surtout de l’énergie. J’en ai marqué plusieurs par une croix en marge, mais on pourrait marquer chaque ligne, car <rs ref="works.xml#poedin01">la pièce</rs> n’est pas reconnoissable; il aime beaucoup le mot de principes, il lui sert partout. J’ai perdu patience à la septième page, et je n’ai pas continué l’examen. Pour avoir une bonne traduction, je conseille d’attendre l’Allemande, d’<persName ref="people.xml#arn01">Arndt</persName>, qui saisit mieux que tout autre et est accoutumé au stile de <rs ref="people.xml#cat01">l’Auteur</rs>.</p>
+        </body>
+    </text>
+</TEI>

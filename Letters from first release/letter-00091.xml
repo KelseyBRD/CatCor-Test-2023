@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00091</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00091</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#navy"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-25">27 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Additional markup, tagging, metadata, annotation, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00091">
+                <body>
+                    <opener><salute rend="inline">Monsieur le Vice-Amiral Prince de
+                            Nassau-Siegen,</salute></opener>
+                    <p> j'ai reçu hier Votre lettre en date de la rade de <placeName
+                            ref="places.xml#kro01">Cronstadt</placeName> du 3 Juin, par laquelle
+                        vous me faites part de l'examen, que vous avez fait des bâtiments à vos
+                        ordres et des changemens que vous avez trouvé nécessaires parmi les
+                        commandans des galères, de l'ordre que vous établissez dans l'escadre et des
+                        soins que vous donnez pour hâter l'armement complet des divers bâtiments,
+                        tout ceci sert à me donner beaucoup de satisfaction, je vois avec plaisir
+                        que le Vice-Amiral <persName ref="people.xml#mus03">Pouchkin</persName> Vous
+                        seconde en tout ce qui dépend de lui, je lui en ai marqué mon contentement.
+                        Je souhaite que le vent et toute sorte de bonheur seconde le zèle dont vous
+                        me donnez de nouveau des preuves aussi convainquantes. J'ai reçu ce matin du
+                        Gal. <persName ref="people.xml#mus02">Comte Pouchkin</persName> que le Lt.
+                        Gal. <persName ref="people.xml#mik01">Michelson</persName> est entré par
+                            <placeName ref="people.xml#wek01">Wehéra</placeName> dans la <placeName
+                            ref="places.xml#fin01">Finlande</placeName> Suédoise, qu'il a trouvé à
+                            <placeName ref="places.xml#kir01">Kiro</placeName> un poste suédois
+                        retranché d'un millier d'hommes, <rs ref="events.xml#kirob01">ce poste a été
+                            forcé</rs>, <rs ref="people.xml#bib02">le petit Bibikoff</rs> a été le
+                        premier dans le retranchement et a pris un des deux canons qu'on a pris;
+                        deux Majors, six officiers, 50 soldats suédois ont été fait prisonniers, 300
+                        sont restés sur la place, le reste a voulu se sauver après avoir fait une
+                        rigoureuse défense, mais les <orgName ref="orgs.xml#bash01"
+                            >Baschkirs</orgName> (que les Suédois NB prennent pour des ogres) et les
+                            <orgName ref="orgs.xml#coss01">Kozakes</orgName>, en ont fait un grand
+                        carnage dans l'eau et dans le bois. <persName ref="people.xml#mik01"
+                            >Michelson</persName> s'est avancé jusqu'à <hi rend="italic"><placeName
+                                ref="places.xml#ris01">Christine</placeName></hi> d'òu il est allé
+                        vers <hi rend="italic"><placeName ref="places.xml#mik01">St.
+                                Michel</placeName></hi> òu se trouvent des magasins, mes
+                        nouvelles--ne vont que jusque là, elles sont du 31 Mai 1 et 2 Juin,<note
+                            type="editorial">Catherine's secretary Khrapovitsky noted in his diary
+                            on 2 June 1789: 'Получено известие, что 31 Мая Михельсон, пошед к
+                            Христине, в пяти верстах от границы нашей, при деревне Кири: разбил 1000
+                            Шведов, взял две пушки и пошел далее' ('News was received that on 31 May
+                            Mikhelson approached Khristina, and five miles from our border, by the
+                            village of Kiro, defeated 1000 Swedes, took two cannon, and moved on').
+                            On 4 June he noted: 'Михельсон 1-го Июня занял Христину и пошел к
+                            Сант-Михелю' ('Mikhelson on the 1st of June occupied Khristina and set
+                            off for Sant-Mikhel'). Bad news of Mikhelson's <ref
+                                target="events.xml#par01">defeat at Parosalmi</ref> arrived on 7
+                            June. (<bibl><title ref="works.xml#dnevni01">Dnevnik A.V.
+                                    Khrapovitskago</title>, <biblScope unit="pp">pp.
+                                    287-88</biblScope></bibl>.)</note> nous voila donc à ce qu'il
+                        parait établis dans la <placeName ref="places.xml#fin01"
+                            >Finlande</placeName> Suédoise et le corps Suédois de <placeName
+                            ref="places.xml#sav01">Savelan</placeName> parait etre coupé, le Gal.
+                        Major <persName ref="people.xml#sch02">Schultz</persName> doit l'attaquer
+                        ces jours ci. Adieu bon voyage et bonne fortune; j'oubliais de Vous dire que
+                        nous avons encore des nouvelles qui paraissent assez sûres, comme quoi la
+                        grande flotte suédoise est dans un si mauvais état qu'un homme du métier
+                        fort entendu doit avoir dit qu'il faudrait être fou pour la mener à
+                            l'ennemi.<note type="editorial">Brückner, in his history of the
+                            Russo-Swedish War, cites this letter as evidence of <ref
+                                target="people.xml#nas01">Nassau-Siegen</ref>'s willingness to
+                            inform Catherine of all the problems with the Russian navy and of his
+                            efforts improve the state of the Kronstadt flottila. At the start of the
+                            1789 campaign, the Russians had 36 ships of the line and 20 fregates in
+                            Reval/Tallinn and Kronstadt, with 10 ships of the line and 3 fregates in
+                            Copenhagen; the Swedes had only 21 ships of the line and 9 fregates.
+                                    (<bibl><author>Brückner</author>, <title
+                                    ref="works.xml#voinar01">Voina Rossii so Shvetsiei</title>,
+                                    <biblScope unit="pp">pp. 176-77</biblScope></bibl>.) Catherine's
+                            secretary Khrapovitsky noted on 7 June 1789 that Prince Nassau had left
+                            Kronstadt the day before (i.e. 6 June) at 11 p.m. He added on 9 June
+                            that Nassau was being held back by contrary winds. (<bibl><title
+                                    ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskago</title>,
+                                    <biblScope unit="pp">pp. 287-88</biblScope></bibl>.)</note></p>
+                    <closer><signed><persName ref="people.xml#cat01" type="signature">Catherine</persName>.</signed>
+                        <dateline><placeName ref="places.xml#tsa01">à Czarsko Selo</placeName>
+                            <date when-custom="1789-06-04">le 4 Juin
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Vice-Admiral Prince of Nassau-Siegen,
+                            sir,</salute></opener>
+                    <p>I received yesterday your letter dated from Kronstadt harbour on 3 June, by
+                        which you inform me of the inspection that you carried out of the vessels
+                        under your command; and of the changes that you have found necessary among
+                        the commanders of the galleys; of the order that you are establishing in the
+                        squadron; and of your care to hurry on the complete armament of the various
+                        vessels. All this gives me much satisfaction. I see with pleasure that
+                        Vice-Admiral Pushkin is assisting you in every way he can: I have let him
+                        know that I am pleased. I hope that the wind and happy chance of all kinds
+                        come to the aid of the zeal of which you are once again giving me such
+                        convincing proof. I received this morning from the Gen. Count Pushkin [news]
+                        that Lt. Gen. Mikhelson has entered Swedish Finland via Wehéra. He found at
+                        Kiro a Swedish post defended by a thousand men. They took the post by force:
+                        the little Bibikov was the first one into the trench and took one of the two
+                        cannons that were taken. Two majors, six officers, and 50 Swedish soldiers
+                        were taken prisoner; 300 were left lying on the field; the rest wanted to
+                        flee after making a rigorous defence, but the Bashkirs (whom, NB., the
+                        Swedes take for ogres) and Cossacks massacred them in the water and in the
+                        woods. Mikhelson has advanced to Ristiina, whence he has gone towards
+                        Mikkeli, where stores can be found. My news goes only so far: it is from 31
+                        May, 1 and 2 June. We are therefore, it seems, well established in Swedish
+                        Finland, and the Swedish corps from Savelan seems to be cut off. Major-Gen.
+                        Schulz is to attack it soon. Farewell, safe travels, and good luck. I almost
+                        forgot to tell you that we also have seemingly reliable news that the large
+                        Swedish flottila is in such a bad state that a very knowledgeable man of the
+                        trade is thought to have said, 'you would have to be mad to take it against
+                        the enemy'..</p>
+                    <closer><signed><persName type="signature" ref="people.xml#cat01">Catherine</persName>.</signed>
+                        <dateline><placeName ref="places.xml#tsa01">at Tsarskoe Selo.</placeName>
+                            <date when-custom="1789-06-04">4 June 1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

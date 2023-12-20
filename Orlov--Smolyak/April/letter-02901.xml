@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02901</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02901</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-13">13-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:22:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02901">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>В награждение капитана <persName ref="people.xml#kon01"> Коняева</persName> Я ему пожаловала
+    три тысячи рублей, а капитану <persName ref="people.xml#kle01"> Клеопину</persName> две тысячи
+    рублей. Спросите у них, хотят ли оныя деньги от вас получить, в таком случае вы и прикажите им
+    выдать, или хотят ли их здесь получить и кому оныя отдать, и тогда я прикажу здесь им выдать.
+    Также приказала я графу <persName ref="people.xml#che01"> Захару Чернышеву</persName>, чтоб он к
+    вам послал в запас снова десять крестов георгиевских для раздачи тем, кои от вас и к тому от вас
+    означенным кавалерским советом за достойны признаны впредь будут в силе статута сего ордена.
+    Впрочем, остаюсь, вак и всегда, к вам доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline> <date when-custom="1773-02-23">Февраля 23 ч., 1773 г.</date></dateline></closer>
+   <postscript><p>Оба капитана, о коих выше сего писано, суть флотские; инженер капитана
+     <persName ref="people.xml#mat02"> Матвеева</persName> я приказала переменить чином по вашему
+    желанию.</p></postscript>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01044</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01044</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:16:02Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01044">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-11-22">22
+     novembre 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. <rs ref="people.xml#pau01 people.xml#mar02">Mes enfants</rs> dans les
+    premiers instants de leur arrivée se sont empressés à m’entretenir des bontés dont V. M. I. les
+    a bien voulu combler. J’ai reçu de leurs mains en même temps la lettre qu’il Lui a plu de me
+    faire parvenir par eux en date de <placeName ref="places.xml#bru03"> Brünn</placeName> du 20
+    d’octobre. Joie et gratitude se sont réunies dans mon coeur en cet heureux moment. Que ne
+    dois-je à V. M. I., mais outre la reconnaissance que je Lui porte, mon âme guère occupée de
+    prestiges, est remplie de je ne sais quel pressentiment depuis deux jours, comme quoi je Lui
+    devrai infiniment plus encore. Il est sans doute de l’essence de l'amitié sincère d’attribuer au
+    sentiment le résultat des effets moraux dont d’ailleurs la cause est ignorée. La mienne pour V.
+    M. I. croit reconnaître pour cause Ses vertus, Son exemple, Son éloquence persuasive, Ses soins,
+    et pour effets les changements en bien que mon oeil peut-être prévenu paraît entrevoir depuis
+    deux jours. Je me souviens en même temps avec une nouvelle gratitude des paroles que contenait
+    la feuille détachée qui accompagnait une des lettres de V. M. I., et elle me servira de
+    guide.</p>
+   <p>Je suis instamment priée de recommander de nouveau aux bontés de V. M. I. la <persName
+     ref="people.xml#eli06"> Princesse Elisabeth</persName>, ce gage précieux d’une amitié
+    réciproque, et pour le bonheur de laquelle je ne forme aucun doute, parce qu’il dépend de V. M.
+    I.; j’ai fait plus, j’ai dit qu’en toute confiance je m’en rendrais caution. C’est avec les
+    sentiments de l’amitié et confiance la plus inaltérable et avec ceux de la plus haute
+    considération que j’ai l’honneur d’être….</p>
+   <p>Je me réserve de répondre à la lettre de V. M. I. qui regarde nos affaires avec un autre
+    courrier.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02946</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02946</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to find reference to Madame de l’Hôpital (presumably spouse or sister of Paul François
+     Gallucci #people-gal04?). Have taken ‘grand ouvrage’ and reference to ‘Lois’ as #nakazk01 ref.
+     to Nakaz. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-24">24/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-26T12:48:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-26">26-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02946">
+  <body>
+
+   <opener><dateline> 14-eme. à <placeName ref="places.xml#pet01"> St.-P</placeName>. ce <date
+      when-custom="1766-04-06">6 d’Avril 1766</date>.</dateline></opener>
+   <p>J’ai reçue deux de Vos lettres Madame, l’une après l’autre, je m’envais y repondre par celle
+    çi. J’avais grand peur que mes fourrures Vous deplairoit, a peine le general les eut-il expediés
+    qu’il reçut une lettre ou il etoit dit, que Vous ne les aimiés pas, j’aurai bien vouluë leur
+    faire rebrousser chemin, mais il etoit trop tard, j’ai pensée les recommander a Ste. Therese, je
+    n’en ai rien fait cependant, et avec plaisir j’ai vue que sans son intercession mes fourrures ne
+    Vous sont pas tout a fait desagreables; ou bien que Vous avés trop de complaisance pour Vos
+    amis. Tenez la rondement je veut que Vous me disiés, Vos fourrures sont belles mais je ne peut
+    les souffrir; notés que celle d’hermine, Vous apartient de plein droit. </p>
+   <p>L’etat mitoyen existera devroit-il porter Votre nom, puisque par experience Vous trouvés cet
+    etat si heureux, il faudra bien l'etablir, ce motif me fera aisement resoudre et agir, car je le
+    compte pour un devoir essentiel de ma place. </p>
+   <p>Vos assurances reitérées m’ont fait revenir de tout soupçons et conjectures, je compte que
+    nous sommes touttes les deux parfaitement reconçiliés.</p>
+   <p>Je ne me doutois pas que j’obligerai la famille de Madame de l’Hôpital, en disant du mal de
+    leur gendre; voila de ses effets qu’on ne prévois pas.</p>
+   <p>Madame, je ne dirai rien à Votre Cour, puisqu’ils ont envie d’etre trompés par leur gens
+    qu’ils le soyent, je les ai fait avertir une foi qu’ils l’étoit, ils ont laissé tomber cela, je
+    ne trouve pas qu’il vaille la peine d’y retourner.</p>
+   <p>Je Vous suis bien obligé Madame de l’amitié que Vous marqués pour <rs ref="works.xml#lesoph01"
+     > Schah Baham</rs>. C’est une ancienne connoissance que j’affectionne je n’ai plus le tems d’en
+    faire de pareille parcequ’apresent l’on me fait trop de conte pour que j’aye le loisir d’en
+    lire.</p>
+   <p>Ah! Madame ce <rs ref="people.xml#bet01"> General</rs>, ce <rs ref="people.xml#bet01">
+     General</rs> et sa mauvaise humeur me perce le cœur autant qu’a Vous. Je m’envais faire ma
+    confession entre Vos mains. je ne ferai pas comme lui, qui Vous dit qu’il est triste, Vous
+    afflige, et ne Vous en dis pas la raison. Hé bien ce <rs ref="people.xml#bet01"> General</rs>
+    est allé s’imaginer parcequ’il étoit acoutumé que nos idées ce rencontrais toujour, et que deux
+    ou trois fois, sans toucher au principes sur lesquels nous étions toujour d’accord, j’ai euë un
+    avis different du sien, il est allé s’imaginer dije, que je manquois de confiance pour lui,
+    comme nous sommes fort ami, peu accoutumé a differer d’avis, et tout les deux vifs comme du
+    salpetre, nous ayons euë deux ou trois explications tres chaude, dans lesquelles en cherchant
+    tout les moyens de nous raprocher nous n’en venions pas a bout, mais comme au fond nous n’avions
+    rien l’un contre l’autre, nous nous sommes retrouvés a la longue, du moins de mon coté est-ce
+    ainsi, et marque que je n’ai pas changée a son égard, s’est que je souhaite passionnement qu’il
+    acheve les ouvrages, qu’il a entrepris. Je ne crois pas non plus qu’il me garde rancune. Madame
+    desacoutumé Vous je Vous prie des prosternations, Vos prieres sont si raisonnables, qu’elles
+    seront exauçées sans que Vous en ayé besoin. Le <rs ref="people.xml#bet01"> General</rs> a eu
+    tout plein de douce paroles a Votre intention.</p>
+   <p>Nous ne parlerons plus Madame de la longueur de nos lettre, nous les ferons telle que nous
+    pourrons, et Vous ne sentirés plus le vilain poids de la Majesté, car il est vilain dans les
+    lettre comme les notres. M-r de <persName ref="people.xml#mon03"> Montesquieu</persName> defend
+    de faire sentir ce poids, mal apropos, je prie ce grand homme d’interceder pour moi afin que ce
+    péché me soit remis, j’ai grande foi a sa béatitude, si j’étois Pape je le canoniseroit, et
+    n’ecouterois guere le playdoyer de l’avocat du Diable. </p>
+   <p>Mon <rs ref="works.xml#nakazk01"> grand ouvrage</rs> et ma tapisserie avance également, l’un
+    deux heures le matin l’autre durant la lecture de l’apres diné.</p>
+   <p>Je suis très embarassée lorsque Vous me loué, si je ne convient pas de ce que Vous me dites,
+    Vous nommée cela persiflage, voulés Vous qu’avec <rs ref="works.xml#lafaus01"> la fausse
+     Agnès</rs> j’aille Vous dire <hi rend="italic">cela est vrai, cela est vrai</hi>, prenons un
+    millieu permettés moi de passer sur ses passages de Vos lettres. </p>
+   <p>Appropos de <hi rend="italic">cela est vrai</hi>, lorsque Votre derniere lettre est arrivée,
+    le Cte. <persName ref="people.xml#orl01"> Orlof</persName> etoit dans ma chambre, il y a un
+    article dans cette lettre ou Vous me supposé de l’activité parceque je travaille aux <rs
+     ref="works.xml#nakazk01"> Loix</rs> et que je fait de la tapisserie, Lui qui est un paresseux
+    de profession, quoiqu’il aye beaucoup d’esprit et de talens naturellement, s’est écrié <hi
+     rend="italic">cela est vrai</hi>, et voila la première fois que j’aye entenduë une louange de
+    sa bouche et c’est a Vous Madame que je la dois. Cette lettre Vous depeint l’interieur de mon
+    apartament, Vous voyés que ni le <rs ref="people.xml#bet01"> General</rs> ni le <rs
+     ref="people.xml#orl01"> Cte</rs> ne sont pas flatteurs. Je Vous embrasse Madame, pour la
+    promesse que Vous me faites de recommencer bientot une autre lettre, je la recevrai avec autant
+    d’amitié et de plaisir que j’en sens pour tout ce qui me vient de Vous.</p>
+   <p>M-r <persName ref="people.xml#ale06"> d’Alembert</persName> resoudra t’il ma question en
+    attendent je me contente de Votre decision. </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03568</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03568</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#domesticPolicy"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#summer"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-20">20/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:53:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03568">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#tsa01"> Tsarako-Sélo</placeName>, ce <date when-custom="1779-07-30">30 juillet 1779</date>.</dateline></opener>
+   <p><persName ref="people.xml#wag02"> Wagnière</persName> est arrivé, mais comme il est malade de
+    la jaunisse, je ne l’ai point vu encore. Ma quelle chaleur nous avons depuis deux mois! je
+    crains de fondre; de ma vie je n’ai tant sué. Ce qu’il y a de singulier à cela, c’est que le
+    gazon d’ici n’en a pas souffert du tout et qu’il est plus beau que jamais. Hier on nous a donné
+    de nouveau ici, sur mon charmant théâtre, où il peut y entrer cinq cents personnes, <hi
+     rend="italic">la pulmonia</hi>, et j’ai ri à me tenir les côtés de cet air, et d’un autre dont
+    les paroles sont: </p>
+   <q xml:lang="la"> Salve Tu Domine, Argratiphontidas salutem Tibi per
+     me. </q>
+   <p>Je chante celui-ci si bien qu’à la mascarade du 22 juillet j’ai accosté <persName
+     ref="people.xml#pai01"> Païsiello</persName> en lui chantant son air, ce dont il n’a pas manqué
+    de se vanter à ses connaissances. Le saint synode a assisté à cette représentation d’hier, et
+    ils en ont ri aux larmes avec nous; vous voyez que tandis que vous vous battez, nous chantons et
+    rions: chacun à son tour dans ce monde; cependant je souhaite de tout mon coeur de voir rire et
+    chanter tout le monde et de n’entendre plus jamais parler seulement de combats. Chez nous il y a
+    un autre mal qui gagne; c’est le mal des nouveaux gouvernements: nous en aurons dix-huit selon
+    la nouvelle réforme arrangée à la fin de cette année, et par malheur la petite bégueule le sera
+    l’année qui vient; l’année 1781 le tour de la grande bégueule arrivera; elle est toute préparée
+    à recevoir cette malheureuse époque avec résignation; jamais on ne vit une condescendance pins
+    marquée; enfin ce ne sont pas des pierres à avaler. Si vous saviez comme l’étude des L. D. me
+    dessèche la cervelle, vous seriez étonné comment je puis vous écrire une lettre aussi longue.
+    Dites-moi un peu si vous y reconnaissez mon style? Je commence à croire que les belles choses
+    rendent les gens pécores. </p>
+   <closer><signed rend="inline">Adieu, il faut que j’aille enseigner l’а b c à <persName
+     ref="people.xml#ale01"> M. Alexandre</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

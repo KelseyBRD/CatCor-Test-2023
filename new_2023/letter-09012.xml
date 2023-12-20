@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09012</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09012</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="fr" xml:id="letter-09012">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1786-03-04">1786 lе 4 Mars.</date>
+                </dateline>
+            </opener>
+            <p>S’il y a un dictionnaire de rime Russe imprimé, faites le acheter pour moi et envoyez le moi 
+                <note type="editorial">
+                In A.V. Khrapovitskii's diary under <date when-custom="1786-03-16">March 13 1786</date> stands: "Поднес первыя тетради Лексикона риѳм и получил благодарность". Khrapovitskii kept handing over books of the Rhymes' Dictionary to Catherine until <date when-custom="1786-04-21">April 21 1786</date> and was then ordered to bind all 21 books of it, which he achieved on <date when-custom="1786-04-24">April 24 1786</date> (
+                <bibl>
+                    <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                    , <biblScope unit="pp">pp. 4-5.</biblScope>
+                </bibl>
+                ).
+                </note>, comme les autres livres.</p>
+        </body>
+    </text>
+</TEI>

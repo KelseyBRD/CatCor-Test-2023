@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03562</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03562</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-19">19/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:51:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03562">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St
+     Pétersb</placeName>., ce <date when-custom="1779-05-18">18 mai 1779</date>.</dateline></opener>
+   <p>Pancarte sur pancarte, No 1 <seg xml:lang="de"> Vortrag</seg> m’est heureusement parvenu. J’ai
+    l’honneur de vous féliciter sur la fin définitive des <seg xml:lang="de"> Nach und Vortrag</seg>
+    bavarois; nous en voilà quittes, Dieu donne, à jamais; j’ai reçu une douzaine de traités à la
+    fois; je m’en réjouis beaucoup. Vous savez aussi que mon grand ami <persName
+     ref="people.xml#abd01"> Abdoul Hamet</persName> et moi nous sommes convenus de vivre le mieux
+    que nous pourrons: il n’y a donc plus que vous autres et vos voisins qui vous chamaillez pour
+    des bouts de chandelle, qui vous bruleront réciproquement les doigts ou bien alternativement, ou
+    bien aux uns et aux autres, ou bien aux uns après les autres: laquelle de ces sauces aimez-vous
+    le mieux ? J’ai vi gentil courrier, qui a l’air page malgré sa prudence avérée, et j’ai reçu et
+    No 1 et No 2 toile cirée et château de <placeName ref="places.xml#fer01"> Ferney</placeName>.
+    Ainsi soit-il de votre arrangement panckouckien eu égard à l’édition des oeuvres de <persName
+     ref="people.xml#vol01"> Voltaire</persName>, et grand merci de ce que vous avez esquivé tout
+    sujet de procès, malentendu et affaires avec l’ <rs ref="people.xml#bea01">
+     auteur de Figaro</rs>, <title ref="works.xml#barbie01">Barbier de Séville</title>,
+    que j’aime beaucoup à voir représenter, mais dont il est bon d’esquiver la connaissance le plus
+    longtemps possible.</p>
+   <p>Pour ce qui regard <persName ref="people.xml#cle01"> Clérisseau</persName> et son trésor, vous
+    ferez comme vous l’entendrez et vous recevrez ce qu’il vous en donnera, sans jamais l’en
+    presser, lui payant capital ou intérêts selon que le procédé vous en paraitra plus agréable a
+    lui, et plus noble pour moi. Mais je crois que, vu la saison avancée de cette année, quand ceci
+    vous parviendra, vous feriez mieux de laisser le trésor entre les mains de son auteur jusqu’à
+    l’année qui vient; alors vous ne risquerez point le trajet de mer pour l’arrière-saison, et il
+    jouira d’autant plus longtemps de son trésor s’il persiste à vouloir s’en défaire. J’ai donné à
+     <persName ref="people.xml#bet01"> M. Betski</persName> son nom, afin qu’il soit reçu associe
+    honoraire à l’<orgName ref="orgs.xml#acad02"> Académie</orgName> des beaux-arts. J’approuve
+    l’article ou les articles des paiements de ce trésor, comme vous me le proposez. Je n’ai encore
+    jamais expédié de brevet d’architecte, mais si l’expédition du trésor y est attachée, j’en ferai
+    expédier un pour <persName ref="people.xml#cle01"> Clérisseau</persName>. Pour de <persName
+     ref="people.xml#wag02"> Wagnière</persName>, je n’en ai pas grand besoin jusqu’ici, parce que
+    je suis encore à chercher la place de la bâtisse. Pour dame <persName ref="people.xml#oli01">
+     Corilla l’Olympique</persName> puisqu’elle a envie de venir grelotter avec nous, je ne l’en
+    empêche pas, et votre projet pour le conducteur de Dionysius <persName ref="people.xml#did01">
+     Diderot</persName> est quasi adopté ; je m’en vais en écrire au <persName
+     ref="people.xml#orl03"> comte Alexis</persName>, par qui la proposition de la dame m’est
+    parvenu, après quoi ce conducteur pourra se vanter d’avoir été le guide des deux têtes à plus
+    forte imagination qui nous restent.</p>
+   <p>A peine la réponse du <seg xml:lang="de"> Vortrag</seg> intitule No 1 était-elle parvenue
+    jusqu’à cette page que ne voilà-t-il pas que <seg xml:lang="de"> Vortrag</seg> No 2 m’arrive; je
+    ne sais pourquoi vous imaginez les plus ennuyeux titres possibles pour vos pancartes. <seg
+     xml:lang="it"> Primo</seg>, qu’ai-je à faire des tableaux de l’Albane que les <persName ref="people.xml#rob01"> Robin Robinet</persName>, Michel Pesinet ou Sinet et
+    compagnie vendent. Je n’ai point d’argent pour ça; il me suffit cette année d’avoir acheté
+    toutes les inutilités possible, savoir: <rs ref="works.xml#librar01">
+     bibliothèque <rs ref="people.xml#vol01">patriarcale</rs></rs>, tableaux <persName ref="people.xml#wal01 people.xml#wal02">
+     Wapole</persName>, tableaux <persName ref="people.xml#udn01"> Udney</persName>,
+    etc. et quantité de jouets d’enfants pour <persName ref="people.xml#ale01"> M.
+     Alexandre</persName> et <rs ref="people.xml#kon01"> compagnie</rs>. Pour l’ <rs
+     ref="people.xml#cha08"> avocat de Chartres</rs>, si son manuscrit est à payer avec la médaille
+    d’or qui est chez vous, lâchez-la, et prenez le manuscrit. Les lettres du <rs
+     ref="people.xml#vol01"> cher monsieur</rs> sont toujours les bienvenues; il appareille si bien
+    ses mots qu’on est enchanté de voir ses enclavures, après quoi je trouve que vous et <persName
+     ref="people.xml#gra01"> M. de Vergennes</persName>, vous allez, pour me faire plaisir,
+    dévaliser un honnête <seg xml:lang="en"> gentleman</seg> anglais ; assurément je vous ai
+    beaucoup d’obligations pour le plaisir que vous voulez me procurer et pour l’empressement que
+    vous m’avez marqué en ce cas et en bien d’autres. Quand je dis <hi rend="italic">vous</hi>,
+    j’entends vous et <persName ref="people.xml#gra01"> M. de Vergennes</persName>, <seg
+     xml:lang="it"> ma</seg> j’ai un peu de conscience de ce que cela va se faire aux dépens du
+    prochain. Si le bon Anglais s’adresse à moi, je lui rendrai son tableau, et je ne vous en aurai
+    pas moins d’obligations pour cela. J’ai ordonné de nouvelles perquisitions près de <rs
+     ref="people.xml#fre03"> ample baron</rs> sur ce que <persName ref="people.xml#san03">
+     Santini</persName> n’est point payé tandis que <rs ref="people.xml#fre03"> l’ample baron</rs> a
+    reçu d’ <persName ref="people.xml#ols01"> Olsoufief</persName> la somme nette.</p>
+   <p>Dès aujourd’hui j’aurai plus de respect que jamais pour les saints de Dieu, vu que la
+     <persName ref="people.xml#chu01"> duchesse de Kingston</persName> est venue sur mes frégates et
+    que je n’ai pas su y faire embarquer ma bibliothèque. Voilà ce que c’est que de faire espérer sa
+    succession à un <seg xml:lang="en"> vice-president</seg> de l’amirauté; tout de suite il vous
+    embarque, et moi je ne suis qu’une cruche; je n’ai pas même imaginé que ses vaisseaux pouvaient
+    faire un tour à gauche dans <placeName ref="places.xml#eng02"> La Manche</placeName> et prendre
+    cette bibliothèque a <placeName ref="places.xml#cal01"> Calais</placeName>; je le fais marcher
+    en <placeName ref="places.xml#hol02"> Hollande</placeName>. <seg xml:lang="it"> ma</seg> M. le
+     <seg xml:lang="en"> vice-president</seg> a beau embarquer sa <rs ref="people.xml#chu01">
+     duchesse</rs>, elle le trompera comme bien d’autres, et il n’aura jamais que les tableau
+    qu’elle a mis en dépôt chez lui et les procès qu’elle laissera pour ses tableaux. Mais finissez
+    donc, ma plume sur cette matière. </p>
+   <p>Votre lettre à <persName ref="people.xml#pal02"> M. Pallas</persName> a été envoyé par
+     <persName ref="people.xml#bez01"> Bezborodka</persName> a sa destination; monsieur le duc
+    géographe est trop savant pour moi; je ne saurais répondre à ses questions, et je crois que
+     <persName ref="people.xml#pal02"> M. Pallas</persName> ni personne chez nous ne peut lui dire
+    ce qu’il y a entre les <placeName ref="places.xml#ale01"> îles Aléoutes</placeName> et l’
+     <placeName ref="places.xml#ame01"> Amérique</placeName>, vu que personne de chez nous n’a
+    dépassé ces <rs ref="places.xml#ale01"> îles</rs>, ni n’a abordé encoure en <placeName
+     ref="places.xml#ame01"> Amérique</placeName>; les <placeName ref="places.xml#ale01"> îles
+     Aléoutes</placeName> disent qu’il y a une grande terre a une grande distances de chez eux, et
+    puis c’est tout. Que Dieu bénisse monsieur le duc, gouverner géographe et cordon bleu, et le
+    saint-père aussi, afin que nous raphäelisions, vous, le divin <persName ref="people.xml#rei03">
+     Reiffenstein</persName> et moi, jusqu’à la clôture du grand ouvrage entrepris. <seg
+     xml:lang="it"> Ma</seg> j’ai oubliais de vous dire que si vous avez de mon argent deux mille
+    roubles que dans ce moment-ci vous ne saver encore ou placer ou comment dépenser, vous ayez la
+    bonté de les donner a <persName ref="people.xml#did01"> Denis Diderot</persName>, qui connait
+    l’emploi qu’il en fera, sur quo je prie Dieu qu’il vous maintienne dans sa sainte et digne
+    garde. Amen. </p>
+  </body>
+ </text>
+</TEI>

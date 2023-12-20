@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02822</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02822</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Cannot locate what sounds like a river that Catherine calls Wolhova. (2) Unable to find
+     an reliable reference to a Mad. de Munchhausen née Schoulenbourg (3) I coded Countess Gianini
+     who Catherine mentions, but I could not find anything reliable on her either</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:28:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02822">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01">Czarskoçelo</placeName> ce <date
+      when-custom="1785-07-05">5. Juillet 1785</date>.</dateline></opener>
+   <p>J’ai eu le plaisir, Monsieur, de recevoir vos deux lettres du 10. et. 31. May pendant le
+    voyage que j’ai fait pour voir les communications d’eaux qui approvisionnent <placeName
+     ref="places.xml#pet01">Petersbourg</placeName> pendant l’été; à la mi-chemin de <placeName
+     ref="places.xml#mos01">Moscow</placeName> la fantaisie m’a prise de faire <rs
+     ref="events.xml#mosco01"> un tour</rs> de trois à quatre jours dans cette ancienne capitale,
+    tout cela a fait, que j’ai différée jusqu’ici de vous répondre. J’espère à mon retour
+     à <placeName ref="places.xml#pet01">Petersbourg</placeName> y trouver le 3. et 4. tome de <rs
+     ref="works.xml#einsam01"> votre ouvrage sur la solitude</rs>. Je vous envoyé ci joint l’annonce
+    au public, que le <persName ref="people.xml#pal02">Professeur Pallas</persName> a fait du <title
+     ref="works.xml#dictio03"> Dictionnaire</title> des mots radicaux de toutes les langues que nous
+    avons pu ramasser. J’ai revu à <placeName ref="places.xml#mos01">Moscow</placeName> le héros de
+     <name ref="events.xml#chesm01"><placeName ref="places.xml#che02"> Tschesma</placeName></name>,
+    l’illustre Comte <persName ref="people.xml#orl03"> Orlof</persName>; il étoit occupé à soigner
+    sa jeune <rs ref="people.xml#lop01"> épouse</rs> qui étoit en couche d’un premier <rs
+     ref="people.xml#orl11"> enfant</rs>. Par malheur ce n’est qu’une <rs ref="people.xml#orl11">
+     fille</rs>; je ne le crois pas bien expert à les élever, et par cette raison je lui ai souhaité
+    un fils, auquel il serve de modèle. Mr. <persName ref="people.xml#cox01"> Сохе</persName>, dont
+    vous me parlés, a été deux fois en <placeName ref="places.xml#rus01">Russie</placeName> ; il
+    vient de nous quitter tout récemment, il m’a donné <rs ref="works.xml#travel01"> son
+     ouvrage</rs> que j’ai feuilleté; il m’a paru dire les choses telles qu’il les a appris,
+    cependant il se trompe quelques fois, mais c’est de bonne foi. Je ferai l’acquisition de <rs
+     ref="works.xml#travel01 works.xml#travel02">la traduction</rs>, puisque vous me la
+    recommandés.</p>
+   <p>Je viens de faire près de deux cent lieues et demi d’<placeName ref="places.xml#ger01"
+     >Allemagne</placeName> par terre et par eaux, je n’en ai pas sentie la moindre incommodité,
+    malgré la petite santé, que me prêtent les gazettes.</p>
+   <p>Je ne sais ce que fait <persName ref="people.xml#wei02"> Weikard</persName>, il y a prés d’un
+    mois, que je ne l’ai vue; il est resté à <placeName ref="places.xml#pet01"
+     >Petersbourg</placeName>, dont je suis partie le 24. May.</p>
+   <p>Je vous écris cette lettre de dessus ma barque sur le Wolhova, mais je l’acheverai
+     à <placeName ref="places.xml#tsa01">Czarskoçelo</placeName> après mon retour.</p>
+   <p>Je me souviens très bien de Mad. de Munchhausen née Schoulenbourg, si c’est elle qui avec la
+    Comtesse <persName ref="people.xml#gia01"> Gianini</persName> étoit Demoiselle de <persName
+     ref="people.xml#bru02"> Bronswig</persName> qui demeuroit au <placeName ref="places.xml#gra02">
+     Grauenhof</placeName> et chez laquelle ma <rs ref="people.xml#anh02"> mère</rs> avoit etée
+    élevée; j’étois alors une étourdie de profession, mais fort gaie.</p>
+   <p>En revenant ici à <placeName ref="places.xml#tsa01">Czarskoçelo</placeName> j’ai trouvé deux
+    exemplaires de <rs ref="works.xml#einsam01"> votre livre</rs>, je vous remercie beaucoup de
+    cet envoy, je m’envais me mettre à les lire, je ne doute point que le 3. et 4. tome ne répondent
+    aux deux premiers. </p>
+   <signed rend="inline">Adieu, portés vous bien et soyés assuré de mon estime toute
+    particulière. <persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed>
+   <postscript><p>Je vous prie de me dire dans votre réponse qu’est ce que c’est que la
+    maladie du Prince Coadjuteur de Lubeck, auquel je m’intéresse beaucoup, je sais que vous avés été consulté à cette
+    occasion.</p></postscript>
+  </body>
+ </text>
+</TEI>

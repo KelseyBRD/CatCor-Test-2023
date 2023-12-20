@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09064</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09064</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#crimea"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09064"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-07-01">1788 г. июля 1.</date>
+                </dateline>
+            </opener>
+            <p>Пошли пожалуй к <rs ref="people.xml#ost05">вице-канцлеру</rs> сказать, что когда сумасшедшая <placeName ref="places.xml#swe01">шведская</placeName>, <persName ref="people.xml#sch05">Шляфом</persName> подписанная, нота <rs ref="people.xml#ost05">ему</rs> не нужна уже будет, чтоб <rs ref="people.xml#ost05">он</rs> ее на час ко мне прислал.
+                <note type="editorial">
+                    The note mentioned in this letter was sent in by the secretary of Swedish embassy <persName ref="people.xml#sch05">Schlaff</persName>. In this note the king of Sweden <persName ref="people.xml#gus01">Gustav III</persName> asked wheather there will be war or peace and proposed following conditions for the peace treaty: 1. To punish <persName ref="people.xml#raz02">count Razumovskii</persName> for his intrigues to revolt Swedish people; 2. To give to Sweden <placeName ref="places.xml#fin01">Finland</placeName> and the part of <placeName ref="places.xml#kar01">Karelia</placeName> to <placeName ref="places.xml#ses02">Systerbäck</placeName>, or all that what Sweden ceded to Russia by the <name type="event" ref="events.xml#abotre01">Treaty of Neustadt and Abo</name>; 3. To accept Gustav III's mediation in concluding peace treaty with <placeName ref="places.xml#ott0101">Porte</placeName> and to cede to Porte <placeName ref="places.xml#cri01">Crimea</placeName> and to restore the borderds as for 1768 before <name type="event" ref="events.xnl#turki01">the last war</name> (
+                        <bibl>
+                            <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 58.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

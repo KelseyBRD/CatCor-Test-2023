@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00818</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00818</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-06">06 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00818">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute></opener>
+                    <p> С час тому назад я получила твое письмо от 19 сего месяца и реляцию твою от
+                        того же числа, из которых вижу, что турки продолжают канонировать <placeName
+                            ref="places.xml#kin01">Кинбурн</placeName> и что двойжды предприяли
+                        учинить десанты, которые однако были отражаемы. Дай Боже, чтоб предприятия
+                        ваши на турецкие бомбардирские суда были удачны и чтоб вам удалось спасти
+                            <placeName ref="places.xml#kin01">Кинбурн.</placeName> Судить естли
+                        издали по обороне фрегата и по предерзкому поступку галеры "Десна", то
+                        неприятель будет отпотчиван самым храбрым образом. Теснит грудь мою Ваше
+                        собственное состоянье и Ваши спазмы. Чувствительность и горячность, которые
+                        производит усердие, понимаю весьма, что возбуждает в Вас нетерпеливость. Я
+                        сама весьма часто в таком же положении, паче же тогда, когда дела таковой
+                        важности, как ныне. Но ничего хуже не можешь делать, как лишить меня и
+                        Империю низложением твоих достоинств человека самонужного, способного,
+                        верного, да при том и лутчего друга. Оставь унылую таковую мысль, ободри
+                        свой дух, <seg xml:lang="fr">raidisses Votre esprit et Votre ame contre
+                            tous les evenements, et soyes assure que Vous les vaincres tous avec un
+                            peu de patience, mais c'est une vraie faiblesse,</seg> чтоб, как
+                        пишешь ко мне, снизложить свои достоинства и скрыться. От чего? Я не ведаю.
+                        Не запрещаю тебе приехать сюда, естьли ты увидишь, что твой приезд не
+                        разстроит тобою начатое, либо производимое, либо судишь, что побывание твое
+                        здесь нужнее, нежели тут, где ты теперь. Приказание к <persName
+                            ref="people.xml#rum01">Фельдмаршалу Румянцеву</persName> для принятия
+                        команды, когда ты ему сдашь, посылаю к тебе. Вручишь ему оное, как возможно
+                        позже, естьли последуешь моему мнению и совету. С моей же стороны пребываю,
+                        хотя с печальным духом, но со всегдашним моим дружеским
+                        доброжелательством.</p>
+                    <closer><dateline rend="below"><date when-custom="1787-09-25">Сен[тября] 25,
+                                1787</date></dateline></closer>
+                    <postscript>
+                        <p>Как отъедешь от своего нынешнего поста, кому поручишь Кавказский корпус?
+                            О сем <persName ref="people.xmlrum01">Фельдм[аршал] Румянцев</persName>
+                            и о тамошних делах сведений не имеет и едва может ли оными управлять, и
+                            что из того выйдет, - не ведаю. Ты сам знаешь, каково трудно мне
+                            показывается всякая мысль, к которой я никак не приуготовлена, но однако
+                            на такой для меня трудный шаг я решилась, понеже говоришь, что здоровье
+                            твое того требует. Здоровье твое мне нужно. Я тебе его желаю, равномерно
+                            и продолжения дел славных для тебя и Империи. Дай Боже, чтобы ты
+                            раздумал сдать команду <persName ref="people.xmlrum01">Фельдмаршалу
+                                Румянцеву.</persName> Не понимаю, как одному командовать ужасной
+                            таковой громадою. Разве в такое время, когда за верно будет безопасно от
+                            неприятельских нападений или предприятий.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

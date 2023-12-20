@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04770</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04770</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#police"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to find reference of Reimbert or Maniard, both names only mentioned in this letter.
+     Kelsey: further research required.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:51:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-09">09/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected. Query left for further
+    research.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04770">
+  <body>
+
+   <p>A l’affaire de <persName ref="people.xml#poc01"> Pochel</persName>, j’ai entendu dire au <rs
+     ref="people.xml#chi05">général de Police</rs> qu’il n’y avait aucune difficulté ; je n’ai
+    aucune connaissance du crochet qui arrête son privilège; l’affaire de <persName
+     ref="people.xml#rei02">Reimbert</persName> est, je crois, au <orgName ref="orgs.xml#sena01"
+     >Sénat</orgName>. Le mémoire de M-r <persName ref="people.xml#vil01"> du Villiers</persName>
+    doit être employé là où il pourra faire le meilleur effet apparemment. La question sur laquelle
+    appuie cette affaire parait simple: la loi est-elle claire, ne l’est-elle pas? La loi est-elle
+    bonne ou mauvaise est une autre question; les raisons pour ou contre, alors, doivent être
+    débattues, et puis l’on verra si c’est l’Avocat du Diable ou sa contre partie, qui gagnera le
+    procès. On est étonné, chez nous, quand un procès dure un an; chez vous, ils durent cent ans.
+    Cependant, Monsieur <persName ref="people.xml#rei02"> Reimbert</persName> et Madame <persName
+     ref="people.xml#man02"> Maniard</persName> ont de très-puissants protecteurs; pourquoi faut-il
+    que je me mêle de leurs affaires? la partie deviendrait trop forte, je ne veux point gêner les
+    lois ni les débats des cours judiciaires.</p>
+  </body>
+ </text>
+</TEI>

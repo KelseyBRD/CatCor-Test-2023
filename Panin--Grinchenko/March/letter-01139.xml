@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01139</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01139</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Don't know who Алекс. Гр. is + Немецкие станы</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-09"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01139">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Сейчас получила Ваше письмо от 30 Апреля, где Вы меня уведомляете о здоровье
+                    <persName ref="people.xml#pau01">сына</persName> моего; я также здорова и все
+                при мне находящиеся, и думаю завтра отселе ехать. Несколько доктора <persName
+                    ref="people.xml#kru01">Круза</persName> письмо о Алекс. Гр. заставляет думать,
+                что ему хуже стало, а Ваша об нем к <persName ref="people.xml#ela01"
+                    >Елагину</persName> цидулка нас было обрадовала.</p>
+            <closer><signed rend="inline">Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline>Из<placeName ref="places.xml#tve01">Твери</placeName>, <date
+                        when-custom="1767-05-01">Маия 1 ч.</date></dateline></closer>
+            <postscript>
+                <p>Желаю Вам веселиться иа Немецких станах, только холодно здесь; не знаю как у
+                    вас.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

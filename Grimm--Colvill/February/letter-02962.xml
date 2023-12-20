@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02962</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02962</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrebellion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-17">17/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:01:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02962">
+  <body>
+   
+   <opener><dateline> Ce <date when-custom="1774-12-03">3 décembre 1774</date>.</dateline></opener>
+   <p>J’ai l’honneur par celle-ci de vous accuser votre pancarte № 8, écrite de <placeName ref="places.xml#par01">
+    Paris</placeName> tout au long. Je cite cela, parce que j’ai cru que tout ce qui venait de là pétillait
+    d’esprit; or, je dois vous avertir que votre dépêche sent le nord, et pour vous parler plus
+    clairement-, monsieur le philosophe, sauf le respect, vous déraisonnez avec contradiction
+    d’opinion et d’action, comme il convient à un franc et honnête humain, ce que je pourrais vous
+    démontrer comme deux fois deux font quatre; mais dont cependant je ne ferai rien par la vaste
+    cause que j’ai la fièvre dans le corps, mal de gorge et indigestion, et que pour faire
+    exemplaire justice de moi-même et écarter les charlatans, je me suis condamnée au pain et à
+    l’eau. Vous savez que la faim donne de l’appétit, et l’appétit non satisfait de l’humeur, voilà
+    pourquoi je n’irai ni enfiler ni défiler des démonstrations, ni des preuves de ce que j’ai
+    avancé ci-dessus, mais vous devez m’en croire sur ma parole. La preuve vous sera fournie une
+    autre fois, monsieur le marchand de portraits. Je vous félicite, comme habitant du <placeName
+     ref="places.xml#pal02"> Palais Royal</placeName>, du rétablissement de l’ancien parlement etc.
+    etc. etc.</p>
+   <p>Vers la fin de ce mois je m’en vais à <placeName ref="places.xml#mos01">Moscou</placeName> et y viendra qui pourra, la la, et
+    y viendra qui voudra. Serez-vous du nombre? Je suis très édifiée de la description des coiffures
+    des dames que vous avez trouvées établies, mais non l’imiterai. Le marquis <persName ref="people.xml#pug01">Pougatchef</persName> s’occupe à mentir, à inculper, à disculper, à faire toutes les fonctions du diable
+    incarné dans sa prison, mais il a beau faire, nous le tenons.</p>
+   <p><persName ref="people.xml#tho01"> М. Thomas</persName>, sa fille chérie et monsieur fils de
+    Thomas âgé de quatre mois, plus gai, plus fou, plus capricieux et plus impertinent que toute la
+    famille et plus aimable aussi peut-être, vous présentent leurs respects; les voilà autour de moi
+    ronflant à leur aise, et moi j’entends les ronflements aussi bien que d’autres le gazouillement
+    des oiseaux. Brûlons nos lettres, monsieur: en vérité, elles ne sont bonnes qu’à cela. Le <title ref="works.xml#portra01"> portrait d’Olympie</title> dans vos <rs
+     ref="works.xml#corres03"> dernières feuilles</rs> est-il d’après nature ou d’imagination?</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09140</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09140</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-07">2023-07-07</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09140"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1792-02-24">1792 г. 24 февраля.</date>
+                </dateline>
+            </opener>
+            <p><title ref="works.xml#sraslo01 works.xml#sraslo02">Сравнительнаго словаря обеих едиций по два экземпляра</title>.
+                <note type="editorial">
+                    <title ref="works.xml#sraslo01 works.xml#sraslo02">Sravnitel'nyi slovar'</title> was a project curated by Catherine herself. The project of the comparative dictionary that Catherine first elaborated herself during the times when she was mourning her favourite <persName ref="people.xml#lan01">A.D. Lanskoi</persName> was then entrusted to <persName ref="people.xml#pal02">Peter Simon Pallas</persName> who carried out the work on the dictionary's first edition published between 1787 and 1789. However, as the collection of the language material for the comparative dictionary did not cease with the publication of the first edition, Catherine immediately ordered the preparation of the second edition of the dictionary entrusted this time to <persName ref="people.xml#jan02">Teodor Janković-Mirijevski</persName> (
+                    <bibl>
+                        <title ref="works.xml#filolz01">Filologicheskie zaniatiia Ekateriny II</title>
+                        , <biblScope unit="pp">pp. 425-426, 429, 435, 439.</biblScope>
+                    </bibl>
+                    ).
+                </note></p>
+        </body>
+    </text>
+</TEI>

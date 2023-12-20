@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00088</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00088</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-18">18 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00088">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный Князь Григорий
+                            Александрович.</salute></opener>
+                    <p><persName ref="people.xml#pop01">Попов</persName> приехал с <rs
+                            ref="events.xml#bende01">Бендерскими ключами</rs> и с твоими письмами от
+                        9 ноября. За <placeName ref="places.xml#ben01">Бендеры</placeName> Богу
+                        благодарение мы приносили, а теперь тебе скажу еще раз спасибо. <persName
+                            ref="people.xml#pop01">Попову</persName> дана лента Святыя Анны да
+                        денежная дача. Приятно мне было его видеть и говорить с ним об щегольской
+                        твоей кампании, в которой попечением твоим отличным о людях они сбережены, а
+                        города неприятельские покорены. Планы сих городов я получила. Они
+                        доказывают, что Бог нам помощник и что турки более боятся орудия Российского
+                        и наших полководцев, нежели цесарских. От всего сердца теперь желаю, чтоб
+                        Христос тебе помог заключить честный и полезный мир, сей нам нужнее всего, к
+                        чему, кажется, теперь и есть надежда. Переписка твоя с <rs
+                            ref="people.xml#cez01">Гассан-пашою</rs> и с <persName
+                            ref="people.xml#mav01">Мавроени</persName> и твои весьма разумные ответы
+                        подают к тому надежду. Нельзя, чтоб твои знаменитые успехи не зделали
+                        впечатление глубое в неприятельских умах и чтоб, чувствуя свое расстройство,
+                        не обратились скорее на нужное спасение остаточного, нежели на суетные
+                        обещания и внушения враждующих нам европейцев. Покоряя <placeName
+                            ref="places.xml#ben01">Бендеры</placeName>, <seg xml:lang="fr">Vous
+                            avés couronné l'oeuvre de cette campagne</seg> и свой план выполнил.
+                        Я думаю, что <persName ref="people.xml#bul01">Булгакова</persName> к тебе
+                        отпустят; лично тебе трактовать, конечно, неловко. Как <rs
+                            ref="events.xml#braba01">Брабантские дела</rs> идут весьма плохо по сю
+                        пору, то думать можно, что цесарцы в мире имеют столько же нужды, как и мы,
+                        а захватывают <placeName ref="places.xml#wal01">Валахию</placeName> для
+                        того, чтоб удержать лишь нужное.</p>
+                    <lg xml:lang="fr"><l>Volontiers je chanterai avec Vous la chanson que Vous
+                            avés faite, que</l>
+                    <l>Nous avons pris neuf lançons<note
+                            type="editorial">Potemkin prefaced his song with a mention of the three
+                            gunboats sunk and six captured in recent action against the Turks
+                                    (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin</title>, <biblScope unit="pp">p.
+                            382</biblScope></bibl>).</note></l>
+                    <l>Sans perdre un garçon,</l>
+                    <l>Et <placeName ref="places.xml#ben01"
+                                >Benders</placeName> avec trois pachas,</l>
+                    <l>Sans perdre un chat.</l></lg>
+                    <p xml:lang="fr">J'aime à Vous voir en aussi bonne humeur et Vous avés
+                            lieu de l'être après une aussi brillante campagne. Soyés assuré que je
+                            me rejouis bien sincèrement de Vos succès.</p>
+                    <p>Я решилась взять сюда <persName ref="people.xml#sal04">Салтыкова</persName> с
+                            <placeName ref="places.xml#kub01">Кубани</placeName> и велела послать к
+                        нему курьера, также <persName ref="people.xml#ige01">Игельстрома</persName>
+                        и <persName ref="people.xml#vic01">Принца Ангальта</persName>. <rs
+                            ref="people.xml#rus01">Письмоводец</rs>
+                        <persName ref="people.xml#mus02">Графа Пушкина</persName> уже отходит, а
+                        Генерал-майоров прошу прислать хороших и не все немцев.<note
+                            type="editorial">Catherine, having urgently requested on 19 October
+                            Potemkin's help in find replacements for the unsatisfactory
+                            Musin-Pushkin and his staff in Finland, followed Potemkin's staffing
+                            recommendations of 9 November 1789 quite exactly (<bibl><title
+                                    ref="works.xml#ekater01">Ekaterina II i G.A. Potemkin</title>,
+                                    <biblScope unit="pp">pp. 379-80, 383</biblScope></bibl>). The
+                            rewards for Potemkin's nephews also followed Potemkin's
+                        hints.</note></p>
+                    <p><persName ref="people.xml#sam02">Александру Николаевичу Самойлову</persName>
+                        посылаю Александра Невского, а <persName ref="people.xml#eng01"
+                            >Энгельгардту</persName> - Владимира второго класса.</p>
+                    <p xml:lang="fr">Monsieur le moine, point de moinerie: voilà се que
+                            j'ai à répondre au mot келья, à propos de Vos appartements que je me
+                            suis fait un plaisir particulier d'enjoliver.</p>
+                    <p>После мира отдохнешь, и Бог подкрепит твои силы телесные и душевные.</p>
+                    <p>Кубанский корпус пусть будет под твоей командою, как был. Пруссаков мы
+                        ласкаем. Касательно <placeName ref="places.xml#pol01">Польши</placeName> -
+                        сие нужно сообразить с другими делами и настоящим нашим положением, чтоб
+                        каши не заводить более теперяшнего. После мира и белоруссов прибрать можно.
+                        Сон бендерских бин-пашей компанован, чтоб <rs ref="places.xml#ott01"
+                            >диван</rs> извинил сдачу <rs ref="places.xml#ben01">города</rs>, я
+                            думаю.<note type="editorial">In a separate note included with his letter
+                            of 9 November 1789 and entitled 'Чудесный случай' ('Miraculous
+                            occurrence'): eight 'bin-pashas' in charge of Ottoman cavalry in Bender
+                            had had the same dream on the night that <ref target="events.xml#akk01"
+                                >Belgrade on the Dniester (Akkerman) was taken</ref>. They were all
+                            had visions ordering them to surrender to the Russians because the divan
+                            in Constantinople was planning peace. They told the commander of Bender,
+                            and so, according to Potemkin, the Turks, when parleying with the
+                            Russians, asked if there was news of peace. (<bibl><title
+                                    ref="works.xml#ekater01">Ekaterina II i G.A. Potemkin</title>,
+                                    <biblScope unit="pp">p. 383</biblScope></bibl>).</note></p>
+                    <closer><signed xml:lang="fr">Adieu, mon Ami, portés Vous
+                        bien.</signed></closer>
+                    <postscript>
+                        <p>Сие желание часто повторяем в разговорах с <persName
+                                ref="people.xml#zub03">Платоном Александровичем</persName>, которым
+                            я весьма довольна, и ко мне привязан до крайности. Вот ему аттестат, как
+                            корнету <orgName ref="orgs.xml#cava01">Кавалергардского
+                                корпуса</orgName>, к шефу оного. Се garçon est fort aimable, d'un
+                            excellent caractère.</p>
+                    </postscript>
+                    <closer><dateline><date when-custom="1789-11-25">Ноя[бря] 25
+                                ч., 1789</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear friend Prince Grigory
+                            Aleksandrovich.</salute></opener>
+                    <p>Popov has arrived with the keys to Bender and with your letters of 9
+                        November. We gave thanks to God for Bender, and now I will say thank-you to
+                        you once more. Popov has been given a ribbon of St. Anna and a monetary
+                        gift. It was nice for me to see him and talk to him about your modish
+                        campaign, in which the soldiers have been preserved by your outstanding care
+                        while enemy cities have been subjugated. I have received the maps of those
+                        cities. They prove that God is our helper and that the Turks are more afraid
+                        of Russian arms and of our commanders than they are of the Emperors'. Now
+                        with all my heart I hope that Christ will help you conclude an honourable
+                        and beneficial peace. That is what we need most now, for which, it seems,
+                        there is now hope too. Your correspondence with the Hasan Pasha and with
+                        Mavrogenes and your most reasonable answers give hope for it. It is
+                        impossible that your renowned victories will not make a deep impression on
+                        enemy minds and that, sensing their disarray, they will not turn sooner to
+                        the necessary preservation of what is left, rather than to the vain promises
+                        and insinuations of Europeans hostile to us. In conquering Bender, you have
+                        crowned the deed of this campaign and fulfilled your plan. I think that they
+                        will release Bulgakov to you: it is, of course, awkward for you to negotiate
+                        yourself. Since the affairs in the Brabant are going very badly at the
+                        moment, the Imperials need peace as much as we do, and they are grasping at
+                        Wallachia so as to retain just what is necessary.</p>
+                    <p>I will gladly sing with you the song you composed, that</p>
+                    <p>We have taken nine long boats,</p>
+                    <p>Without losing a single boy,</p>
+                    <p>And Benders with three pashas,</p>
+                    <p>Without losing a single cat.</p>
+                    <p>I like seeing you in such a good mood, and you should be after such a
+                        brilliant campaign. Be assured that I take very sincere delight in your
+                        successes.</p>
+                    <p>I have made up my mind to bring Saltykov here from the Kuban and have ordered
+                        a courier sent to him, and to Igelström and the Prince of Anhalt. Count
+                        Pushkin's clerk is already on his way out. I ask you to send some good
+                        major-generals, and not all Germans.</p>
+                    <p>I am sending an Aleksandr Nevsky to Aleksandr Nikolaevich Samoilov and a
+                        second-class Vladimir to Engelgardt.</p>
+                    <p>Mister Monk, no monkishness: that's what I have to say to the word 'cell', as
+                        regards your apartments which it has been my particular pleasure to
+                        embellish.</p>
+                    <p>You will rest after the peace, and God will fortify your strength of mind and
+                        body.</p>
+                    <p>Let the Kuban corps be under your command as it was. We are being kind to the
+                        Prussians. As for Poland--this needs to be reckoned with the other affairs
+                        and our current position, so as not to stir things up any more than they are
+                        already. After the peace the Belorussians can be put in order too. The dream
+                        of the bin-pashas of Bender was composed so that the Divan would forgive the
+                        city's surrender, I think. Farewell, my friend, be well. Platon
+                        Aleksandrovich and I often repeat this wish in our conversation. I'm very
+                        satisfied with him, and he is extremely attached to me. This is his
+                        certificate, as a cornet in the Cavalier Guards, to their commander. That
+                        boy is most amiable, of an excellent character.</p>
+                    <closer><dateline><date when-custom="1789-11-25">Nov 25,
+                                1789</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

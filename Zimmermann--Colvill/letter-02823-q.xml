@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02823</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02823</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to identify the Sr Gross who would draw up the contracts, although one book I found
+     mentioned a Heinrich Gross who reviewed French candidates for Crimean settlement in the Hague.
+     Unclear whether these are the same people</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:28:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02823">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01">Petersb.</placeName> ce <date
+      when-custom="1786-01-10">10./21. Janvier 1786</date>.</dateline></opener>
+   <p>J’ai vu avec plaisir, Monsieur, par votre lettre du 8. Novembre, que vous étiés content des
+    édits que j’ai fait publier au mois d’Avril de l’année passée. Vous m’en parlés de la manière du
+    monde la plus agréable et tout ce que votre ami <persName ref="people.xml#wei02">
+     Weikardt</persName> me communique de votre part m’est infiniment intéressant. Ce m’est un vrai
+    plaisir de voir ce que votre esprit étendu, juste et chaud vous dicte. En général je trouve,
+    qu’une bonne tête fournit toujour un charmant spectacle à celui qui la contemple avec réflexion.
+    Mais à propos de spectacle il faut que je vous dise qu’il viennent de paraître ici deux comédies
+    Russes, l’une a pour titre <rs ref="works.xml#deceiv01"> „Le trompeur“</rs> et l’autre <rs
+     ref="works.xml#deceiv02"> „Les trompés“</rs>. La première représente <persName
+     ref="people.xml#cag01"> Caliostro</persName> (que je n’ai jamais vû, encore moins sa <rs
+     ref="people.xml#ser03"> femme</rs>, quoiqu’ils ayent étés ici) au naturel, et l’autre ses
+    dupes; notre public raffole de ces deux pièces, qui sont en effet très plaisantes. Je vous dis
+    ceci afin que vous sachiés, comment les illuminés sont traités chez nous; on dit que
+     l’<placeName ref="places.xml#ger01">Allemagne</placeName> en est innondée, c’est, je crois, par
+    mode, parceque les François sont épris de ces balivernes. Mais au lieu de vous dire tout cela,
+    dont vous n’avés que faire, je devrais vous parler du Docteur <persName ref="people.xml#mey01">
+     Meyer</persName>, sur lequel vous attendés ma réponse, de même que sur le compte
+     de Mr. de <persName ref="people.xml#fal04"> Falkenberg</persName>. Là voici selon la propre
+    minute du Prince <persName ref="people.xml#pot01">Potemkin</persName>, Gouverneur Général de
+    l’ançienne <placeName ref="places.xml#cri01"> Crimé</placeName>: </p>
+   <q>„Dans la <rs ref="places.xml#cri01"> Tauride</rs> la principale chose sans doute doit être la
+    culture des terres et celles des vers à soie, et par conséquent aussi les plantations de
+    meuriers. On pourroit y faire des draps, mais la laine n’est pas de la meilleure espèce, on
+    voudroit y faire aussi des fromages (NB. qu’on ne fait guère des fromages dans toute
+     la <placeName ref="places.xml#rus01">Russie</placeName>). Un des principales objets encore en
+     <rs ref="places.xml#cri01"> Tauride</rs> pourroit être les jardins et surtout les jardins
+    botaniques. Pour tous ces objets des personnes entendues ne peuvent être que nécessaires.
+    D’autres ouvriers la couronne n’a pas besoin de se charger, mais si ils voudroient y venir à
+    leurs propres dépends, ils y seroient bien reçus et jouiront des différents avantages contenus
+    dans les manifestes publiés.“</q>
+   <p>Des trois points de la note ci jointe, le premier a été addressé à mon envoyé le Sr. Gross à
+     <placeName ref="places.xml#ham01"> Hambourg</placeName> afin qu’il puisse conclure avec le Sr.
+     <persName ref="people.xml#mey01"> Meyer</persName> un contract formel aux conditions y
+    contenues. Vous trouverés, Monsieur, dans le second ce qui regarde le Sr. de <persName
+     ref="people.xml#fal04"> Falkenberg</persName>. Le troisième point regarde les médecins et
+    chirurgiens, que vous avês proposés et dont nous avons un bon besoin. À tout ceci il ne me reste
+    plus qu’à ajouter la lettre de votre ami <persName ref="people.xml#wei02"> Weikardt</persName>,
+    et qu’à vous assurer de la continuation des sentimens d’estime que vous me connoissés pour
+    vous. </p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">
+    Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

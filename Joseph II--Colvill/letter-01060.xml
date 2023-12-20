@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01060</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01060</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#prussia"/>
+     <term target="kw.xml#sweden"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:20:04Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01060">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date
+      when-custom="1784-05-23">23 mai 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. La confiance avec laquelle V. M. I. a bien voulu s’ouvrir à moi dans Sa
+    lettre du 13 mai, touchant le projet d’un échange de Ses possessions des <placeName
+     ref="places.xml#hol02">Pays-Bas</placeName> contre les <placeName ref="places.xml#bav01"> Etats
+     de la Bavière</placeName>, du <placeName ref="places.xml#upp02"> Haut-Palatin</placeName> at et
+    de <placeName ref="places.xml#sal02"> l’Archevêché de Saltzbourg</placeName>, m’est doublement
+    agréable, parce qu’en me donnant ainsi une nouvelle preuve de Sa parfaite confiance, V. M. I. me
+    fournit en même temps une occasion de Lui témoigner à mon tour le zèle et l’empressement avec
+    lesquels je désire de faire tout ce qui sera en mon pouvoir pour coopérer efficacement à Sa
+    satisfaction et au succès de Ses projets, prête à Lui prouver en tout cas que je n’ai rien tant
+    à coeur que de Lui témoigner ma reconnaissance pour tout ce que V. M. I. a fait en ma faveur à
+    l’occasion de mes <rs ref="events.xml#crime01"> arrangements</rs> avec la <placeName
+     ref="places.xml#ott01">Porte Ottomane</placeName>. Je suis d’ailleurs très-convaincue que, si
+    V. M. I. fait par cet échange le sacrifice de quelques avantages pécuniaires, Elle en sera bien
+    dédommagée par l’augmentation de forces qu’un tel arrondissement de Ses Etats doit Lui procurer
+    en ce que la diminution de l’étendue de Ses frontières Lui facilitera les moyens de se porter
+    plus aisément du côté où le besoin pourra l’exiger.</p>
+   <p>Pénétrée de l’importance de cet arrangement pour le bien-être de Ses Etats et le succès de Ses
+    vues ultérieures, et pas moins convaincue qu’il est de l’intérêt de mon <placeName
+     ref="places.xml#rus01">Empire</placeName> que les forces de V. M. I. soient ainsi réunies, je
+    La prie encore une fois d’être persuadée que dans cette circonstance comme en toute autre Elle
+    trouvera en moi une <rs ref="events.xml#allia02">alliée</rs> qui ne Lui est pas
+    moins attachée par les liens d’une sincère amitié, que par les engagements qui existent entre
+    nos Etats, et la parfaite conviction que leurs vrais intérêts sont inséparables.</p>
+   <p>Au reste plus il serait avantageux à nos deux monarchies que V. M. I. réussisse à concentrer
+    Ses forces par la proximité de Ses possessions, et plus nous devons nous attendre à rencontrer
+    les obstacles tant dans l’intérieur même de l’<placeName ref="places.xml#hol01"
+     >Empire</placeName> germanique que dans le voisinage de nos Etats respectifs de la part des
+    puissances qui se croient intéressées à contrecarrer nos vues. Je serais charmée que V. M. I.
+    voulût bien me communiquer Ses idées sur ces objets, ayant déjà ordonné à mon ambassadeur près
+    d’Elle par le dernier courrier que je lui ai expédié, de s’expliquer sur ces matières avec Son
+    ministère. Je ne doute point au reste que V. M. I. n’ait déjà prévu tous ces cas, et qu’Elle
+    n’ait pourvu d’avance aux moyens d’y parer, en prenant toutes les précautions requises pour
+    assurer le succès de Ses vues et la sécurité de nos frontières. Comme le secret dans cette
+    affaire est de la plus grande importance, Elle peut être persuadée que de mon côté il sera
+    inviolablement gardé. En attendant que le moment soit venu d’instruire mes ministres auprès des
+    Cours étrangères de ce qu’ils devront faire pour concourir aux vues de V. M. I., j’ai ordonné au
+    comte <persName ref="people.xml#rum03"> Romanzow</persName>, mon envoyé à Francfort, de ne
+    négliger aucun moyen pour faire sentir au due de Deux-Ponts combien il lui importe de
+    s’appliquer à mériter les bontés et la protection du chef de l’<placeName ref="places.xml#rus01"
+     >Empire</placeName> comme le plus sûr moyen d’améliorer son sort.</p>
+   <p>Je ne saurais finir cette lettre sans remercier V. M. I. de tout ce qu’Elle veut bien me dire
+    d’obligeant, et des оffres qu’Elle me fait. Je La prie d’être persuadée de ma parfaite
+    reconnaissance et du vif désir que j’ai de me trouver à même de Lui en donner des preuves non
+    seulement dans la circonstance présente, mais encore dans toutes celles qui pourront se
+    présenter dans la suite. C’est avec ces sentiments joints à ceux de la parfaite amitié et
+    très-haute considération que je serai toute ma vie ....</p>
+   <p>V. M. I. est assurément déjà instruite des projets de mon cher cousin le <persName
+     ref="people.xml#gus01"> Roi</persName> de <placeName ref="places.xml#swe01"
+    >Suède</placeName> sur la <placeName ref="places.xml#nor01">Norvège</placeName>. Ces avis se
+    confirment de jour en jour et bientôt il n’y aura plus moyen de les traiter en fables; reste à
+    savoir si M. de <persName ref="people.xml#gra01"> Vergennes</persName> voudra payer la dépense
+    de l’expédition, que la famine est dans les provinces limitrophes de la <placeName
+     ref="places.xml#nor01">Norvège</placeName> et la disette dans presque toute la <placeName
+     ref="places.xml#swe01">Suède</placeName>.</p>
+  </body>
+ </text>
+</TEI>

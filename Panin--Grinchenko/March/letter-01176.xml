@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01176</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01176</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-24"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01176">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>В ответ на Ваше письмо, сего утра полученное мною с нарочной эстафетою, имею Вам
+                сказать, что я здорова. Вчерашной день был куртаг первой, и так много людей, как я в
+                    <placeName ref="places.xml#pet01">Петербурге</placeName> не ожидала найти. При
+                сем к Вам посылаю здешнюю перлюстрацию, Вы увидите для чего. <persName
+                    ref="people.xml#pau01">Сыну</persName> моему прошу кланяться, радуюсь, что он
+                здоров; у нас стужа умеренная и не так, как у Вас.</p>
+            <closer rend="inline">Прощайте, желаю Вам здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed>
+            <dateline><date when-custom="1768-01-28">Генваря 28 числа, 1768.</date></dateline></closer>
+            <postscript>
+                <p><persName ref="people.xml#gle03">Иван Фед. Глебов</persName> сказывает, что
+                        <persName ref="people.xml#riv01">де ла Ривиер</persName> убавил маленько
+                    спеси, только говорун и много о себе думает, а похож он на доктура.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

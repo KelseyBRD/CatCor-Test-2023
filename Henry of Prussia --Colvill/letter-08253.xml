@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08253</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08253</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+ 
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:28:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08253">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St.
+     Pétersboug</placeName>, ce <date when-custom="1777-04-04">4 avril 1777</date>.</dateline></opener>
+   <p>Il y a aujourd'hui précisément un an que j'eus l'honneur de <rs ref="events.xml#henry02">
+     revoir V. A. R</rs>. en cette ville. Cet anniversaire, par lui-même si agréable pour moi, l’est
+    devenu encore plus par l'arrivée de la lettre de V. A. R., datée de <placeName
+     ref="places.xml#bru02"> Bronswic</placeName> du 28 mars, qui me tire enfin des vives
+    inquiétudes où j'étais sur l'état de la santé de V. A. R. Je commence par La féliciter et me
+    réjouir avec Elle de Son heureuse convalescence, je souhaite de tout mon cœur qu'elle soit au
+    plutôt parfaite.</p>
+   <p>Je Lui rends mille grâces des nouveaux plans de <placeName ref="places.xml#fri02">
+     Friedrichsfelde</placeName> qu'Elle veut bien m’envoyer. Le portrait de <persName
+     ref="people.xml#ros01"> Roslin</persName>, dont V. A. R. me parle, va grand train, on dit qu'il
+    est presqu'achevé, mais il ne le montre à personne.</p>
+   <p>Ce qu'il plaît à V. A. R. à me dire au sujet du système Pythagoricien et sur mon peu
+    d'exactitude à Lui répondre, de même que tout le contenu de Sa lettre, m'étant une nouvelle
+    marque de la continuation de Son amitié pour moi, ne peut qu'être infiniment sensible à la
+    mienne pour Elle, parceque je suis toujours avec la plus haute considération ...</p>
+  </body>
+ </text>
+</TEI>

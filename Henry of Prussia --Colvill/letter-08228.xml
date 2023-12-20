@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08228</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08228</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:21:37Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08228">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01">
+     Tsarskoe-Sélo</placeName> ce <date when-custom="1772-05-03">3 mai 1773</date>.</dateline></opener>
+   <p>La lettre qu'il a plu à V. A. R. de m'écrire en date du 1 mai n. st. m'a été rendue ce matin.
+    Je me hâte d'y répondre pour Lui marquer ma gratitude de ce qu'Elle veut bien se souvenir du
+    quarante quatrième jour de ma naissance, et de tout ce que V. A. R. me dit d'obligeant et de
+    flatteur en cette occasion. Mais ce qui ne peut m'échapper et ce qui m'est très précieux, c’est
+    l'amitié que chaque ligne de Sa lettre contient Je prie V. A. R. d'être persuadée que personne
+    n'en connaît mieux le prix que moi. Je me souviens toujours avec le même plaisir des moments que
+    j'ai passés si agréablement avec Elle dans cet <placeName ref="places.xml#her01">
+     hermitage</placeName>, dont Elle veut bien me parler et qui est vide à présent Les appartements
+    de V. A. R. ici en revanche sont souvent visités, c'est une espèce de fête pour tous ceux de
+    l'académie que de se dire: allons dans les appartements du prince, et quand nous y sommes, l’on
+    dirait que nous nous trouvons rapprochés de V. A. R. Je Lui dirai encore en confidence, avec
+    l'indiscrétion naturelle aux dames, que Ses appartements sont destinés cette été pour <persName
+     ref="people.xml#kar01"> Mad. la landgrave de Hesse-Darmstadt</persName>, Son ancienne amie,
+    dont par cette raison je désire faire la connaissance. J'espère que V. A. R. en cette qualité
+    lui en inspirera pour moi, j'espère encore qu’Elle ne me trouvera pas trop suffisante avec ma
+    confiance en Elle. Je crois que c'est le meilleur retour dont je puis payer les amitiés de V. A.
+    R. que de Lui marquer les sentiments d'estime et d’amitié ...</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09125</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09125</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#education"/>
+                </keywords>
+                    <keywords n="domesticPolicy">
+                        <term target="kw.xml#familypolicy"/>
+                    </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-30">2023-06-30</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09125"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1790-08-31">1790 г. августа 31.</date>
+                </dateline>
+            </opener>
+            <p>Приказано <orgName ref="orgs.xml#orph01">воспитательного дома</orgName> попечителям разсмотреть и разобрать дело <persName ref="people.xml#kir02">Киршбаума</persName> с <persName ref="people.xml#bet01">Иоанном I. Бецким</persName>. <rs ref="people.xml#bet01">Сей</rs> ныне пишет и присылает непрестанно ко мне, говоря, что остается дело без разсмотрения, а <orgName ref="orgs.xml#orph01">дом воспитательный</orgName> без попечения. Осведомьтесь, в каком положении то дело.
+                <note type="editorial">
+                    Catherine writes about an affair between <persName ref="people.xml#bet01">I.I. Betskoi</persName> and <persName ref="people.xml#kir02">E.A. Kirshbaum</persName>. In 1790 as the regents of <orgName ref="orgs.xml#orph01">the Saint-Petersburg's Orphanage</orgName> departed to <name type="event" ref="events.xml#swedi02">the Russo-Swedish war</name>, Betskoi decided to regain the control over the orphanage and on <date when-custom="1790-06-04">June 4 1790</date> fired Kirshbaum, who was the orphanage's director at the time, alluding to his problems with health, and ordered to remove him by force on <date when-custom="1790-06-10">June 10 1790</date>, after Kirshbaum refused to leave the orphanage. Betskoi assumed that Kirshbaum would not make this affair go public, but the later made a complaint to Catherine about his unfair dismissal. Catherine addressed to the regents to decide on this affair and after the trial that was held on <date when-custom="1790-09-02">September 2 1790</date> took part of the fired employees of the orphanage. However, Catherine assumed that Kirshbaum could not keep holding his office in the orphanage and assigned him to <orgName ref="orgs.xml#cabi01">the Imperial Cabinet</orgName> ( 
+                    <bibl>
+                        <title ref="works.xml#opekun01">Opekuny Peterburgskogo vospitatel'nogo doma v tsarstvovanie Ekateriny 2</title>
+                        , <biblScope unit="pp">pp. 70-71.</biblScope>
+                    </bibl>
+                    ).
+                </note></p>
+        </body>
+    </text>
+</TEI>

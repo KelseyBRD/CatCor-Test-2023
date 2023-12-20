@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01031</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01031</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paul"/>
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-03">03-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:12:55Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01031">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-01-03">3
+     janvier 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Aux bontés dont V. M. I. n’a pas discontinué de combler <rs
+     ref="people.xml#pau01"> mon fils</rs> pendant son séjour à <placeName ref="places.xml#vie01"
+     >Vienne</placeName>, Elle a jugé à propos d’ajouter encore les marques d’une confiance aussi
+    entière qu’intime, en lui communiquant les liens que l’amitié et la convenance respective des
+    deux Etats a fait éclore entre nous. V. M. I. ayant Elle-même caractérisé l’équité et le
+    maintien intact des autres liens des deux monarchies, j’ose croire, puisque <rs
+     ref="people.xml#pau01"> mon fils</rs> l’a promis, qu’il en gardera selon les désirs de V. M. I.
+    le secret le plus strict, quelque peu impénétrable que soit d’ailleurs sa jeunesse pour ceux qui
+    sont accoutumés à faire le métier de scrutateurs de pareils secrets. Par sa lettre <rs
+     ref="people.xml#pau01"> mon fils</rs> paraît sentir l’heureux moment pour lui, dans lequel il a
+    eu l’honneur de faire sa cour à V. M. I., puisqu’il me remercie d’avoir choisi cet instant
+    précisément pour l’envoyer à <placeName ref="places.xml#vie01">Vienne</placeName>. Tout ce que
+    V. M. I. veut bien me dire sur le séjour et le personnel du <rs ref="people.xml#pau01">
+     comte</rs> et de la <rs ref="people.xml#mar02"> comtesse du Nord</rs>, ne peut que mettre le comble à ma
+    satisfaction et m’oblige de nouveau de présenter à V. M. I. l’expression de ma très-sincère
+    reconnaissance pour toutes les félicités dont Elle a bien voulu les faire jouir. Ils m’assurent
+    d’avance tous les deux qu’ils reviendront pénétrés pour V. M. I. de tous les sentiments que Ses
+    vertus éminentes inspirent.</p>
+   <p>L’espérance que V. M. I. se plaît à nourrir en moi de voir <rs ref="people.xml#pau01"> mon
+     fils</rs> mettre à profit les connaissances qu’il aura acquises dans ses voyages lorsqu’il sera
+    de retour ici, ne saurait que flatter infiniment le coeur d’une mère. La réflexion et
+    l’expérience m’ont appris que l’esprit des princes doit mûrir comme celui des autres hommes, que
+    le zèle, les connaissances et la bonne volonté ne suffisent pas, qu’il y a des choses dans ce
+    monde que le temps, le plus grand des maîtres, seul peut apprendre, et qu’assurément chaque fige
+    amène avec lui la manière particulière d’envisager les choses. Telle est la raison pour laquelle
+    les jeunes gens n’aiment point ou guère les conseils des personnes âgées, et les personnes âgées
+    encore moins ceux des enfants. Telle est aussi la mienne; j’aurais préféré pour <rs
+     ref="people.xml#pau01"> mon fils</rs> les exemples parlants de V. M. I. au carnaval de
+     <placeName ref="places.xml#ven01"> Venise</placeName> et de <placeName ref="places.xml#nap01">
+     Naples</placeName>, mais il aurait été impardonnable d’abuser de l’indulgence que V. M. I. a
+    bien voulu accorder à mes voyageurs. Ils me disent que c’est avec grand regret qu’ils
+     quittent <placeName ref="places.xml#vie01">Vienne</placeName>, et je n’ai pas de la peine à les
+    en croire.</p>
+   <p>L’appui et la coopération de V. M. I. favorisant les vues pacifiques des parties
+    belligérantes, il est à supposer que la pacification s’acheminera, s’il y a des lueurs
+    favorables pour diminuer les lenteurs des uns et des autres.</p>
+   <p>Dans la lettre de <persName ref="people.xml#leo01"> S. A. R. le Grand-Duc de
+     Toscane</persName>, que V. M. I. m’a fait parvenir, j’ai reconnu les mêmes sentiments d’amitié
+    dont j’ai lieu de me vanter depuis longtemps de la part de ce prince, et qui ne saurait
+    s'effacer de mon souvenir. Mon unique souhait est que le bonheur du futur mariage soit tel que
+    j’ose m’en faire une idée, et qu’il tourne à la parfaite satisfaction de toutes les parties
+    intéressées. </p>
+   <closer><signed rend="inline">Qu’il plaise à V. M. I. d’agréer la très-haute considération et tous les
+    sentiments de la plus parfaite reconnaissance et de l’amitié la plus sincère avec laquelle j’ai
+    l’honneur d’être ....</signed></closer>
+  </body>
+ </text>
+</TEI>

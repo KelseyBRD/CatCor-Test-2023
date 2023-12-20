@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02737</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02737</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#southernprovinces"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of reference to Akalzig.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-15">15-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:22:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02737">
+  <body>
+ 
+  <opener> <dateline> ce <date when-custom="1770-08-18">18/29 d'auguste 1770</date></dateline></opener>
+   <p>Monsieur, au risque de Vous importuner trop souvent, il faut que je Vous
+     dise qu'hier je reçu la nouvelle que le général major Cte: <persName ref="people.xml#tot02">
+      Totleben</persName> a pris aux Turks les deux Forts situé au delà du mont
+      <placeName ref="places.xml#cau02"> Caucase</placeName> només Scheripan et <placeName ref="places.xml#bag01">
+      Bagdat</placeName>. Il tient bloqués le fort et la
+    Ville de <placeName ref="places.xml#kut01"> Cotatis</placeName>, en langue du Pays <placeName ref="places.xml#kut01">
+     Koutai</placeName>, sur la Rivière <placeName ref="places.xml#kur02"> Farso</placeName> qui tombe dans la <placeName ref="places.xml#bla01"> mer
+     Noire</placeName>. Mes troupes ne sont plus qu'à soixante Werstes de cette mer. L'Ançienne
+     <placeName ref="places.xml#tra01"> Trebisonte</placeName> est à leur gauche. <persName ref="people.xml#sol04">
+     Salomon, </persName>Prince d'<placeName ref="places.xml#ime01"> Imirete</placeName>, agit avec le susdits
+     <rs ref="people.xml#tot02"> Comte</rs>. <rs ref="people.xml#she05"> L'Epouse</rs> de ce
+     <rs ref="people.xml#sol04"> Prince</rs> vint dans le Camp russe et pria le général de permettre qu'à la
+    prise de <placeName ref="places.xml#bag01"> Bagdat</placeName> elle pût jouir de l'honeur d'entrer dans la
+    Ville la première. Vous jugé bien qu'elle ne fut point refusée. Ce <placeName ref="places.xml#bag01">
+     Bagdat</placeName> n'est ni aussi beau ni aussi grand que celui des mille et une nuit. Ne trouvé
+    Vous point Monsieur <persName ref="people.xml#mus01"> Moustapha</persName> bien accomodé et les gazetes
+    bien menteuses? J'oubliois de Vous dire qu'avant ses prises de Villes, le
+     <persName ref="people.xml#her03"> Prince Heraclius</persName> a batu les Turks sous Akalzig. </p>
+   <signed rend="inline">Je me recomande à Votre amitié et à Vos prières, l'on ne sauroit en
+    faire un plus grand cas qu'en fait votre favorite
+   <persName ref="people.xml#cat01"> Caterine</persName></signed>
+  </body>
+ </text>
+</TEI>

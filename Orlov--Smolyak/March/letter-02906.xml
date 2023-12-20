@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02906</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02906</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter demonstrated continuous correspondence about the preparation of the so-called
+     ‘Archipelago’ navy expedition (1769-1774) (<rs>#event-orlov01</rs>), which was part of the
+     First Russo-Turkish war (<rs>#event-turki01</rs>). Emma: kept orlov. Kelsey, 26/04/2021:
+     Removed tag of "events.xml#orlov01" from "как вам от Меня повелено," since it is not clear to
+     what Catherine is referring in this letter. More research necessary to confirm and tag
+     appropriately.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-30">30/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:48:24Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-04-26">26/04/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup checked and corrected.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02906">
+  <body>
+   <opener><salute rend="inline"><persName ref="people.xml#orl03">Граф Алексей
+      Григорьевич!</persName>
+    </salute></opener>
+   <p>Из остаточной от прошедших годов <orgName ref="orgs.xml#preo01">Преображенскаго
+     полку</orgName> полковой суммы возьмите двадцать четыре тысячи рублей да употребите их, как вам
+    от Меня повелено, в чем вы никому, окроме Меня, не имеете дать отчета.</p>
+   <closer><signed><persName type="signature" ref="people.xml#cat01">Екатерина</persName></signed>
+    <dateline>
+     <date when-custom="1774-04-12">Апр. 12 ч., 1774 г.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

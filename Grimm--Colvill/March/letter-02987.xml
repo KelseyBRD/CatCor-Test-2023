@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02987</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02987</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:04:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02987">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarskoé-Sélo</placeName>, ce <date when-custom="1776-08-04">4 d’août 1776</date>.</dateline></opener>
+   <p>Je crois, monsieur, que le plus court serait de ne pas répondre du tout à votre No 33, car je
+    crains que ma lettre ne sera pas achevée que votre carrosse ne soit à ma porte et que je serai
+    obligée de vous la rendre moi-même, inconvénient désagréable, vous en conviendrez, pour une
+    impératrice que d’aller faire le métier de postillon.</p>
+   <p>Tout ce que vous débattez dans la première page de votre lettre est vieux comme Hérode et
+    comme moi; vous me parlez du départ et du voyage du <persName ref="people.xml#pau01">
+     grand-duc</persName>; moi je ne saurais répondre à tout cela, parce que dans huit ou dix jours
+    il sera de retour céans. Vous avouerez avec moi que si la maladie de la reconnaissance est un
+    mal terrible, ce mal étant rare, il ne sera jamais étudié à fond par la faculté. Vous me parlez
+    tant de votre cour que vous commencez à m’embarrasser sur le point de l’étiquette que j’aurai à
+    suivre avec vous; je crains que tout le corps diplomatique résidant à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> ne se gendarme, si je vous reçois trop bien ou
+    trop mal. Il est vrai par bonheur que ce n’est pas à moi que vous êtes accrédité et que cela
+    pourra me servir en tout cas de réponse pour vos confrères. Vous prétendez que je possède
+    parfaitement bien l’art des transitions, et moi dans ce moment je prétends faire preuve que
+    j’excelle en concision, car me voilà déjà à la quatrième page de votre lettre, qui contient des
+    choses admirables: un résumé de ce que vous dites et vous faites au reçu de mes lettres et même
+    ce que vous pourriez faire avec le temps, vous entrelardez cela de cantiques allemands, de
+    jérémiades, et à la fin il y a, à la lettre, de la <seg xml:lang="de">
+     Herengunterei</seg> dans tout cela, et puis des louanges et des injures pour moi et pour le nez
+    de sir <persName ref="people.xml#tho01"> Anderson</persName>, qui cependant à l’odorat le plus
+    fin qu’il y eût jamais.</p>
+   <p>Mais quelle nécessité y avait-t-il, s'il vous plait, d'aller montrer des lambeaux de mon
+    écriture au signor <persName ref="people.xml#qui01"> Angelico Quirini</persName>? c'était
+    apparemment pour lui faire passer la <seg xml:lang="de">
+     Catherinensucht</seg> que vous lui montriez les folies que je vous écris. Je n’ai jamais écrit à
+    personne comme à vous; mais c’est la science du développement que vous possédez qui a développé
+    en moi cette admirable tournure que j’ai prise avec vous.</p>
+   <p>Le <persName ref="people.xml#bra05"> duc de Bragance</persName>, que, par parenthèse, j’aime
+    beaucoup, parce que c’est un franc et loyal chevalier, m’a envoyé par <persName
+     ref="people.xml#bet01"> M. Betski</persName> ce fameux portrait imprimé sur satin blanc dont
+    vous critiquez la couronne gothique. Ces philosophes sont de plaisantes gens: à quoi ils
+    s’accrochent quelquefois avec leur critique! Je cède le présent que vous prétendez me faire de
+    cette image critiquée, à tel autre à qui vous voudrez la donner, et j’y renonce d’avance. Ne
+    regrettez point de n’avoir pas trouvé à <placeName ref="places.xml#vie01">Vienne</placeName> mes règlements: vous aurez tout le
+    temps de vous en ennuyer et à <placeName ref="places.xml#ber01">Berlin</placeName> et à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, où on les vend dans tous les carrefours. Pour le portrait ou buste de
+    la <rs ref="people.xml#man03"> fameuse faiseuse de Bologne</rs>, je le possède à <placeName
+     ref="places.xml#pet02"> Péterhof</placeName>; il est sur ma table, et tout le monde me demande
+    qui c’est, et moi, pour me défaire des questionneurs, je dis que c’est ma grand’mère; remerciez
+    en bien <persName ref="people.xml#ran01"> M. le C Ranuzzi de Bologne</persName>. Je verrai avec
+    plaisir les plans de son palais. II est vrai qu’il me faudrait plus d’un secrétaire à tous les
+    envois, que je ne lis jamais, qu’on me fait, et surtout ces diables d’économistes et tous vos
+    rimailleurs de <placeName ref="places.xml#par01">Paris</placeName>: chacun voudrait m’endoctriner de son brailler. <persName
+     ref="people.xml#bla01"> Sir Blackstone</persName>, qui ne m’a point envoyé ses <title ref="works.xml#commen01">commentaires</title>, jouit seul de l’honneur d’être lu par S.
+    M. depuis deux ans; oh, ses commentaires et moi, nous sommes inséparables; c'est un fournisseur
+    de choses et d’idées inépuisable; je ne fais rien de ce qu’il y a dans son livre, mais c’est mon
+    fil que je dévide à ma façon. Là, sachez, après cette phrase qu’il fait un grand vent
+    aujourd’hui, il serait bon de commencer des écritoires; je suis très patiente à attendre celle
+    que vous avez commandée; elle viendra quand elle voudra. La lettre de l’abbé <persName
+     ref="people.xml#gal05"> Galiani</persName> est charmante; son envoi de livres me fera grand
+    plaisir, car je raffolle de livres d’architecture; toute ma chambre en est pleine, et je n’én ai
+    jamais assez. A présent <persName ref="people.xml#pir01"> Piranesi</persName> est fort à la
+    mode. C’est dommage qu’il n’y en a que quinze volumes. J’ai été enchantée d’apprendre que
+    l’admirable de <persName ref="people.xml#riv01"> La Rivière</persName> était le commis pensant
+    de M. <persName ref="people.xml#tur01"> Turgot</persName> et <persName ref="people.xml#bau02">
+     l’abbé Baudeau</persName> le commis écrivant: oh, les bonnes têtes que <persName
+     ref="people.xml#lou01"> Louis XVI</persName> possédait là! en honneur, il ne pouvait rien faire
+    de mieux que de les renvoyer. </p>
+   <closer><signed rend="inline">Que ma lettre parte donc au plus vite pour vous trouver a <placeName
+     ref="places.xml#kon01"> Königsberg</placeName> ou dans les faubourgs de <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>; mais où que vous soyez, restez persuadé que ma
+    façon de penser à votre égard est toujours la même. </signed></closer>
+  </body>
+ </text>
+</TEI>

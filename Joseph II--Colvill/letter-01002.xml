@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01002</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01002</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-24">24-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:30:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01002">
+  <body>
+
+   <opener><dateline>A <placeName ref="places.xml#pet02">Peterhof</placeName>, ce 19 juillet 1780.</dateline></opener>
+   <p>Le pays que Monsieur le <rs ref="people.xml#jos01"> comte de Falkenstein</rs> vient de
+    quitter, est rempli de la plus haute vénération pour ses éminentes vertus. C’est par là seul
+    qu’il ressemble aux autres pays que <rs ref="people.xml#jos01"> Monsieur le comte</rs> a honorés
+    de sa présence. S’il devient notre apologiste en parole et en effet, il mettra non seulement le
+    comble à notre reconnaissance, mais encore il unira les bénédictions de l’église orientale à
+    celles de l’occidentale.</p>
+   <p>Pendant les excessives chaleurs que nous avons ressenties, je ne pensais qu’à l’incommodité
+    qu’elles devaient Lui occasionner. La façon dont Elle veut bien s’exprimer sur le compte de
+    l’ouvrage de la <placeName ref="places.xml#dvi01"> Dwina</placeName>, est bien propre à
+    m’encourager. Je prie le ciel d’accompagner tous vos pas. Daignez être persuadé de la très-haute
+    considération et de la sincérité des sentiments de reconnaissance et d’amitié de</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Caterine</persName>.</signed></closer>
+   <postscript><p>Mes enfants joignent aux respects et à la vénération les hommages de la
+    reconnaissance pour le souvenir dont vous les avez honorés. Puissiez-vous retrouver toute votre
+    auguste famille en parfaite santé!</p></postscript>
+  </body>
+ </text>
+</TEI>

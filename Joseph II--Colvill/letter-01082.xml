@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01082</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01082</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:25:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01082">
+  <body>
+   <opener><dateline> Ce <date when-custom="1787-10-30">30 d’octobre 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. J’ai reçu la lettre de V. M. I. du 13 d’octobre n. st. avec la plus vive
+    sensibilité. Rien ne me saurait être plus précieux que les assurances d’amitié qu’Elle veut bien
+    me réitérer. Les détails qu’il a plu à V. M. I. de me communiquer sur les dispositions qu’Elle a
+    faites pour le soutien d’une cause qui nous est commune à tant de titres, ne me laissent rien à
+    désirer pour le présent. J’espère que V. M. I. sera également satisfaite des moyens que
+    j’emploie pour mettre notre ennemi commun dans l’impossibilité de nous nuire. Les détails de ces
+    moyens, mon ministère les a communiqués à l’ambassadeur de V. M. I. Le plan d’opération a
+    combiner entre nous recevra un plus grand développement des circonstances et des événements de
+     <rs ref="events.xml#turki02"> la guerre</rs> même. Mes généraux ont ordre d’entretenir avec
+    ceux de V. M. I. des relations fréquentes. J’espère qu’Elle ne doute pas que personne ne se
+    rejouit plus de l’arrangement de Ses affaires aux <placeName ref="places.xml#hol02"
+     >Pays-Bas</placeName> que moi. Les patriotes hollandais comptaient sur des secours et des
+    paroles données; abandonnés à eux-mêmes ils ont plié, mais je ne sais pourquoi, je ne puis pas
+    me persuader que leurs affaires sont parfaitement arrangées.</p>
+   <p><rs ref="people.xml#gus01"> Mon cher voisin</rs> des bords du <placeName
+     ref="places.xml#gul02"> golfe de Bothnie</placeName> a craint apparemment que personne ne
+    pensât à lui dans ce moment, et à cet effet il est allé faire une excursion à <placeName
+     ref="places.xml#ber01">Berlin</placeName>; je ne sais s’il s’y est rendu pour chercher ou
+    trouver des esprits. V. M. I. croit-Elle que cette démarche produira quelqu’explosion autre que
+    des fumigations? Peut-être ne sert-elle d’aliment qu’à l’imagination inquiète du voyageur.</p>
+   <p>Que V. M. I. me permette de Lui réitérer les assurances de la plus haute considération, du
+    tendre attachement et de la plus sincère amitié avec laquelle je suis ....</p>
+  </body>
+ </text>
+</TEI>

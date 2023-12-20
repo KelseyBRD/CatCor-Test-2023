@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09073</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09073</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09073"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-07-18">1788 г. июля 18.</date>
+                </dateline>
+            </opener>
+            <p>Письмо <persName ref="people.xml#mus02">графа Пушкина</persName> о <placeName ref="places.xml#par05">Пардококском</placeName> деле, в коем имена офицеров отличившихся, принесите <date when-custom="1788-07-19">завтра</date> поутру ко мне.
+                <note type="editorial">
+                    A.V. Khrapovitskii writes in his diary under <date when-custom="1788-07-19">July 19 1788</date> that he was asked about the relation on the action in <placeName ref="places.xml#par05">Partakoski</placeName> and that from <persName ref="people.xml#mik02">Mikhel'son</persName>'s note it follows that all the recommended officers should be promoted to a higher rank by the <orgName ref="orgs.xml#coll04">College of War</orgName> (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 65.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

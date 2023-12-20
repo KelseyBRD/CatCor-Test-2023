@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02689</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02689</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#denmark"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#england"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#austria"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02689">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St Pétersbourg,</placeName>
+                            <date when-custom="1778-10-01">ce 1 d'Octobre 1778</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Il n'y a point d'occupation quelque importante qu'elle soit, qui puisse
+                        m'empêcher de recevoir avec intérêt et de répondre avec confiance à celle,
+                        que Votre Majesté veut bien me marquer sur l'état de Ses affaires. Malgré le
+                        silence que j'ai gardé pendant quelque temps, mon attention n'a point été
+                        détournée ni distraite de dessus la position de Votre Majesté et les
+                        embarras du Corps Germanique. La représentation, que je fais faire
+                        actuellement à la cour de <placeName ref="places.xml#vie01"
+                            >Vienne</placeName>, pourra l'en convaincre. J'ai ordonné à mon
+                        ministère d'en faire la communication au ministre de Votre Majesté, de même
+                        qu'aux cours de <placeName ref="places.xml#lon01">Londres </placeName>, de
+                            <placeName ref="places.xml#cop01">Copenhague</placeName>, de <placeName
+                            ref="places.xml#sto01">Stockholm</placeName>, ainsi qu'à celle de
+                            <placeName ref="places.xml#ver01">Versailles</placeName>, en les
+                        invitant de concourir aux vues pacifiques qui y sont exposées. Mon ministre
+                        à <orgName ref="orgs.xml#diet01">la diète de Ratisbonne</orgName> fera la
+                        même communication et la même invitation aux princes et états de l'empire.
+                        Je me suis déterminée à ce dernier effort auprès de la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName> d'abord pour satisfaire mon
+                        amour pour la paix, et ensuite pour constater aussi bien aux yeux de la dite
+                        cour qu'à ceux de <placeName ref="places.xml#eur01">l'Europe</placeName>, la
+                        justice et l'impartialité de ma conduite. Si l'effet de cette démarche ne
+                        répond point à mon attente, mon général, <persName ref="people.xml#rep01">le
+                            prince Repnin</persName>, qui va se rendre incessamment près de Votre
+                        Majesté, sera muni d'ordres pour convenir des mesures qu'il conviendra de
+                        prendre. Votre Majesté voudra bien l'écouter avec confiance, et par les
+                        instructions, dont il sera muni, je me flatte qu'Elle verra que quelle que
+                        soit l'incertitude de ma propre position à l'égard de <placeName
+                            ref="places.xml#ott01">la Porte</placeName>, laquelle augmente
+                        journellement ses armements par terre et par mer, et garnit de plus en plus
+                        ses frontières de troupes, et à laquelle je suis obligée d'opposer des
+                        forces respectables, </p>
+                    <closer>
+                        <signed>que je suis intentionnée de prouver à un allié aussi intime que
+                            Votre Majesté la sincérité de mon amitié étant toujours avec la plus
+                            haute considération, Monsieur mon Frère, de Votre Majesté la bonne Soeur
+                            et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

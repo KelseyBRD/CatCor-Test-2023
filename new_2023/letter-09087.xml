@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09087</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09087</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-23">2023-06-23</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09087"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-09-18">1788 г. сентября 18.</date>
+                </dateline>
+            </opener>
+            <p>К <persName ref="people.xml#ero01">Еропкину</persName> написать надлежит, чтоб <rs ref="people.xml#ero01">он</rs> <rs ref="people.xml#wac01 people.xml#wac02">графов Вахмейстеров обоих</rs> послал жить в <placeName ref="places.xml#kal01">Калугу</placeName>, о чем и дать знать <persName ref="people.xml#kre01">Кречетникову</persName>, чтоб <rs ref="people.xml#kre01">он</rs> <rs ref="people.xml#wac01 people.xml#wac02">их</rs> <rs ref="places.xml#kal01">там</rs> поместил, и приличной имел за <rs ref="people.xml#wac01 people.xml#wac02">ними</rs> присмотр.
+                <note type="editorial">
+                    <persName ref="people.xml#wac01">Claes Adam Wachtmeister</persName> and his brother  <persName ref="people.xml#wac02">Hans Friedrich Wachtmeister</persName> who commanded the ship <title>"Prince Gustav"</title>and all his crew were captured during the <name type="event" ref="events.xml#hogla01">battle of Hogland</name>. They were first sent to <placeName ref="places.xml#mos01">Moscow</placeName> and then, as their presence there provoked too much interest, to <placeName ref="places.xml#kal01">Kaluga</placeName> (
+                    <bibl> 
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskago 1782-1793</title>
+                        , <biblScope unit="pp">pp. 104, 156, 461.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

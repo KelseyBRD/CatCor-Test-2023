@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03007</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03007</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-09">09/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:36:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03007">
+  <body>
+  
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+    St Pétersbourg</placeName>, ce <date when-custom="1778-04-13">13 d’avril 1778</date>.</dateline></opener>
+   <p>Bon Dieu! quelle pancarte que ce No 16! la première page, remplie de quintessences poivrées,
+    d’épitaphes etc. ne demande point de réponse, parce qu’après mort il n’y a plus rien. Ce que
+    j’ai dit, est dit; la plupart des choses qui se disent ne valent pas la peine d’être retenues,
+    encore moins répétées. J’ai dit <seg xml:lang="de"> muchlig</seg>, je n’ai pas dit <seg
+     xml:lang="de"> muachlig: muchlig</seg>, selon M. <persName ref="people.xml#wag01"> Wagner</persName> on le grand-écuyer
+     <persName ref="people.xml#nar02"> Narichkine</persName>, veut dire l’équivalent de <seg
+     xml:lang="de"> verschimmelt</seg>. J’ai essayé des vents coulis, des mascarades, et je n’en ai
+    point été enrhumée cette année-ci; ainsi rayez des comptes de M. <persName
+     ref="people.xml#thi01"> Thier</persName> les cotons qu’il devait mettre dans des niches pour
+    servir d’entraves au vent coulis.</p>
+   <p>A propos des bas de poil de lapin, qui sont encore tout neufs, des <title ref="works.xml#logera01">loges de Raphael</title> et des décorations de <persName
+     ref="people.xml#bib04"> Bibiena</persName>, il y-aura à <placeName ref="places.xml#tsa01">
+     Tsarskoe-Sélo</placeName> un remue-ménage terrible d’appartements. L’impératrice ne veut plus
+    loger dans deux indignes chambres; elle fait culbuter le grand et seul pend escalier du bout de
+    la maison; elle veut demeures au milieu des trois jardins, elle veut jouir de ses fenêtres de la
+    vue du grand balcon. Le grand escalier est transporté dans la petite aile qui touche à la porte
+    d'entrée du côté de <placeName ref="places.xml#gat01"> Gatchina</placeName>; elle aura dix
+    appartements, pour l’ornement desquelles toute sa bibliothèque favorite sera épuiséé, et son
+    imagination se donne un libre cours, et le tout sera comme ces deux pages; c’est-à-dire qu’il
+    n’y aura pas le sens commun. Il est impossible de ne pas trouver bonne et très bonne la dernière
+    purée de pois du levant: assurément ni mort ni maladie ne s’en suivront. Frère G. à trois bêlas!
+    Sur son corps, ces trois hélas! feront que toute sa vie, de même que le libraire <persName
+     ref="people.xml#cai01"> Caille</persName>, souvent il n’aura rien qui vaille; voilà la solution
+    des difficultés que nous trouvons à le deviner. Non, non, G. ne crée pas, il ne vivifie pas;
+    c’est du fumier que naissent les plus beaux fruits quand la semence y est G. et ses gens n’y ont
+    porté que leur fumier en propre; sans doute une création ou naissance y est, mais tout cela
+    s’est fait comme dans toute autre création ou naissance, le tout sans y penser.</p>
+   <p>Ma confession en détail serait trop longue: je ferais briller mon homme, cela équivaudrait au
+    péché répété et unique de soeur <persName ref="people.xml#mar09"> Marie</persName>; la loi
+    enfreinte sur un point l’est aussi sur tous les autres etc., et puis c’est tout. Soeur <persName
+     ref="people.xml#mar09"> Marie</persName> est une grande femme, et je l’admire comme telle;
+    j’espère bien que le <persName ref="people.xml#pac01"> baron de Zuckmantel</persName> en fera
+    autant. Jamais l’<persName ref="people.xml#eli02"> impératrice Elisabeth</persName> n’eut de
+    lectrice, et <persName ref="people.xml#eon01"> M. ou Mad. D’Éon</persName> ne lui fut pas plus
+    connu qu’à moi, qui l’ai vu comme une espèce de galopin politique attaché au <persName
+     ref="people.xml#gal04"> marquis de L’Hôpital</persName> et au <persName ref="people.xml#bre02">
+     baron de Breteuil</persName>.</p>
+   <p>Vous me ferez un vrai plaisir de commander le <title ref="works.xml#voltai02">buste
+     de <persName ref="people.xml#vol01"> Voltaire</persName></title>. Je suis bien fâchée de savoir sa santé encore altérée par son
+    voyage à <placeName ref="places.xml#par01"> Paris</placeName>. Vous me dites que l’<rs ref="people.xml#fen01">excellence marocaine</rs> trouve singulier que les gens d’esprit ne sont pas en place. Dans ma
+    jeunesse je n’en voyais jamais de pareil que je ne souhaitais ardemment de voir employé pour le
+    bien du pays, et de là je conclue que l’esprit de Maroc et le mien étaient à la bavette.</p>
+   <p>J’ai ordonné qu’ <persName ref="people.xml#ols02"> Olsoufief</persName> remette au <persName
+     ref="people.xml#fre03"> b. Friedrichs</persName> trente mille livres pour que vous, monsieur le
+    baron, les employiez comme vous le détaillez; trois médailles d’or lui ont été également
+    remises. Je dirai à monsieur de <persName ref="people.xml#shu02"> Schouvalof</persName> tout ce
+    qu’il faut en réponse à <persName ref="people.xml#men01"> Mengs</persName>. Les affaires d’ <persName ref="people.xml#koc02"> Albrecht Koch</persName> dépendent de <seg xml:lang="de">
+     Paßgänger</seg>. Dieu bénisse vos négociations d’abolition des droits
+    d’aubaine. Quand viendra la chanson des <orgName ref="orgs.xml#phil01">
+     philantropins</orgName>? ils auront tout le temps de se détruire avant que les raisonnements
+    n’arrivent ; songez-y donc, ce seront des raisonnements perdus si vous tardez. Il faut convenir
+    que l’ <persName ref="people.xml#jos01"> homme aux deux physionomies</persName> est un tantinet
+    goulu : <seg xml:lang="de"> wer Augen hat kann‘s sehen; wer Ohren hat, kann‘s hören</seg>. La
+    lettre de l’ <persName ref="people.xml#gal05"> abbé Galiani</persName> est si charmante que je
+    me suis crue obligée de vous en faire un remercîment tout à part de me l’avoir envoyée. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

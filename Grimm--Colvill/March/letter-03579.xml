@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03579</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03579</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-24">24/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:50:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03579">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Péterhof</placeName>, ce <date when-custom="1780-07-24">24
+    juillet 1780</date>, jour de mon départ d’ici.</dateline></opener>
+   <p>J’ai reçu par un courrier vos No 20 <seg xml:lang="de"> Vortrag</seg>, supplément au No 20, et
+     <seg xml:lang="it"> promemoria</seg> datée 1 juillet, de même que le rouleau contenant le
+    sixième cahier du <title ref="works.xml#voyage03">voyage pittoresque de
+     la <placeName ref="places.xml#gre02">Grèce</placeName></title>, et le premier volume de la description des pierres gravées du
+    cabinet du <persName ref="people.xml#orl07"> duc d’Orléans</persName>. Pour vos pancartes
+    américaines, je vous dispense de me les envoyer, parce que je les range au nombre des 365
+    feuilles remplies de mensonges et de faussetés qu’on publie toutes les semaines en <placeName ref="places.xml#eur01">Europe</placeName>.—Il faut que vous sachiez que cette feuille, commencée hier à <placeName ref="places.xml#pet02">Péterhof</placeName>, je
+    la continue aujourd’hui, 25, à <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>. <rs ref="people.xml#jos01"> M. de
+     Falkenstein</rs> est parti d’ici le 10 de ce mois et doit être près de <placeName ref="places.xml#vie01">Vienne</placeName>. Je
+    ne finirais point si je me mettais à faire son éloge; c’est la tête la plus solide, la plus
+    profonde, la plus instruite que je connaisse: morgué, qui le devancera se lèvera de grand matin.
+    Mon haut allié a fait dire un service solennel pour le repos de l’âme de <persName ref="people.xml#vol01">Voltaire</persName>;
+    moi qui crois son âme en repos, je n’imiterai pas son exemple, parce que je n’aime pas à imiter
+    tout ce qui se fait et qu’il ne faut pas faire tort aux vivants pour l’amour des morts; vous,
+    vous persécutez mes protégés et vous seriez bien aise de leur attirer bagarre; or, bagarre n’y
+    a, ni n’y aura.</p>
+   <p>Je n’ai pu rendre service au baron de <persName ref="people.xml#dal01"> Dalberg</persName>,
+    chanoine de Mayence, vu que le <rs ref="people.xml#jos01"> comte de Falk</rs>: était déjà parti
+    lorsque j’ai reçu votre lettre. Mais je vous prie de me faire savoir, si vous le pouvez, ce que
+    ce <persName ref="people.xml#dal01"> baron de Dalberg</persName> pense des <seg xml:lang="de">
+     Normalschulen</seg> autrichiennes; par le bien que j’en ai appris, je me suis mise en
+    possession de tous les livres qui y servent, et je les tiens de la propre main du <rs
+     ref="people.xml#jos01"> comte de Falkenstein</rs>. J’ai expédié à <placeName
+     ref="places.xml#lub01"> Lübeck</placeName> une frégate pour amener les <persName ref="people.xml#cle01">Clérisseau</persName> et compagnie, et elle doit y être à l’heure qu’il est. Je remercie <persName
+     ref="people.xml#unknown"> M. Metlef</persName> et vous de la pancarte américaine remplie de
+    déclarations de peu de sagesse et de beaucoup de hardiesse déplacée; je me le tiens pour dit et
+    n’y toucherai; aussi bien j’ai moins de temps que jamais à donner à des lectures à peu près
+    inutiles. Aussi ai-je regretté le temps qu’il a fallu pour lire le credo du <persName
+     ref="people.xml#bou04"> chevalier Boufflers</persName>.</p>
+   <p>Mais me voilà arrivée aux très honorables lettres du <rs ref="people.xml#rei03"> divin</rs>;
+    dites-lui, s’il vous plaît, qu’il mettra tout ce qu’il voudra dans le plafond des loges à la
+    place des Renommées ou je ne sais quoi qui lui déplaît, pourvu seulement qu’il évite tout ce qui
+    peut supposer une flatterie excessive et déplacée. Je pense que ma grande lettre écrite durant
+    mon voyage et où j’ai noté ce que je désirais des ouvrages de <persName ref="people.xml#men01">
+     Mengs</persName>, pourra servir de réponse aux questions du <rs ref="people.xml#rei03">
+     divin</rs>; mais s’il a noté plus que moi, qu’il prenne toujours: plus il y en aura, mieux ce
+    sera, non que notre appétit soit glouton, mais par précaution, de crainte de ne pas rencontrer
+    juste; cette règle est pour les tableaux et pour les dessins, mais point d’académie, s’il vous
+    plaît. Pour votre tête de Minerve, elle a l’air bien sérieuse; il me semble que nous avons plus
+    de gaîté dans notre profil; <seg xml:lang="de"> im Ubrigen</seg> recommendire <seg xml:lang="de"
+     > ich mich in Ihre Gewogenheit</seg> . <rs ref="people.xml#jos01"> M. de Falk</rs>: m’a dit
+    qu’il avait entendu dire de vous mille bien; j’ai dit que je le priais de croire qu’il n’était
+    point trompé sur votre compte. </p>
+   <closer><signed rend="inline"><seg xml:lang="it"> Addio, signor</seg>; la musique de <persName
+     ref="people.xml#pai01"> Païsiello</persName> est fort de son goût; de tons les beaux-arts je
+    crois que c’est celui qu’il aime le mieux, et qu’il connaît aussi le plus à fond.</signed></closer>
+  </body>
+ </text>
+</TEI>

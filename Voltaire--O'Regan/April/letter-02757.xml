@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02757</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02757</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:29:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02757">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-08-04">4/15 Septembre 1771</date></dateline></opener>
+   <p>Monsieur, <rs ref="works.xml#questi02">Les questions sur l'Encyclopédie</rs>,
+     sont arrivée en compagnie des montres de <placeName ref="places.xml#fer01">
+      Ferney</placeName>. Je dois
+    Vous dire qu'il y avait plus de montres que n'en contenait les factures. Il ce peut qu'une des
+    factures aye été égaré, mais come chaque montre avait son prix attaché à la montre, il a été
+    aisé de savoir la some totale. J'ai ordonée de Vous la faire remettre, ne sachant à qui
+    l'envoyer pour qu'elle parviene fidèlement entre les mains des fabriquans. J'espère Monsieur que
+    Vous m'excuserès de la peine que je Vous done, et que Vous voudrés bien recevoir mes remercimens
+    pour l'un et l'autre envoy. Vous m'aviés anonçés une pendule que je n'ai point trouvée dans le
+    paquet. Je lis présentement les <rs ref="works.xml#questi02"> Questions</rs> et ne puis les quiter. Sur Votre
+     demande, <hi rend="Emphasis">s'il est vrai que dans le
+     même tems que mes troupes entrèrent dans <placeName ref="places.xml#per04">
+      Perecop</placeName>, il y a eu sur le <placeName ref="places.xml#dan01">
+      Danube</placeName> une action au désavantage des Turks</hi>? J'ai à Vous
+    répondre, qu'il n'i a eu cette été de ce côté du <placeName ref="places.xml#dan01"> Danube</placeName> qu'un
+    seul combat, où le Lieut: général Prince <persName ref="people.xml#rep01"> Repnin</persName> a batu avec
+    son corps détaché un corps Turk, qui s'étoit avançé après que le comandant de
+     <placeName ref="places.xml#giu01"> Giurghi</placeName> eut rendu aux enemis cette place à peu près come
+     <placeName ref="places.xml#lau02"> Lauterbourg</placeName> passa aux Autrichiens lorsque Monsieur
+     <persName ref="people.xml#noa03"> de Noailles</persName> comandoit l'armée Française après la mort de
+    l'Empereur <persName ref="people.xml#cha14"> Charles vi</persName>. Le Prince <persName ref="people.xml#rep01">
+     Repnin</persName> étant devenu malade le Lieut: général <persName ref="people.xml#ess01">
+     Eisen</persName> a voulu reprendre <placeName ref="places.xml#giu01"> Giurghi</placeName>, mais il a été
+    repoussé à l'assault. Cependant quoiqu'en disent les gazettes, <placeName ref="places.xml#buc01">
+     Boucarest</placeName> est toujour entre nos mains avec touttes les place de la rive du
+     <placeName ref="places.xml#dan01"> Danube</placeName> depuis <placeName ref="places.xml#giu01"> Giurghi</placeName>
+    jusqu'à <placeName ref="places.xml#bla01"> la mer Noire</placeName>. Je ne porte aucune envie aux exploits
+    de Votre patrie que Vous me mandés. Si les beaux bras de l'exellente Danseuse de l'Opéra de
+     <placeName ref="places.xml#par01"> Paris</placeName>, et l'<rs ref="orgs.xml#oper02">Opéra Comique</rs> qui fera
+    l'admiration de l'<hi rend="Emphasis">Univers</hi> consoleront la <placeName ref="places.xml#fra01"> France</placeName> de l'extirpation des parlemens
+    et des nouveaux impôts après huit ans de Paix, il faudra convenir que voilà des services
+    essentiels qu'ils auront rendu au gouvernement. Mais après que ses impôts seront levés, les
+    coffres du Roy seront ils remplis et l'Etat libéré? Vous me dites Monsieur que Votre flotte se
+    prépare à voguer <rs ref="works.xml#neellb01"> de</rs>
+    <placeName ref="places.xml#par01"> Paris</placeName> à <placeName ref="places.xml#sai03"> St: Cloud</placeName>, je Vous
+    donerés nouvelle pour nouvelle, la miene est venu d'<placeName ref="places.xml#azo01"> Azof</placeName> à
+     <placeName ref="places.xml#feo01"> Cafa</placeName>, et à <placeName ref="places.xml#ist01">
+    Constantinople</placeName>. On est très mélancolique de la perte de la <placeName ref="places.xml#cri01">
+     Crimée</placeName>. Il faudrait leur envoyer de l'<rs ref="orgs.xml#oper02">Opéra comique</rs> pour les
+    dissiper, et les marionetes aux mutins de <placeName ref="places.xml#pol01"> Pologne</placeName> au lieu de
+    cette multitudes d'offiçiers français qu'on y envoye perdre. Ceux que mes troupes prendront,
+    pourront assister aux représentations des Drames de M<hi rend="superscript"
+     >r</hi> <persName ref="people.xml#sum01">
+      Somorokof</persName> à
+     <placeName ref="places.xml#tob01"> Tobolsk</placeName>, où il y a de fort bons acteurs.</p>
+   <closer><signed>Adieu Monsieur, combattons les méchants qui ne veulent point rester en repos et
+    battons les puis qu'ils le désirent, aimés moi, et portés Vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

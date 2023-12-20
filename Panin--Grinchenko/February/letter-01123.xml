@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01123</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01123</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Not sure who Ivan Ivanovich is</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-01"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-06"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01123">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p> Мне сказывал Иван Иванович, что Вы находились в некотором <seg xml:lang="fr"
+                    >inquiétude,</seg> нравятся ли мне Вами взятыя меры о <placeName
+                    ref="places.xml#shl01">Шлюссельбургском</placeName> происшествии, и хотя Вы,
+                надеюсь, уже усмотрели из писем моих мое удовольствие о всех Ваших по сему делу
+                взятых мерах, однако ж, услыша вышеписанное, не хотела оставлять Вам повторить, что
+                не токмо весьма довольна, но признаюсь, что лутче сделать не можно было, как Вы
+                сделали, за что я весьма, благодарна. Вчерашное число получила я между <placeName
+                    ref="places.xml#nar01">Нарвою</placeName> и здешним местом вопросы и ответы
+                известнаго злодея чрез Подполковника <persName ref="people.xml#kas01"
+                    >Кашкина;</persName> кажется, дело гладко; я весьма Господину <persName
+                    ref="people.xml#kas01">Кашкину</persName> рекомендовала, чтоб без крайности не
+                прибегнуть к строгости; я надеюсь, что Вы остальные допросы для ясности предпишите
+                Господину <persName ref="people.xml#wey01">Веймарну</persName> окончать как
+                (благоразумие) скорее дозволит, понеже я думаю, что молва народная лишь концом всего
+                дела пресечется. Я в воскресение на куртах к Вам буду, к которому времени и марн
+                приехать может, и тогда уже положим на мере, как далее быть. Истинно, я сама и вся
+                свита моя столь от дороги устали, что не отдыхав, в город, где все на меня навалит,
+                приехать не возможно.</p>
+            <closer rend="inline">Впрочем, желаю Вам здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><placeName ref="places.xml#gos01">Из Гостилиц.</placeName><lb/>
+                    <date when-custom="1764-07-22">Июля 22, 1764.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

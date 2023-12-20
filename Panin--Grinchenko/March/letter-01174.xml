@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01174</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01174</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-23"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01174">
+        <body>
+
+             <opener><dateline>Из <placeName ref="places.xml#tsa01">Царскаго Села</placeName>.<lb/>
+                <date when-custom="1768-01-24">Генваря 24 ч., 1768.</date></dateline>
+           <salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Сего утра получила я Ваше письмо от 21 числа сего месяца, на которое имею
+                ответствовать. Во первых, радуюсь о здравом пребывании <persName
+                    ref="people.xml#pau01">сына</persName> моего, а я, благодаря Всевышняго, со всею
+                свитою от малаго до великаго всех привезла сюда в целости в пятьдесят три часа езды,
+                выключая часы отдохновения в разных местах, и прибыли мы в середу по утру, в девятом
+                часу, в <placeName ref="places.xml#tsa01">Царское Село</placeName>, с несказанною
+                радостию; стужа же была во все время, то есть, от субботы, когда с Вами разстались,
+                до середы, такова, как я не помню, чтоб когда нибудь подобную я чувствовала, однако
+                ж никто ничего не ознобил; при том же надлежит упомянуть, что политичная должность
+                менее других знатно сносит безпокойство, ибо усталее всех, хотя он то и не дает
+                приметить, <persName ref="people.xml#pan01">Вице-Канцлер</persName>. Вы не можете
+                верить, как <placeName ref="places.xml#tsa01">Царское Село</placeName> хорошо,
+                проезжая двадцать девять дурных станций и дворцов, из которых я не выключаю дворца
+                        <rs ref="places.xml#mos01">первостоличнаго
+                    города</rs>, где мы год целой несли безпокойства разнаго рода. <seg
+                    xml:lang="fr">Monsieur <persName ref="people.xml#cho03"
+                    >Choiseul</persName></seg> Вас не любит для того, что он принужден Вас почитать;
+                из письма его действительно кажется, что окроме учтивости, ничего онаго нет.</p>
+            <closer rend="inline">Прощайте, желаю Вам здравствовать и щастливо предпринимать и
+                окончать дорогу Вашу. <persName ref="people.xml#pau01">Великому Князю</persName>
+                скажите мое благословение, желаю его видеть в добром здоровье.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

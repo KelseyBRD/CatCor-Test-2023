@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03729</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03729</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:07:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03729">
+  <body>
+   <opener><dateline> Ce <date when-custom="1796-06-15">15 juin 1796</date>.</dateline></opener>
+   <p>J’ai reçu par <rs ref="people.xml#liv01"> les héritiers</rs>
+    <persName ref="people.xml#bac01"> Bacchus</persName> ce matin votre lettre du 25 mai (5 juin),
+    et, il y a quatre jours, par <persName ref="people.xml#tie01"> Tiesenhausen</persName> une
+    pacotille de tout ce dont il était chargé. Je n’ai pas répondu tout de suite à cela, parce que
+    j’étais émerveillée des hauts faits qui se sont passés en <placeName ref="places.xml#ita01"> Italie</placeName>, qui ont été
+    suivis de fort près par un commencement de campagne sur le <placeName ref="places.xml#rhi01">
+     Rhin</placeName>, qui promet infiniment, surtout depuis que les ordres de <placeName ref="places.xml#vie01">
+    Vienne</placeName> sont arrivés, qui prescrivent la défensive, ce qui à vue de pays pourrait bien amener le
+    second tome d’une paix pareille à celle qu’on dit que le <rs ref="people.xml#vic03"> R. de
+     Sar</rs>. a conclue pour l’exemple de la race future. Mais en attendant vous devez être en
+    possession d’une pancarte que vous recevrez de moi par <placeName ref="places.xml#dre01">
+     Dresde</placeName>, où je vous recommande très sérieusement d’aller à <placeName
+     ref="places.xml#kar04"> Carlsbad</placeName> et d’y prendre les eaux selon les conseils du <rs
+     ref="people.xml#ogi02"> pair d’Ecosse</rs> et de moi, plutôt que d’aller vous embarquer dans un
+    long et pénible voyage pour le Nord, et cela vers l’automne encore. Celui par mer serait encore
+    pire, parce qu’il ne manquerait pas, et cela encore en juillet ou août, de renouveler les
+    vomissements dont vous vous plaignez. Allez donc prendre les eaux de <placeName
+     ref="places.xml#kar04"> Carlsbad</placeName> et qu’il ne soit pas question de voyage autre que
+    celui-là de cette année; c’est moi qui vous le dis. Remerciez, s’il vous plaît, le <rs
+     ref="people.xml#ogi02"> pair d’Ecosse</rs> pour tous ses envois: ils sont charmants, et M.
+     <persName ref="people.xml#ale01"> Alexandre</persName> est en possession du livre anglais, et
+    il sait qu’il lui vient de lui.</p>
+   <p>Vous aurez encore une somme pareille à celle que vous avez reçue et que vous m’annoncez
+    arrivée à <placeName ref="places.xml#lei01"> Leipzig</placeName>. Je n’ai pas donné les <title
+     ref="works.xml#memoir08"> mémoires</title> de <persName ref="people.xml#gra03">
+     Grammont</persName> au susdit seigneur, parce que nous aimons des lectures plus instructives
+    que celle-là, qui selon moi est fort peu de chose ou rien du tout, mais l’édition est fort
+    belle. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien, nous en faisons autant, et à cet effet nous
+    nous promenons deux et trois fois par jour, et nous sommes dans l’attente que <rs
+     ref="people.xml#mar02"> Maman</rs> accouche. <persName ref="people.xml#kon01">
+    Const</persName>, dit que de sa vie il n’a vu ventre pareil et qu’il y a là place pour quatre
+    personnes; cela est si plaisant que je vous le rends comme je l’ai reçu aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

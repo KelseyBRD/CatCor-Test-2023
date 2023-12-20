@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03586</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03586</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-28">28/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:51:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03586">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet02">Péterhof</placeName>, ce <date when-custom="1781-07-06">6 juillet 1781</date>. Réponse
+    au 29<hi rend="superscript">me</hi>
+    <seg xml:lang="de"> Vortrag</seg>.</dateline></opener>
+   <p>Puisque vos prières sont exaucées à point nommé et que vous avez reçu de mes lettres au moment
+    que vos oraisons étaient les plus ferventes, priez donc pour nous, afin que le ciel nous accorde
+    du beau temps. Je n’ai jamais vu un plus détestable été; aussi ai-je pris mon parti: je
+    griffonne, et, comme vous savez, quand on est occupé ou amusé, le temps devient à peu près
+    indifférent. M. <persName ref="people.xml#loh01"> Lohmann</persName> est revenu chargé comme un
+    mulet, et les deux camées ont été reçus, et comme M. <persName ref="people.xml#loh01">
+     Lohmann</persName> avait obtenu vos bonnes grâces par les agréables récits qu’il vous a faits,
+    M. <persName ref="people.xml#loh01"> Lohmann</persName> a été admis chez moi tout crotté, comme
+    il était. Je vous ai dit, et je vous le répète, faites-vous faire un troisième camée et payez-le
+    de mes deniers, car ceux-ci vous ne sauriez les revoir : ils ont été trop goulûment reçus ici.
+    .</p>
+   <p>Pour <persName ref="people.xml#buf02"> M. de Buffon</persName>, nous avons ici toute prête une
+    très belle cassette avec toutes les médailles d’or frappées depuis mon règne: le premier
+    courrier les emportera pour lui à <placeName ref="places.xml#par01">Paris</placeName>, et vous les remettra; mais une chose dont
+    je vous prie, c’est de me faire avoir le buste en marbre blanc de <persName
+     ref="people.xml#buf02"> M. de Buffon</persName>, et donnez cela, s’il vous plaît, à faire à
+     <persName ref="people.xml#hou01"> Houdon</persName>. Outre cela, sachez que <persName
+     ref="people.xml#buf02"> M. de Buffon</persName> a une place très distinguée dans ma tête et que
+    je le regarde comme la première tête du siècle dans son genre. Je ne suis point étonnée de ce
+    que la liberté de penser soit de la contrebande: n’a-t-on pas refusé à celui que l’antiquité
+    aurait déifié sous le nom du dieu de l’agrément, la simple sépulture?</p>
+   <p>J’ai été enchantée des commentaires et des manuscrits; je suis à les lire, et ne sais encore
+    trop ce qu’ils contiennent. J’ai reçu les prospectus du Figaro, et je les avais déjà reçus de
+    bien des côtés, et entre autres du maître en chaire, mais il n’y a pas de plaisir à donner de
+    l’argent à quelqu’un dont on est sûr d’avance qu’il l’emploiera mal; évitez, autant que vous
+    pourrez, de donner de ce côté-là; je crois vous en avoir prié déjà plus d’une fois. Je renonce
+    de même aux souscriptions d’estampes, parce que je n’aime point les souscriptions. Je ne puis
+    que vous remercier du neuvième cahier du <title ref="works.xml#voyage03"> Voyage pittoresque de
+     la <placeName ref="places.xml#gre02">Grèce</placeName></title>, mais surtout pour l’estampe de mon bon ami le <persName
+     ref="people.xml#bra05"> duc de Bragance</persName>, que j’ai d’abord reconnu. Pour <persName
+     ref="people.xml#gir04"> M. de Girecourt</persName>, <rs ref="works.xml#autric01"> son
+     livre</rs> ira dans ma bibliothèque, et M. <persName ref="people.xml#bez01">
+     Bezborodka</persName> vous enverra ma lettre pour lui. L’article de la belle dame et <seg
+     xml:lang="es"> del signor</seg>
+    <persName ref="people.xml#mon06">Montemurli</persName> demande des éclaircissements, que
+    j’ai ordonné de prendre, mais tant qu’il m’en souvient, M. de <persName ref="people.xml#cav01">
+     Cavalcabo</persName> a été payé de tout avant de quitter, excepté des comptes d’apothicaire, et
+    je pense qu’il y avait un petit contrat de fait entre ces deux honnêtes gens de se faire payer
+    cette somme, sans qu’il y ait de pièces justificatives du déboursé. Je ne sais où le <seg
+     xml:lang="es"> signor</seg>
+    <persName ref="people.xml#mon06"> Montemurli</persName> a pris les Arabes du mont Atlas: pour
+    moi, j’ignorais jusqu’à son existence, et le soupçonne d’être un peu aventurier. Je renonce aux
+    manuscrits et autre fatras de la connaissance du prince <persName ref="people.xml#orl01">
+     Orlof</persName>; mais si vous savez des nouvelles de la santé du <rs ref="people.xml#orl01">
+     prince</rs> ou <rs ref="people.xml#zin01"> de la princesse</rs>, je vous prie de me les
+    marquer: le <persName ref="people.xml#orl03"> comte Alexis</persName> et <rs
+     ref="people.xml#orl06"> son frère aîné</rs> sont allés le trouver à Lausanne et ici on le dit
+    fort mal. Je vous ai dit plus d’une fois que j’aimais moins les soupes aux pois d’outre-mer que
+    toutes les autres. </p>
+   <closer><signed rend="inline">Adieu et bon soir pour aujourd’hui. Si vous saviez combien de cahiers
+    j’ai à vous envoyer, vous seriez étonné; cependant je ne les envoie pas, parce que j’ai trouvé
+    depuis deux jours seulement que je suis une commenceuse de profession et que jusqu’ici de tout
+    ce que j’ai commencé il n’j a rien d’achevé. <seg xml:lang="de"> Ich habe nicht Zeit.</seg></signed></closer>
+  </body>
+ </text>
+</TEI>

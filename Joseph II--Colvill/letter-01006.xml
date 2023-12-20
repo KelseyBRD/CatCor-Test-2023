@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01006</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01006</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:31:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01006">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1780-11-24">24 novembre 1780</date>.</dateline></opener>
+   <p>Monsieur mon frère. Votre Majesté Impériale se plaît à me combler de Ses bontés. Je viens de
+    recevoir aujourd’hui, jour de ma patronne, une bien précieuse marque de Son souvenir. On m’a
+    remis ce matin pendant ma toilette (les matinées ayant été chantées la veille) comme Elle
+    l’avait ordonné, Sa lettre du 13, pour laquelle je Lui dois la reconnaissance la plus vive. Si
+    j’ai conçu la plus haute estime pour les vertus de V. M. I., si je ne cesse de le répéter a tous
+    ceux qui veulent bien l’entendre, je ne fais que suivre mes sentiments. Je compte parmi mes
+    bonheurs les plus grands celui de recevoir des marques aussi flatteuses de Son amitié et de Son
+    souvenir. En vérité je compte sincèrement sur cette amitié dont Elle veut bien me répéter les
+    expressions, et à toutes Ses qualités je trouve que V. M. I. joint encore supérieurement le
+    talent rare de captiver les coeurs et les esprits. Ce n’est pas seulement aujourd’hui, mais le
+    reste de mes jours que j’ai l’honneur d’être…</p>
+  </body>
+ </text>
+</TEI>

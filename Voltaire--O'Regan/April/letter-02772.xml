@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02772</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02772</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Nb. inclusion </note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:32:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02772">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1772-11-22">22 Novembre 1772</date></dateline></opener>
+   <p>Monsieur, J’ai reçuë Votre lettre du 2 9<seg
+      rend="superscript">bre</seg> lorsque je répondois à une belle et longue lettre que m’a écrit M<seg
+      rend="superscript">r</seg> <persName ref="people.xml#ale06"> d’Alemberg</persName>
+     après cinq ou six ans de silence, par laquelle il réclame au nom des Philosophes et de la
+     Philosophie les Français fait prisoniers en différens endroits de la <placeName ref="places.xml#pol01">
+      Pologne</placeName>; le billet çi joint contient m’a réponse. Je suis fâchée de ce que la Calomnie aye induite les
+    Philosophes en erreur. Monsieur <persName ref="people.xml#mus01"> Moustapha</persName> revient des sienes,
+    il fait travailler de très bonne fois à <placeName ref="places.xml#buc01"> Boucarest</placeName> son Rois
+    Effendi au rétablissement de la Paix. Après quoi il pourra renouveller les pélerinages à la
+     <placeName ref="places.xml#mec01"> Mecque</placeName>, que le Seigneur <persName ref="people.xml#kab01"> Aly
+     Bey</persName> avoit un peu dérangé depuis sa levée de Bouclier. Je ne sai pas jusqu’où les
+    Turks poussent leurs respect pour leurs saints, mais je suis un témoin oculaire qu’ils en ont et
+    voiçi coment. Lors de mon Voyage sur la <placeName ref="places.xml#vol01"> Volga</placeName>, je descendis
+    de ma galère à 70 Werstes plus bas que la Ville de <placeName ref="places.xml#kaz01"> Casan</placeName>,
+    pour voir les ruines de l’ançiene ville de <placeName ref="places.xml#bol02"> Bolgare</placeName> que Tamerlan avoit bâti pour son petit fils, j’y trouvois en
+    effet sept à huit maison de pierre et autant de minarets bâti très solidement qui existoit
+    encore. Je m’aprochoit d’une masure auprès de laquelle une quarantaine de Tartares ce tenait. Le
+    gouverneur de la <placeName ref="places.xml#kaz02"> Province</placeName> me dit, que cet endroit était un
+    lieu de dévotion pour ses gens là, et que ceux que je voyait y était venu en pélerinage. Je
+    voulu savoir en quoi consistait cette dévotion, et à cet effet je m’addressait à un de ses
+    Tartares dont la phisionomie me paru prévenante, il me fit signe qu’il n’entendait n’entendait
+    point le Russe et ce mit à courir pour appeller un home qui ce tenoit à quelque pas de là; cet
+    home s’approcha et je lui demandoit qui il étoit? S’était un Iman qui parlait assés bien notre
+    langue, il me dit que dans cette masure avoit habité un home d’une vie sainte; qu’ils venoit de
+    fort loin pour faire leurs prières sur son tombeau qui était proche de là, et ce qu’il me conta,
+    me fit conclure que cela était assés équivalent à notre culte de saints. Notre Clergé les gênait
+    dans ce pélerinage, et même çi devant il avoit voulu faire passer, de nombreuses assemblées des
+    Tartares dans cet endroit come nuisible à l’Etat. Mais j’ai adoptés un avis différent, j’aime
+    mieux qu’ils fassent leurs dévotion là, que d’aller à la <placeName ref="places.xml#mec01">
+     Mecque</placeName>. J’ai défenduë de les gêner et ils en sont très reconnoissant. Nous en avons
+    euë de bonnes preuves pendant cette guerre.</p>
+   <p>S’est le <persName ref="people.xml#gus01"> Roy de <placeName ref="places.xml#swe01"> Suede</placeName></persName>
+    qui donera lieu au moyen de r’accourçir Votre Voyage s’il s’empare de la <placeName ref="places.xml#nor01">
+     Norvege</placeName> come on le débite, la guerre pourroit bien devenir générale par cette
+    escapade Politique.</p>
+   <p>Si la <placeName ref="places.xml#fra01"> France</placeName> n’a point d’Argent, l’<placeName ref="places.xml#spa01">
+     Espagne</placeName> en a suffisament, et il faut avouer qu’il n’y a rien de plus comode que
+    quand un autre paye pour nous. Adieu Monsieur, conservés moi Votre amitié. Je Vous souhaite de
+    tout mon cœur les années de l’Anglais Iennkings qui vécu Jusqu’à cent soixante neuf ans. Le bel
+    âge!</p>
+   <p>Dans peu je Vous enverrés la Traduction française de deux Comédies Russes.
+     On les transcrit au net.</p>
+  </body>
+ </text>
+</TEI>

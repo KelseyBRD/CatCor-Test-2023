@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03696</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03696</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-06">06-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:00:28Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03696">
+  <body>
+
+   <opener><dateline> Ce <date  when-custom="1794-09-04">4 sept</date>.</dateline></opener>
+   <p>Je me suis levée ce matin avec un torticolis, de façon que je ne puis tourner à gauche. C’est,
+    je crois, d’indignation contre les <seg xml:lang="de">dumme Teufel</seg>.
+    Le <persName ref="people.xml#nas01"> pr. de Nassau</persName> m’a envoyé, avec la nouvelle de la
+    levée du siège de <placeName ref="places.xml#war01"> Varsovie</placeName>, un fort jeune homme que je questionnai sur tout plein
+    de choses et entre autres sur le vertueux <persName ref="people.xml#man05"> Manstein</persName>,
+    qui a voulu négocier avec <persName ref="people.xml#kos01"> Kostiouchka</persName> tout comme
+    avec <persName ref="people.xml#dum05"> Dumouriez</persName>; je lui demandai ce que c’était; il
+    me répondit en trois mots: «c’est un sot». J’ai été fort contente de cette réponse, et je vous
+    la répète. C’est un sot, en cas que vous l’ignoriez. Fin de la réponse à No 77.</p>
+   <p>Réponse au No 78.</p>
+   <p>Ecoutez, <rs ref="people.xml#gri01"> souffre-douleur</rs>: quand vous pleurez sans raison,
+    sachez qu’il pleuvra ou fera mauvais temps; vous croyez vous attendrir; point du tout: le
+    pressentiment du mauvais temps vous rend hypochondre; ainsi, quand vous revîntes de <placeName
+     ref="places.xml#lei01"> Leipzig</placeName> à <placeName ref="places.xml#got01"> Gotha</placeName>, pour sûr il a plu ce jour-là
+    ou le lendemain. J’ai reçu tous les livres de <seg xml:lang="en"> milord</seg>
+    <persName ref="people.xml#ogi02"> Findlater</persName>, et comme la plupart sont anglais, je les
+    ai envoyés à monsieur <persName ref="people.xml#ale01"> Alexandre</persName>, qui n’a eu rien de
+    plus pressé que de les feuilleter et examiner. Je vous prie d’en remercier <rs ref="people.xml#ogi02" xml:lang="en">
+     milord</rs> de ma part.</p>
+   <p>L’on dit que jusqu’ici <placeName ref="places.xml#myk01"> Nicolayef</placeName> sur le Boug
+    est sans comparaison mieux bâti et situé que <placeName ref="places.xml#dni04">
+     Ekatérinoslav</placeName>, que la guerre et la mort du <persName ref="people.xml#pot01"> pr. Potemkine</persName> a fait
+    négliger, tandis que mille et mille autres soins étaient plus importants, d’autant plus que les
+    finances demandaient que les bâtisses fussent retardées; quand nous serons en fonds, nous ferons
+    ce que nous voudrons, mais jusque là halte-là.</p>
+   <p>J’ai tous les ouvrages des frères Adams. Ce <persName ref="people.xml#hes01">
+     Hastie</persName>, architecte dont vous me parlez, je l’ai pris à mon service ; c’est un sujet
+    très recommandable: il a fait des choses charmantes. L’église de Saint Sophie est dans la ville
+    de Sophie derrière le jardin de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>; elle a été bâtie par l’architecte
+     <persName ref="people.xml#cam01"> Kameron</persName>, neveu de Miss <persName
+     ref="people.xml#cam02"> Jenny Kameron</persName>; il a été élevé à <placeName ref="places.xml#rom03"> Rome</placeName> dans la
+    maison do prétendant. Cette église est fort belle en dehors et en dedans; il y a intérieurement
+    dix colonnes de dix archines de haut, d’une seule pierre chacune, d’un granit rouge et noir,
+    trouvé dans une île, je pense, du lac Ladoga, où en est la carrière; ces colonnes sont superbes.
+     <persName ref="people.xml#cam01"> Kameron</persName> a bâti outre cela la colonnade
+    de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, le bain qui y tient et la rampe; ce sont tout des bâtiments
+    distingués par leur solidité et leur élégance. Le grand escalier de la colonnade est aussi de
+    lui; les bâtiments du jardin anglais à <placeName ref="places.xml#pet02"> Péterhof</placeName> sont de <persName
+     ref="people.xml#qua01"> Quarenghi</persName>, de même que la nouvelle maison que je fais bâtir
+    à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> pour M. <persName ref="people.xml#ale01"> Alexandre</persName>,
+    qui, je crois, sera fort belle et très agréable à occuper, tenant au jardin et dont on voit sans
+    lunette d’approche <placeName ref="places.xml#pet01"> Pétersbourg</placeName> et toute la
+    campagne de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> et peut-être la mer même. Pour <persName
+     ref="people.xml#cla03"> John Clark</persName>, quand il viendra, il trouvera difficilement son
+    compte ici, car la chose du monde qui nous convient le moins, c’est la boiserie; on ne souffre
+    même plus dans les fenêtres les embrasures de bois, parce que le bois se trouvant en hiver entre
+    le froid du dehors et la chaleur intérieure des appartements, n’y résiste pas: il crève et donne
+    des vents coulis insupportables, de façon que l’on fait les lambris, autrefois de bois, et les
+    embrasures de stuc, et on les peint et dore et orne comme on veut.</p>
+  </body>
+ </text>
+</TEI>

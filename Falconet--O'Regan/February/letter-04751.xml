@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04751</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04751</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>More information on Pochel and Michel needed for spreadsheet.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-18">18/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:02:05Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-05">05/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Query left for further research.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04751">
+  <body>
+
+
+   <p> Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je n’ai point entendu parler
+    ni directement ni indirectement du projet de <persName ref="people.xml#poc01">
+    Pochel</persName>, mais mon avis est, quoiqu’il en soit, que personne en <placeName
+     ref="places.xml#rus01">Russie</placeName> n’inquiète Monsieur <persName ref="people.xml#fal01">
+     Falconet</persName>, que son atelier et son logement soient à lui jusqu’à ce qu’il dise <hi
+     rend="italic">je n'en veux plus.</hi> Cependant, je ne crois pas que les <persName
+     ref="people.xml#poc01"> Pochel</persName>, les <persName ref="people.xml#mic01">
+     Michel</persName>, osent proposer ce projet, qui ne pourrait s’exécuter sans moi; ils savent, à
+    n’en pas douter, que je regarde l’un comme un intrigant de métier, l’autre comme une sangsue.
+    Outre cela, dès que vous diriez: je ne veux plus ni ce logement, ni l’atelier, ils doivent être
+    cassés, parce qu’à la Police, il y a un plan signé de ma main, il y a 5 ans, de maison
+    particulière à bâtir sur cette place, et que notamment il est dit dans ce plan qu’aucun bâtiment
+    de bois ne doit exister à cette place; on peut bien déroger à ce plan pendant quelques années
+    pour la statue d’un grand homme travaillées par un Artiste rare, mais on n’y dérogera pas pour
+    un théâtre d’entrepreneur au risque de mettre le feu à tout un quartier de la ville, ainsi soyez
+    tranquille, tandis que je veillerai.</p>
+   <p> Après avoir écrit avant-hier ce billet, par étourderie, je l’ai laissé sur ma table sous un
+    tas de paperasses, croyant bonnement l’avoir envoyé chez vous. </p>
+   <closer><dateline><date when-custom="1769-02-14">Samedi an matin.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

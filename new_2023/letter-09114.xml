@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09114</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09114</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-30">2023-06-30</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09114"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-07-12">1789 г. 12 июля.</date>
+                </dateline>
+            </opener>
+            <p>Сей столп создан по повелению благочестивой, самодержавной великой государыни императрицы Екатерины II, на память усердия Рыбачей Слободы
+                <note type="editorial">
+                     A village near Saint-Petersburg (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 570.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                поселян, добровольно пятаго человека нарядивших в службе Ея Величества и <rs ref="places.xml#rus01">Отечества</rs> в 1788 году, во время <name type="event" ref="events.xml#swedi02">Свейской войны</name>.
+                <note type="editorial">
+                     According to A.V. Khrapovitskii's diary, the same kind of columns were offered to other villages near <placeName ref="places.xml#tsa01">Tsarskoe Selo</placeName> (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 297.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

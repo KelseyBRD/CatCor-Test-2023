@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03002</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03002</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:35:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03002">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1778-01-10">10 janvier 1778</date>.</dateline></opener>
+   <p>J’ai devant mes yeux vos deux énormes pancartes qui portent pour affiche No 10 et 11 : l’une,
+    apportée par le précepteur Thier, l’autre est venue le lendemain. La première page est un traité
+    de reconnaissance; je vous en ai beaucoup de ce que vous en avez. Puis vient à la seconde page
+    la boîte de Pandore. Que de présents! des asperges de <placeName ref="places.xml#tou01">
+     Tours</placeName>, elles sont très bonnes; je suis occupée à les manger. Le sucre de Moret,
+    comme c’est un spécifique contre la toux, que je n’ai pas, Lady le consume; je la crois
+    enrhumée. La paire de bas de poil de lapin traîne sur ma table; le <persName
+     ref="people.xml#orl01"> prince Orlof</persName> a pensé s’en emparer; il n’y a que la réflexion
+    qu’ils seront pour lui trop courts et trop étroits qui l’en ait empêché. Grand merci pour tout
+    cela et pour toutes vos attentions contre les vents coulis; demain nous en essaierons; il y aura
+    mascarade en réjouissance de la naissance de monsieur <persName ref="people.xml#ale01">
+     Alexandre</persName>. Ce monsieur <persName ref="people.xml#ale01"> Alexandre</persName>, c’est
+    un prince— c’est un prince.... c’est un prince qui se porte bien.</p>
+   <p>Il me semble que vous avez emphilosophé votre précepteur Thier: il s’est présenté devant moi
+    avec une mine plus philosophique que ci-devant. Si vous avez fait cela, j’ajouterai le titre
+    d'extrêmement rare à celui de personnage rare dont vous vous décorez déjà. Puisque tous les
+    tarifs vont à l’unisson sur votre compte, c’est une marque que vous réunissez les avis les plus
+    divers, et que hardiment vous pourriez entreprendre la pacification de l’<placeName ref="places.xml#eur01">
+    Europe</placeName> sur plus d’un article. Je vous conseille de commencer par l’arrangement de la succession
+    du <persName ref="people.xml#max01"> défunt électeur de <placeName ref="places.xml#bav01"> Bavière</placeName></persName>. Vous
+    ressemblez au père <persName ref="people.xml#mal01"> Malebranche</persName>; je ne sais
+    pourquoi, c’est moi qui suis toujours là; ce n’est pas moi qui mène <persName
+     ref="people.xml#mau01"> M. de Maurepas</persName> et <persName ref="people.xml#gra01"> M. de
+     Vergennes</persName>: ces messieurs sont des gens que je crois très capables d’apprécier le
+    mérite; ils vous traitent bien, j’en suis bien aise, mais je n’y suis pour rien. La soupe à la
+    purée de pois dont vous me faites un long détail est très intéressante: <seg xml:lang="de"> ja
+     freilich, das laßt sich hören</seg>. L’on aurait de la peine à n’y pas ajouter foi, partant
+    d’où, passant par qui, et visant à quoi, cela est simple, fort honnête, et engageant; j’ai lu
+    cela sans répugnance, et y répondrai toujours et tant et quantes fois sur le même ton. Pour l’
+     <rs ref="people.xml#jos01"> homme aux deux physionomies</rs>, je meurs de peur qu’il ne
+    ressemble à nos évêques, que quelqu’un trouvait fort aimables après avoir conversé avec eux
+    pendant deux heures, et qui disait: mais d’où vient qu’on ne les voit pas plus souvent? pourquoi
+    esquivent-ils les moyens d’être avec nous? Un autre lui répondit: C’est qu’il leur en coûte
+    d’être aimables; cette physionomie ne leur dure que deux heures.</p>
+   <p>Ah! monsieur le <persName ref="people.xml#gri01"> baron</persName>! Je vous félicite de votre
+    nouvelle dignité : vous n’avez aucune ressemblance avec celui dont le <title ref="works.xml#smyrne01"> marchand de Smyrne</title> ne peut se défaire; voilà une des
+    mauvaises comédies dont j’ai le plus ri dans ma vie. Desvilles la joue à se tenir les côtés; en
+    général, j’ai toujours assez, aimé les comédies dans lesquelles il y avait des barons: le mot
+    seul d’éternel baron me réjouit. Oh! monsieur le baron, je ne suis point contente du tout des
+    éloges et des portraits de <persName ref="people.xml#geo04"> madame Geoffrin</persName>: ils ont
+    tous la mine bourgeoise; on les dirait écrits par le <persName ref="people.xml#geo02"> R.
+     d’A.</persName> ou par quelque bon citoyen, ce qui est synonyme.</p>
+   <p>J’ai quelques questions à vous faire sur <persName ref="people.xml#eon01"> Mad.
+     d’Eon</persName>. Pourquoi cette fille s’est-elle travestie en homme? Comment est-elle entrée
+    dans le militaire? Comment a-t-on découvert que c’était une fille? D’où vient qu’il a été
+    ordonné qu’elle mît des habits de femme? Et pourquoi lui a-t-on défendu de porter l’habit qui
+    lui paraissait le plus commode? La lettre que <persName ref="people.xml#lou15"> Louis XV</persName> lui a écrite pour l’avertir
+    qu’il allait la faire enlever est un peu forte; on ne comprend pas trop par son contenu, qui
+    dans ce temps-là faisait le métier de roi en <placeName ref="places.xml#fra01"> France</placeName>; toujours n’était-ce pas à
+    coup sûr <persName ref="people.xml#lou15"> Louis XV</persName>. C’est une lettre dont on pourrait faire un commentaire très
+    plaisant ; mais à Dieu ne plaise: elle parle d’elle-même.</p>
+   <p>Je savais déjà ce que vous me dites par votre P. S. tardif. Non, ma soeur à laquelle le
+     <persName ref="people.xml#bra05"> duc de Bragance</persName> va rendre visite, n’est pas dame à
+    parallèle, c’est une <persName ref="people.xml#mar09"> dame</persName> à un côté. Elle est aux
+    genoux de son confesseur, à en avoir des taches bleues, et puis c’est tout; je voudrais parier
+    qu’elle ne se confesse toute l’année que d’un seul péché, qui est de ne point aimer <persName
+     ref="people.xml#ped01"> son oncle et mari</persName>, parce qu’il n’est pas aimable; du moins
+    me paraît-il tel à moi. D’ailleurs que pourrait-elle lui dire? elle ne fait rien que prier Dieu:
+    La bigoterie rend l’âme et l’esprit <seg xml:lang="de"> muchlig</seg>, prenez garde: votre
+    esprit aussi deviendra <seg xml:lang="de"> muchlig</seg>, si vous l’occuperez trop d’un seul
+    objet. Voilà ce que j’ai à répondre à la première page de votre No 11, au sujet de la fête de
+     S<hi rend="superscript">te</hi> Catherine du mont Sinaï. Cette lettre-ci ne vous fera ni rire
+    ni pleurer, mais pester peut-être: par sa longueur, son ennui et son désordre, elle ressemble à
+    l’armée turque: il y a de tout sans effet. S<hi rend="superscript">te</hi> Catherine a été
+    célébrée ici dans l’attente de <persName ref="people.xml#ale01"> M. Alexandre</persName>. A
+    présent nous donnons des fêtes, au milieu desquelles j’attends avec la plus grande impatience
+    vos réflexions sur le <orgName ref="orgs.xml#phil01"> Philantropin</orgName> et compagnie; je
+    savais déjà la désertion des <seg xml:lang="de"> Pfleger und Säugammen</seg>, expression un peu
+    piétiste.</p>
+   <p>Je ne sais de quoi vous vous désespérez au sujet du surtout <persName ref="people.xml#bre01">
+     Breteuil</persName>: ce surtout est très bien accueilli, il gîte dans mon entre-sol, dans la
+    pièce intitulée Museum, avec ses camarades d’or, d’argent et pierres précieuses, venues des
+    quatre coins du monde pour lui tenir compagnie, et grand nombre de jaspes et agathe venus
+    de <placeName ref="places.xml#sib01"> Sibérie</placeName>; là les souris et moi nous le voyons; les Thomas même n’y viennent que
+    rarement, vu la beauté des tapis, mais aussi quand ils y sont admis, c’est une allégresse
+    particulière dans la famille; l’on dirait qu’ils aiment les beaux meubles.</p>
+   <p>Pour votre écritoire, elle commence à me chagriner, vu toutes les peines qu’elle vous a
+    données; chaque fois que vous la nommez seulement, je m’attends déjà à quelque nouveau déboire,
+    et les mots d’écritoire et de jérémiade deviennent synonymes chez moi. Je paierai volontiers
+    tout ce qu’il faut payer, et vous distribuerez présents, compliments et remercîments à qui bon
+    vous semblera au sujet de cette fameuse écritoire, pourvu seulement que vous soyez tranquille,
+    vous, et que je n’en entende plus parler. J’ai ordonné à <persName ref="people.xml#ols02">
+     Olsoufief</persName> et au <persName ref="people.xml#fre03"> baron Friedrichs</persName> de
+    vous faire crédit là-bas pour trente mille livres à ce sujet. Pour du bureau, vous jugerez bien
+    que je n’en veux pas. De <persName ref="people.xml#koc02"> Friederich Albert Koch</persName>
+    nous en demanderons des nouvelles, et puis nous verrons. Remerciez  <persName ref="people.xml#did01"> Denis Diderot</persName> de son souvenir au sujet du nouvel an; je m’étonne
+    qu’il se soit souvenu qu’il y en avait un. </p>
+   <closer><signed rend="inline">Adieu, monsieur le baron; le dernier paragraphe du No 11 écrit en
+    allemand fait voir que monsieur le baron a passé nouvellement par <placeName
+     ref="places.xml#lei01"> Leipzig</placeName>. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

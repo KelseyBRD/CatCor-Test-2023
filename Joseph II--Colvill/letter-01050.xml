@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01050</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01050</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#crimea"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:17:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01050">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1783-05-16">16 mai 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. V. M. I. aura déjà été informée de la tournure que j’ai été obligée de
+    donner aux affaires de la <placeName ref="places.xml#cri01">Crimée</placeName>. A peine cette
+    résolution était-elle prise ici, que j’ai reçu la nouvelle inopinée que le Khan <persName
+     ref="people.xml#gir05"> Shahin Giray</persName>, sans s’être concerté avec moi ni avec qui que
+    ce soit des miens, a trouvé à propos de se démettre de sa dignité. V. M. I. peut aisément juger
+    dans quel embarras cette abdication m’aurait mise, si mon parti n’avait déjà été pris. Les
+    troubles et dissensions que la <placeName ref="places.xml#ott01">Porte</placeName> n’a cessé de
+    fomenter, en seraient augmentées; on n’aurait pas manqué de candidats élevés ou vieillis dans le
+    désir d’occuper cette place. Leur attachement aveugle aux volontés et à l’ancien système de
+     la <placeName ref="places.xml#ott01">Porte</placeName> par rapport à la <placeName
+     ref="places.xml#cri01">Crimée</placeName>, que la paix de <name ref="events.xml#kuchu01">
+     Cainardgi</name> n’a pas réussi à diminuer ou détruire, aurait donné beau jeu de nouveau à
+     la <placeName ref="places.xml#ott01">Porte</placeName>, et elle n’aurait pas manqué d’en
+    profiter pour renverser de fait cet article de la paix qu’elle a cherché déjà si souvent à
+    miner. Présentement l’abdication de <persName ref="people.xml#gir05"> Shahin Giray</persName> ne
+    change rien à l’état des choses. Il dépend de la <placeName ref="places.xml#ott01"
+     >Porte</placeName> de se résoudre à la paix ou à la guerre, mais du moins n’agira-t-Elle point
+     en <placeName ref="places.xml#cri01">Crimée</placeName> par des menées sourdes et perfides
+    comme ci-devant.</p>
+   <p>V. M. I. ne doute point, j’espère, qu’en toute occasion je suis toujours prête à préférer le
+    maintien de la paix. Je me fais un vrai plaisir de Lui confier mes sentiments et l'état de mes
+    affaires, étant tout ma vie avec la plus haute considération ....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09132</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09132</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-06">2023-07-06</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09132"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1791-07-21">1791 г. 21 июля.</date>
+                </dateline>
+            </opener>
+            <p>Прошу к <date when-custom="1791-07-22">завтрему</date> достать <title ref="works.xml#istros03">третий том <persName ref="people.xml#stc02">Щербатова</persName> гистории</title>
+                <note type="editorial">
+                    This note might reflect Catherine's interest for Russian history, which A.V. Khrapovitskii writes about in his diary under <date when-custom="1791-06-22">June 22</date>: "Принялись за Российскую Историю", and <date when-custom="1791-06-23 1791-06-24">June 23 and 24 1791</date>: "Упражняются в продолжении Истории Российской" (
+                 <bibl>
+                    <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                    , <biblScope unit="pp">pp. 265.</biblScope>
+                </bibl>
+                ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

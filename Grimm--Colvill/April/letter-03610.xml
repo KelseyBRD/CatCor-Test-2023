@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03610</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03610</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Letter from AD Lanskoy to Grimm, but written by the hand of Catherine (save for Lanskoy’s
+     signature)</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-08">08-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:20:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03610">
+  <body>
+
+   <opener><salute hand="people.xml#lan02">Monsieur,</salute></opener>
+   <p>Mon cousin <persName ref="people.xml#lan07"> Ivan Lanskoï</persName> m’a remis la lettre dont
+    il vous a plu de le charger pour moi, de même que du précieux émail représentant notre très
+    chère Impératrice, et par là, Monsieur, vous m’avez mis au comble de mes voeux; je vous prie
+    d’en recevoir mes très sincères remercîments, de même que de la part que vous me témoignez
+    prendre aux nouvelles grâces et distinctions que <rs ref="people.xml#cat01"> Sa Majesté
+     Impériale</rs> a daigné m’accorder. Il m’est bien flatteur, Monsieur, de voir l’intérêt que
+    vous y prenez, et c’est une obligation, de plus que je vous ai; je suis enchanté de savoir le
+    succès que le portrait que je vous ai cédé non sans quelques regrets a eu près de ceux qui l’ont
+    vu.</p>
+   <p>Le sieur <persName ref="people.xml#roe04"> David Roentgen</persName>, après avoir vendu toute
+    sa boutique, est reparti d’ici, il y a, je pense, un mois; ses meubles sont d’une grande
+    exactitude de travail, surtout ceux où il y a de la mécanique.</p>
+   <p>Le valet de chambre friseur et perruquier qui vient de m’arriver me parait fort au-dessus des
+    ébouriffeurs à la mode. Ces ébouriffures ont été plus d’une fois commentées par l’éloquence
+    Impériale d’une façon à en dégoûter tous ceux qui y prenaient goût ou plaisir.</p>
+   <p>J’ai rendu votre lettre, Monsieur, avec le billet de <persName ref="people.xml#bou01"> madame
+     de Buchwald</persName> à Monsieur le <persName ref="people.xml#anh01"> comte
+    d’Ahalt</persName>, auquel elle a paru faire un très sensible plaisir. Ce capitaine vraiment
+    illustre, comme vous le nommez, est ici à <placeName ref="places.xml#tsa01">
+     Tsarsko-Sélo</placeName>, et paraît s’y plaire; aussi l’accueil qu’il y reçoit répond-il au
+    mérite solide de ce général.</p>
+   <p>L’approbation dont vous honorez mon secrétaire, Monsieur, a fait qu’après l’avoir disgracié,
+    parce qu’il m’a paru un peu trop bavard, je l’ai repris, et c’est lui en personne qui griffonne
+    de nouveau cette lettre; en récompense je lui ai lu les pamphlets sortis de la plume de
+    l’illustre <persName ref="people.xml#fra01"> Franklin</persName>; j’ai trouvé surtout celui du
+     <rs ref="people.xml#fra01"> bonhomme Richard</rs> délicieux, et je me suis écrié: Ah ! mon
+    Dieu! si on pouvait souvent avoir des lectures pareilles! Mon secrétaire vous attestera que je
+    fais pour moi des extraits de mes lectures journalières, où il y entre tout ce qui me paraît
+    utile ou d’agrément, et mon secrétaire prétend que ces extraits sont précieux, parce que c’est
+    la quintessence de ce qu’il y a d’utile ou d’agréable dans les livres que je lis, et outre cela
+    il dit que je ne choisis pas mal, et que ces extraits me peignent moi au mieux. Pour moi,
+    Monsieur, je laisse dire mon secrétaire; je n’en sais rien, je n’en tire aucune vanité, et je
+    vais mon train; j’aime ce que j’aime, et ce que j’aime, je le crois bon, et mon secrétaire dit
+    que cela est réellement non seulement bon-, mais même excellentissime, et en soi-même et pour le
+    goût et le choix, et voilà comme je suis. Vous direz peut-être, Monsieur, que tout ce paragraphe
+    sent la lecture du <rs ref="people.xml#fra01"> bonhomme Richard</rs>: cela se peut; une tête en
+    fait aller une autre, et voilà comme vont les têtes.</p>
+   <p>Puisque vous le souhaitez, Monsieur, je ne manquerai pas de vous envoyer le portrait de votre
+    très obligé serviteur; il y en a un en pastel que mon secrétaire trouve être plus ressemblant
+    que les autres, et celui-là sera expédié de préférence.</p>
+   <p>L’achat du cabinet <persName ref="people.xml#bau04"> Baudouin</persName> est une grande et
+    importante nouvelle, qui fait bouillonner le sang à plus d’un amateur. Permettez, Monsieur, que
+    je m’acquitte envers vous de la reconnaissances que je vous dois pour les paquets No 5 et 6 que
+     <rs ref="people.xml#lan04"> mon cousin</rs> m’a remis.</p>
+   <p>Les trois paquets que vous m’avez envoyés ont été remis à leur adresse.</p>
+   <p><persName ref="people.xml#tod02"> Madame Todi</persName> n’est pas arrivée, que je sache.</p>
+   <p>Le <persName ref="people.xml#ber05"> Sr Bertin</persName> ne sera pas oublié.</p>
+   <closer><signed rend="inline">C’est avec les sentiments de la plus parfaite estime et amitié que
+     j’ai l’honneur d’être, Monsieur, votre très humble et très obéissant serviteur <persName
+      ref="people.xml#lan02" type="signature">Lanskoi.</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

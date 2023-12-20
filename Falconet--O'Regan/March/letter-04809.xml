@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04809</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04809</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure if ’ball' needs encoding as an 'event'? and the name of the Court Marshal as a
+     possible 'Nikolai Mikhailovich Golitsyn', but not certain? Kelsey: correct about Golitsyn; no
+     need to mark this ball as an event.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:08:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-08">08/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Queries resolved and markup updated.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04809">
+  <body>
+
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.
+    </salute></opener>
+   <p rend="inline">Votre <rs ref="people.xml#fal02"> fils</rs> pourra me voir commodément ce soir
+    dans la galerie, au bal qui commencera vers les sept heures. Je dirai au <rs
+     ref="people.xml#gol16">grand-maréchal de la cour</rs> qu'il lui donne quelqu’un pour le
+    conduire jusque dans la galerie, et à cet effet, il enverra chez lui; la première fois que je
+    vous verrai, nous parlerons du brocanteur, car je ne comprends pas bien le billet que vous
+    m’avez donné.</p>
+  </body>
+ </text>
+</TEI>

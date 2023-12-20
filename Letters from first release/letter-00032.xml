@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00032</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00032</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#familypolicy"/>
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-18">18 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-05-22">22 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    
+                    <p>Всякой отец совершенное воля имеет с детьми своими поступить как
+                            заблагоразсудит.<note type="editorial">Razumovsky petitioned Catherine
+                            for the right to send his daughter to a monastery on 5 July 1774; the
+                            next day he dined with Catherine at Peterhof (<bibl><title
+                                    ref="works.xml#kamerf01">Kamer-furierskii tseremonialnyi zhurnal
+                                    1774 goda</title>, <biblScope unit="pp">p.
+                                358</biblScope></bibl>).</note> В чем и я препятствовать никому не
+                        могу и не буду; а только прошу <persName ref="people.xml#raz01">графа
+                            Разумовскаго</persName>, чтоб он <rs ref="people.xml#raz03">дочь
+                            свою</rs> не постриг, ибо по молодым ее летам я разсуждаю, что сие
+                        жестоко и законом противно; до сорока лет женщин не постригают. Дабы же <rs
+                            ref="people.xml#raz03">дочь его</rs> по его просьбе мною наказана была,
+                        то от сего числа я ее исключаю из числа придворных моих фрейлин, и имя мое,
+                        которое она носила, от нее взять велю. А по разрешенье ее, какое <persName
+                            ref="people.xml#raz01">граф Разумовский</persName> от меня будет
+                        требовать определенье или помочь, дать ведю, лишь бы сходственно с
+                        человеколюбием.</p>
+                    <p>Что же касается до <persName ref="people.xml#apr01">графа
+                            Апраксина</persName>, то накажу его тем, что запрещу ему казаться как
+                        при дворе, так и в публике и везде тут, где встретится может со двором или
+                        домом <persName ref="people.xml#raz01">графа Разумовскаго</persName>, а за
+                        безчестье, учиненная двору, велю его запереть на полгода в крепость или на
+                        три—в цухт-гауз ревельской, или на год в <placeName ref="places.xml#svi01"
+                            >Свирской монастырь</placeName>, чего сам изберет.</p>
+              
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>Every father is perfectly free to do with his children what he thinks best.
+                        In this even I cannot and shall not hinder anyone, but I only ask Count
+                        Razumovsky that he not send his daughter to a monastery, for, given her
+                        youth, I judge this to be cruel and contrary to the laws. Women are not made
+                        nuns until the age of forty. So that his daughter might be punished by me
+                        according to his petition, I shall exclude her from this day forth from the
+                        number of my maids of honour at court, and I shall order my name, which she
+                        wore, to be taken from her. And once she has given birth, I will give orders
+                        for an appointment or help in accordance with whatever Count Razumovsky
+                        requests, as long as it is humane.</p>
+                    <p>As regards Count Apraksin, I shall punish him by forbidding him to appear at
+                        court, in public, and everywhere were he might encounter the court or the
+                        household of Count Razumovsky. And for the dishonour done to the court I
+                        shall order him to be locked up for a half a year in a fortress, or for
+                        three in the prison at Reval, or for a year in the Svirskoi monastery, as he
+                        choses.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00060</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00060</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-27">27 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup and tagging</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-00060">
+        <body>
+            <opener rend="right"><dateline><placeName ref="places.xml#pet01">S<seg rend="sup"
+                            >t</seg> Pétersbourg,</placeName>
+                    <date when-custom="1789-08-17">ce 17 août 1789.</date></dateline></opener>
+
+            <p>Le 15 d'août est arrivé en courrier <persName ref="people.xml#sta01">le
+                    sous-lieutenant au régiment des <orgName ref="orgs.xml#preo01">gardes
+                        Préobrajenski</orgName> comte Stakelberg</persName> de la part du <persName
+                    ref="people.xml#nas01">vice-amiral prince de Nassau-Siegen</persName> avec la
+                nouvelle de <rs ref="events.xml#svens01">la victoire signalée</rs>, remportée le 13
+                d'août par la flotte des galères, chebeks et bâteaux russes sous ses ordres, sur
+                celle du <rs ref="people.xml#gus01">roi de Suède</rs> commandée par <persName
+                    ref="people.xml#ehr01">l'ober-amiral Ehrensvärd</persName> à la hauteur de
+                l'embouchure du <placeName ref="places.xml#kym01">Kymen</placeName> entre les îles
+                    <placeName ref="places.xml#kot01">Kotka</placeName> et <placeName
+                    ref="places.xml#kuu01">Koutsalmulima</placeName>. L'action a duré 14 heures; le
+                vaisseau amiral suédois, six grands bâtiments de quarante à cinquante canons chacun,
+                une galère et un cutter, au-delà de 1200 prisonniers et plus de quarante officiers,
+                sont entre nos mains; ce qui n'a pas péri a été chassé dans le <placeName
+                    ref="places.xml#kym01">Kymen</placeName> et bloqué par <rs
+                    ref="people.xml#nas01">le prince de Nassau-Siegen</rs>. Notre perte consiste en
+                une galère sautée en l’air. Hier on a chanté pour cette victoire le Te Deum; c’est
+                le second depuis huit jours. <rs ref="people.xml#nas01">Le vice-amiral</rs> enverra
+                les détails après; il loue infiniment nos gens et surtout les gardes. Le <handShift
+                    new="people.xml#cat01"/>premier jour <rs ref="people.xml#nas01">le prince de
+                    Nassau</rs> croyait avoir perdu deux galères, mais le lendemain il se trouva
+                qu’on était parvenu à éteindre le feu d’une des deux et qu’elle était sauvée.</p>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02740</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02740</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:23:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02740">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date when-custom="1770-09-16">16/27 Sept: 1770</date></dateline></opener>
+   <p>Monsieur, Que de choses j'ai à Vous dire aujourd'huy! je ne sais par où
+     comencer. Ma flote, non pas sous le comandement de
+    mes Amiraux mais sous celui du Cte: <persName ref="people.xml#orl03"> Alexis Orlof</persName>, Après avoir
+    batu la flote enemie l'a brûlée toute entière dans le port de <placeName ref="places.xml#che02">
+     Chesme</placeName> en <placeName ref="places.xml#asi01"> Asie</placeName>, ançienement
+     <placeName ref="places.xml#kla01"> Clazomene</placeName>. J'en ai reçuë il y a trois jours la nouvelle
+    directe. Près de cent Vaisseaux de toute espèce ont été réduit en cendre. Je n'ose presque dire
+    le nombre des Musulmans qui sont péris, on le fait monter jusqu'à vingt mille. Un conseil
+    général de guerre avoit terminé la désunion des deux Amiraux, en defferant le comandement au
+    général des troupes de terre qui ce trouvoit sur cette flote, et qui au reste étoit leurs ancien
+    dans le service. Ce résultat fut unanimement aprouvé de tous et dès ce moment l'union fut
+    rétablie. Je l'ai toujour dit, ses Héros sont né pour les grands événemens. La flote Turque fut
+    poursuivie depuis <placeName ref="places.xml#nap01"> Naple</placeName> de <placeName ref="places.xml#rom02">
+     Romanie</placeName> où elle avoit été déjà harcelée à deux reprise jusqu'à
+     <placeName ref="places.xml#chi03"> Scio</placeName>. Le Cte: <persName ref="people.xml#orl03"> Orlof</persName>
+    savoit qu'un renfort étoit parti de <placeName ref="places.xml#ist01"> Constantinople</placeName>, il crut
+    qu'il préviendroit la jonction en attaquant sans perte de tems l'enemi. Arrivé dans le
+     <placeName ref="places.xml#chi03"> Canal de Scio</placeName>, il vit que cette jonction s'étoit faite. Il
+    ce trouvoit avec 9 Vaisseaux de haut bord en présence de 16 Vaissaux de ligne Ottomans, le
+    nombre des Frégates et autres bâtimens étoit encore plus inégal. Il ne balança pas et trouva la
+    disposition des esprit telle qu'il n'i eut qu'un avis, qui fut de vaincre ou de mourir. Le
+    combat comença. Le Cte: <persName ref="people.xml#orl03"> Orlof</persName> ce tint au centre, l'Amiral
+     <persName ref="people.xml#spi01"> Spiridof</persName> qui avoit à son bord le Cte:
+     <persName ref="people.xml#orl05"> Feodor Orlof</persName> comanda l'avant garde. Le Contre Amiral
+     <persName ref="people.xml#elp01"> Elphinston</persName> l'arrière garde. L'Ordre de bataille des Turks
+    étoit telle qu'une de leurs ailes ce trouvoit apuyée contre une Isle pierreuse, et l'autre à des
+    bas bonds de façon qu'ils ne pouvoit être tourné. Le feu fut terrible de part et d'autre pendant
+    plusieurs heures. Les Vaisseaux s'approchèrent de si près que le feu de la Mousqueterie ce
+    joignit à celui des Canons. Le Vaisseaux de l'Amiral <persName ref="people.xml#spi01">
+     Spiridof</persName> avoit à faire à trois Vaisseaux de guerre et un Chebek turk. Il accrocha malgré cela le Capitaine Bacha qui portoit
+    90 Canons. Il y jeta tant de grenate et de matière combustible que le feu prit au Vaisseaux, ce
+    comuniqua au nôtre et ils sautèrent tout les deux en l'air, un moment après que l'Amiral
+     <persName ref="people.xml#spi01"> Spiridof</persName> et le Cte: <persName ref="people.xml#orl05"> Fedor
+     Orlof</persName> avec environ 90 persones en furent descendu. Le Cte: <persName ref="people.xml#orl03">
+     Alexis</persName> voyant dans le plus fort du combat les Vaisseaux Amiraux voler en l'air cru
+    son <persName ref="people.xml#orl05"> frère</persName> péri. Il sentit alors qu'il étoit home. Il
+    s'évanouit, mais reprenant un moment après ses esprits, il ordona de lever toutes les voiles et
+    ce jetta avec son Vaisseaux entre les Enemis. Au moment de la Victoire Un officier Lui aporta la
+    nouvelle que son frère et l'Amiral étoit en Vie. Il dit qu'il ne sauroit décrire ce qu'il sentit
+    dans cet instant le plus heureux de sa Vie, où ayant vaincu il retrouva son frère qu'il croyoit
+    mort. Le reste de la flote Turque ce jeta sans ordre ni règle dans le port de
+     <placeName ref="places.xml#che02"> Chesme</placeName>. Le lendemain fut employé à préparer des brûlots et à
+    Canoner l'enemi dans le port à quoi celui ci répondit. Mais dans la nuit les brûlots furent
+    lâchés et firent si bien leurs devoir qu'en moins de six heures de tems la flote Turque fut
+    consumé. La terre et l'onde trembloit dit-on de la grande quantité de Vaisseaux enemis qui
+    sautèrent en l'air, on l'a senti jusqu'à <placeName ref="places.xml#izm02"> Smirne</placeName> qui est à
+    douze lieues de <placeName ref="places.xml#che02"> Chesme</placeName>. Les nôtre tirèrent pendant cet
+    incendie du port un Vaisseaux Turk de 60 Canons qui se trouvoit sur le vent et par cette raison
+    n'avoit pas été consumé. Ils s'emparèrent aussi après l'incendie d'une batterie que les Turks
+    avoit abandoné. Le Vaisseaux turk nomé Rhodes fut doné au Capitaine russe qui avoit monté le
+    Vaisseaux Amiral, et voici coment il resta en vie. Lorsque son Vaisseaux fit le saut périlleux
+    il fut jeté en l'air puis il tomba dans l'eau, d'où nos chaloupes le tirèrent. Il n'a eu d'autre
+    mal que d'avoir été mouillé. Cela paroit fabuleux cependant cela est vrai. </p>
+   <p>La guerre est une vilaine chose Monsieur. Le Cte: <persName ref="people.xml#orl05"> Orlof</persName> me
+    dit que le jour après l'incendie de la flote enemie, il vit avec effroi que l'eau du port de
+     <persName ref="people.xml#che02"> Chesme</persName> qui n'est pas fort grand étoit teinte de sang tant
+    il y étoit périt de Turks.</p>
+   <p>Autre anecdote; de l'équipage des deux Vaisseaux sauté en l'air il y en eu qui étant tombé
+    dans l'eau, s'étoit acrochés aux débris qu'ils avoit trouvé, et dans cet état ce rencontrant
+    avec leurs enemis, ils tâchoit réciproquement encore à en venir aux mains ou à ce couler à fond.
+    Cette lettre Monsieur servira de réponse à la Vôtre du 28 d'Auguste, où Vos allarmes à notre
+    sujet començoit déjà à ce dissiper. J'espère qu'aprésent Vous n'en avés plus, mes affaires il me
+    semble vont assés bien.</p>
+   <p>Pour ce qui regarde la prise de <placeName ref="places.xml#ist01"> Constantinople</placeName> je ne la
+    croit pas si proche, cepandant dans ce monde dit-on il ne faut désespérer de rien. Je comence à
+    croire que cela dépend plus de <persName ref="people.xml#mus01"> Moustapha</persName> que de tout autre.
+    Ce Prince s'i est si bien pris jusqu'ici que s'il continue dans l'opiniâtreté que ses amis lui
+    inspire il exposera son Empire à de très grands dangers. Il a oublié son rôle, il est
+    l'Agresseur.</p>
+   <closer><signed>Adieu Monsieur, portés Vous bien, si des combats gagnée
+     peuvent Vous plaire Vous devés être bien content de Nous. Soyés assuré de l'estime et de la
+     considération que je Vous porte.
+  <persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+   <postscript><p>Le Prince <persName ref="people.xml#koz03"> Koslofski</persName> qui a été chés Vous est péri sur l'Eustache lorsqu'il a
+    sauté.</p></postscript>
+  </body>
+ </text>
+</TEI>

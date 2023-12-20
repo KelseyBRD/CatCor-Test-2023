@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02978</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02978</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#education"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:05:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02978">
+  <body>
+
+  <opener> <dateline> A <placeName ref="places.xml#mos01">Moscou</placeName>, ce <date when-custom="1775-11-29">29 novembre 1775</date>.</dateline></opener>
+   <p>Votre lettre de Genève, marquée No 25, monsieur le ministre plénipotentiaire, aussi utile à
+     <rs ref="people.xml#ern01"> son auguste maître</rs> que la plupart des miennes me le sont,
+    m’est parvenue hier et m’a trouvée au lit, malade d’une fièvre catarrhale de trente heures, que
+    m’a donnée la fête de la St George, qui est venue à la suite d’une législomanie de cinq mois
+    consécutifs, qui n’ont cependant encore pu épuiser la seule gourme de cette redoutable maladie,
+    mais aussi cette gourme, qui va incessamment être suivie de ce qui fait la suite d’une gourme, a
+    été reçue avec satisfaction et contentement général; or, satisfaction et Contentement ne
+    laissent pas que d’encourager de grands génies, comme <persName ref="people.xml#har01">
+     Harpe</persName>, <persName ref="people.xml#dor02"> Dorat</persName>, <persName
+     ref="people.xml#poi01"> Poinsinet</persName>, etc. etc., dont j’ignore les noms et n’ai point
+    lu ni lirai les ouvrages. Mais me voilà bien loin du commencement de votre sublime lettre,
+    moitié larmoyante et moitié hargneuse, mais qui, comme <rs ref="works.xml#lecidp01">
+     Chimène</rs>, marche avec une troisième moitié d’ordre composito, où il y entre de tout. Oh,
+    grand <persName ref="people.xml#sha04"> Chabaham</persName>, que nul employé de poste
+    n’entendait et qui vous entendiez vous-même parfaitement! j’ai recours à vous: voilà des phrases
+    que vous n’auriez pas désavouées: priez le Seigneur pour votre serviteur l’envoyé
+    plénipotentiaire et l’initié dans la politique à laquelle je n’entends goutte, afin qu’il
+    s’émerveille du ramas de mots qu’il trouvera accumulés dans chaque ligne: qu’il les prenne pour
+    des prophéties, ou pour un cantique, ou pour un reste de fièvre, ou pour un effet d’orage, ou
+    pour tout ce qu’il lui plaira d’imaginer et de voir à son tour, amen. La toile se lève, la
+    raison paraît. Je ne savais à quoi attribuer votre long silence; j’ai eu l’injustice d’en
+    accuser le boyau fêlé, puis les occupations ministérielles, ensuite un accès de colère, après
+    quoi j’ai donné tête baissée dans le voyage d’<placeName ref="places.xml#ita01">Italie</placeName>, et je me suis doutée que
+    cela finirait par un réquisitoire d’une douzaine de pages.</p>
+   <p>Les seize arrivés ont été les très-bien reçus, mais j’ai senti beaucoup de peine de l’amertume
+    que vous a donnée la maladie de votre <rs ref="people.xml#epi01"> amie</rs>. Mais ne
+    pourriez-vous parler du déploiement de votre créditif devers <persName ref="people.xml#lou01">
+     le roi de <placeName ref="places.xml#fra01">France</placeName></persName> sans dire des injures à mes bons sujets, ces pauvres
+    coquins de la <placeName ref="places.xml#whi01">Russie Blanche</placeName>: pourquoi les
+    nommer graines hérétiques? C’est une graine précieuse, bonne à conserver, et si peu hérétique
+    qu’ils viennent de gagner un procès contre leur <rs ref="people.xml#sie02"> évêque</rs>, qui les
+    chipotait. Vous avez raison de gronder: il n’est pas agréable d’être dérangé dans ses projets;
+    celui de votre arrivée à la suite du <persName ref="people.xml#hen02"> prince Henri</persName>
+    était très joliment et sensément arrangé, et votre voyage d’<placeName ref="places.xml#ita01">Italie</placeName> entrepris en
+    conséquence. Il y a sans doute de la gaucherie à moi de changer mon dessein et de m’en retourner
+    l’hiver au lieu du printemps, à <placeName ref="places.xml#pet01">Pétersbourg</placeName>,
+    mais permettez-moi de vous dire que toute la gaucherie ne doit pas tomber sur moi, mais un peu
+    aussi sur mon bon ami <persName ref="people.xml#hen02">le prince Henri</persName>, qui, au lieu de l’automne, a demandé la
+    saison que j’aimerais le mieux. Or, vous savez que chacun aime mieux à montrer sa marchandise
+    dans le moment où elle se montre le mieux: imaginez-vous quatre escadres revenues tout
+    fraichement de la Méditerranée, que je n’ai vues de six ans et dont on pariait chez vous que je
+    ne reverrais pas une planche. Je les verrai et les montrerai au <persName ref="people.xml#hen02"
+     > prince Henri</persName>, témoin oculaire digne de les voir, n’est-t-il pas vrai? Et la
+    grossesse de la <persName ref="people.xml#wil01"> grande-duchesse</persName>, et puis j’ai fini
+    céans, plus tôt que je ne le croyais, tout ce que j’y avais à faire. Puisque vous me demandez
+    comment remédier au dérangement que ces nouveaux arrangements ont porté à vos projets,—je n’en
+    vois pas d’autre que de voyager tranquillement par l’<placeName ref="places.xml#ita01">Italie</placeName> et de vous en revenir
+    tout doucement avec les comtes Roumiantsof en <placeName ref="places.xml#rus01">Russie</placeName>, si votre seigneur et maître
+    le permet, et si non, d’aller à <placeName ref="places.xml#par01"
+     >Paris</placeName> chanter: <title ref="works.xml#george01"><persName ref="people.xml#dan01">
+    George Dandin</persName></title>, tu l’as bien voulu. Mais comme votre seigneur, à ce que vous m’avez dit, est un
+    homme comme il faut, il faudra s’attendre à décision conforme, je pense, à des arrangements pris
+    antérieurement à votre entrée de jeu. Galimatias, direz-vous. — Peut-être, répondrai-je;
+    toujours est-il sûr que vous serez le très bienvenu par l’élève mi-partie de mademoiselle
+     <persName ref="people.xml#car01"> Cardel</persName> et mi-partie de monsieur <persName ref="people.xml#wag01">
+    Wagner</persName>.</p>
+   <p>Jamais je n’ai prétendu vous humilier: je suis persuadée que vous n’ignorez pas que les plus
+    grands des philosophes se promènent dans les marchés. Votre visite à <rs ref="people.xml#vol01">
+     Ferney</rs> et l’état du patriarche me fait de la peine: j’espère que cela n’aura pas de suite.
+    Tenez, je ne cesserai d’attaquer votre orthodoxie et feu monsieur Esterlin, votre confesseur,
+    qui n’était qu’un idiot parce qu’il vous prenait pour un homme médiocre, aussi longtemps que
+    vous ne cesserez d’attaquer mes chers jésuites: qu’est-ce que ces gueux vous ont fait, et
+    pourquoi les aller dénoncer à papa <persName ref="people.xml#pop03"> Braschi</persName>, qui
+    vous les dira hérétiques malgré lui? Est-ce joli d’aller venir de delà les monts pour faire
+    violence aux gens? Voilà, ma foi, la malice d’un démon et la conduite d’un damné. Aussi
+    l’êtes-vous par M. <persName ref="people.xml#pop03"> Braschi</persName>, et si vous voulez, vous
+    le serez encore par le <persName ref="people.xml#ser01"> patriarche de <placeName ref="places.xml#ist01">
+     Constantinople</placeName></persName>, que j’ai l’honneur de posséder ici. J’ai reçu le <title ref="works.xml#plandu01"> traité de M. <persName ref="people.xml#did01">Diderot</persName></title> sur les écoles, et
+    je vous en remercie bien sincèrement tous les deux. Dès que la gourme de la législomanie sera
+    jetée, je m’occuperai de cet ouvrage-là: Dieu veuille conserver jusque là M. <persName
+     ref="people.xml#ern02"> Ernesti</persName>.</p>
+   <p>J’ai eu l’honneur de vous remercier de vos pruneaux. Votre <persName ref="people.xml#lec01">
+     marquis de Juigné</persName> paraît être un homme de probité et d’honneur, et je le crois
+    incapable de mentir; reste à savoir s’il aura la vertu et la force nécessaires pour détruire
+    mensonge et illusion et pour démêler le faux d’avec le vrai. II est vrai qu’il sert sous le
+    ministère le plus estimable qui fût jamais, et auquel, pour faire sa cour, je pense, on n’a pas
+    besoin d’avoir recours à de la bile et de la méchanceté pour soutenir leurs principes ou leurs
+    vues.</p>
+   <p>J’attends si patiemment cette écritoire merveilleuse que la plupart du temps je n’y pense pas.
+    Suivez mes conseils: au lieu de ces insomnies qu’elle vous donne, dormez tranquillement et
+    laissez-la aller son train; vous pouvez être persuadé que votre ami M. <persName
+     ref="people.xml#tho01"> Anderson</persName>, dès qu’il la verra, ne manquera pas de lui donner
+    son approbation par un aboiement qui lui est naturel pour tout ce qui l’étonne ou le frappe. Il
+    a pris les devants avec toute sa famille à cause de la grossesse de Mme Mimi; je les crois
+    rendus à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>. Vous me demandez d’où j’ai
+    pris le talent d’esquisser des tableaux, et vous souhaitez d’aller à la même école; je vous
+    l’enseignerai, cette école: lisez les descriptions des tableaux qu’on vend chez les brocanteurs;
+    à force de lire les catalogues des tableaux que j’ai achetés, j’ai appris à faire la description
+    de ce que je vois.</p>
+   <p>Après cette naïveté, allez vous épanouir de joie sur mes délicieuses descriptions. Je vous
+    rends la pareille: j’use mes plumes comme vous les vôtres en griffonnant tant de pages’, il est
+    vrai que j’ai horriblement griffonné depuis que je suis ici. Mes derniers règlements du 7 nov.
+    contiennent 250 pages inquarto imprimées, mais aussi je vous jure que c’est ce que j’ai jamais
+    fait de mieux et que vis-à-vis de cela je ne regarde l’<title ref="works.xml#nakazk01">
+     instruction pour les lois</title> dans ce moment-ci que comme un bavardage. Haha! Voilà qui va
+    vous rendre curieux. Savez-vous bien que les chicaneurs de profession disent que c’est le
+    tombeau de la chicane; mais aussi de quoi vous avisez-vous de me parler de votre maudite
+    provision de plumes? Si vous ne m’en aviez pas parlé, je vous aurais épargné cette tirade
+    descriptive, qui vous fera suer de curiosité non satisfaite. J’adresserai selon vos ordres à M.
+     <persName ref="people.xml#eck01"> Eck</persName> cette lettre, et je vivrai dans l’espérance de
+    recevoir de vos pancartes pendant votre bien heureux séjour en <placeName ref="places.xml#ita01">Italie</placeName>. Vous avez
+    deviné juste: Narbas Voltaire ou <persName ref="people.xml#vol01">Voltaire</persName> Narbas m’a fait rire; je vous ai
+    beaucoup d’obligations de vous en être privé pour me l’envoyer. <persName ref="people.xml#hub01"
+     > Huber</persName> fera ce qu’il voudra; ce que je tiens de son ouvrage, est enfermé sous –
+    à <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, et m’y attend: je partirai d’ici à la mi-décembre. Grand et très
+    grand merci, merci de toutes les belles protestations et répétitions de protestations que vous
+    me faites à la fin de vos lettres patentes. Si M. le grand chambellan vous a payé pour 1774, moi
+    je l’ai fait pour 1775, et ainsi tout est dit; <seg xml:lang="de">aber,
+     mein Herr, ist das möglich durch eine so lange deutsche Brosa vier italienische Wörter zu
+     übersetzen ?</seg> On aurait chassé de Lacédémone tout traducteur pareil. </p>
+   <closer><signed rend="inline">Auriez-vous imaginé avec quoi cette lettre finirait? <seg xml:lang="it">Mais basta per lei</seg>. Portez-vous bien, ma fièvre est
+    passée.</signed></closer>
+  </body>
+ </text>
+</TEI>

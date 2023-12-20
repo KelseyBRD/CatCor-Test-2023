@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00813</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00813</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-05">05 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00813">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute></opener>
+                    <p>С великим нетерпением ожидаю известия о твоем здоровий и о том, что у вас
+                        делается. И естьли посреди хлопот тебя смею чем трудить, то прошу тебя
+                        прислать сюда архитектора <persName ref="people.xml#nee01"
+                            >Неелова</persName> с планами <placeName ref="places.xml#bak01"
+                            >Бахчисарайскими</placeName> ханского дома. Я, чаю, что Вам в нем теперь
+                        нужда мала, а мне он надобен.</p>
+                    <closer><signed rend="inline">Прощай, мой друг, я молю Бога, чтоб тебе дал здоровье да
+                        силы телесные и душевные и успехов тьму на море и на суше. 
+                        </signed>
+                        <dateline rend="below"><date when-custom="1787-09-09">Сен[тября] 9 ч.
+                                1787</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

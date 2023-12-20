@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02979</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02979</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#education"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-28">28/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:21:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02979">
+  <body>
+ 
+   <opener><dateline>A 
+    <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date when-custom="1776-01-20">20 janvier 1776</date>.</dateline></opener>
+   <p>Votre No 24, après s’être arrêté, depuis le 27 septembre jusqu’au 17 janvier, Dieu sait chez
+    quel commis de poste, ou bien sur le bureau de quelque grave ministre d’un petit ou grand état,
+    qui, n’en doutez pas, était tout bouffi d’orgueil de la fine politique qu’il trouvait à ouvrir
+    et à retenir des lettres qui ne lui étaient pas adressées, est enfin arrivé, et je vous jure que
+    les commis des postes et le ministre ne comprenaient pas la moitié de votre beau narré, et voilà
+    peut-être pourquoi cette lettre est restée si longtemps en chemin: ils se seront tués à vouloir
+    la comprendre. Mais j’oublie que c’est devant une colonne flûtée de la politique que j’ose
+    produire des propos de lèse-bouffiture politique. Pardon, je n’en parlerai plus.</p>
+   <p>Vous me parlez dans ce bienheureux No 24 de la fête de <rs ref="events.xml#kuchu01">la
+     paix</rs>. Il y a longtemps que tout cela est oublié, et je suis à 728 verstes
+    et plus encore de <placeName ref="places.xml#tsa04">Tsaritsino-Sélo</placeName>, qui veut dire
+     <seg xml:lang="de">Czarin kirchdorf</seg>, tout <seg xml:lang="de">kirchdorf</seg> ou bien <seg xml:lang="de"
+     >Dorf mit einer Kirche wird genandt bei uns in Rußland Selo</seg>, et <placeName ref="places.xml#tsa01">
+    Tsarsko-Sélo</placeName> veut dire <seg xml:lang="de">das Czarische Kirchdorf</seg>.
+    Vous voilà bien savant, n’est-ce pas.</p>
+   <p>Je suis fâchée des inquiétudes que vous a données ma défunte maladie du mois de juillet: tout
+    cela est passé depuis six mois, et j’ai couru depuis comme un basque dans toutes ou du moins
+    dans une grande partie des petites villes qui entourent <placeName ref="places.xml#mos01">Moscou</placeName>, comme <placeName
+     ref="places.xml#vol02"> Volokolamsk</placeName>, <placeName ref="places.xml#zwe01">
+     Zwénigorodok</placeName>, <placeName ref="places.xml#kol02"> Kolomna</placeName>, <placeName
+     ref="places.xml#ser01"> Serpoukhof</placeName>, <placeName ref="places.xml#tul01">
+     Toula</placeName>, <placeName ref="places.xml#kal01"> Kalouga</placeName>. Allons, exercez-vous
+    la langue à prononcer tout cela, et après cela soyez persuadé que vous aurez la langue
+    parfaitement flexible à bien prononcer toutes les langues du monde.</p>
+   <p>Je suis bien aise qu’on ait trouvé chez vous charmant que chaque don que j’ai fait au <rs
+     ref="people.xml#rum01"> maréchal</rs> ait eu un motif distinctement articulé: je vous avoue que
+    cette idée m’a fait plaisir à moi-même dans son temps, car je suis de ces gens qui aiment le
+    pourquoi des choses. Le pourquoi des dons pourrait faire une histoire assez intéressante, qui
+    vaudrait bien peut-être celle de la <rs ref="works.xml#tation01"> comtesse Tation</rs>, mais
+    dont peut-être encore l’on ferait moins d’éditions.</p>
+   <p>Je passe sur toutes les injures que vous me dites ou m’avez dites au sujet de ma maladie,
+    parce que tout cela est enseveli dans la nuit des temps. Vous avez beau dire, j’ai de fort
+    grandes attention pour ma santé et très grand soin de moi; mais par-ci par-là quelques marches
+    forcées me dérangent, comme par exemple une vingtaine de pêches mangées par distraction pendant
+    une après-midi où la chaleur et les nouveaux règlements m’avaient échauffé la cervelle, et voilà
+    à peu près ce qui m’avait rendue malade. Il est vrai qu’avant cela je me sentais des insomnies
+    et des angoisses, dès que je m’endormais. J’ai négligé cela, car je n’aime point les remèdes par
+    précaution pour, les maux à venir. Pour Mrs Kelchen et <persName ref="people.xml#rog01">
+     Rogerson</persName>, ils ignoraient de quoi il était question, et par conséquent ils étaient
+    tranquilles. Je n’avais pas d’idée du seigneur <persName ref="people.xml#tal01"> Angelo Talassi
+     de Ferrare</persName>. Pour la célèbre <persName ref="people.xml#oli01"> Corilla</persName>,
+    l’amie intime du comte <persName ref="people.xml#orl03"> Al. Orlof</persName>, j’en ai beaucoup
+    entendu parler: on dit que c’est une conformation poétique extraordinaire. Je vous ai beaucoup
+    d’obligations de ce que vous faites des révérences pour les politesses qu’on me dit. Je crois
+    que vous n’en avez pas fait au S<hi rend="superscript">r</hi> de <persName
+     ref="people.xml#har02"> Laharpe</persName> pour avoir déplacé mes idées et de les avoir
+    fourrées dans la bouche de <title ref="works.xml#menzik01"> Menchikof</title>, qui, tout
+    favori de <persName ref="people.xml#pet02">Pierre</persName> I qu’il était, ne savait ni lire ni écrire, ni a’ avait d’idée
+    nette des choses. Ce <persName ref="people.xml#har02"> M. de Laharpe</persName> a fait avec <title ref="works.xml#menzik01"> Menchikof</title> comme les chasseurs de baleine : il lui a
+    jeté autant de crampon» empruntés qu’il a pu, et puis il l’a tiré du fond des eaux; reste à
+    savoir si son drame a autant de sel et de sens commun que la baleine a de graisse et de côtes;
+    si non, je le plains. Ce qu’il y a de très vrai, c’est que selon l’idée qu’on a chez nous de son
+    héros, les belles idées n’y quadrent point et qu’en le laissant dans son naturel, il aurait été
+    excellent à être poignardé à la fin d’une tragédie. Je conclus donc qu’il y a de la maladresse à
+    tout cela, mais vous avez aussi commis une faute terrible: vous croyez M. Laurent luthérien, et
+    c’était un maître d’école calviniste, qui ne pouvait point lire les <title xml:lang="de"
+     ref="works.xml#tischr01" > Tischreden</title> de <persName ref="people.xml#lut01"> Luther</persName>,
+    parce qu’il ignorait la langue allemande et qu’il méprisait <persName ref="people.xml#lut01">
+     Luther</persName>: ses <title xml:lang="de" ref="works.xml#tischr01">Tischreden</title>
+    faisaient les délices d’ <rs ref="people.xml#mar08"> une vieille grand tante</rs> de
+    ma <rs ref="people.xml#anh02"> mère</rs>; elle les citait à tout propos, et l’esprit
+    gauche prenait tout cela tout autrement qu’on ne lui prônait la chose, et voilà ce qui arrivait
+    et à Mlle <persName ref="people.xml#car01"> Cardel</persName> et à M. <persName ref="people.xml#wag01">Wagner</persName> tous
+    les jours de l’année, car on ne sait pas toujours ce que les marmots pensent, et les marmots
+    sont difficiles à connaître, surtout quand la belle éducation les a rendus dociles à écouter, et
+    qu’ils sont devenus prudents par expérience dans leur parler vis-à-vis de leurs maîtres. De
+    cela, s’il vous plaît, vous tirerez la belle maxime qu’il ne faut pas trop gronder les marmots,
+    mais les mettre à leur aise, afin qu’ils ne vous cachent point leurs gaucheries; il est vrai que
+    pour les maîtres d’école, il est beaucoup plus commode d'étaler leur esprit de domination pour
+    régir la chambrée.</p>
+   <p>J'ai reçu le gros livre de <persName ref="people.xml#did01">Denis Diderot</persName>, et
+    je le lirai lorsque l’article des universités sera mis sur le tapis : au présent nous
+    travaillons au 30eme chapitre des reglements dont 25 sont imprimés. Selon moi ces reglements
+    sont meilleurs que l'instruction pour le code: on les introduit dans ce moment dans les
+    gouvernements de <placeName ref="places.xml#tve01"> Tver</placeName> et de <placeName ref="places.xml#smo01">Smolensk</placeName>: ils y sont reçus à bras ouverts.
+    L'automne qui vient ne se passera pas sans que beaucoup d'autres gouvernements n'en
+    jouissent.</p>
+   <p>Je vous ai promis de vous conter l’impression que la premiere vue des <title ref="works.xml#voltai01">tableaux de <persName ref="people.xml#hub01">Huber</persName></title> ferait sur moi. mais
+    je ne saurais accomplir ma promesse vu les circonstances. A mon arrivée a <placeName
+     ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> j'ai trouvé ces tableaux dans un endroit assez
+    sombre et excessivement froid. de façon que je n'ai été frappée et que je t'ai éclaté de rire
+    qu'au lever de patriarche: celui-là est original selon moi : la vivacité de sot caractère et
+    l'impatience de son imagination ne lui donnent pas le temps de faire une chose a la fois. Le
+    cheval qui rue et <persName ref="people.xml#vol01"> Voltaire</persName> qui le corrige est très
+    bon encore : la distraction du cabriole: m’a pin mais qui faut-il que je fasse pour le grand
+     <persName ref="people.xml#hub01"> Huber</persName> pour m’avoir cédé ses <title ref="works.xml#voltai01"> tableaux</title>. Dites-moi cela nettement articule. L'idée de
+    l’adoration des mages est très plaisante. J'entends dire et on m'écrit d’ <placeName ref="places.xml#ger01">Allemagne</placeName> que le <rs ref="people.xml#lud02"> jeune homme</rs> a la contenance humble se permet
+    des propos fort impertinents, et qu’il n'épargne pas meme sa propre soeur: voilà un bien mauvais
+    sujet; et une misérable pecore, qui fait l'entendue: j'aurais envie de lui défendre de
+    revenir.</p>
+   <closer><signed rend="inline">Adieu. monsieur le ministre plénipotentiaire. Je vous donne le bonjour
+    et prie le ciel qu'il vous ait dans sa sainte et digne garde.</signed></closer>
+  </body>
+ </text>
+</TEI>

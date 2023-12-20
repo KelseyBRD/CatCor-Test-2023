@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09136</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09136</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>Did not find the text of "Letopisets" available online so did not create an entity</p> 
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-07">2023-07-07</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09136"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1791-12-09">1791 г. декабря 9.</date>
+                </dateline>
+            </opener>
+            <p>Написать от меня письмо к <rs ref="people.xml#ier01">преосвященному <placeName ref="places.xml#che03">Черниговскому</placeName></rs> с просьбою, дабы приказал для меня сию книгу
+                <note type="editorial">
+                    Catherine writes about <title>"Letopisets"</title> (1699) by <persName ref="people.xml#bob02">Leontii Bobolinskii</persName> (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        , <biblScope unit="pp">pp. 58.</biblScope>
+                    </bibl>
+                    ). It was <persName ref="people.xml#ier01">Bishop of <placeName ref="places.xml#che03">Chernihiv</placeName> Ierofei</persName> who informed Catherine of the existence of this chronicles, covering events from 862 to 1679, which was kept in the library of the Chernihiv seminary (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 449-450.</biblScope>
+                    </bibl>
+                    ).                
+                </note>
+                списать от слова до слова, и чтоб дал мне знать, по сему списанию что разсудит заплатить писцам и за бумагу и прочия издержки, и просить, чтоб по тетрадям, по мере как спишут, ко мне прислал.
+                <note type="editorial">
+                    By <date when-custom="1792-06-11">June 11 1792</date> Ierofei informed the <orgName ref="orgs.xml#holy01">Holy Synod</orgName> that the copied <title>"Letopisets"</title> has been sent to Catherine (
+                    <bibl>
+                    <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                    , <biblScope unit="pp">pp. 449-450.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

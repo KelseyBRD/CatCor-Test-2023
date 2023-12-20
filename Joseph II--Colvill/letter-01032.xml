@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01032</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01032</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-03">03-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:13:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01032">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-01-12"
+      >12 janvier 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Lorsqu’à l’occasion du départ de <rs
+     ref="people.xml#pau01 people.xml#mar02">mes enfants</rs> de <placeName
+     ref="places.xml#vie01">Vienne</placeName> je m’occupais de l’idée de renouveler à V. M. I.
+    l’expression de ma très-vive reconnaissance pour toutes les grâces et bontés qu’il a plu à V. M.
+    I. d’accumuler sur eux pendant leur séjour à Sa Cour, je viens de recevoir la lettre dont Elle a
+    bien voulu m’honorer en date du 3 de janvier. Cette lettre et sa venue me confirme dans
+    l’opinion que j’ai conçue depuis que j’ai eu le bonheur de faire la connaissance de V. M. I.,
+    qu’il faudrait se lever de grand matin pour pouvoir La devancer. L’expérience m’apprend de plus
+    en plus qu’en toute chose heureux celui qui pourra La suivre, et que de La devancer bonnement,
+    il faut n’y pas penser.</p>
+   <p><rs ref="people.xml#pau01 people.xml#mar02">Mes enfants</rs> me disent que le temps qu’ils ont
+    passé près de V. M. I., est le temps le plus heureux de leur vie. Je n’ai aucune peine à les en
+    croire, V. M. I. me faisant l’honneur de me dire qu’Elle leur a accordé le plus de moments
+    qu’Elle pouvait. Cela s’appelle un peu gâter son monde. Mais comment exprimer tous les
+    remercîments que je dois à V. M. I. Je voudrais avoir en ce moment la parole à ma disposition,
+    le don et les talents du <rs ref="people.xml#jos01"> comte de Falkenstein</rs>, pour exprimer
+    dignement ce que je sens.</p>
+   <p>La conduite des Anglais, le blocus de <placeName ref="places.xml#gib01"> Gibraltar</placeName>
+    qui n’est point bloqué, le siège de <placeName ref="places.xml#men01"> Mahon</placeName> qui
+    n’est point assiégé, le retour des guerriers français sur les vaisseaux de guerre du <persName
+     ref="people.xml#lou01"> Roi</persName> de <placeName ref="places.xml#fra01"
+      >France</placeName> pour passer le carnaval à <placeName ref="places.xml#par01">Paris</placeName> et pour se faire applaudir à
+    l’Opéra en vers et en prose, tout cela sert à l’histoire des faits et des moeurs du dix-huitième
+    siècle de ces pays-la, mais lorque les faits d’histoire de telle force émeuvent la bile à
+    quelqu’un, ce ne peut être que celle des fîmes fortes qui souffrent de voir agir sans l’énergie
+    qui leur est propre; c’est celle-là aussi seule qui fait les grandes choses.</p>
+   <p>La résolution de <persName ref="people.xml#pop03"> Pie VI</persName>. de venir à <placeName
+     ref="places.xml#vie01">Vienne</placeName> pour traiter de bouche avec <persName
+     ref="people.xml#jos01"> V. M. I.</persName> eu vérité lui fait honneur, quoiqu’il n’y gagnera
+    rien. Je souhaite qu’il Lui apporte les clefs de <placeName ref="places.xml#rom03"
+     >Rome</placeName> et qu’il Lui propose de chasser les ennemis du nom chrétien de l’<placeName
+     ref="places.xml#eur01">Europe</placeName>; en ce cas je La prie instamment de compter sur Son
+    alliée, qui ne cessera jamais d’être avec l’attachement le plus inviolable</p>
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur et fidèle et
+    sincère amie et alliée
+   <persName ref="people.xml#cat01"> Catherine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

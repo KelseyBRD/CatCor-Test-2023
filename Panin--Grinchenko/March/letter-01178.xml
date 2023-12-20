@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01178</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01178</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-24"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01178">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Письмо <persName ref="people.xml#pau01">Великаго Князя</persName> очень меня
+                обрадовало; <seg xml:lang="fr"> voilà une lettre éloquente, male, d'un stile noble
+                    et remplie des sentiments, que je souhaite, qu'il ait de toute façon; Je n'ose
+                    assez me persuader, qu'il l'ait écrite tout seul, c’est presque trop pour son
+                    âge, mais vous me le dites, je dois le croire et je vous en félicite de tout mon
+                    coeur. Voici ma réponse, que je vous envoyé, revenez au plutôt,</seg> скучно
+                без вас и пусто. <seg xml:lang="fr">Vous avez gâté ma belle chambre, mais je vous
+                    en punirai; je prendrai de votre collège mon portrait et remplirai le vide du
+                    mur, que vous m'avez gâté.</seg></p>
+            <closer rend="inline"><signed><seg xml:lang="fr">Adieu, portez vous bien et revenez au
+                    plutôt.</seg><lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+            <dateline><date when-custom="1768-01-28">Ce 2 Février 1769.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

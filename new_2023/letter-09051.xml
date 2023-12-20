@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09051</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09051</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-09051"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-04-30">1788 г. 30 апреля.</date>
+                    <!--I'm not sure whether I should put Saint-Petersburg or Tsarskoe Selo as Catherine's location. She in fact moved to Tsarskoe Selo on that day, but the note could have been written while she was still in Saint-Petersburg-->
+                </dateline>
+                <salute>Александр Васильевич,</salute>
+            </opener>
+            <p>вы найдете в двух ящиках моего стола, на креслах и около меня все те запечатанные пакеты, письма и книги, кои вы ко мне привезти имеете в <placeName ref="places.xml#tsa01">Царское Село</placeName>.
+                <note type="editorial">
+                    A.V. Khrapovitskii notes in his diary under <date when-custom="1788-04-30">the same day</date> that Catherine moved to <placeName ref="places.xml#tsa01">Tsarskoe selo</placeName> and ordered him to put in order and transport there her papers (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 45.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

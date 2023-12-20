@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00005</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00005</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#france"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                    <term target="kw.xml#legislation"/>
+                    <term target="kw.xml#moscow"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                    <term target="kw.xml#artcollecting"/>
+                    <term target="kw.xml#painting"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-17">17 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-03-27">27 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00005">
+                <body>
+                    <opener><dateline rend="left"><date when-custom="1774-12-21">Réponse au № 9, ce
+                                21 décembre 1774.</date></dateline></opener>
+                    
+                    <p>A quelques jours d'ici la farce du <persName ref="people.xml#pug01">marquis
+                            Pougatchef</persName> sera finie; son procès en est à la sentence, pour
+                        laquelle il y eut des formalités à observer; son procès a duré trois mois,
+                        et on y travaillait depuis le matin jusqu'au soir. Vous pourrez, en recevant
+                        cette feuille, compter pour sûr que vous n'entendrez plus parler de ce
+                        monsieur-là.</p>
+                    <p>L'on dirait que la bonne amitié et harmonie qui règne entre mon bien-aimé
+                        frère <persName ref="people.xml#abd01">Abdul</persName> et moi, vous fait
+                        maigrir; tenez, voilà ce que vous méritez qu'on vous dise pour la belle
+                        épithète que vous me donnez de trouble-ménage. Mais sachez, monsieur, une
+                        bonne fois que de ma vie je n'en ai troublé: il y a eu toujours beaucoup
+                        plus de gens qui ont voulu se mêler du mien que moi du leur. Quelquefois on
+                        a prétendu que je raccommodasse celui d'autrui, et alors j'ai fait, comme
+                        d'usage en pareil cas, tout ce que j'ai pu selon l'occasion pour espérer le
+                        bien, mais en honneur, il est difficile de raccommoder. Notre Sauveur même
+                        l'a dit, il y a 1750 ans ou environ. Je cite ce passage avec bien plus de
+                        raison que d'autres, dont j'épargne le nom à la lecture des commis de la
+                        poste, que d'autres, dis-je, qui attestent le ciel, qu'ils osent supposer
+                        vide ou peu s'en faut. Mais laissons là des matières aussi subtiles, et
+                        parlons d'autre chose.</p>
+                    <p>Vous concilierez les deux versions différentes sur le voyage du <persName
+                            ref="people.xml#hen02">prince Henri</persName>, lorsque vous saurez
+                        qu'il a voulu venir fêter la paix ici, selon son ancienne promesse, que le
+                        voyage de <placeName ref="places.xml#mos01">Moscou</placeName> est venu à la
+                        traverse, qu'il a prétendu y aller, mais comme cette ville a souffert l'été
+                        de l'année passée un grand incendie et qu'il aurait été difficile de le
+                        loger agréablement proche de la cour et plus difficile encore de lui
+                        procurer l'aisance et les agréments qu'il avait ici, et surtout n'y ayant à
+                        l'entour de <placeName ref="places.xml#mos01">Moscou</placeName> aucune
+                        maison de plaisance habitable pour l'été, ces représentations ayant été
+                        faites au prince, il a consenti à remettre son voyage jusqu'au retour de la
+                        cour de <placeName ref="places.xml#mos01">Moscou</placeName>, occasion, de
+                        laquelle je vous conseille de profiter, si tant il y a que vous conserviez
+                        l'intention de revenir. N'allez pas encore jeter les hauts cris de cette
+                        expression, comme du souvenir des courbettes.</p>
+                    <p>Pourquoi votre jeune monarque, avec toutes les vertus qui font sa devise,
+                        craindrait-il les dogues? son rôle est d'aller son chemin et de les laisser
+                        aboyer sur son passage. Pour moi, je me passe des trois autres <hi
+                            rend="italic">istes</hi>, mais je vous avoue que je ne puis être un seul
+                        jour sans <title ref="works.xml#encycl01">l'Encyclopédie</title>: malgré
+                        tous ses défauts, c'est une pièce nécessaire et excellente. <persName
+                            ref="people.xml#car01">Mademoiselle Cardel</persName> et <persName
+                            ref="people.xml#wag01">monsieur Wagner</persName> avaient affaire à un
+                        esprit gauche, qui employait tout de travers ce qu'on lui disait, <persName
+                            ref="people.xml#wag01">M. Wagner</persName> voulait des Prüfungen d'une
+                        autre espèce, et l'esprit gauche disait en soi-même: pour être quelque chose
+                        dans ce monde, il faut avoir les qualités requises pour ce quelque chose;
+                        voyons sérieusement dans notre petit intérieur, les avons nous? si non,
+                        formons-les; y a-t-il du <hi rend="italic">rien</hi> ou <hi rend="italic"
+                            >luthérien</hi> à cela? ma foi, non. <persName ref="people.xml#lut01"
+                            >Martin Luther</persName> était un rustre qui n'apprit jamais cela. —
+                        J'ai eu de <placeName ref="places.xml#ber01">Berlin</placeName>
+                        communication de ce que vous avez écrit au sujet du jeune homme; il a
+                        pourtant deux bonnes choses: il n'est pas méchant et il n'est pas fier; il
+                        veut rester à <placeName ref="places.xml#mos01">Moscou</placeName>; je ne
+                        l'en dissuaderai pas. Sa soeur est presque toujours malade, mais aussi
+                        comment ne pas l'être? tout est à l'excès chez cette dame-là: si l'on se
+                        promène à pied, c'est vingt verstes; si l'on danse, c'est vingt
+                        contredanses, autant de menuets, sans compter les allemandes; pour éviter le
+                        chaud dans les appartements, l'on ne fait point de feu; si les autres se
+                        frottent le visage de glace, d'abord tout le corps devient visage: enfin le
+                        milieu est fort loin de chez nous. Crainte des méchants, on se défie de la
+                        terre entière et l'on n'écoute ni bon, ni mauvais conseil; en un mot, il n'y
+                        a jusqu'ici ni aménité, ni prudence, ni sagesse à tout cela, et Dieu sait ce
+                        que cela deviendra, puisqu'on n'écoute personne et qu'on a tète décidée à
+                        soi. Imaginez-vous que depuis un an et demi et plus on ne parle pas un mot
+                        encore de la langue; nous voulons qu'on nous apprenne, mais nous ne donnons
+                        pas un moment d'application par journée à la chose; tout est toupillage;
+                        nous ne pouvons pas souffrir ceci ou cela; nous sommes endettés au delà deux
+                        fois de ce que nous avons, et nous avons cependant ce que guère quelqu'un en
+                            <placeName ref="places.xml#eur01">Europe</placeName> a. Mais motus, il
+                        ne faut jamais désespérer des jeunes gens; il ne faut pas grogner non plus
+                        trop longtemps, il ne faut point chagriner les <hi rend="italic">istes</hi>
+                        ou non <hi rend="italic">istes</hi>, ni les <hi rend="italic">rien</hi> ni
+                        les boyaux fêlés!</p>
+                    <p>Vous vous souvenez bien exactement des choses. Cette récapitulation de
+                        l'arrivée du <persName ref="people.xml#dol01">pr. Dolgorouki</persName> le
+                        jour de ma fête est une chose qui fait honneur à votre mémoire. Je vous en
+                        félicite et vous remercie de tout ce que vous me dites d'obligeant, et
+                        nommément de l'armistice accordé pour deux lignes qui vous ont déplu
+                        malheureusement. Apprenez une nouveauté: il y a une maladie nouvelle, qui
+                        s'appelle la législomanie, dont on dit que <persName ref="people.xml#cat01"
+                            >l'Impératrice de Russie</persName> est fortement attaquée pour la
+                        seconde fois: la première elle ne fit que des principes; cette fois-ci,
+                        c'est tout de bon la besogne. Oh, la pauvre femme! elle en mourra, ou elle
+                        achèvera; voilà, n'est-il pas vrai, une maîtresse volonté, contre laquelle
+                        aucun obstacle ne tient? Vous me direz qu'un ministre à réputation comme le
+                            <persName ref="people.xml#fel01">marquis Felino</persName> ne saurait
+                        être un fripon et que par conséquent je puis acheter ses tableaux sans
+                        examen; mais comme j'en ai vu qui avec réputation ne laissaient pas de
+                        l'être, j'aimerais bien que vous fissiez examiner des tableaux par quelqu'un
+                        qui s'y entendît, sans cependant faire confidence de mes sentences à
+                        personne et encore moins à <persName ref="people.xml#fel01">M. de
+                            Felino</persName>, qui m'offre ses tableaux très poliment; j'aimerais
+                        bien aussi d'en avoir le catalogue. Le recueil de pièces de théâtre de
+                            <persName ref="people.xml#dup01">M. Dupont de Veil</persName> ne m'est
+                        point parvenu encore. Pour ce qui regarde l'auteur de <title
+                            ref="works.xml#histoi01">l'Histoire philosophique du commerce des
+                            Indes</title>, je chargerai le <persName ref="people.xml#mun01">comte
+                            Munich</persName> de relire l'article de <placeName
+                            ref="places.xml#rus01">Russie</placeName> et de mettre par écrit ses
+                        remarques. </p>
+                    <closer><signed xml:lang="de">Guten Abend, Herr
+                            Freiherr.</signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener rend="left"><dateline><date when-custom="1774-12-21">Response to No. 9,
+                                this 21 December 1774.</date></dateline></opener>
+                    
+                    <p>A few days from now, the farce of the marquis Pugachev will be over. His
+                        trial has reached sentencing, for which there were some formalities to be
+                        observed. His trial lasted three months, and they were working at it from
+                        morning til evening. You can, when you receive this page, be certain that
+                        you will not hear that man spoken of again.</p>
+                    <p>One might say that the good friendship and harmony that reigns between my
+                        beloved brother Abdul and myself is making you waste away. There: that is
+                        what you deserve to be told for the lovely epithet of trouble-house. You may
+                        know, sir, once and for all that I have never troubled a house in my life:
+                        there have always been far more people who wanted to meddle in mine than I
+                        in theirs. Sometimes people have called on me to patch things up in someone
+                        else’s house, and then I have, as is customary in such cases, all that I
+                        could to hope for the best in the circumstances. But, on my honour, it is
+                        difficult to patch things up. Our Saviour himself said so, 1750 years ago or
+                        thereabouts. I can quote this passage with far better cause than others can,
+                        whose name I shall spare the postal clerks from having to read. Than others,
+                        I say, who take heaven as their witness, but suppose it empty or quite
+                        nearly so. But let us lay aside such subtle matters and speak of something
+                        else.</p>
+                    <p>You will be able to reconcile the two different stories regarding Prince
+                        Henry’s journey when you know that he wanted to come celebrate the peace
+                        here, in accordance with his former promise, when the trip to Moscow
+                        intervened. He claimed he would come here, but this city suffered a great
+                        city last summer and it would have been difficult to house him agreeably
+                        near the court and even more difficult to provide him with the ease and
+                        entertainments that he had here, and especially because there was no
+                        habitable country house near Moscow for the summer. As these considerations
+                        were presented to the prince, he agreed to delay his journey until the court
+                        returned from Moscow, an opportunity of which I advise you to take
+                        advantage, if you still intend to come back. Do not go shrieking at this
+                        expression as you did at the recollection of the bowing and scraping.</p>
+                    <p>Why should your young monarch, with all the virtues that compose his motto,
+                        fear the bulldogs? His role is to go his way and let them bark as he passes.
+                        For myself, I can do without the other three ists, but I will admit to you
+                        that I cannot be a single day without the Encyclopédie: despite all its
+                        faults, it is a necessary and excellent piece. Miss Cardel and Mister Wagner
+                        were dealing with a bumbling mind who used everything that was said to her
+                        the wrong way round. Mr. Wagner wanted tests of another kind, and the
+                        bumbling mind said to herself: to be something in this world, one must have
+                        the qualities required for that something. Let us look seriously into our
+                        little heart, do we have them? If not, let us train them up. Is there
+                        anything pedestrian or Lutheran about that? In faith, no. Martin Luther was
+                        a boor who never learned that.—I was sent from Berlin that which you wrote
+                        about the young man. There are nonetheless two good things about him: he is
+                        not mean, and he is not proud. He wants to remain in Moscow: I will not
+                        dissuade him from doing so. His sister is almost always ill, but how can she
+                        not be? Everything is excessive about that lady: if we go for a walk, it is
+                        for twenty versts. If we dans, it is twenty contra dances and as many
+                        minuets, not counting the allemandes. To keep the apartments from getting
+                        too hot, we make no fire. If the others are rubbing their faces down with
+                        ice, the whole body immediately becomes the face. In sum, we are far from
+                        the middle way. For fear of villains, we mistrust the whole world and listen
+                        to neither good nor bad advice. In a word, there has not yet been
+                        graciousness, nor prudence, nor wisdom in all that, and God knows what will
+                        become of it, since we listen to no one and have our own mind made up for
+                        ourselves. Can you imagine that after a year and a half and more, we cannot
+                        yet speak a word of the language? We want to be taught, but we do not apply
+                        ourselves for one moment a day. It is all pirouettes: we cannot endure this
+                        or that, we owe more than twice what we have, and yet we have what hardly
+                        anyone in Europe has. But mum’s the word! One must never despair of young
+                        people. One must not grumble too long either: one must not grieve the ists
+                        or non-ists, nor pedestrians, nor split bowels!</p>
+                    <p>You have a very exact memory of things. That recapitulation of Prince
+                        Dolgoruky’s arrival on my feast day is a notable show of memory. I
+                        congratulate you on it and thank you for all the obliging things that you
+                        say to me, and namely about the armistice which you accord for the two lines
+                        that had the misfortune of displeasing you. Let me teach you something new:
+                        there is a new illness that is called legislomania, a severe attack of which
+                        they say the Empress of Russia is suffering for the second time. At the
+                        first one she set only principles. This time, it is the job in earnest. Oh,
+                        the poor woman! She shall die of it, or she shall complete it. Now that is a
+                        masterful will against which no obstacle can hold, is it not? You will tell
+                        me that a reputed minister like the marquis Felino could not be a knave and
+                        that as a result I can buy his paintings without having them examined. But
+                        as I have seen some reputed ones who were nonetheless so, I would much like
+                        you to have those paintings examined by someone who understands them,
+                        without, however, confiding my sententia to anyone, much less Mr. de Felino,
+                        who has very politely offered me his paintings. I would also very much like
+                        to have the catalogue. Mr. Dupont de Veil’s collection of plays has not yet
+                        reached me. As for the author of the Histoire philosophique du commerce des
+                        Indes, I will task Count Munich with rereading the article on Russia and
+                        putting his remarks in writing.</p>
+                    <closer><signed>Good evening, Mister Baron.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

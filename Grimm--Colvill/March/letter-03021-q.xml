@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03021</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03021</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+   
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Should " Die schöne Wienerin" be a Work? Emma</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-15">15/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:39:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03021">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1778-12-07">7 décembre 1778</date>.</dateline>
+   <salute>Feuille séparée qu’on peut jeter au feu, sans y rien perdre, pour le bien de des
+    yeux.</salute></opener>
+   <p>J’ai été voir ces jours passés <seg xml:lang="de"> Die schöne Wienerin</seg> et très amusée
+    pendant la représentation; trois jours de suite je recommandais à tout le monde de l’aller voir;
+    à la fin, dînant à la table ronde, fonte de sujet à jaser, je dis à <persName
+     ref="people.xml#bar03"> M. Barmann</persName>, mon chef de cuisine: «Comment vous plaît <seg
+     xml:lang="de"> Die schone Wienerin</seg>? L’avez vous vue?» Il me répond: «Oui, <seg
+     xml:lang="de"> aber Gott weiß, das ist zu groß » Der herr Barmann finded zu gros</seg> ce
+    tapage qui me plaisait beaucoup! Tout de suite j’ai dit: il faut que je mande cela à
+    M. <persName ref="people.xml#gri01"> Grimm</persName>, afin qu’il emploie son talent du développement pour m’expliquer pourquoi
+    M. Barmann trouve <seg xml:lang="de"> zu groß</seg> ce dont je ne me doutais pas seulement que
+    cela fût <seg xml:lang="de"> groß</seg>. Je voudrais que mon chef de cuisine eût le palais aussi
+    fin et délicat que l’entendement, me suis-je écriée par rancune, je crois; allons, développez-
+    moi tout cela et surtout le d’où vient que l’entendement de M. <persName ref="people.xml#bar03">
+     Barmann</persName> est plus chatouilleux que le mien.</p>
+   <p>De la même date que la feuille séparée, bonne à brûler.</p>
+   <p>Votre lettre No 25 а mis en l’аіг M. le chevalier <persName ref="people.xml#eck01">
+     d’Eck</persName> et tous ses postillons (notez que c’est votre billet qui accompagnait le No 25
+    qui m’a appris qu’il fallait dire: M. le chevalier <persName ref="people.xml#eck01">
+     d’Eck</persName>, et non pas M. d’Eck; j’ai toujours tenu de la pécore sur tout se qui est
+    titre). Eh bien donc, ce fameux №25, tant recommandé au courrier du <persName
+     ref="people.xml#bar02"> pr. Bariatinski</persName>, est devenu si cher à cet homme qu’étant
+    tombé et blessé en chemin et ayant confié ses dépêches ministérielles à un de ses camarades qui
+    revenait de <placeName ref="places.xml#hol02"> Hollande</placeName>, il a mis le paquet pour M. le chev. d’Eck à côté de lui dans
+    le lit, là où il en а trouvé un pour s’y fourrer, et il ne l’aurait pas lâché jusqu’à la fin du
+    monde si M. le chev: d’Eck n’avait envoyé tout exprès chercher cette pièce si précieuse, qui
+    courait risque d’être enterrée en compagnie de son porteur.</p>
+   <p>Mais que Dieu me le pardonne; je pense que les déductions sur la <name ref="events.xml#bavar01"
+     >succession de Bavière</name> influent sur mon style et qu’il commence à devenir
+    aussi prolixe que ces détestables pièces qu’on est obligé de lire quand on se mêle à propos de
+    bottes de certain métier; tout cela soit dit sans causer à votre rate des commotions trop
+    fortes. J'ai serré le manuscrit allemand du baron <persName ref="people.xml#dal01">
+     Dalberg</persName> tout de suite, sans le lire, dans le tiroir où repose la collection que
+    j’amasse d’écrits sur les écoles, gymnases et universités, et j’attends avec impatience tout ce
+    que vous pouvez encore m’envoyer sur ce sujet, selon votre promesse, parce qu’en temps et lieu
+    tout cela pourra s’employer, surtout si Dieu m’accorde les années de feu son serviteur
+    Matbusalem.</p>
+   <p>J’ai bien des obligations à <persName ref="people.xml#epi01"> Mme d’Epinay</persName> pour le
+    livre vert: sti-là sera lu tout de suite, parce que l’agréable souvent dans ce monde est préféré
+    à l’utile. Mille remerciments encore an baron, confrère de <persName ref="people.xml#dal01"> M.
+     Dalberg</persName>, pour les contes et facéties du <rs ref="people.xml#vol01"> patriarche</rs>;
+    mais pourquoi imprimer cela avec des caracterès aussi menus que les points de mes i souvent sont
+    plus grands? Vous voyez que la vue seule de cet imprimé a influé sur la gaîté impériale, qui
+    d’ailleurs aujourd’hui était affectée d’un grand mal de tête dont la lecture de votre lettre a
+    considérablement diminué la douleur. Mais par où ai-je mérité que vous versiez à pleines mains
+    tant de dons sur moi? J’en ai moins donné, à la paix, au maréchal <persName
+     ref="people.xml#rum01"> Roumiantsof</persName>, vainqueur et pacificateur: des pâtes, des
+    prunes, des copies de lettres du <persName ref="people.xml#fre01"> roi
+    de <placeName ref="places.xml#pru01"> Prusse</placeName></persName>; est-ce ma pancarte présentée au <seg xml:lang="de">
+     Taschenspieler</seg> qui m’a valu tout cela?</p>
+   <p>Le comte <persName ref="people.xml#vor01"> Vorontsof</persName>, revenu depuis quelques jours,
+    dit que depuis <placeName ref="places.xml#flo01"> Florence</placeName> jusqu’à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> il n’a entendu que malédictions aux uns et
+    bénédictions pour les autres: <seg xml:lang="de"> ja bald werde ich mich auch was
+     einbilden</seg>. Que Dieu bénisse <persName ref="people.xml#tot01"> M Tott</persName> et ses
+    marabouts: jamais personne ne m’a fait plus de bien qu’eux et compagnie ; j’ai appris à
+    connaître par là bien des choses et bien du monde, et je sais bien ce que je sais; mais ce que
+    je sais, je ne le dirai pas ici, crainte de vous ennuyer. Ma nous prophétiserons un jour. La
+    découverte du roi de <placeName ref="places.xml#pru01"> Prusse</placeName> sur le compte de <rs ref="people.xml#fri03"> M. son
+     neveu</rs> est très peu consolante <seg xml:lang="de"> vor die heiligen Freser Taschenspieler
+     und Janus gesichtern</seg> , comme vous les intitulez. Lorsque <persName ref="people.xml#hen02"> le prince Henri</persName> en
+    parlait pendant son premier voyage, il ne cessait de louer son bon coeur et bon sens; au second,
+    il n’en disait mot; l’histoire de la lettre de <persName ref="people.xml#lou03"> la
+     princesse</persName> le mettait de fort mauvaise humeur, parce qu’elle avait mis ce qu’elle
+    disait mis-partie sur le compte de son époux. Je m’en vais lire aujourd’hui l’éloge
+    de <persName ref="people.xml#vol01"> Voltaire</persName> qu’on vient de m’envoyer de <placeName ref="places.xml#ber01"> Berlin</placeName>; je suis de l’avis de
+    Frédéric: sa gloire dorera de siècle en siècle, comme celle d’Homère et de Virgile. Le grec, le
+    latin et le français seront nommés à l’avenir à la file comme les deux premières l’étaient
+    jusqu’ici.</p>
+   <p>Le pilastre des <title ref="works.xml#logera01"> loges de Raphaël</title> n’est point
+    encore arrivé jusqu’à moi; je le crois embarqué sur mes frégates, lesquelles ont jugé à propos
+    de retourner de Gibraltar à Livourne pour y passer l’hiver. Or, je crois vous avoir mandé que la
+    vue des plafonds, des loges, le Père éternel étendu dans les airs, créant, arrangeant l’univers,
+    et mille et mille autres admirables objets de ces plafonds, m’ont fait crier, prier, griffonner
+    toutes les pauvretés qu’il vous plaît taxer d’embrasements, d’explosions qui grillent depuis
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName> jusqu’à <placeName ref="places.xml#rom03"> Rome</placeName>; de tout
+    cela je ne plains que vos yeux: je devrais les ménager en finissant cette lettre, mais je né
+    puis, car outre le No 25 j’ai encore à répondre à vos No 26 et 27, qui ont devancé leurs
+    devanciers; il y aura des gens qui trouveront cela impossible; je les renvoie à ceux qui
+    prouvent de plus grandes impossibilités que celle-là; mais passons là-dessus. Vous saurez
+    présentement à quoi sont destinés les trente mille roubles remis à vous par le baron <persName
+     ref="people.xml#fre03"> Friedrichs</persName>. Je ne vois jamais une lettre du divin <persName
+     ref="people.xml#rei03"> Reiffenstein</persName>, sans qu’il me prenne un désir fort difficile à
+    vaincre de le commenter. Il a des expressions si propres à encadrer dans des singeries qui me
+    montent en tête à la lecture, que c’est vraiment une perte que d’en étouffer la fermentation:
+    voyez un peu ce que c’est que l’analogie des idées. Pour père <persName ref="people.xml#jac01">
+     Jacquier</persName>, je l’aime comme mes yeux, je ne sais pas pourquoi, à moins que ce ne soit
+    pour la protection qu’il donne à mon cousin le mont Etna, que j’aime et estime toujours
+    infiniment. Dieu bénisse l’abbé <persName ref="people.xml#ghi01"> Chigi</persName> et le peintre
+     <persName ref="people.xml#unt01"> Unterberger</persName> dans leur noble entreprise, sans
+    oublier les travaux de l'architecte <persName ref="people.xml#chi03"> Chigi</persName>, qui
+    travaille au cirque de Caracalla. A <persName ref="people.xml#men01"> Mengs</persName> je
+    souhaite un corps saint, nouvellement canonisé, par exemple celui de <persName
+     ref="people.xml#pal01"> St Palafox</persName>, lequel corps saint pour l’établissement de sa
+    réputation ait besoin de faire des miracles, et qu’en premier il rende la santé à <persName
+     ref="people.xml#men01"> Mengs</persName>, puis, qu’il dirige son pinceau pour qu’il trace
+    miraculeusement deux sujets tirés de l’Iliade, qu’il les achève et perfectionne en un zeste,
+    qu’il favorise tant par mer que par terre leur trajet de <placeName ref="places.xml#rom03"> Rome</placeName> à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> etc. etc. etc. Je vous accuse l’arrivée-de la
+    lettre de <persName ref="people.xml#len01"> M. Le Noir</persName> incluse dans votre No 27,
+    auquel tout ce que ci-dessus sert de réponse. </p>
+   <closer><signed rend="inline">J’épargne vos yeux, adieu.</signed></closer>
+   <postscript><p>Les lettres de <persName ref="people.xml#vol01"> Voltaire</persName> ne sont pas prêtes encore, et tout le
+    reste lés attend; Puisque c’est votre gouverneur Thier qui part, je lui confie les diamants et
+    fourrures pour <persName ref="people.xml#den02"> madame Denis</persName>.</p></postscript>
+  </body>
+ </text>
+</TEI>

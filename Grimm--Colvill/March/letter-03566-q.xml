@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03566</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03566</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is a German
+     word that Catherine uses that is extremely difficult to read in the OCR. The closest to a word
+     I could think is Jabruder but I doubt that this is the correct word. (2) She refers to Messieurs
+     Pauli and based on the context it seems like they were a modeling, art, and/or sculpture firm
+     in Lubeck. I could not find anything to confirm this, but I did go ahead and code it. (3) I
+     coded Baumé as Catherine’s doctor/surgeon, Christoph Baumgart, but I could not find much to
+     prove that Baumé was short for Baumgart</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-19">19/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:52:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03566">
+  <body>
+
+   <opener><dateline>A <placeName ref="places.xml#pet02"> Péterhof</placeName>, ce <date when-custom="1779-07-05">5 juillet 1779</date>.</dateline></opener>
+   <p>Le courrier sans nom vient de m’apporter le No 40 et le 6<hi rend="superscript">me</hi>
+    hochlöblicher Vortrag, le premier daté 9 (20) juin, l’autre 13 (24) juin. Ce No 40 est, en gros
+    et en détail, une superbe pancarte dont chaque phrase mérite une réponse ample: d’abord je me
+    réjouis que vous preniez confiance en mes courriers; je vous prie de la leur conserver jusqu’à
+    ce qu’ils vous fournissent l’occasion de la leur ôter. Mais est-il permis de gloser sur de
+    pauvres noms de baptême? Il faut être bien désoeuvré pour s’accrocher à cela: fallait-il
+    appeller le monsieur <persName ref="people.xml#ale01"> A</persName>. et le sieur <persName
+     ref="people.xml#kon01"> C</persName>. Nicodème ou Thaddée? ne leur fallait-il pas à chacun son
+    nom? Le premier a son patron dans la ville de sa naissance, et le second est né peu de jours
+    avant la fête du sien; c’est le rite à peu près qu’on a suivi à huit jours de la naissance;
+    voilà qui est tout simple; par hasard, ces noms sont sonores, pourquoi gloser, est-ce ma faute?
+    Je ne nié point du tout que les noms harmonieux me plaisent; ce dernier a allumé l’imagination
+    des rimailleurs qui sont venus me battre les oreilles de sornettes, où il s’agit de ci et de ça;
+    je leur ai fait dire d’aller paître les oies, de ne nommer ni compère ni commère et de me
+    laisser vivre en paix, puisque, Dieu merci, je tiens ma paix par les oreilles. Vous ne savez pas
+    le pis: c’est que par malheur pendant les premiers cinq jours le filleul du compère avait une
+    nourrice belle comme le jour, grecque d’extraction, qui s’appelait Hélène; or, cette Hélène,
+    tout comme d’autres Hélènes, faisait un vacarme horrible; par bonheur, Hélène devint malade et
+    Hélène fut renvoyée, et le vacarme causé par Hélène cessa à mon très grand contentement, parce
+    que non veux entendre gazouiller d’idées qui n’ont pas le sens commun.</p>
+   <p>Pour le cordon bleu de <persName ref="people.xml#pri01"> M. de St P</persName>., c’est autre
+    chose: il a été très bien mérité, et je m’en tiens à son ouvrage. <persName
+     ref="people.xml#pyr01"> Pyrrhus</persName> est malade et un peu défait depuis quelque temps,
+    mais il a l’air plus fier et plus mutin que jamais; voilà tout ce que vous en saurez pour le
+    moment. Il y a bien une autre <seg xml:lang="de"> Prüfung</seg> d’achevée: M. <persName
+     ref="people.xml#bez01"> Bezbo</persName>: s’est avisé de faire un régistre des faits, choses
+    mémorables et publiques qui se sont passées depuis dix-sept ans; il m’a apporté cela le jour où
+    commençait notre dix-huitième année. Ce régistre est assez gros, mais j’ai été étonnée qu’il n’y
+    avait que cela, et pour voir s’il n’y avait pas ommission, j’ai ordonné à chaque département de
+    présenter ce qui y manquait. Par exemple, il n’y était pas fait mention de l’ouvrage de la
+     <placeName ref="places.xml#dvi01"> Dvina</placeName> à <placeName ref="places.xml#rig01"> Riga</placeName>, qui pourtant n’est
+    pas tout à fait si peu de chose qu’elle (sic) ne puisse remplir un coin. La première <seg
+     xml:lang="de"> Prüfung</seg> viendra quand elle pourra; je n’ai pas le temps présentement de
+    m’occuper de cette belle pancarte-là; je législate le matin; puis le courant; à dix heures et
+    demie <persName ref="people.xml#ale01"> M. Alexandre</persName>; tout en m’habillant, on dit que
+    j’en façonne un drôle de corps qui fait tout ce que je veux, et qui est gai et aimable autant
+    que son âge le permet; on me l’avait gâté pendant quatre jours que je ne l’avais pas vu, mais
+    tout est réparé au contentement très marqué de <rs ref="people.xml#pau01"> papa</rs> et <rs
+     ref="people.xml#mar02"> maman</rs> (ah! ce n’est pas peu de chose), qui n’en peuvent pas venir
+    à bout. </p>
+   <p>Je vous l’аі déjà dit, et je le répète, je raffole de <rs ref="people.xml#ale01"> ce
+     marmot</rs>. Nous faisons tons les jours des connaissances nouvelles, c’est-à-dire que de
+    chaque jouet nous en faisons dix ou douze, et c’est à qui des deux développera le plus son
+    génie; c’est extraordinaire comme none devenons industrieux. Qu’en pensez-vous? cela nous
+    donnera-t-il <seg xml:lang="de"> Öffnung im Kopf, oder ohne Kopf</seg>? Dame Nature nous a rendu
+    robuste et intelligent; tout le monde crie au miracle de grand’maman, et ce n’est qu’un cri que
+    nous continuions de jouer ensemble. L’après-diner <rs ref="people.xml#ale01"> mon marmot</rs>
+    revient autant de fois qu’il veut, et il passe ses trois à quatre heures par jour dans ma
+    chambre, souvent sans que je m’en occupe; s’il s’ennuie, il s’en va, mais cela ne lui arrive
+    guère. Ecoutez, laissez là le filleul du benet: peut-être deviendra-t-il plus sage, ce sont ses
+    affaires.</p>
+   <p>Parlons un peu marchands drapiers: je pense que jamais ils ne se trouveront dans une situation
+    plus fâcheuse; ils ont là une double bagarre sur les bras qui doit les rendre plus traitables,
+    surtout s’ils parviennent à reconnaître enfin qu’ils ne font que broncher depuis tant d’années.
+    A présent on a beau rêver pour eux, tout cela est peine vaine, cela ressemble au tondu; ils sont
+    toujours là où on les attend le moins. J’ai tourné et retourné ma tête et n’ai rien trouvé,
+    sinon qu’il faut attendre un tantinet et qu’alors comme alors on pourra trouver ou placer son
+    mot. Leurs <seg xml:lang="de"> Taschenspieler</seg> d’à présent, quoique tous gens d’esprit,
+    sont d’aucune valeur chez eux et nulle part, parce qu’on ne sait pas trop pourquoi ils sont
+    intraitables, si ce n’est que le bout du nez du très révérend est sans odorat pour cause de
+    rhume de cerveau. Eh bien, à la bonne heure, j’y consens: que la postérité devienne <seg
+     xml:lang="de"> kurz und gut, deutlich und höflich</seg> : il n’y aura que les moulins à papier
+    et les vendeurs d’encre qui y perdront; les honnêtes gens ne perdent rien à être <seg
+     xml:lang="de"> deutlich</seg>, et le <seg xml:lang="de"> höflich</seg> ne doit rien coûter à
+    quiconque de naissance n’est pas crocheteur.</p>
+   <p>A propos de création, envoyez-moi s’il vous plaît le livre de <persName ref="people.xml#buf01"
+     > M. Buffon</persName> qui dit que le monde a duré 74,000 ans et qu’il durera encore 95,000
+    ans: je veux voir le pourquoi de cela. Pour votre conseiller d’état, je lui tire ma révérence;
+    il est bien bon de se remplir la tête de si peu de chose, tandis qu’il a à vaquer à de plus
+    importantes, vu sa charge. Quand je parle comme cela, je parle en conseiller d’état, moi, car
+    dans le train ordinaire des choses les pauvretés dont ils sont chargés leur paraissent les
+    premières du monde et tout le reste n’est rien. Oh! Que de <seg xml:lang="de"> perrüdirte
+     Häupter</seg> je connais qui pensent ainsi, quoique la plupart du temps tout ce qu’ils font et
+    écrivent est boursouflé de vent, de vide et d’obscurité.</p>
+   <p><hi rend="italic">J'approuve le voyage de <persName ref="people.xml#wag02"> Wagnière</persName>, tel qu'il a été arrangé</hi>, et je
+    l’attende à tout moment; j’en ferai mon lecteur, j’en ferai mon lecteur, mais que me lira-t-il?
+    Je n’ai guère le temps de l’écouter. Vous voulez être grondé, et de quoi s’il vous plaît? Ne
+    savez-vous pas que je suis le premier <seg xml:lang="de"> Jabruder</seg> de l’un et l’autre
+    hémisphère; je crois que ces mots-là sont tout étonnés de se trouver ensemble, mais ils n’ont
+    qu’à rester là, puisque ma plume les y a placés. Donnez-nous donc au plus tôt du <persName ref="people.xml#sed01">
+    Sedaine</persName>, du <persName ref="people.xml#sed01"> Sedaine</persName> gai, car je n’aime pas le triste, ni même je m’afflige le
+    moins du monde des choses dont une de mes soeurs très fidèles prend le denil; cependant ses
+    petites aventures-là nous arrivent, tout comme partout ailleurs; quand on fait tant que de se
+    multiplier à l’infini dans ce monde, il est difficile de ne pas se trouver renversé par-ci
+    par-là, mais pourquoi s’en affliger? La volonté du Seigneur soit faite: puisqu’il ne s’y oppose
+    pas, je n’y trouve pas de quoi pleurer; <seg xml:lang="de"> die Bost-Kommissarien in ganz
+     Deutschland werde finden daß das sonderlich Zeug ist was diese Bogen enthalten, absonderlich
+     aber die davon wenig verstehen werden.</seg> Je plains de tout mon coeur mon duc de <persName
+     ref="people.xml#bra05"> Bragance</persName>: ce chevalier sans peur et sans reproche, cette âme
+    héroïque devait être, selon moi, ce qu’est son rival, et alors vous verriez comme il chasserait
+    toutes ces sottises dont il doit souffrir.</p>
+   <p>Laissez là mes coquins, ne m’en parlez jamais, mais sachez qu’ils se portent bien en dépit de
+    vous. J’espère que tout est fini entre <persName ref="people.xml#san03"> Santini</persName>
+    et l’ample <rs ref="people.xml#shu02"> baron</rs>, à la satisfaction du premier. Le chevalier de
+    la <persName ref="people.xml#tey01"> Teissonnière</persName> a reçu dès le lendemain la lettre
+    dont vous m’avez chargée pour lui: voyez mon exactitude, j’en suis toute fière. J’ai si bonne
+    opinion de tout ce qui se fait pendant le règne de <persName ref="people.xml#lou15"> Louis
+     xvi</persName>, que j’aurais envie de gronder ceux qui trouvent à redire de ce qu’on vend le
+    terrain des jardins pour y bâtir des maisons à <placeName ref="places.xml#par01"> Paris</placeName>. <orgName
+     ref="orgs.xml#paul01"> Messieurs Pauli</orgName> à <placeName ref="places.xml#lub01">
+     Lübeck</placeName> auront apparemment expédié le modèle des <title ref="works.xml#logera01"
+     >loges de Raphaël</title>, selon la prescription du cher monsieur, avec <rs ref="works.xml#librar01">la bibliothèque</rs> et <persName
+     ref="people.xml#wag02"> Wagnière</persName>. Je les suppose sur mer et point dedans lamer, vu
+    qu’il n’y a pas eu d’orage. NB que la phrase précédente commence la paraphrase de la pancarte
+     <rs ref="people.xml#rei03"> Reiffensteinienne</rs>; l’arrivée des dessins, servant
+    d’instruction aux artistes, reste douteuse, parce que le 2 juin, selon le cher monsieur, ils
+    étaient encore à <placeName ref="places.xml#rom03"> Rome</placeName> hormis les vingt-un articles expédiés le 29 mai. La toute
+    nouvelle découverte des deux pavements de chambres antiques supposés avoir servi à orner un
+    boudoir de feu <persName ref="people.xml#cla01"> Claude empereur</persName>, s’ils en valent la
+    peine, le divin <persName ref="people.xml#rei03"> Reiffenstein</persName>, après mûr examen,
+    aura la précieuse bonté, si vous voulez bien avoir la bonté toute entière de lui écrire, à votre
+    tour, d’en faire l’emplette, afin qu’ils puissent être placés dans un appartement qu’on
+    fouillera dans deux mille ans d’ici par ordre de l’empereur de la <placeName
+     ref="places.xml#chi02"> Chine</placeName> ou de tel autre sot tyran auquel sera confié une
+    grande partie du monde ou qui se trouvera amateur ou bien de choses pouvant servir d’ornement à
+    ses boudoirs, ou bien aussi de choses qu’il n’aura jamais vues et dont il n’aura ni idée ni
+    connaissance.</p>
+   <p>Mon Dieu! que je vous plains d’être obligé de lire tout ce qui sort de ma plume: savez-vous
+    comment elle va? comme le cotillon de ma commère dans la chanson; chantez un peu cette chanson;
+    elle vous désennuiera de la lecture de cette énorme pancarte. Je continue. Il faut avouer que
+    225 sequins pour un pavé de boudoir destiné au service de trois personnes notables dans le
+    monde, comme <persName ref="people.xml#cla01"> Claude</persName>, moi et l’empereur de la
+     <placeName ref="places.xml#chi02"> Chine</placeName> ou substitut, pendant quatre mille ans,
+    n’est pas une dépense effrayante; le substitut l’aura pour cinq cents ducats; en attendant je
+    consens à la dépense qui m’en revient. Je prie le ciel qu’il préserve les <persName
+     ref="people.xml#unt01"> Unterberger</persName>, les <persName ref="people.xml#chi03">
+     Chigi</persName> et compagnie, en grimpant les échaffàudages des loges pour mon service et
+    utilité, du malheur arrivé à <persName ref="people.xml#rin01"> Rinaldi</persName>, il y a
+    quelque temps, qui s’est laissé choir du haut d’un et qu’on a relevé sans connaissance, mais il
+    est rétabli, quoiqu’il frise les soixante et dix ans.</p>
+   <p>Assurez le cher monsieur que tout le monde sera averti des avertissements, enseignements,
+    notices etc. qu’il a l’insigne attention de nous procurer. Je quitte le divin homme pour
+    apprendre à blanchir la soie: bon Dieu, que de métiers n’est-on pas obligé d’apprendre dans ce
+    monde quand on est en correspondance avec des barons allemands! Je veux parier que le sieur
+     <persName ref="people.xml#bau05"> Baumé</persName>, maître apothicaire, met les cocons dans sa
+    cave et que c’est de cette façon-là qu’il tue les vers dans les cocons, mais comme son secret
+    reste secret, je le salue en passant, parce que je ne me connais point du tout en chat en poche.
+    M. <persName ref="people.xml#ols01"> Olsoufief</persName> a reçu les estampes que vous lui avez
+    envoyées; pour moi, je vous le répète, je n’achète plus rien après que vous m’aurez dit si les
+     <persName ref="people.xml#rob01"> Robinet</persName> sont bons ou mauvais. Que le ciel bénisse
+    tous les frères et les soeurs avec et sans hostilités; si jamais je leur dirai quelque chose, ce
+     sera <hi rend="italic">Paix, mes frères</hi>: mais je pourrais bien prêcher à des sourds, et
+    crainte que cela ne m’arrive, je me tais. Un de mes fraterlets ou fratelets m’a proposé la
+    prédication, ma j’ai répondu que prédication ne pouvait être efficace lorsque l’auditoire était
+    occupé, chacun de son côté, à se tirer par les oreilles. </p>
+   <closer><signed rend="inline">Adieu, si cette pancarte vous déplaît, dites-le moi, afin que je vous
+    fasse des lettres plus sages. Répondez-moi au net sur cet article; je veux une réponse
+    authentique. Ci-jointes vous trouverez des inscriptions merveilleuses que sire <persName
+     ref="people.xml#nar02"> Léon N</persName>. a mises à sa maison de campagne.</signed></closer>
+  </body>
+ </text>
+</TEI>

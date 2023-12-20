@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01075</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01075</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-14">14-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:24:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01075">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#kie01">
+     Kiovie</placeName>, ce <date when-custom="1787-03-12">12 mars 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. Le <persName ref="people.xml#lig01"> prince de Ligne</persName> a dû
+    s’attendre à juste titre à être doublement bien reçu de moi, d’abord comme porteur de la chère
+    lettre de V. M. I. du 26 février, et puis encore comme une ancienne connaissance dont je fais
+    non seulement beaucoup de cas, mais aussi qui me retrace une époque précieuse à mon coeur, celle
+    où j’ai eu le bonheur de voir V. M. I. pour la première fois. Je compte tous les moments qui me
+    rapprochent de celui où je pourrai renouveler de bouche à V. M. I. les assurances de ma vive
+    reconnaissance, de rattachement parfait, de l’amitié la plus sincère et de la très-haute
+    considération avec laquelle je suis à jamais ....</p>
+  </body>
+ </text>
+</TEI>

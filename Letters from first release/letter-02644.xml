@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02644</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02644</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#turkey"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-25">25 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02644">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1764-01-19">ce 19 Janvier 1764</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère</salute></opener>
+                    <p>Je ne saurais assez remercier Votre Majesté de m'avoir communiqué la dépêche
+                        de <placeName ref="places.xml#ist01">Constantinople</placeName>, ce m'est
+                        une nouvelle preuve de l'amitié de Votre Majesté. La sincérité avec laquelle
+                        Vous agissez est peu d'usage entre Vos égaux, il est vrai que Votre Majesté
+                        n'en a pas, je ne me lasse de dire que c'est un charme d'avoir à faire à
+                        Elle. Je crains beaucoup que Votre Majesté ne trouve tout le contraire avec
+                        moi, vu que le contre projet du traité n'est parti qu'environ depuis huit
+                        jours, mais je Vous réponds qu'il en sera d'autant plus durable. J'en
+                        reviens à la lettre de Votre Majesté et aux conseils qu'Elle m'y donne: je
+                        suis bien éloignée d'employer les voies de fait pour la nouvelle élection, à
+                        moins qu'on ne m'y oblige, et alors même je ne m'y résoudrai que quand je
+                        verrai qu'il n'y a plus d'autres expédients. Votre Majesté se convaincra
+                        sans doute davantage de ce sentiment par la base du projet de la convention
+                        secrète que je viens de Lui proposer par son ministre <persName
+                            ref="people.xml#sol01">le comte de Solms</persName>. Assurément je fais
+                        tout pour donner la supériorité à notre parti en <placeName
+                            ref="places.xml#pol01">Pologne</placeName>, et je ne désire des
+                        démonstrations menaçantes sur nos frontières que pour nous prévaloir de
+                        notre avantage sur les autres; je veux dire celui que la situation de nos
+                        états nous donne dans les affaires de la <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>. Votre Majesté conviendra Elle même que si nous ne
+                        l'employons pas, nous nous mettrons en égalité d'influence avec nos rivaux,
+                        vu surtout que leur corruption ira toujours son train. Je n'ai point de
+                        relations immédiates des armements de <placeName ref="places.xml#aus01"
+                            >l'Autriche</placeName> et de la <placeName ref="places.xml#fra01"
+                            >France</placeName>, mais je ne crois pas moins qu'ils auront lieu, à la
+                        suite de la première impression du concert de partage entre nous. J'espère
+                        bien qu'à l'aide de Votre Majesté les Turcs laisseront faire tout ce que bon
+                        nous semblera. S'ils trouvent bien qu'un Piaste<note type="editorial"
+                            >Meaning a native-born Polish noble, rather than a foreign ruler.</note>
+                        soit roi, ils ne peuvent désapprouver qu'on agisse pour la réussite: et
+                        comme dans tous les cas extrêmes je ne ferai entrer mes troupes en
+                            <placeName ref="places.xml#pol01">Pologne</placeName>, qu'après la
+                        réquisition des Polonais, <placeName ref="places.xml#ott01">la
+                            Porte</placeName> ne saura plus le désapprouver, et surtout lorsqu'elle
+                        sera une fois convaincue de notre système d'alliance et son propre avantage
+                        de voir mes intérêts séparés<note type="editorial">Corrected from source
+                            text, which reads 'separés'.</note> d’avec ceux de la maison <placeName
+                            ref="places.xml#aus01">d’Autriche</placeName>. C’est la sincérité
+                        d’amitié et de liaison de Votre Majesté avec moi, et le soin en conséquence
+                        qu’Elle ne cessera sans doute de prendre d’en convaincre <placeName
+                            ref="places.xml#ott01">la Porte</placeName> qui contribueront le plus à
+                        lui faire adopter la neutralité dans les affaires de <placeName
+                            ref="places.xml#pol01">Pologne</placeName> pour maxime. Votre Majesté
+                        peut être persuadée que c’est avec la satisfaction la plus parfaite que je
+                        verrai le jour durant lequel les formalités de notre liaison seront
+                        consommées, j’attends avec empressement le retour du courrier, </p>
+                    <closer>
+                        <signed>et suis avec la plus haute consideration, Monsieur mon Frère, de
+                            Votre Majesté, la bonne Soeur
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

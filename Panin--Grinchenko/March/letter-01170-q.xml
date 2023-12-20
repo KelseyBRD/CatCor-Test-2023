@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01170</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01170</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#austria"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Цесарева?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-22"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01170">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#vla01">Володимера</placeName>.<lb/>
+                <date when-custom="1767-06-13">Июня 13 числа, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Надеюсь, что Вы уже предварительно сделали, как <persName ref="people.xml#sol01"
+                    >Графу Сольмсу</persName>, так и <persName ref="people.xml#lob01">Князю
+                    Лобковичу</persName> конфлир комплимент об печальных приключениях их Дворам; а
+                ныне прошу сказать им, что я беру тем более в сих нещастиях участие, что столь
+                скоропостижно оныя произошли. Прибавьте все то, что недостает в письме сем, писанном
+                человеком сонным, кой ночей пять на постеле не сыпал. Об трауре прикажу по приезде
+                моем, и с понедельника начинать можно. Весьма неутешительно для нас безвоспных, что
+                воспою умирают и старые и молодые; Цесарева едва оживет ли, по сим
+                обстоятельствам.</p>
+            <closer rend="inline"><persName ref="people.xml#pau01">Сыну</persName> моему прошу
+                кланяться, скоро увидимся.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

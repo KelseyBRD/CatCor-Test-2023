@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01034</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01034</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:13:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01034">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-03-31">31
+     mars 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre dont V. M. I. m’a honorée en date du 27 mars n. st., je la
+    regarde comme une nouvelle marque précieuse de Son souvenir ; qu’Elle daigne en agréer mes
+    remercîments sincères. Le même courrier m’a apporté des lettres de <rs ref="people.xml#pau01 people.xml#mar02">
+      mes enfants</rs> qui ne peuvent assez se louer de l’accueil dont Leurs Altesses
+    Royales le <persName ref="people.xml#leo01"> Grand-Duc</persName> et <persName
+     ref="people.xml#mar24"> Madame la Grande-Duchesse de Toscane</persName> les ont fait jouir à
+     <placeName ref="places.xml#flo01"> Florence</placeName>. En particulier ils me parlent beaucoup
+    des vertus du <rs ref="people.xml#fra04"> jeune archiduc</rs> leur futur beau-frère dont ils
+    sont enchantés, de même que de toute la famille de <persName ref="people.xml#leo01"> S. A. R.
+     Monsieur le Grand-Duc de Toscane</persName>.</p>
+   <p>Je n’envie point à V. M. I. le rare avantage dont Elle jouit présentement d’être logée porte à
+    porte avec <persName ref="people.xml#pop03"> Pie VI</persName>. Pour parler franchement, je
+    voudrais savoir le <persName ref="people.xml#pop03"> Pape</persName> hors de <placeName
+     ref="places.xml#vie01">Vienne</placeName>; je ne sais pourquoi je ne puis penser sans une sorte
+    d’inquiétude à ce séjour. Un prêtre italien pour tous ceux qui ne sont pas catholiques est un
+    objet d’une sorte d’appréhension. Je n’en aurais assurément aucune à voir V. M. I. aux portes du
+    Capitole. En troisième entre Elle et le <persName ref="people.xml#pop03"> Saint-Père</persName>,
+    comme V. M. I. me fait l’honneur de m’y introduire, je ne pourrais parler au <persName
+     ref="people.xml#pop03"> Pape</persName> que selon les principes de l’église grecque, avec
+    lesquels je l’ennuierais si fort qu’il s’en retournerait bien vite à <placeName
+     ref="places.xml#rom03">Rome</placeName>, et la faute en tomberait sur moi qui suis en
+    possession d’ailleurs de son excommunication, malgré laquelle je me porte à merveille.</p>
+   <p>Qu’il plaise à V. M. I. d’être assurée des voeux que je fais pour la continuation de Sa santé
+    et prospérité, étant toujours avec une amitié égale à la très-haute considération avec laquelle
+    je suis</p>
+  </body>
+ </text>
+</TEI>

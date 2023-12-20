@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01205</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01205</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-07"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01205">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>По видимому, у нас уксусу не жалеют, и не только стараются язву из писем вывести, но
+                уже и чернилы вымывают, на силу писем прочесть можно. Я бы советовала <persName
+                    ref="people.xml#car05">Принцессе Валлиской</persName> ехать жить в <placeName
+                    ref="places.xml#han01">Гановер</placeName>, а то право плохо приходит в
+                    <placeName ref="places.xml#eng01">Англии</placeName>. Оба Министерства, <orgName
+                    ref="orgs.xml#fren01">Французское</orgName> и <orgName ref="orgs.xml#angl01"
+                    >Английское</orgName>, как будто об заклад бились, кому более у себя завести
+                неустройство. Что <persName ref="people.xml#pau01">сын</persName> мой здоров, тому
+                радуюсь; естьли Вы захотите у себя иметь, или и в протчих, по Вашему выбору,
+                парадных покоях бал, или и ужин, то от Вас то зависит.</p>
+            <closer><signed rend="inline">Желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline>В седьмом часу, <date when-custom="1771-04-18">18 числа Апреля,
+                        1771.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

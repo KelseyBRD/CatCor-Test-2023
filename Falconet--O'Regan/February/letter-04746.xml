@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04746</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04746</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:07:27Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04746">
+        <body>
+            
+            <p >
+                Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,
+                    méprisez les bavards; y aurait-il même parmi eux des gens recommandables;
+                    d’ailleurs, voilà ce que je répète et ce que je vous ai dit déjà très-souvent.
+                    Votre extrait de lettre à M. <persName ref="people.xml#did01"
+                        >Diderot</persName> répond parfaitement
+                    au <hi rend="italic">si</hi> et
+                    au <hi rend="italic">mais</hi>, il me
+                    semble que vous agissez avec votre ami comme un homme bien sûr de son fait, et
+                    que vous vous moquez de ces antres bavards qui vous disent brouillés; je vous
+                    avoue que j’ai trouvé le pourquoi absurde et destitué de vraisemblance. Cette
+                    semaine ne se passera pas sans que l’expédition pour M. de <persName
+                    ref="people.xml#vil01"> Villiers</persName> ne soit signée, je savais son
+                    histoire. Bonjour, Monsieur.</p>
+            <closer><dateline>Ce <date when-custom="1768-08-27">27 Août
+                1768</date>.</dateline></closer>
+        </body>
+    </text>
+</TEI>

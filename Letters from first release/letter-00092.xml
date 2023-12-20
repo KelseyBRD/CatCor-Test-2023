@@ -1,0 +1,457 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00092</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00092</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-27">13 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00092">
+                <body>
+                    <opener><salute rend="inline">Monsieur le comte
+                        Woronzow.</salute></opener>
+                    <p> Votre lettre du 19 (30) Janvier m'étant arrivée en son tems,<note
+                            type="editorial"><bibl>Vorontsov's letter can be found in <title
+                                    ref="works.xml#arkhiv01">Arkhiv knyazya Vorontsova</title>,
+                                    <biblScope unit="vol">xvi</biblScope> (<date>1880</date>),
+                                    <biblScope unit="pp">pp. 259-61</biblScope>.</bibl></note> j'ai
+                        attendu que les <rs ref="events.xml#regen01">affaires de la régence</rs>
+                        fussent réglées, afin d'y répondre.<note type="editorial">The diary of
+                            Catherine's secretary <ref target="people.xml#khr01">A.V.
+                                Khrapovitsky</ref> indicates that she received Vorontsov's letter on
+                            10 February 1789. Khrapovitsky summarizes the letter as follows: 'Он
+                            изъяснялся с Фоксом и имел с ним свидание; кажется, есть надежда, что
+                            при новом министерстве, скоро ожидаемом, хотя и не рушится союз с
+                            Пруссиею, но не пойдут далее трактата и нам будет легче' ('He spoke with
+                            Fox and had a meeting with him. It seems there is hope that under the
+                            new ministry, which is expected soon, although the alliance with Prussia
+                            will not break down, they will not go beyond the treaty, and it will be
+                            easier for us'). On 26 February, Khrapovitsky noted that he had copied
+                            Catherine's autograph letter in French to Count Vorontsov and summarised
+                            its contents. (<bibl><title ref="works.xml#dnevni01">Dnevnik A.V.
+                                    Khrapovitskago</title>, <biblScope unit="pp">pp. 252,
+                                    256-57</biblScope></bibl>.)</note> L'avant-dernière poste nous
+                        ayant enfin apporté la nouvelle que le <rs ref="people.xml#geo03">prince de
+                            Galles</rs> avait accepté la régence, je me trouve aujourd'hui en état
+                        de vous dire ce qui suit.</p>
+                    <p>La <rs ref="works.xml#authen01">lettre</rs> du <rs ref="people.xml#geo03"
+                            >prince de Galles</rs> à m-r <persName ref="people.xml#pit01"
+                            >Pitt</persName>, quoiqu'on ait divulgué comme si elle avait donné lieu
+                        à des mésentendus entre les amis du prince et nommément messieurs <persName
+                            ref="people.xml#fox01">Fox</persName> et <persName
+                            ref="people.xml#she01">Shéridan</persName>, a fait ici comme partout
+                        ailleurs une sensation très favorable pour le <rs ref="people.xml#geo03"
+                            >prince</rs>, qui s'annonce par là vraiment d'une façon brillante: soit
+                        qu'il ait dicté <rs ref="works.xml#authen01">cette lettre</rs>, soit qu'il
+                        ait adopté un aussi bon conseil l'un et l'autre lui fait un égal honneur; à
+                        en juger par ce début il faut lui supposer des talens très distingués.
+                        Personne n'est plus intéressé à en désirer de tels au <rs
+                            ref="people.xml#geo03">prince de Galles</rs> que moi, parce que je suis
+                        persuadée que le véritable mérite et un grand caractère ne sauraient être
+                        séparés d'avec cet amour de la justice qui a pour base l'impartialité
+                        nécessaire pour ne pas se laisser entraîner par ceux qui sont d'un avis
+                        contraire.</p>
+                    <p>C'est cette impartialité que je souhaite, que je réclame aussi dans ce
+                        moment. La <placeName ref="places.xml#gre01">Grande-Bretagne</placeName>, le
+                            <rs ref="people.xml#geo03">régent</rs> et son ministère ne trouveront
+                        jamais une cause plus juste que la mienne.</p>
+                    <p>Dans l'occasion vous ne manquerez pas de faire connaître mes sentimens au <rs
+                            ref="orgs.xml#whig01">parti patriotique</rs>, que je regarde comme celui
+                        des amis par principe de la <placeName ref="places.xml#rus01"
+                            >Russie</placeName>, lesquels sont persuadés tout comme moi que les
+                        vrais intérêts de la <placeName ref="places.xml#gre01"
+                            >Grande-Bretagne</placeName> se trouvent naturellement et intimement
+                        liés à ceux de la <placeName ref="places.xml#rus01">Russie</placeName>, et
+                        qui regarde comme hérésie en fait de politique tout avis contraire à
+                        celui-ci.</p>
+                    <p>Je vous recommande très expressément de cultiver l'amitié que vous témoignent
+                        les ducs <rs ref="people.xml#por01">de Portland</rs> et <rs
+                            ref="people.xml#dev01">de Devonshire</rs>, et d'entretenir avec soin les
+                        bonnes dispositions que m-r <persName ref="people.xml#fox01">Fox</persName>
+                        vous a témoignées avec cette cordialité et franchise qui caractérisent les
+                        talens supérieurs de <rs ref="people.xml#fox01">cet homme
+                            extraordinaire</rs>. Je suis persuadée que vous n'aurez aucune peine à
+                        le faire convenir de la justice de ma cause vis-à-vis de mes ennemis et par
+                        conséquent de l'injustice de mes adversaires: tout ceci est trop manifeste
+                        et avéré pour pouvoir échapper à des yeux éclairés comme les siens.</p>
+                    <p>Les engagemens ou l'alliance de <persName ref="people.xml#geo02">George
+                            III</persName> au sujet des <rs ref="events.xml#braba01">affaires de
+                            Hollande</rs> avec le <rs ref="people.xml#fri03">roi de Prusse</rs>,
+                        dont il vous a parlé, ont été communiqués à toutes les cours et à moi aussi;
+                        il est connu outre cela qu'il existe des articles secrets entre les deux
+                        rois, qui n'ont pas été communiqués.</p>
+                    <p>Pour ce qui est des <rs ref="events.xml#braba01">affaires de la
+                        Hollande</rs>, je ne m'en suis jamais mêlée qu'une seule fois, et cela
+                        encore par le propre désir et à la réquisition même de monsieur <persName
+                            ref="people.xml#fox01">Fox</persName>, lequel se souviendra aisément que
+                        lorsqu'il était secrétaire d'état, il s'est adressé à <rs
+                            ref="people.xml#kol01">mon ministre à la Haye</rs> pour y faire passer
+                        des propositions de paix; il n'a pas dépendu assurément alors de ma bonne
+                        volonté que le succès n'ait répondu aux désirs du ministère Britannique
+                            d'alors.<note type="editorial">When Fox became Secretary of State for
+                            Foreign affairs in March 1782, he brought about a reconciliation with
+                            Russia, beginning peace talks with France, and even attempting, in June
+                            1782, to negotiate an alliance with Russia based on British acceptance
+                            of Catherine's policies of Armed Neturality and 'free ships free goods'
+                                    (<bibl><author>de Madariaga</author>, <title
+                                    ref="works.xml#russia01">Russia in the Age of Catherine the
+                                    Great</title>, <biblScope unit="pp">p.
+                            387</biblScope></bibl>).</note> Les intérêts de l'<placeName
+                            ref="places.xml#eng01">Angleterre</placeName> par rapport aux <rs
+                            ref="events.xml#braba01">affaires de la Hollande</rs>, et ses liaisons
+                        et traités à ce sujet avec le <rs ref="people.xml#fri03">roi de Prusse</rs>
+                        par conséquent, n'ont rien qui choquent mes intérêts dans ce pays-là. Tout
+                        ce qui est à appréhender présentement consiste uniquement en ce que la
+                            <placeName ref="places.xml#gre01">Grande-Bretagne</placeName> ne se
+                        laisse entraîner par ses engagemens et sous prétexte de ses engagemens au
+                        sujet des <rs ref="event.xml#braba01">affaires de Hollande</rs> dans les
+                        vues et projets aussi diffus que mal digérés et tout-à-fait chimériques du
+                            <rs ref="places.xml#pru01">cabinet Prussien</rs>, dont la vanité et
+                        l'orgueil insoutenable va jusqu'à vouloir dicter des loix aux nations
+                        indépendantes. Le <rs ref="people.xml#fri03">roi de Prusse</rs> s'étant
+                        érigé en dictateur en <placeName ref="places.xml#hol02">Hollande</placeName>
+                        prétend jouer le même rôle partout, sans égard, dis-je, pour l'indépendance
+                        des puissances ni pour leurs engagemens les plus sacrés; déjà le ministère
+                        de <persName ref="people.xml#geo02">George III</persName>, se contentant
+                        d'un rôle secondaire que l'<placeName ref="places.xml#eur01"
+                            >Europe</placeName> n'avait pas vu depuis longtems à l'<placeName
+                            ref="places.xml#eng01">Angleterre</placeName>, s'est laissé guider par
+                        les cabales de la <rs ref="orgs.xml#leag01">ligue Germanique</rs> et les
+                        prétendus intérêts de l'électorat de <placeName ref="places.xml#han01"
+                            >Hanovre</placeName>, et les sous-employés de ce ministère ayant ordre
+                        d'agir en conformité et d'un intime accord avec ceux de la <rs
+                            ref="places.xml#pru01">cour de Berlin</rs>, se sont livrés aux menées
+                        les plus passionnées contre moi, l'amie ancienne et naturelle de la
+                            <placeName ref="places.xml#gre01">Grande-Bretagne</placeName>, témoin la
+                        conduite incendiaire des <persName ref="people.xml#ain01">Ainsly</persName>
+                        et <persName ref="people.xml#die01">Dietz</persName> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName>, des <persName
+                            ref="people.xml#ell01">Elliot</persName> et <persName
+                            ref="people.xml#bor01">Bork</persName> à <placeName
+                            ref="places.xml#cop01">Copenhague</placeName>: ceux-ci ont même quitté
+                        l'emploi de ministre public et de paix pour courir dans le camp animer et
+                        combattre avec les ennemis et les infracteurs de la paix, et se sont permis
+                        des déclarations de guerre et des menaces auxquelles ils n'étaient pas même
+                        autorisés. Toutes ces funestes trames ont été ourdies par la témérité du
+                        comte de <persName ref="people.xml#her02">Hertzberg</persName>, ministre
+                        plus pédant que prudent, en haine de mon alliance avec l'<rs
+                            ref="people.xml#jos01">Empereur</rs> contre les <placeName
+                            ref="places.xml#ott01">Turcs</placeName>, qui cependant ne regardait en
+                        rien l'empire d'<placeName ref="places.xml#ger01">Allemagne</placeName>.</p>
+                    <p>Alliée naturelle et de fait de l'<rs ref="people.xml#jos01">Empereur</rs>
+                        contre les <rs ref="places.xml#ott01">Turcs</rs>, on m'a regardée comme
+                        l'ennemie de la <placeName ref="places.xml#ger01">ligue
+                            Allemande</placeName>.</p>
+                    <p>Ici je ne saurais m'empêcher de faire encore mention de m-r <persName
+                            ref="people.xml#har01">Harris</persName>, qui a eu sa bonne part aux
+                        iniquités contre moi; il n'a jamais pu oublier deux conversations qu'il m'a
+                        demandées et où j'ai eu le malheur de prédire ce qu'il en arriverait des <rs
+                            ref="events.xml#ameri01">affaires d'Amérique</rs>, le priant de le
+                        mander au <rs ref="people.xml#geo02">roi de la Grande-Bretagne</rs> comme
+                        l'avis de son amie la plus sincère et la plus intéressée au bien-être et la
+                        prospérité de ses royaumes. Il serait à souhaiter que les envoyés
+                            d'<placeName ref="places.xml#eng01">Angleterre</placeName> aux cours
+                        étrangères fussent soustraits à toute autre direction et qu'ils n'agissent
+                        nulle part autrement que par les prescriptions directes du ministère
+                        Britannique, afin que le <rs ref="places.xml#pru01">cabinet de Berlin</rs>
+                        ne se servît pas de leurs mains pour tirer les marrons du feu.</p>
+                    <p>Sans l'encouragement donné par des boute-feux au <rs ref="people.xml#gus01"
+                            >roi de Suède</rs>, non seulement celui-ci n'aurait jamais osé penser à
+                        enfreindre tous les engagemens humains tant extérieurs qu'intérieurs de son
+                        royaume, joints aux liens du sang et aux liaisons d'une connaissance
+                        personnelle de laquelle assurément il n'avait pas à se plaindre, mais même
+                        il y aurait longtems que la paix entre la <placeName ref="places.xml#swe01"
+                            >Suède</placeName>, le <placeName ref="places.xml#den01"
+                            >Danemark</placeName> et la <placeName ref="places.xml#rus01"
+                            >Russie</placeName> serait rétablie de telle façon que sa durée aurait
+                        été assurée pour longtems. Ceci a été visible encore en dernier lieu. Les
+                        événemens de l'été passé ayant tourné au désavantage du <rs
+                            ref="people.xml#gus01">roi de Suède</rs>, et se voyant dans des
+                        détresses de plus d'un côté, les fumées guerrières de ce prince, au bout de
+                        trois semaines, commencèrent à se dissiper, et il entrevit la nécessité du
+                        rétablissement de la paix; mais comme on le flatta d'alliance et de secours
+                        de toutes espèces dans le même tems, il prit le parti de s'adresser à
+                        presque toutes les puissances de l'<placeName ref="places.xml#eur01"
+                            >Europe</placeName>, excepté celle de laquelle il pouvait l'obtenir,
+                        offrant à chacune d'elles de se jeter entre ses bras et demandant sa
+                        médiation. Le <placeName ref="places.xml#den01">Danemark</placeName>, la
+                            <placeName ref="places.xml#fra01">France</placeName>, l'<placeName
+                            ref="places.xml#spa01">Espagne</placeName>, la <placeName
+                            ref="places.xml#pru01">Prusse</placeName>, la <placeName
+                            ref="places.xml#gre01">Grande-Bretagne</placeName> et les <placeName
+                            ref="places.xml#hol02">Etats-généraux</placeName> m'offrirent donc à la
+                        fois leur médiation. Je laisse à penser à tout homme sensé si l'intervention
+                        de tant de puissances, par leur situation locale seule, n'apportait pas plus
+                        d'entraves à la confection prompte de la paix, qu’elle ne la favorisait;
+                        mais ce qui montrait bien plus au clair les vraies intentions des inventeurs
+                        de cet incident et combien le moment de la pacification se trouvait éloigné,
+                        c'est la clause que le <rs ref="people.xml#gus01">roi de Suède</rs> y inséra
+                        de ne pouvoir entendre à la paix que conjointement avec la <placeName
+                            ref="places.xml#ott01">Porte Ottomane</placeName>, se livrant à la
+                        fantaisie de faire ainsi de deux choses tout-à-fait différentes et qui
+                        n'avaient aucun rapport, une même cause, ce qui augmentait donc encore
+                        considérablement les difficultés de s'entendre.</p>
+                    <p>Je n'ai pu que donner une même réponse à toutes les puissances: fondée sur la
+                        vérité, la possibilité ou l'impossibilité, j'ai dû décliner un état de
+                        choses et des médiations qui, loin d'accélérer la pacification, ne pouvaient
+                        que l'éloigner; cependant je n'ai point refusé, comme de raison, les bons
+                        offices d'aucune des puissances, et pour en donner une nouvelle preuve, à
+                        l'entrée de monsieur <persName ref="people.xml#fox01">Fox</persName> dans le
+                        ministère vous le prierez de ma part d'employer ceux du <rs
+                            ref="people.xml#geo03">prince-régent</rs> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName> pour l'élargissement
+                        de <rs ref="people.xml#bul01">mon ministre</rs> retenu contre le droit des
+                        gens depuis près de deux ans aux <placeName ref="places.xml#yed01"
+                            >Sept-tours</placeName>.</p>
+                    <p>Monsieur <persName ref="people.xml#fox01">Fox</persName> et le ministère <rs
+                            ref="orgs.xml#whig01">patriotique</rs> auquel je vous ordonne par
+                        celle-ci de vous adresser pourront se convaincre par la facilité que j'ai
+                        montrée ci-devant pour tout ce qui regarde la <placeName
+                            ref="places.xml#gre01">Grande-Bretagne</placeName>, du désir que j'ai eu
+                        toujours non seulement de ne pas m'éloigner, mais même en tous tems de me
+                        rapprocher de leur patrie; ils conviendront aussi que les dispositions du
+                        roi <persName ref="people.xml#geo02">George III</persName> et de son
+                        ministère ne m'ont guère été favorables: témoin les peines que je me suis
+                        données pendant bien des années pour parvenir à la confection d'une alliance
+                        formelle avec la <placeName ref="places.xml#gre01"
+                            >Grande-Bretagne</placeName>, sans jamais y pouvoir réussir.</p>
+                    <p>Vous n'ignorez pas pareillement toutes les entraves qu'a souffertes le traité
+                        de commerce, qu'il ne s'agissait que de renouveler. Dans celui-ci on m'a
+                        refusé ce qu'on avait accordé à la <placeName ref="places.xml#fra01"
+                            >France</placeName>. Enfin ayant perdu toute espérance sur ces deux
+                        traités, j'ai suivi l'exemple que m'a donné l'<placeName
+                            ref="places.xml#eng01">Angleterre</placeName>: j'ai conclu un traité de
+                        commerce avec la <placeName ref="places.xml#fra01">France</placeName>, mais
+                        celui-ci ne m'empêchera jamais de renouveler mes anciennes liaisons avec la
+                            <placeName ref="places.xml#gre01">Grande-Bretagne</placeName> dès que
+                        j'y verrai jour. Il est vrai qu'il m'est impossible de revenir sur les
+                        principes de la <rs ref="events.xml#armed01">neutralité armée</rs>; j'y suis
+                        engagée même par des traités, et la <placeName ref="places.xml#gre01"
+                            >Grande-Bretagne</placeName> ne devrait pas trouver de difficultés à
+                        m'accorder ce dont elle est déjà convenue avec <rs ref="places.xml#fra01">sa
+                            rivale</rs>. Voilà mon premier mot.</p>
+                    <p>Si celui-ci paraît trop difficile, un moyen de s'entendre serait encore de
+                        renouveler simplement le <rs ref="events.xml#anglo01">traité de
+                            commerce</rs> pour autant d'années qu'il a subsisté et de renvoyer
+                        l'explication des articles sujets à discussion à un terme limité, tâchant en
+                        attendant de trouver des moyens conciliatoires pour les arranger au gré des
+                        parties contractantes.<note type="editorial">A <ref
+                                target="events.xml#ang02">new commercial treaty</ref> was not signed
+                            between Russia and Great Britain until 1793, when France declared war on
+                            Britain, bringing Britain and Russia closer together in opposing
+                            France.</note> Vous êtes au fait de ce qui s'est traité avec le s-r
+                            <persName ref="people.xml#fit01">Fitz-Herbert</persName>, qui paraît
+                        avoir eu ordre de ne s'entendre sur rien; j'ai trop de confiance dans les
+                        lumières du nouveau ministère pour lui supposer des vues aussi étroites. Du
+                        reste je me réfère aux ordres que vous recevrez avec cette lettre par le
+                            <orgName ref="orgs.xml#coll01">Collège</orgName> et vous souhaite une
+                        réussite conforme à mes désirs.</p>
+                    <closer><signed><persName ref="people.xml#cat01" type="signature">Catherine</persName>.</signed>
+                        <dateline><placeName ref="places.xml#pet01">A St.-Pétersbourg,</placeName>
+                            <date when-custom="1789-02-28">ce 28 Février
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Woronzow, sir,</salute></opener>
+                    <p>Having received your letter of 19 (30) January in due course, I waited to
+                        respond until the affairs concerning the regency were settled. Since the
+                        post before last finally brought us news that the prince of Wales had
+                        accepted the regency, I am finally able to tell you the following.</p>
+                    <p>Although it has been divulged that it caused misunderstanding between the
+                        prince's friends, and namely Mr. Fox and Mr. Sheridan, the letter from the
+                        prince of Wales to Mr. Pitt created here as everywhere else a sensation most
+                        favourable for the prince. This is truly a brilliant début: whether he
+                        dictated this letter or took such good advice, both one and the other do him
+                        equal honour. To judge by this beginning, he must be supposed to have very
+                        distinguished talents. No one has a greater interest in desiring the Prince
+                        to have these than I, for I am persuaded that veritable merit and a great
+                        character cannot be separated from that love for justice which has as its
+                        foundation the impartiality necessary not to let oneself be swept along by
+                        those of an opposite opinion.</p>
+                    <p>It is this impartiality which I hope for, which I demand, moreover, at this
+                        moment. Great Britain, the regent, and his ministry will never find a more
+                        just cause than mine.</p>
+                    <p>If you have the occasion, you will not fail to make my sentiments known to
+                        the patriotic party, which I regard as that of the friends of Russia on
+                        principle. They are convinced, just as I am, that the true interest of Great
+                        Britain are naturally and intimately tied to those of Russia, and they
+                        regard as political heresy any view contrary to this one.</p>
+                    <p>I recommend most expressly that you cultivate the friendship shown to you by
+                        the dukes of Portland and of Devonshire, and that you take care to encourage
+                        the good dispositions towards you, which Mr. Fox expressed with the
+                        cordiality and candour which characterise the superior talents of that
+                        extraordinary man. I am convinced that you will have no difficulty in making
+                        him concede the justice of my cause vis-à-vis my enemies, and therefore of
+                        my adversaries' injustice. All this is too manifest and proven to possibly
+                        escape enlightened eyes like his.</p>
+                    <p>George III's engagements or alliance with the king of Prussia as regards the
+                        affairs of Holland, of which he spoke with you, have been communicated to
+                        all courts and to me as well. It is also known that there exist secret
+                        articles between the two kings, which have not been communicated.</p>
+                    <p>As for the affairs of Holland, I have only once interfered, and that
+                        according to the desire and request of Mr. Fox himself. He will easily
+                        recall how, when he was secretary of state, he addressed himself to my
+                        minister at The Hague to send peace proposals there. It assuredly was not
+                        for lack of my good will that success did not meet the desires of the
+                        then-ministry of Britain. England's interests as regards the affairs of
+                        Holland, and its resultant relations and treaties with the king of Prussia,
+                        in no way offend my interests in that country. All that is presently to be
+                        feared is that Great Britain will let itself be dragged by its engagments,
+                        and on pretext of its engagements as regards the affairs of Holland, into
+                        the diffuse, poorly digested, and utterly chimerical aims and projects of
+                        the Prussian cabinet, who in their vanity and unsustainable pride go so far
+                        as to want to dictate laws to independent nations. The king of Prussia,
+                        having set himself up as dictator in Holland, intends to do the same
+                        everywhere without regard, I say, for the independence of the powers nor for
+                        their most sacred engagements. Already the ministry of George III, satisfied
+                        with a secondary role which Europe had not seen England play for a long
+                        time, has allowed itself to be guided by the cabals of the Germanic League
+                        and the supposed interests of the Electorate of Hanover. The sub-officials
+                        of this ministry, with orders to act in conformity and in intimate harmony
+                        with those of the court of Berlin, have indulged in the most passionate
+                        intrigues against me, the ancient and natural friend of Great Britain, as
+                        evidenced by the incendiary conduct of Ainsly and Dietz in Constantinople,
+                        of Elliot and Bork in Copenhagen. The latter even abandoned the role of
+                        public minister of peace to run off to a camp to excite and fight with the
+                        enemies and breakers of peace, and they permitted themselves declarations of
+                        war and threats for which they were not even given authorisation. All these
+                        baneful schemes were spun by the temerity of Count Hertzberg, a more
+                        pedantic than prudent minister, out of hate for my alliance with the Emperor
+                        against the Turks, which nonetheless had nothing to do with the German
+                        empire.</p>
+                    <p>As the natural and de facto ally of the Emperor against the Turks, I have
+                        been regarded as the enemy of the German league.</p>
+                    <p>Here I cannot prevent myself from mentioning Mr. Harris as well, who had a
+                        goodly part to play in the iniquities against me. He was never able to
+                        forget two conversations which he requested of me and in which I had the
+                        misfortune of predicting what would come of the American affairs, asking him
+                        to tell the king of Great Britain of it as the opinion of his most sincere
+                        friend and the most interested in the well-being and prosperity of his
+                        kingdoms. It is to be hoped that England's envoys to foreign courts were
+                        removed from all other oversight and acted nowhere other than according to
+                        the direct prescriptions of the British ministry, so that the cabinet of
+                        Berlin cannot use them to do its dirty work.</p>
+                    <p>Had incendiaries not encouraged the king of Sweden, not only would he never
+                        have dared to think of violating all his kingdom's human engagements, both
+                        interior and exterior, along with blood ties and the relations of a personal
+                        acquaintance, of which he assuredly could not complain. But also peace
+                        between Sweden, Denmark, and Russia would have been reestablished in such a
+                        manner that it would have been sure to last a long time. This was evident
+                        even recently. Last summer's events turned to the king of Sweden's
+                        disadvantage, and, seeing that he was distressed on more than one side, the
+                        prince's warlike vapours began to disperse. He glimpsed the necessity of
+                        reestablishing peace. But, as he was being seduced with offers of alliance
+                        and of all sorts of help at the same time, he opted to call on almost all
+                        the powers of Europe except the one he could obtain it from, offering to
+                        cast himself into the embrace of each one of them and asking for their
+                        mediation. Denmark, France, Spain, Prussia, Great Britain, and the Estates
+                        General [Holland] therefore offered me their mediation all at once. I leave
+                        it to any man of good snse to think whether the intervention of so many
+                        powers, by their local situations alone, would not create more obstacles to
+                        prompt peace-making than it would favour it. But what showed much more
+                        clearly the true intentions of the inventors of this incident, and how
+                        distant the time of pacification was--this was the clause inserted by the
+                        king of Sweden that he could not hear of peace except jointly with the
+                        Ottoman Porte. He thus surrendered to the fantasy of turning two completely
+                        different things, and which had not the least relation, into one and the
+                        same cause, which even more considerably increased the difficulties of
+                        coming to an accord.</p>
+                    <p>I could not but give the same response to all the powers: on the basis of
+                        truth, possibility or impossibility, I had to articulate the state of things
+                        and of mediations which, far from hastening pacification, could only
+                        postpone it. Nonetheless I did not refuse, as is reasonable, the good
+                        offices of any of the powers, and to give a new proof of it, when Mr. Fox
+                        enters the ministry you will ask him on my behalf to employ those of the
+                        prince regent in Constantinople for the liberation of my minister, detained
+                        against the law of nations for over two years in the Seven Towers.</p>
+                    <p>Mr. Fox and the patriotic ministry to whom I order you hereby to address
+                        yourself will be convinced by the willingness I have hitherto shown in all
+                        that regards Great Britain, by the desire that I have always had no only not
+                        to distance myself, but even at all times to draw closer to their
+                        fatherland. They will also concede that the dispositions of King George III
+                        and his ministry were hardly favourable to me, witness the trouble I took
+                        for several years to arrive at the creation of a formal alliance with Great
+                        Britain, without ever being able to succeed.</p>
+                    <p>You are also not ignorant of all the hindrances faced by the commercial
+                        treaty, which was merely to be renewed. In this I was refused what had been
+                        granted to France. At last, having lost all hope on those two treaties, I
+                        followed the example given to me by England: I concluded a commercial treaty
+                        with France, but the latter will never prevent me from renewing my former
+                        ties with Great Britain as soon as I see an opportunity. It is true that I
+                        cannot back down on the principles of armed neutrality: I am engaged even by
+                        treaties, and Great Britain should have no difficulties in granting to me
+                        what it already agreed on with its rival. That is my first word.</p>
+                    <p>If this seems too difficult, one way to come to an accord would also be
+                        simply to renew the commercial treaty for as many years as it lasted and to
+                        postpone the discussion of articles subject to disagree for a limited
+                        period, attempting in the meantime to find conciliatory means to settle them
+                        to the satisfaction of the contracting parties. You are abreast of what was
+                        negotiated with Mr. Fitz-Herbert, who seems to have had orders to agree on
+                        nothing. I have too much faith in the perspicacity of the new ministry to
+                        suppose that it would have such narrow views. Otherwise I refer you to the
+                        orders that you will receive with this letter through the College, and I
+                        wish you success commensurate with my desires.</p>
+                    <closer><signed><persName type="signature" ref="people.xml#cat01">Catherine</persName>.</signed>
+                        <dateline><placeName ref="places.xml#pet01">In St. Petersburg,</placeName>
+                            <date when-custom="1789-02-28">this 28 February
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

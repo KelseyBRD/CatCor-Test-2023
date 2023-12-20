@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03588</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03588</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-28">28/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:51:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03588">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1781-09-12">12 sept 1781</date>.</dateline></opener>
+    <p>J’ai reçu aujourd’hui votre No 55, daté de <placeName ref="places.xml#spa02"> Spa</placeName>
+     le 12 (23) auguste. Que Dieu bénisse mon <rs ref="people.xml#gri01">souffre-douleur</rs>, pour cette missive de vingt-quatre
+     pages; je m’attendais à la voir arriver, et je commençais à m’impatienter, tout comme un autre,
+     de n’avoir pas un mot de main propre du <rs ref="people.xml#gri01">souffre-douleur</rs> sur son entrevue à <placeName
+      ref="places.xml#spa02"> Spa</placeName> avec les <persName ref="people.xml#jos01">
+      Joseph</persName>, les <persName ref="people.xml#hen02"> Henri</persName>, que toutes les
+     gazettes m’annonçaient. Il me paraît que je vous vois à table, à la comédie, assis et jasant
+     avec eux, et les badauds de <placeName ref="places.xml#spa02"> Spa</placeName> vous
+     comtemplant.</p>
+   </div>
+   <div>
+    <opener><dateline>Ce <date when-custom="1781-09-15">15 septembre</date>. </dateline></opener>
+    <p>Morgué, puisque les expressions ou tournures <placeName ref="places.xml#tsa01">
+      Tsarsko-Séliques</placeName> vous impatientent, vous devez avoir eu bien des malaises depuis
+     que nous nous connaissons: j’en suis très fâchée, mais comment faire? Vous voyez qu’elles sont
+     commodes, puisque d’autres que moi, s’en servent aussi, témoin ce que vous me dites de
+     l’invitation que vous a faite <persName ref="people.xml#hen02">le prince Henri</persName> de
+     venir à <placeName ref="places.xml#spa02"> Spa</placeName>, où je vois que monseigneur n’a pas
+     perdu son temps.</p>
+    <p>Mais pourquoi vous aviser de parler tant de moi? Il me parait à moi que mon nom devient si
+     vieux que personne ne voudrait plus en entendre parler; que ne parliez-vous d’autre chose? Il
+     est très singulier selon moi que chacun prétende me faire écrire à tour de bras; d’où vient que
+     je ne me plains point quand on ne m’écrit pas? Tenez, <rs ref="people.xml#gri01">souffre-douleur</rs>, à peine ai-je le temps
+     de vous faire une petite lettre de vingt pages, pour laquelle je ne fais ni brouillon ni
+     dépense de belles phrases, dans plusieurs mois-, et on veut que je me tourmente avec des
+     tournures complimenteuses, qui me coûtent du temps et un ennui à mourir. Je n’ai jamais écrit
+      qu’à <persName ref="people.xml#vol01">Voltaire</persName> et à vous sans pester, et tous ces
+     Haga etc. etc. etc. me prennent un tempe infini, tandis que je n’en ai de reste que des bouts
+     très courts, et quand outre cela je vous aurais dit ce que je crois ou j’ai cru savoir, vous
+     n’auriez plus un mot à me répondre, ni à plaider pour vos protégés: puis-je écrire à des gens
+     qu’on s’est efforcé de me représenter comme ne connaissant pins les gens qui les entourent par
+     nom et surnom, ni même de visage. Tout ce que vous me dites me fait voir qu’il y a du <persName
+      ref="people.xml#bas02"> Basile</persName> dans tout cela. Mais comme vous m’accommodez,
+     monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs>! Vous attribuez à la gloutonnerie ma continuation de correspondance
+     avec vous; vous ayez grand tort: je vous écris, parce que votre plaisir et le mien consistent
+     en partie, je suppose, dans cette correspondance, que vous n’êtes ni ne m’avez paru ennuyé des
+     mes lettres et qu’il en est de même des vôtres.</p>
+   </div>
+   <div>
+    <opener><dateline>Ce <date when-custom="1781-09-16">16 septembre</date>. </dateline></opener>
+    <p>Je vous jure que j’ai totalement oublié d’avoir promis au <persName ref="people.xml#hen02">
+      prince Henri</persName> un portrait en grand; est-ce d’après <persName ref="people.xml#ros01">
+      Roslin</persName> qu’il veut l’avoir? Il n’en existe guère d’autre, et il aura là une
+     cuisinière suédoise bien plate, léchée et ignoble. Je vous prie un jour de me faire une liste
+     de ce que je vous ai promis, et de me l’envoyer, afin que je vous tienne parole. Je veux mourir
+     si je me souviens de rien en ce moment. Permettez-moi de corriger une petite erreur dans
+     laquelle vous êtes, lorsque, d’après ce que vos protégés de <placeName ref="places.xml#spa02">
+      Spa</placeName> vous ont dit, vous appelez le petit abc imprimé pour les petites écoles de
+      <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, l’a b c de monsieur <persName
+      ref="people.xml#ale01"> Alexandre:</persName> ce petit a b c a été tiré de celui de monsieur
+      <persName ref="people.xml#ale01"> Alexandre</persName>, mais celui de monsieur <persName
+      ref="people.xml#ale01"> Alexandre</persName> n’est point imprimé encore, et c’est bien autre
+     chose. Je m’en vais prier le comte <persName ref="people.xml#cob02"> Cobenzel</persName> de me
+     donner une copie de sa traduction du petit a b c, et alors, s’il me le donne, mon
+     <rs ref="people.xml#gri01">souffre-douleur</rs> peut espérer de l’аvоіr avec le temps, mais quelle nécessité y a-t-il que vous
+     ayez un a b c, vous qui savez lire et qui lisez en blanc beaucoup mieux que nous tous. Je
+     consentirais très volontiers qu’on défendit de parler de moi, et que les parleurs et imprimeurs
+     fussent tancés partout pour cela, comme ils le sont et l’ont été en <placeName
+      ref="places.xml#fra01">France</placeName>. Je ne sais de quel panégyrique vous voulez parler,
+     et ce que c’est que celui qu’ont publié les maroufles de la <placeName ref="places.xml#whi01"
+      >Russie Blanche</placeName>; je ne me souviens point d’en avoir entendu parler. Eh bien,
+     l’arrivée de la <persName ref="people.xml#fre05"> princesse d’Orange</persName> a augmenté le
+     nombre de vos protégés.</p>
+   </div>
+   <div>
+    <opener>
+     <dateline>A St Pétersbourg, ce <date when-custom="1781-09-27">27 sept</date>.
+     </dateline></opener>
+    <p><rs ref="people.xml#pau01"> Mon fils</rs> et <rs ref="people.xml#mar02"> ma belle-fille</rs>
+     sont partis de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName> pour <placeName
+      ref="places.xml#vie01">Vienne</placeName> et l’<placeName ref="places.xml#ita01"
+      >Italie </placeName>depuis neuf jours, et comme la petite vérole inoculée de mes
+      <rs ref="people.xml#ale01 people.xml#kon01">petits-fils</rs> n’est tombée que vendredi, je suis rentrée samedi avant-hier
+     en ville avec eux! Une des premières choses que j’ai faites, c’est d’aller voir ce que l’amiral
+      <persName ref="people.xml#bor02">Borissof</persName> m’avait apporté d’<placeName
+      ref="places.xml#ita01">Italie</placeName>, et à mon grand étonnement, excepté les <persName
+      ref="people.xml#men01"> Mengs</persName> et quelques autres peu de choses, tout le reste,
+     excepté les <title ref="works.xml#logera01"> loges de Raphaël</title>, sont de vilaines
+     croûtes: j’ai ordonné à <persName ref="people.xml#mar10"> Martinelli</persName>, le peintre qui
+     a soin de ma galerie, de faire choix et d’envoyer les croûtes à l’encan pour le bien de
+     l’hôpital de la ville. Ah, morbleu! il est incroyable comment le <rs ref="people.xml#rei03">
+      divin</rs> s’est laissé tromper cette fois; aussi je vous prie de lui recommander bien
+     expressément de ne plus rien acheter de chez <persName ref="people.xml#jen01"> M.
+      Jenkins</persName>; il est scandaleux de faire passer sous tel ou tel autre nom de peintre des
+     pauvretés de cette force-là; mes gens de l’ <placeName ref="places.xml#her01">
+      hermitage</placeName> ont eu honte de faire entrer avant moi là-bas qui que ce soit, et la
+     consternation sur ces croûtes a été grande à cet effet. Au milieu de tout cela s’élève la porte
+      de <persName ref="people.xml#cle01">Clérisseau</persName>, qui est très bonne à voir; ma
+     coûteuse dans l’exécution: il faudra voir; les tableaux sous glace sont charmants, aussi me les
+     a-t-on montrés les premiers. De quoi vous vous étonnez-vous si fort, de ce que le fils d’un bon
+     citoyen devient un petit débauché? Pourvu qu’il ait de l’esprit je ne désespère pas du jeune
+     homme: cela était dans la nature, c’est le contre-pied du papa; on dit que c’est pour cause de
+     rivalité qu’on a séparé les deux frères. Monsieur de <persName ref="people.xml#ver01">
+      Vérac</persName> appuiera de ma part la note donnée pour <persName ref="people.xml#epi01">
+      mad. d’Epinay</persName>, et je me réjouirai beaucoup d’avoir pu contribuer en quelque chose à
+     l’amélioration de son sort. Tenez, et <persName ref="people.xml#rob01"> Robinet</persName> et
+      <persName ref="people.xml#pac01"> Zuckmantel</persName> et tout cela est très médiocre, ou
+     bien aussi les brouillards et les pluies que nous avons, après avoir eu le plus beau mois de
+     septembre que de mémoire d’homme on se souvient, m’ont offusqué la visière. Ecoutez, à propos
+     du voyage du bonhomme <persName ref="people.xml#oli02"> Olavidès</persName> à <placeName
+      ref="places.xml#fer01">Ferney</placeName>, je vous dirai que je trouve que le monde en général
+     devient infiniment moins sensible au mérite et au grand mérite, qu’il m’a paru que tous ses
+     gredins d’écrivains qui prennent des phrases pour des choses, de la méchanceté pour de l’esprit
+     et des quintessences pour du génie, ne contribuent pas peu à ce genre d’échep. <persName
+      ref="people.xml#vol01">Voltaire</persName>, <persName ref="people.xml#vol01"
+      >Voltaire</persName> même n’a pas tant d’enthousiastes après sa mort que de son vivant.</p>
+    <p>Il n’y a point de <persName ref="people.xml#mar12"> Teresina Maron</persName> entre les
+     vilains envois du <rs ref="people.xml#rei03"> divin</rs>. Je serai très honorée et flattée de
+     la miniature que vous me faites espérer d’avoir de la part de madame la <persName
+      ref="people.xml#fre05"> princesse d’Orange</persName>. Il y a longtemps que la renommée
+     m’annonce son mérite et ses talents, et de quelque façon que je la reçoive, elle me sèra
+     toujours également précieuse. Le prince <persName ref="people.xml#orl01"> Orlof</persName> et
+     ses <rs ref="people.xml#orl03 people.xml#orl06">frères</rs> sont de retour.</p>
+   </div>
+   <div>
+    <opener><dateline>Ce <date when-custom="1781-10-13">13 d’octobre</date>. </dateline></opener>
+    <p>Voici une occasion qui se présente d’envoyer cette lettre, qui en attendait une bonne. Si le
+     cabinet <persName ref="people.xml#bau04"> Baudouin</persName> est encore à avoir, je vous prie
+     de m’en accommoder, et cela pour cause: j’espère que vous avez déjà un nouveau crédit
+      en <placeName ref="places.xml#hol02">Hollande</placeName>. </p>
+    <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01135</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01135</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#holstein"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>I think this is French with Russian rather than Russian with French - Emma</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-08"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01135">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p><seg xml:lang="fr">Feuilleté donc l'almanach <placeName ref="places.xml#ber01"
+                        >Berlin</placeName> pour trouver à cette éternelle Princesse d'<placeName
+                        ref="places.xml#hol03">Holstein</placeName> un mari. Commencez par la maison
+                    d'Anhalt, puis passez dans celle d'<placeName ref="places.xml#hol03"
+                        >Holstein</placeName> etc. Voilà une fille bien difficile à marier. Quand
+                    j'étois à <placeName ref="places.xml#tal01">Revel</placeName>, le père m'a priée
+                    de lui chercher un parti, et je lui ai promis cela, maie je ne veux pas l'avoir
+                    chez moi, cela auroittrop l'air de la cour de Pierre Trois, et au bout du
+                    compte, si nons ne trouverons point d’épouseur dans les pays étrangers, on en
+                    trouvera toujours ici.</seg></p>
+            <closer rend="inline"><seg xml:lang="fr">Saluez mon fils et soyez assuré de mon
+                    amitié.</seg><lb/>
+                <signed><seg xml:lang="fr"><persName ref="people.xml#cat01"
+                        >Catherine.</persName></seg></signed><lb/>
+                <dateline><date when-custom="1766-08-18"><seg xml:lang="fr">Ce 18 d’Août,</seg><lb/>
+                        1766.</date></dateline></closer>
+            <postscript>
+                <p>Графа <persName ref="people.xml#che01">Захара Григорьевича Чернышева</persName>
+                    свадьба обошлась без чинов и без безчинства.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

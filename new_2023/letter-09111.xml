@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09111</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09111</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#crimea"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-29">2023-06-29</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09111"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-06-30">1789 г. 30 июня.</date>
+                </dateline>
+            </opener>
+            <p> На <name type="event" ref="events.xml#ochak01">взятие <placeName ref="places.xml#och01">Очакова</placeName></name>: <hi rend="italic">Усердием и храбростию</hi>. На <name type="event" ref="events.xml#crime02">занятие <placeName ref="places.xml#cri01">Крыма</placeName></name>: <hi rend="italic">Кротостию смирен противник</hi>. На население и устроение <placeName ref="places.xml#eka01">Екатеринославской губернии</placeName>: <hi rend="italic">Степи населил, устроил</hi>.
+                <note type="editorial">
+                    In this note Catherine writes about the projects of three personal portrait medals in the honor of <persName ref="people.xml#pot01">G.A. Potemkin</persName> for his merits. The medals were sent to Potemkin on <date when-custom="1789-09-07">September 7 1789</date> (
+                    <bibl>
+                        <title ref="works.xml#medali01">K istorii sozdaniia trekh medalei v chest' G.A. Potemkina</title>
+                        , <biblScope unit="pp">pp. 68.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

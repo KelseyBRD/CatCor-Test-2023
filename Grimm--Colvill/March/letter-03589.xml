@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03589</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03589</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-28">28/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:51:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03589">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1781-12-11">11 décembre 1781</date>.</dateline></opener>
+   <p>J’ai reçu, il y a trois jours, un No 32 <seg xml:lang="de"> Vortrag</seg>, auquel je m’en vais
+    répondre par celle-ci. Je ne suis pas étonnée du tout qu’avec la meilleure intention du monde
+    pour écrire, vous ne m’ayez pas écrit de trois mois: c’est ainsi que va le monde; n'en ai-je pas
+    fait de même bien des fois, ma &amp; cela il faut pourtant ajouter une remarque, qui est que
+    lorsque je suis moi en course, c’est alors que je vous écris, et que quand vous êtes en course,
+    vous ne m’écrivez pas. Le fait est prouvé, mais la cause je l’ignore, de même que bien d’autres
+    causes. Celles que je sais ou crois savoir, très souvent je les débite à <persName
+     ref="people.xml#ale01"> M. Alexandre</persName>; l’autre jour il a commencé par le tapis de ma
+    chambre et a mené les choses en droite ligne à la figure de la terre, de façon que j’ai été
+    obligée de faire chercher le globe de la bibliothèque de l’ <placeName ref="places.xml#her01">
+     hermitage</placeName>. Oui, mais quand il a été dans la possession de celui-ci,
+    il a furieusement voyagé sur le globe terrestre, et je crois que dans une demi-heure, si je ne
+    me trompe, il en a su à peu près autant que feu M. <persName ref="people.xml#wag01">Wagner</persName> m’en a rabâché pendant
+    plusieurs années. A présent nous sommes dans l’arithmétique, et nous ne nous laissons point
+    convaincre que deux et deux font quatre, si nous ne les avons comptés nous-même. C’est bien <rs
+     ref="people.xml#ale01"> le marmot</rs> le plus questionneur, le plus curieux, le plus avide à
+    faire de nouvelles connaissances que j’aie vu de mes jours. Il entend l’allemand très bien et
+    beaucoup de français et d’anglais; outre cela, il jase comme un perroquet; il aime à conter, à
+    faire la conversation, et si l’on se met à lui conter, il est tout oreille et attention; il a la
+    mémoire fort bonne, et on ne lui donne guère le change; avec cela il est enfant et très enfant,
+    et il n’y a rien de précoce que l’attention, peut-être. Votre journée très chaude de <placeName
+     ref="places.xml#spa02"> Spa</placeName> à <placeName ref="places.xml#aix01">
+     Aix-la-Chapelle</placeName> me fait souvenir que depuis le 6 de décembre nous avons eu deux
+    journées de 21 degrés dessous glace, et lorsque le temps se radoucissait, il était à 17 et 18
+    degrés; or, chez nous cela est compté pour hiver très rude et précoce; il faut que vous sachiez
+    cela, afin que vous ayez consolation en tout cas, s’il fait froid chez vous. Je me réjouis
+    infiniment du bonheur que vous avez eu cet été de voir toutes les principautés possibles et
+    jusqu’à <persName ref="people.xml#cha06"> Charles Théodore</persName>, électeur palatin et duc
+    de <placeName ref="places.xml#bav01"> Bavière</placeName>, dont le plat favori est une assiette
+    de mouches, dont cependant il fait abstinence les vendredis pour se mortifier, parce qu’il les
+    aime trop; les lui avez-vous vu manger?</p>
+   <p>Mais après toutes ces courses sachez que je suis très aise de vous savoir de retour
+    à <placeName ref="places.xml#par01">Paris</placeName> en bonne santé, malgré <rs ref="events.xml#ameri01"> l’aventure arrivée
+     au</rs>
+    <persName ref="people.xml#cor03"> général Cornwallis</persName> le même jour. Je vous demande
+    encore une fois pardon des peines et tracas que je vous ai donnés par la lettre dont le l.-col.
+     <persName ref="people.xml#lan04"> Lanskoï</persName> a été le porteur. Le général <persName
+     ref="people.xml#lan02"> Lanskoï</persName> vous marquera lui-même sa reconnaissance, qu’il sent
+    comme il le doit; il se repent bien d’avoir fait aller son frère à <placeName
+     ref="places.xml#dre01"> Dresde</placeName>; aussi n’est-ce pas lui qui a imaginé ce voyage, ni
+    qui a déterré <persName ref="people.xml#fon01"> Fontaine</persName>, mais bien ceux qui
+    présentement se lavent les mains de toute cette histoire et qui cependant en sont la cause
+    primitive et secondaire. Mais que voulez-vous, on a beau se tuer à crier contre cette confiance
+    dans les aventuriers chez nous de toute espèce; ils y sont si accoutumés qu’ils ne peuvent s’en
+    défaire, et n’y a que la génération à naître qui s’en passera peut-être. L’histoire de celui-ci
+    et la conduite qu’il a eue vis-à-vis du jeune homme près duquel il se trouvait, est bien propre
+    à inspirer delà terreur sur le compte de pareilles gens, par le danger auquel ce <rs
+     ref="people.xml#lan03"> jeune homme</rs> a été exposé et qui peut très bien encore influer sur
+    le reste de sa vie. Il est impossible d’agir avec plus de prudence que vous ne l’avez fait dans
+    toute cette affaire; mais la chanson qui dit que philosophe et savant près de Lucile n’est qu’un
+    ignorant, s’est vérifiée: deux jeunes têtes ont mis en défaut le plus sage arrangement. Comme
+    malgré l’apparition de la <persName ref="people.xml#dul01"> Dulcinée</persName> vous avez trouvé
+    l’ascendant de faire partir le jeune homme et que <placeName ref="places.xml#par01">Paris</placeName> a des attraits pour les
+    demoiselles de la trempe de celle-ci, qu’il faut deux mois et demi pour que nos réponses
+    arrivent, nous osons espérer que le fort de la séparation est fait. Outre cela, pendant cet
+    espace de temps le cousin ne manquera pas de tenir l’oeil à <placeName ref="places.xml#lau01">
+     Lausanne</placeName> sur le jeune homme; il continuera à le gagner et à le soumettre aux
+    volontés de sa famille par la douceur à laquelle il ne saurait résister; il ira avec lui voyager
+    en <placeName ref="places.xml#ita01">Italie</placeName>, ce qui l’empêchera de s’écarter de la voie dans laquelle on souhaite
+    qu’il chemine, et de là ils iront à <placeName ref="places.xml#stu01"> Stuttgard</placeName>, où
+    on tâchera de l’établir. Voilà les réflexions assez plausibles auxquelles on aime mieux à s’en
+    tenir que de conniver au projet de réunion que vous proposez, et auquel il est impossible de
+    consentir, vu les suites qu’il pourrait avoir et vu les reproches qu’on aurait à se faire si ces
+    suites en étaient au désavantage du jeune homme. Ceci a été résolu après quelques variantes, car
+    de le laisser à <placeName ref="places.xml#lau01"> Lausanne</placeName> ou de l’envoyer à
+     <placeName ref="places.xml#str01"> Strasbourg</placeName>, je ne le conseille pas, mais la
+    tournée d’ <placeName ref="places.xml#ita01">Italie</placeName> est très propre à changer les idées du jeune homme. Par cet
+    arrangement vous voyez que la <persName ref="people.xml#dul01"> Dulcinée</persName> vous reste
+    en propre et que vous êtes totalement déchargé du soin de son entretien et de veiller à ses
+    intérêts futurs et présents; en tout cas, si la chose encore n’est pas faite, il est à supposer
+    que quelque bonne âme s’en chargera à votre place.</p>
+   <p>Vous aurez déjà reçu avis du nouveau crédit que vous avez chez messieurs de <orgName
+     ref="orgs.xml#smet01"> Smeth</orgName> à <placeName ref="places.xml#ams01">Amsterdam</placeName>: le <rs ref="people.xml#bez01"
+     > factotum</rs> m’en assure. Vous aurez, quand il vous plaira, une belle quittance signée par
+    moi-même pour l’argent que vous dépensez de chez M. le procureur-général. Voici donc cette
+    réponse que vous désirez dans deux mois et demi. Le lieut.-col. <persName ref="people.xml#lan04"
+     > Lanskoï</persName> arrangera son ultérieur congé avec son cousin, qui a autant et plus envie
+    qu’il aille en <placeName ref="places.xml#ita01">Italie</placeName> que lui-même, parce qu’il espère que la pêche aux camées n’y
+    sera pas mauvaise, et par plusieurs autres raisons trop longues à détailler pour quelqu’un qui
+    oublie le style épistolaire à force d’écrire des pancartes de toute espèce, les unes plus sèches
+    et plus ennuyeuses que les autres.</p>
+   <p>Pour <seg xml:lang="de"> <persName ref="people.xml#len02">Lenchen</persName> aus Dresden</seg>, vous pourriez la recommander
+    à quelque confrère de <placeName ref="places.xml#sax01">Saxe</placeName> pour la ramener à ses parents. L’affaire de <persName
+     ref="people.xml#tey01"> Teissonnière</persName> se finit, et j’aurai égard au souhait de sa
+    famille, si elle vient à moi. Mes pancartes font plus de fortune chez vous que chez moi; vous
+    vous en contentez sans vous ennuyer en les relisant, au lieu qu’en les relisant, moi, souvent je
+    suis tentée de les jeter au feu. La mort de <persName ref="people.xml#mau01"> M. de
+     Maurepas</persName> prive la <placeName ref="places.xml#fra01">France</placeName> d’un homme de mérite et qui a conservé toute
+    son amabilité dans un âge très avancé. <rs ref="people.xml#geo02"> Mon frère le drapier</rs>
+    éprouve les trente-six malheurs d’arlequin; il est beau après cela de ne pas succomber. Voilà
+    tout ce qu’il y a à dire. Adieu, si vous n’êtes pas content de cette réponse, ce n’est pas ma
+    faute, mais la faute de vos projets, qui ont trop de fautes d’orthographe pour nous autres, gens
+    d’ancienne roche, dont le coeur et les intentions sont sans reproche et qui ne pouvons voir de
+    loin les effets des repoussoirs que vous voyez de près. Si le lieut.-colonel <persName
+     ref="people.xml#lan04"> Lanskoï</persName> a laissé chez vous quelques achats, envoyez-les nous
+    le mieux que vous pourrez. </p>
+   <closer><signed rend="inline">Adieu, en voilà assez pour aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

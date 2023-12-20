@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02770</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02770</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:31:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02770">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1772-10-03">3 d'Octobre 1772</date></dateline></opener>
+   <p>Monsieur, Pour satisfaire Votre curiosité au sujet du Héron blanc à
+     plumes couleur de feu, dont j'entendais parler pour la première fois: dès que Votre lettre du
+     28 d'Auguste m'est parvenuë, j'ai envoyée à l'<rs ref="orgs.xml#acad01">Académie des
+      sçiences</rs> demander cet oiseau. 
+     <rs ref="orgs.xml#acad01">L'Académie</rs> m'a réponduë qu'elle ne possédait d'autre oiseau qui ressemblât
+    par son plumage à celui que je demandait que l'oye rouge, dont je Vous envoye la peinture. Le
+    billet, çi joint contient ce que <rs ref="orgs.xml#acad01">l'Académie</rs> en sait sur cet Oiseau. Vous
+    voyés par là que le conte ridicule qui court sur un prétendu article de la <rs ref="events.xml#pruth01">
+     paix</rs> du <placeName ref="places.xml#pru02"> Pruth</placeName> par lequel cet oiseau devait être envoyé
+    tous les ans avec un collier de Diamans au grand seigneur tombe de lui même dans le néant. La
+     <rs ref="events.xml#pruth01">Paix du Pruth</rs> ne contient aucun Article pareil. Toutes les conquêtes
+    faites depuis 1698 furent rendues, toutes les forteresses démolies etc. Votre Baron de
+     <persName ref="people.xml#pel02"> Pellenberg</persName> est
+    arrivée, mais il sera difficile de le plaçer içi tandis qu'il est au service
+     d'<placeName ref="places.xml#spa01"> Espagne</placeName>. Je le défie de servir en même tems deux maîtres
+    dont les Etats sont situés aux deux extrêmités de l'<placeName ref="places.xml#eur01"> Europe</placeName>.
+    L'afinité de la <placeName ref="places.xml#cal02"> Californie</placeName> avec le <placeName ref="places.xml#kam01">
+     Kamtschatka</placeName> ne nous ferons jamais passer pour voisin que sur les globes d'un pied de
+    Diamètre. Conservés moi Votre amitié et portés Vous bien.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+   <postscript><p>Le Flamand ou Flambant, en Russe <hi
+     rend="Emphasis">Krasnoigous</hi>, c'est à dire l'oye rouge. Cet oiseau a été envoyé
+     d'<placeName ref="places.xml#ufa01"> Ouffa</placeName>, petite Ville du gouvernement
+     d'<placeName ref="places.xml#ore01"> Orembourg</placeName>, par mr<persName ref="people.xml#pal02"> Pallas</persName>, Professeur qui Voyage aux dépend de <rs
+     ref="orgs.xml#acad01"> l'Académie</rs> pour la partie de l'Histoire naturelle de l'<placeName
+     ref="places.xml#rus01"> Empire</placeName>, en 1769, à <orgName ref="orgs.xml#acad01">
+     l'Académie</orgName>; et il a été trouvé sur la rivière d'<placeName ref="places.xml#emb01">
+     Emba</placeName> qui tombe dans la <placeName ref="places.xml#cas02"> mer Caspiene</placeName>.
+    Dans la 28e parties de ses Voyages mr <persName ref="people.xml#pal02"> Pallas</persName>
+    en parle en ces termes: </p>
+   <q>'Les oyes rouges que l'on voit sur l'<placeName ref="places.xml#emb01">
+     Emba</placeName> sont en tout semblables aux Flamands ou Flaminges des mers <placeName
+     ref="places.xml#med02"> Méditéranées</placeName> et des Indes orientales.'</q>
+   <p>On trouve une description étenduë de cet oiseau dans le <title ref="works.xml#regnum01 ">Dictionnaire raisoné et universel des animaux</title>, par
+     mr <persName ref="people.xml#bri02"> Brisson</persName>, tom: 2, page 179, et dans son <title ref="works.xml#ornith01"> Ornithologie</title>, tom: 6, page 532.</p></postscript>
+  </body>
+ </text>
+</TEI>

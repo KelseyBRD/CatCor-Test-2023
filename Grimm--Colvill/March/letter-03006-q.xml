@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03006</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03006</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">The letter includes an attached additional note at
+     the end as a letter Catherine II wrote as a funerary missive some 20 days after she wrote the
+     letter.</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter includes an attached additional note at
+     the end as a letter Catherine II wrote as a funerary missive some 20 days after she wrote the
+     letter.</p><p>Two codes for one name - Emma. probably should be one for hero and one for saint??</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-09">09/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:36:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03006">
+  <body>
+   
+   <opener><dateline> A St Pétersbourg, ce <date when-custom="1778-03-02">2, 3 et 4 mars 1778</date>, à
+    différentes reprises.</dateline></opener>
+   <p>Venez, venez, monsieur le baron, il faut que je vous parle. Il fait un grand vent aujourd’hui,
+    et voilà deux de vos lettres, JB 14 u 15, qui demandent réponse. Il est vrai qu’il y en a là
+    deux du <persName ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01"> Prusse</placeName></persName>, trois du
+     <persName ref="people.xml#gus01"> roi dé <placeName ref="places.xml#swe01"> Suède</placeName></persName>, deux de <persName ref="people.xml#vol01">
+    Voltaire</persName>, trois fois autant de Dieu sait qui, toutes de plus ancienne date, arrivées avant les
+    vôtres; mais comme elles ne m’amusent pas, parce qu’il faut les écrire et qu’avec vous je jase,
+    mais n’écris jamais (notez cela, car cela est nouveau), je préfère de m’amuser et de laisser
+    aller ma main, ma plume et ma tête là où il leur plaira d’aller. Allons donc! Bombardez,
+    bombardez-moi de lettres: c’est bien fait, car cela m’amuse, je lis et relis vos pancartes, et
+    je dis: «Comme il me comprend! ah, ciel! il n’y a guère que lui qui me comprenne bien». Si je
+    publie jamais des jours de prière, ce sera pour invoquer le ciel de donner la compréhension du
+    sieur baron à ceux qui ne me comprennent point. J’y ajouterai une litanie expresse pour obtenir
+    encore pour plusieurs votre talent pour le développement. Après tout ce ci-dessus exposé, allez
+    faire des jérémiades, comme en contient votre No 14, sur la prétendue possibilité que je ne
+    trouve un quart d’heure pour vous faire des épîtres.</p>
+   <p>Pour de M. <persName ref="people.xml#ale01"> Alexandre</persName>, il n’en est plus question
+    du tout; c’est tout comme s’il n’y était point; pas un brin d’inquiétude depuis qu’il est au
+    monde; Dieu veuille bénir son esprit comme son corps, c’est un prince qui se porte bien, et puis
+    c’est tout. Vous me dites qu’il a le choix d’imiter le <rs ref="people.xml#ale04 people.xml#nev01">
+     héros ou le saint du même nom</rs>: vous ignorez apparemment que ce saint était on homme à
+    qualités héroiques: il avait du courage, de la fermeté et de l’habileté, ce qui l’éleva
+    au-dessus de ses contemporains, princes appanagés comme lui. Il se fit respecter par les
+    Tartares, la république de <placeName ref="places.xml#nov01"> Novgorod</placeName> se soumit à lui par respect pour ses vertus;
+    il rossa bien les Suédois et on lui déféra le titre de grand-duc, grâce à sa réputation. Or
+    donc, j’opine que M. <persName ref="people.xml#ale01"> Alexandre</persName> n’a point de choix
+    libre, mais selon la faculté de son nez il n’a qu’à suivre ou l’un ou l’autre, et qu’il ne
+    pourra manquer d’être toujours un joli garçon. Il n’y a qu’une chose que j’appréhende pour lui:
+    je vous la dirai un jour de bouche; à bon nez salut. Les raisonnements de vos fées sont trop
+    flatteurs pour moi, pour que j’y réponde. Mon coeur me dit que ce ne sera pas le premier, mais
+    le second qui me ressemblera (et si cela se vérifie, j’écrirai d’avance sa vie et ses faits),
+    qui n’aura rien d’analogue avec mon bon frère aux jours de jeûne et de pénitence, mais aussi de
+    quoi vous avisez-vous de croire qu’il veuille jeter du nerf dans les esprits? U est parti du
+    pied qui fait baisser les caquets; c’est un bon citoyen, et puis c’est tout; vous connaissez ma
+    profonde vénération pour ce terme: dès qu’il est prononcé, il faut se taire. Pour <persName
+     ref="people.xml#fra01"> Franklin</persName>, il devait être ce qu’il est si la nature avait
+    privé son maître un nez qu’il lui fallait pour faire de lui son ami de coeur. En voilà d’un
+    autre, n’est-ce pas? <seg xml:lang="de"> Dieses ist eine Prüfung des Vorhergehenden ; aber, um
+     Gottes Willen, rathen Sie doch dem achtzigjährigen Grieß zu Paris zu bleiben ; was soll er denn
+     hier machen ? er wird vor Kälte, lange Zeit und üble Wege hier oder unterwegens umkommen.</seg>
+    Cela vaudrait bien la visite du <persName ref="people.xml#gus01"> R. de S</persName>.
+    Souvenez-vous de la belle peur que j’en avais. Vous pourriez, entre autres raisons, lui
+    représenter que <rs ref="people.xml#cat01"> Cateau</rs> n’est bonne qu’à être vue de loin. J’ai
+    beaucoup ri de ce <rs ref="people.xml#cat01"> Cateau</rs>. Mais à propos de cela, on a fait
+    en <placeName ref="places.xml#hol02"> Hollande</placeName> une médaille où <persName ref="people.xml#mar01"> l’Imp.
+     Reine</persName> et <persName ref="people.xml#cat01"> l’Imp. de <placeName ref="places.xml#rus01">
+    Russie</placeName></persName> sont ensemble dans un carrosse, le <persName ref="people.xml#fre01"> R.
+    de <placeName ref="places.xml#pru01"> Prusse</placeName></persName> sur le siège du cocher; on leur demande où elles vont, et
+    elles répondent: où il plaît au cocher de nous mener. J’ai trouvé cela très drôle; il n’y manque
+    que la vérité ou la musique d’un opéra comique français: la première pour que cela fût piquant
+    ou la seconde pour que ce fût une platitude complète.</p>
+   <p>Puisque les pointes de <persName ref="people.xml#dor02"> Dorât</persName> sont comme la
+    musique susdite, je mettrai ses oeuvres à côté de celles de <persName ref="people.xml#har02"> M.
+     de Laharpe</persName> dans le coin d’où je ne tire jamais des livres. Laissez la donna
+     <persName ref="people.xml#mar09"> Maria</persName> et son bras garni de reliques; il faudra
+    parler autant de l’une que de l’autre, mais que deviendra mon <persName ref="people.xml#bra05">
+     duc de Bragance</persName>? Dites-moi cela un jour.</p>
+   <p>La douzième et dernière page de votre No 14 est un bavardage tout pur; je n’y répondrai point;
+    il y a de certains points sur lesquels, quand vous commencez, vous ne finissez jamais; je vous
+    en avertis, c’est un service d’ami que je vous rends. A propos de la mort de <persName
+     ref="people.xml#unknown"> l’homme</persName> qui vous taillait vos plumes et du deuil que vous
+    pourriez en prendre, il m’est venu dans l’esprit de vous parler de l’habit national que mon bon
+    frère et voisin va introduire, qui sera, à ce qu’on dit, composé, mi-caleçon et mi-manteau, noir
+    et ponceau; je crois que cela sera joli: de ce joli avec lequel vous prétendez que de certaines
+    gens sont brouillées. <seg xml:lang="de"> Aber, mein Gott, was haben Sie den immer so viel zu
+     Thun und zu speculiren über mein Thun und Machen</seg> ? Le service de Sèvre que j’ai commandé
+    est pour le premier rongeur de doigts de l’univers, pour mon cher et bien-aimé prince <persName
+     ref="people.xml#pot01"> Potemkine</persName>, et pour qu’il soit plus beau, j’ai dit qu’il est
+    pour moi. Je vous conseille de vous appliquer à la composition des oraisons funèbres: celle que
+    vous me faites de <persName ref="people.xml#lek01"> Lekain</persName> par sa sublimité m’en a
+    fait naître l’idée. Je vous envoie une missive pour le seigneur patriarche, avec laquelle
+    j’espère que vous pourrez vous présenter en toute sûreté; mais ne lui montrez aucune des
+    miennes; notre style n’est bon que pour nous et pour les commis des postes, qui souvent pourtant
+    y sont un peu attrapés, n’entendant rien ou autrement que nous. </p>
+   <p><seg xml:lang="en"> Milord</seg>
+    <persName ref="people.xml#pit02"> Chatam</persName> est on tapageur; tenez-vous sur vos gardes,
+    de même que moi vis-à-vis de mes marabouts qui ressemblent à l'armée innombrable des vrais
+    croyants; je voudrais moi qu’ils vinssent tous au même jour, à la même heure et dans le même
+    champ, selon la convocation envoyée à eux par le <persName ref="people.xml#abd01"> suprême
+     calife Abdoul Hamet</persName>, mon très cher frère. Pour les indigestions d’<placeName ref="places.xml#ger01">
+    Allemagne,</placeName> il faudra, pour les finir, du temps et des <seg xml:lang="de"> Paßgänger</seg>, les
+    tous parlant du nez, répétant et digérant chaque parole et syllabe et signant surtout moins vite
+    que le très haut et très puissant seigneur <persName ref="people.xml#cha06"> Charles
+     Théodore</persName>. Mais que dites-vous de sti-là ? Jusqu’ici on avait cru que quand deux
+    personnes étaient contentes d’avoir fini leurs démêlés, les autres n’y avaient que faire; ici
+    l’on pourrait chanter la chanson: </p>
+   <q>«Bonhomme, tu n’es pas le maître dans la maison quand nous y sommes». </q>
+  <closer> <signed rend="inline">Bonjour et bonsoir. Il vous faudra la patience du peuple de Dieu pendant
+    la captivité de Babylone pour lire le bavardage de ces huit pages.</signed>
+   <dateline> Ce <date when-custom="1776-03-24">24 mars</date>. </dateline></closer>
+  <postscript  xml:lang="de"> <p xml:lang="fr">La missive du sieur patriarche a retardé
+    celle-ci jusqu’à ce jour; la voilà.</p><p>Aber wenn Sie wüsten was für eine große 16 jährige Prüfung wir
+     vorgenommen haben! Ja das kann mann wohl sagen, das ist eine Prüfung die nicht Vielen im Kopf
+     kommen wird und nicht Jeder auch thun kann, Mangel des Stoffes oder anderer Urkunden wegen;
+     unsere ist so reich das einem bei der <seg xml:lang="en">Recapitulation</seg> Langeweile
+     werden kann. Warten Sie ein wenig; Sie werden etwas davon schon erfahren; das ist eine Vorrede,
+     genannt Prüfung, ein kleines exemplichen von Thun und Laßen, von Sagen, Schreiben und
+     Schweigen, vor gute Nasenschnuptoback. </p></postscript>
+  </body>
+ </text>
+</TEI>

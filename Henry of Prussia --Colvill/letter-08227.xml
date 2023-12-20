@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08227</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08227</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#greeting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:21:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08227">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersburg</placeName> ce <date
+      when-custom="1773-01-07">7 janvier 1773</date>.</dateline></opener>
+   <p>Le jour anniversaire de la naissance de V. A. R. est une époque si intéressante pour moi, que
+    je ne saurais la laisser passer sans renouveler à V. A. R. les assurances de la part sincère que
+    je prends à tout ce qui La regarde. Je Lui répète aujourd'hui par écrit les vœux, que je Lui ai
+    dits de bouche <rs ref="events.xml#henry01"> il y a deux ans</rs> avec beaucoup plus de plaisir,
+    que je faisais pour Son bonheur et Sa prospérité inaltérable. Voilà ce que mon amitié constante
+    et mon estime pour Elle me dicte, c'est aussi avec ces sentiments- là que je ne cesserai de
+    me dire...</p>
+  </body>
+ </text>
+</TEI>

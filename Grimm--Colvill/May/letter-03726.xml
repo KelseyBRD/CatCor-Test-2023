@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03726</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03726</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:06:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03726">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1796-03-18">18 mars 1796</date>.</dateline></opener>
+   <p>Voici le billet-doux d’une <rs ref="people.xml#cha23"> dame</rs> qui se recommande aux aumônes
+    des inconnus. Le Pont-Neuf va son train, et vous recommande aux soins de la Providence. Je n’ai
+    que cela à vous dire en vous remerciant pour le bulletin № 60 et son contenu: le Gascon et son
+    cadedis (?) est charmant.  </p>
+   <p>J’ai plié cette feuille dans tous les sens pour y faire entrer le placet de la dame, et n’ai
+    pu y réussir; voilà pourquoi elle est ainsi chiffonnée; j’ai donc trouvé à propos de la déchirer
+    en deux. Voici une moitié, l’antre servira de couvert. C’est une économie.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03003</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03003</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-09">09/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:35:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03003">
+  <body>
+ 
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> A St Pétersbourg</placeName>, ce <date when-custom="1778-02-02">2 février 1778</date>.</dateline></opener>
+   <p>Je me hâte de vous écrire, parce que le temps presse; d’ici au carême, dans quinze jours à peu
+    près, il n’y aura que onze mascarades, sans compter les dîners et les soupers auquels je suis
+    invitée. Aussi, crainte de rester sur le carreau, j’ai commandé hier mon épitaphe; j’ai dit
+    qu’on se hâte, parce que je veux avoir le plaisir de la corriger; en attendant, pour m’amuser je
+    l’ai commencée moi-même, calquée sur celle de sir <persName ref="people.xml#tho01"> Tom
+     Anderson</persName>. Voilà par exemple de quoi vous ne tous doutiez pas en griffonnant votre No
+    13, auquel celle-ci répond.</p>
+   <p>Or, pourquoi glosez-vous tant sur le nom de <persName ref="people.xml#ale01"> M.
+     Alexandre</persName>? est-ce que chacun n’a pas le sien? Par exemple, <persName
+     ref="people.xml#ale09"> le D. de W</persName>. ne le porte-t-il pas? voilà bien du bruit pour
+    une omelette. Qu’on m’en donne un autre, au bout de l’an je me mettrai à faire des horoscopes.
+    Mais laissons-là ces bagatelles, et parlons d’affaires plus importantes. A propos d’épitaphe et
+    de la ville qui m’a servi de berceau, je me suis souvenue que <persName ref="people.xml#car01">
+     Mad. Cardel</persName> recevait souvent la visite, les dimanches surtout, de <persName
+     ref="people.xml#mau02"> M. de Mauclerc</persName>, ministre de la parole de Dieu à l’église du
+    château; ce <persName ref="people.xml#mau02">  M. de Mauclerc</persName> était beau-fils de
+     <persName ref="people.xml#rap02"> Rapin Thoiras</persName>, l’historien, et même je crois qu’il
+    a été l’éditeur de son histoire d’<placeName ref="places.xml#eng01"> Angleterre</placeName>. Cet homme-là était l’ami et le
+    conseil de <persName ref="people.xml#car01"> Mad. Cardel</persName>; le <persName
+     ref="people.xml#rap03"> fils de <persName ref="people.xml#rap02"> Rapin Thoiras</persName></persName>, beau-frère de <persName
+     ref="people.xml#mau02"> Mauclerc</persName>, <seg xml:lang="de">
+     Regierungs Rath</seg> au même endroit, et tout cela vivait bras dessus, bras dessous avec
+     <persName ref="people.xml#car01"> Mad. Cardel</persName>, et s’intéressait beaucoup à son
+    élève. Pour <persName ref="people.xml#wag01"> M. Wagner</persName>, il n’avait aucune sorte de
+    liaison avec ces hérésiarques, qui ne savaient point sa langue; il ignorait de même la leur;
+     <persName ref="people.xml#car01"> Mad. Cardel</persName> seule savait presque tout sans avoir
+    rien appris, à peu près comme son élève. Laissez là les marabouts, leurs dits et leurs faits:
+    ils ne me distrairont pas plus que les réponses que je fais à vos lettres; la législomanie va
+    son petit train, et si sa sécheresse des matières qu’elle repasse <seg xml:lang="de"> mit einem
+     Bletteisen</seg> ne dessèche point le cerveau impérial, sachez qu’il ne desséchera ni ne
+    désertera jamais.</p>
+   <p>Pour l’affaire de la succession de la <placeName ref="places.xml#bav01"> Bavière</placeName>,
+    je ne connais que vous au monde qui puissiez l’applanir; le ciel vous fit naître avec un esprit
+    conciliateur, capable de digérer les soupes aux pois les plus épaisses. Vous me dites que vous
+    parlez de moi avec le <persName ref="people.xml#bra05"> duc de Bragance</persName>: lui
+    parlez-vous aussi de ma <rs ref="people.xml#mar09"> chère soeur, sa cousine</rs>, et qu’en
+    dit-il? Je vous impose silence, de même qu’à moi, sur le <name ref="events.xml#ameri01"
+     >grand spectacle de l’<placeName ref="places.xml#ame01"> Amérique</placeName></name>, parce que l’existence est en
+    contradiction avec la substance, le naturel avec le métier, l’âme avec le corps etc. etc. etc.
+    Je ne veux plus entendre non plus parler de l’écritoire, de cette grande importante affaire,
+    jusqu’à ce qu’elle soit arrivée. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien, monsieur le baron, j’allais dire de <rs
+     ref="works.xml#candid01"> Tonderten Trunck</rs>, mais je me suis retenue comme de raison.</signed></closer>
+  </body>
+ </text>
+</TEI>

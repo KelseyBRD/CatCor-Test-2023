@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00098</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00098</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#selfportraits"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-05-26">26 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, metadata.</p>
+            </change>
+            <change>
+                <date when="2014-05-28">29 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Tagging, translation.</p>
+            </change>
+            <change>
+                <date when="2014-07-15">15 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Text verified against manuscript.</p>
+            </change>
+            <change>
+                <date when="2014-09-15">15 September 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00098">
+                <body>
+                    <opener>
+                        <dateline>Ce <date when-custom="1789-01-29">29. Janvier
+                            1789.</date></dateline>
+                    </opener>
+                    <p>Vous etes assurement, Monsieur, le premier médecin qui aye demandé à
+                        quelqu'un la permission de l'envoyer dans l'autre monde. Vous faites plus,
+                        vous l'accompagnés aux <placeName ref="places.xml#ely01">champs
+                            Elisées</placeName>; je ne demanderois pas mieux que d'y aller en aussi
+                        bonne compagnie à condition toute fois d'y choisir ma société qui pourroit
+                        devenir singulièrement amusante.<note type="editorial">Zimmermann painted a
+                            very flattering portrait of Catherine in his letter of 14 November 1788
+                                    (<bibl><title ref="works.xml#briefw02">Der Briefwechsel zwischen
+                                    der Kaiserin Katharina II. von Russland und Joh. Georg
+                                    Zimmermann</title>, <biblScope unit="pp">pp. 80-82
+                                </biblScope></bibl>). Framing his praise as a 'dialogue of the
+                            dead', Zimmermann played to Catherine's usual insistence that praise
+                            should be given only by posterity (she refused, for example, to have
+                            statues of herself erected or histories of her reign written during her
+                            lifetime). Zimmermann thus tried to make his praise doubly flattering,
+                            as it was supposedly the disinterested judgment of posterity rather than
+                            the benefit-seeking flattery of contemporaries. In the next paragraph,
+                            Catherine answers his praise almost point by point, generally agreeing
+                            with his assessment, if presenting it more modestly. On the genre of the
+                            'dialogue of the dead' in the eighteenth century, see <bibl><author>Lise
+                                    Andries</author>, <title level="a" ref="works.xml#querel01"
+                                    >'Querelles et dialogues des morts au XVIIIe
+                                siècle'</title></bibl>.</note> La harangue que vous m'adressez, je
+                        vous l'avoue, seroit assés de mon gout, si je pouvois être bien sure qu'elle
+                        n'est pas trop flatteuse. Voici à peu près ce que j'aurois à y repondre: si
+                        mon siècle m'a craint, il a eu grand tort, je n'ai jamais voulu inspirer de
+                        la terreur à personne, j'aurois souhaité d'être aimée et estimée ce que je
+                        vaux et rien de plus. J'ai toujours pensé, qu'on me calomniait, parceque
+                        l'on ne me comprenoit pas. J'ai vu beaucoup de gens qui avoient infiniment
+                        plus d'esprit que moi. Je n'ai jamais ni haï ni envié personne. Mon désir et
+                        mon plaisir auroit eté de faire des heureux, mais comme chaqu'un ne sauroit
+                        l'être que selon son caractère ou sa fantaisie ou entendement, mes souhaits
+                        souvent ont trouvé en ceci des obstacles, auxquels je ne comprenois rien.
+                        Mon ambition assurement n'étoit pas méchante, mais peutêtre ai-je trop
+                        entrepris que de croire les hommes susceptibles à devenir raisonnables,
+                        justes et heureux. la race humaine en général penche au déraisonnement, à
+                        l'injustice, avec cela l'on ne sauroit guère être heureux. Si elle écoutoit
+                        la raison, la justice, on n'auroit pas besoin de nous autres, pour le
+                        bonheur comme je l'ai dit cidessus chaqu'un l'entend à sa manière. J'ai fait
+                        cas de la philosophie, parceque mon âme a toujours eté singulièrement
+                        républicaine; je conviens que c'est peutêtre un singulier contraste que
+                        cette trempe d'âme avec le pouvoir illimité de ma place, mais aussi personne
+                        en <placeName ref="places.xml#rus01">Russie</placeName> ne dira que j'en aye
+                            abusée.<note type="editorial">On the implications of this frequent
+                            self-characterisation of Catherine's, see <bibl><author>David M.
+                                    Griffiths</author>, <title level="a" ref="works.xml#cather04"
+                                    >'Catherine II: The Republican Empress'</title></bibl>.</note>
+                        J'aime les beaux arts par pure inclination. Pour mes écrits je les regarde
+                        comme peu de chose; j'ai aimé à faire des essais en différents genres. Il me
+                        semble que tout ce que j'ai fait est assés médiocre, aussi ni ai-je jamais
+                        attaché aucune importance, passé l'amusement. Pour ma conduite politique
+                        j'ai taché de suivre les plans qui m'ont paru les plus utiles pour mon pays
+                        et les plus supportables aux autres. Si j'en avois connu de meilleurs, je
+                        les aurois adopté; l'<placeName ref="places.xml#eur01">Europe</placeName> a
+                        eu tort de s'allarmer de mes desseins, auxquels au contraire elle ne pouvoit
+                        que gagner. Si j'ai etée payée d'ingratitudes, du moins personne ne
+                        dira-t-il que j'aie manqué de reconnoissance, souvent je me suis vengée de
+                        mes ennemis en leurs faisant du bien ou en les pardonnant. L'humanité en
+                        général a eue en moi un ami qui ne s'est démenti en aucune occasion. Ici
+                        finit le dialogue des morts, revenons aux vivans. <persName
+                            ref="people.xml#tro01">Trousson</persName> est allé sur la fin du <name
+                            type="event" ref="events.xml#ochak01">siège</name> d'<placeName
+                            ref="places.xml#och01">Oczakof</placeName> à l'armée. Voici ce que j'ai
+                        déterré à son sujet. Il m'a écrit deux lettres pour me dire qu'il étoit
+                        oublié, mais il me parut que l'<orgName ref="orgs.xml#vlad01">ordre de St.
+                            Wladimir</orgName> et différentes gratifications qu'il a obtenu
+                        prouvoient le contraire; il se peut qu'il aye eté employé autrement qu'il ne
+                        le désiroit; ceux qui sont venus peutêtre après lui, l'ont etés à d'autres
+                        ouvrages, qui lui auront paru plus brillants ou plus de son gout. Cela se
+                        peut, mais il est sur, que jusqu'au moment qu'il est parti pour l'armée, il
+                        est resté employé ici à <placeName ref="places.xml#pet01"
+                            >Petersbourg</placeName> à l'ouvrage<note type="editorial">Embankment
+                            works and the construction of the Catherine Canal (today Griboedov
+                            Canal) in St. Petersburg.</note> que le feu Lieut. Gén. <persName
+                            ref="people.xml#bau01">Bauer</persName> lui avoit donné, et qui n'est
+                        pas achevé encore. Les Hollandois qui ont excité son émulation, ont eue
+                        leurs besogne dans différens coins de cet immense <rs ref="places.xml#rus01"
+                            >empire</rs>, et comme ils avoient du chemin à faire et des difficultés
+                        à vaincre, ils ont jouis à proportion de leurs peines et de leurs rangs de
+                        différens émolumens, auxquels le Cap. <persName ref="people.xml#tro01"
+                            >Trousson</persName> ne paroissoit pas avoir les mêmes droits. Mr.
+                            <persName ref="people.xml#luc02">de Luc</persName>, votre ami, dont vous
+                        me parlés et qui s'intéresse de même que vous au sort de cet officier, pour
+                        lequel je tacherai de faire ce qu'il apartiendra, m'est connu par ses <title
+                            ref="works.xml#lettre02">lettres sur la Suisse adressées à la Reine
+                            d'Angleterre</title>. Je ne sais s'il est lecteur en titre ou en effet
+                        de <rs ref="people.xml#cha02">S. M.</rs>, mais dans ce dernier cas je
+                        souhaite de tout mon coeur qu'il puisse réussir par ses lectures à diminuer,
+                        à distraire, à calmer le chagrin, dont le coeur et l'esprit de la <rs
+                            ref="people.xml#cha02">Reine</rs> doit être navré sur l'état de la santé
+                        du <rs ref="people.xml#geo02">Roi</rs>.<note type="editorial">In the winter
+                            of 1788-89, <ref target="people.xml#geo02">George III</ref> suffered a
+                            bout of madness that sparked the <ref target="events.xml#regen01"
+                                >Regency Crisis</ref> in Great Britain.</note></p>
+                    <p>Pour ce qui regarde le Marquis de <persName ref="people.xml#luc01"
+                            >Luchesini</persName> qui vous a prié nouvellement à ce que vous me
+                        dites „de lui apprendre à mériter mes bontés" vous pouvés, Monsieur, lui
+                        dire avec franchise: que ce ne sera pas assurement en nuisant à mes affaires
+                        qu'il y parviendra; en général il est assés singulier, que le Marquis
+                            <persName ref="people.xml#luc01">Luchesini</persName>, l'ami du <rs
+                            ref="people.xml#fre01">feu Roy</rs>, et pour lequel tous ceux qui
+                        rendoient justice aux vertus de <rs ref="people.xml#fre01">ce Grand
+                            Prince</rs>, étoit favorablement prévenu, aye voulu débuter dans la
+                        carrière politique par la mauvaise besogne, à laquelle il se laisse
+                        employer, et qui ne va pas à moins qu'à détruire<note type="editorial">The
+                            source edition reads "d'étruire".</note> un édifiçe, à l'érection duquel
+                        le <rs ref="people.xml#fre01">feu Roy</rs> a eu la part la plus
+                            directe.<note type="editorial">Quite unaware of Catherine's distaste for
+                            Lucchesini, Zimmermann praised "the infinitely cultivated mind of this
+                            amiable Italian and his gentleness" in his letter of 14 November
+                                    (<bibl><title ref="works.xml#briefw02">Der Briefwechsel zwischen
+                                    der Kaiserin Katharina II. von Russland und Joh. Georg
+                                    Zimmermann</title>, <biblScope unit="pp">p. 83
+                                </biblScope></bibl>). At the time, Lucchesini had been named
+                            Prussian envoy to St. Petersburg, but he never arrived because he became
+                            too involved in opposing Russian influence in Warsaw. The 'édifiçe' to
+                            which Catherine refers is the status quo in Poland since the <ref
+                                target="events.xml#partition01">First Partition of
+                            1772</ref>.</note> Il est bien plus étrange encore que la <rs
+                            ref="places.xml#pru01">cour de Berlin</rs> se fasse illusion jusque là
+                        qu'elle prétende en nuisant à mes intérets en montrant en toute chose une
+                        partialité passionnée pour mes ennemis et leurs très injuste cause, en même
+                        tems elle tache de me persuader qu'elle prend le chemin de gagner mon amitié
+                        et d'obtenir mon alliance encore.<note type="textual">In the Russian
+                            translation published in 1803, this passage from 'Pour ce qui regarde'
+                            and the subsequent phrase 'du Danemark pour les menaces de M<hi
+                                rend="sup">r</hi>: Elliot' were left out: the editors noted 'Здесь
+                            следует место политическаго содержания, которое по многим причнам
+                            выпущено, особливо потому, что о некоторых еще в жизни находящихся
+                            особах говорится весьма сильными выражениями, кои в тогдашнее военное
+                            время были изъяснительны' (<bibl><title ref="works.xml#filoso01"
+                                    >Filosoficheskaya i politicheskaya perepiska imperatritsy
+                                    Ekateriny II c Doktorom Zimmermanom</title>, <biblScope unit="pp">p. 152</biblScope></bibl>).</note> Vis à vis de moi
+                        ses raisons la ne sauroient être ni engageantes ni convaincantes; les
+                        exemples de la soumission de la <placeName ref="places.xml#hol02"
+                            >Holland</placeName> aux troupes Prussiennes, de la complaisance du
+                            <placeName ref="places.xml#den01">Danemark</placeName> pour les menaces
+                        de Mr. <persName ref="people.xml#ell01">Elliot</persName> ne trace point une
+                        route convenable à la <placeName ref="places.xml#rus01">Russie</placeName>,
+                        pour que celle ci puisse trouver honorable de se prêter au trio.<note
+                            type="editorial">These events resulted from the <ref
+                                target="events.xml#tripl01">Triple Alliance</ref> between Britain,
+                            Prussia, and the United Provinces: they strengthened Sweden's position
+                            against Russia in Catherine's ongoing <ref target="events.xml#swedi02"
+                                >Russo-Swedish War</ref> (<bibl><author>Isabel de
+                                Madariaga</author>, <title ref="works.xml#russia01">Russia in the
+                                    Age of Catherine the Great</title>, <biblScope unit="pp">pp.
+                                    402-403</biblScope></bibl>).</note> On n'a pas oublié encore
+                        chés nous que dans la <name type="event" ref="events.xml#seven01">guerre de
+                            sept ans</name> malgré le génie supérieur du <rs ref="people.xml#fre01"
+                            >Roy de Prusse</rs>, les trésors prodigués de l'<placeName
+                            ref="places.xml#eng01">Angleterre</placeName>, les héros<note
+                            type="editorial">Probably an allusion to <ref target="people.xml#hen02"
+                                >Henry of Prussia</ref>, Frederick's brother and Catherine's
+                            erstwhile correspondent and two-time visitor.</note> qui commandoient
+                        les armées le <rs ref="people.xml#fre01">feu Roy</rs> n'aye vu envahie
+                        jusqu'à sa <rs ref="places.xml#ber01">capitale</rs>, et que ce fut <persName
+                            ref="people.xml#cat01">Catherine II.</persName> qui en 1762 a eu
+                        l'honneur de rendre à <rs ref="people.xml#fre01">ce Prince</rs> le
+                            <placeName ref="places.xml#pru01">Royaume de Prusse</placeName> et une
+                        bonne partie de la <placeName ref="places.xml#pom01">Pomeranie</placeName>,
+                        province que <persName ref="people.xml#pet01">Pierre I.</persName> fit avoir
+                        à la maison de Brandebourg.<note type="editorial">The Russian translation of
+                            1803 left out the passage, 'province que Pierre I. fit avoir a la maison
+                            de Brandebourg' (<bibl><title ref="works.xml#filoso01">Filosoficheskaya
+                                    i politicheskaya perepiska imperatritsy Ekateriny II c Doktorom
+                                    Zimmermanom</title>, <biblScope unit="pp">p.
+                                153</biblScope></bibl>).</note><note type="editorial">In fact, it
+                            was Catherine's extremely pro-Prussian husband Peter III who, despite
+                            Russia's brilliant successes in the Seven Years' War (including an entry
+                            into Berlin, the occupation of East Prussia, and the taking of Kolberg
+                            fortress in Prussian Pomerania), completely reversed Empress Elizabeth's
+                            policy upon her death in December 1761. Drafted by the Prussian
+                            representative at the peace talks, treaty between Russia and Prussia,
+                            concluded on 24 April/5 May 1762, returned all Russia's conquests,
+                            despite Frederick II's initial willingness to cede East Prussia
+                                    (<bibl><author>Isabel de Madariaga</author>, <title
+                                    ref="works.xml#russia01">Russia in the Age of Catherine the
+                                    Great</title>, <biblScope unit="pp">pp.
+                            23-24</biblScope></bibl>). Prussia acquired Swedish Pomerania in 1720,
+                            as a result of the Treaties of Stockholm that contributed to ending the
+                                <ref target="events.xml#gre01">Great Northern War</ref>.</note></p>
+                    <p>Par votre lettre du 16. Janvier que je viens de recevoir je vois la joye que
+                        vous a causé, Monsieur, la <name type="event" ref="events.xml#ochak01"
+                            >prise</name> d'<placeName ref="places.xml#och01">Oczakof</placeName>;
+                        le Maréchal Prince <persName ref="people.xml#pot01">Potemkin</persName>
+                        comme de raison a tenté toutes les voyes avant que d'en venir à
+                            l'assaut.<note type="textual">This second segment of the letter has been
+                            repeatedly published as addressed to the <ref target="people.xml#lig01"
+                                >Prince de Ligne</ref>, based on the corrected autograph draft
+                            located at RGADA, F. 5, op. 1, no. 145, ff. 117recto-118recto and
+                            printed in <bibl><title ref="works.xml#sborni01">SIRIO</title>,
+                                    <biblScope unit="vol">xlii</biblScope>, <biblScope unit="pp">pp.
+                                    3-5</biblScope></bibl>. It accordingly found its way into the
+                            recent scholarly edition of Catherine's correspondence with de Ligne:
+                                    <bibl><title ref="works.xml#corres02">Correspondances
+                                    russes</title>, <biblScope unit="vol">i</biblScope>, <biblScope unit="pp">pp. 155-56</biblScope></bibl>.</note> Le tems le plus
+                        convenable pour cette entreprise étoit sans contredit celui, où le
+                            <placeName ref="places.xml#dni02">Liman</placeName> couvert de glaces
+                        rendoit le côté de la mer inaccessible aux secours pour les assiégés et la
+                        ville une fois prise donnoit le tems de prendre les précautions nécessaires
+                        pour l'avenir. Mais l'impatience des têtes chaudes, des jeunes gens remplis
+                        de courage, des demi-têtes qui raisonnent de travers, des envieux, des
+                        ennemis ouverts ou cachés, est assurement en pareil cas la chose la plus
+                        incommode et c'est de celle là, que la fermeté et la persévérance du <rs
+                            ref="people.xml#pot01">Maréchal</rs> a eu infiniment à souffrir. Ce qui
+                        lui fait à mes yeux le plus grand honneur c'est qu'entre autres grandes et
+                        belles qualités qu'il a, je lui ai toujours vu celle de pardonner à ses
+                        ennemis, de leur faire du bien, et par là il a su l'emporter sur ses
+                        entagonistes. Cette fois ci il a battu les Turcs et ceux qui le critiquoient
+                        dans une heure et demie. Aprésent l'on dit qu'il auroit pu prendre
+                            <placeName ref="places.xml#och01">Oczakof</placeName> plutot, cela est
+                        vrai, mais jamais avec moins d'inconvénient.<note type="editorial">Potemkin
+                            faced a great deal of criticism in Russia for failing to take Ochakov
+                            sooner.</note> Ce n'est pas la première fois chés nous que les malades
+                        sortent de l'hôpital pour aller à l'assaut, ce dont<note type="editorial"
+                            >The source edition contains the misprint "dout".</note> vous me marqués
+                        de l'étonnement, j'ai vue arriver la même chose dans toutes les grandes
+                        occasions. L'enthousiasme est grand chés nous pour le bien public. Cet été
+                        lorsque le <rs ref="people.xml#gus01">Roy de Suède</rs> nous attaqua à
+                        l'improviste, je fis dire aux villages des domaines les plus à la portée
+                        d'envoyer des recrues, et qu'ils eussent à se taxer eux mêmes, combien
+                        chaque village en donneroit. Eh bien! qu'en arriva-t-il? un village de mille
+                        mâles m'envoya soixante et quince belles recrues, un autre sur quatre mille
+                        envoya deux cens cinquante, un troisième de <placeName
+                            ref="places.xml#tsa01">Czarkoçelo</placeName>, où il y<note
+                            type="textual">Missing in source edition.</note> a trois mille paysans,
+                        envoya quatre cens chevaux avec hommes et charrettes pour le transport des
+                        magasins de l'armée, ceux ci ont fait toute la campagne en <placeName
+                            ref="places.xml#fin01">Finlande</placeName>, mais ceci n'est pas tout,
+                        les gouvernemens d'alentour et ensuite de proche en proche tous les autres
+                        ayants entendu ce qui ce passoit du côté de la <placeName
+                            ref="places.xml#swe01">Suède</placeName>, m'offrirent de leur plein gré
+                        un bataillon et un escadron par gouvernement. La ville de <placeName
+                            ref="places.xml#mos01">Moscow</placeName> seule auroit mis dix mille
+                        hommes sur pied, si je les avois laissé faire. Notre peuple est guerrier né
+                        et nos recrues sont aisés à dresser. La noblesse sert ou a servie, quand le
+                        besoin vraiment l'exige; on n'a encore jamais dit „non" à rien, mais tout le
+                        monde court à la défense de l'état et de la patrie, il ne faut aucun effort
+                        pour les faire aller.</p>
+                    <closer>
+                        <signed rend="inline">Adieu, Monsieur, en voilà assés pour aujourd'huy,
+                            portés vous bien.</signed>
+                        <date when-custom="1789-01-29" rend="below">ce 29. Janvier 1789.</date>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <p>You are certainly, sir, the first doctor who ever asked someone permission to
+                        send them to the next world. You do more: you accompany them to the Elysian
+                        Fields. I could ask for no better company to go there, on the condition,
+                        nonetheless, that I might chose my society, which could become singularly
+                        amusing. Your harangue, I admit, would be sufficiently to my taste, if I
+                        could be quite sure that it is not too flattering. Here is more or less what
+                        I would have to say in reply: if my century has feared me, it was quite in
+                        the wrong. I have never wished to inspire terror in anyone. I would have
+                        wished to be loved and esteemed as I am worthy, and nothing more. I have
+                        always thought that people slandered me because they did not understand me.
+                        I have seen many people with infinitely more wit than I. I have never hated
+                        nor envied anyone. My desire and my pleasure would have been to make people
+                        happy, but as everyone can only be so according to his character or his
+                        fantasy or understanding, my wishes have often found obstacles in this,
+                        which I could not understand at all. My ambition assuredly was not mean, but
+                        perhaps I undertook too much in believing men capable of becoming
+                        reasonable, just, and happy. The human race in general tends towards
+                        unreason and injustice, and, given that, one can hardly be happy. If
+                        humanity heeded reason and justice, the likes of me would be unnecessary; as
+                        for happiness, as I said above, everyone understands it in his own way. I
+                        have attached importance to philosophy because my soul has always been
+                        singularly republican. I concede that there is perhaps a singular contrast
+                        between this temper and the unlimited power of my position, but also no one
+                        in Russia will say that I have abused it. I love the fine arts by pure
+                        inclination. As for my writings, I count them for little: I have enjoyed
+                        making attempts in different genres. It seems to me that all that I have
+                        done is fairly mediocre, and therefore I have attached no importance to it,
+                        other than amusement. As for my political conduct, I have tried to follow
+                        the plans which seemed the most useful to my country and the most tolerable
+                        for others. If I had known better ones, I would have adopted them. Europe
+                        was wrong to be alarmed at my aims, by which, on the contrary, it could only
+                        have gained. If I have been paid with ingratitude, at least no one will say
+                        that I lacked in gratitude. I have often avenged myself on my enemies by
+                        doing them good or pardoning them. Humanity in general has found in me an
+                        unfailing friend on all occasions. Here ends the dialogue of the dead: let
+                        us return to the living. Trousson went to the army towards the end of the
+                        siege of Ochakov. Here is what I have unearthed about him. He wrote me two
+                        letters to tell me that he had been forgotten, but it seemed to me that the
+                        order of St. Vladimir and various gratifications that he had received proved
+                        the contrary. It may be that he has been employed otherwise than how he
+                        desired; those who came after him were perhaps employed at other tasks which
+                        seemed to him more brilliant or more to his taste. That is possible, but
+                        what is certain is that until the time when he left for the army, he
+                        remained employed here in Petersburg in the work that the late Lieut. Gen.
+                        Bauer had given him and which is not yet finished. The Dutch who excited his
+                        emulation had their work to do in various corners of this immense empire,
+                        and as they had a long way to travel and difficulties to overcome, they
+                        enjoyed different emoluments in proportion to their efforts and their ranks,
+                        to which Capt. Trousson did not seem to have the same rights. Your friend,
+                        Mr. de Luc, of whom you speak and who is, like you, interested in the fate
+                        of this officer, for whom I will try to do what is appropriate, is known to
+                        me by his letters on Switzerland addressed to the Queen of England. I do not
+                        know if he is reader to H.M. in title or in reality, but in the latter case
+                        I hope with all my heart that he might succeed with his readings in
+                        diminishing, dissipating, and calming the sorrow, with which the Queen's
+                        heart and mind must be afflicted by the state of the King's health.</p>
+                    <p>As regards the Marquis de Lucchesini, who has lately entreated you, as you
+                        say, 'to teach him to merit my kindness', you, sir, may tell him frankly:
+                        that he will certainly not attain it by harming my affairs. In general it is
+                        quite singular that the Marquis Lucchesini, friend of the late King, and
+                        toward whom all those who did justice to the virtues of that Great Prince
+                        were favourably disposed, has wanted to make his debut in politics by the
+                        bad work in which he is allowing himself to be employed. It is no less than
+                        the destruction of an edifice, in the erection of which the late King took
+                        part most directly.</p>
+                    <p>It is even more strange that the court of Berlin harbours such illusions as
+                        to claim that in harming my interests, in showing in all things a passionate
+                        partiality for my enemies and their most unjust cause, at the same time they
+                        attempt to persuade me that they are on the way to winning my friendship and
+                        obtaining moreover an alliance with me. Such reasons can neither engage nor
+                        convince me. The examples of the submission of Holland to Prussian troops
+                        and the deference of Denmark to Mr. Elliot's threats do not trace out an
+                        appropriate path for Russia, by which the latter might find it honourable to
+                        take part in the trio. It has not yet been forgotten here that in the Seven
+                        Years' War, despite the superior genius of the King of Prussia, the
+                        treasures expended by England, and the heroes who commanded the armies, the
+                        late King saw even his capital invaded, and it was Catherine II who in 1762
+                        had the honour of returning to that Prince the Kingdom of Prussia and a good
+                        part of Pomerania, a province which Peter I gave to the House of
+                        Brandenburg.</p>
+                    <p>By your letter of 16 January, which I have just received, I see the joy that
+                        the taking of Ochakov caused you, sir. The Marshal Prince Potemkin as was to
+                        be expected tried all means before resorting to an assault. The most
+                        suitable time for this enterprise was undoubtedly that at which the estuary,
+                        covered in ice, rendered the seaside inaccessible to help for the besieged
+                        and the city, once taken, gave time for taking necessary precautions for the
+                        future. But the impatience of the hot-headed, of young people full of
+                        courage, of half-wits who cannot see past their own noses, of
+                        three-quarter-wits with crooked reasoning, of the envious, of open or secret
+                        enemies, is certainly the most bothersome thing in such a situation, and the
+                        Marshal's steadfastness and perseverance suffered most from it. To my mind
+                        it does him the most honour that, amongst his other great and beautiful
+                        qualities, I have always seen him to have that of pardoning his enemies, of
+                        doing them good, and thereby he has prevailed over his antagonists. This
+                        time he beat the Turks and those who criticised him in an hour and a half.
+                        At present people say that he could have taken Ochakov earlier: that is
+                        true, but never with so little damage. This is not the first time we have
+                        seen the sick leaving the hospital to go on the attack, which surprises you.
+                        I have seen the same thing happen on all grand occasions. We have great
+                        enthusiasm for the public good here. This summer, when the King of Sweden
+                        attacked us without warning, I had the villages on the nearest estates to
+                        send recruits. They were to assess for themselves how many each village
+                        would give. And what happened? A village of a thousand males sent me seventy
+                        five lovely recruits; another sent two hundred fifty out of four thousand; a
+                        third from Tsarskoe Selo, where there are three thousand peasants, sent four
+                        hundred horses with men and carts for transporting army supplies. The latter
+                        spent the entire campaign in Finland. But this is not all: the surrounding
+                        governments, and then from one to the next, all the others, having heard of
+                        what was happening as regarded Sweden, offered of their own accord a
+                        batallion and a squadron per government. The city of Moscow alone would have
+                        organised ten thousand men if I had let it. Our people are born warriors,
+                        and our recruits are easy to train. The nobility serves or has served, when
+                        really necessary. No one has ever said 'no' to anything, but rather everyone
+                        rushes to defend the state and the fatherland. No effort is needed to make
+                        them go.</p>
+                    <closer>
+                        <signed rend="inline">Farewell, sir, that is enough for today, be
+                            well</signed>
+                        <date when-custom="1789-01-29" rend="below">this 29 January 1789.</date>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

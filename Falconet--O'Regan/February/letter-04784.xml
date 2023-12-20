@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04784</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04784</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Nb inclusion.</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Assumed Mr B to be Mr Betzkoi. Kelsey: yes.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-24">24/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:07:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-27">27/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected and query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04784">
+  <body>
+   <opener><salute  rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,</salute></opener>
+   <p rend="inline">j’ai répété encore avant-hier ou pour mieux dire le jour que M-r <rs ref="people.xml#bet01">
+     B.</rs> a été ici ces propres paroles: <hi rend="italic">je vous dis encore une fois: prenez
+     bien garde que vos nouveaux bâtiments ne touchent ni n'inquiètent en rien Fal.</hi> Si après
+    cela vous avez eu encore des secousses et des alarmes, dites-le-moi et je ferai cesser
+    tout-à-fait ce nouveau travail; cependant j’avoue, que la pointe de ce bâtiment à laquelle on
+    devait travailler seulement me parait selon le plan bien éloigné de votre atelier. Je vous
+    renvoie les incluses. </p>
+   <closer><signed rend="inline">Adieu, j’espère que votre fièvre est passée; mais si elle ne l’est
+     pas je vous conseille de faire connaissance avec <rs ref="people.xml#rog01"> mon médecin
+      Anglais</rs>; c’est un brave et galant homme.</signed></closer>
+  </body>
+ </text>
+</TEI>

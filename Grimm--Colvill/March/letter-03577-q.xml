@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03577</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03577</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Could not identify « Mad. Parocel » - this could be in referrence to someone who was in
+     the Parrocel family, which had Joseph and Charles Parrocel (père/fils) who were both artists.
+     (2)The duc d’Aumont Catherine mentions is probably Louis, but unclear which Louis. </p>
+    
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-22">22/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:49:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03577">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#psk01"> Pleskof</placeName>, ce <date
+       when-custom="1780-05-14">14 mai 1780</date>.</dateline></opener>
+    <p>J’ai reçu de vous, les derniers jours de mon séjour à <placeName ref="places.xml#tsa01"
+      >Tsarsko-Sélo</placeName>, au moins une demi-douzaine de pancartes, que je n’ai pas même eu le
+     temps dustrie, située au milieu du lin; jusqu’ici ils ne se sont pas avisés de mettre le lin en
+     oeuvre. Venez ici ou inoculez à quelqu’un votre talent du développement et envoyez-le ici: il y
+     développera peut-être l’industrie. Le divin <persName ref="people.xml#rei03">
+      Reiffenstein</persName> ferait très bien d’envoyer quelque apprenti de son client <persName
+      ref="people.xml#unknown"> Müller</persName> à <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName>, d’où, après, avoir fait des sous-apprentis, nous les emploierions ou
+     ici, ou ailleurs, selon l’utilité; au moins qu’il nous envoie les modèles des rouets qui filènt
+     et tondent à la fois. Je suis très tentée d’acheter les pierres gravées du bailli de <persName
+      ref="people.xml#bre03"> Breteuil</persName>; ce que j’ai déjà acheté de lui, est charmant,
+     mais ne peut soutenir la comparaison de bien des choses faites avant et après au moulin
+      de <placeName ref="places.xml#pet02">Péterhof</placeName>, <seg xml:lang="de"> denn wo die
+      Andern Quintine gebrauchen oder haben, da haben wir Fuder</seg>. Outre cela ces pierres et ce
+     dessert seront charmés, comme anciennes connaissances, de se revoir dans mon entre-sol, qui
+     excite un respectueux silence dans tous ceux qui y entrent. Je chercherai un heureux moment
+     chez <persName ref="people.xml#ols02"> Olsoufief</persName> ou le procureur-général pour leur
+     proposer cet achat ; par exemple, au premier je le proposerai pour ma fête, où il achète
+     toujours quelque mauvaise nippe, et en attendant faites faire estimation et examination et
+     concluez le marché avec le bailli pour qu’on ne nous emporte point la chose, si elle est bonne.
+     Pour le Vernet, je le cède au <persName ref="people.xml#bet01"> Betski</persName> du <persName
+      ref="people.xml#lou01"> roi de <placeName ref="places.xml#fra01"
+     >France</placeName></persName> : je n’ai point d’argent ; passe pour les <persName
+      ref="people.xml#pan05"> Panini</persName> ; ils pourront voguer avec les pierres gravées.</p>
+    <p>Le 16<hi rend="superscript">me</hi> <seg xml:lang="de"> Vortrag</seg> commencé, comme un
+     oracle, par une exclamation sur la beauté du mot <seg xml:lang="de"> Russisch</seg>: à la bonne
+     heure, je ne m’y oppose pas, et puis vient <persName ref="people.xml#rob01"> M.
+      Robinet</persName>. Je n’ai vu la diabolique dépense que vous me faites de l’argent que pour
+     les six articles originaux et bons de mâitre <persName ref="people.xml#rob01">
+      Robinet</persName>, car que voulez-vous que je fasse des drogues? Or, voilà donc encore 22,200
+     livres d’ajoutées à mon mémoire de dépense ; que diront les gens de <placeName
+      ref="places.xml#rig01">Riga</placeName> et ceux de <placeName ref="places.xml#nar01">
+      Narva</placeName>, qui en vérité ne leur cèdent en rien en zèle ; je viens de passer par là;
+     j’ai cru qu’ils me mangeraient de caresses. Pour Mad. Parocel, faites en sorte qu’elle se passe
+     de moi pour le moment, de même que les paysages à l’aune ; cependant il faudra que je vous
+     envoie quelques sommes rondes, afin que vous en puissiez faire un emploi, si tout cela vous
+     convient. Pour de la graverie des pierres du cabinet <persName ref="people.xml#bre03">
+      Breteuil</persName>, je ne m’en mêle pas. <persName ref="people.xml#bet01"> M.
+      Betski</persName> et <persName ref="people.xml#caf01"> M. Caffieri</persName> s’accommoderont
+     eux- mêmes sans mon entremise; pour de la soupe aux pois des consuls, vice- consuls, agents
+     généraux etc., je ne veux pas m’en mêler. L’estampe du sacre de <persName
+      ref="people.xml#lou01"> Louis xvi</persName> dont vous me parlez dans votre 17 <seg
+      xml:lang="de"> Vortrag</seg>, m’a fait grand plaisir ; les deux tableaux de <persName
+      ref="people.xml#ges01"> Gessner</persName> de <placeName ref="places.xml#zur01">
+      Zürich</placeName> sont dans mon cabinet de <placeName ref="places.xml#tsa01"
+      >Tsarsko-Sélo</placeName>, et vous aurez une médaille d’or pour lui. Pour du reste de la
+     boutique, contenant les meubles du <persName>duc d’Aumont</persName>, je n’en veux pas.
+     J’admire la persévérance de <persName ref="people.xml#gra01"> M. de Vergennes</persName> et la
+     vôtre pour me faire avoir le tableau de l’<title ref="works.xml#androm01"> Andromède</title> de
+      <persName ref="people.xml#men01"> Mengs</persName>, et je vous en ai beaucoup de remercîments
+     à faire. Mais s’il est possible que le bras de Persée molesté ne soit point réparé à <placeName
+      ref="places.xml#par01">Paris</placeName>, j’aimerais mieux l’avoir tel qu’il est.</p>
+    <p>Vous avez très bien fait de renvoyer le <persName ref="people.xml#rei03"> divin</persName>
+     pour affaire académique à <rs ref="orgs.xml#acad01"> l’académie</rs>, mais je ne puis vous
+     pardonner de m’accuser de gloutonnerie en fait de beaux-arts, parce que je n’y entends rien;
+     mais si vous voyez quelle belle galerie et quels beaux jardins en terrasse j’aurai près de mon
+     nouvel appartement de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, vous diriez
+     que <persName ref="people.xml#cam01"> Kameron</persName> est un homme bien entendu ; ce
+      <persName ref="people.xml#cam01"> Kameron</persName> est tout proche parent de <persName
+      ref="people.xml#cam02"> Jennie Kameron</persName>, connue par son attachement pour le dernier
+     des Stuarts. Les miniatures de Teresina seront les bienvenues. Apparemment que c’était un bon
+     moule de peintre que celui de <persName ref="people.xml#men01"> Mengs</persName> et de <rs
+      ref="people.xml#mar12"> sa soeur</rs>.</p>
+   </div>
+   <div>
+    <opener><dateline>A <placeName ref="places.xml#pol02"> Polotsk</placeName>, ce <date
+       when-custom="1780-05-21">21 mai</date>, fête du sieur <persName ref="people.xml#kon01">
+       Constantin</persName>, qui a des yeux singulièrement spirituels. </dateline></opener>
+    <p>Il y a ici une affluence de monde très grande; je vois de mes fenêtres les pays étrangers,
+     c’est-à-dire les frontières de la <placeName ref="places.xml#pol01">Pologne</placeName>, la
+      <placeName ref="places.xml#dvi01"> Dvina</placeName> coulant entre ma maison et ce pays-là. Me
+     voilà donc, comme vous voyez, tout près de vous, mais cela ne durera pas, parce que je pars
+     demain pour <placeName ref="places.xml#mog01"> Mohilef</placeName>. <persName
+      ref="people.xml#jos01"> M.de Falkenstein</persName> est arrivé à <placeName
+      ref="places.xml#kie01"> Kiovie</placeName> le 14; il devait en partir le 18. Ci-joint vous
+     trouverez le billet que je vous écrivis hier, précieux par le moment où il a été écrit, tout
+     chaud, tout chaud. Mais retournons à nos moutons, c’est-à-dire au <persName
+      ref="people.xml#rei03"> divin</persName> et à sa lettre de <placeName ref="places.xml#rom03"
+      >Rome</placeName>, du 2 février 1780. D’abord, il faut se réjouir avec lui de ce que ses
+     douleurs ont diminué et lui ont permis d’écrire et de lire avec <persName
+      ref="people.xml#mar11"> Maron</persName> le catalogue des choses à vendre chez les héritiers
+     de <persName ref="people.xml#men01"> Mengs</persName>, et voici les ordres positif qu’il
+     demande sur les choses énoncées dans le catalogue, à savoir : peintures M 1, 8, 10, 41, 45, 74,
+     76, 77, 80, 84, 85, 87, 89, 90, 91, 93, 94, 95, 96 et 97, camée antique, faisant, le tout
+     compté ensemble, articles peinture et un camée, la somme totale de 14,200 écus romains, que M.
+      <persName ref="people.xml#san01"> Santini</persName> tirera sur nous après paiement fait.
+     Dessins originaux point, mais cartons No 1, 2, 4, 6, 7, 8, faisant cartons ensemble le prix de
+     1660 écus romains; les estampes, tontes, leur prix 2000 écus romains. Pour ce qui regarde le
+     commerce proposé par le <persName ref="people.xml#rei03"> divin</persName>, il faut le laisser
+     aux commerçants, car moi j’entends bien là-dessus ce qu’on me dit, mais je n’en comprends rien:
+      <seg xml:lang="de"> wir haben nicht Zeit, nicht Ihren für die großen Kleinigkeiten, und
+      deßwegen muß man sie lassen an denjenigen der Unterthanen oder Andere die dazu Zeit haben und
+      deswegen auch die Ihren spitzen</seg>. </p>
+    <p>J’ai reçu les comédies de <persName ref="people.xml#gen01"> madame de Genlis</persName> et
+     par le comte de <persName ref="people.xml#str03"> Stroganof</persName> et par le courrier de
+     même que cahiers du voyage pittoresque de la <placeName ref="places.xml#gre02"
+      >Grèce</placeName>; dans ce dernier ouvrage on trouve à chaque pas l'animosité des <persName
+      ref="people.xml#cho03">Choiseul</persName> et compagnie contre la <placeName
+      ref="places.xml#rus01">Russie</placeName>. La moindre et la plus innocente circonstance
+     fournit d’abord sujet à des épigrammes et autres tournures, qui sentent les cent mille
+     libelles, publiés contre nous et qui ne nous ont pas empêchés de faire cependant tout ce que
+     nous avons fait. Relever des sottises, c’est en augmenter le nombre: il faut les mépriser ; la
+     tournure des esprits y est à remarquer, et surtout la haine invétérée pour le nom russe.
+     J’aimerais beaucoup le voyage pittoresque d’<placeName ref="places.xml#ita01"
+      >Italie</placeName> ; le comte <persName ref="people.xml#str03"> Stroganof</persName> se dit
+     fort lié avec les auteurs ; il m’a promis de m’en faire venir un exemplaire. L’hospice de
+     charité de <persName ref="people.xml#nec02"> mad. Necker</persName> mérite la plus grande
+     attention, et je vous remercie beaucoup de m’avoir envoyé cela. Recevez aussi mes remercîments
+     pour les alberges de <placeName ref="places.xml#tou01"> Tours</placeName>. Le livre de l’abbé
+      <persName ref="people.xml#mig01"> Mignot</persName> a été lu par <persName
+      ref="people.xml#bet01"> M. Betski</persName>.</p>
+    <p>Je souhaite beaucoup de bonheur à <persName ref="people.xml#den02"> Mad. Denis</persName>
+     dans son second mariage; cela ne fait aucun tort au public ; il n’a qu’à continuer de l’appeler
+      <persName ref="people.xml#den02">Mad. Denis</persName>. Pour <persName ref="people.xml#wag02">
+      Wagnière</persName>, je suis bien aise d’avoir payé la dette de son mâitre, et qu’il soit
+     heureux. Pourquoi voulez-vous que j’achète les tableaux de tout le monde? Mais comme les
+      <persName ref="people.xml#pac01"> Zuckmantel</persName>, tableaux et estampes, ne sont pas
+     trop chers, achetez-les moi l’année qui vient. J’aurais été bien étonnée si le <persName
+      ref="people.xml#lob01"> prince Lobkowitz</persName>, comme prince allemand, vous eût
+     échappé.</p>
+   </div>
+   <div>
+    <opener><dateline>A <placeName ref="places.xml#mog01"> Mohilef</placeName>, ce <date
+       when-custom="1780-05-25">25 mai</date>. </dateline></opener>
+    <p>Je suis arrivée ici hier au matin, et j’y ai trouvé <persName ref="people.xml#jos01"> M. de
+      Falkenstein</persName>, établi depuis deux fois 24 heures. Quand il a appris que j’ai
+     retranché quatre jours de mon voyage pour le devancer, il s’est mis à courir nuit et jour et
+     m’a devancée de deux jours. Nous avons passé toute la journée d’hier ensemble; il a paru qu’il
+     ne s’ennuyait pas; je l’ai trouvé très instruit ; il aime à parler et parle très bien. Il a plu
+     à verse toute la journée, ce qui nous a obligés tous les deux de passer la soirée ensemble,
+     comme si c’était une soirée d'hiver. J’ai reçu votre No 48 fort longtemps après le 21 avril.
+     Puisque vous donnez de belles fêtes, il faut sans doute aussi que vous en supportiez patiemment
+     les inconvénients. Puisque la déclaration de la <placeName ref="places.xml#rus01"
+      >Russie</placeName> vous a mené aux <seg xml:lang="de"> Normalschulen</seg>, il faut que je
+     vous dise que ces écoles ont fait hier un des objets de nos conversations et que, selon ce que
+     j’en ai entendu, ces <seg xml:lang="de"> Normalschulen</seg> sont d’excellentes inventions;
+     mais il nous faudra des <seg xml:lang="de"> Normalschulmeister</seg>. Je trouve encore ici
+     qu’il n’est pas rare que les enfants prennent le contre-pied de père et mère. Nous ne
+     paraissons pas être fort dévots, et nos lectures ne le sont pas du tout. Cependant les <title
+      ref="works.xml#epoque01"> Epoques</title> ne lui sont pas tombées encore entre les mains.
+     Savez- vous bien que quand on voit des empereurs travestis, cela met la tête en l’air; l’on
+     lève le nez et l’on flaire l’air, ce qui, comme vous le comprenez bien, empêche de répondre
+     avec grande attention aux lettres qu’on reçoit.</p>
+   </div>
+   <div>
+    <opener>
+     <dateline>Ce <date when-custom="1780-05-26">26 de mai</date>. </dateline></opener>
+    <p>Hier nous avons été, la soirée, à l’opéra comique, et <persName ref="people.xml#jos01"> M. de
+      Falkenstein</persName> m’a dit dans la conversation des choses dignes d’être imprimées, et
+     pensées profondément, et qui assurément lui feront un honneur infini, s’il les met en pratique.
+     Je n’ose les publier, parce qu’elles m’ont été dites à l’oreille, non par poltronnerie, mais
+     par discrétion; voilà aussi ce que j’ai exigé de vous sur des tirades que vous dites dignes
+     d’être gravées en lettres d’or. Je suis bien fâchée d’avoir fait tort au <persName
+      ref="people.xml#ern01"> duc de <placeName ref="places.xml#sax01">Saxe</placeName>-<placeName
+       ref="places.xml#got01">Gotha</placeName></persName> sans le savoir, mais vous voyez qu’il en
+     aurait fait de même à ma place. La lettre de <persName ref="people.xml#wag02">
+      Wagnière</persName> m’a fait plaisir: c’est un homme estimable par sa fidélité et sa
+     reconnaissance.</p>
+   </div>
+   <div>
+    <opener><dateline>Ce <date when-custom="1780-05-27">27 mai</date>, un mercredi.
+     </dateline></opener>
+    <p>D’ici nous partons, <persName ref="people.xml#jos01">M. de Falkenstein</persName> et moi,
+     dans un coche à six personnes, côte à côte, pour <placeName ref="places.xml#smo01">
+      Smolensk</placeName>, qui est à deux cents verstes d’ici; de là il va à <placeName
+      ref="places.xml#mos01">Moscou</placeName> et reviendra par <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName>, et moi j’irai l’attendre là. Nous avons parlé du monde entier; par
+     conséquent de vous aussi, et comme il sait tout, il sait que vous étiez avec les comtes
+     Roumiantsof à <placeName ref="places.xml#vie01">Vienne</placeName>. Il ne connaît pas l’abbé
+      <persName ref="people.xml#gal05"> Galiani</persName>, auquel enfin il faudra bien que la
+     médaille parvienne. Je suis très fâchée de la mort de l’abbé <persName ref="people.xml#ghi01">
+      Chigi</persName>, que je n’ai point connu, et cela par respect pour la douleur du <rs
+      ref="people.xml#rei03"> divin</rs>; faites payer les cartes selon votre bon plaisir et
+     agrément, afin que tout le monde s’évertue selon le cher homme d’avoir été payé pour papier,
+     gravures etc. etc. Les cartes de la <placeName ref="places.xml#sic01"> Sicile</placeName> sont
+     chez moi, non pas ici, mais à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>. Les
+     tableaux de <persName ref="people.xml#jen01"> Jenkins</persName> seront les bienvenus. Enfin,
+     enfin me voilà parvenue à tous les articles énoncés dans vos pancartes et dans celles du <rs
+      ref="people.xml#rei03"> divin</rs>, dont j’adopte le style pour vous dire que ce matin du
+     jourd’hui mons: de Falk: et moi nous avons entendu une messe catholique chantée par l’évêque de
+      <placeName ref="places.xml#mog01"> Mohilef</placeName> assisté de <orgName
+      ref="orgs.xml#jesu01"> jésuites</orgName>, d’ex-jésuites et de quantité d’ordres religieux et
+     non religieux, que nous y avons plus ri et badiné qu’écouté, que lui faisait le cicerone et moi
+     le badaud. </p>
+    <closer><signed rend="inline">Adieu, je n’ai plus de papier.</signed>
+     <dateline>Billet fait à <placeName ref="places.xml#pol02"> Polotsk</placeName>, le <date
+       when-custom="1780-05-20">20 mai 1780</date>, au sortir des <orgName ref="orgs.xml#jesu01">
+       jésuites</orgName>. </dateline></closer>
+    <postscript>
+     <p>J’ai été chez eux ce matin; j’y ai entendu le Te Deum et j’ai été dans la maison. Ici tout
+      est allégresse; j’ai été frappée hier, à mon entrée ici, de la magnificence de leurs
+      représentations; tous les autres ordres sont des cochons près d’eux; seulement que ces gens ne
+      dansent pas; il nous en est venu de tous pays: morgué, qu’ils sont lestes! Ils ont ici une
+      fort belle église; ils m’ont dit toutes les douceurs possibles dans toutes les langues
+      possibles, hormis celles que j’entends. Ah! qu’il y en a qui ont l’air coquins! </p>
+    </postscript>
+   </div>
+  </body>
+ </text>
+</TEI>

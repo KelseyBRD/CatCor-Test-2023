@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02930</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02930</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-01">01/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:30:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02930">
+  <body>
+
+   <p>Monsieur le <persName ref="people.xml#nas01"> Vice-Amiral Prince</persName> de <placeName
+     ref="places.xml#nas01"> Nassau-Siegen</placeName>. Par ces lignes je me propose de Vous
+    féliciter de la gloire dont Vous Vous êtes couvert par la victoire signalée, que vous venez de
+    nouveau de remporter sur la flotte Suèdoise le 13 de ce mois. Ayant battu mes ennemis et ceux de
+    la <placeName ref="places.xml#rus01">Russie</placeName> au Sud et au Nord, j'espère que Vous ne doutez nullement de mon estime,
+    de ma reconnaissance et des sentiments que m’inspire votre courage vraiment heroique, je me
+    réjouis de vous savoir en bonne santé, Vous avez rempli la ville d’une grande allégresse. </p>
+   <closer><signed rend="inline"> Adieu portez vous bien.
+   <persName ref="people.xml#cat01"> Catherine.</persName></signed>
+   <dateline> Ce <date when-custom="1789-07-16">16 Juillet 1789</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

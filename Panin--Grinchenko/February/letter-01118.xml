@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01118</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01118</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-24"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-08"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01118">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Сегодня две недели, как я из <placeName ref="places.xml#pet01"
+                    >Петербурга,</placeName> и хотя я крайне спешу, но ныне сама вижу, что несколько
+                дней более замешкаю на дороге, нежели я надеялась. Я сегодня выеду из <placeName
+                    ref="places.xml#per02">Пернау,</placeName> а после завтра приеду в <placeName
+                    ref="places.xml#rig01">Ригу</placeName>. <seg xml:lang="fr">Votre Frère se porté
+                    bien; il infat demandé hier, si vous étiez envie; faites mes compléments au
+                    Grand-Duc; quand je reviendrai à la ville, jè vous dirai des horreurs du
+                        <placeName ref="places.xml#bal02">Port Baltique.</placeName></seg></p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <lb/>
+                <dateline>
+                    <placeName ref="places.xml#per02">Пернау.</placeName><lb/>
+                    <date when-custom="1764-07-05">5 число Июля, 1764.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

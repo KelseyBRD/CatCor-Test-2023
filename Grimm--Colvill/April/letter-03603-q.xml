@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03603</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03603</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find l’abbé Beck with any certainty. There are a few potentials for the time
+     period, but none that I saw with the title abbott</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-07">07/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:54:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03603">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St Pétersbourg</placeName>, <date
+      when-custom="1783-12-24">la veille de Noël 1783</date>.</dateline></opener>
+   <p>J’ai reçu ce matin votre No 70, qui commence par ces mots: «Dans la disette où je suis retombé
+    depuis plusieurs mois.» Or, pendant cette disette vous recevrez sous le couvert du <persName
+     ref="people.xml#lan02"> g-l Lanskoï</persName> un assez long commentaire, qui n’est qu’un
+    amendant pour tout ceci. Je n’aime point cette solitude et tristesse où vous êtes plongé: il
+    fondrait vous tirer de la et entreprendre quelque excursion; or, comme <persName
+     ref="people.xml#bue01"> Emilie</persName> pourrait avoir besoin de vous, il faudrait la prendre
+    avec pour distraire et vous et elle; il n’y a que cela qui peut donner de l’aide aux dames
+    sensibles quand leur sensibilité est trop affectée.</p>
+   <p>Je vous remercie des oeuvres posthumes de <persName ref="people.xml#mon03"
+     >Montesquieu</persName>, que <persName ref="people.xml#sec01"> Secondat</persName> a enfin
+    lâchées, de même que des belles estampes enluminées du globe aérostatique. Ô ciel! donnez-leur
+    des plumes au plus vite, afin qu’aucun expert ne se casse le cou en tombant d’en haut. Que vous
+    arriviez par terre, par mer ou par les airs, vous serez en tout temps le très bienvenu. L’
+     <persName ref="people.xml#cat01"> impératrice</persName>, malgré le gazetier de <placeName
+     ref="places.xml#col01"> Cologne</placeName> qui me dit morte, se porte infiniment mieux que cet
+    été, et si je vous dis que je me porte mieux que plusieurs autres hivers, je ne mens point non
+    plus. Vous verrez par l’envoi qu’on vous fait, si l’on se souvient de vous, et si vous avez mal
+    placé votre confiance. Quand j’ai fait prier l’électeur de <placeName ref="places.xml#sax01"
+     >Saxe</placeName> de permettre au <persName ref="people.xml#anh01"> comte d’Anhalt</persName>
+    de passer à mon service, il m’a refusé tout net; mais le <persName ref="people.xml#anh01"> comte
+     d’Anhalt</persName> ayant appris cela, a demandé sa démission, qu’il désirait déjà, et dégagé
+    du service de <placeName ref="places.xml#sax01">Saxe</placeName>, je l’ai pris au mien. Or donc,
+    <rs ref="people.xml#gri01">souffre-douleur</rs>, puisque voilà un ami de plus que tu as ici, voilà aussi une raison de plus,
+    ergo, pour .... Mais non, il ne faut pas trop appuyer, parce que souffre- douleur doit faire ce
+    qu’il veut et peut. Pour votre madame <persName ref="people.xml#mar15"> Marcel</persName>, je
+    vous la cède: vous en ferez ce que vous voudrez; je n’aime point les trop recommandés, et cela
+    encore par les grandes dames et les beaux messieurs. Ainsi, pour l’amour de Dieu, ne me parlez
+    plus de madame <persName ref="people.xml#mar15"> Marcel</persName> et de son gros mérite: je la
+    fuirais comme la peste à ces conditions; j’en ai tant vu de ceux-là qui tenaient de si proche à
+    la bégueulerie qu’il ne valait pas la peine de les aller chercher de si loin; vous pouvez lui
+    donner l’aumône et la laisser courir. Voilà donc qui est coulée à fond. Pour le cabinet
+     <persName ref="people.xml#bau04"> Baudouin</persName>, vous devez savoir présentement à quoi
+    vous en tenir. Où trouve-t-on les ouvrages allemands de la <persName ref="people.xml#roc01">
+     dame La Roche</persName>? il paraît qu’elle écrit bien en allemand; si l’abbé Beck était son
+    ennemi, elle doit avoir du repos présentement, car <rs ref="people.xml#ert01"> l’électeur</rs>
+    l’a renvoyé.</p>
+   <signed rend="inline">Adieu, <rs ref="people.xml#gri01">souffre-douleur</rs>, portez-vous bien, et sachez que nous sommes à
+    présent dans les plus étranges recherches sur les anciens <orgName ref="orgs.xml#slav01">
+     Slavons</orgName>, et que tous les noms qui ne veulent rien dire dans toute autre langue, ont
+    leurs belles et bonnes significations en Slavon; par exemple: Ludwig, le <hi rend="italic"
+     >lud</hi> veut dire <hi rend="italic">gens</hi>, <hi rend="italic">dwig</hi>—<hi rend="italic"
+     >aller</hi>; c’est comme qui dirait: faire aller les gens, les mettre en mouvement; Ramir ou
+    Radmir veut dire réjoui de la paix: <hi rend="italic">Rad</hi>, c’est <hi rend="italic"
+     >réjoui</hi>, <hi rend="italic">mir</hi>—paix. Ne nous voilà-t-il pas bien avancés avec cela?
+    Cependant, si vous ne savez pas ce qu’un nom signifie, adressez-vous hardiment à nous: nous vous
+    le dirons. Nous savons encore que <persName ref="people.xml#rur01"> Rurik</persName>, premier
+    grand-duc de <placeName ref="places.xml#rus01"> Russie</placeName>, avant son élévation à cette
+    dignité a été en <placeName ref="places.xml#fra01">France</placeName> et en <placeName
+     ref="places.xml#eng01">Angleterre</placeName>, et a aidé aux Normands à en faire <rs
+     ref="events.xml#norma01"> la conquête</rs>. Après vous avoir instruit à fond de mes profondes
+    connaissances, je vous donne le bon jour, et souhaite qu’elles vous paraissent aussi
+    intéressantes qu’à nous, qui rassemblons par années les hauts faits des <orgName
+     ref="orgs.xml#slav01"> Slavons</orgName> de toutes les histoires possibles; après cela vous
+    trouverez à qui parler.</signed>
+  </body>
+ </text>
+</TEI>

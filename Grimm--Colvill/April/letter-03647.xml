@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03647</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03647</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-18">18-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:22:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03647">
+  <body>
+ <div>
+   <opener><dateline> A <placeName ref="places.xml#kie01">
+     Kiov</placeName>, ce <date when-custom="1787-04-06">6 d’avril 1787</date>.</dateline></opener>
+   <p>J’ai oublié de vous dire, je pense, dans ma grande pancarte que je suis dans l’intention de
+    partir d’ici entre le 15 et 20 d’avril.</p>
+   <p>Cette feuille-ci vous pouvez l’intituler la feuille des oublis, parce que jusqu’au départ du
+    courrier j’y mettrai ce dont je me souviendrai.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1787-04-08">8 d’avril</date>. </dateline></opener>
+   <p>Voici des bouts-rimés donnés par le <persName ref="people.xml#cob02"> comte
+     Cobenzel</persName> et remplis à la minute par M. de <persName ref="people.xml#seg01"> Ségur</persName> hier au soir:</p>
+ <lg>  <l>Je voudrais dignement célébrer votre gloire,</l>
+   <l>Mais on peut deviner, sans être grand sorcier,</l>
+   <l>Que je n’ai pas assez d’encre dans mon écritoire.</l>
+   <l>Le sabre et le mousquet du moindre cuirassier </l>
+   <l>Dans <placeName ref="places.xml#lar02"> Larga</placeName>, dans <placeName
+     ref="places.xml#kag01"> Kagul</placeName> aurait usé ma plume.</l>
+   <l>Vos vertus, vos exploits inspirent tout chanteur,</l>
+   <l>Mais à les chanter tous on gagnerait un rhume,</l>
+   <l>Et le sujet trop grand décourage l’auteur.</l></lg>
+   <p>Tandis que le <persName ref="people.xml#seg01"> comte de  Ségur</persName> était à
+    composer son impromptu, que <rs ref="people.xml#dmi01"> l’habit rouge</rs> dessinait son profil,
+    le <persName ref="people.xml#lig01"> prince de Ligne</persName>, à qui j’avais donné trois mots,
+    et nommément: ah! quelle horreur, était à les mettre en contes. Le <persName ref="people.xml#seg01"> comte de  S</persName>égur lui avait fait la question: à quel âge il
+    s’était marié?</p>
+   <lg><l>A 18 ans, Monsieur le comte.</l>
+   <l>Et ce n’était pas là mon compte:</l>
+   <l>Le goût de liberté, qui touchait plus mon coeur,</l>
+   <l>Quand j’entendis parler de mariage,</l>
+   <l>Me fit crier tout haut: Ah! Dieu, Dieu, quelle horreur!</l>
+   <l>Faut-il donc que l’ennui soit déjà mon partage?</l></lg>
+   <p>En attendant que ces messieurs s’occupaient ainsi, je dis au <persName ref="people.xml#cob02">
+     comte de Cobenzel</persName>, qui ne fait jamais de vers, d’en faire, ne fut-ce qu’un, et que
+    j’aurais soins du reste. Il mit par écrit:</p>
+   <lg><l>Je chante les auteurs qui font des bouts-rimés.</l>
+   <l>Je fourrai cette strophe sous les yeux du <persName ref="people.xml#seg01"> comte
+     de  Ségur</persName>, qui mit dessous les trois lignes suivantes:</l>
+   <l>Un peu plus fols, sans doute ils seraient renfermés,</l>
+   <l>Mais il faut respecter et chérir leur folie</l>
+   <l>Quand ils chantent l’esprit, la grâce et le génie.</l></lg>
+   <p>En sortant de chez moi hier, le <persName ref="people.xml#seg01"> comte de</persName>
+    Ségur, qui devait vingt-huit roubles au <persName ref="people.xml#lig01"> prince de
+     Ligne</persName>, les lui envoya en monnaie de cuivre; le prince de Ligne les reçut tandis
+    qu’il écrivait sur du papier bleu; il lui adressa tout de suite les vers qui suivent:</p>
+   <lg><l>Au lieu d’un compte borgne, accepte un conte bleu,</l>
+   <l>Comte trop clair-voyant, payant si mal ton jeu.</l>
+   <l>C’est ainsi que je vois sous cette allégorie,</l>
+   <l>De nos genres d’esprit la distance établie.</l>
+   <l>Le cuivre m’appartient, et l’or seul est à toi.</l>
+   <l>De son fâcheux destin il faut suivre la loi.</l>
+   <l>Le peu que je possède, en détail je dépense,</l>
+   <l>Et-ton trésor sans cesse a de la-consistance:</l>
+   <l>Ce n’est qu’en amitié que mon fonds est égal.</l>
+   <l>Et moi qui partageai tes belles destinées,</l>
+   <l>De gloire, de plaisirs et de succès tracées,</l>
+   <l>Je mérite et j’exige, ami tendre et féal,</l>
+   <l>Que ton coeur soit toujours un payeur bien loyal.</l></lg>
+   <p>Comme je disais hier au <persName ref="people.xml#seg01"> comte de Ségur</persName> que
+    j’étais une ingrate, parce que je ne pouvais leur donner des vers n’en ayant jamais fait un seul
+    (je sais bien que vous prétendiez m’en avoir escamoté quatre, <seg xml:lang="it"> ma</seg> ils
+    n’étaient pas de moi: je n’avais changé qu’un ou deux mots), il me répond qu’il m’en donnerait
+    le secret dans une demi-page. Ainsi, s’il tient parole, attendez-vous, à la première occasion,
+    de recevoir de moi au moins une épitre en vers. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+ </div>
+  </body>
+ </text>
+</TEI>

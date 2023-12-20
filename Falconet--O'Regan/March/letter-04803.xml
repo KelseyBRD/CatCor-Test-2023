@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04803</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04803</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">inclusion</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#england"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:22:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04803">
+  <body>
+  
+   <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, par
+     la lettre du prince <persName ref="people.xml#gol03"> Galitzin</persName>, que je vous
+     renvoie, je vois que <persName ref="people.xml#did01">Diderot</persName> est
+     arrivé à la <placeName ref="places.xml#lah01"> Haye</placeName>; le susdit prince ne
+     l’a écrit absolument qu’à vous, mais comme la santé de votre ami est mauvaise, son arrivée ici
+     est toujours douteuse, selon moi. Si ce médaillon de Mylord
+    <persName ref="people.xml#cat03"> Cathcart</persName> est grand, il n’y a qu’à le laisser en
+     ville jusqu’à ce que j’y vienne. </p>
+   <closer><signed rend="inline">Bonjour, Monsieur.</signed></closer>
+  </body>
+ </text>
+</TEI>

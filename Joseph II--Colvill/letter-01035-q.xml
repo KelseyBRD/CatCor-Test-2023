@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01035</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01035</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+     <term target="kw.xml#europe"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Emma: V.M.I. coded very inconsistently in all these letters. I could do some automatic encoding across all the letters if you think it should be coded whenever it appears.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:13:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01035">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Czarskoeelo</placeName>, ce <date
+      when-custom="1782-05-09">9/20 mai 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Sachant le <persName ref="people.xml#pop03"> Pape</persName> parti
+     de <placeName ref="places.xml#vie01">Vienne</placeName>, que V. M. I. me permette de Lui en
+    faire mon compliment sincère. Elle en aura reçu tout plein des fîmes dévotes sur l’arrivée du
+    Pontife, mais qu’Elle me permette de me réjouir de La voir délivrée d’un fardeau qui me pesait à
+    moi par l’intérêt vif que je prends à tout ce qui La regarde, et l’on a beau dire, un prêtre
+    comme celui-là est un meuble incommode. Le mal d’yeux de V. M. I. m’a donné bien d’autres
+    inquiétudes encore qui m’ont fait appréhender jusqu’au don des miracles. Il se peut qu’à tout
+    cela il y a des préjugés de ma part, mais sucés avec le lait, ils me sont devenus habituels.
+    Dieu soit loué que ces deux maux s’en sont allés ensemble. Que V. M. I. ait la bonté d’attribuer
+    à l’expression de mon amitié ce que je prends la liberté de Lui en dire. Le même motif encore
+    m’oblige de Lui parler à coeur ouvert sur la situation présente de l’<placeName
+     ref="places.xml#eur01">Europe</placeName>. V. M. I. n’ignore pas qu’une des premières démarches
+    du nouveau ministère d’<placeName ref="places.xml#eng01">Angleterre</placeName> a été d’accepter
+    la proposition dans la réponse que la république d’<placeName ref="places.xml#hol02"
+     >Hollande</placeName> m’a donnée de traiter de la paix sur les principes de neutralité qu’elle
+    a souhaités et articulés jusqu’ici plus d’une fois tant par la bouche de Son Ambassadeur que par
+    écrit. Ses propositions ont été communiquées par mes ministres à <placeName
+     ref="places.xml#lah01"> la Haye</placeName> aux Etats-Généraux et au <persName
+     ref="people.xml#wil03"> Prince d’Orange</persName>. J’ignore encore la réponse, mais la
+    nouvelle de l’admission d’un délégué du <orgName ref="orgs.xml#cont01"> congrès
+     américain</orgName> à <placeName ref="places.xml#lah01"> la Haye</placeName> m’étant parvenue,
+    de même que celle d’une grande fermentation dans les esprits, la plupart étant plus portée à la
+     <rs ref="events.xml#ameri01"> guerre qu’à la paix</rs>, j’ai tout lieu d’augurer que les
+    souffleurs du feu l’emporteront cette fois encore sur les porteurs d’eau. D’un autre côté je
+    suis avertie de bonne part que nos anciens amis les Anglais ont un bon besoin de <rs
+     ref="events.xml#ameri01"> paix</rs>. Le <rs ref="people.xml#wat01"> nouveau ministère</rs> la
+    désire et il y a beaucoup d’apparence qu’ils ne feront plus de difficultés de s’arranger avec
+    leurs colonies. C’est ce dont j’ai cru en conscience et en bon commédiateur avertir V. M. I.,
+    afin que, si Elle trouve que les dispositions des Cours de la <orgName ref="orgs.xml#bour01">
+     maison de Bourbon</orgName> soient aussi favorables pour le rétablissement de la paix qu’elles
+    l’ont toujours déclaré, l’ouverture du congrès leur pourrait être proposé de nouveau sous des
+    auspices plus favorables que ceux qui ont existé jusqu’ici, surtout si l’on pouvait trouver
+    également des moyens convenables à satisfaire l’<placeName ref="places.xml#spa01"
+     >Espagne</placeName> sur les prétentions de laquelle relativement à la cession de <placeName
+     ref="places.xml#gib03">Gibraltar</placeName> je désirerais de connaître d’avance les sentiments
+    de V. M. I, ce port étant la clef de la <placeName ref="places.xml#med02">
+     Méditerranée</placeName> et intéressant toutes les autres puissances, afin que leur navigation
+    dans la dite mer ne devienne précaire et dépendante de la bonne ou mauvaise volonté de ceux qui
+    seront en possession de <rs ref="places.xml#gib03"> cette forteresse</rs>. </p>
+   <closer><signed rend="inline">C’est avec tous les sentiments de la plus parfaite amitié et de la plus
+    liante considération que j’ai l’honneur d’être</signed></closer>
+  </body>
+ </text>
+</TEI>

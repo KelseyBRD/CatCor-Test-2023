@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03571</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03571</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify « mad. Cateau »</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:53:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03571">
+  <body>
+<div type="part" n="1">
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St Pétersbourg</placeName>, ce
+    <date when-custom="1779-10-16">16 d’octobre</date>.</dateline></opener>
+   <p>Enfin, enfin la connaissance de <persName ref="people.xml#wag02"> Wagnière</persName> est
+    faite; il m’a tant dit de choses de <rs ref="people.xml#vol01"> mon maître</rs> que tout cela
+    n’a fait qu’augmenter ma peine sur sa perte. A présent il arrange la bibliothèque et ne fait pas
+    grands progrès, vu sa très petite santé; il m’a remis une belle liasse de papiers, que je ne
+    suis pas encore parvenue à lire tout à fait depuis huit jours. Il est vrai que nous y allons
+    petit à petit, vu le grand dessèchement de cerveau causé depuis très longtemps ou du moins
+    attribué aux lois danoises ; c’est un spécifique contre toute explosion volcanique. J’ai envie
+    d’envoyer ce code au <persName ref="people.xml#fer02"> roi de Naples</persName>, afin qu’en le
+    jetant dans le cratère du Vésuve on parvienne à le calmer tout d’un coup sans toujours avoir
+    recours à San Gennaro.</p>
+   <p>Les seigneurs <persName ref="people.xml#tro04"> Trombara</persName> et <persName
+     ref="people.xml#qua01"> Quarenghi</persName> seront les très bienvenus, et je trouve qu’à leur
+    égard le tout est arrangé au mieux, vu que dans ce meilleur des mondes possibles le tout est au
+    mieux. Mais, mon ami, vous me prenez pour un banquier avec vos comtes de <persName
+     ref="people.xml#san03"> Santini,</persName> <persName ref="people.xml#hay01"> Robert Hay</persName>, fort maigre, et l’
+     <persName ref="people.xml#fre03"> ample baron</persName> reposant en terre en quatre planches.
+    Pour du beau-frère <persName ref="people.xml#mar11"> Maron</persName> .... Mais, à propos,
+    j’oubliais de vous dire que ceci répond au 9<hi rend="superscript">em </hi><seg xml:lang="de">
+     Vortrag</seg>, forme ennuyeuse et aussi détestable que les <name ref="events.xml#bavar01">
+     affaires de <placeName ref="places.xml#bav01"> Bavière</placeName></name> qui l’ont introduite.</p>
+   <p>Eh bien donc, je ne suis point tentée des oeuvres du beau-frère <persName
+     ref="people.xml#mar11"> Maron</persName>, et cela parce qu’ordinairement je ne suis point
+    tentée par les premières tentations, contre lesquelles apparemment que <persName
+     ref="people.xml#car01"> Mad. Cardel</persName> et M. <persName ref="people.xml#wag01"> Wagner</persName> ont su mettre une
+    forte empreinte: il n’y a que les consécutives qui sont sujettes à lasser les combats des
+    tentations. Or, tout ceci est d’un sublime auquel vous seul pouvez parvenir à trouver le fil des
+    développements. <seg xml:lang="it"> Ma</seg> les miniatures de <persName ref="people.xml#mar12">
+     la signora Maron</persName> ne donnent pas même des tentations; ce sont des envies très
+    décidées d’en avoir qui viennent de me prendre: аіnsі je vous prie d’ordonner sans délai et tout
+    de suite au <rs ref="people.xml#rei03"> divin et cher monsieur</rs> non seulement d’enlever,
+    pour de l’argent s’entend, tout ce qui est sorti des pattes de la signora, mais d’en commander
+    tout plein, tout plein, au moins autant qu’il peut y avoir de petits pâtés dans une corbeille.
+    Le <rs ref="people.xml#shu02"> grand chambellan</rs> commande à <placeName ref="places.xml#rom03"> Rome</placeName> à tort et à
+    travers, tandis qu’il n’est pas. id, mais qu’il paît les oies dans une des terres de <rs
+     ref="people.xml#gol12"> sa soeur</rs> dans le gouvernement de <placeName ref="places.xml#kal01"
+     > Kalouga</placeName>, à deux cents verstes de <placeName ref="places.xml#mos01"> Moscou</placeName>, sur le chemin de
+    l’<placeName ref="places.xml#ukr01"> Ukraine</placeName>, en pauvre sire.</p>
+   <p>O <rs ref="people.xml#gri01">souffre-douleur</rs>! J’approuve tout ce que tu fais et ne fais pas ; du premier, c’est-à-dire
+    du fais vous m’avez priée, et le ne fais pas je l’ajoute gratis. Je suis trop fâchée contre vous
+    pour tout le mal que vous et le gazetier de <placeName ref="places.xml#col01">
+     Cologne</placeName> faites à mes coquins de la <placeName ref="places.xml#whi01">
+     Russie Blanche</placeName>, pour vouloir de la cohorte des capucins que tous prétendez me
+    mettre sur les bras ; refusez-les, mais d’un refus à ne plus revenir à la charge. Je prends la
+    vaisselle de <persName ref="people.xml#lec01"> M. de Juigné</persName>. Je voudrais savoir s’il
+    veut être payé ici ou à <placeName ref="places.xml#par01"> Paris</placeName>; alors tout de suite je ferai acquitter. Je n’ai
+    point d’argent pour le présent, et par conséquent je n’achète point le Jupiter au nez cassé du
+    sir <persName ref="people.xml#ham01"> Hamilton</persName>, qui n’est point ambassadeur
+    britannique tout comme les <persName ref="people.xml#tro03"> Tronchin</persName> de par-ci
+    par-là ne sont point médecins. Vous avez grande raison: j’ai la caboche dure, et quand un
+    personnage m’a frappée, fussent-ils trente du nom, j’attribue tous leurs faits, s’ils ne sont
+    clairement articulés, à celui qui a battu l’enclume. Ma si on embarque, l’année qui vient, mons.
+    Jupiter nez cassé sur un vaisseau, il se peut que nous nous en emparerons, pour de l’argent,
+    s’entend. Dites-moi un jour, d’où vient que vous ne répondez à aucune de mes lettres et que vous
+    me faites vingt fois des questions sur des choses sur lesquelles je vous ai répondu autant de
+    fois? Je ne puis supposer que deux raisons de cela: la première, comme dit <persName ref="people.xml#pin01"> M.
+    Pincé</persName>, l’amant de mad. Cateau, parce que vous ne recevez point mes lettres, la seconde, que si
+    vous les recevez, vous ne les lisez pas; en l’un et l’autre cas je vous approuve, ainsi vous
+    pouvez continuer d’agir à votre commodité ; or sus, que je vous écris ceci le 25 d’octobre, un
+    samedi au matin. Je vous prie de vous intéresser près du <persName ref="people.xml#ber03"> c. de
+     B</persName>. pour qu’il fasse moins de mal à mes coquinets; ce sont de forts bons diables sans
+    esprit ni malice : qu’on les laisse vivoter en paix; ils ne feront ni bien ni mal; ils
+    ressemblent au Jupiter sans nez. Je vous dis cela pour rire; n’allez pas prendre cela à la
+    lettre ou au sérieux, car je n’ai aucune envie de remuer l’eau bourbeuse. Que dit l’abbé
+     <persName ref="people.xml#gal05"> Galiani</persName> de la conduite du petit cousinet Vésuve?
+    Où était-il pendant ce temps? Connaît-il le <persName ref="people.xml#nic01"> duca di San
+     Nicolo</persName>?</p></div>
+   <div type="part" n="2">
+   <opener><dateline> Réponse an 11<hi rend="superscript">em</hi>
+    <seg xml:lang="de"> Vortrag</seg>, ce <date when-custom="1779-10-26">26 d’octobre</date>.</dateline></opener>
+   <p>Les deux contrats de <persName ref="people.xml#tro04"> Trombara</persName> et <persName
+     ref="people.xml#qua01"> Quarenghi</persName> ont été remis à <persName ref="people.xml#bez01">
+     M. Bezborodka</persName> sous clause d’être précieusement gardés et mis en oeuvre à l’arrivée
+    des dits seigneurs. Encore une fois, les copies des <title ref="works.xml#logera01"
+     >loges de Raphaël</title> sont des choses précieuses; on les voit et revoit sans
+    se lasser jamais, et plus on les regarde, et plus on veut les voir. Pour les cartes du cousin
+    Etna, je n’en ai point entendu parler ; je vous ai dit plus haut où le <persName
+     ref="people.xml#shu02"> gr. ch.</persName> avait établi son gîte. Je donne plein pouvoir au
+     <persName ref="people.xml#rei03"> divin</persName> d’acheter du portefeuille <persName
+     ref="people.xml#men01"> Mengs</persName> tout ce qu’il jugera à propos, et je vous ai, de même
+    qu’à <persName ref="people.xml#gra01"> M. de Vergennes</persName>, beaucoup d’obligations du
+    cadeau que vous me faites de l’ <title ref="works.xml#persee01">Andromède</title> de
+     <persName ref="people.xml#men01"> Mengs</persName>, qui voyage de <placeName
+     ref="places.xml#mal02"> Malaga</placeName> à <placeName ref="places.xml#mad01">
+     Madrid</placeName> et de là viendra à <placeName ref="places.xml#par01"> Paris</placeName>, d’où elle passera en <placeName ref="places.xml#hol02">
+    Hollande</placeName> pour arriver ici, afin d’aller un jour à la <placeName ref="places.xml#chi02">
+     Chine</placeName> tenir compagnie aux mosaïques de l’empereur <persName ref="people.xml#cla01">
+     Claude</persName>. En vérité, en vérité, comme disait notre Seigneur, il est impossible de
+    bâcler plus lestement une réponse à d’immenses <seg xml:lang="de"> Vorträge</seg> que le
+    faisons, <seg xml:lang="it"> ma</seg> aussi avant de prendre la plume, nous nous faisons tirer
+    l’oreille depuis certain temps; or la faute, comme savez, en est aux lois danoises qui
+    dessèchent le cerveau et éteignent les matières volcaniques. </p>
+   <closer><signed rend="inline">Adieu, monsieur <rs ref="people.xml#gri01">souffre-douleur</rs>, que le ciel allaite votre patience, car
+    d’ailleurs vous serez excédé de lettres sèches comme bois.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

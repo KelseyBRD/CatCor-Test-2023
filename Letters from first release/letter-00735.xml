@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00735</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00735</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-27">27 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00735">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Царского Села. </placeName><date
+                            when-custom="1783-06-09">9 июня 1783 </date></dateline></opener>
+                    
+                    <p>Письмо твое от 28 прошедшего я получила сегодня из рук <persName
+                            ref="people.xml#lan02">Ал[ександра] Дм[итриевича].</persName> Я надеюсь,
+                        что мои письмы теперь, Князюшка, до рук твоих дошли, а когда изволишь
+                        писать: "Дай Боже, чтоб Вы меня не забыли", то сие называется у нас "писать
+                        пустошь". Не токмо помню часто, но и жалею и часто тужу, что ты там, а не
+                        здесь, ибо без тебя я, как без рук. Прошу тебя всячески: не мешкай занятием
+                            <placeName ref="places.xml#cri01">Крыма.</placeName> Пугает меня теперь
+                        зараза для тебя и для всех. Для Бога возьми и вели взять всевозможные меры.
+                        Я очень жалею, что ты с Фельдм[аршалом] <persName ref="people.xml#rum01"
+                            >Румянцевым</persName> где ни на есть не съехались. Все на свете теперь
+                        на него находят заботы: штаба генерального, инженеров, деньги
+                        экстраординарные и вестей от <persName ref="people.xml#bul01"
+                            >Булгакова</persName> просит. Также боится быть упрежден турками и чтоб
+                        чего не проронить. Видя сие, приказала к нему послать, что можно будет.
+                        Авось-либо все по-пустому. Верю, что тебе забот много, но знаю, что ты да я
+                        заботами не скучаем. Что строение кораблей идет с поспешением - сие слуху
+                        моему весьма приятно. Потребное число людей стараться буду прислать. В
+                        покупке хлеба удача была, а таможенным недоразумениям легко пособить: в
+                        теперешнее время оно и нужно.</p>
+                    <p><persName ref="people.xml#gus01">Король Шведский</persName> руку переломил в
+                            <placeName ref="places.xml#tav01">Тавастгуском лагере,</placeName> и для
+                        того наше свидание в <placeName ref="places.xml#fre01"
+                            >Фридрихсгаме</placeName> отложено до 20 сего месяца.</p>
+                    <closer><signed><seg xml:lang="fr">Adieu, mon Ami.</seg> Христос с
+                        тобою. Сего утра Изм[айловского] полку майор <persName
+                            ref="people.xml#ols01">Олсуфьев</persName> умер. Напиши несколько
+                        достойных людей, из коих мне выбрать на его место. Теперь поручила полк
+                            <persName ref="people.xml#lev01">Левашову.</persName>
+                        </signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

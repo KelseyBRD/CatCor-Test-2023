@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01271</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01271</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-30"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-06-28"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+            <change>
+                <date when="2021-08-04"/>
+                <persName>Kelsey Rubin-Detlev</persName>
+                <label>Markup and annotation added, queries resolved.</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01271">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Скажите, пожалуй, <persName ref="people.xml#pau01">сыну</persName> моему, чтоб он,
+                для моего сегоднишняго дня, надел свою кавалерию на <rs ref="people.xml#koz06"
+                    >Смоленскаго Губернатора</rs>, для ран его, на моего <persName
+                    ref="people.xml#orl09">Гофмаршала</persName>, для чести Двора моего, на <rs
+                    ref="people.xml#chi07">Сибирскаго Губернатора</rs>, дабы в шести тысячах отселе
+                верст люди видели, что их труды не тщетны; на <persName ref="people.xml#tep01"
+                    >Господина Теплова</persName>, дабы он скорее выздоровел.<note type="editorial"
+                    >These individuals received the Order of St Anne on 22 September 1765.</note>
+                Прошу о сем моем решение учинить.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

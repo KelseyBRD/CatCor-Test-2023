@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00071</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00071</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-03">3 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, annotations, and translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00071">
+                <body>
+                    <opener rend="right"><dateline><date when-custom="1789-03-08">8 [19] марта 1789
+                                г.</date>
+                            <placeName ref="places.xml#pet01"
+                        >С.-Петербург</placeName></dateline></opener>
+                    <p><rs ref="events.xml#allia02">Союз оборонительный</rs> между нами и <rs
+                            ref="people.xml#jos01">императором Римским</rs>, в 1781 году
+                        восстановленный, коль скоро известен стал <rs ref="places.xml#pru01"
+                            >берлинскому двору</rs>, возбудил в нем подозрение, и хотя со стороны
+                        нашей употреблены были все средства к отъятию оного уверениями, что
+                        обязательства наши суть в существе их невинные, что в них ручательство наше
+                        на целость германской конституции предохранено и что мы ни на что вредное
+                            <rs ref="people.xml#fri03">королю прусскому</rs> не поддадимся, покуда
+                        он дружбу и доброе согласие с нами сохранять станет; но по взаимному
+                        соперничеству <rs ref="places.xml#pru01">берлинского двора</rs> с <rs
+                            ref="places.xml#hab01">венским</rs>, целые полвека продолжавшемуся, не
+                        могли сии уверения вовсе успокоить первый. Правда, что не взирая на то,
+                        когда настояли у нас споры с <rs ref="places.xml#ott01">Портою</rs>,
+                        присоединением <placeName ref="places.xml#cri01">Тавриды</placeName> к <rs
+                            ref="places.xml#rus01">империи нашей</rs> кончившиеся, когда <rs
+                            ref="places.xml#hab01">венский двор</rs> в силу помянутого союза готовил
+                        знатные вооружения и когда <placeName ref="places.xml#fra01"
+                            >Франция</placeName> для недопущения нас удержать за собою татарские
+                        земли употребила разные средства и самые угрозы <rs ref="places.xml#hab01"
+                            >венскому двору</rs>, подавая повод <rs ref="places.xml#pru01"
+                            >берлинскому</rs> принять с нею участие в недоброхотных ее противу нас
+                        поступках, <rs ref="people.xml#fre01">покойный король прусский</rs> не токмо
+                        остался спокойным зрителем сего события, но и когда вслед затем <rs
+                            ref="orgs.xml#leag01">дело</rs> шло о промене <placeName
+                            ref="places.xml#bav01">Баварии</placeName> в пользу <rs
+                            ref="people.xml#jos01">императора</rs> на <placeName
+                            ref="places.xml#aus02">Нидерланды</placeName>, искал он сие отвратить
+                        найвящше самыми дружественными с нами изъяснениями, соблюдая умеренность и
+                        надлежащее к нам уважение по кончину свою. По вступлении на престол <rs
+                            ref="people.xml#fri03">племянника его</rs>, <rs ref="places.xml#pru01"
+                            >Потсдамский кабинет</rs>, управляемый <rs ref="people.xml#her02"
+                            >министром беспокойным и заносчивым</rs>, весьма переменил свое
+                        поведение. Вам известно, что не имев от нас ни малейшей причины ко вражде,
+                        употребил он чрез посланника его <persName ref="people.xml#die01"
+                            >Дица</persName> в <placeName ref="places.xml#ist01"
+                            >Константинополе</placeName> сильные способы возбудить турков к <rs
+                            ref="events.xml#turki01">объявлению нам войны самой неправедной</rs>.
+                        Собственное ваше проницание объемлет без всякого сомнения, какие для себя
+                        виды имел он из такового возжения войны между нами и <rs
+                            ref="places.xml#ott01">врагом всего христианства</rs>. Мы однакож
+                        продолжали сохранять дружество с <rs ref="people.xml#fri03">королем
+                            прусским</rs> и конечно далеки были и тут, чтоб искать и заводить новые
+                        во вред его беспокойства; но он не удовольствовался сими потаенными противу
+                        нас подвигами, а приняв в досаду, что мы по существованию между нами и <rs
+                            ref="places.xml#ott01">Портою</rs>
+                        <rs ref="events.xml#turki02">войны</rs>, в которой <rs
+                            ref="people.xml#jos01">император</rs> принял деятельное участие, не
+                        могли на настоящее время приступить к возобновлению <rs
+                            ref="events.xml#pruss01">союза</rs>, с <rs ref="people.xml#fre01">дядею
+                            его</rs> бывшего, ниже принять тотчас посредничество от него
+                        предложенное в примирении нас с турками после свежего и тяжкого оскорбления,
+                        нам от сих варваров причиненного, начал и явно вопреки нашим интересам
+                        действовать, как то известны его поступки в <placeName
+                            ref="places.xml#pol01">Польше</placeName>, в <placeName
+                            ref="places.xml#den01">Дании</placeName> и <placeName
+                            ref="places.xml#swe01">Швеции</placeName> нимало не сходные тем
+                        дружеским изъяснениям, кои не один раз от него повторены были в самое то
+                        время, когда уже дела вовсе оным противные располагаемы были.</p>
+                    <p>Хотя мы в сугубой войне нашей и прилагаем всемерное попечение отвратить
+                        воспаление нового огня, и хотя не упускаем истощевать средства умеренности,
+                        но оные не могут инаки быть, как сразмерно достоинству нашему, и потому мы
+                        обязаны заранее помышлять о способах к предохранению всего, что с честию,
+                        безопасностию и пользою империи, от бога нам вверенной, сопряжено. Уважения
+                        сии заставляют нас планы военных действий наших противу неприятелей наших
+                        открытых располагать таким образом, чтоб мы могли найтися в мерах и противу
+                            <rs ref="people.xml#fri03">помянутого государя</rs>, естьли бы он, не
+                        удовольствовавшися посредственными неприязненностями, принудил нас до
+                        непосредственной обороны.</p>
+                    <p>Мы, во-первых, тут приемлем в уважение, что противу такого неприятеля
+                        предводительство оружия нашего всего лучше и для государства надежнее
+                        вверить полководцу, которого первые отличные подвиги знаменитыми успехами
+                        увенчанные, были против сего неприятеля, во ожидании, покуда дела решатся
+                        или мирно, о чем мы не престаем молить всевышнего, или же дойдут до иной
+                        развязки. Вы просвещенным советом вашим и трудами общими с прочими от нас
+                        доверенными будете наилучше способствовать надлежащим приуготовлениям и
+                        распоряжениям: почему и соизволяем, чтоб вы ко двору нашему прибыли, оставя
+                        войска, <orgName ref="orgs.xml#ukra01">Украинскую армию</orgName>
+                        составляющие, под главным начальством нашего <persName
+                            ref="people.xml#pot01">генерала-фельдмаршала князя
+                            Потемкина-Таврического</persName>, тем более, что как выше сказано,
+                        соображая план войны нашей против <rs ref="places.xml#ott01">Порты</rs> с
+                        нужными и в другую сторону осторожностями, да и уважая на те препятствия,
+                        коими легкомысленные поляки, обольщенные <rs ref="places.xml#pru01">прусским
+                            двором</rs>, затрудняют самые необходимые надобности для армии нашей, мы
+                        долженствуем сократить действия наши на пунктах к границам нашим, под
+                        начальством <rs ref="people.xml#pot01">означенного
+                            генерала-фельдмаршала</rs> состоящим, ближайших и подручных, дабы
+                        обеспечить пропитание и снабдение войск наших из внутри пределов
+                            российских.<note type="editorial">The original editory of this secret
+                            rescript, N.M. Korobkov, observes that the personal opposition between
+                                <ref target="people.xml#rum01">Rumyantsev</ref> and <ref
+                                target="people.xml#pot01">Potemkin</ref> made their cooperation
+                            difficult and that accordingly <ref target="people.xml#rum01"
+                                >Rumyantsev</ref> was recalled so as to leave <ref
+                                target="people.xml#pot01">Potemkin</ref> in sole control of the
+                            armies. On 29 March 1789, <ref target="people.xml#rum01"
+                                >Rumyantsev</ref> replied to <ref target="people.xml#cat01"
+                                >Catherine</ref> that, while he was grateful for recalling him in
+                            such a way as to preserve the reputation he had acquired in fifty years
+                            of service, he could not take up his new task due to illness. He
+                            requested permission instead to go to take the waters. On 7 May 1789 he
+                            handed over command of the <ref target="orgs.xml#ukra01">Ukrainian
+                                Army</ref> to <ref target="people.xml#rep01">Prince N.V.
+                                Repnin</ref>. A year later, however, he had not yet left <ref
+                                target="places.xml#mol01">Moldavia</ref>. On 7 May 1790, he wrote to
+                                <ref target="people.xml#cat01">Catherine</ref> in reply to her
+                            reiterated request, dated 19 April 1790, that he depart. He blamed his
+                            delay on ill health and claimed that he would now leave for his estate
+                            in <ref target="places.xml#ukr01">Ukraine</ref> before going abroad to
+                            take the waters. A month later, though, on 15 June 1790, he wrote again
+                            to say that his health would still not permit his departure. According
+                            to N.M. Korobkov, <ref target="people.xml#rum01">Rumyantsev</ref>
+                            intentionally remained in <ref target="places.xml#mol01">Moldavia</ref>
+                            in hopes of being recalled to service against the Ottomans. He returned
+                            to his estate only in late 1790. (<bibl><title ref="works.xml#feldma01"
+                                    >Feldmarshal Rumyantsev</title>, <biblScope unit="pp">pp. 304,
+                                    307-308, 310, 313-15</biblScope></bibl>).</note></p>
+                    <p>При сем случае воспоминая ваши усердия к нам и отечеству, подъятые в течение
+                        многих лет труды и знатные заслуги славу неувядаемую вам приобретшие, не
+                        можем оставить без подания вам удостоверения, что мы всегда были и пребудем
+                        к оным признательны и что монаршая наша милость и отличное к вам
+                        благоволение навсегда с вами останутся.</p>
+                    <p>На проезд ваш всемилостивейше жалуем вам из суммы на чрезвычайные расходы по
+                        армии определенной пятнадцать тысяч рублей. Столовые же деньги, кои вы как
+                        прежде так и по командованию <orgName ref="orgs.xml#ukra01">Украинскою
+                            армиею</orgName> получали, имеете и впредь получать.</p>
+                    <closer><signed>Пребываем в прочем вам императорскою нашею милостию всегда
+                            благосклонны. <persName ref="people.xml#cat01" type="signature"
+                                >Екатерина.</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener rend="right"><dateline><date when-custom="1789-03-08">8 March
+                                1789</date>
+                            <placeName ref="places.xml#pet01">St.
+                        Petersburg</placeName></dateline></opener>
+
+                    <p>As soon as the defensive alliance between us and the Roman emperor,
+                        reestablished in 1781, became known to the court at Berlin, it aroused
+                        suspicion there. Although on our part all means were used to allay this
+                        suspicion with assurances that our obligations are in essence innocent, that
+                        in them our guarantee of the integrity of the German constitution is
+                        preserved, and that we will resist anything deleterious to the Prussian
+                        king, as long as he maintains friendship and good harmony with us. But, due
+                        to the mutual rivalry between the courts at Berlin and Vienna that has
+                        lasted half a century, these assurances could not fully reassure the former.
+                        It is true that the late Prussia king nevertheless remained a calm spectator
+                        when the disputes arose between us and the Porte that ended in the
+                        annexation of the Crimea to our empire; when the Viennese court, in view of
+                        the aforementioned alliance, prepared significant armaments; and when France
+                        used various means and even threats against the Viennese court in order to
+                        prevent us from retaining the Tatar lands, which gave the court at Berlin
+                        cause to take part in their malevolent actions against us. Even when
+                        afterward during the affair surrounding the exchange of Bavaria for the
+                        Netherlands in the emperor's favour, he tried to prevent this above all with
+                        the most friendly discussions, maintaining moderation and due respect for us
+                        until his death. When his nephew ascended the throne, the cabinet at
+                        Potsdam, governed by an unruly and arrogant minister, markedly changed its
+                        conduct. You know that without receiving from us the slightest cause for
+                        enmity, he, through his envoy Diez in Constantinople, used the strongest
+                        means to incite the Turks to declare the most unjust war on us. With your
+                        own perspicacity you will doubtless grasp the aims that he had for himself
+                        in thus igniting a war between us and the enemy of all Christendom. We,
+                        however, continued to maintain friendship with the Prussian king, and in
+                        this too we were of course far from seeking and creating new disturbances to
+                        harm him. But he was not satisfied with these secret deeds against us.
+                        Rather it annoyed him that, given the ongoing war between us and the Porte
+                        and the emperor's active participation in it, we could not at present
+                        undertake to renew the alliance that existed with his uncle. Nor could we
+                        immediately accept the mediation that he offered in order to reconcile us
+                        with the Turks after the recent and grave insult that we had received from
+                        those barbarians. Then he began openly to act contrary to our interests, for
+                        example his well-known actions in Poland, Denmark, and Sweden, which were in
+                        no way compatible with those friendly explanations, which he repeated more
+                        than once at the very moment when affairs were already arranged in a
+                        completely opposite manner.</p>
+                    <p>Although in the midst of our double war we are taking all possible care to
+                        prevent a new fire from igniting, and although we will not fail to exhaust
+                        all moderate means, these means must be commensurate with our dignity.
+                        Therefore were are obliged to think in advance of ways to preserve all that
+                        which is tied to the honour, safety, and advantage of the empire which God
+                        has entrusted to us. These considerations force us to arrange our plans for
+                        military action against our open enemies in such a way that we might not be
+                        at a loss for measures to take against the aforementioned monarch, should he
+                        not be satisfied with moderate hostilities and force us to defend ourselves
+                        directly.</p>
+                    <p>We, firstly, take into consideration in this matter that it is best and most
+                        certain for the state to entrust the leadership of our armed forced against
+                        such an enemy to a commander, whose first distinguished exploits, crowned
+                        with famous successes, were achieved against this enemy. We meanwhile wait
+                        to see whether affairs are resolved peacefully, as we unceasingly pray the
+                        Almighty that they will, or rather reach another resolution. With your
+                        enlightened counsel and with your efforts alongside our other deputies, you
+                        will best contribute to the appropriate preparations and arrangements. It is
+                        therefore our pleasure that you will come to our court, leaving you the
+                        troops that make up the Ukrainian army under the primary command of our
+                        general field marshal Prince Potemkin-Tavrichesky. This is all the more so
+                        since, as stated above, in accordance with the plan of our war against the
+                        Porte and on the other hand in keeping with due prudence--and considering
+                        the obstacles by which the thoughtless Poles, seduced by the Prussian court,
+                        are causing difficulties for our army in the most necessary of needs--we
+                        must cut back our activities at points that are nearest and most accessible
+                        to our borders, under the command of the said general field marshal, in
+                        order to ensure the subsistence and equipment of our troops within Russian
+                        borders.</p>
+                    <p>Recalling on this occasion your zeal for us and for the fatherland, upheld
+                        throughout many years of labours and eminent service, by which you have
+                        attained unfading glory, we cannot fail to assure you that we are and remain
+                        grateful for all this, and that our monarchical favour and outstanding
+                        goodwill toward you will forever remain with you.</p>
+                    <p>We most graciously grant you 15,000 rubles for your travel from the sum
+                        alloted to extraodinary army expenses. The food allowance, which you
+                        received previously and as commander of the Ukrainian army, you will
+                        continue to receive in future.</p>
+                    <closer><signed>In all other respects we remain by our imperial grace always
+                            favourable to you. <persName type="signature"
+                            >Catherine.</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

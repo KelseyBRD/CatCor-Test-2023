@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01151</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01151</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01151">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#niz01">Нижняго Новагорода.</placeName><lb/>
+                <date when-custom="1767-05-20">Маия 20 числа, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Я сегодня по утру сюда приехала и за столом получила Ваше письмо, от 17 числа сего
+                месяца. Радуюсь, что <persName ref="people.xml#pau01">сын мой</persName> здоров. При
+                сем к Вам посылаю копию с письма купеческаго, из котораго усмотрите обстоятельства,
+                до господина <persName ref="people.xml#gom01">Гомма</persName> весьма близко
+                касающияся. Я у Вас спрашиваю, что <persName ref="people.xml#wei01"
+                    >Веймарн</persName> и все над ним приставленные смотрят, и доколе мне от
+                проклятаго выписанья серебра скуку нести? Прошу Вас уведомить меня о всех сих
+                обстоятельствах, и куда <persName ref="people.xml#gom01">Гомм</persName> девался,
+                ибо, сказывают, уехал из <placeName ref="places.xml#mos01">Москвы</placeName> и
+                неужели что он уже все потерял?</p>
+            <closer rend="inline"><signed>Впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript xml:lang="fr">
+                <p>Copie d’une Lettre.<lb/> Je viens de recevoir la nouvelle,
+                        qu’il y a pour plus de 50 m. roubles de Lettres de change, que Mr. <persName
+                            ref="people.xml#gom01">Gomm</persName> avoit passé, sont de retour avec
+                        protêt; qu’on en attend beaucoup d’autres, qui sont en chemin et qu’on
+                        regarde une banqueroute pour inévitable. Ces circonstances ont causé un
+                        grand mouvement à la bourse d’<placeName ref="places.xml#ams01"
+                            >Amsterdam</placeName> Le Banquier Hoppe a envoyé un courrier à John
+                        Gomm à <placeName ref="places.xml#lon01">Londres</placeName>; son retour
+                        décidera du crédit des banquiers de la cour de <placeName
+                            ref="places.xml#rus01">Russie</placeName>; crédit que Mr. Clifford a
+                        déjà refusé. Je suis etc.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

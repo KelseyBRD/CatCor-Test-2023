@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03694</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03694</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-06">06-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:00:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03694">
+  <body>
+
+   <opener><dateline> Au <rs ref="places.xml#tau01"> P. T</rs>., ce <date when-custom="1794-08-26">26
+    août 1794</date>.</dateline></opener>
+   <p>Trois jours de suite sont entrés (une pluie de pancartes!) les No No 77,78, 79, force
+    bulletins, le portrait de <persName ref="people.xml#men01"> Mengs</persName>, des livres sans
+    nombre; quatre postes que les vents contraires retenaient, et trois ou quatre courriers de tous
+    les coins et recoins du monde, de façon que neuf tables assez grandes suffisent à peine pour
+    contenir tout ce fatras, et que quatre personnes tour à tour me lisent depuis six heures du
+    matin jusqu’à six heures du soir pendant trois jours, et voici un moment d’assiette où je vous
+    fais ce billet. Vos commissions sont toutes déjà en commission, et entre autre le journal de M.
+     <persName ref="people.xml#bus04"> Busse</persName>, qui était sur ma table, est déjà cacheté,
+    mais Dieu seul sait quand il partira. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien. Ah! mes chères chroniques, vous vous reposez
+    tranquillement: quand est-ce que je vous tracasserai de rechef? J’en suis à l’année 1368 ou
+    1369.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03582</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03582</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Principati is an unidentified person that Grimm,
+     and then Catherine II, calls by that last name. His identitiy is unknown, so he is coded as
+     #people-unknown</p><p>Emma - added an editorial note for "les Hay" but just provided the two codes, not names.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-25">25/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:50:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03582">
+  <body><div>
+
+   <opener><dateline> Ce <date when-custom="1781-03-19">19 mars 1781</date>.</dateline></opener>
+   <p>C’est au numéro 51 du 1 janvier que celle-ci aura l’honneur de servir de réponse. Je dois dans
+    toutes les règles la commencer par vous remercier des belles choses que vous me dites sur le
+    sujet du nouvel an. Ecoutez: si je n’ai pas plus tôt répondu à cette très honorable pancarte, la
+    raison en est qu’à la lettre la besogne que j’ai ne me laisse que des instants, et Dieu sait
+    encore comme chacun s’empare de ces instants, et j’ai beau pester et me plaindre, il n’en est ni
+    plus ni moins, car présentement que la grande besogne approche de son terme, les détails et les
+    détails des détails deviennent d’une immensité à laquelle à peine l’on peut suffire; ma je ne
+    dis rien: j’espère que tout cela sera bon, utile, raisonnable et sage.</p>
+   <p>J’ai été bien fâchée d’apprendre votre maladie; mais aussi quelle idée vous prenait d’imaginer
+    que parce que je ne vous écrivais pas, il fallait aller à la suite de <persName
+     ref="people.xml#mar01"> Marie Thérèse</persName>: vous voyez bien que je prende dans la
+    simplicité de mon coeur tout pour bon de ce qu’on veut bien me dire. Mais savez-vous bien que
+    tandis que vous étiez étendu dans votre lit et qu’à <placeName ref="places.xml#vie01">Vienne</placeName> tout était en deuil,
+    votre très humble servante était horriblement tourmentée d’un rhumatisme au bras gauche, qui n’a
+    été guéri que par les mouches cantarides qui ont fait cesser les grandes douleurs, et qu’à
+    l’heure qu’il est, encore tous les mouvements de ce bras ne sont pas parfaitement libres,
+    surtout pendant les tempêtes, lesquelles sont très fréquentes cette année. Aussi n’y a-t-il
+    qu’elles, qui savent combattre pendant <rs ref="events.xml#ameri01"> cette guerre</rs>, et la
+    gloire n’en reviendra-t-elle qu’à elles en toute justice.</p>
+   <p>Puisque vous avez de la difficulté à lire et à écrire, il faudrait que je ne vous écrive que
+    des lettres très courtes; mais le moyen que cela soit, parce que depuis que j’ai commencé cette
+    lettre le 19 mars et ce jourd’hui 26 mars, j’ai retrouvé et reçu vos <seg xml:lang="de">
+     Vortrag</seg> 25, 26 et 27 et votre billet qui accompagnait l’admirable ouvrage de <persName
+     ref="people.xml#nec01"> M. Necker</persName>, savoir son compte rendu. Je vous prie de l’en
+    remercier de ma part et de lui dire le cas infini que je fais de son ouvrage, mais surtout de
+    ses talents: je ne doute nullement que le ciel l’a destiné pour tirer la <placeName ref="places.xml#fra01">France</placeName> de
+    l’état très embarrassé dans lequel il a trouvé les finances de ce royaume, mais cela n’est pas
+    l’ouvrage d’un jour ni d’une année, je le sais par expérience. Je suis très fâchée de ce que M.
+    le <rs ref="people.xml#gri01">souffre-douleur</rs> puisse supposer un oubli de ma part: je ne vous croyais pas capable d’un
+    aussi injuste soupçon; assurément il y avait de la maladie à cela: j’avais toujours grande envie
+    de vous écrire; je vous écrivais, mais à petites journées, faute de moyens de le faire, comme
+    vous l’avez vu vous-même et comme celle-ci encore vous le démontrera.</p>
+   <p>Votre maladie m’a fait beaucoup de peine; je vous prie, ayez soin de la convalescence: elle
+    est souvent pire que la maladie; mais surtout les rechutes ne valent rien ; ne griffonnez point
+    quand cela vous fatigue. Je ne sais pas trop ce que cette année deviendra: elle allait prendre
+    un petit train de pourparlage, mais cela va d’un train de nonchalance qui prouve, ce me semble,
+    que tout cela ne mènera à rien. Il me semble encore qu’il n’y a que moi qui souhaite de voir
+    finir le tracas de <rs ref="events.xml#ameri01"> cette guerre</rs>, et vous verrez que ce sera
+    moi aussi qui retirerai le moins d’avantages de ma bonne volonté. Mais laissons là les choses
+    que le temps débrouillera. La description que vous en faites est très plaisante, et je souhaite
+    que vous disiez vrai. Pour de votre protégé, n’en parlons plus: il est coulé à fond. Je n’irai
+    pas de cette année à <placeName ref="places.xml#tsa04">Tsaritsino</placeName>, à moins que
+    mon bras n’empire. Si le prince <persName ref="people.xml#orl01"> Orlof</persName> est
+    à <placeName ref="places.xml#par01">Paris</placeName> à l'arrivée de cette pancarte; saluez-le de ma part et dites-lui qu’il
+    ramène, à son retour, un petit prince Orlof visible ou invisible; son docteur Michel vient de
+    mourir, selon les gazettes.</p>
+   <p>J’ai reçu le tableau en émail de la mort de <title ref="works.xml#lamort01">
+     Germanicus</title>. Je vous en remercie: il est très beau. La tabatière avec le tombeau
+    de <persName ref="people.xml#vol01">Voltaire</persName> m’a fait de la peine; aussi je m'en suis défaite; je ne pouvais la
+    voir sans attendrissement. Cela vous paraîtra étrange, mais cela est vrai: je ne puis me faire à
+    l’idée qu’il est mort, parce que j’aimais à le savoir en vie; il m’aimait beaucoup, et je lui ai
+    beaucoup aussi de reconnaissance. Je vous prie de ne charger aucun baron allemand ni livonien
+    d’aucun paquet pour moi, parce que chaque épitaphe ou inscription les arrête en chemin; je ne
+    sais où vous avez déterré ce baron <persName ref="people.xml#boc01"> Bock</persName> qui a été
+    quatre ou cinq mois en chemin et m’a gâté vos pâtes d’ <placeName ref="places.xml#auv01">
+     Auvergne</placeName> et retenu votre lettre, que j’ai été obligée de lui faire demander par
+    sire <persName ref="people.xml#bez01"> Bezborodka</persName>.</p>
+   <p>Le récit que vous me faites de la fourrure de <persName ref="people.xml#duv01"> Mad; de
+     Vergennes</persName> me donne une nouvelle preuve de l’exactitude avec laquelle vous vous
+    plaisez à remplir les commissions dont je vous tourmente tout le courant de l’année. Si vous
+    saviez quelle peine il y a à avoir affaire avec des fous et des écervelés, vous ne seriez pas
+    étonné si je n’ai pu encore vous répondre sur l’affaire du banquier <persName
+     ref="people.xml#hal01"> Haller</persName>. J’en écrirai au gouverneur de la <placeName ref="places.xml#whi01">Russie Blanche</placeName>, où ces gens-là ont leurs biens;
+    mais Dieu sait si le cadet a quelque chose outre sa peau, et l’aîné des deux frères a tant payé,
+    payé pour son cadet, et lui-même il se trouve si dérangé dans ses affaires que je ne saurais
+    dire ce qu’il en est. J’ai donné l’affaire de <persName ref="people.xml#gil01">
+     Gillet</persName> à sire <persName ref="people.xml#bez01"> Bezborodka</persName>, mon factotum:
+    il n’a qu’à se chamailler avec l’académie, son président etc.; je ne dirai mon mot que quand il
+    en sera temps. Je vous renouvelle ma résolution de ne plus acheter quoi que ce soit, pas un
+    tableau, rien; je n’ai plus besoin de rien, et par conséquent je renonce au <persName
+     ref="people.xml#cor01"> Corrège</persName> du <rs ref="people.xml#rei03"> divin</rs>. Le
+     <persName ref="people.xml#bar02"> pr. Bariatinski</persName> vous reviendra sain et sauf,
+    peut-être même par la voie de <placeName ref="places.xml#ist01">Constantinople</placeName>; il parle de s’embarquer
+    à <placeName ref="places.xml#khe01">Kherson</placeName>. Vous voulez encore que je contribue à rebâtir les villes brûlées
+    d’<placeName ref="places.xml#ger01">Allemagne</placeName>; je bâtis chez moi cent et quelques villes; je ne dois point empiéter
+    sur le terrain de mon très cher frère <persName ref="people.xml#jos01">Joseph II</persName>. C’est par cet article que je
+    finis ma réponse à la pancarte que <persName ref="people.xml#unknown"> Principati</persName> a
+    apportée.</p>
+   <p>Je trouve dans le 25-ième <seg xml:lang="de"> Vortrag</seg> la proposition des tableaux
+     <persName ref="people.xml#tro03"> Tronchin</persName>, qui n’est pas medécin, et tout de suite
+    j’y renonce courageusement. Pour le catalogue, je le reçois, et si le mien sera imprimé, il
+    l’aura ou ne l’aura pas, selon que ma mémoire me servira. Je vous fais très volontiers mon
+    compliment sur la nomination du <persName ref="people.xml#cas01"> marquis de
+    Castries</persName>, à la place de ministre de la marine. Mais pourquoi médisez-vous de moi avec
+    le <persName ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01">Suède</placeName></persName>? Ne pouvez-vous pas
+    parler d’autre chose? Ce que vous me dites de la santé du prince <persName
+     ref="people.xml#orl01"> Orlof</persName> m’épouvante; si vous le voyez, défendez-lui de ma part
+    de se servir de charlatans pour gâter sa santé. J’ai reçu vos <title ref="works.xml#carmen01">
+     Carmen saeculorum</title>, et la musique de <persName ref="people.xml#phi02">
+     Philidor</persName> est toujours enfermée dans mon armoire attendant votre permission de la
+    tirer de là; je vous l’ai demandée, <seg xml:lang="de">aber das wird der
+     Herr ausgeschwitzet haben während seiner Krankheit.</seg>
+   </p></div><div>
+   <opener><dateline>Ce <date when-custom="1781-03-29">29 mars</date>. </dateline></opener>
+   <p>1) Les machines et rouets qui ne savent que filer et tordre du ch: <persName
+     ref="people.xml#mil02"> Miller</persName>, embarqués sur l’escadre pacifique de l’ <persName
+     ref="people.xml#bor02"> amiral Borissof</persName> seront les bienvenus, 2) Les trois élèves
+    dressés par le susdit chevalier et qui attendront que mon ordre pour se rendre à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> n’ont qu’à partir avec un contrat, et pour leur
+    voyage et pour leur séjour, comme les s. <persName ref="people.xml#tro04"> Trombara</persName>
+    et <persName ref="people.xml#qua01"> Quarenghi</persName> ont eu les leurs en bonne et due
+    forme, et il faut encore les adresser au s. <persName ref="people.xml#bez01">
+     Bezborodka</persName>, factotum. 3) Le quatrième sujet bien plus distingué, <rs
+     ref="people.xml#jac01"> maître Jacques</rs>, en fait d’établissement, et dont j’ai vu d’assez
+    bons échantillons, je ne le refuse pas à d’honnêtes conditions; tout cela sera très bon à placer
+    dans l’illustre ville de <placeName ref="places.xml#sof01"> Sophie</placeName>, dont
+    l’emplacement se trouve alligné derrière l’hôtel des vaches de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>.
+    Adressez le sire fabricateur à sire <persName ref="people.xml#bez01"> Bezborodka</persName>,
+    factotum universel et moutardier impérial.</p>
+   <p>Pour des titres, s’il vous plaît, n’en divulguez pas, du moins avant que nos machines et
+    rouets ne soient en pleine mouvance; pour de l’argent, à la bonne heure.</p>
+   <p>Question: Pourquoi m’appelez-vous les viscères du <persName ref="people.xml#pop03">
+     pape</persName>? Mais savez-vous bien que nous nous écrivons des lettres de notre propre main
+    dans des langues que celui qui les reçoit n’entend point? Ces lettres sont accompagnées de
+    traductions dans des langues encore que celui qui les reçoit n’entend pas non plus; celles du
+     <persName ref="people.xml#pop03"> papa Braschi</persName> sont écrites en italien, accompagnées
+    d’une traduction latine, et les réponses sont écrites en russe et traduites en grec. <seg
+     xml:lang="de"> Sie werden finden daß dieses sehr sonderlich ist, aber dennoch das ist
+    so.</seg></p>
+   <p>J’ai dit, et je répète: point acheter, excepté les miniatures de <persName
+     ref="people.xml#mar12"> Thérèse Mengs de Maron</persName>. Mais point de portefeuilles de chez
+     <persName ref="people.xml#jen01"> M. Jenkins</persName>, ni rien, à moins qu’ils ne soient déjà
+    achetés, car ce qui est fait est fait. Filippo <persName ref="people.xml#hac01">
+     Hackert</persName> refusez. Je suis bien fâchée de vos embarras et de ceux de <persName
+     ref="people.xml#san03"> Santini</persName>.</p>
+   <p>L’ <persName ref="people.xml#fre03"> amplissime baron</persName> étant mort, les   Hay<note type="editorial"><persName
+    ref="people.xml#hay01"></persName> and <persName
+     ref="people.xml#hay02"></persName></note> se sont trouvés par leur incapacité hors
+    d’état de conduire aucune affaire confiée au baron d’heureuse mémoire. Toutes les gazettes
+    annoncent la porte de <persName ref="people.xml#cle01"> Clérisseau</persName>, mais j’oubliais
+    de vous dire que je suis très aise que les 50 mille florins vous soient arrivés à point nommé,
+    et que vous soyez content du cabinet <persName ref="people.xml#pac01"> Zuckmantel</persName>. Je
+    m’en vais donner ordre de vous tenir un crédit ouvert pour $0 mille florins chaque fois que vous
+    aurez fini d’en retirer une pareille somme pendant deux ans, car le <persName
+     ref="people.xml#vya01"> pr. Viazemski</persName> veut toujours du déterminé. Oh ne me parlez
+    pas de médiation: morgué, tous ces galvaudeurs galvaudent si bien, embrouillent si bien, ont si
+    peu de bonne foi une j’en ai tout mon- soûl; je voudrais que toute cette besogne fût au diable,
+    et quand vous les envoyez là, je dis amen. Vous et le comte <persName ref="people.xml#shu02">
+     Schouvalof</persName> avez imaginé, et je vous en ai beaucoup d’obligation, ce que j’ai fait
+    déjà il y a plus de six mois pour hausser le change; il faut en attendre les effets, et le mal
+    est pressant. Laissez faire <persName ref="people.xml#nec01"> M. Necker</persName>: je pense que
+    le temps viendra qu’il pensera à ses amis; à présent il pense à la <placeName ref="places.xml#fra01">France</placeName>. L’écrit
+    de <persName ref="people.xml#wag02"> Wagnière</persName> sera le bienvenu. Puisque vous nous
+    promettez d’envoyer ici le meilleur des camées de <persName ref="people.xml#wed01">
+     Weder</persName>, nous vous pardonnons d’en avoir commandé deux, car j’ai vu quelqu’un trembler
+    que vous ne gardiez le meilleur. Ah! qu’ <title ref="works.xml#apollo01"> Apollon du
+     Belvédère</title> est ressemblant!</p>
+  </div></body>
+ </text>
+</TEI>

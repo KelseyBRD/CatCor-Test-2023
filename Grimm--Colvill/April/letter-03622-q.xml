@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03622</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03622</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>1) I’m not sure exactly what is meant by Buoncompagni or Falquières Troupel so I was unable
+     to code either (2) I could not find any reference to the Dunoyer that Catherine mentions. I
+     coded as unknown.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:56:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-18">18-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03622">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-04-22">22 d’avril 1785</date>.</dateline></opener>
+    <p>Ayant adopté votre beau projet d’envoyer tous les trois mois un courrier pour porter mes
+     dépêches et emporter les vôtres, je commence aujourd’hui à préparer les effets emportables.
+     Ceci vous dit, de reste, que <persName ref="people.xml#bas04"> Baschlofski</persName> est
+     arrivé chargé comme un mulet de lettres et de paquets renfermant l’ouvrage de <persName
+      ref="people.xml#nec01"> M. Necker</persName>, que je suis obligée de lire présentement, moi
+     qui croyais que je pouvais m’en dispenser, vu que les finances de la <placeName
+      ref="places.xml#fra01"> France</placeName> ne me regardent pas, et que je n’imagine pas non
+     plus qu’il y ait de quoi apprendre pour les miennes, à moins que ce ne soit pour éviter tout ce
+     qui se trouve pierre d’achoppement; or, celle-ci je crois qu’à peu pris nous savons ce qu’il y
+     a à éviter.</p>
+    <p>En fait de comédie, si j’en fais, <title ref="works.xml#mariag01"> Le Mariage de
+      Figaro</title> ne me servira pas non plus de modèle, car depuis la lecture de <persName
+      ref="people.xml#wil04"> Jonathan Wilde</persName> le grand je ne me suis jamais trouvée en
+     plus mauvaise compagnie que dans celle de cette noce célèbre; c’est apparemment pour imiter la
+     comédie des anciens qu’on a remis sur le théâtre ce goût-là qu’on avait cru purifié depuis. Les
+     expressions de <persName ref="people.xml#mol01"> Molière</persName> étaient libres et sortaient
+     d’une gaîté naturelle comme effervescence; <seg xml:lang="it">ma</seg> sa pensée n’était jamais
+     vicieuse, au lieu que dans cette pièce si courue le sous-entendu ne vaut rien continuellement,
+     et cela dore trois heures et demie. Outre cela, c’est un tissu d’intrigues où il y a un travail
+     continuel et pas un brin de naturel; je n’ai pas ri une seule fois à la lecture; peut-être le
+     jeu des acteurs rend-il le tout très plaisant. Les trente volumes de <persName
+      ref="people.xml#vol01"> Voltaire</persName> je ne les ai pas encore ouverts seulement. <title
+      ref="works.xml#voyage04"> Les Voyages pittoresques de la Sicile</title>, je les ai feuilletés.
+     Mais qu’est-ce qu’est devenu le tableau peint par <persName ref="people.xml#bue01">
+      Emilie</persName>? Il ne me vient pas. Mais comment est-il possible qu’un ouvrage imprimé soit
+     défendu, quand il a été joué soixante-dix fois avec approbation? Et pourquoi l’auteur a-t-il
+     été envoyé à une maison de force par ordre suprême? cela devient-il à la mode? Elle commence de
+     bien bonne heure; on dit de par le monde que ce n’est ni le premier à qui cela est arrivé, ni
+     le dernier à qui cela arrivera.</p>
+    <p>Je trouve que la mère d’<persName ref="people.xml#bue01"> Emilie</persName> n’a pas le sens
+     commun: j’ai envoyé les renseignements de Falquières Troupel au collège de guerre et j’ai fait
+     dire de chasser ce faquin-là, qui promet, en mon nom sans mon ordre; la maman en fera après
+     cela ce qu’elle voudra. Ces coquins de la <placeName ref="places.xml#whi01">
+      Russie Blanche</placeName> ont toujours quelque mensonge tout prêt à imprimer ; le <persName
+      ref="people.xml#arc01"> cardinal Archetti</persName> n’ayant rien ébauché, le Buoncompagni
+     n’aura rien à achever. Ne croyez pas un mot de cette prétendue réunion des deux églises;
+      <persName ref="people.xml#arc01"> mons. Archetti</persName> n’en a même jamais soufflé: le
+     premier de tous les impêchements serait monsieur le <persName ref="people.xml#pop03">
+      pape</persName> lui-même.</p>
+    <p>Pour ce qui me regarde, je vous dirai que je suis mieux depuis deux mois, mais qu’il ne faut
+     pas parler de corde dans la maison d’un pendu; c’est tout ce que je puis faire. Vous avez très
+     bien fait de faire venir <persName ref="people.xml#bas04"> Baschlofski</persName>: vos paquets
+     lui ont procuré une audience fort courte le samedi saint, parce que nous étions tous les deux
+     très fatigués: lui de sa course, moi de la dévotion de la semaine sainte. Je vous ai écrit deux
+     lettres sous couvert marchant; les avez-vous reçues? Sachez, monsieur, sachez que jamais
+     l’empire de <placeName ref="places.xml#rus01"> Russie</placeName> ne sera détruit. Voici ce que
+     dit l’ <rs ref="people.xml#cou01"> auteur</rs> du <title ref="works.xml#mondep01"> Monde
+      primitif</title>:</p>
+    <q>«Tout empire eut sa cause, comme tout <hi rend="italic">mot</hi> eut sa
+     raison. L’élévation, la durée, la gloire ou la ruine des états ne dépendent point de passions
+     ou de circonstances locales ou passagères; ces événements furent toujours l’effet nécessaire et
+     calculable de la bonne ou de la mauvaise application des grands principes de toute société; les
+     petites passions ou les circonstances ne firent que profiter de l’état des choses et ne
+     l’amenèrent jamais. Les vents peuvent bien renverser un édifice élevé sur des fondements
+     ruineux; celui qui est bien assis, se joue de leurs effets. Quoi! Les hommes réunis en société,
+     les états, les empires ne pourraient calculer leur durée! ne pourraient pas fixer leur bonheur!
+     Ils ne deviendraient pas stables comme leur sol! Et parce qu’on a vu des empires passer comme
+     une vapeur que le vent dissipe, on s’imaginerait que ce même sort attend inévitablement tout
+     état, tout empire! Non! Rien qui n’ait sa cause, sa raison, son principe immuable: il en est
+     une qui fait à jamais la prospérité des nations et des empires; c’est l’observation de leurs
+     devoirs; une seule peut amener leur ruine ; c’est la violation de ces devoirs, le
+     pervertissement des causes auxquelles ils durent leur élévation et leur prospérité. Tous les
+     peuples qui ont prospéré ne devinrent florissants qu’autant qu’ils furent attentifs à la voix
+     de l'ordre et dociles &amp; ses leçons: aucun législateur ne fut véritablement grand et utile à
+     ses contemporains et au monde, qu’autant qu’il connut l’ordre et qu’il sut en rapprocher ses
+     lois: toutes celles qui y furent contraires ne purent jamais produire d’heureux effets; elles
+     entraîneront toujours la ruine de ceux qui ne surent pas s’en préserver. Les empires commencent
+     à décliner lorsqu’ils fondent, pour ainsi dire, les campagnes dans les villes, et les villes
+     dans une capitale vaste et immense, gouffre des richesses de l’état, et tombeau des générations
+     présentes et futures; la vraie grandeur d’un empire est d’être grand et puissant, non dans un
+     point, mais partout, d’être tout force, tout nerf, tout ordre.</q>
+    <p rend="Quotation">«Tout a sa cause immuable et éternelle; les empires, comme le moindre grain
+     de blé: les sociétés sont établies sur tels et tels principes: il en résultera tels et tels
+     droits, tels et tels devoirs. Que ces droits soient observés, que ces devoirs soient remplis,
+     et les sociétés seront florissantes, et les empires seront à jamais inébranlables sur leur
+     base, et l’ordre régnera à jamais.»</p>
+    <p>J’ai copié tout le passage à cause de sa grande beauté; dites que vous n’en êtes pas
+     fâché.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-04-25">25 d’avril</date>. </dateline></opener>
+    <p>Eh bien, l’empire de <placeName ref="places.xml#rus01"> Russie</placeName> ne peut être
+     détruit, car nous aimons et cherchons et trouvons et établissons l’ordre; il s’enracine, et je
+     défie de le détruire, et il faut avouer qu’il est bien assis, cet empire. Mon intérieur est
+     redevenu calme et serein, parce que nous avons, à l’aide de nos amis, fait effort sur
+     nous-même; nous avons débuté par une comédie qu’on dit être charmante; ceci donc fait preuve
+     d’un tout petit retour de verve et de gaîté; les monosyllabes sont bannies, et je ne puis pas
+     me plaindre de manquer autour de moi de gens dont l’attachement et les soins ne soient très
+     propres à me distraire et délasser, ma il fallait du temps pour y prendre garde et plus encore
+     pour s’y accoutumer; enfin, eu un mot, comme en cent, j’ai un ami très capable et très digne de
+     l’être, et des amis qui ne m’abandonnent pas.</p>
+    <p>Messieurs <persName ref="people.xml#ale01"> Alexandre </persName>et <persName
+      ref="people.xml#kon01"> Constantin </persName>sont entre les mains du <persName
+      ref="people.xml#sal03"> général Soltikof</persName>, qui suit, en tous points, de même que
+     leurs entours, mes principes et mes prescriptions, et en vérité, ils sont à ravir beaux,
+     grands, forts, robustes, sensés, obéissants; c’est un plaisir que de les voir. Je suis
+     persuadée qu’on sera toujours parfaitement content d’ <persName ref="people.xml#ale01">
+      Alexandre</persName>, qui a une très grande égalité d’humeur jointe à une aménité, étonnante
+     pour son âge; son visage est ouvert, riant et prévenant; sa volonté toujours bonne: il veut
+     réussir et il réussit en tout au-dessus de son âge; il apprend à monter à cheval, il lit, il
+     écrit dans trois langues; il dessine, et l’on ne l’oblige à rien; ce qu’il écrit est ou
+     histoire ou géographie ou sentences choisies ou quelque chose de gai; il a le coeur excellent.
+     Je vous ai déjà dit que tous les trois mois vous recevrez un courrier, mais aussi vous aurez,
+     s’il vous plaît, la complaisance de vivre le plus que vous pourrez. Le <persName
+      ref="people.xml#pop03"> pape</persName> n’a pas donné l’évêché de <placeName
+      ref="places.xml#feo01"> Théodosie</placeName> ou d’autres lieux en <rs ref="places.xml#cri01">
+      Tauride</rs>, parce que je n’aurais pas souffert d’autre évêque que <rs ref="people.xml#sie02"
+      > mon sire</rs> de la <placeName ref="places.xml#whi01"> Russie Blanche</placeName>; c’est
+     l’unique que je souffre ou tolère, car nous aimons l’ordre et éloignons ce qui y répugne.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-04-26">26 d’avril</date>. </dateline></opener>
+    <p>J’ai demandé qui était <persName ref="people.xml#bon02"> Bonnet</persName>, et on m’a dit que
+     ce qu’il vous avait dit, était vrai.</p>
+    <p>Je n’habite plus l’ <placeName ref="places.xml#her01"> hermitage</placeName> depuis le 16
+     février; je suis rentrée dans mes chambres du <placeName ref="places.xml#win01"> palais
+      d’hiver</placeName>, chose que le <persName ref="people.xml#pot01"> prince
+      Potemkine</persName> a négocié pendant une grande partie de l’hiver, <seg xml:lang="it">
+      ma</seg> nous avons conservé un grand tendre pour cet appartement, et nommément pour une salle
+     de dix toises de long qui nous servait pendant six mois de cabinet. <persName
+      ref="people.xml#bon02"> M. Bonnet</persName> aura la jouissance de ses 250 roubles; si vous
+     avez de l’argent à moi, payez-les loi; sinon, il les aura ici à son retour: il n’a qu’à sommer
+      <persName ref="people.xml#str01"> Strékalof</persName>, les maréchaux ou tel autre de mes
+     secrétaires ou mes valets de chambre ou moi-même d’exécuter parole donnée. <seg xml:lang="it">
+      Ma</seg> pour la place de maître d’hôtel, c’est trop fort, vu que nous en avons quatre, et le
+     besoin n’est que de deux; outre cela le Sr <persName ref="people.xml#bon02"> Bonnet</persName>
+     pourrait faire tort à de plus anciens ou meilleurs; il est vrai que puisqu’il servait le prince
+      <persName ref="people.xml#pot01"> Potemkine</persName>, il doit être des meilleurs, car le
+     patron n’est pas mal gourmet.</p>
+    <p>Monsieur de <persName ref="people.xml#seg01"> Ségur</persName> m’a apporté la miniature de
+      <persName ref="people.xml#mar12"> Teresina Maron</persName>; je ne suis pas étonnée de la
+     réputation de M. de <persName ref="people.xml#seg01"> Ségur</persName>; il me paraît qu’elle
+     est bien acquise, et assurément c’est ce qu’il y a eu de mieux jusqu’ici dans ce pays, de chez
+     vous; reste à savoir si ses yeux seront fascinés par les préventions, habitudes, prescriptions
+     et connaissances d’archives, ou s’il verra clair et ne trouvera pas à redire à ce qui ne se
+     fait pas, ni ne se pense pas, ni ne se dit pas chez nous, et le « n’a de l’esprit que nous et
+     nos amis» est une terrible frandouille pendue au nez des politiques de certains pays, qui leur
+     fait jeter la tête en arrière comme celle qui pend entre les yeux des chevaux turcs et persans
+     dans les harnois de ces pays là, ornement dont les brides anglaises sont totalement dégarnies,
+     parce qu’on le regarderait comme cruel à porter aux chevaux, un anglais aimant trop sa bête
+     pour la charger d’un ornement aussi incommode de devant les yeux. Ne voilà-t-il pas une
+     comparaison lumineuse?</p>
+    <p>J’ai reçu de la même main le portrait de <persName ref="people.xml#nec01"> M.
+      Necker</persName>, et je vous remercie de cette étrenne. Je n’ai point reçu jusqu’ici de
+      <persName ref="people.xml#wei01"> Weitbrecht</persName> l’ouvrage de <persName
+      ref="people.xml#nec01"> M. Necker</persName>; il me l’a seulement annoncé. Je vous prie d’en
+     remercier <persName ref="people.xml#nec01"> M. Necker</persName> d’avance; je suis à lire
+     l’exemplaire que vous m’avez envoyé en attendant, et je vous en dirai sincèrement mon avis
+     quand je l’aurai lu; je n’aime point du tout le génie fiscal, ni les inventions de gains
+     brimboriaux, qui ne servent qu’à persécuter les gens et rapportent fort peu. Comme les
+     bulletins disent le <persName ref="people.xml#lou01"> roi de <placeName ref="places.xml#fra01">
+       France</placeName></persName> fort occupé à lire le livre de <persName ref="people.xml#nec01"
+      > M. Necker</persName>, je pense que tous le mauvais vouloir contre lui et son livre n’aura
+     pas de suites. Car enfin tout le monde n’est pas <persName ref="people.xml#lou15"> Louis
+      XV</persName>, dont la protection n’était bonne à rien. Vous niez donc comme meurtre les
+     conférences chez vous du <persName ref="people.xml#hen02"> prince Henri</persName>, tandis que
+     les politiques y ont cru; votre plaidoyer justificatif sur cette matière est tout à fait
+     éloquent, mais vous pouviez vous en passer vis-à-vis de moi, qui ai l’honneur de vous connaître
+     depuis vingt ans et qui vous connaît pour un homme sûr, et compte sur votre attachement. Il est
+     à supposer que M. de <persName ref="people.xml#suf01"> Suffren</persName> n’aura pas occasion
+     de combattre contre nous, à moins qu’un jour on ne le donne pour capitan-bacha à la
+      sublime <placeName ref="places.xml#ott01"> Porte</placeName>, et alors j’espère que chacun
+     fera son devoir, les maîtres d’école, les écoliers et nous autres, comme de coutume, battant de
+     tons côtés à tort et à travers et passant toujours chez vous pour les battus, mais allant en
+     avant et ne perdant pas un pouce de terre jamais.</p>
+    <p>Les à propos durant le voyage de M. de <rs ref="people.xml#gus01"> Haga </rs>m’ont fait rire;
+     les vers de M. de <persName ref="people.xml#har03"> Laharpe</persName> devaient lui faire
+     plaisir: <seg xml:lang="de"> Der Herr ist sehr und zu naseweis</seg>. Il а beau vous dire qu’il
+     m’aime à la folie, n’en croyez rien: il passe pour faux dans son propre pays, et c’est là où on
+     le connaît parfaitement bien. A propos de cela, je me porte parfaitement bien et n’ai pas été
+     malade depuis le mois de juillet malgré les faiseurs de gazettes et de bulletins, soufflés par
+     les boutonnés et non boutonnés, délégués d’Hérode, qui m’attribuent leurs propres maux, et
+     comme je me porte bien, je m’occupe moi fort peu de la santé d’autrui.</p>
+    <p>N’ayez pas peur, je ne ferai rien sans vous consulter sur le compte d’ <persName
+      ref="people.xml#bue01"> Emilie</persName>; je vous conseille de la marier et au plus tôt le
+     plus convenablement possible. Eh bien, le <persName>duc de <placeName ref="places.xml#sax01">
+       Saxe</placeName>-<placeName ref="places.xml#got01"> Gotha</placeName></persName> aura l’
+      <title ref="works.xml#hercul01"> Hercule Farnèse</title> en plâtre, et celui en bronze me
+     restera; le tout est ordonné et sera expédié à <orgName ref="orgs.xml#paul01"> messieurs
+      Pauli</orgName> à <placeName ref="places.xml#lub01"> Lübeck</placeName>. A propos du présent
+     que vous faites de l’ <title ref="works.xml#hercul01"> Hercule</title> en bronze à messieurs
+      <persName ref="people.xml#ale01"> Alexandre</persName> et <persName ref="people.xml#kon01">
+      Constantin</persName>, je vous dirai que monsieur <persName ref="people.xml#ale01">
+      Alexandre</persName> ne passe pas de jour sans s’occuper à examiner des estampes, et surtout
+     pour peu qu’il soit incommodé: alors il en est entouré, et en attendant qu’il s’en amuse, il
+     fait prendre à quelqu’un de ses entours un livre et lui dit de lire haut devant lui, car nous
+     voulons être continuellement occupé par goût et inclination; que dites-vous de cela?</p>
+    <p>Je vous ai dit cent fois que ce qui est écrit en russe doit être traduit en allemand, et puis
+     le traduira qui voudra en français, <seg xml:lang="it"> ma</seg> ce ne sera pas moi; voilà ce
+     que j’ai à vous répondre sur la traduction des cahiers sur l’histoire de <placeName
+      ref="places.xml#rus01"> Russie.</placeName></p>
+    <p>Evitez-moi, si vous pouvez, l’impression de mes lettres et questions à <persName
+      ref="people.xml#buf02"> M. de Buffon</persName>; ce que j’écris est toujours fort gauche quand
+     cela est imprimé en autre langue qu’en russe. Faites-moi avoir tous les ouvrages de <persName
+      ref="people.xml#bai01"> M. Bailly</persName>, que je ne me souviens pas d’avoir reçus
+      de <persName ref="people.xml#did01"> Diderot</persName>. Mais qu’est-ce que vous faites de la
+     bibliothèque de <rs ref="people.xml#did01"> celui-ci</rs>? me l’enverrez-vous jamais? Des
+     faucons blancs j’ai chargé le comte <persName ref="people.xml#bez01"> Bezborodka</persName>, de
+     même que de tout ce qui regarde <persName ref="people.xml#rei03"> Reiffenstein</persName>. Le
+     successeur de <persName ref="people.xml#ols01"> M. Olsoüfief</persName> est M. <persName
+      ref="people.xml#str01"> Strékalof</persName>. Les fileurs et fileuses de chevalier Miller ne
+     sont ni en fort grande, ni en fort petite réputation; ils filent, mais il y a je pense trop
+     d’histoires avec les rouets à filer. L’année passée les filles et femmes de la fabrique, au
+     lieu de filer, ne faisaient qu’accoucher; c’est toujours quelque chose. Messieurs les
+     Hollandais sont fort tenaces, mais c’est à <placeName ref="places.xml#par01">
+     Paris</placeName> où tout cela se règle, et je n’y suis rien autre qu’un spectateur; prenez
+     garde à ce que vous dites: si le tracas vous fait venir ici, vous m’obligerez à aimer le
+     tracas. J’irai à <placeName ref="places.xml#khe01"> Kherson</placeName>, mais pas cet été; je
+     ferai au mois de mai un tour à Borovitchi pour Ліг les canaux qui mènent tout à Pétersbourg, et
+     je reviendrai ici par eau. Il ne manque à la terre que j’ai achetée qu’une maison pour y
+     habiter; celle qu’il y a est détestable; elle est entre <placeName ref="places.xml#shl01">
+      Schlüsselbourg</placeName> et <placeName ref="places.xml#pet01"> Pétersbourg</placeName>
+     précisément sur les chétives cataractes de la <placeName ref="places.xml#nev01">
+      Néva</placeName>: cette rivière y forme une espèce de golfe, dans lequel, à une centaine de
+     toises de la maison, tombe la <placeName ref="places.xml#tos01"> Tosna</placeName>, qui est
+     aussi une rivière navigable; Remplacement est charmant, les vues très variées, et le tout fort
+     propre à l’embellissement d’un jardin à l’anglaise; <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo</placeName> en est à vingt verstes. J’ai fait rendre au <persName
+      ref="people.xml#anh01"> comte d’Anhalt</persName> votre lettre; <persName
+      ref="people.xml#tod02"> mad. Todi</persName> n’aura la sienne qu’à son retour de <placeName
+      ref="places.xml#mos01"> Moscou</placeName> où elle a gagné beaucoup d’argent, qu’on dit que
+     monsieur son mari a reperdu au jeu: ainsi ce qui vient à la flûte s’en va au tambour. Je
+     m’étonne de ce que <persName ref="people.xml#har04"> Hardy</persName> veut revenir ici, tandis
+     que le climat nuisait tant à sa poitrine; j’ai ordonné au comte <persName
+      ref="people.xml#bez01"> Bezborodka</persName> de lui retrouver ses meubles, et de le faire
+     payer de ce qui lui est dû, mais pour moi, je ne saurais où le placer, quoique ce soit un
+     excellent sujet. Payez <persName ref="people.xml#shc02"> Chedrine</persName> et tirez sur nous.
+     Le sieur <persName ref="people.xml#ber05"> Bertin</persName> a perdu sa place pour cause de
+     paresse selon toutes les informations tirées; si vous payiez aussi <persName
+      ref="people.xml#har04"> Hardy</persName> de mon argent, tout le monde serait content;
+     dites-lui que les meubles sont chez <persName ref="people.xml#unknown"> Dunoyer</persName>, son
+     ancien camarade, qui doit lui renvoyer ce qui lui appartient. </p>
+    <closer><signed rend="inline">Adieu, en voilà assez.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00096</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00096</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-05-26">26 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00096">
+                <body>
+                    
+                    <p><rs ref="people.xml#zub04">Тетинька</rs> при обоих братьях твоих<note
+                            type="editorial"><ref target="people.xml#zub03">Platon</ref> and <ref
+                                target="people.xml#zub02">Nikolay</ref>.</note> и при мне назвала
+                        тебя неловким, непроворным и будто ни в каком случае не умеешь таиться. Я да
+                            <persName ref="people.xml#zub03">Платон Александрович</persName>
+                        свидетели, что сие не вовсе так; но за нужно почли тебя о сем известить, да
+                        исправишься, буде в чем пред ней виноват и впред да будешь умнее.</p>
+                    <closer><dateline><date when-custom="1789-10-22">Окт. 22 ч.
+                                1789 г.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>Your auntie, in the presence of both your brothers and in my presence, called
+                        you awkward, clumsy, and, supposedly, not in the least capable of secrecy.
+                        Platon Aleksandrovich and I are witnesses that this is not at all so, but we
+                        found it necessary to inform you of this, so that you correct yourself, if
+                        you are in any way guilty before her, and so that you will be wiser in
+                        future.</p>
+                    <closer><dateline><date when-custom="1789-10-22">Oct. 22
+                                1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

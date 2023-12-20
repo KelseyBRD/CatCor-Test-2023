@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02948</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02948</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-26">26/03/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:31:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02948">
+  <body>
+   <p hand="people.xml#geo04"><date when-custom="1768-08-11">11 aoust 1768</date> depuis la
+    derniere j’ay eu ce petit billet. J'ay repondue. Point de reponse. </p>
+   <p hand="people.xml#cat01">Je croyois que les soupirs n’etoit
+    propre qu’au Russe on m’a dit que dans les pays étrangers on les reconnoissait a cela sous le
+    masque, mais comme Vous les recevés chés Vous s’est un mal que Vous aurés pris d’eux; si le <rs
+     ref="people.xml#bet01"> General</rs> n’a point temoigné ma gratitude pour la jolie pendule il a
+    eu tort et pas moi, car je l’en avoit prié. </p>
+  </body>
+ </text>
+</TEI>

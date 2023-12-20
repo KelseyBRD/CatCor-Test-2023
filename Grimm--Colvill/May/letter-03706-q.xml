@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03706</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03706</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Unclear whether by grand Gu and frere Gu she means Gustav III (deceased at this point but
+     for who frere Gu very often used), Gustav IV, or Friedrich Wilhelm II (2) Could not identify
+     the “divine Carlotte”.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:02:37Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03706">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1795-04-07">7 d’avril 1795</date>.</dateline></opener>
+   <p>Le concert d’hier a très bien réussi; Messieurs les députés de la <placeName
+     ref="places.xml#lit01"> Lithuanie</placeName> y ont assisté; je leur ai dit que je les ai fait
+    inviter afin qu’ils apprennent à nous connaître moi et les miens. Un des plus âgés, dont M.
+     <persName ref="people.xml#ale01"> Alexandre</persName> et <rs ref="people.xml#eli04"> son
+     épouse</rs> ont fait apparemment la conquête, m’a dit que d’eux naîtraient des anges. C’est une
+    Syrène que cette <persName ref="people.xml#eli04"> Mad. Elisabeth</persName>: elle a une voix
+    qui va tout droit au coeur, et elle a gagné le mien tout à fait; pour <rs ref="people.xml#ale01"
+     > son mari</rs>, qui non seulement depuis son berceau s’est tenu près de moi le plus près qu’il
+    a pu et qui, étant petit, ne l’étant jamais assez, s’appuyait sur moi tout doucement avec
+    l’épaule, présentement il pousse sa femme pour qu’elle se presse à moi, ne la croyant nulle part
+    mieux que le plus près possible. Il n’y contribue pas mal, <seg xml:lang="de"> denn er ist
+     denndoch das wirkliche Herzblatt. Drei Stunden hat man gesungen und musicirt, und die Mamselle
+      <persName ref="people.xml#mar03"> Maria</persName> hat auf dem Klavier gewirtschaftet nicht
+     vor die lange Weile, aber so das sie in ganz Lithauen für eine sonderlich geschickte Musikantin
+     passiren wird</seg>. </p>
+   <p>Voilà ce que c’est: plus on vit, et plus on apprend de choses: je ne savais pas avant-hier que
+    vous vous étiez mêlé, en 1740, des affaires de Basile, organiste du grand couvent. Je me
+    souviens que cet hiver était rude et que je gelais de froid à <placeName ref="places.xml#ste02">
+     Stettin</placeName>, assise au pied de ma mère, qui aimait à avoir sa chaise sur une marche à
+    côté d’une fenêtre revêtue d’un châssis. Si les doigts crochus vous empêchent de prendre un
+    accord sur le Planter, ils ne sauraient cependant vous empêcher de quitter les faubourgs pour
+    entrer dans le monde lorsque les faubourgs ne seront plus habitables. Mais voilà le <persName
+     ref="people.xml#fri03"> roi de <placeName ref="places.xml#pru01">
+    Prusse</placeName></persName> qui va conclure une paix infâme avec les régicides, et par là
+    rendra tout le monde heureux et tranquille. S’il l’a fait, on pourra dire qu’après Jésus-Christ
+    mort pour nous tous, il n’y a personne qui fit au monde un plus grand sacrifice que le roi
+     de <placeName ref="places.xml#pru01"> Prusse</placeName>, car il y perd réputation, honneur,
+    bonne foi, et peut-être tranquillité, repos, état etc. etc. etc., et outre cela il deviendra le
+    premier dupé de l’<placeName ref="places.xml#eur01"> Europe</placeName>, et la première dupe
+    aussi. Comme les Français se retirent sur l’<placeName ref="places.xml#yss01">
+    Yssel</placeName>, à ce qu’on dit, dans ce moment, j’espère que mes bonnes gens de lever se
+    sauveront des rapines; outre cela, ils sont dans un si petit coin appuyés sur la mer qu’il faut
+    les aller chercher pour les trouver, et c’est si peu de chose qu’il ne vaut pas la peine de
+    faire un détour pour leur rendre visite.</p>
+   <p>Je vous remercie des fragments de <placeName ref="places.xml#rhe01"> Rheinsberg</placeName>
+    que vous avez transcrits pour moi. Je n’ai point chargé le pr. <persName ref="people.xml#vol02">
+     Wolkonski</persName> d’aller expressément à <placeName ref="places.xml#rhe01">
+     Rheinsberg</placeName> pour faire des compliments au <persName ref="people.xml#hen02"> prince
+     Henri</persName>. Ce fragment a le ton d’un parvenu qui aime à se vanter de la visite de deux
+    ou trois personnes qui sont venues chez lui; pourquoi? parce que lui-même n’y est pas accoutumé.
+    Le second fragment prouve que S. A. R. n’est pas mal persuadée qu’il n’y a qu’elle qui ait vu
+    les choses dans leur vrai jour. Sur les extrêmes sottises de M. de <persName
+     ref="people.xml#her02"> Hertzberg</persName> je ne diffère pas de l’opinion de S.А. R., et
+    sérieusement, d’après ce que vous me transcrivez de mémoire des trois lettres que cet homme
+    fougueux a écrites au <persName ref="people.xml#fri03"> roi de <placeName ref="places.xml#pru01"
+      > Prusse</placeName></persName>, je le crois fou. Mais malgré cette folie, il me parait qu’on
+    suit assez ses plans» Mais où est-ce que S. A. R. veut aller avec sa pacotille? Serait-ce
+     en <placeName ref="places.xml#ame01"> Amérique</placeName>, où beaucoup de constitutionnels se
+    sont retirés? Il paraît qu’elle-même ne l’est pas mal; quand il vous écrivait ce que vous nommez
+    des indiscrétions, je pense qu’il voulait que son neveu les lût. Cela m’a fait souvenir d’une
+    anecdote de ce temps-là à peu près, où un des employés du neveu dit à un des nôtres
+     que <persName ref="people.xml#hen02"> le prince Henri</persName> en faisait et disait tant qu’à
+    la fin le roi son neveu serait obligé de le faire enfermer à <placeName ref="places.xml#spa03">
+     Spandau</placeName>, ce qui, dans son temps, me fut rapporté.</p>
+   <p>Sur l’apologie d’Agamemnon tout ce qu’on peut dire de mieux, c’est ce que disait le grand
+    Condé, à savoir: qu’il n’entendait rien du tout à la guerre des p... de c……. A cela il faudrait
+    ajouter que les négociations ne devraient jamais être employées avant d’avoir battu et que quand
+    elles précèdent les combats, elles affaiblissent les combattants, parce qu’elles présentent
+    autres espérances que celles de vaincre. Le baron de <persName ref="people.xml#rol01">
+     Roll</persName> a été ici avec le comte <persName ref="people.xml#cha11"> d’Artois</persName>,
+    mais il ne me souvient point qu’il y soit revenu.</p>
+   <p>Le <persName ref="people.xml#suv01"> comte des deux empires</persName> va marier sa <rs
+     ref="people.xml#suv02"> fille</rs> au <rs ref="people.xml#zub02"> frère aîné</rs> du comte
+     <persName ref="people.xml#zub03"> Platon Zoubof</persName>; ce <rs ref="people.xml#zub02">
+     frère aîné</rs> s’appelle <rs ref="people.xml#zub02"> Nicolas</rs>. C’est le <rs
+     ref="people.xml#suv01"> maréchal</rs> lui-même qui l’a fait venir et lui a dit: «Vous êtes
+    brave et honnête; faites-moi le plaisir d’épouser <rs ref="people.xml#suv02"> ma fille</rs>.»
+    L’autre y a consenti. J’avoue que c’est le mariage le mieux assorti que j’aie vu. Je plains bien
+    votre <rs ref="people.xml#bue01"> pupille</rs> d’avoir été obligée de se séparer de <rs
+     ref="people.xml#bue02"> son époux</rs>, et celui-ci d’avoir fait des voyages coûteux et
+    inutiles. De la façon dont vous y allez, vous faites la liste des péchés de toute l’<placeName
+     ref="places.xml#eur01"> Europe</placeName>, et vous lui donnez la discipline; j’avoue qu’elle
+    l’a mérité. Assurément, les hommes de mérite ne manquent dans aucun temps, car ce sont les
+    hommes qui font les affaires et les affaires font les hommes; je n’ai jamais cherché et j’ai
+    toujours trouvé sous la main les hommes qui m’ont servie, et j’ai été bien servie la plupart du
+    temps. Outre cela, il y a des temps où j’aime des têtes neuves: elles vont très bien avec et à
+    côté des plus anciennes; ce sont des interlocuteurs nouveaux qui, jetés à propos dans les
+    pièces, ne font que ranimer l’action et empêchent la rouille d’engrener les roues; ce sont aussi
+    des éperons pour les <seg xml:lang="de"> Paßgänger</seg>.</p>
+   <p>Après la perte de la <placeName ref="places.xml#hol02"> Hollande</placeName> il faudra bien
+    que l’<placeName ref="places.xml#eng01"> Angleterre</placeName> cherche des alliés autres que
+    frère <rs ref="people.xml#gus02"> Gu</rs>, quoi qu’en dise la divine Carlotte et sa passion pour
+    le grand Gu. Mais qu’est-ce que cette passion qui fait choisir à frère <rs
+     ref="people.xml#geo02"> Ge</rs> sa <rs ref="people.xml#car06"> nièce</rs> pour femme de son <rs
+     ref="people.xml#geo03">fils</rs>? Un poète anglais l’appelle la vierge royale; j’en suis bien
+    aise qu’on la croie telle, <seg xml:lang="it"> ma</seg> le papa sait ce qui en est, l’ayant
+    fourrée dans un couvent pour certaine fredaine; il est vrai que c’était du fait d’un Anglais, et
+    ne voilà-t-il pas qu’à 27 ans on la tire de là avec tout son fumet pour marier cette vierge à
+    l’héritier présomptif. On la dit passée, fanée; si tout cela est vrai, comme on le dit, vous
+    verrez des histoires sans fin en <placeName ref="places.xml#eng01"> Angleterre</placeName>, pays
+    où ne passe rien et où tout s’imprime. Qu’est-ce que <seg xml:lang="en"> milord</seg><persName
+     ref="people.xml#ogi02"> Findlater</persName> dit de ce mariage? Mais ne dites pas à lui que je
+    vous en ai parlé, car il a à côté de lui <persName ref="people.xml#ell01"> Elliot</persName>,
+    qui m’a toujours voulu du mal et qui pourrait en faire des caquets. La <persName
+     ref="people.xml#fre07"> princesse Radzivil</persName> revient ici; je m’en réjouis, car je
+    l’aime beaucoup. Vous pouvez dire encore à <persName ref="people.xml#ogi02" xml:lang="en"
+     >milord</persName> que la prétendue Minerve est toute enrouée à force de prêcher aux sourds; le
+    proverbe allemand dit: <seg xml:lang="de"> wer nicht hören will, der muss fühlen</seg>; il n’y a
+    pas d’autre moyen avec ces abandonnés de Dieu.</p>
+  </body>
+ </text>
+</TEI>

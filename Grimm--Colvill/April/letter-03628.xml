@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03628</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03628</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16"/><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:57:24Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03628">
+  <body>
+
+   <p>J’ai eu l’honneur de recevoir la missive de sire <rs ref="people.xml#gri01">souffre-douleur</rs> du 28 novembre (9 décembre)
+    ce matin, 21 décembre 1785. J’ai mis le catalogue <persName ref="people.xml#bre03">
+     Breteuil</persName> là sur ma table sans le regarder, vu que c’est moutarde après dîner. Mais
+    s’il plaisait jamais à Dieu d’inspirer à mons. d’Orléans de se défaire par vente de ses pierres
+    gravées, j’autorise par ces lignes sire <rs ref="people.xml#gri01">souffre-douleur</rs> d’entrer en marché, de m’en marquer le
+    prix et d’attendre, pour la conclusion d’un marché raisonnable, mes ultérieures dispositions.
+    Or, si vous m’écrivez depuis quatre mois, sachez que dans mon tiroir il repose une pancarte pour
+    vous commencée le 28 octobre. Ci-jointe la minute de ce qui a été dit à М. de <persName ref="people.xml#seg01">
+    Ségur</persName> au sujet d’ <persName ref="people.xml#bue01"> Emilie</persName>. </p>
+   <closer><signed rend="inline"><seg xml:lang="it"> Addio a Vostra Signoria</seg>; ma petite santé est
+    toujours la même. On va jouer pendant le carnaval une nouvelle comédie russe <title
+     ref="works.xml#deceiv02"> Le charlatan</title>; devinez-en l’auteur.</signed></closer>
+  </body>
+ </text>
+</TEI>

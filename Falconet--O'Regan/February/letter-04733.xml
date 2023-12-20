@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04733</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04733</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>N.b 'atricle' is an spelling error also found in sirio017</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-12">12/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:00:38Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-03-21">21/03/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Resolved query concerning identity of St Louis.
+                    Markup corrected. Additional tagging.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04733">
+        <body>
+
+
+            <opener><dateline> А <placeName ref="places.xml#mos01">Moscou</placeName>, се <date
+                        when-custom="1767-02-18">18 Février 1767</date>.</dateline></opener>
+            <p>J’ai lu hier dans <rs ref="works.xml#encycl01">l’Encyclopédie</rs> à l’article Ordre
+                Religieux que Votre Roi <persName ref="people.xml#lou09">St. Louis</persName> disait
+                que s’il pouvait partager sa personne en deux, il le ferait et donnerait une de ses
+                moitiés aux <orgName ref="orgs.xml#domi01">frères Prêcheurs</orgName>, et l’autre au
+                    <orgName ref="orgs.xml#fran01">frères Mineurs</orgName>. Vous voyez bien qu’il
+                ne restait pas beaucoup à ce bon Roi pour <rs ref="places.xml#fra01">Son
+                    Royaume</rs>; j’ai mal dit en disant bon Roi, il fallait dire <hi rend="italic"
+                    >bon homme</hi>, car un bon homme peut faire des contes pareils, mais un bon Roi
+                fait mieux d’être en entier à son Royaume, et de ne pas partager ses moitiés à des
+                Religieux mendiants; encore s’il avait parlé comme <persName ref="people.xml#chi02">
+                    Chimène</persName> dans le <rs ref="works.xml#lecidp01"> Cid</rs>, nommant ses
+                deux moitiés et marchant avec une troisième, l’on aurait pu croire que c’est
+                méprise, et qu’in petto il a gardé quelque chose pour Son Royaume, mais point du
+                tout, il parle positivement, il n’a que deux moitiés, et il en a disposé. Il a été
+                récompensé de sa générosité, il est canonisé, nommé le meilleur des Rois, on lui
+                prête toutes les vertus, et on le propose pour modèle à tous ceux qu’on veut
+                modeler; il est vrai qu’il n’y a rien de plus louable que la reconnaissance, recevez
+                mes compliments sur celle-ci, c’est bien fait que d’encourager ainsi le mérite par
+                tout ce qui peut élever l’âme.</p>
+            <p> Moi qui vous parle, je n’ai que deux yeux: je ne peux pas me passer de l’un, il doit
+                vaquer à mes affaires, mais de l’autre, je lorgne d’ici <rs ref="works.xml#pierre01"
+                    >cette bête spirituelle</rs> qui occupe le milieu de votre atelier, et j’ai
+                grand peur que vous ne lui donniez trop de cervelle. Tenez, je crois bonnement que
+                vous n’êtes pas propre à faire des bêtes, je parle que votre cheval parlera, et si
+                l’on n’entendra pas ce qu’il dira, c’est que la coutume d'entendre hennir les
+                chevaux fera prendre son parler pour un hennissement. En lisant ceci vous direz:</p>
+            <p>1. Comment peut-elle voir cela de cent lieues ? </p>
+            <p>2. Oh! qu’on me laisse faire !</p>
+            <p>3. J’ai des bêtes à mon choix, on m’en amènera tant que j’en voudrai. </p>
+            <p>Voici ma réponse:</p>
+            <p>Ma vue s’est fortifiée par <title ref="works.xml#lettre03">la lettre sur les
+                    aveugles</title> que je vous renvoie avec remerciements.</p>
+            <p>Prenez-vous-en à vous-même et une autre fois ne prétendez pas que je dise mon
+                avis.</p>
+            <p>Vous n’avez pas besoin qu’on vous explique cet atricle. </p>
+            <closer><signed rend="inline">Adieu, Monsieur, portez-vous bien, allons, devinez qui
+                    vous écrit; si vous répondez, ne vous gênez point: n’employez aucune formalité,
+                    surtout n’allongez point les lignes par des épithètes dont je ne me soucie pas.
+                    Vous en avez vu de pareilles dans les lettres de <persName
+                        ref="people.xml#ale06">M-r d’Alembert</persName>, renvoyez-moi quand vous
+                    n’en aurez plus que faire les lettres de <persName ref="people.xml#vol01">M-r
+                        de Voltaire</persName>.</signed></closer>
+        </body>
+    </text>
+</TEI>

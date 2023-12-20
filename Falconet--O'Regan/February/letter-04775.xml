@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04775</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04775</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Taken Roitiers to be a different spelling of Roettiers. Kelsey: Yes. Not clear which statue
+     of Voltaire is being referred to here. Kelsey: identified and marked up.</p>
+    <p>Kelsey: need to identify painting by Torelli to which Catherine alludes.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:05:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-12">12/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Queries resolved and markup corrected.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04775">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> St-Pétersbourg</placeName>, <date when-custom="1770-05-29"
+      >29 Mai 1770</date>.</dateline></opener>
+   <p>Je n’ai point vue les nouveaux dessins de M-r <persName ref="people.xml#roe01"
+     >Roitiers</persName>; à qui, s’il vous plaît, les avez-vous donnés?</p>
+   <p>Je sais que la toile est levée chez vous, et qu’on est en général très-content; si l’on ne
+    vous dit mot, c’est par délicatesse; les uns ne ce croient pas assez habiles, les autres
+    peut-être craignent de vous déplaire en vous disant leur avis, d’autres encore n’y voient
+    goutte. N’allez pas comme bien des Welches, expliquer tout du
+    mauvais côté.</p>
+   <p>M-r <persName ref="people.xml#bet01"> Betzki</persName>, avant de vous envoyer avec son
+    adjudant voir le tableau de <persName ref="people.xml#tor01">Torelli</persName>, aurait pu
+    ordonner qu’on ouvrît les portes; la chose était aisée, mais tout le monde ne prévoit pas
+    toujours.</p>
+   <p>M-r <persName ref="people.xml#mel01"> Mellissino</persName> devrait envoyer son comporté à ses
+    généraux: alors les choses iraient en règle.</p>
+   <p>Si la <rs ref="works.xml#voltai03">statue</rs> de <persName ref="people.xml#vol01"
+     >Voltaire</persName> est <hi rend="italic">renversée par les sots</hi>, les sots en seront bien
+    payés par les contemporains et par la POSTÉRITÉ; fâchez-vous si vous voulez, de la voir écrite
+    en grandes lettres.</p>
+   <p>Je n’ai pas le temps de lire présentement: vous me garderez le <rs ref="works.xml#leggie01"
+     >livre</rs> du <seg xml:lang="it">
+     <rs ref="people.xml#vit01">Re</rs> di <placeName ref="places.xml#sar02"
+     >Sardegna</placeName>.</seg>
+   </p>
+   <closer><signed rend="inline">Adieu, Monsieur.</signed></closer>
+  </body>
+ </text>
+</TEI>

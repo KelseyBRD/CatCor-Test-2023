@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04805</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04805</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:22:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04805">
+  <body>
+   
+   <p>
+    Que voulez-vous que je fasse du nègre de Mylord
+    <persName ref="people.xml#cat03"> Cathcart</persName>? s’il ne s’agit que de le mettre au
+     grenier, ainsi soit-il.</p>
+   <p>
+    Je ne serai pas fâchée de voir de l’ouvrage de votre fils; j’en ai vu gravé qui m’ont paru
+     très-bien.</p>
+   <p>
+    Votre brocanteur de tableaux ne manquera pas, je pense, d’être bien cher. Demandez-lui les
+     prix de ceux qu’il m’a apportés, et envoyez-les-moi.</p>
+   <p>
+    Si le prix en est fou, il risquera de les remporter de chez moi, quelque beaux qu’ils
+     soient: nous en avons de pareils au moins et la place commence à nous manquer. </p>
+   <p>
+    Je n’ai point l’oeuvre de <persName ref="people.xml#ges01"> Gesner</persName>
+     jusqu’ici.</p>
+   <p>
+    Fi donc! comment peut-on soupçonner Mr. <persName ref="people.xml#riv01">de la Rivière</persName> d’avoir écrit <rs ref="works.xml#deuxin01"> l’Histoire
+     philosophique etc. du commerce des Indes</rs>. Elle n’est pas assez ennuyante pour avoir
+     passé par ses mains et le mot d’évidence ne s’y trouve pas assez souvent, la griffe de
+     Mr. <persName ref="people.xml#riv01">de la Rivière</persName> a plus de
+     pesanteur. Le voyage de la <placeName ref="places.xml#rus01">Russie</placeName> ne saurait l’avoir changé à un point aussi méconnaissable.</p>
+  </body>
+ </text>
+</TEI>

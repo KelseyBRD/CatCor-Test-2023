@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03646</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03646</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find Palekouti, but it seems like he
+     is probably a courier </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-18">18-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:22:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03646">
+  <body>
+   <opener><dateline><placeName ref="places.xml#kie01"> Kiov</placeName>, ce <date when-custom="1787-03-02">2 mars
+    1787</date>.</dateline></opener>
+   <p>J’ai reçu hier votre No 84 avec son annexe, que Bacchus a envoyé au <rs ref="people.xml#bez01"
+     > factotum</rs>; Palekouti n’est pas arrivé encore, l’annexe m’avait déjà été envoyé
+    directement par le <rs ref="people.xml#kar03"> père</rs> de <persName ref="people.xml#aug01">
+     Zelmire</persName>; je lui ai répondu que puisque j’avais déclaré à <rs ref="people.xml#fri06">
+     son beau-fils</rs>, dès le lendemain que <persName ref="people.xml#aug01"> Zelmire</persName>
+    se retira chez moi, que je ne serais point juge dans son affaire, il m’était impossible de m’en
+    mêler autrement qu’à titre de bon office, si l’une ou l’autre partie le réclamait, et qu’à cette
+    intention je ferais instruire mon ministre à <placeName ref="places.xml#fra03">
+     Francfort</placeName>. J’ai écrit en conséquence à celui-ci. Je suis ici depuis le 29 janvier
+    en très bonne santé; j’y attends la débâcle du <rs ref="places.xml#dni03"> Boristhène</rs>, qui
+    se fera, dit-on, à la fin de ce mois, et à vue de pays nous pourrons nous embarquer à la moitié
+    de notre avril.</p>
+   <p>Faites-nous avoir la plus belle édition possible des oeuvres du comte de <persName
+     ref="people.xml#buf02"> Buffon</persName>, grand in-quarto, bien illuminées; c’est <rs
+     ref="people.xml#dmi01"> l’habit rouge</rs> qui nous persécute de cette envie de femme
+    grosse. <persName ref="people.xml#aug01"> Zelmire</persName> m’écrit de son asile que de sa vie elle n’a été aussi tranquille
+    ni aussi heureuse; elle ne voit que les honnêtes et bonnes gens que j’ai placées auprès d’elle;
+    elle lit, elle travaille, elle se promène, elle fait de la musique et paraît se porter bien.
+    Elle paraît douce, et marque du courage et de la fermeté, et je suis devenue son idole; aussi,
+    en vérité, ne l’abandonnerai-je pas. <rs ref="people.xml#fri06"> Son mari</rs> fait tout au
+    monde pour la noircir partout : réellement elle aurait grand tort de ne pas adorer un monstre;
+    au bout du compte, ce dont il l’accuse, ne serait qu’une faiblesse très humaine, au lieu que les
+    torts du mari sont des abominations noires et criminelles. Je suis fâchée et de la fièvre de
+     <persName ref="people.xml#bue01"> madame du Bueil</persName>, et de celle qu’elle vous a
+    donnée; je souhaite que Catherine, <persName ref="people.xml#ele01"> Hélène</persName>,
+     <persName ref="people.xml#ale02"> Alexandrine</persName> ne vous en donnent jamais. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

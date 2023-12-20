@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01146</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01146</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-15"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01146">
+        <body>
+
+            
+            <opener><dateline><placeName ref="places.xml#yar01">Из Ярославля.</placeName><lb/>
+                <date when-custom="1767-05-11">Маия 11 ч., 1767.</date></dateline>
+            <lb/><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Почерк вчерашняго Вашего письма уже мне приятен был. При сем прилагаю письмо к Вашему
+                    <persName ref="people.xml#fon01">Секретарю</persName>, которое прошу ему
+                вручить. Скажите <persName ref="people.xml#vya01">Князю Вяземскому</persName> о
+                отпуске двух тысяч рублей из <orgName ref="orgs.xml#coll02">Штатс-Конторы</orgName>
+                для поездки наших Министров за <persName ref="people.xml#chr01">Королем
+                    Датским</persName>; вить у него триста тысяч лежатъ для употребления <orgName
+                    ref="orgs.xml#coll01">Иностранной Коллегии</orgName>; а естьли Вам сию сумму еще
+                трогать не хочется, так пришлите Указ к подписанию на толикую сумму, как Министрам
+                надобно: ибо, читав Ваше письмо, точно не знаю, обоим ли две тысячи, или каждому по
+                стольку; ни об том, ни об другом не спорю;</p>
+            <closer><signed rend="inline"> впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p>Здесь очень холодно.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

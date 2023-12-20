@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08229</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08229</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:21:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08229">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1773-06-18">18 juin 1773</date>.</dateline></opener>
+   <p>Peu de jours après avoir reçu la lettre de V. A. R. du 24 mai, accompagnée de la traduction du
+    journal de <persName ref="people.xml#pet01"> Pierre premier</persName>, <persName
+     ref="people.xml#kar01"> Mad. la landgrave de Darmstadt</persName> m'a remise celle du 3 juin.
+    Je rends mille grâces à V. A. R. de l'une et de l'autre, et de tout ce qu'Elle veut bien me dire
+    d'obligeant et de flatteur; j'y reconnais cette amitié précieuse, dont je fais un si grand cas
+    et que je La prie de me conserver. Vos deux amies, <persName ref="people.xml#kar01"> Mad. la
+     landgrave</persName> et moi, se sont vues. V. A. R. serait-Elle curieuse de savoir comment? En
+    voici le récit. Le <persName ref="people.xml#orl01"> prince Orlof</persName> est allé au devant
+    de <rs ref="people.xml#kar01"> cette princesse</rs> et l’а invitée à dîner à sa terre de
+     <placeName ref="places.xml#gat01"> Gatchina</placeName> qui raccourcissait le chemin de
+    quelques werstes. <persName ref="people.xml#kar01"> La landgrave</persName> m'a trouvée dans
+    cette maison, sans qu'elle s'y attendît, nous avons dîné ensemble et elle est montée avec <rs
+     ref="people.xml#ama01 people.xml#wil01 people.xml#lou22">ses filles</rs> dans mon carosse à six
+    places. Chemin faisant nous avons rencontré <rs ref="people.xml#pau01"> mon fils</rs> avec un
+    phaéton pour huit personnes, nous nous sommes mises avec lui, et voilà notre connaissance
+    entamée sans aucun embarras et sans maître de cérémonie, meuble qui, selon moi, allonge les
+    physionomies. J'ai trouvé <persName ref="people.xml#kar01"> Mad. la landgrave</persName>
+    précisément comme V. A. R. me l’а décrite; il est impossible de la voir sans que le cœur ne
+    parle pour elle. Apparemment que <rs ref="people.xml#ama01 people.xml#wil01 people.xml#lou22">les
+     princesses, ses filles</rs>, possèdent le même talent, car <rs ref="people.xml#pau01"> mon
+     fils</rs> s'est déterminé, sans balancer, à donner sa main à la princesse <persName
+     ref="people.xml#wil01"> Wilhelmine</persName>. Dès mes premières conversations avec <persName
+     ref="people.xml#kar01"> Mad. la landgrave</persName> il a été beaucoup question de V. A. R.
+    C'est une matière que j'entame volontiers, Elle en connaît la raison qui a sa source dans
+    l'amitié, l'estime et la considération distinguée...</p>
+  </body>
+ </text>
+</TEI>

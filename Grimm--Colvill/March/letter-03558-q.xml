@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03558</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03558</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I coded Kolitchof as kol01, though I was unable to
+     confirm whether this is the correct person Catherine II references.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:51:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03558">
+  <body>
+<div type="part"  n="1">
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Tsarskoé-Sélo</placeName>, ce <date when-custom="1779-04-11">11 d’avril 1779</date>.</dateline></opener>
+   <p>Mais quand on a mal aux yeux continuellement et qu’on fait là-dessus des jérémiades à ses
+    amis, qui en revanche vous conseillent de vous laver la tête avec une éponge trempée dans l’eau
+    froide, comme si vous étiez une statue antique couverte de poussière, je vous le demande, est-іl
+    utile et sage d’écrire des pancartes presque entières, lesquelles ressemblent plutôt à des
+    manuscrits qu’à des lettres, en très petite et menue écriture allemande, et cela encore pour
+    quelle misère! parce que monsieur, à qui mes lettres et celles des autres pleuvent, en a reçu
+    trois des miennes en huit jours! Voilà ce que je disais lorsque je relus pour la seconde fois
+    votre No 34, jour marqué par l’arrivée du post-scriptum au No 35. Bénie soit votre plume et
+    celui qui inventa le papier; mon confesseur m’a remis en carême tous mes péchés de l’année; vous
+    voudrez bien aussi me remettre mes offenses, afin que l’absolution plénière ne soit point
+    altérée par vous. Or, cette année est une année de paix, car le seigneur <persName
+     ref="people.xml#abd01"> Abdoul Hamet</persName>, par les bons offices du très excellent prince
+     <persName ref="people.xml#lou01"> Louis XVI</persName> et de son ministère admirablement bien
+    choisi, vient de conclure avec nous une convention confirmative de la paix de <name
+     ref="events.xml#kuchu01"> Kainardgi</name>, sans altération aucune d’aucun article. Ceci soit
+    dit par voie d’insinuation, pour vous inspirer des sentiments conformes à la situation présente
+    des choses; de même je vous pardonne tout le mal et le bien que vous dites de moi, et je passe
+    mon chemin afin de ne point tomber dans des dits et redits qui ne nous mèneraient à rien, parce
+    que vous resteriez pourtant comme vous êtes, et moi aussi. Tout ce que je viens de dire est un
+    effet du grand vent et de la tempête que nous avons eus aujourd’hui, qui enfilent les idées
+    aussi singulièrement dans ma tête, que la plupart des commis de poste qui verront cette lettre
+    n’y comprendront rien ou bien taxeront ces belles choses ainsi arrangées de pot-pourri sans
+    liaison, quoiqu’elles soient, selon moi, arrangées sur un fil comme le plus beau collier de
+    perles pourrait l’être.</p>
+   <p>Halte-là ! disait <title ref="works.xml#trista01">Tristram Shandy</title> de
+    glorieuse mémoire ; pourquoi m’appelez-vous <seg xml:lang="de"> Griechische Majestät</seg>? Je
+    ne suis que chef de l’église grecque, mais point <seg xml:lang="de"> Griechische Majestät</seg>.
+    J’ai fait ces jours passés des réflexions sur les qualités, sur les défauts et sur les titres et
+    sur les analogies des unes aux autres, et entre autres j’ai été frappée par les mots <seg
+     xml:lang="de"> Habsucht et Habsburg et Pfalzburg. Jeßt gehet’s mit die Leute den Krebsgang ;
+     ihre Worte und Werfe allem Ansehen nach, find sehr unterschieden : der eine will dies, des
+     andere will das ; ein jeder hat seinem Schlentrian, aber alles das hilft nichts ; sie werden
+     doch wohl passen müssen, den ihr Spiel daugt nichts und ist falsch und ungezogen, und aus ihren
+     gehorchenden geschorenen Schafen machen sie so einem dummen Teufel, dass er heute widerrufet
+     was er gestern. unterschmieret hat.</seg>
+   </p></div><div type="part" n="2">
+   <opener><dateline>Ce 12 d’avril.</dateline></opener>
+   <p>Madame la <persName ref="people.xml#mar02"> grande-duchesse</persName> n’est pas accouchée
+    encore; si elle passe le 14, je dirai que toute la faculté ne sait ce qu’elle dit quand elle
+    assure que les femmes sont grosses neuf mois, et il faudra qu’ils ajoutent toujours à
+    l’avenir: sauf variations de dame Nature. Je vous dois un grand remercîment de m’avoir donné la
+    solution de la politique Barmannienne; si je n’avais tant de fois été grondée par vous de mes
+    tours de passe-passe, j’aurais dit: voilà ce que c’est que d’être né à <placeName
+     ref="places.xml#reg01"> Ratisbonne</placeName> sous les yeux du commissaire, concommissaire et
+    référendaire impérial, sous ceux de l’empire et de l’<placeName ref="places.xml#eur01"> Europe</placeName>; c’est là qu’on suce
+    avec le lait la solution de tous les problèmes politiques et que par reflet on fait accoucher,
+    avorter et devélopper tous les entendements qu’on trouve devant soi, de ce dont ces mêmes
+    entendements ne se seraient jamais doutés qu’ils pussent produire. <seg xml:lang="de"> Nun
+     gestehen müßen Sie das diese Phrase eine der unvergleichlichsten sen, so ich jemals produciret
+     habe, und so bald Sie dieses thun, so sagen Sie zu selbiger Zeit.</seg> Amen, à moins que vous
+    ne soyez sur l’article des ainsi soit-il aussi entêté que sur ceux des <seg xml:lang="de">
+     Nachtrag</seg>, des post-scriptum et des lettres en toutes langues et de tous pays que vous
+    m’envoyez, et m’assurez de m’envoyer, malgré mes représentations. Voilà le crédit dont je dois
+    me vanter. Oui, oui, parlez-moi de celui-là. <seg xml:lang="it"> Ma</seg> il faut que je cesse,
+    afin de ne plus donner occasion d’être accusée de faire des querelles d’allemand, dans le temps
+    où Dieu m’est témoin que je remue ciel et terre pour pacifier cette dame-là et la délivrer de
+    toute tribulation ultérieure. Je suis très fâchée que le choix de <persName
+     ref="people.xml#tel01"> Télémaque</persName> ne soit point tombé sur <persName ref="people.xml#aug01"> Zelmire</persName>;
+    vous verrez avec qui les grandes perruques l’ont appareillée; il va devenir un bon citoyen ayant
+    à ses côtés une bonne citoyenne, et faisant des Octavius. Or, c’est la faute de frère G., qui vient toujours partout trop tard; si, lorsqu’il
+    s’est avisé de cela, il eût soufflé, l’affaire eût été faite; à présent c’est trop tard; j’ai eu
+    l’honneur de vous le mander, vu que <persName ref="people.xml#tel01"> Telémaque</persName> est
+    entre les mains des bons citoyens qui lui donnent une bonne citoyenne, de laquelle il aura de
+    bons citoyens, grands, gros et épais, et puis c’est tout; c’est dommage, car le portrait
+    de <persName ref="people.xml#aug01"> Zelmire</persName> est ravissant. Celui du <placeName ref="places.xml#etn01"> mont
+     Etna</placeName> consacré dans la dédicace de l’ <persName ref="people.xml#ghi01"> abbé Ghigi
+     ou Chigi</persName> ne donne guère envie de lui ressembler; quand elle sera imprimée, elle sera
+    traduite, puisque vous prétendez que votre traduction ne donne pas l’idée du latin de l’abbé
+     <persName ref="people.xml#gal05"> Galiani</persName>. Je voie que, grâce à vos soins, cet abbé
+    a beaucoup meilleure opinion de moi que je ne mérite. Sa prophétie sur la <seg xml:lang="es">
+     casa santa</seg> de <placeName ref="places.xml#fer01"> Ferney</placeName> est tout à fait de mon goût, non pas que j’aime les
+    mensonges et les gros cierges, mais parce que les prophéties qui viennent comme par inspiration
+    aux gens de génie sont ordinairement un résultat de combinaisons très profondes faites depuis
+    longtemps; ce sont des conclusions que forme le génie sur les recherches ou d’après les
+    recherches précédentes de l’esprit, du bon sens, de l’expérience etc. etc. etc. <seg
+     xml:lang="de"> Aber, mein Gott, was wird denn aus diesem Briefe werden ? der große Wind hört
+     nicht auf ; der ganze Winter ist sehr stürmisch gewesen</seg>, et je n’ai point eu de violents
+    maux de tête.</p>
+   <p>Voici donc, la réputation de mademoiselle <persName ref="people.xml#car01"> Cardel</persName>
+    parvenue jusqu’à <placeName ref="places.xml#nap01"> Naples</placeName>, et l’abbé <persName
+     ref="people.xml#gal05"> Galiani</persName> qui en fait une <seg xml:lang="en">
+    Pythonesse</seg>, parce qu’elle m’appelait un esprit gauche. Mais qu’est-ce que les chagrins qui
+    l’accablent? Je croyais moi qu’à <placeName ref="places.xml#nap01"> Naples</placeName>, dans le
+    plus beau climat de l’<placeName ref="places.xml#eur01"> Europe</placeName>, on les ressentait moins, parce que l’air m’a
+    toujours rejouie; mais ils y sont trop accoutumés pour y prendre autant de part que nous.
+    Avez-vous reçu la médaille de bronze pour cet <rs ref="people.xml#gal05"> abbé</rs>, et
+    qu’est-ce qu’il y aurait de si extraordinaire, s’il était au revers d’une médaille? N’y a-t-on
+    jamais vu de génies? Vous ne refuserez point, s’il vous plait, les vues de <placeName ref="places.xml#fer01">
+    Ferney</placeName> peintes par le fils de <persName ref="people.xml#hub01"> Huber</persName>, sculpteur pour
+    le moment. Je suis de l’avis du <persName ref="people.xml#ber03"> cardinal de Bernis</persName>:
+    «L’impératrice aimera mieux dépenser beaucoup d’argent, être mal servie, et jouir de votre
+    société.» Grand merci pour tous les envois que vous allez faire, et que le post-scriptum du No
+    35 m’annonce. Remerciez <persName ref="people.xml#rie02"> M. Rieu</persName> de ma part et
+    payez-le comme vous me le proposez. Je ferai adresser à Mess: H. F. et A. W. Pauli à <placeName
+     ref="places.xml#lub01"> Lubeck</placeName> les ordres nécessaires pour que <rs ref="works.xml#librar01">la bibliothèque</rs> etc. qui leur viendra de vous
+    soit envoyée ici. Payez, s’il vous plait, M. <persName ref="people.xml#rac01"> Racle</persName>,
+    ainsi qu’il est dit dans la lettre de M. <persName ref="people.xml#tro03"> Tronchin</persName>,
+    et qu’il reste où il est. Je ne sais pourquoi les deux mille roubles vous ont manqué; j’en
+    prendrai information; c’est peut-être ma mémoire de gélinotte qui en est la cause. Vous ne les
+    aurez pas pour cela présentement, parce que vous n’en voulez pas pour l’heure, vu les 110,000
+    livres que vous avez et qui sont oisifs pour le moment, et plusieurs autres.</p>
+   <p>Vivez et portez-vous bien, de même que <orgName ref="orgs.xml#gira01"> Mess: Girardot, Haller
+     et compagnie</orgName>, chez qui mes 110,000 livres sont déposés. Item, j’approuvé les
+    paiements pour le modèle en relief. Je vous ai grande obligation de m’avoir dit que vous ne me
+    laissiez point manquer d’ennui, car en vérité je ne m’en doutais pas. Malgré votre beau dire, le
+     <persName ref="people.xml#pop03"> pape</persName> a été tout aussi mal que le divin <persName
+     ref="people.xml#rei03"> Reiffenstein</persName>, dont je commenterai incessamment les ouvrages;
+    la lettre de <persName ref="people.xml#kol01"> Kolitchof</persName> nous rassure un peu sur le
+    rétablissement de sa santé.</p>
+</div>
+  </body>
+ </text>
+</TEI>

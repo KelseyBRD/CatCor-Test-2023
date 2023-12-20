@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01026</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01026</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:11:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01026">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1781-10-17">17 d’octobre 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. J’ai cru jusqu’ici qu’il était dit dans le livre des destinées que la
+    mienne serait de commencer toutes mes lettres à V. M. I. par un remercîment pour quelque
+    nouvelle marque de Son amitié ou de Ses bontés, mais cette fois-ci Elle me permettra de Lui en
+    présenter plusieurs. D’abord ce sera l'expression de ma reconnaissance pour la part que V. M. I.
+    a bien voulu prendre à l’inoculation de mes <rs ref="people.xml#ale01 people.xml#kon01">
+     petits-fils</rs>, et aux attentions qu’il Lui a plu de me marquer en cette occasion par la voix
+    de Son ministre le comte de <persName ref="people.xml#cob02"> Cobenzl</persName>, qui L’aura
+    informée déjà qu’aucun danger n’a existé pas un instant, et que tous les deux sont mieux
+    portants que jamais.</p>
+   <p>Par l’accession de V. M. I. à la <name ref="events.xml#armed01"> neutralité armée</name>, à
+    laquelle Elle a bien voulu consentir selon mes désirs, de quoi je Lui suis encore infiniment
+    redevable, V. M. I. vient de donner aux yeux de l’<placeName ref="places.xml#eur01"
+     >Europe</placeName> entière non seulement Son auguste confirmation aux principes équitables du
+    droit de l'indépendance du commerce maritime des nations neutres, mais dès cet instant je me
+    félicite de pouvoir me servir du titre longtemps désiré, présentement aussi cher à mon esprit
+    qu’à mon coeur, celui de Son Alliée. Si pendant les dix mois du règne béni de V. M. I. Elle
+    s’est plue à répandre sur moi les convictions les plus marquées des grandes qualités dont la
+    providence l’а douée, si a toutes Ses vertus Elle a joint tant de témoignages d’amitié et de
+    sincérité envers moi, serait-ce une témérité que, remplie de l’enthousiasme que le héros seul
+    inspire, je me misse à Lui prédire que l’accession de V. M. I. à la <name
+     ref="events.xml#armed01"> neutralité armée</name> produira chez les plus opiniâtres des vues
+    plus pacifiques.</p>
+   <p>Qu’il est beau et qu’il est rare de voir ce que <persName ref="people.xml#jos01"> V. M.
+     I.</persName> vient de faire dans l’affaire de Ses propositions qu’Elle avait ordonné d’envoyer
+    au duc <persName ref="people.xml#fri05"> Frédéric Eugène</persName> de <placeName
+     ref="places.xml#wur01"> Württemberg</placeName>. Elle cède aux alarmes d’une mère, aux
+    inquiétudes d’une soeur. Elle se rétracte, Elle projette, Elle arrange le bien, mais Elle ne
+    veut chagriner personne. <persName ref="people.xml#jos01"> V. M. I.</persName> me mande qu’Elle
+    remet tout arrangement ultérieur au temps où les parents de la <persName ref="people.xml#eli06">
+     Princesse Elisabeth</persName> seront arrivés à <placeName ref="places.xml#vie01"
+     >Vienne</placeName>. Je ne puis douter que des mesures aussi sages, en remplissant les coeurs
+    de cette famille de la plus profonde reconnaissance vis-à-vis de <persName
+     ref="people.xml#jos01"> V. M. I</persName>, n’aient aussi une issue conforme aux vues et désirs
+    de <persName ref="people.xml#jos01"> V. M. I.</persName> — J’ai averti ma <rs
+     ref="people.xml#mar02"> belle-fille</rs> de cе qu’il a plu à <persName ref="people.xml#jos01">
+     V. M. I.</persName> de me marquer à ce sujet, mais j’ai lieu de croire, que ce que <persName
+     ref="people.xml#jos01"> V. M. I.</persName> a bien voulu lui en dire Elle-même, lui parviendra
+    avant ma lettre, parce que je suppose qu’à présent mes <rs
+     ref="people.xml#pau01 people.xml#mar02"> voyageurs</rs> sont entre <placeName
+     ref="places.xml#kie01"> Kiovie</placeName> et <placeName ref="places.xml#bro02">
+     Brody</placeName>, par conséquent plus proches déjà de <placeName ref="places.xml#vie01"
+     >Vienne</placeName> que de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>. Aucune
+    difficulté causée par les chemins ne saurait les empêcher de se rendre près de <persName
+     ref="people.xml#jos01"> V. M. I.</persName> pour y jouir du bonheur qui les y attend. Celui que
+    V. M. I. leur préparait à <placeName ref="places.xml#bro02"> Brody</placeName>, est d’une nature
+    à laquelle assurément ni eux ni moi n’aurions pu nous attendre, mais <persName
+     ref="people.xml#jos01"> V. M. I.</persName> étant une des plus parfaites images de la Divinité,
+    il ne faut pas s’étonner, lorsque Ses chemins et Ses vues pour amener la félicité des humains
+    pareillement sont impénétrables au reste des hommes. Son esprit continuellement occupé du
+    bien-être de Ses sujets ne compte pour rien les peines. Celles qu’Elle éprouve, parce que
+     <persName ref="people.xml#jos01"> V. M. I.</persName> a préféré la conviction au contrains-les
+    d’entrer, seront recompensées par la rapidité avec laquelle se montreront les fruits d’un
+    principe qui fait autant d’honneur à Son coeur qu’à Son âme. Les applaudissements des tolérants,
+     <persName ref="people.xml#jos01"> V. M. I.</persName> les a acquis par Sa tolérance même, mais
+    ce qu’il y a d’immanquable, c’est que lorsque les intolérants seront convaincus de l’immuabilité
+    de Ses grands principes, ils se rangeront sous l’étendard de la tolérance et auront honte de
+    parler autrement qu’il ne plaira à <persName ref="people.xml#jos01"> V. M. I.</persName></p>
+   <p>D'après ce que nous voyons arriver dans <rs ref="events.xml#ameri01"> cette guerre</rs>, on
+    serait tente de ranger les grands armements et les énormes dépenses parmi les choses nuisibles
+    aux grands succès. Les quatre-vingt vaisseaux commandés par M. <persName ref="people.xml#orv01">
+     d’Orvilliers</persName>, et les nombreuses escadres de <persName ref="people.xml#cor04"> Don
+     Luis de Cordova</persName> m’ont rappelé bien des fois le mot de notre maréchal <persName
+     ref="people.xml#lac02"> Lasey</persName> qui disait qu’il ne fallait lui donner que vingt-cinq
+    à trente mille hommes, et que plus que cela ne causait que de l’embarras. Ce qu'il y a de sûr
+    c’est que sur mer le plus mauvais voilier règle la marche. S’il est vrai que <persName
+     ref="people.xml#cri01"> M. de Crillon</persName> a remis son siège du <placeName
+     ref="places.xml#men01"> fort St. Philippe</placeName> jusqu’au printemps, il est а supposer que
+    quelque escadre anglaise aura le temps d’en retarder les succès. Pour ce qui regarde les
+    lenteurs de la pacification, j’ai ordonné de communiquer au ministère de <persName
+     ref="people.xml#jos01"> V. M. I.</persName> les derniers avis que j’en ai reçus d’<placeName
+     ref="places.xml#eng01">Angleterre</placeName>.</p>
+   <p>La satisfaction que m’a causée la lettre de <persName ref="people.xml#leo01"> S. A. R. le
+     Grand-Duc de Toscane</persName>, que j’ai trouvée renfermée dans celle de <persName
+     ref="people.xml#jos01"> V. M. I.</persName>, a été égale aux sentiments que j’ai conçus depuis
+    longtemps pour ce Prince, et ma réponse ne peut qu’en être l’expression. C’est avec tous les
+    sentiments dus à <persName ref="people.xml#jos01"> V. M. I.</persName> que je serai toute ma vie
+    ....</p>
+  </body>
+ </text>
+</TEI>

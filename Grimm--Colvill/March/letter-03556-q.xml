@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03556</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03556</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The sirio speculates « Zélie » is the Duchess of
+     Württemberg. The timing is about right as Catherine is talking about a marriage and the Duchess
+     of Württemberg married the grand duke of Oldenbourg in June 1781.</p><p>I did not find any information on « Weidermeyer
+      «</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-16">16/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:50:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03556">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1779-03-20">20 mars 1779</date>.</dateline></opener>
+   <p>Votre Weidemeyer n’est point arrivé encore; ainsi je n’ai rien encore de tout ce que m’annonce
+    votre No 47; quand nous en aurons, nous en parlerons, mais d’avance je vous remercie de tout ce
+    que vous m’envoyez et ne m’envoyez point. Il est vrai qu’on était fort accoutumé à dire:
+     <persName ref="people.xml#den02"> madame Denis</persName>, et qu’en disant: <rs
+     ref="people.xml#den02"> madame Duvivier</rs>, on ne sait pas trop de qui l’on veut parler. J’ai
+    bien des obligations au <rs ref="people.xml#gri01">souffre-douleur</rs> et à <persName ref="people.xml#gra01"> M.de
+     Vergennes</persName> de l’opiniâtreté avec laquelle ils poursuivent cette Andromaque de
+     <persName ref="people.xml#men01"> Mengs</persName> pour me la faire avoir. Je vous parlerai
+    tableaux une autre fois; à présent je suis tout occupée de mon futur voyage, pendant lequel
+    j’aurai l’honneur de faire la connaissance de M. le <rs ref="people.xml#jos01"> comte de
+     Falkenstein</rs>, qui veut venir me voir à <placeName ref="places.xml#mog01">
+     Mogilev</placeName>; j’ai répondu que le jeu ne vaudrait pas la chandelle: il veut que j’oublie
+    qui il est; j’ai dit que cela s’appelait demander l’impossible, mais qu’au reste il était le
+    maître chez moi, comme partout ailleurs, de régler les choses selon son bon plaisir.</p>
+   <p>Ne voilà-t-il pas que vous me parlez dans votre lettre de vingt princes d’<placeName ref="places.xml#ger01">
+    Allemagne</placeName>? cela doit être fort amusant pour vous. Le <rs ref="people.xml#pet02"> futur
+     époux</rs> de <rs ref="people.xml#fri11"> Zélie</rs> est un des plus gros lourdauds que j’aie
+    jamais vus, et son ci-devant précepteur, un chrétien très chrétien qui passe la permission
+    d’être bête; et voilà ce qu’on trouvait un homme charmant et délicieux dans ce pays-là; c’est,
+    en vérité, le meilleur des pays possibles, parce que les bêtes même y ont du mérite.
+    Souvenez-vous de la frayeur mortelle que j’avais du <rs ref="people.xml#gus01"> comte de
+     Gothland</rs>; me revoilà dans la même situation,<seg xml:lang="de">aber, mein Gott, das wäre am Besten, wenn sie sollten zu hause sißen und die Leute nicht so
+     viel Schmißen machen</seg>. Me voilà de nouveau dans le rôle de <title ref="works.xml#ninett01"
+     >Ninette à la cour</title>, et toute ma gaucherie et mon embarras ordinaire qui va
+    paraître dans son lustre; priez Dieu pour moi. Je vous prie d’écrire à <persName
+     ref="people.xml#rei03"> Reiffenstein</persName> pour qu’il me fasse graver sur une pierre la
+    tête de l’ <title ref="works.xml#apollo01">Apollon de Belvédère</title>, que cette
+    tête soit telle qu’on paisse la mettre en médaillon sur one tabatière. </p>
+   <closer><signed rend="inline">Adieu pour aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

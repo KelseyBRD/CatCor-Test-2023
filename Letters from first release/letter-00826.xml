@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00826</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00826</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-06">06 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00826">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович,</persName></salute></opener>
+                    <p>твой курьер, отправленный по твоем возвращении в <placeName
+                            ref="places.xml#eli01">Елисавет</placeName> в 23 день октября, вчерашний
+                        день привез ко мне твои письма. Что ты, объехав семьсот верст, ослабел, о
+                        сем весьма жалею. Желаю скорее слышать о совершенном твоем
+                        выздоровлении.</p>
+                    <p>О важности победы под <placeName ref="places.xml#kin01">Кинбурном</placeName>
+                        и заочно понимательно мне было, и для того отправлено молебствие. Знаменитую
+                        же заслугу <persName ref="people.xml#suv01">Александра
+                            Васильевича</persName> в сем случае я предоставила себе наградить тогда,
+                        как от тебя получу ответ на мое письмо, о сем к тебе писанное. Из числа
+                        раненых и убитых заключить можно, каков бой упорен был. Я думаю, что
+                        огромный турецкий флот ушел к своим портам на зимование. Понеже <persName
+                            ref="places.xml#kin01">Кинбурнская</persName> сторона важна, а в оной
+                        покой быть не может, дондеже <placeName ref="places.xml#och01"
+                            >Очаков</placeName> существует в руках неприятельских, то заневолю
+                        подумать нужно о осаде сей, буде инако захватить не можно, по Вашему
+                        суждению. Хорошо бы было, естьли бы то могло зделаться с меньшею потерею
+                        всего, паче же людей и времяни. Обещанные о сем от вас планы <persName
+                            ref="people.xml#mil01">Меллера</persName> и <persName
+                            ref="people.xml#kor01">Корсакова</persName> ожидать буду.</p>
+                    <p>Жаль, что для помещения войск, особливо конных, в подкрепление <placeName
+                            ref="places.xml#kin01">Кинбурна,</placeName> жилья нет на той стороне. Я
+                        того и смотрю, что ты из тростника построишь дома и конюшни, видя, что из
+                        того делают в <placeName ref="places.xml#khe01">Херсоне.</placeName> И сие
+                        для меня уже не было бы диво. Весьма мне нравится твое намерение: прежде
+                        нежели вступить в зимние квартиры, наведя мосты на <placeName
+                            ref="places.xml#bug01">Буге</placeName> и переправя часть <persName
+                            ref="people.xml#kam01">Генерала Каменского</persName> до <placeName
+                            ref="places.xml#ben01">Бендер,</placeName> от себя послать до <placeName
+                            ref="places.xml#och01">Очакова,</placeName> дабы очистить от турецких
+                        деташементов, и в это время бомбардировать <placeName ref="places.xml#och01"
+                            >Очаков.</placeName> Дай Боже тебе успеха и чтоб гарнизон выбежал, как
+                            <placeName ref="places.xml#kho01">Хотинский</placeName> и иные
+                        подунайские. Приятно мне слышать, что больные в <placeName
+                            ref="places.xml#khe01">Херсоне</placeName> выздоравливают: одинакие ли
+                        болезни в <placeName ref="places.xml#khe01">Херсоне</placeName> и в
+                            <placeName ref="places.xml#cri01">Тавриде,</placeName> или разные?</p>
+                    <p>Одному из наших консулов с островов <placeName ref="places.xml#ven01"
+                            >Венецианских</placeName> случилось говорить с турецким каким-то
+                        начальником, который его принял за Венецианца и ему сказывал, что в бытность
+                        мою в <placeName ref="places.xml#cri01">Тавриде</placeName> мечетям и школам
+                        и всем их веры людям столько показано добра, щедрости и снисхождения, что и
+                        самые мусульмане того бы не делали. Вот, как вести кругом ходят.</p>
+                    <p> Надобно, чтоб буря, которая щелкала <placeName ref="places.xml#sev01"
+                            >Севастопольский</placeName> флот велика была, что зделала оный совсем
+                        неупотребительным. О некомплекте в мушкатерских полках и по той причине о
+                        доставлении к ним рекрут, по мере как соберут, уже от меня приказано.
+                            <persName ref="people.xml#nas01">Нассау</persName> еще не приехал, я
+                        посмотрю, как его с лучей пользою для нас употребить.</p>
+                    <closer><signed>Прощай, Бог с тобою. </signed><dateline rend="below"><date
+                                when-custom="1787-11-02">Ноября 2 ч., 1787</date></dateline></closer>
+                        <postscript><p>Действия на <placeName ref="places.xml#kub01">Кубани</placeName> и за
+                                <placeName ref="places.xml#kub01">Кубанью</placeName> я насилу на
+                            карте отыскала и, нашед, вижу, что они для безопасности <placeName
+                                ref="places.xml#cau02">Кавказской</placeName> линии и самой
+                                <placeName ref="places.xml#cri01">Тавриды</placeName> немаловажны, и
+                            надеяться надлежит, что после экспедиции <persName
+                                ref="people.xml#tek01">Текеллия</persName> уже чрез <placeName
+                                ref="places.xml#tam01">Тамань</placeName> наезды не будут.</p></postscript>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

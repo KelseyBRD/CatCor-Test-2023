@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01043</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01043</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:15:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01043">
+  <body>
+   <opener><dateline> Ce <date when-custom="1782-10-18">18 d’octobre
+    1782</date>.</dateline></opener>
+   <p>En réponse à la feuille détachée que V. M. I. a jugé à propos de m’envoyer, sensible comme je
+    dois à cette nouvelle marque d’amitié et de confiance qu’il Lui a plu de me donner, je ne puis
+    qu’y répondre avec la même ouverture de coeur, d’abord en L’assurant que cette feuille n’a été
+    vue et ne le sera que de moi seule. Les lettres de V. M. I. et les miennes, je l’affirme
+    positivement, n’ont été vues ni par les émissaires du <persName ref="people.xml#fre01"> Roi
+      de <placeName ref="places.xml#pru01">Prusse</placeName></persName> ni par aucune personne
+    suspecte; je les ai tenues sous clef et cachet dans ma propre chambre. Ce que le <persName
+     ref="people.xml#fre01"> Roi de <placeName ref="places.xml#pru01"
+    >Prusse</placeName></persName> doit avoir fait insinuer à la <placeName ref="places.xml#ott01"
+     >Porte</placeName> même prouve qu’il est mal instruit. Il se peut qu'il ait eu connaissance du
+    projet de notre traité d’alliance, mais s’il est instruit de la conclusion de cette affaire et
+    de la forme, ce dont j’ai quelque lieu cependant de douter par les vacillations qui règnent dans
+    ses insinuations, je n’en puis poser l’époque avant le commencement de cette année. Quand
+     l’Empereur <persName ref="people.xml#pet01">Pierre</persName> I. était occupé de quelque grand
+    objet, il envoyait au marché pour savoir ce qu’on y disait, et souvent il entendait qu’on y
+    parlait de ce dont son esprit était occupé. Je crois que la raison en est que les idées
+    produites par le courant des événements viennent dans plus d’une tête; d’autres supposent
+    exister ce qu’ils ne savent pas, pour tirer au clair s'ils ont rencontré juste.</p>
+   <p>La conduite du colonel <persName ref="people.xml#rib01"> Ribas</persName> est bien ingrate.
+    Depuis longtemps accoutumée à faire des ingrats et à entendre la critique sur les gens qui font
+    le plus d’effet, j’espère que les choses n’en iront pas moins leur train.</p>
+   <p>Que V. M. daigne être persuadée de tous les sentiments dont je suis pénétrée pour Elle, et de
+    la reconnaissance que je Lui porte pour ce qu’Elle a bien voulu me dire de <rs
+     ref="people.xml#pau01 people.xml#mar02">mes enfants</rs> ....</p>
+  </body>
+ </text>
+</TEI>

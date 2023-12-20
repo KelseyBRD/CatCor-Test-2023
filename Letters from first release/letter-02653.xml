@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02653</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02653</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-16">16 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02653">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#mos01">à Moscou</placeName>, <date
+                                when-custom="1767-10-17">ce 17 d'Octobre 1767</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>En conformité des désirs de Votre Majesté j'ai fait remettre aujourd'hui à
+                        son ministre <persName ref="people.xml#sol01">le comte de Solms</persName>,
+                        la traduction allemande de l'Instruction que j'ai donnée pour la réformation
+                        des lois de la <placeName ref="places.xml#rus01">Russie</placeName>. Votre
+                        Majesté n'y trouvera rien de nouveau, rien qu'Elle ne sache, Elle verra que
+                        j'ai fait comme le <rs ref="pfauen01">corbeau de la fable qui se fit un
+                            habit des plumes du paon</rs>. Il n'y a dans cette pièce de moi que
+                        l'arrangement des matières et par-ci par-là une ligne, un mot, si on
+                        rassemblait tout ce que j'y ai ajouté, je ne crois pas qu'il y eût au delà
+                        de deux ou trois feuilles. La plus grande partie est tirée de <rs
+                            type="bibl" ref="works.xml#esprit01">l'Esprit des lois</rs> du président
+                        de <persName ref="people.xml#mon03">Montesquieu</persName>, et du <rs
+                            type="bibl" ref="works.xml#deidel01">Traité des délits et des
+                            peines</rs> du <persName ref="people.xml#bec01">marquis
+                            Beccaria</persName>. Votre Majesté trouvera peut-être extraordinaire
+                        qu'après cet aveu, je Lui envoie une traduction allemande, tandis que la
+                        française paraîtrait plus naturelle. En voici la raison: l'original Russe
+                        ayant été mitigé, corrigé, accommodé à la possibilité et au local, il a été
+                        plus aisé pour ne point faire attendre Votre Majesté, d'achever la
+                        traduction allemande déjà commencée, que d'avoir une demie copie, demi
+                        traduction française, faute d'avoir quelqu'un qui entendît parfaitement le
+                        russe et le français, l'on va cependant commencer incessamment aussi cette
+                        dernière traduction. Je dois prévenir Votre Majesté de deux choses: l'une,
+                        qu'Elle trouvera différents endroits qui lui paraîtront singuliers
+                        peut-être, je La prie de se souvenir, que j'ai dû m'accommoder souvent au
+                        présent, et cependant ne point fermer le chemin à un avenir plus favorable.
+                        L'autre, que la langue russe est beaucoup plus énergique et plus riche en
+                        expressions que l'allemande, et en inversions que le français, preuve de
+                        cela, c'est que dans la traduction l'on a souvent été obligé de paraphraser
+                        ce qui avait été dit avec un seul mot en russe et séparer ce qui ne faisait
+                        pour ainsi dire qu'un trait de plume. Ceux qui ont reproché à cette dernière
+                        langue de manquer de termes, ou se sont trompés, ou n'ont point su cette
+                        langue. Ce me serait une marque bien sensible de l'amitié de Votre Majesté,
+                        si elle jugeait à propos de me communiquer ses avis sur les défauts de cette
+                        pièce, ils ne pourraient que m'éclairer dans un chemin aussi nouveau que
+                        difficile pour moi, et ma docilité à la réformer montrerait à Votre Majesté
+                        le cas infini que je fais et de son amitié et de ses lumières, </p>
+                    <closer>
+                        <signed>étant toujours avec la plus haute considération, Monsieur mon Frère,
+                            de Votre Majesté la bonne Soeur, Amie et Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

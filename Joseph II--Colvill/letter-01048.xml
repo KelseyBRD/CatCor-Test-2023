@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01048</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01048</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#france"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:16:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01048">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, ce <date
+      when-custom="1783-04-07">7 d’avril 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. La réponse de la <placeName ref="places.xml#ott01">Porte</placeName> aux
+    trois points <seg xml:lang="la"> sine qua non</seg>, ayant été en apparence d’une nature à
+    obvier à tout point de contestation ultérieure entre elle et moi, comme V. M. I. par Sa lettre
+    du 25 février n. st. l’a très-bien remarqué, je commençais déjà à espérer que mes différends
+    avec la <placeName ref="places.xml#ott01">Porte</placeName> allaient se terminer au gré de mes
+    désirs et selon la lettre des traités, d’après les promesses si solennelles données par cette
+    puissance. Je me plaisais à en attribuer l’effet au concours efficace de V. M. I. Je me disais
+    avec complaisance que grâce à l’heureuse union qui subsiste entre Elle et moi, les <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> seraient désormais moins entreprenants vis-à-vis de
+    leurs voisins. Ces sentiments combattaient en moi l’expérience du passé, à laquelle je me suis
+    rapportée dans ma lettre à V. M. I. du 29 février v. st. Mais malheureusement les faits viennent
+    de lever l’illusion, et constatent de plus en plus combien peu je puis et dois donner de
+    confiance aux promesses turques. Il est de mon devoir comme amie et alliée de V. M. I. de Lui
+    faire part qu’au milieu des plus belles protestations la <placeName ref="places.xml#ott01"
+     >Porte</placeName> n’a pas hésité de détacher vers <placeName ref="places.xml#tam01"
+     >Taman</placeName> un officier bien accompagné qui a pris possession de cette île au nom du
+    Sultan, et qui a commencé à y exercer le pouvoir souverain et arbitraire de la
+     Sublime <placeName ref="places.xml#ott01">Porte</placeName>. Le <persName
+     ref="people.xml#gir05"> Khan de <placeName ref="places.xml#cri01"
+    >Crimée</placeName></persName> y ayant envoyé un de ses officiers pour savoir la raison de cette
+    prise de possession, le commandant turc d’abord l’a fait mettre aux fers, et ensuite il le fit
+    décapiter publiquement. Que V. M. I. juge Elle-même si un procédé aussi révoltant peut rester
+    sans ressentiment. Je Lui avoue avec franchise que, voyant que les promesses de la <placeName
+     ref="places.xml#ott01">Porte</placeName> ne mènent à rien qu’à faire gagner à cette puissance
+    le temps qui lui est nécessaire pour armer avec force par terre et par mer, je suis obligée à me
+    décider à former entre la <placeName ref="places.xml#rus01">Russie</placeName> et la <placeName
+     ref="places.xml#ott01">Porte</placeName> un autre état des choses. Si à la suite de la
+    satisfaction et sûreté que je suis résolue à me procurer, la <placeName ref="places.xml#ott01"
+     >Porte</placeName> préfère la paix à la guerre, je m’abstiendrai assurément de la provoquer,
+    étant au contraire très-disposée à lui témoigner toutes sortes de complaisances raisonnables,
+    mais si Elle se décide pour la guerre, mes armées sont prêtes à entrer en campagne et à
+    repousser toute attaque.</p>
+   <p>La position des affaires générales de l’<placeName ref="places.xml#eur01"
+    >Europe</placeName> n’étant plus aussi favorable qu’elle l’a été il y a un an pour l’exécution
+    des grandes vues que j’avais proposées alors à V. M. I. pour le bien de nos monarchies, la
+    prudence paraît devoir les borner dans le moment présent à un plan moins étendu, et par
+    conséquent moins susceptible à exciter la jalousie et l’activité de nos voisins respectifs.</p>
+   <p>Je conviens que le local des Etats de V. M. I. exige plus de ménagements que celui de
+     mon <placeName ref="places.xml#rus01">Empire</placeName>; aussi suis-je très-éloignée d’exiger
+    que pour l’amour de mes affaires Elle les expose à un danger éminent, tout comme je suis
+    persuadée que V. M. I. ne me demandera jamais non plus des sacrifices d’une telle nature.</p>
+   <p>Il n’est pas pourtant à supposer que la <placeName ref="places.xml#fra01"
+    >France</placeName> s’en prenne aux Etats de V. M. I. aussi longtemps que l’<placeName
+     ref="places.xml#ott01">Empire Ottoman</placeName> ne sera pas menacé évidemment d’une chute
+    totale. La Cour de <placeName ref="places.xml#ver01">Versailles</placeName> ayant avoué la
+    légitimité de mes griefs, qui par l’envahissement de <placeName ref="places.xml#tam01"
+     >Taman</placeName> doivent nécessairement gagner plus de faveur aux yeux du public, et se
+    piquant de son côté d’une exactitude scrupuleuse dans ses engagements, aurait bien mauvaise
+    grâce de prétendre empêcher l’<persName ref="people.xml#jos01"> Empereur</persName> son allié à
+    exercer ceux qu’il a contractés avec moi d’après les principes de sa propre sûreté. D’ailleurs
+    V. M. I. a des relations intimes avec cette Cour, elles peuvent servir à La mettre au fait de sa
+    vraie façon de penser. S’il se peut que la <placeName ref="places.xml#fra01"
+    >France</placeName> ne verrait pas de bon oeil le <rs ref="people.xml#jos01"> beau-frère</rs> du
+     <persName ref="people.xml#lou01"> Roi très-chrétien</persName> faire cause commune avec
+     la <placeName ref="places.xml#rus01">Russie</placeName> contre l’ennemi du nom chrétien, le
+    plus ancien ami de la <placeName ref="places.xml#fra01">France</placeName>, il n’en est pas
+    moins vrai que dans l’épuisement actuel de ses finances il est à supposer qu’elle ne se
+    dissimulera point a elle-même que sa prédilection pour les <orgName ref="orgs.xml#turk01">
+     Turcs</orgName> lui pourrait faire perdre l’alliance de V. M. I. qui lui a été plus d’une fois
+    bien autrement utile.</p>
+   <p>Le <persName ref="people.xml#fre01"> Roi de <placeName ref="places.xml#pru01"
+      >Prusse</placeName></persName> ne saurait assurément méconnaître qu’en attaquant V. M. I., il
+    m’attaque également, et je ne le crois pas disposé à provoquer la réunion de nos forces une
+    seconde fois.</p>
+   <p>J’ose espérer que les propres forces de mon <placeName ref="places.xml#rus01"
+     >Empire</placeName> suffiront encore cette fois-ci pour réduire la <placeName
+     ref="places.xml#ott01">Porte</placeName> à la raison, et pour me faire obtenir une paix sûre,
+    avantageuse et glorieuse. Mais connaissant la grande âme de l’Empereur <persName
+     ref="people.xml#jos01">Joseph</persName> II, et m’intéressant vivement à sa gloire personnelle
+    et au bien-être de sa monarchie, dont les intérêts politiques ont tant de rapport et d’analogie
+    avec ceux de la <placeName ref="places.xml#rus01">Russie</placeName>, j’aurais de la peine à
+    désirer qu'il n’entre pas en lice pour illustrer son règne bienfaisant par des victoires
+    signalées et par des conquêtes utiles. Il ne tiendra pas assurément à ma bonne volonté ni à ma
+    coopération efficace que cette dernière partie de mes voeux ne sorte son plein effet, et que les
+    fleurons anciennement démembrés de la couronne héréditaire de V. M. I. n’y soient réunis au
+    plutôt. Pour ne pas abuser de la complaisance de V. M. I. je finis cette longue lettre, en Lui
+    demandant Son sentiment sur les objets importants dont elle traite, et en Lui renouvelant les
+    assurances de l’amitié la plus sincère, et de la haute considération avec lesquelles je ne
+    cesserai d’être ....</p>
+  </body>
+ </text>
+</TEI>

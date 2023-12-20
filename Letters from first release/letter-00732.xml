@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00732</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00732</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-23">23 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00732">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Царского Села.</placeName><date
+                            when-custom="1783-05-26">Маия 26, 1783</date></dateline></opener>
+                    
+                    <p>Письмо твое, друг мой сердечный, из <placeName ref="places.xml#khe01"
+                            >Херсона</placeName> я получила вчера. Жалею много о приключенном тебе
+                        безпокойствии дорогою и о том, что ты по Адмиралтейству и по крепостному
+                        строению не все нашел в надлежащем порядке. Сюда приехал <persName
+                            ref="people.xml#gan01">Ганнибал</persName> и уверил меня, что крепость
+                        совершенно в безопасном положении противу нечаянного нападения и что корабли
+                        отстраиваются. Я для славы города <placeName ref="places.xml#khe01"
+                            >Херсона</placeName> и для гремящего сего града с младенчества имяни
+                        дала строителю большой крест Владимирский. Не сумневаюсь, что в твоих руках
+                        и твоим попечением все пойдет, как должно. <placeName ref="places.xml#cri01"
+                            >Крымских</placeName> известий дальних ожидаю нетерпеливо и думаю, что
+                        ныне уже объявлены Российскими подданными. В <placeName
+                            ref="places.xml#ist01">Цареграде</placeName> начали хулить суджукского
+                        паши предприятия на <placeName ref="places.xml#tam01">Таман.</placeName> Из
+                        репортов с разных мест вижу, что и с Темрюком последовало то же, и нельзя,
+                        чтоб Порта о том не знала.</p>
+                    <p>Я не знаю, почему мои письмы к тебе не доходят. Кажется, я писала к тебе при
+                        всяком случае. Пока ты жалуешься, что от меня нет известий, мне казалось,
+                        что от тебя давно нету писем. Теперь я здорова, а с начала мая я здесь
+                        занемогла, по моему обычаю, круто. Принуждены были кровь пустить, чем жар
+                        прорвался.</p>
+                    <p>Вчерась получила письмо от <persName ref="people.xml#gus01">Короля
+                            Шведского,</persName> который к 13 июня сбирается приехать в <placeName
+                            ref="places.xml#fin01">Финляндию</placeName> и спрашивает, где может со
+                        мною увидеться. Я означила <placeName ref="places.xml#fre01"
+                            >Фридрихсгам,</placeName> куда к тому времяни поеду на три дни, а всего
+                        ден десять отселе отлучусь, и первый мой ночлег будет в Осиновой Роще.
+                            <persName ref="people.xml#gus01">Король Шведский,</persName> взяв от
+                        французов денег для демонстраций, делает из шести полков лагерь у <placeName
+                            ref="places.xml#tav01">Тавастгуса</placeName> и в самое то же время нам
+                        подтрушивает свиданием.</p>
+                    <p>Я не знаю, кто-то компоновал Графине <persName ref="people.xml#bra02"
+                            >Браницкой</persName> русское письмо такое странное ко мне, что
+                        расхохотаться надлежит. Луче бы она запросто писала сама.</p>
+                    <closer><signed><seg xml:lang="fr">Adieu, mon Ami, portes--Vous bien et
+                            ecrives--moi le plus souvent possible. Aves--Vous vu le Marechal
+                                <persName ref="people.xml#rum01">Roumanzof</persName> ou ne
+                            l'aves--Vous pas vu? Qu'est--ce qu'il fait; je pense rien.</seg>
+                        </signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04739</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04739</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="enclosure">N.b inclusion mentioned. </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-13">13/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:03:45Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04739">
+        <body>
+
+            <dateline> A <placeName ref="places.xml#mos01"> Moscou</placeName>, се <date
+                    when-custom="1767-11-29">29 Novembre 1767</date>.</dateline>
+            <opener><salute> Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je vous
+                    dois réponse à deux de vos lettres, la première du 12 la seconde du 13 Novembre,
+                    la voici.</salute></opener>
+            <p> Le Prince <persName ref="people.xml#gol03"> Gallitzin</persName> dont je vous
+                renvoie la lettre n’est point dans l’erreur, quand il vous croit très-capable
+                d’appuyer une chose qu’il désire avec de bonnes et belles raisons; vous possédez ce
+                talent joint à beaucoup d’autres, mais son envie de rester dans les pays étrangers
+                et pour s’instruire et parce qu’il s’y plait, le trompe sur sa situation. Il doit
+                partir de <placeName ref="places.xml#par01"> Paris</placeName>, il n’a pas assez de
+                bien pour voyager, je ne sais d’ailleurs si c’est l’avis de sa famille qu’il
+                dérangerait peut-être, vu qu’il n’est pas riche; d’un autre côté je ne sais si le
+                bureau politique serait assez poli pour employer les sommes destinées à son usage, à
+                faire voyager quelqu’un en faveur des arts et des sciences, je suppose peut-être
+                gratuitement que des oreilles non scientifiques pourraient prendre cela de travers
+                et dire qu’on dissipe à d’autres usages des sommes qui ont leur destination fixée;
+                je crois qu’il s’en trouverait d’assez mal avisés pour crier au désordre, je n’y
+                pourrais rien répondre vu qu’on me présenterait ma signature pour me faire taire. Au
+                bout du compte, je suppose que tel qu’il est, il trouvera dans sa patrie l’occasion
+                d’employer les talents que le ciel lui a donnés.</p>
+            <p> Je serai de retour au mois de Janvier à <placeName ref="places.xml#pet01">
+                    Pétersbourg</placeName> et je promets mes bons offices à M-lle <persName
+                    ref="people.xml#col02"> Collot</persName>, pour que sa situation soit mieux
+                établie; je vous jure que je la croyais comprise dans un traité formel.</p>
+            <p>Je vous envoie non-seulement les pièces dont vous m’avez demandé copie, mais encore
+                la réponse de M. <persName ref="people.xml#riv01">de la Rivière</persName> à la
+                lettre du C-te <persName ref="people.xml#pan02"> Panin</persName>, vous verrez comme
+                l’auteur de l’ordre essentiel bat la campagne en long et en large. Mais au moins,
+                faites réparation à votre ami <persName ref="people.xml#did01">
+                Diderot</persName> de l’avoir soupçonné d’avoir fait passer ce M.  <persName
+                    ref="people.xml#riv01">de la Rivière</persName> pour un mécontent pour lui
+                rendre service, et <persName ref="people.xml#did01"> Diderot</persName> et le Prince
+                    <persName ref="people.xml#gol03"> Gallitzin</persName> et <persName
+                    ref="people.xml#sta02"> Stakelberg</persName> mon Envoyé en <placeName
+                    ref="places.xml#spa01">Espagne</placeName> et <persName ref="people.xml#rea01">
+                    l’Abbé de Real</persName> et vous et <persName ref="people.xml#pan02">
+                    Panin</persName> et moi et l’auteur même de l’ordre essentiel, nous avons tous
+                pris le change; nous avons la berlue nous croyons à des lettres, à des dites de
+                vingt personnes, mais nous étions des bêtes, nous devions savoir que du jour au
+                lendemain l’on se brouille, l’on se raccommode, l’on se fuit, l’on s’aide, l’on
+                veut, l’on ne veut pas, et qu’il y en a qui veulent donner le change, mais cela
+                est-il honnête, Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je
+                vous le demande.</p>
+            <p>N’allez pas dire au moins que je déraisonne: je vous promets à mon retour de beaux
+                raisonements et beaucoup d’admiration pour <rs ref="works.xml#pierre01"> la bête
+                    spirituelle,</rs> le législateur, et la <rs ref="works.xml#winter01"> statue de
+                    l’hiver</rs>, qu’on dit être une merveille ; je vous suis bien obligée de ce que
+                vous n’avez pas gâté la terre cuite. A propos, demandez, je vous prie, à M-lle
+                    <persName ref="people.xml#col02"> Collot</persName> si le buste de M. <persName
+                    ref="people.xml#fal01"> Falconet</persName> est bien aisé à faire. </p>
+            <closer><signed rend="inline"> Adieu, portez-vous bien, et soyez bien gai jusqu’à mon
+                    retour. </signed></closer>
+        </body>
+    </text>
+</TEI>

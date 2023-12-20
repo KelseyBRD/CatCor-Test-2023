@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09057</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09057</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09057"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-06-02">1788 г. 2 июня.</date>
+                </dateline>
+            </opener>
+            <p>Карту <placeName ref="places.xml#bal01">Балтики</placeName> с обеими берегами и <placeName ref="places.xml#fin01">Финляндии</placeName> прошу положить ко мне в горницу.
+                <note type="editorial">
+                   <bibl>
+                       <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                         (<biblScope unit="pp">pp. 28.</biblScope>)
+                    </bibl>
+                    notes that this note was written during the time when <name type="event" ref="events.xml#swedi02">the war against Sweden</name> was about to start. A.V. Khrapovitskii notes in his diary under <date when-custom="1788-06-02">the same day</date> that Catherine took different maps to examine border territories between Russia and Sweden (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        <biblScope unit="pp">pp. 51.</biblScope>
+                    </bibl>).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

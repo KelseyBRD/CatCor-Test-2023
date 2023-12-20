@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02844</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02844</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+   
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:33:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02844">
+  <body>
+  
+   <opener><dateline> à St. <placeName ref="places.xml#pet01"
+     >Petersb.</placeName> ce <date when-custom="1790-01-04">4. Janvier 1790</date>.</dateline></opener>
+   <p>Je vous avertis, Monsieur, que le No. 123 de la gazette de <placeName ref="places.xml#got04">
+     Göttingen</placeName> vient de publier une des plus grandes absurdités qu’il est possible de
+    dire. Il y est dit, que le Général Comte de <persName ref="people.xml#suv01">
+     Souvorof</persName> est le fils d’un boucher de <placeName ref="places.xml#hil01">
+     Hildesheim</placeName>. Je ne sais qui est l’auteur d’un pareil mensonge, mais ce qu’il y a de
+    sûr c’est que la famille du Général <persName ref="people.xml#suv01"> Souvorof</persName> est
+    noble depuis longtems et originaire depuis des siècles et établie en <placeName
+     ref="places.xml#rus01">Russie</placeName>. Son <rs ref="people.xml#suv03"> père</rs> avoit
+    servi <persName ref="people.xml#pet01"> Pierre I.</persName>, il étoit Général en chef et
+    Gouverneur Général du Royaume de <placeName ref="places.xml#pru01">Prusse</placeName>, lorsque
+    celuiçi fut conquis sous le règne de <persName ref="people.xml#eli02"> S. M. l’Impératrice
+     Elisabeth</persName>; ensuite il fut fait Lieut. Colonel du troisième régiment des
+     gardes nommé <orgName ref="orgs.xml#izma01"> Ismailofsky</orgName>; outre cela il étoit
+    Adjudant Général, sénateur, chevalier de l’ordre de St. André. C’étoit un homme très intègre et
+    fort instruit, qui parloit, entendoit ou lisoit sept ou huit langues mortes ou vivantes. J’avois
+    en lui la plus grande confiance et je n’ai jamais nommé son nom qu’avec une sorte de vénération.
+    C’est de <rs ref="people.xml#suv03"> cet homme</rs> là que votre gazette fait un boucher. Autre
+    mensonge de la même feuille est, qu’il y est dit, que ce fut le feu <persName
+     ref="people.xml#bau01"> Général Bauer</persName>, qui mit le <persName ref="people.xml#suv01">
+     Comte des deux empires</persName> au service, ce qui n’a pu avoir lieu dans aucun cas; le Comte
+     <persName ref="people.xml#suv01"> Souvorof</persName> ayant servi déjà dans la <name
+     ref="events.xml#seven01"> guerre de sept ans</name> dans nos armées et <persName
+     ref="people.xml#bau01"> Bauer</persName> étant dans l’armée du Prince Ferdinand. Il me paroit
+    que la ville de <placeName ref="places.xml#hil01"> Hildesheim</placeName> est une ville à
+    prétention, présentement on fait du <rs ref="people.xml#suv03"> père</rs> respectable du
+     <persName ref="people.xml#suv01"> Général Comte de Souvorof</persName> un boucher de <rs
+     ref="places.xml#hil01"> cette ville</rs>, et il n’y a pas longtems qu’on prétendoit que
+    le Lieut. Général <persName ref="people.xml#mik02">Michelson</persName> y étoit né, tandis que
+    son père a servi chés nous et que tous les deux sont de la religion grecque, qui n’est pas
+    professée dans cet évêché à ce que je sache. La réfutation de la gazette de <placeName
+     ref="places.xml#got04"> Göttingen</placeName> a pensée me faire oublier que j’avois à vous
+    accuser la reçue de vos lettres du 11. Nov. et 25. Déc. et des remercimens à vous faire pour
+    toutes les belles choses que vous me dites. Je n’ai jamais établie ma conduite politique sur des
+    rêves, si mes ennemis ou mes envieux en ont pris pour la base de la leur, ils ne pourront que se
+    tromper. Les Choiseulades font voir ordinairement le fond du sac ; celui de la <placeName
+     ref="places.xml#fra01">France</placeName> est bien à découvert dans ce moment de régénération,
+    et ses affaires vont si bien qu’il n’y a qu’à les laisser aller.</p>
+   <p>Au reste je ne crois pas qu’il soit de l’intérêt d’aucun souverain de favoriser l’esprit
+    d’effervescence, qui paroit vouloir s’emparer de la multitude de beaucoup de pays à moins
+    qu’aucun d’eux ne veuille afficher d’être sans foi ni loix ni principes à la façe de
+    l’univers.</p>
+   <p>J’enverrai au <persName ref="people.xml#kot01"> Président Kotzebue</persName> un congé
+    convenable pour rétablir sa santé. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

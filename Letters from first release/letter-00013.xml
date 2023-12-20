@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00013</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00013</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change><date when="2013-10-20">21 October 2013</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Edited markup and added annotations.</p></change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and further annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00013">
+                <body>
+                    <opener><dateline><date when-custom="1774-01-06">ce 6 janvier
+                            1774</date>.</dateline></opener>
+                    
+                    <p>Le 7 janvier qui a vu naître V. A. R. est un jour trop intéressant pour moi
+                        pour que je puisse m'empêcher d'en parler à V. A. R.<note type="editorial">A
+                            letter to Henry from his brother Frederick II shows that the letter was
+                            carried by <ref target="people.xml#goe01">Count von Görtz</ref>, when
+                            the latter returned from delivering Frederick's congratulations on <ref
+                                target="people.xml#pau01">Paul</ref>'s marriage to the new <ref
+                                target="people.xml#wil01">Grand Duchess Natalya Alekseevna</ref>
+                                    (<bibl><title ref="works.xml#politi01">Politische Correspondenz
+                                    Friedrich's des Großen</title>, <biblScope unit="vol"
+                                    >xxxv</biblScope>, <biblScope unit="pp">p. 80</biblScope>
+                                    (<idno>Letter 22748</idno>)</bibl>). The same letter from
+                            Frederick indicates that Görtz also brought the (false) news that the
+                                <ref target="events.xml#pug01">Pugachev Rebellion</ref> was not
+                            serious: Catherine does not mention the growing uprising in her letter
+                            to Henry. To avoid revealing this internal threat and potential weak
+                            point at a time when her first Russo-Turkish War was still raging and
+                            the negotiations concerning the first partition of Poland were not yet
+                            complete, she did not discuss the rebellion in her foreign
+                            correspondence at all at this time (see, for example, her <ref
+                                target="letter-00001">letter to Voltaire</ref> sent the next day, on
+                            7 January). Henry forwarded Catherine's letter to his brother on 10
+                            February, writing: 'Je vous supplie de me dire ce que je dois répondre
+                            sur les deux articles les plus intéressants de sa lettre, le premier qui
+                            intéresse le roi de Suède, et le second qui me regarde à cause de
+                            l'invitation que l'Impératrice me fait pour la venir voir après la paix'
+                            ('I beg you to tell me how I should respond to the two most interesting
+                            points in her letter, the first involving the king of Sweden, and the
+                            second which concerns me due to the empress's invitation for me to come
+                            see her after peace is made'). Despite suffering from gout in his hands,
+                            Frederick responded quickly so that Henry could write back to Catherine
+                            immediately: he left Henry free to choose whether or not to visit
+                            Russia, noting that Catherine clearly very much wanted Henry to visit
+                            ('on voit qu'elle en a grande envie'). He instructed Henry to reassure
+                            Catherine boldly, since he knew that the French, who subsidised the
+                            Swedish crown, wanted to use Gustav to gain influence in Russia ('vous
+                            pourrez la rassurer hardiment, parceque, selon ce que j'en sais, les
+                            Français espèrent par lui gagner terrain en Russie'). (<bibl><title
+                                    ref="works.xml#politi01">Politische Correspondenz Friedrich's
+                                    des Großen</title>, <biblScope unit="vol">xxxv</biblScope>,
+                                    <biblScope unit="pp">p. 89</biblScope> (<idno>Letter
+                                    22760</idno>)</bibl>.) By contrast, Frederick delayed answering
+                            the letter Catherine had sent to him on 4 January, alleging the same
+                            impediment of gout (<bibl><title ref="works.xml#politi01">Politische
+                                    Correspondenz Friedrich's des Großen</title>, <biblScope unit="vol">xxxv</biblScope>, <biblScope unit="pp">p.
+                                    90</biblScope> (<idno>Letter 22762</idno>)</bibl>). Henry, who
+                            had already visited Russia in Winter 1770/71, returned in 1776. Present
+                            at time of <ref target="people.xml#wil01">Grand Duchess Natalya
+                                Alekseevna</ref>'s death in childbirth, Henry was then able to help
+                            arrange <ref target="people.xml#pau01">Paul</ref>'s second marriage to
+                            the future <ref target="people.xml#mar02">Mariya Fedorovna</ref>. Gustav
+                            III of Sweden eventually visited St. Petersburg in June-July
+                            1777.</note> L'amitié sincère que Ses vertus m'ont inspirée ne peut que
+                        faire les vœux les plus vifs pour Sa précieuse conservation, pour Sa santé
+                        et Sa prospérité. Les hommes tels que Vous devraient non seulement vivre
+                        plusieurs siècles, pour servir par leurs qualités d'exemple au reste des
+                        humains, mais encore il leur faudrait un bonheur non interrompu pour
+                        encourager les hommes à les imiter. Il n'y a jusqu'à <persName
+                            ref="people.xml#cat02">ma patronne</persName>, dont V. A. R. a eu la
+                        bonté de se souvenir encore cette année, que je n'invoque pour obtenir tout
+                        cela du ciel pour V. A. R.<note type="editorial"><ref
+                                target="people.xml#hen02">Henry</ref> regularly sent congratulations
+                            to <ref target="people.xml#cat01">Catherine</ref> on her birthday and
+                            nameday, beginning in 1771 after his <ref target="events.xml#henry01"
+                                >first visit</ref> to <ref target="places.xml#rus01">Russia</ref>
+                            and ending when the <ref target="events.xml#prussia01">Russo-Prussian
+                                alliance lapsed in 1780</ref>. The congratulatory letter mentioned
+                            here, presumably dating from the end of November 1773, does not appear
+                            to have survived, but <ref target="people.xml#cat01">Catherine</ref>
+                            acknowledged its receipt on 8 December 1773 (<bibl>
+                                <title ref="works.xml#briefw01">Briefwechsel zwischen Heinrich Prinz
+                                    von Preußen und Katharina II. von Rußland</title>, <biblScope unit="pp">p. 117</biblScope></bibl>).</note>
+                        <rs ref="people.xml#kar01">Mad. la landgrave</rs> qui, quoiqu'elle n'invoque
+                        point de saintes en Votre faveur, n'en aime pas moins V. A. R., ne m'a point
+                        laissée ignorer ses entretiens avec Elle.<note type="editorial">Upon her
+                            return from <ref target="places.xml#rus01">Russia</ref> in late 1773,
+                                <ref target="people.xml#kar01">Landgravine Karoline of
+                                Hesse-Darmstadt</ref> visited <ref target="places.xml#ber01"
+                                >Berlin</ref>. In December, both <ref target="people.xml#hen02"
+                                >Henry</ref> and <ref target="people.xml#fre01">Frederick</ref>
+                            politely mentioned in letters to <ref target="people.xml#cat01"
+                                >Catherine</ref> their conversations with the <ref
+                                target="people.xml#kar01">landgravine</ref> about her <ref
+                                target="events.xml#karoline01">trip</ref> to <ref
+                                target="places.xml#rus01">Russia</ref> for <ref
+                                target="people.xml#wil01">her daughter</ref>'s <ref
+                                target="events.xml#marriage01">wedding</ref> to the future <ref
+                                target="people.xml#pau01">Paul I</ref> (<bibl>
+                                <title ref="works.xml#briefw01">Briefwechsel zwischen Heinrich Prinz
+                                    von Preußen und Katharina II. von Rußland</title>, <biblScope unit="pp">pp. 116-17</biblScope></bibl>; <bibl>
+                                <title ref="works.xml#sborni01">Sbornik Imperatorskago Russkago
+                                    Istoricheskago Obshchestva</title>, <biblScope unit="vol"
+                                    >xx</biblScope> (<date>1877</date>), <biblScope unit="pp">pp.
+                                    334-35</biblScope></bibl>).</note> J'étais en trop bonnes mains
+                        pour ne point baisser la tête avec résignation et me soumettre à vos arrêts.
+                        Cependant à propos de la jalousie du <persName ref="people.xml#sch01">Baron
+                            de Schrautenbach</persName> envers <persName ref="people.xml#did01"
+                            >Diderot</persName>, V. A. R. en a prononcé un contre ce dernier, dont,
+                        en honneur et en conscience, je suis obligée de le disculper, car il est de
+                        toute vérité que ce n'est pas lui que a écrit ni publié <title
+                            ref="works.xml#system01">le système de la nature</title>, que je n'ai
+                        jamais lu.<note type="editorial">In his letter to <ref
+                                target="people.xml#cat01">Catherine</ref> of 9 December 1773, Henry
+                            wrote: 'J'ai félicité <ref target="people.xml#sch01">le baron de
+                                Schrautenbach</ref> sur la conquête de <ref
+                                target="people.xml#fim01">madémoiselle Fimofski</ref>, il est jaloux
+                            de <ref target="people.xml#did01">Diderot</ref>, il prétend que c'est
+                            lui qui veut le supplanter. [...] Je ne sais si l'auteur du <ref
+                                target="works.xml#dholbach01">système de la nature</ref> se laissa
+                            séduire par un amour bizarre, mais je sais bien qu'il a un jugement
+                            exquis, il le prouve en quittant <ref target="places.xml#par01"
+                                >Paris</ref> et <ref target="places.xml#fra01">la France</ref>
+                            <ref target="events.xml#diderot01">pour aller voir gouverner une grande
+                                monarchie</ref>, pour connaître comment les peuples sont heureux,
+                            lorsqu'ils sont soumis par des lois sages, par des principes d'équité et
+                            justice' (<bibl>
+                                <title ref="works.xml#briefw01">Briefwechsel zwischen Heinrich Prinz
+                                    von Preußen und Katharina II. von Rußland</title>, <editor>ed.
+                                    by R. Krauel</editor>, <pubPlace>Berlin</pubPlace>:
+                                    <publisher>Alexander Duncker</publisher>, <date>1903</date>,
+                                    <biblScope unit="pp">pp. 116-17</biblScope></bibl>).</note> Je
+                        suis persuadée que, si <persName ref="people.xml#did01">Diderot</persName> a
+                        le bonheur de voir V. A. R., il ne manquera pas de s'attirer Son
+                        approbation. C'est une tête comme on n'en rencontre guère sur son chemin;
+                        les choses les plus obscures, les plus difficiles deviennent aisées et
+                        claires entre ses mains. Outre cela il est impossible que la fertilité de
+                        son imagination n'amuse V. A. R., il est né poète, mais quoiqu'il fasse bien
+                        et facilement des vers, c'est le talent qu'il exercerce le moins. Ce qui
+                        n'échapperait point à V. A. R. et ce qui Lui plairait sans faute le plus,
+                        c'est l'extrême bonté et droiture d'âme de cet homme; c'est un cœur comme on
+                        voudrait que tous les hommes en eûssent. Je m'aperçois qu'en voulant le
+                        disculper j'ai fait son éloge, mais j'en appelle à V. A. R. et je suis
+                        persuadée que, si Elle le voit, Elle trouvera que je n'ai rien exagéré.<note
+                            type="editorial"><ref target="people.xml#cat01">Catherine</ref>
+                            similarly praises <ref target="people.xml#did01">Diderot</ref> in two
+                            letters to <ref target="people.xml#vol01">Voltaire</ref> in January 1774
+                                    (<bibl><title ref="works.xml#corres01">D18762,
+                                D18782</title></bibl>).</note></p>
+                    <p><rs ref="people.xml#gus01">Le roi de Suède</rs> commence à parler pour la
+                        troisième fois <rs type="event" ref="events.xml#gusta01">de venir ici</rs>,
+                        je ne sais ce qui en arrivera. Lorsqu'il en parla pour la première, quinze
+                        jours après la <rs ref="events.xml#gusta02">révolution</rs> se fit, après la
+                        seconde proposition il tourna vers <placeName ref="places.xml#nor01">la
+                            Norvège</placeName>.<note type="editorial">The 'révolution' is <ref
+                                target="people.xml#gus01">Gustav III</ref>'s coup d'état of 8/19
+                            August 1772: despite Russian-organised opposition, <ref
+                                target="people.xml#gus01">Gustav</ref> suspended the Swedish
+                            constitution, arrested leaders of the Swedish diet, acquired for himself
+                            greater powers, and thus reduced the opportunities for <ref
+                                target="places.xml#rus01">Russia</ref> to influence Swedish affairs
+                            via the diet. Taking advantage of <ref target="places.xml#rus01"
+                                >Russia</ref>'s ongoing war with the <ref target="places.xml#ott01"
+                                >Ottoman Empire</ref>, <ref target="places.xml#swe01">Sweden</ref>
+                            mobilised its forces in autumn-winter 1772-1773 in hopes of acquiring
+                            new territories in <ref target="places.xml#nor01">Norway</ref>, but war
+                            in the <ref target="places.xml#bal01">Baltic</ref> was averted. <ref
+                                target="people.xml#cat01">Catherine</ref> mocked <ref
+                                target="people.xml#gus01">Gustav</ref>'s promise to visit the
+                            following year in a letter to <ref target="people.xml#hen02">Henry</ref>
+                            of 22 August 1774 (<bibl><title ref="works.xml#cather01">Catherine II et
+                                    Gustave III: une correspondance retrouvée</title>, <biblScope unit="pp">pp. 52-53</biblScope></bibl>; <bibl>
+                                <title ref="works.xml#briefw01">Briefwechsel zwischen Heinrich Prinz
+                                    von Preußen und Katharina II. von Rußland</title>, <biblScope unit="pp">pp. 134-35</biblScope></bibl>). <ref
+                                target="people.xml#gus01">Gustav</ref> finally <ref
+                                target="events.xml#gustave01">visited</ref>
+                            <ref target="places.xml#rus01">Russia</ref> in 1777.</note> Nous voici à
+                        la troisième ouverture, faudra-t-il préparer des tentes ou des fêtes?
+                        alternative, rare dans le fait, mais que je n'ai pas voulu laisser ignorer à
+                        V. A. R. Aussi bien c'est Elle, je pense, qui en se rendant à mon invitation
+                        a mis à la mode <rs type="event" ref="events.xml#henry01">me venir
+                        voir</rs>. Mais pourrais-je me flatter d'avoir ce plaisir <rs type="event"
+                            ref="events.xml#henry02">une seconde fois</rs> après la paix? C'est une
+                        question qu'il dépend de V, A. R. de résoudre et de moi d'espérer de Son
+                        amitié, dès qu'Elle m'assurera qu'il n'y a point d'indiscrétion à la Lui
+                            faire.<note type="editorial"><ref target="people.xml#hen02">Henry</ref>
+                            visited <ref target="places.xml#rus01">Russia</ref> first in 1770-1771
+                            and again, at <ref target="people.xml#cat01">Catherine</ref> and <ref
+                                target="people.xml#pot01">Grigory Potemkin</ref>'s insistence, in
+                            1776. His <ref target="events.xml#henry02">second visit</ref> was
+                            darkened by the death of <ref target="people.xml#pau01">Paul I</ref>'s
+                            first wife, <ref target="people.xml#wil01">Natalya Alekseevna</ref>,
+                            whose mother, <ref target="people.xml#kar01">Landgravine Karoline</ref>,
+                            is mentioned in the present letter. <ref target="people.xml#hen02"
+                                >Henry</ref> then helped to arrange <ref target="people.xml#pau01"
+                                >Paul</ref>'s <ref target="marriage02">second marriage</ref> to <ref
+                                target="people.xml#mar02">Sophie Dorothea of Württemberg, later
+                                Grand Duchess and then Empress Mariya Fedorovna</ref>.</note></p>
+                    <closer><signed>En attendant toujours ne cesserai-je d'être avec la plus haute
+                            considération...</signed>
+                        </closer>
+
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+
+                    <opener><dateline><date when-custom="1774-01-06">this 6 January
+                            1774</date>.</dateline></opener>
+                    
+                    <p>The 7th of January, which saw the birth of Your Royal Highness, is a day too
+                        dear to me for me to refrain from speaking of it to Your Royal Highness. The
+                        sincere friendship that Your virtues have inspired in me can only form the
+                        most ardent wishes for the preservation of Your precious life, for Your
+                        health and Your prosperity. Men like You should not only live for many
+                        centuries, so that their qualities might serve as an example to the rest of
+                        humanity, but also they would require uninterrupted happiness in order to
+                        encourage men to imitate them. L'amitié sincère que Ses vertus m'ont
+                        inspirée ne peut que faire les vœux les plus vifs pour Sa précieuse
+                        conservation, pour Sa santé et Sa prospérité. Les hommes tels que Vous
+                        devraient non seulement vivre plusieurs siècles, pour servir par leurs
+                        qualités d'exemple au reste des humains, mais encore il leur faudrait un
+                        bonheur non interrompu pour encourager les hommes à les imiter. I have
+                        invoked even my patron, whom Your Royal Highness was so kind as to remember
+                        again this year, to obtain all this from Heaven for Your Royal Highness.
+                        Although she invokes no saints in Your favour, the landgravine loves you
+                        know less and has not left me ignorant of her conversations with You. I was
+                        in too good of hands not to bow my head in resignation and submit myself to
+                        your judgments. However, as regards the Baron de Schrautenbach's jealousy
+                        towards Diderot, Your Royal Highness has pronounced one against the latter,
+                        whom, by my honour and in good conscience, I must exonerate. For he was not
+                        the one who wrote or published 'The System of Nature', which I have never
+                        read. I am convinced that, if Diderot has the happiness of seeing Your Royal
+                        Highness, he will not fail to win Your approval. His is the kind of head
+                        that one rarely finds in one's way; the most obscure and difficult things
+                        become easy and clear in his hands. Besides, his fertile imagination cannot
+                        fail to amuse Your Royal Highness: he was born a poet, but, although he
+                        composes verse well and easily, it is the talent that he exercises the
+                        least. Your Royal Highness will not fail to notice and will unfailingly be
+                        most pleased by the extreme goodness and rectitude of this man's soul; he
+                        has a heart such as one might wish all men had. I perceive that in seeking
+                        to exonerate him I have sung his praises, but I appeal to Your Royal
+                        Highness, and I am convinced that, if You see him, You will find that I have
+                        exaggerated nothing.</p>
+                    <p>The king of Sweden has started to speak for the third time of coming here,
+                        and I do not know what will come of it. When he spoke of it for the first
+                        time, the revolution occured a fortnight later. After the second
+                        proposition, he took aim at Norway. Here we have the third overture: should
+                        we prepare tents or festivities? A rare alternative, in fact, but I did not
+                        want to leave Your Royal Highness ignorant of it. I also think that it was
+                        You, in yielding to my invitation, made it fashionable to come to see me.
+                        But may I flatter myself that I might have the pleasure a second time after
+                        the peace is made? It is a question that Your Royal Highness must resolve,
+                        and for which I must hope in Your friendship, as soon as You assure me that
+                        it is not indiscreet of me to ask it.</p>
+                    <closer><signed>In the meantime I will never cease to be with the highest
+                            consideration...</signed>
+                        </closer>
+
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

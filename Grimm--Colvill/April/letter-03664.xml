@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03664</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03664</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-25">25-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:24:28Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03664">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1790-01-24">24 janvier (1790)</date>.</dateline></opener>
+   <p>Il paraît que M. de <persName ref="people.xml#fer04"> Feronce</persName> est curieux de savoir
+    ce que je vous ai dit de la mort de <persName ref="people.xml#aug01"> Zelmire</persName>: eh! que pourrais-je dire, sinon
+    que <persName ref="people.xml#aug01"> Zelmire</persName> est morte? J’ai envoyé à <rs ref="people.xml#kar03"> son père</rs> une
+    copie de la lettre que <persName ref="people.xml#poh01"> Pohlmaun</persName> m’a écrite; M. de
+     <persName ref="people.xml#fer04"> Feronce</persName> a demandé à <rs ref="people.xml#bez01">
+     factotum</rs> l’avis des médecins ou leur description de cette mort. D’abord <rs
+     ref="people.xml#bez01"> factotum</rs> a envoyé à <placeName ref="places.xml#loh01">
+     Lohde</placeName>; le médecin a dit que <persName ref="people.xml#aug01"> Zelmire</persName> l’a envoyé chercher plusieurs
+    fois pour le consulter sur sa santé, qu’il lui a fait des remèdes pour la maladie dont elle est
+    morte et qu’au moment de sa mort il était absent, qu’on l’envoya chercher, mais qu’il la trouva
+    morte, car elle n’a été malade que quelques heures. A présent <rs ref="people.xml#kar03">
+     papa</rs> ferait bien de tâcher de sauver pour ses petits-fils le peu de biens qu’a
+    laissé <persName ref="people.xml#aug01"> Zelmire</persName>, c’est-à-dire quarante à cinquante mille roubles et ses bijoux. <rs
+     ref="people.xml#fri06"> Le brutal</rs> demande cela entre ses mains, et les enfants n’en
+    verront pas un brin, s’il s’en empare, car c’est un sac percé qui est endetté jusqu’aux
+    oreilles.</p>
+  </body>
+ </text>
+</TEI>

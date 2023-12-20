@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04745</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04745</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:06:40Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-05-04">04/05/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Markup corrected and query
+                resolved.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04745">
+        <body>
+
+            <p> Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je reconnais dans la
+                recommandation que vous me faites de M. de <persName ref="people.xml#vil01">
+                    Villier</persName>, l’attachement et la confiance, que vous ne cessez de me
+                témoigner, depuis que nous avons fait la connaissance l’un de l’autre; il n’est
+                aucunement nécessaire de parler à M. de <persName ref="people.xml#pan01">
+                    Panin</persName> de cet homme, je lui avais donné M. <persName
+                    ref="people.xml#riv01">de la Rivière</persName> parce qu’il sait bien manier les
+                esprits difficiles et rabaisser le caquet quand il le faut. Pour M. de <persName
+                    ref="people.xml#vil01"> Villier</persName>, faites-moi le plaisir de l’aider à
+                faire la connaissance du petit Comte <persName ref="people.xml#shu01">
+                    Schouwalow</persName> auquel je dirai de la rechercher, et lorsque celui-ci
+                verra ce que c’est que cet homme et s’il est propre à être légiste, nous le feront
+                peut-être consultateur du <rs ref="people.xml#via01">général Procureur</rs>, (si
+                cela accommodera M. de <persName ref="people.xml#vil01"> Villier</persName> aussi,
+                s’entend) qui doit en avoir quatre, selon un règlement que j’ai fait il y a un an
+                pour <orgName ref="orgs.xml#comm01">la commission législative</orgName>; or il n’en
+                a encore qu’un, et un habile homme lui conviendrait parfaitement; nous en avons déjà
+                cherché en <placeName ref="places.xml#ger01"> Allemagne</placeName>, quelques-uns de
+                ceux-ci n’ont demandé que dix mille ducats d’appointements, et les traités se sont
+                arrêtés parce que les conseils au poids d’or ne sont pas toujours les meilleurs et
+                que nous appréhendions encore les chicanes du droit Romain, lesquels, si l’on
+                voulait, on pourrait avoir à meilleur marché; mais si votre homme est bon et habile,
+                on lui fera des conditions très-raisonnables. Adieu, Monsieur, j’ai fait hier et
+                avant-hier 150 verstes sur la mer, j’ai vu exercer avec plaisir une de <rs
+                    ref="events.xml#fleet01"> mes escadres en mer</rs>, je suis revenue cette nuit
+                ici, où je suis toujours avec la même estime pour le <rs ref="people.xml#fal01"
+                    >faiseur</rs> du <rs ref="works.xml#pierre01">Héros et de son coursier</rs>.</p>
+            <closer>
+                <dateline> A <placeName ref="places.xml#pet02"> Péterhof</placeName>, ce <date
+                        when-custom="1768-07-17">17 Juillet 1768</date>. </dateline>
+                <signed rend="inline"><persName ref="people.xml#cat01" type="signature">Catherine.
+                    </persName></signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01077</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01077</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:24:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01077">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#kie01">
+     Kiow</placeName>, ce <date when-custom="1787-04-21">21 avril v. st. 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre de V. M. I. de 29 d’avril n. st. m’est parvenue hier; j’ai
+    trouvé cela tout à fait charmant d’avoir une lettre de V. M. I. écrite depuis trois jours. Je
+    pars demain d’ici comme j’ai eu l'honneur de le Lui marquer par ma dernière, mais comme les
+    vents et les circonstances ne dépendent pas des hommes, il m’est impossible de fixer au juste le
+    jour de mon arrivée à <placeName ref="places.xml#khe01"> Cherson</placeName>. Je meurs de peur
+    que V. M. I. ne soit trompée dans Son attente; il n’y a ni merveille ni à s'instruire chez nous,
+    surtout vis-à-vis de ce gentilhomme allemand du <rs ref="people.xml#jos01"> comté de
+     Falkenstein</rs> que V. M. I me fait l’honneur de m’annoncer, qui jouit de la réputation d’être
+    l’appréciateur le plus juste et le plus pénétrant de l’univers. Mais comme l’amitié est
+    indulgente, j’ose y avoir recours, en L’assurant que personne n’est avec une plus haute
+    considération et des sentiments d’attachement plus sincères que ....</p>
+  </body>
+ </text>
+</TEI>

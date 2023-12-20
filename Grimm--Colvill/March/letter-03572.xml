@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03572</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03572</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:53:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03572">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1779-11-18">18 de nov. 1779</date>.</dateline></opener>
+   <p>Maudit soit à jamais le <seg xml:lang="de"> Paßgänger</seg> qui dans la <name
+     ref="events.xml#bavar01"> dispute sur la Bavière</name> inventa les <seg xml:lang="de">
+     Vortrag-Nachtrag</seg>; dès que j’en vois débarquer un, j’en suis aux regrets; aussi, depuis
+    qu’ils sont en vigueur, je me sens les cerveaux desséchés, et mes réponses n’ont précisément pas
+    le sens commun. Vous les traitez en conséquence, car vous ne les regardez non plus que vos
+    talons, et depuis la paix de <name ref="events.xml#tesch01"> Teschen</name> je n’ai pas vu que
+    vous ayez seulement fait mention d’une seule de mes lettres, ni d’une seule phrase ou demande,
+    ni etc. contenue en icelles. Or, savez-vous qu’il n’y a plus moyen de vous écrire, parce que
+    j’ignore parfaitement ce que vous pensez de ce que j’écris. Vous êtes allé vous embourber
+    dans <placeName ref="places.xml#rom03"> Rome</placeName>, et vous croyez que le lard <persName ref="people.xml#rei03">
+     Reiffensteinien</persName> vous tient lieu d’embonpoint, et les comptes de Santini et du défunt
+    baron, de rocambole et de sauces ; il faut une bonne fois que je vous gronde et que je répande
+    tout le fiel que 12 <seg xml:lang="de"> Vortrag</seg> peuvent exciter à quelqu’un dont la
+    patience est toujours factice et que ni Mlle <persName ref="people.xml#car01"> Cardel</persName>
+    ni M. <persName ref="people.xml#wag01"> Wagner</persName> n’ont jamais pu rendre patient naturellement. Que <persName
+     ref="people.xml#san03"> Santini</persName> tire toujours sur le diable et sa grand’ mère,
+     <persName ref="people.xml#ols01"> Olsoufief</persName> paiera. <seg xml:lang="de"> Ich baue und
+     werde bauen</seg>; mais je n’achèterai plus guère, parce que j’ai tant acheté que je n’ai plus
+    de place pour rien ; je me moque de vos médisances sur l’ <placeName ref="places.xml#her01">
+     hermitage</placeName>, qui ne joindra point la communauté, parce que ce bâtiment sera achevé
+    cet été. Tout ce qui doit me venir de <placeName ref="places.xml#rom03"> Rome</placeName>, viendra comme cela pourra, pourvu que
+    les armateurs américains ne s’en emparent, car alors je m’en fâcherai ; je n’ai ni n’aurai de
+    sitôt des vaisseaux à <placeName ref="places.xml#liv01"> Livourne</placeName>.</p>
+   <p>Les architectes sont encore à venir. Dès que je vois dans vos horribles <seg xml:lang="de">
+     Vortrag</seg> des articles à payer, j’en fais part à <persName ref="people.xml#bez01"> M.
+     Bezborodka</persName>, et n’ai jamais vu personne hormis vous qui ait querellé parce que l’on
+    paie avec exactitude ce qu’il parait qu’on doit. Jusqu’ici le comptoir de l’amplissime existe,
+     <seg xml:lang="it"> ma</seg> Dieu sait à l’avenir qui le remplacera. Mais comme je remarque
+    qu’à la fin du douzième <seg xml:lang="de"> Vortrag</seg> vous marquez quelque sorte de
+    repentir, je cesse de vous gronder ponr cette fois, et je m’en vais attendre votre amendement.
+    En attendant j’ai beaucoup d’obligations au <persName ref="people.xml#rei03"> divin</persName>
+    de toutes les peines qu’il se donne peur me procurer tout ce qu’il trouve de bon.</p>
+  </body>
+ </text>
+</TEI>

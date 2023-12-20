@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01147</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01147</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#navy"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-15"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01147">
+        <body>
+            
+            <opener><dateline>На галере Тверь, перед <placeName ref="places.xml#yar01"
+                    >Ярославскою</placeName> пристанью.<lb/>
+                <date when-custom="1767-05-11">Maия 13ч., 1767.</date></dateline><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Сейчас я приехала из <placeName ref="places.xml#tol01">Тольскаго
+                    монастыря</placeName>, где получила Ваше письмо с куриером от 12 ч., и прямо я
+                проехала на галеру; депеши не успела еще прочесть. <orgName ref="orgs.xml#coll01"
+                    >Корпус Дипломатической</orgName> весьма, кажется, весел и едут до <placeName
+                    ref="places.xml#kos01">Костромы</placeName>, где дворянство делает великия
+                приготовления к моему завтришному приему, к чему меня пригласили особливыми двумя
+                присланными депутатами, кои то исполнили весьма изрядным комплиментом; здесь, не
+                упоминая о сем уезде, розных других уездов дворяна с своими Предводителями приехали,
+                и всякой <seg xml:lang="la">in corpore</seg> представлены были мне в Архиерейской
+                трапезе, которая построена <persName ref="people.xml#fil02">Патриархом Филаретом
+                    Никитичем</persName> по примеру <placeName ref="places.xml#gra01">Грановитой
+                    Палаты</placeName>, <seg xml:lang="fr">Tout cela avoit un air très décent.</seg>
+                <persName ref="people.xml#pot01">Вел. Князю</persName> прошу кланяться.</p>
+            <closer><signed rend="inline">Прощайте, мы все здоровы, желаем Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

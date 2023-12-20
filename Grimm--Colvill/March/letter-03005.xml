@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03005</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03005</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-09">09/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:35:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03005">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     St Péterebourg</placeName>, ce <date when-custom="1778-02-18">18 février</date>, dernier jour d’an carnaval effroyablement
+    bruyant</dateline></opener>
+   <p>Toutes nos têtes sont renversées par la multitude des fêtes, des bals, des mascarades, des
+    comédies, opéras, sérieux et bouffons, en un mot, nos cervelles sont renversées, je le répète.
+    Le moyen donc de répondre à des post-scriptum d’affaire? aussi de quoi vous avisez-vous d’en
+    faire qui arrivent dans un tel à propos? Vous auriez infiniment mieux fait, monsieur le
+    colonnel, puisque colonnel y a, de vous fagoter pour votre commodité en chauve-souris et de
+    venir ici pour ce carnaval vous-même. Vous auriez couru à la file des autres masques et vous
+    n’auriez point exigé des réponses par écrit de gens à qui il ne reste pas un grain de sens
+    commun, à force de plaisir et de fatigue. <persName ref="people.xml#amy01"> Madame
+     Harris</persName>, femme de l’épouse du <persName ref="people.xml#har01"> ministre
+     d’<placeName ref="places.xml#eng01"> Angleterre</placeName></persName>, âgée de seize ans, dit qu’on pourrait remplir une année
+    entière des fêtes qu’on a données depuis dix jours, et je pense qu’elle dit vrai. Il parait que
+    cette plume dont j’écris se ressent aussi du carnaval, car elle craque et me fait enrager en
+    écrivant.</p>
+   <p>M. <persName ref="people.xml#did01">Diderot</persName>, monsieur son <persName ref="people.xml#van04"> beau-fils</persName>
+    et compagnie me chargent là d’une besogne pour laquelle mon employé ou représentant est déjà
+    instruit de paie longtemps, parce que le seigneur maître du seigneur beau-fils m’a écrit en
+    personne, il y a je ne sais combien de temps; je demanderai ce qui se fait là-bas à ce sujet. M.
+     <persName ref="people.xml#ale01"> Alexandre</persName>, comme je vous l’ai déjà dit, est un
+    prince qui se porte bien, et puis c’est tout; il n’a qu’à continuer, et les commis des commis ne
+    lui manqueront pas.</p>
+   <p>Je n’ai point reçu ce second post-scriptum de la même date dont vous me menacez. De quoi vous
+    mêliez vous d’aller à la bourse d’<placeName ref="places.xml#ams01"> Amsterdam</placeName> pour me faire après cela une
+    réprimande? mais voyez un peu ces gens-là qui trouvent mauvais de ce que l’on leur rend leur
+    argent; ils doivent être admirablement contents des autres puissances qui ne les paient jamais.
+    Deux pour cent, trois pour cent, cinq pour cent, qu’est ce que cela me fait? Je ne veux pas
+    avoir de dettes, et puis c’est tout, comme la santé de <persName ref="people.xml#ale01">
+     M. Alexandre</persName>, le reste viendra. Vos Hollandais trouveront où placer leur argent,
+    n’ayez pas peur; l’agréable entrechoc dont l’<placeName ref="places.xml#eur01"> Europe</placeName> et compagnie sont menacées,
+    leur en fournira l’occasion. <seg xml:lang="de"> Aber was meinen Sie davon</seg>? Laissez là mes
+    marabouts; ils deviendront jolis garçons quand ils pourront. </p>
+   <closer><signed rend="inline">Adieu; il est temps que j’aille au bal, demain je législaterai.
+    Trouvez-vous cette lettre aussi bien écrite? Mais apprenez une nouvelle fort intéressante: une
+    fille et deux petites-filles de sir <persName ref="people.xml#tho01"> Tom Anderson</persName>
+    sont accouchées ces jours passés, <seg xml:lang="la"> summa summarum</seg>, de 14 enfants mâles
+    et femelles; il est venu à trois reprises tout joyeux m’annoncer lui-même cette bonne nouvelle.
+    Vous êtes un paresseux; vous ne répondez à aucun point intéressant de mes lettres, je m’en
+    plaindrai à <placeName ref="places.xml#reg01"> Ratisbonne</placeName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

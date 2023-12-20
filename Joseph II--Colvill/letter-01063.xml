@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01063</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01063</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:20:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01063">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1785-02-03">3
+      février 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. Les lettres de V. M. I. du 13 et 28 décembre de l’année passée, et celle
+    du 22 janvier de celle-ci ne me laissent aucun doute qu’Elle ne soit intimément persuadée des
+    sentiments de l’amitié sincère que je Lui ai vouée. Si les lettres et les démarches du <rs
+     ref="people.xml#lou01"> Roi beau-frère</rs> de V. M. I. ont été dictées par la politique de ses
+    ministres, je leur ai l’obligation qu’aux yeux éclairés de V. M. I. la franchise de mon amitié a
+    été pleinement dévoilée. Tout ceci prouve qu’il n’y a point <name ref="events.xml#allia01">
+     d’alliance</name> plus stable que celle qui comme la nôtre est fondée autant sur l’amitié
+    personnelle des Souverains que sur l’intérêt local des monarchies. Puissé-je aider V. M. I. à
+    sortir heureusement de façon ou d’autre de Ses affaires présentes! A Ses fins et selon Ses
+    souhaits j’ai fait dresser une seconde note représentative pour les Welches Hollandais. Mais de
+    la réponse aux incartades de <persName ref="people.xml#cha04"> M. de Deux-Ponts</persName> je
+    n’ai pas pu prendre sur moi d’en charger un autre. J’ai pris la plume et j’ai fait moi-même, si
+    non une belle, du moins une longue lettre au comte <persName ref="people.xml#rum03">
+     Romanzow</persName>, que j’ai rendue à mon avis très-pathétique, mais comme la tête du
+    sérénissime duc ne paraît pas être conformée pour l’évidence des choses d’une certaine
+    catégorie, je n’augure pas aussi que ma missive fasse grand effet, malgré tout le zèle et la
+    chaleur avec laquelle elle a été dressée.</p>
+   <p>Les avis de <placeName ref="places.xml#ist01">Constantinople</placeName> que V. M. I. a bien
+    voulu me communiquer, je les ai trouvés très-importants. Tout ce que les Français font là-bas,
+    se fait directement contre nous et nos intérêts et ne peut que nous démontrer l’énergie de leurs
+    intentions. Mais les effets assurément ne répondront point à leur attente, et c’est ce que le
+    temps prouvera. M. de <persName ref="people.xml#seg01">Ségur</persName> court jour et nuit pour
+    se hâter de venir ici ; à en juger par la célérité de son voyage, il doit porter avec lui plus
+    de contrebande en politique qu’en marchandises; nous verrons ce qu’il déploiera. Toujours son
+    procédé, chemin faisant, vis-à-vis du comte <persName ref="people.xml#rum03">
+     Romanzow</persName> à <placeName ref="places.xml#mai03"> Mayence</placeName> prévient mal en
+    faveur de sa politesse; il ne suffit pas d’être farci de politique venant de <placeName
+     ref="places.xml#par01">Paris</placeName>, au moins faudrait-il être poli vis-à-vis des gens
+    pour donner de bonnes impressions de soi.</p>
+   <p>Que V. M. I. daigne me pardonner la prolixité indiscrète peut-être de cette lettre en faveur
+    de la vérité de l’amitié la plus pure et de la confiance la plus entière qui ont guidé ma plume;
+    elles sont accompagnées de la plus haute considération et de l’attachement inviolable avec
+    lesquels je suis ....</p>
+   <p rend="Postscript">P. S. Les dernières lettres de <rs ref="people.xml#bul01"> mon envoyé</rs>
+     à <placeName ref="places.xml#ist01">Constantinople</placeName> font mention de deux différentes
+    conversations de ministres de la <placeName ref="places.xml#ott01">Porte</placeName> avec son
+    dragoman, dans lesquelles les premiers ont touché les différends sur les limites qu’ils ont à
+    régler avec V. M. I. — Il se pourrait que leur intention n’eût été que de chercher à pénétrer
+    les instructions que j’ai données là-dessus à mon ministre; peut-être aussi ont-ils voulu
+    laisser entrevoir par la leur désir de s’accorder avec V. M. I. par mon entremise. Quoique <rs
+     ref="people.xml#bul01"> mon envoyé</rs> ait des ordres positifs d’agir constamment de concert
+    avec celui de V. M. I. et de seconder Ses démarches en toutes occasions, je crois cependant
+    devoir faire part de ceci à V. M. I., afin de savoir Ses intentions là-dessus, et ce qu’Elle
+    souhaite que je fasse dire à ces Messieurs par la voie de mon ministre à <placeName
+     ref="places.xml#ist01">Constantinople</placeName>. Il paraît au reste que M. de <persName
+     ref="people.xml#cho02">Choiseul-Gouffier</persName> n’est pas l’homme auquel ils se
+    confieront.</p>
+  </body>
+ </text>
+</TEI>

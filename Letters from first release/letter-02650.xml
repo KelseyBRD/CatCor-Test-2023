@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02650</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02650</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-16">16 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02650">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1765-11-04">ce 4 Novembre 1765</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>Les termes de la lettre de Votre Majesté du 7 d'Octobre, sont tels que j'en
+                        ai ressenti beaucoup de satisfaction, j'y reconnais les bonnes dispositions
+                        d'un allié vrai et fidèle; en revanche je puis assurer Votre Majesté que mes
+                        sentiments de l'amitié la plus sincère envers Elle n'ont jamais varié, et
+                        dès l'instant de la signature de notre traité d'alliance, je n'ai eu
+                        d'autres désirs dans les affaires, que de les conduire à une union
+                        véritablement permanente<note type="editorial">Corrected from source text,
+                            which reads "permanante".</note> et indissoluble entre nos deux états;
+                        je regarde l'intégrité de leurs possessions et leur union comme pouvant être
+                        considérées même dans les tems les plus reculés comme un fondement bien
+                        assuré du repos et de la tranquillité de tous les peuples du Nord. Votre
+                        Majesté connait mieux que moi ce qui caractérise l'âme d'un grand prince,
+                        Elle sait qu'il doit mettre sa plus belle gloire dans l'affermissement de sa
+                        Monarchie, pour lui et ses successeurs. Aussi ne saurai-je mettre en doute
+                        que Votre Majesté puisse se méprendre dans ma politique, ni supposer que
+                        Votre Majesté ne se prète avec une sincérité égale à la mienne, en écartant
+                        soigneusement tous les incidents, capables de traverser un but aussi juste
+                        qu'humain et glorieux pour tout Souverain qui l'adoptera. C'est dans ce
+                        point de vue que je regarde la résolution de Votre Majesté de rappeler le
+                            <persName ref="people.xml#hau01">Sr. Rexin</persName>, ainsi que celle
+                        de faire rectifier à <placeName ref="places.xml#ott01">la Porte</placeName>
+                        par son successeur ce que le premier a fait de pernicieux à mes principes,
+                        et par conséquent à notre union. L'empressement et la candeur avec laquelle
+                        Votre Majesté me parle de ses doutes me prouvent la droiture de son amitié
+                        pour moi. Je dois encore assurer Votre Majesté que les preuves que mon
+                        ministre, <persName ref="people.xml#pan01">M. Panin</persName>, a montrées à
+                            <persName ref="people.xml#sol01">M. le comte Solms</persName> et dont
+                        sûrement mon résident <persName ref="people.xml#obr01">le Sr.
+                            Obrescow</persName>, ni aucun des ministres siégeants à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName> intéressés à brouiller
+                        nos ministres là bas n'ont pu avoir connaissance ne laissent<note
+                            type="editorial">Corrected from source text, which reads
+                            "laisse".</note> pas de place à supposer quelque erreur chronologique
+                        dans la conduite du <persName ref="people.xml#hau01">Sr. Rexin</persName>.
+                        Au reste je mets notre union d'amitié et d'intérêts beaucoup au dessus de la
+                        capacité de pareilles intrigues, et m'occupe présentement que du nouvel
+                        avantage qui reviendra à cette union lorsque <placeName
+                            ref="places.xml#ott01">la Porte</placeName> sera désabusée des
+                        impressions contraires qu'on lui avait inspirées. </p>
+                    <closer>
+                        <signed>Je suis avec la plus haute considération, Monsieur mon Frère, de
+                            Votre Majesté la bonne Soeur et Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

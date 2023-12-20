@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01018</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01018</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:10:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01018">
+  <body>
+   <opener><dateline>
+    <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date when-custom="1781-05-24">24 mai 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Ayant connu le désir de V. M. I. de cimenter les liens de l’amitié et de
+    l’attachement qui nous unissent ensemble, principalement depuis l’heureuse époque de notre
+    connaissance personnelle, par tous les liens politiques combinables avec l’intérêt de nos
+    monarchies, je n’ai pas balancé à concourir avec empressement à des vues aussi salutaires que
+    conformes à mon propre penchant. L’intimité et la confiance que ce double motif établit entre
+    nous, sont au-dessus des formalités ordinaires introduites dans les liaisons de cette nature.
+    Aussi sommes-nous convenus de ne pas nous y assujettir et d’imprimer plus distinctement à celles
+    que nous allons contracter, le sceau des sentiments personnels qui nous les ont suggérés, en
+    traitant directement de souverain à souverain, et pour cet effet nous avons choisi la forme de
+    lettres, dans lesquelles nous consignons nos engagements respectifs, nous promettant
+    réciproquement pour nous, nos héritiers et successeurs, que tous ceux qui seront stipulés dans
+    nos dites lettres, seront pour nous et pour eux aussi obligatoires, aussi sacrés et aussi
+    inviolables que s’ils étaient déposés dans le traité le plus solennel qui faire se puisse. Après
+    avoir de cette façon assuré à ces engagements une base aussi stable et aussi sainte, je promets
+    par ma présente à V. M. I. en mon nom et celui de mes héritiers et successeurs, comme V. M. I.
+    me promet de Son coté, une amitié et une union sincère et constante entre nous et <rs
+     ref="places.xml#hol01 places.xml#rus01">nos Empires</rs>, et en conséquence j’apporterai la plus
+    grande attention à maintenir avec Elle une liaison et correspondance intime, en évitant tout ce
+    qui pourrait y donner atteinte, et en appliquant tous mes soins à procurer en toute occasion son
+    utilité, honneur et avantage autant que cela sera compatible avec le bien et l’intérêt de
+     mon <placeName ref="places.xml#rus01">Empire</placeName>.</p>
+   <p>Jugeant de la convenance réciproque de confirmer la convention passée entre nous le 25 juillet
+    1772, ainsi que le <name ref="events.xml#tesch01"> traité de Teschen</name> conclu sous ma
+    médiation et sous celle de S. M. le <persName ref="people.xml#lou01"> Roi</persName>
+     de <placeName ref="places.xml#fra01">France</placeName>, je les confirme ici dans toute leur
+    étendue, comme si l’un et l’autre acte, avec tous ceux qui les ont accompagnés, y étaient
+    insérés mot à mot.</p>
+   <p>Après cela je m’engage envers <persName ref="people.xml#jos01"> V. M. I.</persName> et Lui
+    promets de la manière la plus solennelle à Elle, Ses héritiers et successeurs suivant l’ordre de
+    la sanction pragmatique établie dans Sa maison, de garantir et défendre contre les attaques de
+    quelque puissance que ce soit, tous les Etats, provinces et domaines qu’Elle possède
+    actuellement en <placeName ref="places.xml#eur01">Europe</placeName>, sans une autre exception
+    que celle de Ses possessions en <placeName ref="places.xml#ita01">Italie</placeName>, à la
+    défense desquelles je ne me tiens pas obligée de fournir les secours auxquels je vais m’engager
+    plus bas.</p>
+   <p>Par une suite de cette garantie je travaillerai toujours de concert avec <persName
+     ref="people.xml#jos01"> V. M. I.</persName> aux mesures qui nous paraîtront les plus propres au
+    maintien de la paix en <placeName ref="places.xml#eur01">Europe</placeName>, et dans le cas, ce
+    qu’a Dieu ne plaise, où les Etats de <persName ref="people.xml#jos01"> V. M. I.</persName>
+    seraient menacés d’une invasion, j’emploierai mes bons offices les plus efficaces pour
+    l’empêcher, mais s’ils n’ont point l’effet désiré, je m’oblige dès à présent à La secourir avec
+    un corps de dix mille hommes d’infanterie et deux mille de cavalerie, pourvu de l’artillerie de
+    campagne et de munitions de guerre. Je leur ferai donner la paie ordinaire et les ferai recruter
+    annuellement, mais c’est <persName ref="people.xml#jos01"> V. M. I.</persName> qui fera pourvoir
+    à leur subsistance en campagne et dans les quartiers, sur le pied qu’Elle entretient Ses propres
+    troupes, et Elle donnera Ses ordres pour qu’elles ne soient employées que conformément aux
+    règles adoptées et reçues à l’égard des troupes auxiliaires. Celles que je Lui promets, se
+    mettront en marche trois mois après la réquisition qui m’en sera faite de la part de <persName
+     ref="people.xml#jos01"> V. M. I.</persName> Si cependant elle a lieu dans les mois de décembre,
+    janvier et février, ces troupes seront dispensées, vu la rigueur de la saison, de passer les
+    frontières de mes Etats, mais je les en ferai approcher le plus près qu’il sera possible, et
+    nous demanderons conjointement avec <persName ref="people.xml#jos01"> V. M. I.</persName> la
+    liberté de passage par un Etat tiers, dont elles auront besoin.</p>
+   <p>Quoique la prestation de ce secours s’étende à tous les Etats dans lesquels <persName
+     ref="people.xml#jos01"> V. M. I.</persName> pourrait être attaquée, hormis ceux qu’Elle possède
+     en <placeName ref="places.xml#ita01">Italie</placeName>, cependant, vu la trop grande distance
+    des miens à ceux qu’Elle possède aussi dans les <placeName ref="places.xml#hol02"
+     >Pays-Bas</placeName>, l’envoi de mes troupes, si Elle se trouve attaquée de ce côté-là,
+    devenant si non impossible, du moins très-onéreux, je m’engage dans ce cas à les remplacer par
+    un subside annuel de quatre cents mille roubles, payables régulièrement tous les trois mois à
+    cent mille roubles par quartier.</p>
+   <p>Dans le cas où, après avoir fourni à <persName ref="people.xml#jos01"> V. M. I.</persName> le
+    secours auquel je viens de m’engager, je me trouverais attaquée moi-même dans mes possessions et
+    par là forcée de rappeler mes troupes pour ma propre défense, je me réserve expressément cette
+    liberté, après en avoir cependant averti <persName ref="people.xml#jos01"> V. M. I.</persName>
+    deux mois auparavant, et si lors de la réquisition qu’Elle m’en fera, je me voyais moi-même
+    enveloppée dans une guerre, dès lors et pendant tout le temps qu’elle durera, je ne serai pas
+    tenue à fournir le secours stipulé.</p>
+   <p>Si le secours que je promets à <persName ref="people.xml#jos01"> V. M. I.</persName>, n’est
+    pas suffisant pour Sa défense contre les attaques de Ses ennemis, je n’hésiterai pas à
+    m’entendre avec Elle sans perte de temps sur la prestation de secours plus considérables suivant
+    l’exigence des cas, m’engageant en outre de ne faire ni paix ni trêve, sans y comprendre
+     <persName ref="people.xml#jos01"> V. M. I.</persName>, afin qu’Elle ne puisse être attaquée
+    Elle-même en haine des secours qu’Elle m’aurait fournis.</p>
+   <p>L’attention que la <placeName ref="places.xml#pol01">Pologne</placeName>, à cause de son
+    voisinage immédiat avec les Etats de <persName ref="people.xml#jos01"> V. M. I.</persName>, doit
+    s’attirer de Sa part, m’étant par le même motif commune avec Elle, je regarde comme un point qui
+    ne peut pas nous être indifférent à tous deux, la certitude de son existence politique, et en
+    conséquence je promets à <persName ref="people.xml#jos01"> V. M. I.</persName> de veiller au
+    maintien du bon ordre et de la tranquillité dans l’intérieur de cette république, ainsi que de
+    garantir la conservation de la constitution telle qu’elle a été établie par la diète de 1773, et
+    l’intégrité intacte de Ses possessions actuelles, conformément aux traités qu’Elle a conclus
+    avec nous la même année 1773. Je donnerai des ordres à mes ambassadeurs et ministres aux Cours
+    étrangères, de prêter leurs bons offices à ceux de <persName ref="people.xml#jos01"> V. M.
+     I.</persName> et d’agir d’un parfait concert entre eux dans toutes les occurrences où il sera
+    question de nos intérêts.</p>
+   <p>Je reçois comme une nouvelle marque d’amitié de la part de <persName ref="people.xml#jos01">
+     V. M. I.</persName> l’acceptation de la garantie que je Lui ai proposée touchant l’échange fait
+    d’une partie du duché de <placeName ref="places.xml#hol03">Holstein</placeName> contre les comtés d’<placeName
+     ref="places.xml#old01"> Oldenbourg</placeName> et <placeName ref="places.xml#del02">
+     Delmenhorst</placeName>, et je me flatte qu’Elle ne doute pas de l’empressement que j’aurai à
+    mon tour de concourir à tout ce qui pourra Lui être agréable.</p>
+   <p>Connaissant les intentions de <persName ref="people.xml#jos01"> V. M. I.</persName>, qu’en
+    entrant avec moi dans des engagements relatifs aux intérêts de nos couronnes, Elle n’a eu aucune
+    vue d’enfreindre ceux qu’Elle avait contractés précédemment, ni de me porter a rien de semblable
+    de mon côté, d’autant qu’en effet de part et d’autre ils ne sont que purement défensifs, je me
+    félicite de rencontrer dans des principes aussi justes, aussi louables une conformité parfaite
+    avec ceux que j’ai toujours fait gloire de professer. Aussi les liens que je forme maintenant,
+    reçoivent-ils un nouveau prix à mes yeux dans l’accord heureux que j’y trouve de la bonne foi et
+    de la fidélité dues à nos anciennes liaisons avec la satisfaction d’acquérir à mon <placeName
+     ref="places.xml#rus01">Empire</placeName> un nouvel allié dans la personne de <persName
+     ref="people.xml#jos01"> V. M. I.</persName>, à qui je porte une amitié et un attachement dont
+    nous fournissons peut-être l’unique exemple entre Souverains. Ces sentiments ne m’auraient
+    permis de fixer aucun terme h la durée des engagements que nous contractons l’un envers l’autre,
+    mais comme ils sont appréciés uniquement d’après les circonstances présentes, lesquelles venant
+    à changer, pourraient exiger de nouvelles mesures plug appropriées au temps d’alors, j’ai jugé à
+    propos de ne pas leur donner une plus grande étendue que celle de huit ans, me promettant et
+    promettant à <persName ref="people.xml#jos01"> V. M. I.</persName> de les renouveler avant
+    l’expiration de ce terme selon l’exigence des cas, et de les observer jusque là strictement et
+    religieusement sous les lois sacrées qu’impose le traité le plus solennel, ainsi que je l’ai
+    exprimé au commencement de cette lettre.</p>
+   <p>Je ne puis mieux la terminer qu’en assurant <persName ref="people.xml#jos01"> V. M.
+     I.</persName> du plaisir infini que j’éprouve de pouvoir, au moyen de la forme que nous avons
+    choisie, mêler librement à la discussion des intérêts de l’Etat, que je viens de régler avec
+    Elle, l’expression des sentiments d’estime, de considération et d’attachement le plus sincère et
+    le plus parfait qu’Elle m’inspire personnellement; et avec lesquels je serai
+    inviolablement ....</p>
+  </body>
+ </text>
+</TEI>

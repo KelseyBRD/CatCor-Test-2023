@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03722</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03722</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#europe"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Not exactly sure what she means by garnison Carmagnole.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:06:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03722">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-12-23">23 décembre</date>.</dateline></opener>
+    <p>Il vient de m’arriver No 46, bulletin dont je vous remercie; la poste de ce jour dit tout ce
+     qu’il contient, excepté les vers que j’attribue à l’<rs ref="people.xml#thu01"> auteur</rs> de
+      <title ref="works.xml#wilhel01"> Wilhelmine</title>; <seg xml:lang="de"> aber die
+      Königstochter noch nicht ausgeliefert</seg>; ces monstres infernaux sont menteurs comme leur
+     papa, le diable.</p>
+    <p>Le comte, votre saint, m’a enfin délivré les livres du <rs ref="people.xml#ogi02"> pair
+      d’Ecosse</rs>; je les ai tout de suite fait distribuer selon destination.</p>
+    <p>Par votre lettre, à laquelle je continue de répondre, je vois que l’argent vous est parvenu
+     très à propos.</p>
+    <p>La besogne que les impériaux viennent de faire en <placeName ref="places.xml#ita01">
+      Italie</placeName> ne vaut pas grand’chose.</p>
+    <p>Je souscris votre sentence prononcée contre l’<rs ref="people.xml#cha06"> Elect. Ba.
+      Pal.</rs> et je lui ai joint celui de Brand: <seg xml:lang="de"> das Zeug hat den Reichbann
+      schon lange verdient</seg>.</p>
+    <p>A tout ce que vous me dites du jacobin <persName ref="people.xml#thu02"> Thug</persName>, je
+     reconnais fort bien notre homme. <seg xml:lang="la"> Dignus est intrare in nostra
+     corpora</seg>, c’est à dire de ceux mis par vous et moi au ban de l’empire.</p>
+    <p>Le cabinet de <placeName ref="places.xml#lon01"> Londres</placeName> vient de déclarer
+     publiquement qu’il va traiter de la paix avec les régicides. Paroli au même.</p>
+    <p>Grand merci pour votre chasse manquée: votre levraut n’est pas tentant.</p>
+    <p>Je me porte bien.</p>
+    <p>L’<rs ref="people.xml#hen02"> oncle jacobin de <placeName ref="places.xml#rhe01">
+       Rheinsberg</placeName></rs> m’a dit en 1770 du <rs ref="people.xml#fri03"> neveu jacobin</rs>
+     que c’était un sot, et en cela au moins faut-il convenir qu’il ne s’est pas trompé.</p>
+    <p>Le sieur <persName ref="people.xml#kon01"> Constantin</persName> étant sûr de tenir ou
+     obtenir sa belle, s’est fort peu soucié de la lenteur de son courrier: la <rs
+      ref="people.xml#aug07"> mère</rs> même est partie sans l’attendre, et nous a laissé <rs
+      ref="people.xml#ann02">sa fille</rs>.</p>
+    <p>L’<rs ref="people.xml#fra03"> empereur</rs> pourra échanger la garnison Carmagnole de
+      <placeName ref="places.xml#man03"> Manheim</placeName> contre ce que <persName
+      ref="people.xml#vin01"> M. de Vins</persName> s'est laissé prendre de prisonniers
+      en <placeName ref="places.xml#ita01"> Italie</placeName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-12-25">25 décembre</date>.</dateline></opener>
+    <p>Vos deux lettres au maréchal <persName ref="people.xml#suv01"> Souvorof</persName> sont
+     charmantes.</p>
+    <p>Il est revenu avant-hièr de sa tournée en <placeName ref="places.xml#fin01">
+      Finlande</placeName> pour y inspecter ce qu’on y a fait d’après ses plans, et il en est revenu
+     parfaitement content, n’ayant pas laissé un coin pour y entrer aux Suédois sans qu’ils y
+     trouvent une grosse opposition à franchir.</p>
+    <p>Vient № 4. Les lettres du <persName ref="people.xml#fra06"> prince héréditaire de <placeName
+       ref="places.xml#sax01"> Saxe-Cobourg</placeName></persName> ont été remises à leurs adresses,
+     et les réponses ont été expédiées par la poste.</p>
+    <p>Je vois que vous êtes à la chasse du Ch. d’<persName ref="people.xml#aug08">
+      Augard</persName>.</p>
+    <p>Pour ma lettre égarée, il faudra la chercher dans le bureau de <rs ref="people.xml#fri03"> S.
+      M. Prussienne</rs>, pour laquelle je pense qu’elle était écrite; il n’a pas voulu apparemment
+     que sa gloire brille à vos yeux; il y a longtemps que je vous prie de brûler vos lettres, afin
+     que tous ces jacobins ne s’avisent de s’en emparer un beau jour; vous-même vous en serez plus
+     en sûreté dans votre taudis.</p>
+    <p>Aha! voilà le bulletin 43 que je trouve entre les brimborions politiques, de même que le
+     bulletin 42.</p>
+    <p>Me voilà, Dieu merci, au bout de ma rapide réponse à vos lettres; présentement je
+     griffonnerai à mon aise jusqu’à l’expédition du courrier qui vous portera ceci.</p>
+    <p>D’abord je vous dirai qu’<persName ref="people.xml#ele01"> Hélène</persName> devient fort
+     belle.</p>
+    <p>Voilà de quoi vous ne vous souciez guère, n’est-ce pas? Solon demandera des vertus comme si
+     la beauté n’en était pas une très prévenante. Ne méprisons aucun des dons du ciel; pour moi,
+     j’aime les jolis visages.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-01-02">2 janvier 1796</date>.</dateline></opener>
+    <p>Je vous félicite sur le renouvellement de l’année, et vous souhaite santé et prospérité. J’ai
+     reçu, il y a trois jours, à la fois bulletins No 47 et 48 et le J6 5 du 6 (17) décembre; je
+     suis tout étonnée que vous ne parliez ni d’armistice ni de paix. J’aurais envie d’en douter. Je
+     n’ai point reçu vos almanachs de <placeName ref="places.xml#got01"> Gotha</placeName>;
+     peut-être viendront-ils.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-01-05">5 janvier</date>.</dateline></opener>
+    <p>Il m’est venu une très longue pancarte du ch. d’<persName ref="people.xml#aug08">
+      Augard</persName>. Si tout son portefeuille est garni de pièces aussi solides que ce qu’il
+     écrit sur le commerce du <placeName ref="places.xml#jap01"> Japon</placeName>, il n’y aura pas
+     de quoi s’en occuper beaucoup; car sur ce commerce du <placeName ref="places.xml#jap01">
+      Japon</placeName>, selon moi, il n’à pas ombre d’idée sur le local; mais cependant, puisqu’il
+     faut entendre par devoir tout ce qu’on présente comme important, vous aurez la bonté de lui
+     mander que vous avez trois cents ducats à lui remettre de ma part. S’il se résout à venir ici,
+     cet argent vous sera remis tout de suite; entre nous soit dit, je crois que ce ch. d’<persName
+      ref="people.xml#aug08"> Augard</persName>, malgré toutes les recommandations, est un des
+     premiers fous de l’<placeName ref="places.xml#eur01"> Europe</placeName>.</p>
+    <p>Je prie le ciel qu’outre cela ce ne soit un des plus grands charlatans du monde. Il est natif
+      d’<placeName ref="places.xml#avi01"> Avignon</placeName>, et ci-devant sujet du <persName
+      ref="people.xml#pop03"> pape</persName>. Le baron de <persName ref="people.xml#thu01">
+      Thümmel</persName> dit de ces gens-là: <seg xml:lang="de"> Gott weiß was die Leute nicht alles
+      glauben</seg>!</p>
+    <p>La confession de foi de la dame <persName ref="people.xml#ann02"> Julie</persName>
+     vraisemblablement se fera le 2 février; le 3 se feront les promesses, et avec l’aide de Dieu le
+     13 février les noces, dont les fêtes ne finiront que la semaine avant le carême. Depuis trois
+     jours je boîte un peu, ayant une douleur rhumatique aux genoux, mais cela ne veut rien dire,
+     sinon qu’il y a trois ans que j’ai fait une chute de quinze marches de l’escalier qui mène à
+     mon bain, et depuis ce temps-là le mauvais temps me fait sentir cette douleur-là au genou qui a
+     le plus ressenti cette chute; c’était une couple de jours avant l’arrivée du <persName
+      ref="people.xml#cha11"> comte d’Artois</persName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-01-07">7 janvier</date>.</dateline></opener>
+    <p>J’ai reçu aujourd’hui votre bulletin No 49; c’est de la moutarde après dîner. Mon pied va
+     mieux. C’est aujourd’hui l’anniversaire de la dame <persName ref="people.xml#ann01">
+      Anne</persName>, qui est jusqu’ici aussi maussade qu’épaisse; en général les trois dernières
+     ne valent pas les cinq aînées; l’<rs ref="people.xml#olg01"> une est morte</rs> et pendant sa
+     vie elle était toujours malingre.</p>
+    <p>Je fais le plus sot des ouvrages: il est immense; les six chapitres achevés sont des
+     merveilles dans leur espèce chacun; j’y mets un travail, une exactitute, un esprit et un génie
+     même dont je ne me croyais nullement capable, et je suis tout étonnée de ce que je fais quand
+     un chapitre est achevé. Que Dieu bénisse ceux qui auront cela à mettre en exécution. La méthode
+     en doit être au moins fort bonne, car tout vient se ranger en foule et avec empressement,
+     chaque chose à sa place. <seg xml:lang="de"> Das ist wunderliches Zeug: in ein Jahr ohngefähr
+      kann es fertig sein; ich bin sehr emsig dabei: sogar im Schlaf componire ich ganz volle
+      Kapital, so bin ich damit beschäftigt. Das ist sehr nöthig das Sie das wissen</seg>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-01-26">26 janvier</date>.</dateline></opener>
+    <p>Tenez, voilà la lettre d’une dame <persName ref="people.xml#cho03"> Choiseul</persName>,
+     laquelle se recommande à vos bonnes grâces. Aujourd’hui en huit la <rs ref="people.xml#ann02">
+      princesse Cobourg</rs> fera sa confession de foi, et le lendemain se feront les fiançailles,
+     et de là en dix jours les noces, c’est-à-dire le 13 février.</p>
+    <p>Depuis 15 jours nous avons un dégel parfait: toutes les rivières sont débàclées, excepté dame
+      <placeName ref="places.xml#nev01"> Néva</placeName>, mais elle a sa physionomie de mars, et le
+     lac <placeName ref="places.xml#lad01"> Ladoga</placeName> est ouvert, de façon qu’il n’y a de
+     la glace que depuis Pellajusqu’à la mer, chose dont il n’y a pas eu d’exemple, depuis que la
+     ville existe, au mois de janvier. Cette lettre partira probablement après les fiançailles.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-02-05">5 février</date>.</dateline></opener>
+    <p>Le 2 de ce mois la <rs ref="people.xml#ann02"> princesse de Cobourg</rs> a fait sa confession
+     de foi et a reçu le nom <persName ref="people.xml#ann02"> Anna Théodorovna</persName>. Le
+     lendemain, fête de Ste Anne, elle a été fiancée au gr.-duc <persName ref="people.xml#kon01">
+      Constantin</persName> et nommée grande-duchesse <persName ref="people.xml#ann02"> Anne
+      Théodorovna</persName>; voilà ce que j’ai l’honneur de vous notifier; les noces se feront le
+     13 février, c’est-à-dire dans neuf jours, celui-ci inclusivement. Le sieur <persName
+      ref="people.xml#kon01"> Constantin</persName> est un amoureux dans toute la force du
+     terme.</p>
+    <p>La <rs ref="people.xml#suv02"> fille</rs> du <persName ref="people.xml#suv01"> maréchal
+      Souvorof</persName> mariée au comte <persName ref="people.xml#zub02"> Zoubof</persName> vient
+     d’accoucher d’une fille morte, ce qui a fait beaucoup de peine aux deux familles. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien; j’en fais autant.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

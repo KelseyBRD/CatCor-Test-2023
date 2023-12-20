@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04798</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04798</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:21:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04798">
+  <body>
+   
+   <p>J’avoue que je suis non-seulement étonnée, mais même que c’est une chose
+     très-singulière que le ton plaintif sur lequel est continuellement monté ce Mr. <persName
+     ref="people.xml#car04"> Lascaris</persName>; ne dirait-on pas, à l’entendre parler, qu’on
+     lui a fait les plus grands torts du monde. Hé bien, pour savoir ce qui en est, informez-vous
+     combien d’années il y a que Mr. <persName ref="people.xml#car04"> Lascaris</persName>
+     était un petit officier galopant après Mr. <persName ref="people.xml#bet01">
+     Betzki</persName>, qui d’un régiment de campagne dans lequel, si ma mémoire ne me trompe,
+     il était lieutenant ou tout au plus capitaine, lui trouvant de l’intelligence et les talents ou
+     qualités qu’il a, le prit chez lui et le plaça dans les bataillons où il fit près de Mr.
+     <persName ref="people.xml#bet01"> Betzki</persName> les fonctions d’adjudant. Il peut
+     y avoir de cela tout au plus sept à huit ans; il n’a jamais été avancé à tour de rôle, mais
+     toujours, comme il vous plaira de le nommer, ou par la protection de son chef, ou parce qu’il
+     s’acquittait bien de ce dont on le chargeait; il y a toujours eu dans son fait, et je l’ai dit
+     cent fois à son chef, de l’importunité et de l’humeur; demandant toujours et n’étant jamais
+     content. Il se peut qu’à l’armée il y en ait qui l’aient passé, mais assurément pas un seul qui
+     n’ait acquis cet avancement au prix de son sang, et il y en a assurément beaucoup plus que Mr.
+     <persName ref="people.xml#car04"> Lascaris</persName> a passés qui étaient plus
+     anciens que lui; il a eu toujours à la bouche son avancement on son congé, j’ai toujours dit
+     qu’il fallait le lui donner parce qu’il ne faut gêner personne ni aussi se laisser faire la
+     loi. Je ne parle point des autres dons qu’il a reçus, parce qu’il dira qu’il les a acquis par
+     les services rendus; mais je voudrais bien savoir où est le pays où il en aurait eu non pas
+     plus, mais même autant. Mr. <persName ref="people.xml#car04"> Lascaris</persName> est
+     haï comme un crapaud dans le corps des cadets; il était nécessaire de donner un chef à ce
+     corps, afin d’entretenir l’union. Je ne sais ce que son chef lui a promis, mais je sais bien
+     que je ne trouve pas qu’il ait à se plaindre d’injustice: à un étranger on ne donne point le
+     congé avec avancement. Selon nos lois militaires qui sont excellentes, cette prérogative est
+     réservée aux naturels du pays, et cela est juste par plus d’une raison trop longue à détailler;
+     voilà donc toutes ses prétentions qui deviennent vaines, et je ne le trouve pas si fort en
+     arrière, d’être parvenu pendant sept ans, du rang de capitaine, à celui de lieutenant colonel,
+     tandis que nous avons dans l’armée des capitaines tous les jours devant l’ennemi, qui le sont
+     depuis la dernière guerre avec la <placeName ref="places.xml#pru01">
+      Prusse</placeName><hi>.</hi></p>
+  </body>
+ </text>
+</TEI>

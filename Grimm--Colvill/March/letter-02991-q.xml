@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02992</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02992</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Emma: not sure these first three paragraphs should be there??</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-29">29/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:49:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02992">
+  <body>
+   <p>En suite de la confession générale.</p>
+   <p>Réponse.—Absolution plénière.</p>
+   <p>Commentaire sur le Credo.</p>
+   <p><persName ref="people.xml#cat01"> Catherine seconde</persName>, uniquement seconde sans autre
+    épithète quelconque, avec toute puissance et toute bonne volonté en elle existante, ne saurait
+    créer en <placeName ref="places.xml#rus01">Russie</placeName> bien des choses utiles sans aides, et nommément écoles basses,
+    moyennes et hautes.</p>
+   <p>Or ajoutez qu’à cet embarras, causé par son ignorance ou par sa paresse, il s’en joint un
+    autre causé par la délicatesse qui craint de proposer à la seule personne qu’elle croit capable
+    de l’aider dignement en ce point, de vouloir bien y contribuer ou bien de s’en charger, parce
+    que nous craignons de gêner cette personne. Or cette personne, je vous l’insinue finement et
+    adroitement, c’est vous.</p>
+   <p>Il y a deux mois que son esprit, que vous osez nommer illuminant, épurant, pénétrant,
+    vivifiant, tourne autour du pot pour vous dire cola, et n’en est pas plus avancé pour cela.
+    Quand je pense que cette proposition seule peut vous gêner et que peut-être vous n’en voudrez
+    pas, et que cela vous donnera de la peine à articuler, j’aurais envie de vous souhaiter
+    à <placeName ref="places.xml#par01">Paris</placeName> sans forme de procès.</p>
+   <p>Je veut que tous disiez tout net: «je veux ou je ne veux pas, je reste ou je m’en Tais», et je
+    serai très aise si tous parlerez selon mes désirs, et ne tous estimerai pas moins si tous me
+    répondrez négativement.</p>
+   <p>Je suis au reste un peu en droit de tous faire ces propositions: tous т’атег dit plus d’une
+    fois: employez-moi à quelque chose. Je sais bien que la partie politique dans quelque coin du
+    monde pourrait être plus agréable; mais si je préfère le plus utile, je pense n’en pas être,
+    plus repréhensible.</p>
+   <p>Or les lamentations etc. et tout le cortège des galimatias sont réduits à deux questions:</p>
+   <p>1. Voulez-vous? 2. Ne voulez-vous pas?</p>
+   <p>Or, si vous vouliez, j’arrangerais si joliment les choses que tout ce qu’il faudrait,
+    viendrait là tout naturellement se ranger sous votre patte, et si vous ne voulez pas, il n’en
+    serait plus parlé; or il y aurait encore un tiers moyen qui serait als jou belieft, pour un
+    certain temps limité, afin que vos amis de <placeName ref="places.xml#par01">Paris</placeName> ne se désespérassent pas, ni vous
+    non plus. Que vous acceptiez ou n’acceptiez pas, je vous еnvоіе cinq mille roubles, qui
+    serviront ou pour votre retour, ou pour vous arranger ici au premier moment. En cas
+    que vous restiez, votre entretien annuel serait bientôt fixé, et vous le reste irait son train,
+    et vous diriez et je dirais: «Vous voilà devenu bien utile à l’empire, et il n’y a que vous qui
+    puissiez l’être pour cette partie, et même plus que moi, vu que vous entendez cela bien mieux
+    que moi». Vous direz que le consentement de S. A. S. le d. de S.- <placeName ref="places.xml#got01">Gotha</placeName> tous est
+    essentiel; peut-être: vous direz ce qu’il tous plaira. Il est temps que je m’habille pour aller
+    à la messe, jour de la Chandeleur.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03574</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03574</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:54:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03574">
+  <body>
+
+   <opener><dateline>Ce <date when-custom="1780-01-11">11 janvier 1780</date>.</dateline></opener>
+   <p><seg xml:lang="de"> Diesen Augenblick habe ich die Ihre zu bekommen eine so genannte</seg>
+    suite du No 44, intitulée outre cela <seg xml:lang="de"> abgenötigter Nachtrag</seg>; cette
+    belle pièce de huit pages faisant huit pages de pendant, enseigne de cabaret, à une feuille
+    contenant les inscriptions pour la maison de campagne de <persName ref="people.xml#nar02"> sire
+     Léon</persName>. Eh bien, monsieur, puisque vous faites des pendants d’une telle force, je vous
+    envoie une pièce qui en mérite un. Il faut, pour la comprendre, que vous sachiez que pour
+    satisfaire la curiosité d’un malade je me suis mise à lire toutes les bêtises et absurdités
+    maçonniennes, et comme cela me fournissait quantité de matières à turlupiner cent personnes par
+    jour, messieurs de la confrérie se sont empressés à me mettre pins au fait, croyant par là me
+    ranger de leur côté. Tous les moutardiers m’ont apporté la moutarde toute fraîche de tous les
+    pays et de tous les chismes, et entre autres les enfantillages nouveaux de chez vous. Voici ma
+    réponse, sauf à vous envoyer une autre fois ce que cela a produit de plus:</p>
+   <q>«Mettez pour légende</q>
+   <q>«Inutile petit moyen. </q>
+   <q>«Dont il ne résulte rien.</q>
+   <q>«La forme de cette momerie, en augmentant la somme totale des momeries de ce
+    monde, accouple les cérémonies religieuses avec les jeux d’enfants; elle porte avec elle la
+    sanction indubitable du pays où elle a pris naissance, c’est-à-dire d’an pays qui fourmille de
+    couvents, de congrégations, de réguliers, d’irréguliers, de chanoines, d’abbayes etc. etc. etc.
+    Tous les individus qui en sont y font les plus beaux voeux du monde. L’utilité pour l’humanité
+    de ces instituts, cependant, a été si parfaitement reconnue dans «les pays les plus éclairés,
+    qu’on s’est fait une étude suivie d’en diminuer «le nombre ; celui qui fait le bien pour le
+    bien, quel besoin a-t-il de voeux, de momeries, d’accoutrements aussi frivoles que
+    ridicules? »</q>
+   <p>Après que le moutardier eut lu cela, il me dit: Mais cependant avouez que ce que je vous ai
+    donné vaut mieux que le reste? A cela je lui dis: Je vois bien qu’il est difficile de vous
+    guérir, mais puisque vous voulez savoir ce que j’en pense, par comparaison je vous dirai que je
+    le regarde comme plus ridicule et plus absurde que les autres, puisqu’il rassemble les momeries
+    et les enfances. En un mot, tous les moutardiers sont plats, à bas et même le ci-devant
+    directeur du soleil de l’opéra <title ref="works.xml#nitett01">Nitetti</title>.
+    Tenez, vous voilà payé de vos enseignes de cabaret; si vous n’êtes pas content, ce n’est pas ma
+    faute. <seg xml:lang="it"> Ma</seg> ma tête a voulu que j’écrivisse cela. Jamais tête ne
+    travailla avec plus d’assiduité que la mienne depuis un temps inouï. </p>
+   <closer><signed rend="inline">Adieu. <seg xml:lang="it"> Basta per lei</seg>.</signed></closer>
+  </body>
+ </text>
+</TEI>

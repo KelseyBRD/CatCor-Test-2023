@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01057</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01057</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:19:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01057">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, cе <date
+      when-custom="1784-02-04">4 février 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. A peine ma lettre du 23 janvier était-elle fermée, que j’ai reçu celle
+    dont V. M. I. m’a honorée en date du 5 décembre, par laquelle Elle veut bien me faire part de
+    Son voyage d’<placeName ref="places.xml#ita01">Italie</placeName>. A <placeName
+     ref="places.xml#flo01">Florence</placeName>, à <placeName ref="places.xml#rom03"
+     >Rome</placeName> et à <placeName ref="places.xml#nap01"> Naples</placeName>, quelque part que
+    V. M. I. se rende, nulle part Elle ne trouvera ni un coeur plus reconnaissant, ni personne qui
+    Lui soit plus sincèrement et plus fidèlement attaché que moi. V. M. I. se plaît à me donner des
+    témoignages d’amitié en toute occasion; il n’y a pas jusqu’à mon frère dont Elle a bien voulu se
+    souvenir pour le renvoyer chez lui selon mes désirs. Pour mon cher cousin le <persName
+     ref="people.xml#gus01"> Roi</persName> de <placeName ref="places.xml#swe01"
+    >Suède</placeName> j’avoue que les preuves nettes des variantes dans ses dits comme dans ses
+    faits ne me manquent pas; je les regarde comme une mauvaise coutume prise dès son enfance, dont
+    il ne s’est pas corrigé malgré le costume de chevalerie qu’il a endossé. Mais ce qu’il y a de
+    bon, c’est que, s’il promet beaucoup pour avoir des écus de la <placeName ref="places.xml#fra01"
+     >France</placeName>, je me flatte que pour cet argent il ne fera guère qu’une infructueuse
+    dépense à cette puissance.</p>
+   <p>En bénissant le jour où le ciel me donna un allié tel que V. M. I, j’ose La prier d’être
+    persuadée de la très-haute considération, de l’estime sans bornes et de la sincère et tendre
+    amitié avec lesquelles je suis et ne cesserai d’être...</p>
+  </body>
+ </text>
+</TEI>

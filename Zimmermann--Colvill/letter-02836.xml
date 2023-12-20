@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02836</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02836</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-21">21-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:31:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02836">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01">St. Petersb.</placeName> ce <date
+      when-custom="1788-10-11">11. d’Octobre 1788</date>.</dateline></opener>
+   <p>J’ai a répondre, Monsieur, à vos deux lettres du 29. Juillet et 5. de Sept. Il y a trois jours
+    que j’ai reçue la nouvelle de la réduction de <placeName ref="places.xml#kho01">
+     Chotim</placeName> qui s’est rendu par <rs ref="events.xml#khoti01"> accord le 29. Sept</rs>,
+    aux troupes combinées du Comte de <persName ref="people.xml#sal04"> Soltikof</persName> et
+     <persName ref="people.xml#jos03"> Prince de Cobourg</persName>. De ce côté ci les Suédois ont
+    évacué la <placeName ref="places.xml#fin01">Finlande Russe</placeName>. La flotte Suédoise
+    continue jusqu’à présent d’être blocquée dans son port de <placeName ref="places.xml#suo01">
+     Sweabourg</placeName>, qu’elle n’a pas quitté depuis qu’elle s’y est fourrée après la <name
+     ref="events.xml#hogla01"> bataille du 6. de Juillet</name>, qu’ils ont publié avoir gagnée.
+    Aprésent <rs ref="people.xml#gus01"> S. M. S</rs>. s’est adressée aux cours de <placeName
+     ref="places.xml#fra01">France</placeName>, d’<placeName ref="places.xml#spa01"
+     >Espagne</placeName>, de <placeName ref="places.xml#pru01">Prusse</placeName>, d’<placeName
+     ref="places.xml#eng01">Angleterre</placeName>, aux <placeName ref="places.xml#hol01">États
+     généraux</placeName> et au <persName ref="people.xml#fre04"> Roy</persName> de <placeName
+     ref="places.xml#den01">Danemark</placeName>, promettant à chaqu’un d’eux qu’il sera le „seul"
+    médiateur, et le priant de lui procurer la paix avec moi. Vous pouvés juger, combien sincères
+    peuvent être ses désirs de paix, puisque pour la faciliter il tache d’y faire entrer tout
+     l’<placeName ref="places.xml#eur01">Europe</placeName>. Cela s’appelle se mocquer des gens
+    entre particuliers que de dire à six personnes chaqu’un de vous „seul" sera chargé d’accommoder
+    mes affaires, nous verrons présentement, combien chaqu’une de ces cours sera flattée de la
+    confiance isolée du <persName ref="people.xml#gus01"> Roy</persName> de <placeName
+     ref="places.xml#swe01">Suède</placeName>. S’il avoit fait une proposition aussi trompeuse à mon
+    Prince de <persName ref="people.xml#nas01"> Nassau</persName>, il lui auroit répondu par un
+    défit pour avoir attenté à son honneur par une duperie honteuse. Vous avés bien raison de dire
+    que la déclaration de <rs ref="events.xml#swedi02"> guerre</rs> du <persName
+     ref="people.xml#gus01"> Roy de <placeName ref="places.xml#swe01"
+    >Suède</placeName></persName> est une <seg xml:lang="de"> Missgeburt</seg>! Tout y est mensonge
+    jusqu’à la date même, <seg xml:lang="de"> Lügen und bedriegen kosten ihm nichts, das wicklet er
+     in schoenen retorischen Redensarten ein und wirst es in die weldt hinein, und mit diesen
+     brüstet er sich</seg>.</p>
+   <p>Le bien qu’on dit à <placeName ref="places.xml#got04"> Göttingen</placeName> de l’édition
+     Arabe de <title ref="works.xml#qurana01"> l’Alcoran</title> faite à <placeName
+     ref="places.xml#pet01">Petersbourg</placeName> m’a fait plaisir. On fait trop d’honneur au <rs
+      ref="works.xml#family01"> hauslöffer</rs>, la bibliothèque de <rs ref="people.xml#ale01 people.xml#kon01">
+     mes petits fils</rs> n’étoit que pour eux et ayant rempli son but près d’eux,
+    elle ne devoit s’attendre à aucune réputation au delà. J’ay reçue le <rs
+     ref="works.xml#consid01"> livre</rs> de Mr. de <persName ref="people.xml#vol04">
+     Volney</persName> que vous m’avés envoyé; il traite d’une matière bien rabatue et dont
+     en <placeName ref="places.xml#eur01">Europe</placeName> chaqu’un raisonne selon sa passion. La
+    relation de <persName ref="people.xml#gre01"> l’Admiral Greigh</persName>, dont vous me parlez,
+    est bonne à comparer à celle du <persName ref="people.xml#cha01"> Duc de Sudermanie</persName>,
+    à laquelle les plus entendus ne comprennent rien. Si par hazard les Suédois faisoient courir le
+    bruit, que <persName ref="people.xml#gre01"> l’Admirai Greigh</persName> est mort, n’en croyés
+    rien, il a eu une fièvre chaude bilieuse, mais selon mes dernières nouvelles il est mieux. Je
+    suis bien aise que notre déclaration de <rs ref="events.xml#swedi02"> guerre</rs> vous aye plu.
+    La note du <persName ref="people.xml#sch05"> Sr. Schlaf</persName> a été très certainement
+    remise entre les mains du vicechancelier <persName ref="people.xml#ost05"> Comte
+     Ostermann</persName> telle que vous l’avés lue dans les gazettes et journaux, n’est-il pas vrai
+    que c’est une pièce rare? Je vous avoue qu’il est plus facile d’avoir affaire au <persName
+     ref="people.xml#gus01"> Roy</persName> de <placeName ref="places.xml#swe01"
+    >Suède</placeName> que de donner des places aux médecins qui puissent leur plaire. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien et soyés assuré de mon estime très
+    constante.</signed></closer>
+  </body>
+ </text>
+</TEI>

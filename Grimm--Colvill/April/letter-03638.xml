@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03638</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03638</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:21:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03638">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1786-10-05">5 d’octobre 1786</date>.</dateline></opener>
+   <p>Dans ce moment je viens de recevoir votre lettre du 10 (21 ) septembre par <persName
+     ref="people.xml#bac01"> Bacchus</persName>; je meurs de peur que d’après le billet écrit par l’
+     <rs ref="people.xml#dmi01"> habit rouge</rs>, où je vous ai marqué beaucoup d’empressement pour
+    les pierres gravées et les médailles en question, vous n’ayez déjà mis la patte dessus; or, je
+    serais aujourd’hui fort d’humeur de donner un bon coup de patte sur les doigts des juifs
+    auxquels vous avez à faire. Si vous avez déjà arrangé quelque chose avec eux, sans doute il
+    faudra tenir parole, mais si vous n’êtes engagé à rien, je vous prescris très précisément de
+    déclarer que, voyant le prix exorbitant que <persName ref="people.xml#mil04">
+     Miliotti</persName> leur donne, je renonce à l’achat et que vous avez très expresse défense
+    d’outre-passer la somme de quarante mille roubles pour aucun de ces achats. Voilà mon dernier
+    dernierissime mot. <persName ref="people.xml#sut01"> Southerland</persName> vous enverra une
+    lettre de change pour cette somme, et puis c’est tout.</p>
+  </body>
+ </text>
+</TEI>

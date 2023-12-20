@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01042</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01042</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:15:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01042">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-10-18"
+      >18 d’octobre 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Il n’appartient qu’à V. M. I. de réunir aux vertus du héros les qualités
+    aimables du citoyen qui, rempli d’attentions et de soins, fait les délices de la société
+    humaine. Que V. M. I. me pardonne cette réflexion échappée à ma plume au moment où j’ai les yeux
+    attachés sur les caractères tracés de Sa main, par lesquels Elle s’excuse de ne m’avoir point
+    écrit, crainte, dit-Elle, d’être à charge. A qui? A moi? J’ose répondre avec l’effusion de
+    l’amitié la plus vraie, la plus sincère, que les chères lettres de V. M. I. ne sauraient être
+    dans ce cas chez moi. Cette réponse retardée de <seg xml:lang="en"> Mylord <persName
+      ref="people.xml#gra04">Grantham</persName></seg>, dont V. M. I. me fait l’honneur de parler
+    dans Sa lettre du 5 octobre, donne tout lieu de croire que Messieurs les Anglais ont beaucoup
+    d’envie de temporiser pour gagner un temps nécessaire afin de se tirer de l’embarras de leur
+    situation et de la confusion des opinions qui produit tous les jours quelque plan nouveau et
+    fait que les plus entendus chez eux ne savent bien au juste ce qu’ils veulent ou ne veulent pas,
+    et montrent de la contradiction dans deux choses essentielles, la possibilité du pouvoir et la
+    volonté décidée de l’impossible. Mais je laisse là ces réflexions hasardées pour parler à V. M.
+    I. de la pacification. Il paraît qu’après les assurances articulées par <persName
+     ref="people.xml#gra01"> M. de Vergennes</persName> au <persName ref="people.xml#cla02">comte de
+     Mercy</persName>, et celles données tout récemment par la Cour de <placeName
+     ref="places.xml#lon01">Londres</placeName>, s’il ne s’agissait que d’une affaire entre
+    particuliers, sans faire tort à l’honneur d’une des parties, j’avoue qu’on ne pourrait douter de
+    la parole donnée comme quoi il ne s’agit que de préliminaires. Il est vrai que <persName
+     ref="people.xml#gra01"> M. de Vergennes</persName> s’est gardé l’échappatoire d’une paix
+    précipitée par les événements. Les batteries flottantes sont détruites; reste à savoir ce qui
+    arrivera de l’éternel siège de <placeName ref="places.xml#gib03"> Gibraltar</placeName>.
+     <persName ref="people.xml#how01" xml:lang="en">Mylord Howe</persName> doit être arrivé. Cette
+    paix précipitée, cette échappatoire, arrivera-t-elle en <placeName ref="places.xml#eur01"
+     >Europe</placeName> ou en <placeName ref="places.xml#ame01">Amérique</placeName> ? Je n’en sais
+    rien. Mais en attendant qu’il plaise à V. M. I. de décider du sort de mes idées analogues aux
+    troubles de la <placeName ref="places.xml#cri01">Crimée</placeName>, que j’ai osé mettre devant
+    Ses yeux clairvoyants en toute confiance, et ne doutant point qu’Elle ne veuille bien me
+    communiquer les Siennes.</p>
+   <p>Qu’il me soit permis de présenter à V M. I. mes actions de grâces, pour les nouvelles bontés
+    qu’Elle a bien voulu témoigner à mes enfants à leur arrivée et pendant leur séjour à Sa Cour, et
+    pour tout ce qu’Elle veut bien me dire à cet égard et à celui de Madame la <persName
+     ref="people.xml#eli06"> Princesse Elisabeth de Württemberg</persName> par Ses précieuses
+    lettres du 5 et 12 d’octobre. Il est impossible d’ajouter aux sentiments de la très-haute
+    considération et de l’amitié et de la reconnaissance la plus sincère avec lesquels je suis . .
+    .</p>
+  </body>
+ </text>
+</TEI>

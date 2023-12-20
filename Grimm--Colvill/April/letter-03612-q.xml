@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03612</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03612</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Emma: king of sweden without a code</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-08">08/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:55:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03612">
+  <body>
+   <opener><dateline> Ce <date when-custom="1784-05-19">19 mai 1784</date>, à <placeName ref="places.xml#tsa01">
+     Tsarsko</placeName>.</dateline></opener>
+   <p>Écoutez, <rs ref="people.xml#gri01">souffre-douleur</rs>, ce que j’ai a vous conter. La statue de <persName ref="people.xml#vol01"> Voltaire</persName> faite
+    par <persName ref="people.xml#hou01"> Houdon</persName> a été déballée et placée dans le salon
+    du matin; là elle est entourée de l’Antinoüs, de l’ <title ref="works.xml#apollo01"> Apollon du
+     Belvèdere</title> et de quantité d’autres statues, dont les moules sont venus de <placeName ref="places.xml#rom03">
+    Rome</placeName> et qui ont été jetées en fonte ici. Quand on entre dans ce salon, à la lettre on perd la
+    respiration, et, ô merville! la statue de <persName ref="people.xml#vol01"> Voltaire</persName> faite par <persName
+     ref="people.xml#hou01"> Houdon</persName> n’est point déparée par tout ce qui
+    l’entoure: <persName ref="people.xml#vol01"> Voltaire</persName> est très bien placé là; il contemple tout ce qu’il y a de plus
+    beau en statues antiques et modernes. Monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs> se souviendra que ce salon a
+    une porte qui donne sur le lac, et une autre qui donne dans une allée fort touffue; depuis
+    que <persName ref="people.xml#vol01"> Voltaire</persName> est là, on va par caravane pour voir le salon du matin.</p>
+   <p>Autre nouvelle: sir <persName ref="people.xml#tho01"> Tom Anderson</persName> décédé cet hiver
+    est placé avec son inscription derrière la pyramide en granit; or, je n’ai pas encore eu le
+    coeur de l’aller voir et je n’ai pas annoncé sa mort jusqu’à aujourd’hui; il a poussé sa
+    carrière jusqu’à 16 ans.</p>
+   <p>Je vous envoie en biscuit les profils de mes petits-fils, qui sont très ressemblants. </p>
+   <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01">souffre-douleur</rs>; pour aujourd’hui vous n’aurez pas plus.</signed></closer>
+   <postscript><p>De toute part on nous dit que le <persName>roi de <placeName ref="places.xml#swe01"> Suède</placeName></persName> va s’emparer de la <placeName ref="places.xml#nor01">
+    Norvège</placeName>; si ce projet écervelé a lieu, la <placeName ref="places.xml#rus01"> Russie</placeName> sera obligée d’essuyer le nez à
+    don Gustave. </p></postscript>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+   <postscript><p>Il faut que <rs ref="people.xml#gri01">souffre-douleur</rs> ait les médaillons des sieurs <persName ref="people.xml#ale01">
+     Alexandre</persName> et <persName ref="people.xml#kon01"> Constantin</persName>; c’est ce que
+    renferme le paquet en toile cirée verte.</p></postscript>
+  </body>
+ </text>
+</TEI>

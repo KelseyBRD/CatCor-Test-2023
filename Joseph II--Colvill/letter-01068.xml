@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01068</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01068</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:22:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01068">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1785-11-23">23 novembre 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. Mon amitié et mes sentiments pour l’auguste personne de V. M. I. sont tels
+    que je ne puis que saisir avec empressement toutes les occasions qui se présentent pour Lui en
+    renouveler les assurances. Le départ de l’ambassadeur de V. M. I, comte de <persName
+     ref="people.xml#cob02"> Cobenzl</persName>, m’en fournit une si naturelle, si sûre, si fidèle,
+    que je ne saurais qu’en profiter. C’est avec regret que je vois partir ce témoin oculaire et
+    auriculaire de mes dits et faits depuis l’heureux instant du renouvellement et de l’intimité de
+    nos liaisons. Je ne doute nullement qu’il ne rende à V. M. I. un compte exact et véridique du
+    vif désir que j’ai de Lui prouver dans toutes les occurrences qui se présenteront, et où
+    l’intérêt des deux monarchies l’exigera, l’étendue de mon amitié et la fidélité avec laquelle je
+    remplirai les devoirs de l’amitié et des engagements que j’ai contractés avec V. M. I. par une
+    alliance chère à mon coeur, étant toujours avec une très-haute estime et considération ....</p>
+  </body>
+ </text>
+</TEI>

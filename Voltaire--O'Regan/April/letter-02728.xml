@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02728</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02728</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:20:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02728">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1770-01-19">19 Janvier 1770</date></dateline></opener>
+   <p>Monsieur, Je suis très sensible de ce que Vous partagé ma satisfaction
+     sur l'arrivée de nos vaisseaux au <placeName ref="places.xml#mah01"> port
+      Mahon</placeName>. Les voilà plus proche des ennemis
+    que de leurs propre foyer, cependant il faut qu'ils ayent fait guayement ce trajet malgré les
+    tempêtes et la saison avançées, puisque les Matelots ont composés des chansons come nos trouppes
+    en ont la coutume quand la chose en vaut la peine, qui ne parlent que de conquête et d'obliger
+     <rs ref="people.xml#mus01"> Moustapha</rs> à faire amende honorable. Je ne saurais nier la construction
+    des Vaisseaux à <placeName ref="places.xml#azo01"> Azoph</placeName> dont Vous êtes informé. Le sultan avoit
+    défendu de croire la possibilité de l'arrivé de ma flotte dans la <placeName ref="places.xml#med02">
+     Mediterannée</placeName>; il disoit que s'étoit un bruit que répandoit les infidèles pour
+    effrayer les serviteurs de Mahomet. La sublime Porte, malgré sa sublimité ne devinoit pas cela.
+    Je ne suis point étonée de l'ignorance de l'Intendant de la <placeName ref="places.xml#rom02">
+     Romelie</placeName>, Ambassadeur en <placeName ref="places.xml#fra01"> France</placeName>, qui ignoroit
+    jusqu'au nom de la <placeName ref="places.xml#gre02"> Grece</placeName> et d'<placeName ref="places.xml#ath01">
+     Athenes</placeName>. Que peut on prétendre de porteur d'Eau et de Charbons transformée en Bacha,
+    en Visir etc: qui souvent ne savent pas lire et qui reçoivent toute la sçience du Gouvernement
+    dans le Fetma du Grand seigneur? Ils n'ont pas même un seul home qui soit bien au fait du fil
+    des affaires présente. J'ai conuë des Ambassadeurs Chrestiens et très Chrestiens qui quoique de
+    meilleure naissance n'était pas plus instruit que le représentant Turk dont Vous me parlés
+    Monsieur.</p>
+   <p>Je le répète la sage <placeName ref="places.xml#eur01"> Europe</placeName> ne donera son approbation à mes
+    projets qu'autant qu'ils réussiront. Vous voulés bien comparer celui de l'expédition de la
+     <placeName ref="places.xml#med02"> Mediterranée</placeName> (qu'on m'attribuë injustement, je me réserve de
+    nomer l'Auteur lorsqu'elle aura réussie) à l'entreprise d'Annibal, mais les Carthaginois avait à
+    faire à un Colosse qui était dans sa force, tandis que nous nous trouvons vis à vis d'un fantôme
+    foible et dont touttes les parties ce relâchent à mesure qu'on y touche.</p>
+   <p>Les Georgiens en effet ont levée le Bouclier contre les Turks et leurs refusent le tribut
+    annuels de recruës pour le sérail. <persName ref="people.xml#her03"> Heraclius</persName>, le plus
+    puissant de ses Princes, est un home de tête et de Courage, il a çi devant contribué à la
+    Conquête de l'<placeName ref="places.xml#ind01"></placeName> Inde sous le fameux <placeName ref="people.xml#sha05">
+     Schah Nadir</placeName>. Je tiens cette anecdote de la propre bouche du <rs ref="people.xml#tei01">Père</rs>
+     d'<persName ref="people.xml#her03"> Heraclius</persName> mort ici à <placeName ref="places.xml#pet01">
+     Petersbourg</placeName> en 1762. Mes trouppes ont passée le <placeName ref="places.xml#cau02">
+     Caucase</placeName> cet Autone et ce sont joint aux Georgiens, il y a eu par çi, par là de petit
+    combats avec les Turks, dont je crois que les relations ont été imprimée dans les Gazettes, le
+    Printems montrera le reste. D'un autre côté nous continuons à nous fortifier dans la
+     <placeName ref="places.xml#mol01"> Moldavie</placeName> et la <placeName ref="places.xml#wal01"> Walachie</placeName>
+    et nous travaillons à nettoyer cette rive çi du <placeName ref="places.xml#dan01"> Danube</placeName>.</p>
+   <p>Mais ce qu'il y a de mieux s'est qu'on sens si peu la guerre dans l'<placeName ref="places.xml#rus01">
+     Empire</placeName>, qu'on ne se souvient pas d'avoir vu un Carnaval où généralement tout les
+    esprit, était plus porté à inventer des amusemens que pendant celui de cette année. Je ne sai si
+    l'on en fait autant à <placeName ref="places.xml#ist01"> Constantinople</placeName>, peutêtre y invente t'on
+    des ressources pour continuer la guerre, je ne leur envie point ce bonheur, mais je me féliçite
+    de n'en avoir pas besoin, et me mocque de ceux qui ont prétendu qu'home et argent me manqueroit.
+    Tapis pour ceux qui aiment à ce tromper, ils trouvent aisément pour de l'argent des flatteurs,
+    qui leurs en doneront à garder. J'ai montré au Cte: <persName ref="people.xml#shu01">
+     Schouvalof</persName> l'article de Votre lettre Monsieur,
+    qui le regarde. Il m'a dit, qu'il avait répondu à touttes Vos lettres exactement; elle ce sont
+    perdus peutêtre.</p>
+   <p>Vous voudrés bien que je Vous fasse mes remercimens pour ce que les Vôtres
+     renfermait de flatteur en vers et en prose pour moi. Volontiers je Vous aurait doné des
+     nouvelles aujourd'huy, mais je n'en ai point d'interressantes. Puisque Monsieur mon exactitude
+     ne Vous est point à charges, soyés assuré que je la continuerai pendant cette année 1770 que je
+     Vous souhaite heureuse et que Votre santé ce fortifie come <placeName ref="places.xml#azo01">
+      Azoph</placeName> et <placeName ref="places.xml#tag01">
+      Taganrok</placeName> le sont déjà. Je Vous prie d'être persuadé de mon
+     amitié et de ma sensibilité.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

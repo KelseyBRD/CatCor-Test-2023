@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03665</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03665</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify Madame Krook.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-25">25-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:24:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03665">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1790-02-12">12 février 1790</date>.</dateline></opener>
+   <p><persName ref="people.xml#bac01"> Bacchus</persName> m’a envoyé hier votre pancarte miniature
+    écrite le 1 et 2 de janvier; il y en a une que j’ai commencée environ ce temps-ci; s’il m’en
+    souvient bien de l’année passée, je l’ai prise à la campagne, continuée par intervalles,
+    rapportée ici, perdue de vue, non pas faute d’aliment, mais bien plutôt par l’immensité des
+    choses, <seg xml:lang="de"> der Wiedergeburten und Wissgeburten dieser Zeiten, wo man sich nicht
+     mehr in der Welt schämt für Alles, das unrecht, missbillig, grausam, gewaltig und abscheulich
+     vor diesem hieß, und wo die dummsten Klötze gedenken die ersten Stellen eigenmächtig
+     einzunehmen. Hier kann man mit Recht auf gut Hollandisch sagen</seg>: <seg xml:lang="nl"> Ja
+     wel, myn herr, als die käs nicht wär (sic).</seg> Je suis bien fâchée que les nouvelles que je
+    vous ai données soient arrivées toujours quinze jours trop tard, mais encore beaucoup plus de
+    vous savoir triste et malade. Par <placeName ref="places.xml#vie01"> Vienne</placeName> je ne
+    connais aucune voie que la ministérielle, et celle-là ne convient guère aux pancartes qui
+    voguent dans l’infini. Ce que vous me dites de votre propre existence dans ce charmant temps m’a
+    fait frémir. Je savais qu’un M. <persName ref="people.xml#bel04"> de Belsunce</persName> avait
+    péri, mais j’ingnorais que ce fût le frère de <persName ref="people.xml#bue01"> Mad. du
+     Bueil</persName>; son état me fait de la peine, ces temps doivent faire regretter le passé.
+    Votre santé m’alarme, et je ne me soucie point du tout de votre grande promotion. Vous aimez
+    donc bien les conseils de M. <persName ref="people.xml#rog01"> Rogerson</persName>; suivez-les,
+    puisque vous vous en trouvez bien, ma vous n’accréditerez point par là ni la pharmacie ni
+    l’Esculape chez moi. Il est vrai que vous ne deviez être guère tenté de voyager pendant la
+    régénération qui faisait ressembler tout le pays à un grand bois rempli de l’espèce sauvage. Il
+    dépend de votre très cher ami et compagnon de voyage de retourner d’où il est venu. Pour moi,
+    malgré les gazettes et ceux qui trouvent plaisir à dire que je suis malade, je me porte fort
+    bien, et laissez bavarder les grands hommes, à la grandeur desquels je ne comprends rien, tant
+    qu’ils voudront.</p>
+   <p>Comme je n’aime pas à voir mourir les gens de mérite, la mort de <persName
+     ref="people.xml#bou01"> Mad. de Buchwald</persName> m’a fait de la peine; je la savais
+    généralement estimée. Je trouve vos idées fort tristes; l’on voit que vous souffrez d’esprit et
+    de corps: tâchez de vous égayer, et si je puis diminuer vos soucis, parlez-moi avec adresse et
+    finesse à coeur ouvert. Pourquoi ce roi des Français? Pourquoi lui ôter la Navarre, son
+    patrimoine? Pourquoi changer <placeName ref="places.xml#fra01"> France</placeName> en Français
+    après huit cents ans? Le rôle de ce royaume paraissait avoir dû le garantir d’une autre
+    existence dont on ne sait pas par expérience ni le bon, ni le mauvais, ni le bien, ni le mal.
+    Depuis quand l’effervescence, l’étourderie, le désordre, les excès en tout genre valent-ils
+    mieux que l’expérience, la prudence, l’ordre et la règle? Comme ignorant fait et parfait, je ne
+    fais que des questions, voyant renverser tout ce à quoi du commencement et au milieu de ce
+    siècle l’esprit était attaché et dont l’on faisait des règles et des principes, sans lesquels
+    cependant l’on ne vit que du jour à la journée.</p>
+   <p>J’ai reçu les livres apportés par Mad. Krook, et j’ai lu avec plaisir les mémoires de la
+    princesse palatine etc., avec cet intérêt qu’on met à ce qui regarde les règnes de <persName
+     ref="people.xml#lou06"> Louis XIV</persName> et de <persName ref="people.xml#hen01"> Henri
+     IV</persName>, qui est différent de celui qu’on porte au temps présent; l’auteur me fait trop
+    d’honneur: j’ai la volonté de bien faire; ce n’est pas à moi de juger si j’en ai la capacité.
+    Pour ce qui regarde la lettre et le bureau du jésuite de <placeName ref="places.xml#neu02">
+     Neuwied</placeName>, je ne sais pourquoi il faut que j’achète ce dont je n’ai que faire, que je
+    n’ai ni vu ni commandé; il n’y a pas de justice à cela de la part de M. <persName
+     ref="people.xml#roe04"> David Roentgen</persName>. Il en est de même de mademoiselle de Pons,
+    que je n’ai pas fait venir et qu’on me tourmente de toute part de placer là où je n’en ai que
+    faire; je n’aime pas les figures hypocrites, et l’on n’élève pas qui on veut par spéculation;
+    j’aime mieux les Dieudonnés qui ne s’en avisent pas. Je ne doute nullement de la façon sincère
+    de penser à mon égard du comte de <persName ref="people.xml#seg01"> Ségur</persName>: c’est un
+    homme d’honneur et de probité, qui pense noblement. Croyez-moi, pour venir à bout de ses ennemis
+    le moyen le plus efficace sont les coups, et voilà de quoi M. le comte des deux empires
+     <persName ref="people.xml#suv01"> Souvorof Rimnikskï</persName> et surtout le maréchal
+     <persName ref="people.xml#pot01"> prince Potemkine Tavritcheskï</persName> s’acquittent à
+    merveille jusqu’ici. Je souhaite que M. <persName ref="people.xml#dam01"> Roger de
+     Damas</persName> n’ait pas la tête tournée chez vous et que vous le renvoyiez au <persName
+     ref="people.xml#pot01"> pr. Pot.</persName> comme il était. L’élève de <persName
+     ref="people.xml#car01"> Mad. Cardel</persName> ayant trouvé M. <rs ref="people.xml#dmi01">
+     l’habit rouge</rs> plus digne de pitié que de colère est excessivement punie pour la vie par la
+    plus bête des passions, qui n’a pas mis les rieurs de son côté, et l’a décrié comme ingrat; elle
+    n’a fait que finir au plus tôt, au contentement des intéressés, cette farce-là. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien</signed></closer>
+  </body>
+ </text>
+</TEI>

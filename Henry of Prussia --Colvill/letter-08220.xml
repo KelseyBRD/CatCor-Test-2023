@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08220</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08220</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+ 
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:19:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08220">
+  <body>
+   <opener><dateline> Ce <date when-custom="1772-03-19">19 mars 1772</date>.</dateline></opener>
+   <p>Il n’y a que la narration simple de la vérité, qui puisse m’excuser d'avoir différé si
+    longtemps à répondre aux obligeantes lettres de V. A. R. J'ai eu la maladresse, deux fois de
+    suite, de me blesser le second doigt de la main droite. Non seulement je n'ai pas pu, pendant
+    longtemps, me servir de ce doigt si nécessaire pour tenir la plume, mais durant plusieurs jours
+    j'avais perdu la faculté même de me servir de la main droite, tant elle était enflée. J'ai été
+    obligée d'avoir recours aux élèves d'Hippocrates dans le temps précisément qu'ils se trouvaient
+    dans le plus grand abattement par la catastrophe arrivée à leur confrère en <placeName
+     ref="places.xml#den01">Danemark</placeName>. Une grande consternation s’était peinte sur le
+    visage des plus ambitieux de la faculté, mais, habiles à saisir les occasions qui leur sont
+    avantageuses, ils s'en sont emparés de mon doigt qui leur en a fourni une, pour se donner un :
+    nouveau dégré d'importance. Aussi m’ont-ils traité dans a toutes les règles de l'art, ce qui me
+    faisait d'autant plus perdre patience, qu'ils retardaient par là le moment où je devais
+    m'acquitter vis-à-vis de V. A. R. du plaisir de Lui marquer la reconnaissance que je me sens Lui
+    devoir, de la <rs ref="events.xml#parti01"> grande affaire</rs> qui vient de se terminer entre
+    le <rs ref="people.xml#fre01"> Roi, Son frère</rs>, et moi. V. A. R. y a eu une part trop
+    directe, c'est à Elle aussi que je ne puis m'empêcher d'en témoigner toute ma satisfaction.
+    Voilà bien des peuples qui, grâce à Vos soins, vont jouir d'un doux repos pendant bien
+    longtemps.</p>
+   <p>Il ne manque plus à moi que la bienheureuse paix qui, j'espère, n'est pas fort éloignée, vu le
+    changement favorable opéré dans la façon de penser de la cour de <placeName
+     ref="places.xml#vie01">Vienne</placeName>, pour voir la plupart des mes vœux accomplis. Il est
+    vrai que j'étais prête à argumenter de différentes manières et même de celle que j'aime le
+    moins. Après l'époque de la paix je formerai de nouveaux souhaits peut-être. Celui de persuader
+    V. A. R. de la sincérité de mon amitié pour Elle, est toujours un des premiers que j'ai
+    conçus.</p>
+   <p>J'ai bien des remercîments à faire encore à V. A. R. pour le <rs ref="works.xml#discou02">
+     discours académique</rs> qu’Elle m'a envoyé. Je suis charmée de voir défendre les beaux arts et
+    les sciences des griffes maladroites qui les attaquent au grand détriment de la raison. Ces
+    gens-là ne peuvent que succomber, lorsque la vérité trouve des défenseurs de la force et du
+    genie de <rs ref="people.xml#fre01"> l’auteur</rs> de ce discours, dans lequel V. A. R. me dit
+    que j'ai mon coin. Je m'y tiens sans souffler, bonnement je croyais que ce que j'avais fait
+    jusqu'ici ne méritait point d’être cité. J'ai suivi simplement l’exemple de mes prédécesseurs.
+    Mais en quoi je prie V. A. R. de vouloir bien me distinguer d'eux, c'est dans les sentiments de
+    la plus haute considération. . .</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01081</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01081</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#holland"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:25:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01081">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1787-09-11">11 septembre 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. Accoutumée aux procédés d’amitié, de franchise et de loyauté de V. M.
+    I., et ayant le bonheur de connaître depuis plusieurs années le grand caractère de l’<persName
+     ref="people.xml#jos01"> Empereur Joseph II</persName>, j’ai été moins étonnée, je l’avoue, que
+    touchée de l’empressement vif et sincère avec lequel V. M. I. a été au-devant de toute
+    réquisition que nos engagements respectifs me permettaient de Lui faire à l’occasion du parti
+    violent auquel la <placeName ref="places.xml#ott01">Sublime Porte</placeName> vient
+    de se déterminer. La double insulte que j’en ai reçue et par l’infraction de <rs
+     ref="events.xml#kuchu01"> la paix</rs> et par la détention de <rs ref="people.xml#bul01"> mon
+     ministre</rs>, méritera, j’espère, aux yeux de tout; l’<placeName ref="places.xml#eur01"
+     >Europe</placeName> une correction exemplaire. Je sens tout le prix des assurances formelles
+    que, V. M. I. me renouvelle par Sa lettre du 30 du mois passé, et par la déclaration de Son
+    ambassadeur qu’Elle reconnaissait l’existence du <seg xml:lang="la"> casus foederis</seg>. Je
+    désire ardemment d’apprendre au plutôt la pacification des <placeName ref="places.xml#hol02"
+     >Pays-Bas</placeName>, pour laquelle je fais des voeux bien sincères. Le comte de <persName
+     ref="people.xml#cob02"> Cobenzl</persName> fera parvenir à V. M. I. des ouvertures plus
+    détaillées sur l’état des choses, que mon ministère lui a faites par mon ordre. Je n’ai pas
+    besoin d’y ajouter que plutôt nos mesures seront mises en action, plus nous y déployerons
+    d’efforts et plutôt nous parviendrons à terminer la guerre.</p>
+   <p>Rien n’égale l’amitié, la très-haute considération et l’estime la plus parfaite avec laquelle
+    j’ai l’honneur d’être ....</p>
+   <p>J’attends de moment à autre des nouvelles de la flotte que V. M. I. a vue dans le port
+     de <placeName ref="places.xml#sev01">Sevastopol</placeName>; elle doit être allée à la
+    rencontre de la flotte ennemie. L’occasion est belle pour de gens braves qui ont de bons
+    vaisseaux; voila tout ce que j’en puis dire jusqu’ici.</p>
+  </body>
+ </text>
+</TEI>

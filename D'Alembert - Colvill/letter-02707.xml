@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02707</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02707</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+   
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:16:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02707">
+  <body>
+
+   
+   <p>Monsieur d’<persName ref="people.xml#ale06"> Alembert</persName>, j’ai reçu une seconde
+    lettre, écrite de votre main, au sujet des <rs ref="people.xml#gal07 people.xml#mal04 people.xml#cho09 people.xml#sai01 people.xml#don05 
+     people.xml#val01 people.xml#del03"> prisonniers
+    français</rs>, qui contenait mot à mot la même chose que la première. Celle-ci a été suivie
+    d’une troisième, que je suppose être une réponse à la mienne. Par cette dernière vous cherchez à
+    me porter, autant par la solidité du raisonnement que par la force de votre éloquence et
+    l’agrément et la beauté de votre style, à relâcher les <rs ref="people.xml#gal07 people.xml#mal04 people.xml#cho09 people.xml#sai01 people.xml#don05 
+     people.xml#val01 people.xml#del03"> prisonniers français</rs>
+    qui sont dans mon empire.</p>
+   <p>Mais, monsieur, permettez-moi de vous témoigner mon étonnement de vous voir un aussi grand
+    empressement pour délivrer d’une captivité qui n’en a que le nom, des boute-feux qui soufflaient
+    la discorde partout où ils se présentaient. Je vous promets que dès que ma paix sera faite, je
+    dirai à vos compatriotes les paroles que vous me dites : <hi rend="italic">Allez, soyez libres,
+     retournez en <placeName ref="places.xml#fra01">France</placeName> et remerciez la
+     philosophie</hi>. J’ajouterai : elle vous apprendra qu’il n’est pas bon d’être méchant de
+    gaieté de cœur. Les milliers de prisonniers turcs et de Polonais, victimes et dupes de ceux pour
+    qui vous vous intéressez, auront à se plaindre d’être abandonnés de l’humanité, tandis que tant
+    de voies sont employées pour ramener ceux-là dans leur patrie, qui d’ailleurs n’avoue point ces
+    gentilshommes-là et leurs gentillesses.</p>
+   <p>Je vous le demande, y aurait-il de la justice à donner de l’avantage à ceux qui ont causé le
+    mal, et à laisser dans une situation moins avantageuse ceux qui leur ont servi de jouet? La
+    vraie humanité plaide plus pour ceux-ci que pour les autres chez moi. Mais soyez assuré,
+    monsieur, que je remettrai en liberté les uns et les autres à votre prière, dans son temps. Je
+    dis : à votre prière, car en plaidant pour la cause, conséquemment raisonné, vous plaidiez aussi
+    pour les effets. Alors vous pourrez ajouter, à l’inscription que vous me dites, le nom des
+    prisonniers turcs à ceux des <rs ref="people.xml#gal07 people.xml#mal04 people.xml#cho09 people.xml#sai01 people.xml#don05 
+     people.xml#val01 people.xml#del03">prisonniers français</rs>. Au reste je
+    souhaite, pour le bien de la philosophe, que de longtemps encore vous n’ayez besoin d’aucune
+    épitaphe.</p>
+   <p>Je suis, monsieur, très sensible à toutes les louanges dont vous me comblez. Je vous prie
+    d’être persuadé de la continuation des sentiments que vous me connaissez depuis longtemps pour
+    vous et vos amis.</p>
+  </body>
+ </text>
+</TEI>

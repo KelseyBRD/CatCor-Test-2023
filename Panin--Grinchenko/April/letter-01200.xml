@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01200</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01200</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#turkey"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#moldavia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalRelations"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-07"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01200">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Получа к удовольствию моему Ваше письмо с уведомлением, что <persName
+                    ref="people.xml#pau01">сын</persName> мой здоров, я в то же время и от <persName
+                    ref="people.xml#pan02">брата</persName> Вашего письмо чрез его
+                Флигель-Адъютанта, <persName ref="people.xml#gag02">Князя Гагарина</persName>,
+                получила с приятным известием, что <placeName ref="places.xml#bud01"
+                    >Буджацкие</placeName> и <placeName ref="places.xml#yed02"
+                    >Едисанские</placeName> Татары утвердили присягою их от <placeName
+                    ref="places.xml#ott01">Порты</placeName> отступление,</p>
+            <closer><signed rend="inline">с чем Вас поздравляю и желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1770-08-19">Августа 19 ч., 1770 г.</date><lb/> В шесть
+                    часов.</dateline></closer>
+        </body>
+    </text>
+</TEI>

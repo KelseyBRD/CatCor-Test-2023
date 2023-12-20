@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08250</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08250</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:27:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08250">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, <date
+      when-custom="1776-09-02">2 septembre 1776</date>.</dateline></opener>
+   <p>Ma <persName ref="people.xml#mar02"> princesse de Würtemberg</persName> qui est arrivée avant
+    hier au soir en bonne santé m'a remis la lettre de V. A. R. du 11 d'août. Enfin je la tiens
+    cette charmante princesse, et nous en sommes tous enchantés à la lettre. La figure est l'image
+    de la candeur, de la bonne volonté, de la bonté de son cœur; si son cœur n'était tel, sa
+    physionomie serait autre, je lui prophétise l'avenir le plus heureux. Que V. A. R. soit
+    persuadée que je ne désire que d'y contribuer! Mon estime pour le <rs ref="people.xml#fri05">
+     prince</rs> et la <rs ref="people.xml#fri04"> princesse</rs> de <placeName
+     ref="places.xml#wur01"> Würtemberg</placeName> est augmentée, depuis que j'ai fait la
+    connaissance de la <rs ref="people.xml#mar02"> princesse, leur fille</rs>, on ne saurait rien
+    ajouter à l'éducation qu'ils lui ont donnée; elle est précisément comme on voudrait qu'elle fût.
+    Jamais je n'oublierai tout ce que V. A. R. a fait pour me la donner, je La prie de croire que ma
+    reconnaissance égale la haute considération ...</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02932</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02932</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Encoded ‘Danzig’ as Gdansk ‘#places-gda01’ – unsure if a separate place code was needed?.
+     Unable to find Rodriguès or Zoucato (taking too much time), have created codes for future use.
+     ‘Dien’ = sic. Year taken as 1790, though not explicit in dateline at end of letter.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-01">01/04/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:30:39Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02932">
+  <body>
+   <p>Monsieur le <persName ref="people.xml#nas01"> Vice-Amiral Prince</persName> de <placeName
+     ref="places.xml#nas01"> Nassau-Siegen</placeName>. Je viens de recevoir votre lettre
+    du 7 Juillet. Elle contient le témoignage que Vous donnez aux Comtes <persName
+     ref="people.xml#rod02"> Rodriguès</persName> et <persName ref="people.xml#lan05"> de
+     Langeron</persName>, au L. C. <persName ref="people.xml#fer01"> Fersen</persName> et au Major
+     <persName ref="people.xml#zou01"> Zoucato</persName>. Au reste j’espère que Vous me connaissez
+    assez, pour être persuadé, que les commérages de la ville qui aparemment Vous sont parvenus ne
+    sauraient faire aucun effet sur mon esprit. Je connais parfaitement Votre zèle, je lui rends
+    justice, j’ai partagé très sincèrement votre chagrin, je suis bien fâchée de voir qu’il va
+    jusqu’à déranger Votre santé, je souhaiterais que Vous ne Vous laissiez pas aller jusqu’à un
+    abbattement nuisible autant à mon service, que si j’ose dire à Votre propre réputation. Hé mon
+    Dien qui est-ce qui n’a pas eu de grands revers dans sa vie? Les plus grands capitaines n’ont
+    ils pas eu des journées malheureuses? Le feu roi de <placeName ref="places.xml#pru01"
+     >Prusse</placeName> n’était véritablement grand, qu’après un grand revers, c’est alors qu’il
+    revenait sur la scène plus rayonnant de gloire que jamais, tout le monde croyait tout perdu et
+    dans ce moment là, il battait de rechef son ennemi. <persName ref="people.xml#pet01"> Pierre
+     I</persName>, après avoir été battu neuf ans de suite, gagne <rs ref="events.xml#polta01"> la
+     bataille de Poultava</rs>. Souvenez vous mon Prince de vos succès au Sud et au Nord, planez sur
+    les événements et allez de rechef à l’ennemi au lieu de me demander de nommer un autre
+    commandant à la flotte; je ne le puis dans ce moment sans donner prise sur Vous à Vos ennemis,
+    je fais trop de cas des services que vous m'avez rendu, pour ne pas Vous soutenir dans un temps
+    surtout, où Vous souffrez, à ce que Vous me dites, de corps et d’esprit. Quand tout sera réparé
+    et que Vous Vous porterez mieux, Vous serez alors le maitre de faire ce qu’il Vous plaira, et
+    mon intention assurément ne saurait être de Vous retenir contre Votre intention. Mais je Vous
+    prie et Vous conseille surtout, de Vous élever bien au dessus du commérage de la capitale. Toute
+    capitale par fondation n’a pas le sens commun. Dans très peu de temps, Vous recevrez ma décision
+    sur le plan, que Vous m’avez envoyé, et j’espère que Vous en serez content et que tout ira à
+    souhait. Ce que Vous me dites au sujet des espions, l’expérience que Vous en avez faite Vous
+    même, en envoyant à <placeName ref="places.xml#gda01"> Dantzig</placeName> un homme dont nous
+    n’avons plus entendu parler, doit vous avoir convaincu, tout comme Nous, combien peu l’on a de
+    profit de ces sortes de gens là. </p>
+   <closer><signed rend="inline">Adieu, reprenez Vos forces, et soyez assuré de ma reconnaissance.
+      <persName ref="people.xml#cat01"> Catherine.</persName></signed>
+    <dateline> ce <date when-custom="1790-07-09">9 Juillet</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

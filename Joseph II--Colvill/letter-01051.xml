@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01051</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01051</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:17:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01051">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1783-06-09">9 juin 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. C’est avec la reconnaissance dûe à l’étendue de l’amitié que V. M. I. veut
+    bien me témoigner, que j’ai fait la lecture de Sa précieuse lettre datée de <placeName
+     ref="places.xml#pet05"> Péterwardein</placeName> le 19 mai. La part que V. M. I. témoigne
+    prendre à ce qui me regarde, m’est d’autant plus agréable que, si la prise de possession de
+     la <placeName ref="places.xml#cri01">Crimée</placeName>, de l’île de <placeName
+     ref="places.xml#tam01">Taman</placeName> et du <placeName ref="places.xml#kub01">
+     Couban</placeName> se termine sans guerre, je ne pourrai jamais méconnaître à qui j’en aurai la
+    plus grande obligation. Instruite de la façon de penser de mon allié relativement aux propres
+    intérêts de sa monarchie, je suis très-disposée à y concourir de mon mieux en temps et lieu. Mes
+    sentiments vis-à-vis de V. M. I. étant fondés sur la plus haute estime, la confiance et l’amitié
+    la plus parfaite, ils ne sauraient jamais varier. Guidée d’un côté par la bonne foi avec
+    laquelle j’ai toujours rempli mes engagements, et de l’autre par la reconnaissance que je dois à
+    V. M. I., je me ferai un vrai plaisir d’aller au-devant de tout ce qui pourra intéresser Sa
+    gloire personnelle et le bien-être de Sa monarchie, dont les intérêts politiques ne sauraient
+    être en contradiction avec ceux de la <placeName ref="places.xml#rus01">Russie</placeName>. </p>
+   <closer><signed>J’ai l’honneur d’être avec la plus haute considération ...</signed></closer>
+  </body>
+ </text>
+</TEI>

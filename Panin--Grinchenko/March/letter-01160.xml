@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01160</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01160</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-19"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01160">
+        <body>
+
+            <opener><dateline><date when-custom="1767-06-01"> Июня 1 ч., 1767 г.</date><lb/> Выехавши из
+                реки <placeName ref="places.xml#kaz04">Казанки</placeName>, на галере
+                Тверь.</dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Садясь на шлюбки у <placeName ref="places.xml#kaz01">Казанской</placeName> пристани,
+                получила я Ваше письмо, от 28 Маия, сего утра. При сем прилагаю мой ответ к
+                    <persName ref="people.xml#pau01">В. Князю</persName>; радуюсь, что он здоров. О
+                новых <orgName ref="orgs.xml#barc01">Католицких Конфедерациях</orgName> я с
+                удовольствием усмотрела из письма Вашего; при сем прилагаю известныя безпутныя
+                Французския известия; естьли судить по одной строке о другой, то все наголо ложь.
+                Здесь народ по всей <placeName ref="places.xml#vol01">Волге</placeName> богат и
+                весьма сыт, и хотя цены везде высокия, но все хлеб едят, и никто не жалуется и нужду
+                не терпит. Мы все здоровы, и теперь уже щитаемся на обратном пути. </p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00733</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00733</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-24">24 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00733">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Царского Села.</placeName><date
+                            when-custom="1783-05-30">Маия 30, 1783</date></dateline></opener>
+                    
+                    <p>Письмо твое из <placeName ref="places.xml#khe01">Херсона</placeName> от 16
+                        мая я получила вчера и, по прозьбе твоей выполняя, имею тебе объявить, что я
+                        здорова, а в начале мая захворала так, что первого числа вместо гуляния
+                        пустила кровь и то лежа на постели.</p>
+                    <p>Вместе с твоим письмом получила я из <placeName ref="places.xml#vie01"
+                            >Вены</placeName> курьера с письмом от <persName ref="people.xml#jos01"
+                            >Иосифа Второго,</persName> с которого при сем копию прилагаю. Увидишь
+                        из оного, что твое пророчество, друг мой сердечный и умный, сбылось:
+                            <seg xml:lang="fr">l'appetit leur vient en mangeant.</seg></p>
+                    <p>Дай Боже, чтоб татарское или, луче сказать, крымское дело скоро кончилось. Я
+                        думаю, что менее теперь станешь мешкать, то лутче, дабы турки не успели
+                        оному наносить препятствия, какие ни на есть, буде скорее узнают, нежели
+                        зделается. А на прозьбу татар теперь не смотреть, а ногайские и так уже по
+                        письмам <persName ref="people.xml#pot02">Павла Сергеевича</persName> о
+                        подданстве заговаривают.</p>
+                    <p>Сожалею, что в <placeName ref="places.xml#khe01">Херсоне</placeName> строения
+                        военные и цивильные не таковы, как желалось. Надеюсь, что усердием все
+                        исправлено будет. У нас весь май месяц так хорош, что луче желать
+                        нельзя.</p>
+                    <p>Святова я определю в должность Генерала-кригскомиссара, а что пишешь о
+                            <persName ref="people.xml#zav01">Завадовском,</persName> то трудно
+                        разбирать: не понимаю, как от Сената да к собакам, а от собак к полководству
+                        дорога лежать может. Я на время возьму к шталмейстерской должности или
+                            <persName ref="people.xml#gol09">Князя Ник[олая] Алекс[еевича]
+                            Голицына</persName> или <persName ref="people.xml#yus01"
+                            >Юсупова.</persName>
+                        <seg xml:lang="fr">Adieu, mon Ami, portes--Vous bien.</seg> Саша
+                        тебе кланяется и сам писать будет.</p>
+                    <p>По разным представлениям получишь резолюции. Восьмое июня поеду на десять
+                        дней в <placeName ref="places.xml#fin01">Финляндию,</placeName> где в
+                            <placeName ref="places.xml#fre01">Фридрихсгаме</placeName> увижусь с
+                        Королем Шведским.</p>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

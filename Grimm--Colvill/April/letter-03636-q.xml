@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03636</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03636</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) I could not find Doubrofski, who I think is probably a courier? (2) Could not find M.
+     Wreich</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:50:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03636">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1786-07-23">23 juillet</date>.</dateline></opener>
+    <p>Vient le tour du No 70. Le tableau de Mad. <persName ref="people.xml#bea02"> de
+      Beaulieu</persName> n’est point encore arrivé, que je sache. Mais où trouverai-je ce portrait
+     du prince <persName ref="people.xml#orl01"> Orlof</persName> dont le vôtre, prêté à <persName
+      ref="people.xml#bue01"> Mad. de Bueil</persName>, était la copie; il ne peut être qu’entre le
+     mains de <rs ref="people.xml#orl03  people.xml#orl05 people.xml#orl06">ses frères</rs>, mais
+     duquel? Il y en a qui demeurent à l’entour de <placeName ref="places.xml#sar03">
+      Saratof</placeName>; les effets seront à <placeName ref="places.xml#mos01">
+     Moscou</placeName> enfermés sous clef; comment les avoir? cela prendra du temps. Il faudra le
+     copier ici; imaginez-vous quel déboire!</p>
+    <p>Saluez madame du <persName ref="people.xml#bue01"> Bueil</persName> de ma part; je suis bien
+     aise de la savoir heureuse. Quand je verrai M. de <persName ref="people.xml#seg01">
+      Ségur</persName>, je lui demanderai si M. <persName ref="people.xml#bue02"> de
+      Bueil</persName> est déjà colonel. Vous donnerez à mon filleul les noms que vous jugerez à
+     propos. M. <persName ref="people.xml#rog01"> Rogerson</persName> doit être présentement
+      en <placeName ref="places.xml#eng01"> Angleterre</placeName>.</p>
+    <p>Je suis aussi comme vous: je ne puis pas écrire longtemps de suite; mais ce n’est pas tout à
+     fait par les mêmes raisons, mais par d’autres que je ne vous dirai pas. Demain je vous parlerai
+     de la <title ref="works.xml#florar01"> Flora Russica</title>.</p>
+    <p>Ce demain de la ligne précédente a été longtemps à venir, car aujourd’hui c’est le 23 de
+     septembre. Je vous ai fait écrire la semaine passée un chiffon par <rs ref="people.xml#dmi01">
+      certain habit rouge</rs> qui écrit fort joliment en français, mais qui n’a pas voulu écrire
+     sur son propre compte quantité de folies que la maladie de la joue lui dictait; or cette
+     fluxion à la joue est passée, et je suis sortie hier, jour de mon couronnement. Ce matin sire
+      <rs ref="people.xml#bez01"> factotum</rs> m’a avertie que dans le courant de cette semaine il
+     expédie un courrier à <placeName ref="places.xml#par01"> Paris</placeName>; en attendant le
+     chiffon est parti par la voie de <persName ref="people.xml#bac01"> Bacchus
+      Gloutonewitz</persName>, et j’espère que vous mettrez la patte sur les pierres gravées et les
+     médailles du Palais Royal. NB. Achevez de lire cette lettre avant de vous en emparer. M.
+      <persName ref="people.xml#pal02"> Pallas</persName> a retenu une honnête quantité
+     d’exemplaires pour les amateurs de la <title ref="works.xml#florar01"> Flora Russica</title>,
+     mais je doute qu’elle soit mise en vente. Le trésor <persName ref="people.xml#enn01">
+      Ennery</persName>, s’il consiste en pierres gravées et médailles, doit être gobé;
+     entendez-vous, <rs ref="people.xml#gri01"> souffre-douleur</rs>, car sur mes vieux jours je
+     deviens antiquaire dans toute la valeur du terme. Les petitots seraient fort bons aussi, mais
+     puisque sire Roi s’en empare, il faudra bien lâcher prise; s’il ne s’agit que de payer
+     comptant, j’autorise sire <rs ref="people.xml#gri01"> souffre-douleur</rs> à le faire.</p>
+    <p>Je n’aime pas les dédicaces, et je ne lis point les livres d’éducation pour les filles après
+     les <title ref="works.xml#conver01"> Conversations d’Emilie</title>; c’est le non plus ultra.
+     La gratification que vous avez faite au prince <persName ref="people.xml#pot01">
+      Potemkine</persName> de l’ouvrage de Bâle, il vous l’a flanquée à la tête de l’ <rs
+      ref="people.xml#dmi01"> habit rouge</rs> dont vous ignorez le nom. Je vous ai dit tout ce que
+     j’avais à dire sur le Sr <persName ref="people.xml#led01"> Ledyar</persName>. Ce n’est point
+     moi qui ai donné le nom de <placeName ref="places.xml#pel01"> Pella</placeName> à <placeName
+      ref="places.xml#pel01"> Pella</placeName>: <placeName ref="places.xml#pel01">
+      Pella</placeName> s’appelait <placeName ref="places.xml#pel01"> Pella</placeName> avant moi,
+     en finois <placeName ref="places.xml#pel01"> Pella</placeName> signifie poussière.
+     Allez tous promener: quand vous aurez mon dictionnaire de toutes les langues, vous ferez bien
+     d’autres découvertes: cent mots sont déjà imprimés en deux cents langues; quand il y eu aura
+     cent cinquante, le premier tome in-quarto sortira.</p>
+    <p>Voilà votre No 71, auquel il faut répondre présentement. Le tarif du chevalier Miller a été
+     remis à qui il appartient. Pour l'arrêt du parlement dans l’ <name ref="events.xml#neckl01">
+      affaire du fameux collier</name>, ce n’est pas, morgué, par celui-là qu’on saura qui est
+     coupable ou innocent, <seg xml:lang="it"> ma</seg> seulement qui est puni ou absous; mais la
+     justice du parlement et de son arrêt, personne n’en sait rien. Or, nous n’aimons point de
+     justice hormis celle dont tout le monde est fait juge. Pour la dernière pièce du fameux
+     collier, on peut deviner à peu près d’où elle part. Le mémoire de M. <persName
+      ref="people.xml#mia01"> Miaczynski</persName>, en vérité, je ne le lirai pas, parce que ce
+     n’est pas moi, je crois, qui lui en dois; lui donnera l’aumône qui voudra; j’en peux distribuer
+     autour de moi. Pour M. <persName ref="people.xml#lec01"> Clerc</persName>, je suis bien aise
+     que M. de Castre lui ait fait donner publiquement sur les doigts: son histoire est comme ses
+     cartes, précisément. Dès que j’ai entendu la mésaventure arrivée à <persName
+      ref="people.xml#geo02"> George III</persName>, j’ai dit que <rs ref="people.xml#nic03"> cette
+      femme</rs> ne pouvait qu’être folle, parce qu’on n’a jamais tué personne avec un couteau de
+     poudre à lame pliante.</p>
+    <p>Me tombe sous la patte un No 73. La <title ref="works.xml#dianah01"> Diane</title> est depuis
+     ce printemps &amp; <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>; ce <placeName
+      ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> renferme bien des diableries, entre autre
+     quantité de statues jetées en fonte d’après les moules de <placeName ref="places.xml#rom03">
+      Rome</placeName>. La muse de la poésie est arrivée et se trouve à côté du lit de l’ <rs
+      ref="people.xml#dmi01"> habit rouge</rs>. Pour d’ <persName ref="people.xml#nev01"> Alexandre
+      Nevski</persName>, procession il n’y en a pas eu pour nous cette année, <seg xml:lang="de">
+      denn dabei wird einem Zeit und Weile lang, wenn man es so oft practisirt hat wie
+     ich</seg>.</p>
+    <p>A présent vient le tour de No 88. Je ne gagnerai pas à cette barre transversale que vous
+     sentez sur la poitrine dès que vous écrivez; il faut vous ménager. J’ai gagné, il y a trois
+     ans, la toux à force décrire; à présent je n’écris plus; j’ai fait dix comédies; j’en suis à
+     l’onzième, mais cela n’est pas travailler: mon salmigondis en est à la 178-me feuille in-folio,
+     mais tout cela n’est rien; c’est avec cela l’histoire de la <placeName ref="places.xml#rus01">
+      Russie</placeName> qui me faisait tousser.</p>
+    <p>Je suis bien aise du succès qu’ <persName ref="people.xml#bue01"> Emilie ou plutôt Mad. la
+      comtesse de Bueil</persName> a eu à la cour.</p>
+    <p>Demain, en dépit de vous, on jouera pour la première fois le <title ref="works.xml#siberi01">
+      Schaman de <placeName ref="places.xml#sib01"> Sibérie</placeName></title>; mais qui vous dit
+     que c’est moi qui l’ai fait? M. de <persName ref="people.xml#seg01"> Ségur</persName> s’est
+     emparé de la musique de <title ref="works.xml#feveyo01"> Fevey</title>, qui est
+     intraduisible.</p>
+    <p><persName ref="people.xml#rog01"> Rogerson</persName> doit revenir ici au mois d’octobre;
+     ainsi questionnez-le le moins que possible à son retour, crainte de le retarder.</p>
+    <p>Il ne faut pas que vous chagriniez <persName ref="people.xml#bue01"> Mad. de Bueil</persName>
+     dans son état; qu’iriez-vous faire en <placeName ref="places.xml#swi01"> Suisse</placeName>?
+     toutes vos connaissances sont à <placeName ref="places.xml#par01"> Paris</placeName>; quelle
+     idée! J’ai lu votre plaidoyer pour l’ <rs ref="people.xml#ern01"> Altesse</rs> qui m’en veut en
+     bon ligueur, mais cette <rs ref="people.xml#ern01"> Altesse</rs> a la caboche dure; à ce qu’on
+     m’a dit, ce sont les bons amis de <persName ref="people.xml#gus01"> Fr. G</persName>. <seg
+      xml:lang="de"> Gleich sucht sich und gleich findet sich</seg>.</p>
+    <p>Je croyais que vous aviez déjà fini avec <persName ref="people.xml#gil01"> Gillet</persName>,
+     mais puisque vous ne l’avez pas fait, finissez au plus vite.</p>
+    <p>Cette <name ref="events.xml#neckl01"> affaire</name> de <persName ref="people.xml#mot01">
+      Mad. de La Mothe</persName> et consorts est tout à fait dégoûtante, et a ennuyé l’<placeName
+      ref="places.xml#eur01"> Europe</placeName> pendant dix mois.</p>
+    <p>La perte de <persName ref="people.xml#bra06"> Brazinsky</persName> est irréparable; c’était
+     un homme d’esprit et de mérite; quand j’avais lu un bon livre, je le lui donnais à lire;
+     j’amais je n’ai été servie comme par cet homme-là, aussi ai je compté sa perte parmi les pertes
+     cruelles que j’ai faites. Mais je n’aime point ce que vous me dites à ce sujet; aussi
+     dispensez-moi d’y répondre.</p>
+    <p><persName ref="people.xml#zim01"> Zimmermann</persName> n’a point sauvé le <persName
+      ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">
+      Prusse</placeName></persName>: il était insauvable.</p>
+    <p>Pendant que j’écrivais ceci, est arrivé chez moi <persName ref="people.xml#qua01">
+      Quarenghi</persName> avec une couple de dessins; il m’a chargé de vous faire ses compliments,
+     et il voudrait savoir l’état de votre santé. Il a été suivi du prince <persName
+      ref="people.xml#pot01"> Potemkine</persName>, qui, voyant que je vous écris, m’a dit dans
+     l’instant: je m’en vais vous envoyer la musique de <title ref="works.xml#castor01"> Castor et
+      Pollux</title> qu’on donne aujourd’hui pour la première fois, composition de <persName
+      ref="people.xml#sar01"> Sarti</persName> ; il m’a priée de vous l’envoyer de sa part, et quand
+     il reçoit de vous une lettre, il en fait parade, il vient me la montrer pour se vanter qu’il en
+     a.</p>
+    <p>Je ne jurerai pas que l’ <rs ref="people.xml#dmi01"> habit rouge</rs> ne vous envoie quelque
+     chose aussi, s’il apprend que vous êtes un seigneur aussi fêté. Pour le jeune homme en
+     question, il est parfaitement le maître de son sort; comme il n’y a rien à faire pour les
+     militaires dans le pays pour le moment présent, il peut rester, revenir, faire ce qu’il veut;
+     s’il y avait guerre quelque part, on pourrait lui conseiller d’aller comme volontaire. Veut-il
+     voir l’<placeName ref="places.xml#eng01"> Angleterre</placeName>, à lui permis. S’il revient,
+     il fera son service jusqu’à ce que son tour vienne de sortir à l’armée. Adieu, en voilà assez
+     pour aujourd’hui.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1786-09-24">24 septembre</date>.</dateline></opener>
+    <p><title ref="works.xml#castor01"> Castor et Pollux</title> est un superbe spectacle; la
+      <persName ref="people.xml#tod01"> Todi</persName> et <persName ref="people.xml#mar16">
+      Marchesini</persName> enchantent à faire tomber en pamoison les amateurs et les connaisseurs;
+     pour les faiseurs de comédie, un grand opéra est un peu dur à la digestion. Ces faiseurs de
+     comédie font présentement des pièces historiques à l’imitation de <persName
+      ref="people.xml#sha06"> Schakespeare</persName>, que nous avons lu en allemand, traduit par
+      <persName ref="people.xml#esc02"> Eschenburg</persName>: neuf tomes sont déjà gobés; les
+     pierres gravées nous servent par-ci par-là pour le costume. Une de ces pièces historiques
+     suivra de près le <title ref="works.xml#siberi01"> Chaman</title>, qu’on jouera ce soir. Or,
+     ces imitations de <persName ref="people.xml#sha06"> Schakespeare</persName> sont très commodes,
+     parce que n’étant ni comédies, ni tragédies et n’ayant d’antres règles que celles du tact du
+     supportable pour le spectateur, je les crois susceptibles de tout; n’y a à éviter que
+     l’ennuyeux et l’insipide; les nôtres auront exactitude historique, autant qu’elle ne sera pas
+     choquante; beaucoup de spectacles, belles âmes à beaux sentiments; quand ceux-ci viendront à
+     propos, le moins de montre d’esprit de l’auteur qu’il sera possible, la majesté des sujets et
+     des situations des personnages fort intéressantes; de la première ceux qui l’ont lue et vu les
+     répétitions disent déjà qu’on la recevra comme parente à tout le monde, tant elle paraît
+     intéressante. <seg xml:lang="de"> Das ist sehr sonderlich</seg>. Vous me direz: <seg
+      xml:lang="de"> Hol der Teufel die verfluchte</seg> Comedien <seg xml:lang="de">
+     macherei</seg>; <seg xml:lang="it"> ma</seg> cela amuse, vous avez beau dire, et c’est
+     peut-être ce qu’il y a de mieux à cela.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1786-09-30">30 septembre</date>. </dateline></opener>
+    <p>Le <title ref="works.xml#siberi01"> Chaman</title> a été joué; c’est un coup de massive pour
+     les entousiastes; imaginez-vous un homme qui a passé par cent quarante grades différents;
+     pourquoi, s’il vous plait? Pour parvenir à un tel degré de béatitude intellectuelle qu’au lieu
+     de répondre aux gens qui lui parlent, il fait toutes sortes d’extravagances, il crie comme un
+     chat, il chante comme un coq, il aboie comme un chien etc. etc. etc.; il n’en est pas moins
+     maquereau et fripon pour cela; il nous a fait rire aux éclats. Notez, je vous prie, que le
+     chaman est toujours nommé par son protégé pendant la pièce cent quarante grades, <seg
+      xml:lang="de"> hundert vierzig würdiger</seg>, comme en dirait votre excellence, et qu’en
+     l’attrapant sur le fait, il ne peut s’empêcher de lui dire <seg xml:lang="de"> hundert vierzig
+      würdiger, ist das wohl deine Sache zu thun</seg>?</p>
+    <p>Ce matin j’ai reçu votre No 72, donné au Sr Doubrofski. Je trouve que M. Wreich est
+     diablement cher: il demande de ses vingt-quatre pierres ce que j’ai donné des deux cent
+     cinquante du lord <persName ref="people.xml#per02"> Algernoon Percy</persName>, qui sont toutes
+     merveilleusement belles, tandis que les soufres envoyés ne sont pas tous également beaux.</p>
+    <p>Ce qu’il y a de singulier dans le sort d’<persName ref="people.xml#her06"> Hérode</persName>,
+     c’est que sur la place il n’a été regretté que de sa seule femme qu’il n’aimait pas; celle-là
+     l’a pleuré véritablement. <seg xml:lang="de"> Das ist doch auch wunderlich</seg>. L’on dirait
+     qu’il n’inspirait pas de grande tendresse, ma c’était une grande paire de manches, lorsqu’il
+     n’était ni petit ni mesquin.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1786-10-04">4 d’octobre</date>.</dateline></opener>
+    <p>Je viens de lire dans la gazette de <placeName ref="places.xml#ber01">
+      Berlin</placeName> <seg xml:lang="de"> Fr. W. der Bewunderte</seg>. Voudriez-vous bien avoir
+     la bonté de me dire, en quoi? J’ai vu les commencements de cet autre: sti-là évitait flatterie
+     et forfanterie; sais-tu pourquoi? Parce que nous étions pétris de jugement. A bon entendeur
+     salut!</p>
+   </div>
+   <div>
+    <opener><dateline> 26 Се <date when-custom="1786-10-05">5 d’octobre</date>. </dateline></opener>
+    <p>J’ai l’honneur de vous envoyer une carte des environs de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName>; vous chercherez <placeName ref="places.xml#pel01"> Pella</placeName>
+     au-dessus de la rivière; vis-à-vis de <placeName ref="places.xml#pel01"> Pella</placeName> vous
+     trouverez Ostrovki maison de campagne ou plutôt terre du <persName ref="people.xml#pot01"> pr.
+      Potemkine</persName>, endroit charmant, et tout près de <placeName ref="places.xml#pel02">
+      Pella Petrouschkina</placeName>, terre du gr. écuyer <persName ref="people.xml#nar02">
+      Narischkine</persName>; or, quand je vais à <placeName ref="places.xml#pel01">
+      Pella</placeName>, on fait toujours tapage dans ces deux endroits, qui sont précisément sur
+     les cataractes de la <placeName ref="places.xml#nev01"> Néva</placeName>. Quand vous lirez sur
+     la carte Sophie, sachez que cette nouvelle ville est en face du jardin de <placeName
+      ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> ou plutôt du lac; mais pour vous rendre tout
+     cela plus clair, je vous fais don d’un plan de <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo</placeName>, ou même de deux, afin que vous n’en manquiez pas, mais toutes mes
+     maisons de campagne ne sont que chaumières en comparaison de <placeName ref="places.xml#pel01">
+      Pella</placeName>, qui s’élève comme un phénix.</p>
+    <p>Après avoir écrit cela, j’ai reçu par Bacchus votre lettre du 10 (21) septembre au sujet des
+     pierres gravées du duc <persName ref="people.xml#orl07"> d’Orléans</persName>; d’où voulez-vous
+     qu’un brocanteur comme <persName ref="people.xml#mil04"> Miliotti</persName> prenne quatre cent
+     mille livres? Ce sont des juiveries inventées pour que j’en offre plus; or, je vous ai écrit de
+     n’en offrir pas au-delà de quarante mille roubles; sinon, je n’en veux pas, et les emportera
+     qui voudra. Je crois que le régent se retournera dans son cercueil quand il apprendra que ce
+     qu’il a amassé se dissipe, Dieu sait pourquoi et comment.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

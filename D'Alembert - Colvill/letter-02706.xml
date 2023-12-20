@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02706</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02706</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:15:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02706">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, ce <date
+      when-custom="1772-11-20">20 novembre 1772</date>.</dateline></opener>
+   <p>Monsieur, j’ai reçu la belle lettre que vous avez jugé à propos de m’écrire, du 30 d’octobre,
+    au sujet de <rs
+     ref="people.xml#gal07 people.xml#mal04 people.xml#cho09 people.xml#sai01 people.xml#don05 
+     people.xml#val01 people.xml#del03"
+     > vos compatriotes prisonniers</rs> de guerre dans mes États, et
+    que vous réclamez au nom de la philosophie et des philosophes. On vous les a représentés,
+    enchaînés, gémissant et manquant de tout au fond de la <placeName ref="places.xml#sib01">Sibérie</placeName>. Eh bien !
+    monsieur, rassurez-vous et <rs ref="people.xml#gal07 people.xml#mal04 people.xml#cho09 people.xml#sai01 people.xml#don05 
+     people.xml#val01 people.xml#del03">vos amis</rs> aussi, et apprenez que rien de tout
+    cela n’existe. Les prisonniers de votre nation, faits dans différents endroits de la <placeName
+     ref="places.xml#pol01">Pologne</placeName>, où ils fomentoient et entretenoient les
+    dissensions, sont à <placeName ref="places.xml#kie01"> Kiovie</placeName>, où ils jouissent, de
+    leur propre aveu, d’un état supportable. Ils sont en pleine correspondance avec M. <persName
+     ref="people.xml#dur01"> Durand</persName>, envoyé du <rs ref="people.xml#lou15"> roi</rs>
+     de <placeName ref="places.xml#fra01">France</placeName> à ma cour, et avec leurs parons. J’ai
+    vu une lettre d’un M. <persName ref="people.xml#gal07"> Galibert</persName>, qui est parmi eux,
+    par laquelle il se loue des bons procédés du gouvernement général de <placeName
+     ref="places.xml#kie01"> Kiovie</placeName>, etc. Voilà pour le moment tout ce que je puis vous
+    dire d’eux. Accoutumée à voir répandre par le monde les traits de la plus noire calomnie, je
+    n’ai point été étonnée de celle-ci; une même source peut les avoir produites, aussi ce n’est pas
+    de cela que je m’embarrasse, j’en suis bien consolée par tout ce que vous me dites de flatteur
+    de la part des gens éclairés de votre <rs ref="places.xml#fra01"> Patrie</rs>, à la tête
+    desquels vous vous trouvez.</p>
+   <p>Soyez assuré, monsieur, de la continuation de tous les sentimens que vous me connoissez
+    [depuis si longtemps].</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00064</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00064</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                    <term target="kw.xml#reading"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-29">29 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Additional markup, annotations, and translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00064">
+                <body>
+                    
+                    <p>Был доктор <persName ref="people.xml#the01">Тейльс</persName>, котораго дети
+                        и внуки у нас и ныне. Сей, быв в <placeName ref="places.xml#ist01"
+                            >Царьграде</placeName> в 1716 г. и до того у <rs ref="people.xml#col01"
+                            >Голандскаго посла</rs>, вел негоциации <persName ref="people.xml#pet01"
+                            >Петра I</persName>, когда <persName ref="people.xml#sha01"
+                            >Шафиров</persName> и <persName ref="people.xml#tol01"
+                            >Толстой</persName> сидели в <placeName ref="places.xml#yed01">семи
+                            башнях</placeName>. После того сей <persName ref="people.xml#the01"
+                            >Тейльс</persName> обнародовал на французском языке в малой <rs
+                            ref="works.xml#memoir01">книжке</rs> свои негоциации. Сия <rs
+                            ref="works.xml#memoir01">книжка</rs> в моей вивлиофике была, но не знаю,
+                        не отдала ли я ее графу <persName ref="people.xml#bez01"
+                            >Безбородку</persName>. Прошу ее отыскать. Буде отъищите, отдайте ее на
+                        прочтение графу <persName ref="people.xml#seg01">Сегюру</persName>.<note
+                            type="editorial">Khrapovitsky noted in his diary on 7 January 1789:
+                            'Показывали, что во вчерашний день прочтена половина книги доктора
+                            Тейлса. Тут невыгодна негоциация Петра I-го: c'est la nécessité des
+                            circonstances' ('[She] showed me that yesterday she read half of doctor
+                            Theyls's book. Peter I's negotiation is not advantageous here: it is the
+                            necessity of the circumstances'). On 10 January, he noted: 'Читают
+                            Тейлса, и взнесены книги о разных негоциациях, по отметке в каталоге
+                            Вейтбрехта' ('She is reading Theyls, and books about various
+                            negotiations have been brought in according to <ref
+                                target="people.xml#wei01">Weitbrecht</ref>'s catalogue'); on 11
+                            January, 'Отданы для сообщения Гр. Сегюру на прочтение: 'Mémoires pour
+                            servir à l'histoire de Charles XII', par W. Theyls; à Leyde. 1722, и
+                            приказано отыскать, в библиотеке, посольства: de Mr. du Frêne Canaye, du
+                            Prèsident [sic] Jeannin, de Mr d'Angoulème [sic], de Bassompièrre [sic],
+                            du Cardinal du Perron, du Cardinal d'Ossat, de Paul de Foix, de Mr.
+                            d'Estrade, de Montluc, et de Villeroi.--Je suis à présent dans la
+                            politique, никогда за эти книги не принималась' ('She gave me the
+                            'Memoirs to serve for the history of Charles XII', by W. Theyls; Leiden,
+                            1722, and ordered me to find in the library the embassies of Mr. du
+                            Frêne Canaye, the President Jeannin, d'Angloulème, Bassompièrre, the
+                            Cardinal du Perron, the Cardinal d'Ossat, Paul de Foix, d'Estrade,
+                            Montluc, and Villeroi.--I am now in politics [diplomacy], I never before
+                            taken up these books'). (<bibl><title ref="works.xml#dnevni01">Dnevnik
+                                    A.V. Khrapovitskago 1782-1793</title>, <biblScope unit="pp">pp.
+                                    229, 231-32,</biblScope></bibl>). Another note to Khrapovitsky,
+                            also dated 6 January 1789, bears the laconic indication: 'Об отсылке к
+                            гр. Сегюру книги доктора Тейльса' ('About sending doctor Theyls's book
+                            to Count Ségur') (<bibl><title level="a" ref="works.xml#sobstv01"
+                                    >'Sobstvennoruchnyya pisma i zapiski Imperatritsy Ekateriny II-i
+                                    k A.V. Khrapovitskomu, 1783-1793'</title>, <biblScope unit="pp"
+                                    >column 2085</biblScope></bibl>). In the Treaty of Pruth, Peter
+                            I was forced to surrender his claims to lands conquered from the
+                            Ottomans (Azov) and to domination in Poland, in the face of war against
+                            both the Ottoman Empire and Sweden. Catherine could not have missed the
+                            parallel with her own situation: at this time she faced war against the
+                            Ottomans and the Swedes, while the Prussians were stirring up opposition
+                            to Russia in Poland. In true eighteenth-century style, she turned to
+                            past examples to help her find her way in this difficult diplomatic
+                            situation. Ségur at the time was negotiating (unsuccessfully) a four-way
+                            alliance between Russia, Austria, France, and Spain, and enjoying close
+                            converse with the empress.</note></p>
+                    <closer><dateline><date when-custom="1789-01-06">6 Генваря
+                            1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <p>There was a Doctor Theyls, whose children and grandchildren still live here.
+                        This man, being in Tsargrad [Istanbul] in 1716 and before that with the
+                        Dutch ambassador, carried on Peter I's negotiations when Shafirov and
+                        Tolstoy were imprisoned in the seven towers. Afterward this Theyls published
+                        his negotiations in French in a little book. This little book was in my
+                        library, but I do not know if I gave it to Count Bezborodko. Please find it.
+                        If you find it, give it to Count Ségur to read.</p>
+                    <closer><dateline><date when-custom="1789-01-06">6 January
+                            1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

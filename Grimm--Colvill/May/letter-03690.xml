@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03690</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03690</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-04">04-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:59:09Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03690">
+  <body>
+   <div>
+    <dateline> Ce <date when-custom="1794-03-31">31 mars</date>.</dateline>
+    <p>Voilà les canons de la forteresse qui ronflent au moment où je prends la plume pour annoncer
+     qu’elle se trouve débarrassée des glaces de la <placeName ref="places.xml#nev01">
+      Néva</placeName>, qui vient d’ouvrir la navigation de cette année, où nous n’avons presque pas
+     eu d’hiver, ni de neige à soixante-dix verstes à l’entour de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName>. M. de <persName ref="people.xml#lam03"> Lambert</persName> est
+     arrivé, il y a près de quinze jours, et m’a fait remettre la lettre dont vous l’aviez chargé.
+     Je n’ai fait encore que le voir deux fois, mais incessamment je m’en vais faire sa connaissance
+     plus particulière. Les tableaux qu’il a apportés sont bien agréables. En voyez-moi, je vous
+     prie, encore deux exemplaires du <title ref="works.xml#bilder01" xml:lang="de"
+      >Bilderbuch</title> de <persName ref="people.xml#ber08"> Bertuch</persName>, et faites-moi
+     savoir ce qu’ils coûteront. Vous me dites que vous vengerez un jour <persName
+      ref="people.xml#vol01"> Voltaire</persName> de l’imputation qu’il a contribué à préparer la
+     révolution et que vous en indiquerez les vraie auteurs. Je vous prie, nommez-les moi, et
+     dites-moi ce que vous en savez.</p>
+   </div>
+   <div>
+    <opener><dateline> Се <date when-custom="1794-03-31">31 mars</date>
+     après-dîner.</dateline></opener>
+    <p>Je m’en vas répondre à votre No 71 du premier janvier. Je ne sais ce que c’est que l’entrée
+     de M. <persName ref="people.xml#kot01"> Koutouzof</persName>, ambassadeur, à <placeName
+      ref="places.xml#ist01"> Constantinople</placeName>, ni sa fête le jour de mon nom: qui est-ce
+     qui lit les entrées et les fêtes, excepté vous, dans les gazettes? Mais je crois, à ne pas m’y
+     méprendre, que dès la sortie de sa dite excellence et son échange avec le vilain marabout qui a
+     été ici, vous lirez la déclaration de guerre de sultan <persName ref="people.xml#sel01">
+      Sélim</persName> contre moi ou peut- être contre les deux empires ensemble dans cette même
+     gazette; le moment où <persName ref="people.xml#kos01"> Kostiouchka</persName> et <persName
+      ref="people.xml#mad01"> Madalinski</persName> on levé en <placeName ref="places.xml#pol01">
+      Pologne</placeName> l’étendard de la <name ref="events.xml#kosci01"> révolte</name> dans
+     toute la pureté jacobine et où une potence est élevée à <placeName ref="places.xml#kra01">
+      Cracovie</placeName> pour pendre tous ceux qui penseront autrement, paraîtra favorable à la
+      <placeName ref="places.xml#ott01"> Sublime Porte.</placeName></p>
+   </div>
+  </body>
+ </text>
+</TEI>

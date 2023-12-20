@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>letter-04753</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>CatCor Project</authority>
+        <idno type="CatCor">letter-04753</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note type="enclosure">Nb. inclusion - gift of a nightingale. </note>
+      </notesStmt>
+      <sourceDesc>
+        <p>Converted from a Word document</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="letterType">
+          <term target="kw.xml#note"/>
+        </keywords>
+        <keywords n="foreignPolicy">
+          <term target="kw.xml#turkey"/>
+        </keywords>
+        <keywords n="culture">
+          <term target="kw.xml#sculpture"/>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="fr">French</language>
+      </langUsage>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Not sure of context surrounding 'Mylord Karaman Pacha' and who exactly this refers as
+          numerous different pashas in the people list. Kelsey: leave for future research. Have
+          changed code to kar06 to eliminate duplicate code.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change><date when="2021-02-18">18/02/2021</date><persName>Gabriel
+          O'Regan</persName><label>Initial markup</label></change>
+      <change><date>2021-02-20T17:31:14Z</date><name>Microsoft Office User</name></change>
+      <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion
+          to xml and checking</label></change>
+      <change><date when="2021-05-12">12/05/2021</date><persName>Kelsey
+          Rubin-Detlev</persName><label>Markup corrected. Annotations added.</label></change>
+    </revisionDesc>
+  </teiHeader>
+  <text type="letter" xml:lang="fr" xml:id="letter-04753">
+    <body>
+
+      <p> Le plus important pour vous, pour moi et pour votre ouvrage est qu’on vous laisse en
+        repos, et par conséquent, vous n’aurez point d’élève; si on m’en a parlé, je l’ai oublié
+        parfaitement.</p>
+      <p> Je rumine présentement jusqu’ici en vain, sur ce que j’enverrai à M-r <persName
+          ref="people.xml#col03"> Collin</persName>; mais difficilement je trouverai quelque chose
+        qui puisse lui faire le plaisir que lui a fait le <rs ref="works.xml#pygmal01">
+          Pygmalion</rs>, et dès lors mon présent deviendra insipide: cependant nous aviserons.<note
+          type="editorial">Falconet had given a terra-cotta model of his "Pygmalion and Galatea" to
+          Collin, but Catherine wanted it so much that, with Diderot's help, Collin was induced to
+          give it to her.</note></p>
+      <p>L’oeil droit et l’oeil gauche de <rs ref="works.xml#pierre01">Pierre le grand</rs> m’ont
+        bien fait rire, cela passe la bêtise.<note type="editorial">Catherine alludes to an essay by
+          a certain Bilistein, who criticised Falconet's design for the Bronze Horseman.</note></p>
+      <p>
+        <persName ref="people.xml#kar06"> Mylord Karaman Pacha</persName> doit être mort sans
+          faute.<note type="editorial">Catherine alludes to the campaigns near Khotyn in April
+          1769.</note> Hier encore, on m’a apporté son sabre, or vous savez qu’on n’achète point au
+        marché de <placeName ref="places.xml#pet01"> Pétersbourg</placeName> trois queues de cheval,
+        un bâton de commandement turc et le sabre d’un pacha, raison ce semble convaincante pour
+        ceux qui s’efforcent de s’imaginer que tous nos succès ne sont que des contes faits à
+        plaisir, mais c’est qu’on juge les hommes d’après soi-même: on nous fait battre par nos
+        ennemis tant de fois sur le papier, qu’on peut supposer que nous inventons aussi. Cependant,
+        les queues etc. sont à <rs ref="places.xml#pie01"> l’église de la Forteresse</rs>. Le
+        Rossignol qui n’est pas enrhumé, accompagne cette lettre: il faut l’attacher en dehors de la
+        maison, car personne ne pourra endurer son chant dans un appartement; priez Mad. <persName
+          ref="people.xml#col02"> Collot</persName> d’avoir des bontés pous ce petit sauvage.</p>
+      <closer><address>
+          <addrLine>à Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.</addrLine>
+        </address></closer>
+    </body>
+  </text>
+</TEI>

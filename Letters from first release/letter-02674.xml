@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02674</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02674</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-07">07 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02674">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1773-10-13">ce 13 d'Octobre 1773</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Au moment du départ de <rs ref="people.xml#kar01">Madame la Landgrave</rs>,
+                        je sens mieux que jamais combien les qualités distinguées de cette Princesse
+                        inspirent de l'attachement et de l'amitié. Je ne saurais déposer mes regrets
+                        sur Son départ entre les mains d'un Ami plus sûr et plus éprouvé que l'est
+                        Votre Majesté. <rs ref="people.xml#kar01">Madame la Landgrave</rs> a été
+                        témoin pendant quatre mois de mes sentiments pour Votre Majesté, je m'en
+                        remets à la sincérité et à la candeur de son caractère, du témoignage
+                        qu'elle en portera a Votre Majesté, et j'espère et me flatte que cette
+                        princesse contribuera autant de bouche que par les liens dont elle nous est
+                        apparentée à resserrer de plus en plus l'amitié et l'union qui heureusement
+                        subsistent entre nous. </p>
+                    <closer>
+                        <signed>Je suis avec la plus haute considération et l'estime la mieux fondée
+                            parce qu'elle a pour base les grandes qualités de Votre Majesté,
+                            Monsieur mon Frère, de Votre Majesté la bonne Soeur et fidèle Amie et
+                            Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

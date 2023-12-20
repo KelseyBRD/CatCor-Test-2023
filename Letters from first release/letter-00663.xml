@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00663</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00663</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00663">
+                <body>
+                    
+                    <opener><salute rend="inline" xml:lang="fr">Mon Ami,,</salute></opener>
+                    <p xml:lang="fr">il fait si froid ici, que j'ai pris la resolution de
+                            m'en aller demain ou ce soir a Czarsko Celo.</p>
+                    <p>Слышу я, батинька, что ты живешь в лагерь. Весьма опасаюсь, что
+                        простуди[шь]ся. Пожалуй к нам в покой: каков ни есть -- суше и теплее,
+                        нежели в палатке. Мне кажется год, как тебя не видала. Ay, ay, сокол мой
+                        дорогой. Позволь себя вабить.Давно и долго ты очень на отлете.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

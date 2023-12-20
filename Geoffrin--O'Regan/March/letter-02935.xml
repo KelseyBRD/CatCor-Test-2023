@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02935</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02935</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:33:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-26">26/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Query resolved, markup corrected.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02935">
+  <body>
+
+   <p>Levés Vous Madame, je n’aime point les prosternations, je les ai defendue, demandéz au Prince
+     <persName ref="people.xml#gol03"> Gallitzin</persName> ce que s’est chès nous, il Vous
+    expliquera ce point, je n’ai aucune rancune depuis que Vous me dites que Vous m’aimés, mais Vous
+    avéz tort de me croire bien aimable je ne suis rien moins que cela surtout depuis qu’on me
+    tracasse du matin jusqu’au soir, les meilleurs moments sont ceux ou nous lisons avec Votre cher
+     <rs ref="people.xml#bet01"> General</rs> et encore nous interrompt-on souvent, je Vous assure
+    que s’est un penible et rude metier que d’etre ce que je suis. Vous dirai qu’est ce que cela me
+    fait, et qu’elle réponse à mon billet? Vous dirés tout ce qui Vous plaira, mais s’est la
+    plenitude du coeur qui parle et l’estime qui dicte. </p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02915</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02915</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-06">06/04/2021</date><persName>Olga Smolyak</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:29:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02915">
+  <body>
+
+   <salute rend="inline"> Граф <persName ref="people.xml#orl03">Алексей
+    Григорьевич</persName>. </salute>
+   <p>Письмо ваше, от 30 июля, сей час до рук Моих доставлено. Из онаго вижу, что табакерка, Мною к
+    вам посланная, вас обрадовала; того Мне и хотелось. Касательно лошадей для <persName
+     ref="people.xml#ale01"> внуков </persName><persName ref="people.xml#kon01">Моих</persName> тебе скажу, что <persName
+     ref="people.xml#ale01"> старшему</persName> верховая хороших статей да доброезжая весьма
+    приятна быть может, а <persName ref="people.xml#kon01"> молодшему</persName> — либо таковая ж,
+    либо санник, которым сам правитъ удобно, весьма непротивен будет; но Я притом прошу головоломных
+    не присылать, дабы не подавать случай к неприятным происшествиям. Графу <persName
+     ref="people.xml#orl05"> Федору Григорьевичу</persName> кланяюсь, пребывая непременно
+    доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed></closer>
+  <postscript> <p>Желаемаго табаку, выращеннаго в Моем саду, банку посылаю. </p></postscript>
+   <closer><dateline> <date when-custom="1775-08-05">Августа 5 ч. 1795 года</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00855</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00855</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2017-06-25">25 June 2017</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00855">
+                <body>
+                    <opener><salute rend="inline">Друг мой любезный.</salute>
+                    </opener>
+                    <p>Сего утра я получила чрез <persName ref="people.xml#apr02">Графа
+                            Апраксина</persName> твои письмы, коими меня уведомляешь, что Всевышний
+                        даровал нам победу, что флот капитана-паши гребною флотилиею разбит; шесть
+                        кораблей линейных созжены, два посажены на мель, а тридцать судов разбитых
+                        спаслись под своею крепостию; что капитан-пашинский и вице-адмиральский
+                        корабли истреблены и более трех тысяч в плен нам попались, и что батареи
+                            <persName ref="people.xml#suv01">Генерала Суворова</persName> много
+                        вреда зделали неприятелю. Сему я весьма обрадовалась. Великая милость Божия,
+                        что дозволил чудесно гребными судами победить военные корабли. Ты получишь
+                        рескрипт, в котором написаны награждения. <persName ref="people.xml#nas01"
+                            >Нассау</persName> даю три тысячи душ, <persName ref="people.xml#ale05"
+                            >Алексиано</persName> - шестьсот, и кресты посланы. Тебя, моего друга,
+                        благодарю за твои труды и попечения, и да поможет тебе сам Бог. С
+                        нетерпением будем ждать подробностей всего сего и прошу всем сказать от меня
+                        величайшее спасибо.</p>
+                    <p>Отселе получишь незабавные вести: шведы атаковали <placeName
+                            ref="places.xml#sav01">Нейшлот,</placeName> в котором две роты егерей, а
+                        война не объявлена. <seg xml:lang="fr">Cela s'appelle agir en
+                            forban.</seg> Мы со всех сторон войски собираем. На другой день
+                        праздника поеду в город и тамо буду жить, чтоб людей ободрить, хотя и духи
+                        не упали; однако все войски идут. <seg xml:lang="fr">Rira bien qui rira
+                            le dernier; la justice, la raison et la verite sont de notre
+                            cote.</seg></p>
+                    <p>Сейчас подписала к <persName ref="people.xml#gre01">Грейгу</persName>
+                        приказание шведский флот искать и стараться его атаковать и разбить, естьли
+                        Бог поможет. Я б желала, друг мой, чтоб тебе дать могла отселе скорее добрые
+                        вести, я знаю, что ты ими бы был обрадован, как сама я. А с вашей победою
+                        Вас от всего сердца поздравляю. Даруй тебе Боже <placeName
+                            ref="places.xml#och01">Очаков</placeName> взять без потери всякой, и
+                        будь здоров. Отселе теперь и думать нельзя, чтоб единого матроза тронуть.
+                        Нельзя ли тебе пленных греков употребить, а как здесь пооглядимся, тогда,
+                        что можно будет, того пришлем. Но на сей стороне все в дело употреблено.</p>
+                    <closer><signed rend="inline">Прощай, мой друг, Бог да поможет нам.</signed>
+                        <dateline rend="below"><date when-custom="1788-06-26">Июня 26 ч., 1788
+                            г.</date></dateline></closer>
+                        <postscript><p rend="below"><persName ref="people.xml#apr02">Графа
+                                Апраксина</persName> я произвела в капитан-поручики гвардии
+                            Преображ[енского] полка и дала ему табакерку и пятьсот червонных.</p></postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

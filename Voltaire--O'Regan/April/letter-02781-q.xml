@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02781</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02781</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of reference to Brandenburg consul at
+     Cadiz.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:34:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02781">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#mos01"> Moscow</placeName> ce <date when-custom="1775-07-23">23 Juillet 1775</date></dateline></opener>
+   <p>Monsieur, Votre portrait peint par <persName ref="people.xml#bar07">
+      Barrat</persName> ou tel autre sera le très bien venu, pourvu qu'il soit
+     ressemblant, je le plaçerai non dans un coin mais dans mon palais de <placeName ref="places.xml#tsa01">
+      Carscoçelo</placeName>, vis à vis de Votre buste. Je suis fâché que le peintre <persName ref="people.xml#bar07">
+     Barrat</persName> ayant fini Votre portrait n'aye pas eu le tems de tomber ici pendant les
+    fêtes de la paix, la façilité de son pinçeau auroit eu dequoi s'exerçer, et particulièrement
+    mardi passé l'occasion en étoit belle. Pour doner une Cocagne au peuple on a choisi une plaine
+    assés étenduë à laquelle on a imposée le nom de <placeName ref="places.xml#bla01"> mer Noire</placeName> et
+    qu'on avoit couverte de Vaisseau, on y arrivoit par deux chemin qu'on avoit nomé l'un le
+     <placeName ref="places.xml#tan01"> Tanais</placeName> ou <placeName ref="places.xml#don01"> Don</placeName>, l'autre le
+     <placeName ref="places.xml#dni03"> Boristene</placeName> ou <placeName ref="places.xml#dni03"> Dneper</placeName>. Ses
+    deux chemin étoit orné de différentes vuë de matairies, Villages, moulins etc: Je Vous envoye un
+    plan de la plaçe, en suivant la carte géographique. Sur des petites colines qui dominent cette
+    plaine on a élevé des salles de bal qu'on a intitulée <placeName ref="places.xml#ker01"> Kertch</placeName>
+    et <placeName ref="places.xml#jen01"> Jenicala</placeName>, La salle du banquet s'appelle
+     <placeName ref="places.xml#azo01"> Azoph</placeName>. A <placeName ref="places.xml#tag01"> Tangarok</placeName> on a
+    établi une foire, <placeName ref="places.xml#kin01"> Kinbourn</placeName> est un vaste Théâtre, le feu
+    d'Artifice est placé au delà du <placeName ref="places.xml#dan01"> Danube</placeName>. Les Cocagnes, fontaines de vins, escarpoletes, danseurs de
+    cordes et autres divertissemens du peuple sont placées là où les Tartares Nogai campent
+    ordinairement. Le reste de la place a été orné d'illuminations et de bâtimens servant de cuisine
+    et pour d'autres usages pour que soixante à cent mille persones puissent trouver tout ce qui
+    leur faut pendant dix à douze heures. Hébien Monsieur tout s'est passé par le plus beau tems du
+    monde sans confusion et avec la plus grande guayeté, pas le moindre petit désastre n'a troublé
+    cette fête j'ose dire charmante. J'aurai voulu y danser avec Vous Monsieur et je suis sûre que
+    Vous l'auriés honorés de Votre suffrage. Je n'ai point de nouvelle encore de la mort de mon
+    Consul à <placeName ref="places.xml#cad01"> Cadix</placeName> qui s'appelle Brandebourg. Dès que la nouvelle
+    m'en parviendra je verrai ce que je pourrai faire pour <persName ref="people.xml#pet07"> Jean Louis
+     Pettremand</persName>, Votre protégé.</p>
+   <signed>Soyés assuré Monsieur de la considération et de l'estime sans fin que j'ai
+    toujour pour Vous.
+   <persName ref="people.xml#cat01"> Caterine</persName></signed>
+  </body>
+ </text>
+</TEI>

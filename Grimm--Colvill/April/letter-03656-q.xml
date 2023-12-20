@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03656</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03656</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not locate Zelenzug or Kefit.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:52:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03656">
+  <body>
+
+   <p>Monsieur le chevallier <rs ref="people.xml#gri01"> souffre-douleur</rs>, puisque vous désirez
+    d’être instruit des faits de <name ref="events.xml#turki02"> guerre</name> qui se sont passés et
+    de ceux qui existeront, j’ai l’honneur de vous faire part que le 13 d’octobre le général en chef
+     <persName ref="people.xml#tek01"> Tekeli</persName> avec son corps de troupes passa en quatre
+    colonnes la rivière <placeName ref="places.xml#kub01"> Kouban</placeName> et qu’il chassa devant
+    lui, le long des rivières <placeName ref="places.xml#lab02"> Laba</placeName>, Zelenzug, Kefit
+    et <placeName ref="places.xml#uru01"> Ouroup</placeName>, les <orgName ref="orgs.xml#tart01">
+     Tatares</orgName> des différentes hordes qui habitent ces contrées et dont une partie s’était
+    rassemblée sous l’<persName ref="people.xml#man04"> iman Mansour</persName> dont
+    la <placeName ref="places.xml#ott01"> Porte</placeName> a fait son instrument encore avant la rupture de la paix. Tout cela a été
+    étrillé, chassé, dispersé, tué ou pris; le butin de nos cosaques doit être immense; ils ont fait
+    quelques milliers de prisonniers; tout le reste a fait soumission et a envoyé des députés;
+    d’autres ont donné des otages pour rester tranquilles. En un mot, depuis le <placeName
+     ref="places.xml#kub01"> Kouban</placeName> jusqu’aux montagnes du <placeName
+     ref="places.xml#cau02"> Caucase</placeName> la chasse a été complète: <persName
+     ref="people.xml#man04"> Iman Mansour</persName> lui-même ayant tout perdu, s’est sauvé vers
+     <placeName ref="places.xml#sud01"> Soudjak</placeName>. Voilà tout ce dont j’ai à faire part à
+    votre excellence pour cette fois-ci. Jamais vous ne croiriez si je vous disais qu’à cette
+    expédition nous n’avons eu de tués que 7 hommes, de blessés que 19 ; cependant c’est un fait
+    qu’on peut prouver papier sur table. </p>
+   <closer><signed rend="inline">Adieu, j’ai l’honneur de me recommander à vos ultérieures bonnes grâces,
+    comme dit parfaitement bien <rs ref="people.xml#rei03"> le divin</rs> de <placeName ref="places.xml#rom03"> Rome</placeName>. <rs
+     ref="people.xml#dmi01"> L’habit rouge</rs> grave un camée après avoir achevé un intaglio; c’est
+    étonnant ce qu’il fait.</signed>
+   <dateline> Ce <date when-custom="1787-12-11">11 décembre 1787</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

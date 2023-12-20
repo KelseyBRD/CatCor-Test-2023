@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02961</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02961</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrebellion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-17">17/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:00:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02961">
+  <body>
+  
+   <opener><dateline>Ce <date when-custom="1774-10-24">24 d’octobre 1774</date></dateline></opener>
+   <p>Ah! voilà ce que c’est de se préparer pour l’entrée à <placeName ref="places.xml#par01">Paris</placeName>; je vois par votre
+    №7, monsieur le philosophe, que vous vous rapprochez de vos foyers: ce № 7 est plus court que
+    les autres six, et votre première lettre de <placeName ref="places.xml#par01">Paris</placeName> ne sera qu’un billet d’annonce,
+    qui me dira que vous êtes arrivé. Je vous en félicite d’avance et vous remercie très humblement
+    du magnifique jeu d’onchets que vous avez eu la bonté de m’envoyer par ma <rs
+     ref="people.xml#wil01"> belle-fille</rs>, mais en décachetant cette merveille, j’ai eu la
+    maladresse de déchirer le billet des lois du jeu d’onchets, mais je m’en console, parce qu il en
+    existe un second sous le même toit, dont je prendrai copie; ainsi vous pouvez vous dispenser de
+    l’attention de m’en envoyer un second.</p>
+   <p>J’ai le bonheur de posséder un exemplaire d’une nouvelle édition, à ce qu’il me paraît, du <title ref="works.xml#boehem01"> «Petit prophète de Böhmischbroda»</title>, mais je ne l’ai
+    qu’entrevu, car <persName ref="people.xml#pot01"> M. Potemkine</persName> s’en est emparé dans
+    un clin d’oeil; c’est un reste de coutume qu’il a conservé de la petite guerre qu’il a faite
+    pendant six ans si heureusement pour l’état, sans jamais s’enrichir, et laissant toujours sa
+    part aux troupes. Cette petite guerre ne réussit pas à tout le monde et dans tous les cas, comme
+    vous le savez, car voilà monsieur le marquis <persName ref="people.xml#pug01">Pougatchef</persName> qui est en chemin de
+     <placeName ref="places.xml#uly01"> Simbirsk</placeName> à <placeName ref="places.xml#mos01">Moscou</placeName>, lié, garrotté et
+    soigné comme un ours, pour être pendu dans cette capitale. Cet honnête coquin apparemment n’a
+    pas beaucoup de jugement, puisqu’il se flatte que peut-être il pourrait obtenir grâce ou bien
+    aussi , l’homme ne peut vivre sans espérer ou se flatter. J’irai à <placeName ref="places.xml#mos01">Moscou</placeName> à la
+    suite de la cour entre le 15 décembre et le 15 janvier; or, difficilement pourrez-vous deviner
+    mes allures là-bas, et je vous conseille aussi de ne pas vous casser la tête à cela, mais de cheminer par
+    <placeName ref="places.xml#par01">Paris</placeName> avec la dignité convenable à un philosophe.</p>
+   <p>Je finis cette belle lettre, parce qu’il ne serait pas de la mienne de vous faire une lettre
+    plus ample que n’est la vôtre, mais pour votre consolation je vous dirai que les ambassadeurs,
+    celui de la <placeName ref="places.xml#ott01">Porte</placeName> et celui de la <placeName ref="places.xml#rus01">Russie</placeName>, sont nommés:
+    la <placeName ref="places.xml#ott01">Porte</placeName> envoie un <rs ref="people.xml#abd04"> beglerbey</rs> de Romélie, bacha à
+    trois queues et homme à grande barbe, et la <placeName ref="places.xml#rus01">Russie</placeName>—le <persName
+     ref="people.xml#rep01"> prince Repnine</persName>, ci-devant ambassadeur en <placeName ref="places.xml#pol01">
+    Pologne</placeName>, qui a signé la paix sans avoir de barbe. Je suis très fâchée de la mort du frère
+     <persName ref="people.xml#gan01"> Ganganelli</persName>: <seg xml:lang="la"
+     >sic transit gloria mundi</seg>.</p>
+   <p>Ecoutez donc: savez-vous bien que <title ref="works.xml#romanc01"> «Le roman
+     comique»</title> de Scarron n’est point drôle dutout pour moi; j’ai voulu le lire pour voir ce que
+    c’est, mais il m’a paru que cela ne vaut rien.</p>
+  </body>
+ </text>
+</TEI>

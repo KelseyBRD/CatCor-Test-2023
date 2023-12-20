@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02947</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02947</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-25">25/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-26T12:48:55Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-26">26-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02947">
+  <body>
+
+
+   <opener>
+    <dateline>15-me et Dérniere. a <placeName ref="places.xml#pet01"> St.Petèrsb</placeName>: ce
+      <date when-custom="1766-10-21">21 d’Octobre 1766</date>.</dateline></opener>
+   <p>J’ai égarée Madame une de Vos lettres a laquelle je devois reponse, j’en suis bien fachée
+    s’étoit une tres belle lettre que nous avons luë et reluë avec le general, nous la regretons
+    beaucoup, il ne me reste qu’a repondre a celle que Vous m’avés adressée de <placeName
+     ref="places.xml#vie01"> Vienne</placeName>. Hé bien, Madame, levé Vous, voila ma main
+    recommencé. C’est ainsi que je me propose de repondre a l’avenir a Vos prosternation
+    genouflextions etc. pour les faire finir. Ma santé dont Vous avés demandé des nouvelles au Pr.
+     <persName ref="people.xml#gol03"> Gallitzin</persName> est bonne, j’ai rendue mon corps plus
+    robuste que mon temperament parroissoit le permettre, en n’ecoutant point les medeçins, et en
+    m’exposant au froid et au chaud indifferement et successivement. </p>
+   <p>Le Pr. <persName ref="people.xml#gol03"> Gallitzin</persName> en Vous marquant des
+    empressement Madame, s’est attiré mon approbation et a suivi mes desirs, je vois avec plaisir
+    que Vous en paressés etre contente.</p>
+   <p>M. <persName ref="people.xml#vol01"> Voltaire</persName> m’écrit quelquefois M-r <persName
+     ref="people.xml#did01"> Diderot</persName> se sert du Truchemens <persName
+     ref="people.xml#bet01"> Betzki</persName> pour repandre la sensibilité de son cœur a quelque
+    centaine de lieue de son habitation, il nous recommende ses Amis, il ma fait faire l’acquisition
+    d’un homme qui je croi n’a pas son pareil s’est <persName ref="people.xml#fal01">
+     Falconet</persName>, il va incessament commencer la <rs ref="works.xml#pierre01"> statuë</rs>
+    de <persName ref="people.xml#pet01"> Pierre le Grand</persName>; s’il y a des Artiste qui
+    l’égale dans son etat, l’on peut avancer je pense hardiment qu’il n’y en a point qui lui soye a
+    comparer par ses sentimens, en un mot il est ami de l’ame de <persName ref="people.xml#did01">
+     Diderot.</persName></p>
+   <p>Je regarde les Louanges de Vos beaux genie comme des encouragemens qu’ils croyent necessaire
+    de doner a ceux qu’ils voyent en etat de faire le bien. Mais si je ne reussirai pas a le faire,
+    malgré tout ses beaux propos, mon nom n’ira pas a la posterité. </p>
+   <p>Puisque Vous fondé Votre amitié et attachement pour moi sur mes occupations, je tacherai de
+    plus en plus de les rendre telle que Vous n’ayé pas lieu de Vous dedire, soyés assuré de ma
+    reconnoissance, et de la continuation des sentimens que je Vous ai si souvent témoigné, et qui
+    sont au moins aussi bien fondé que ceux que Vous me marqués.</p>
+  </body>
+ </text>
+</TEI>

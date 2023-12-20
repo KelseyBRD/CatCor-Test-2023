@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09105</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09105</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#finance"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>"сюда" - no clear evidence on where this note was written found</p> 
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-29">2023-06-29</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-09105"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-03-14">1789 г. марта 14.</date>
+                </dateline>
+                <salute>Александр Васильевич,</salute>
+            </opener>
+            <p>напишите к <persName ref="people.xml#ark01">Архарову</persName>, чтоб узнать, правда ли в приложенном письме написано, и буде правда, чтоб сюда дал знать о числе душ той деревни, чтоб им можно было дать, как я давала, по 20 р. на двор.
+                <note type="editorial">
+                     Catherine writes about a bankrupt village of a certain Kniazeva, whose serfs have addressed <persName ref="people.xml#dmi01">A.M. Dmitriev-Mamonov</persName> with a letter (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 263.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

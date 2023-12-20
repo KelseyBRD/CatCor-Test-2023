@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02964</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02964</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#healthpolicy"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-01">17/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-20T17:29:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-20">20-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02964">
+  <body>
+
+   <opener><dateline>Du beau milieu de <placeName ref="places.xml#mos01">Moscou</placeName>, ce <date when-custom="1775-01-30">30
+    janvier 1775</date>.</dateline></opener>
+   <p>Monsieur le philosophe, je vous annonce ma très profonde reconnaissance des voeux qu’il vous a
+    plu pousser par les airs jusqu’à moi la veille du nouvel an; les accents en sont venus ici la
+    journée d’hier. Vous faites donc promesse de ne plus remplir que quatre pages d’écriture:
+    agissez en à votre commodité, monsieur le philosophe, et à celle du très renommé boyau fêlé,
+    mais permettez, s’il vous plaît, que le calendrier grec reste dans l’état qu’il est, et qu’il
+    n’emprunte rien des Latins. Au bout du compte, je crois qu’il est très indifférent quel façon de
+    compter l’on adopte, car au fait aucune partie du monde n’en a de bien juste, et vous changerez
+    encore dix fois, tandis que nous aurons le plaisir d’avoir l’été ou bien le printemps dans les
+    mois d’hiver.</p>
+   <p>Savez vous bien, vous qui savez tout, que je suis enchantée d’être ici et que tout le monde
+    ici, petit et grand, l’est de m’y voir?- Cette ville est un Phénix, qui va renaître de ses
+    cendres; j’y trouve la populace diminuée d’une manière très sensible; c’est la <rs ref="events.xml#plagu01">peste</rs> qui en est la cause: elle a assurément emporté de
+    <placeName ref="places.xml#mos01">Moscou</placeName> plus de cent mille hommes. Mais ne parlons pas de cela. Vous voulez avoir
+    le plan de la <rs ref="places.xml#pre01"> maison que j’occupe</rs>: je vous l’enverrai, mais ce
+    sera la mer à boire que de s’orienter dans ce labyrinthe; j’ai été deux heures ici avant que
+    j’aie pu parvenir à connaître, sans me tromper de porte, le chemin de mon cabinet; c’est le
+    triomphe des dégagements. De ma vie je n’ai vu plus de portes; j’en ai fait condamner une
+    demi-douzaine déjà, et j’en ai encore deux fois plus qu’il ne m’en faut; mais, pour parler
+    juste, vous saurez qu’en faisant construire une grande salle, deux immenses galeries et une
+    demi-douzaine de chambres de parade, je suis parvenue à joindre ensemble trois très grandes
+    maisons de pierre. J’occupe une que m’a prêtée le frère du vice-chancelier; mon fils une autre
+    que j’ai achetée, et une troisième, dont j’ai fait l’emplette aussi, est destinée pour ceux qui
+    doivent loger indispensablement à la cour. Le reste de mon monde est campé dans dix ou douze maisons que j’ai louées; or, tout cela fait un labyrinthe,
+    dont je désespère de vous donner une idée juste. </p>
+   <closer><signed rend="inline">Mais en voilà assez pour aujourd’hui; tenez, voilà trois pages en
+    échange de vos quatre. Bon soir.</signed></closer>
+  </body>
+ </text>
+</TEI>

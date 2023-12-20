@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02914</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02914</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    
+    <keywords n="personal">
+     <term target="kw.xml#selfportraits"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>In this letter, Catherine II described the present
+     she sent to Orlov. She mentioned the scratch of the Chesme Column on the present. I marked it
+     with the name of the creator (Rinaldi = #people-rin01) and added a new code
+     #works-chesme01 Emma: I changed this to an editorial note</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-06">06/04/2021</date><persName>Olga Smolyak</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:29:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02914">
+  <body>
+
+   <salute rend="inline"> Граф <persName ref="people.xml#orl03">Алексей
+    Григорьевич</persName>. </salute>
+   <p>Письмо ваше, от 12 сего месяца, Я получила, и благодарю вас как за поздравление ваше, так и за
+    желания, произносимый от вашего ко Мне усердия, в котором Я никогда не сомневалась. В знак же
+    Моего к вам благоволения, посылаю вам табакерку. Вся цена ея состоит в изображении того
+    <rs ref="works.xml#chesme01">памятника</rs><note type="editorial">By <persName ref="people.xml#rin01">Rinaldi</persName></note>, который, славу вашу и
+    знаменитыя отечеству заслуги ваши свидетельствует. Относительно пакета, от вас доставленного,
+    уведомляю вас, что он заключал в себе просьбу одного иностранца по долговой его претензии, в
+    коей он уже удовлетворен. Пребываю всегда вам доброжелательная.</p>
+   <signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName></signed>
+   <dateline>В <placeName ref="places.xml#tsa01">Царском Селе</placeName>
+    <date when-custom="1795-07-19">Июля 19 <hi rend="bold">ч.</hi> 1795 года</date>.</dateline>
+   <postscript><p>Я бы в табакерку насыпала табаку, растущаго в Моем саду, инаго ныне не
+    нюхаю, но опасалась, что дорогою засохнет.</p></postscript>
+  </body>
+ </text>
+</TEI>

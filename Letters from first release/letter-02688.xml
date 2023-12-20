@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02688</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02688</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#austria"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02688">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Zarskoe Selo,</placeName>
+                            <date when-custom="1778-04-18">ce 18 Avril 1778</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> J’ai reçu, toujours au titre de Sa parfaite confiance en moi, la lettre de
+                        Votre Majesté en faveur du <persName ref="people.xml#cha04">duc de
+                            Deux-Ponts</persName>. Conséquemment à celle que <persName
+                            ref="people.xml#cha04">ce prince</persName> m’a écrite lui même, j’ai
+                        donné ordre à mon <rs ref="people.xml#gol04">ministre</rs> à <placeName
+                            ref="places.xml#vie01">Vienne</placeName> d’y recommander ses intérêts.
+                        Quoique toute espérance de conciliation semble s’éloigner de plus en plus,
+                        je persiste toujours à la regarder comme la chose la plus avantageuse à
+                        tous. Mais ce que je désire bien vivement, </p>
+                    <closer>
+                        <signed>c’est que Votre Majesté demeure constamment persuadée de la parfaite
+                            amitié et de la haute considération avec lesquelles je suis, Monsieur
+                            mon Frère, de Votre Majesté la bonne Soeur et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00063</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00063</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#austriaholyromanempire"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-29">29 March 2013</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Additional markup and tagging. Added translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00063">
+                <body>
+                    <opener rend="right"><dateline><placeName ref="places.xml#tsa01"
+                                >Czarskocelo,</placeName>
+                            <date when-custom="1789-06-01" when="1789-06-12">le 1/12 juin
+                                1789.</date></dateline><salute rend="inline">Monsieur mon
+                            frère.</salute></opener>
+                    <p> Je n'ai pu mieux prouver à V. M. I. la parfaite réciprocité des sentiments
+                        qui m'animent à l'égard du <rs ref="events.xml#allia01">renouvellement de
+                            notre alliance</rs> que par mon empressement à acquiescer au désir
+                        qu'Elle m'en a témoigné par Sa lettre du 20 mai, ainsi que par les
+                        ouvertures qu'Elle en a fait faire par Son ambassadeur à mon ministère.
+                        C'est à ma plus grande satisfaction que j'ai vu consommer cet acte par
+                        l'échange respectif de la lettre autographe de V. M. I. contre la mienne de
+                        la même nature. Je n'ai pas besoin d'appuyer davantage sur le plaisir que
+                        j'ai eu à ainsi prolonger des liens auxquels je n'ai cessé d'attacher le
+                        plus grand prix. Ce même empressement avec lequel je m'y suis portée, doit
+                        en servir de garant à V. M. I.</p>
+                    <p>Je La remercie infiniment de la part qu'Elle a bien voulu prendre aux succès
+                        qui ont signalé l'ouverture des opérations de mes armées contre les Turcs.
+                        Je sens comme V. M. I. toute la délicatesse et toute l'importance de la
+                        contexture actuelle des affaires de l'<placeName ref="places.xml#eur01"
+                            >Europe</placeName>. Je fais et je ferai tout ce qui est humainement
+                        possible pour écarter ou prévenir les inconvénients qu'elle peut entraîner,
+                        et qui pourraient affecter nos intérêts communs. La confiance que V. M. I.
+                        m'inspire à tant de titres, ne me laisse aucun doute qu'Elle ne veuille
+                        concourir au même but par tous les efforts qui seront en Son pouvoir. Si
+                        Dieu continue à bénir la justice de notre cause, comme j'ose m'en flatter,
+                        et qu'il nous procure une paix, soit commune soit séparée, nous avons tout
+                        sujet d'espérer de faire avorter tous les projets et les systèmes sinistres
+                        des envieux de notre union et de notre puissance.<note type="editorial">In
+                            his letter to Catherine of 19 May 1789, Joseph wrote of 'le projet aussi
+                            agréé par V.M. de forcer les Turcs à une paix directe, en prévenant par
+                            des opérations combinées le rassemblement des troupes ottomanes et les
+                            mesures violentes des Cours jalouses de nos succès' ('the project also
+                            approved by Your Majesty of forcing the Turks to make peace directly by
+                            preventing, through combined operations, the amassing of Ottoman troops
+                            and the violent measures of the Courts who envy our successes'). By
+                            'jealous courts', he and Catherine meant Prussia and England, both of
+                            whom perceived the weakness of Austria and Russia at this juncture and
+                            threatened to attack. Joseph warned Catherine that he could not
+                            withstand alone the attack which Prussia threatened against Austria, at
+                            the same time as he had to face the full brunt of the Ottomans. He also
+                            wrote of English impatience to bring about a general armistice. (<bibl>
+                                <title ref="works.xml#joseph01">Joseph II. und Katharina von
+                                    Russland</title>, <biblScope unit="pp">pp.
+                                331-33</biblScope>.</bibl></note></p>
+                    <closer><signed>C'est avec les sentiments de la plus haute considération et de
+                            l’attachement le plus inviolable que j'ai l'honneur d'être à
+                            jamais....</signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener rend="right"><dateline><placeName ref="places.xml#tsa01"
+                                >Czarskocelo,</placeName>
+                            <date when-custom="1789-06-01" when="1789-06-12">1/12 June
+                            1789.</date></dateline><salute rend="inline">My dear
+                        brother.</salute></opener>
+                    <p>I could in no better way prove to Your Imperial Majesty the perfect
+                        reciprocity of the sentiments that move me to renew our alliance than by my
+                        alacrity in acquiescing to the desire that You expressed to me by Your
+                        letter of 20 May and by the propositions that You have had Your ambassador
+                        make to my ministry. It is to my greatest satisfaction that I have seen this
+                        act consummated by the respective exchange of Your Imperial Majesty's letter
+                        for my own of the same kind. I have no need to insist further on the
+                        pleasure that I experience in thus extending the ties that I have never
+                        ceased to value most highly. The selfsame alacrity with which I have done so
+                        must serve as a guarantee to Your Imperial Majesty.</p>
+                    <p>I thank You infinitely for interest that You have seen fit to show in the
+                        success that has met the opening of my army's operations against the Turks.
+                        Like Your Imperial Majesty, I perceive the full delicacy and the full
+                        importance of the current disposition of European affairs. I am doing and
+                        will do all that is humanly possible to avert or anticipate all the harm
+                        that it might produce and which might affect our common interests. The
+                        confidence with which Your Imperial Majesty inspires me for so many reasons
+                        leaves me with no doubt that You will see fit to pursue the same end by all
+                        efforts within Your power. If God continues to bless the justice of our
+                        cause, as I flatter myself He will, and if He procures for us either a
+                        common or a separate peace, we have every reason to hope to check all the
+                        projects and sinister systems of those who envy our union and our power.</p>
+                    <closer><signed>It is with sentiments of the highest regard and the most
+                            inviolable attachment that I have the honour to be
+                        forever...</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

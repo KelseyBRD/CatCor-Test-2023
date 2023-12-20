@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00794</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00794</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-01">01 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00794">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович</persName></salute></opener>
+                    <p>твои два письма ко мне дошли сегодня. Одно чрез <persName
+                            ref="people.xml#bez01">Графа Безбородко,</persName> а другое чрез
+                            <persName ref="people.xml#dmi01">Александра Матвеевича.</persName>
+                        Восхитительное предложение <persName ref="people.xml#rep01">Князя
+                            Репнина</persName> принудило меня в день Святаго Георгия надеть
+                        гвардейский мундир и гордиться им, аки пава.</p>
+                    <p>Боюсь, чтоб <placeName ref="places.xml#dni03">Днепр</placeName> и с нами не
+                        пошутил, как и с тобою. Не у вас у одних балы, и у нас, да сверх того еще
+                        хлопоты безконечные. <seg xml:lang="fr">Les etrilleries du <persName
+                                ref="people.xml#fri06">Prince de Wurtemberg</persName> ont enfin
+                            oblige sa femme de se retirer chez moi, parce que reellement elle etoit
+                            en danger de sa vie; j'ai saisi cette tres favorable occasion pour les
+                            renvoyer tous les deux d'ici, et sous peu de jours nous en seront
+                            quittes. J'ai fait ce que j'ai du faire et j'ai fait bien, la femme ira
+                            chez les parens et le mari ou il voudra.</seg></p>
+                    <p> Странно, как тебе <persName ref="people.xml#nas01">Князь Нассау</persName>
+                        понравился, тогда когда повсюду имеет репутацию <seg xml:lang="fr">d'un
+                            cerveau brules,</seg> а притом известно, что он храбр. Твои с ним
+                        разговоры поправляют его в моей мысли.</p>
+                    <p>Сожалею очень, что тебя не увижу ранее, как в <placeName
+                            ref="places.xml#kie01">Киеве.</placeName> Сегодня чрез две недели, то
+                        есть 2 января, непременно выеду отселе. Письмо Императора к тебе я читала с
+                        удовольствием. Оно самое ласковое, он же пишет правду. О пути его не
+                        сумневаюсь, что возьмешь надлежащие меры. За перстеньки с антиками
+                        благодарствую. Мы все ничто так не желаем, как чтоб Бог нас отселе скорее
+                        вынес. Письмо твое к <persName ref="people.xml#dmi01">Александру
+                            Матвеевичу</persName> я с крайним удовольствием читала, и ты не ошибся:
+                        от тебя душою и сердцем любит и он час от часу любезнее становится.</p>
+                    <closer><signed rend="inline">Прощай, мой друг, будь здоров. Уж быть так, естьли скорее
+                        нельзя видеться, так увидимся в <placeName ref="places.xml#kie01"
+                            >Киеве.</placeName> Племянницы твои поехали отселе вчерась. Весь свет
+                        отселе скачет, так что лишь завидно.</signed>
+                        <dateline rend="below"><date when-custom="1786-12-18">Декабря 18 ч.,
+                                1786</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01066</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01066</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:21:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01066">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1785-09-27">27 septembre 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. Sensiblement touché des sentiments d’amitié et de confiance que V. M. I.
+    me témoigne par Sa lettre du 8 septembre, je La prie d’être persuadée que j’en sens tout le
+    prix, et que les miens ne discontinueront d’être tels que V. M. I. les connaît depuis l’heureux
+    moment de notre connaissance. J’ai été enchantée de voir la manière ferme et les mesures
+    vigoureuses que V. M. I. a employées pour répliquer aux absurdes propositions que les soi-disant
+    patriotes hollandais n’ont pas eu honte de Lui faire par le canal de la <placeName
+     ref="places.xml#fra01">France</placeName>, dont ni le discernement ni la bonne foi ne brille
+    pas en cette occasion. II me paraît que rien ne peut être plus propre à accélérer raccommodement
+    que la réponse de V. M. I. Ses sentiments d’équité dont Elle me fait l'honneur de me parler,
+    feront le reste ; les contemporains leur rendront justice; ils seront admirés de la postérité,
+    et je suis persuadée que V. M. ne s’en repentira jamais. Si mon suffrage peut contribuer en
+    quelque chose à la satisfaction de V. M. I., qu’Elle soit persuadée qu’il accompagne en toute
+    occasion la gloire et splendeur de Son règne, Lui étant aussi sincèrement attachée que remplie
+    de la plus haute considération et pour la vie dans toutes occasions …</p>
+  </body>
+ </text>
+</TEI>

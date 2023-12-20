@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01138</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01138</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-09"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01138">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p> Я вчерась, 29 число, сюда в <placeName ref="places.xml#tve01">Тверь</placeName>, в
+                девятом часу вечеру, приехала, и мы все здоровы: дорога посредственна, а погода
+                очень хороша; из <placeName ref="places.xml#kli01">Клину</placeName> к Вам я цидулку
+                уже написала, Вашего же куриера пакеты сегодня по утру, то есть, 30 число, получила,
+                из котораго усмотрела, что <persName ref="people.xml#pau01">сын</persName> мой
+                здоров, за что Богу благодарение; отселе же, как ехать, завтра означу, а сегодня
+                здесь отдохнем. При сем прилагаю письмо дяди моего, <persName ref="people.xml#fri02"
+                    >Принца Августа</persName>, к которому прошу написать благодарение за
+                поздравление, ибо с дороги некогда мне ему ответствовать.</p>
+            <closer><signed rend="inline">Желаю Вам здравствовать и остаюсь со всегдашнею известною Вам моей
+                к Вам дружбою.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline>Из<placeName ref="places.xml#tve01">Твери</placeName>,<lb/>
+                    <date when-custom="1767-04-30">30 ч Апреля, 1767.</date></dateline>
+            </closer>
+        </body>
+    </text>
+</TEI>

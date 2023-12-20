@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01204</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01204</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#russianorthodoxchurch"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-07"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01204">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Из письма Вашего усмотрела я с удовольствием, что <persName ref="people.xml#pau01"
+                    >сын</persName> мой здоров. Присланныя письма к Вам возвращаю; копия с письма
+                    <persName ref="people.xml#amb01">Каменскаго Бискупа</persName> есть такой
+                несообразимой сунбур, что, не сходя с ума, кажется, нету возможности составить
+                подобное.</p>
+            <closer><signed rend="inline">Впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1771-04-14">Апреля 14, в 5-м часу по полудни,
+                        1771.</date></dateline></closer>
+            <postscript>
+                <p>На <placeName ref="places.xml#mos01">Москве</placeName> все поправляется и
+                    больных нету, окроме в двух монастырях, у <placeName ref="places.xml#gre03"
+                        >Греческаго</placeName> и <placeName ref="places.xml#sim02"
+                        >Симонова</placeName>.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02981</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02981</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#legislation"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#domesticPolicy"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:21:19Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02981">
+  <body>
+ 
+   <opener><dateline> Réponse au No 27, ce <date when-custom="1776-02-28">28 février 1776</date>.</dateline></opener>
+   <p>Si vous étiez entré, il y a deux mille ans, dans <placeName ref="places.xml#rom03">Rome</placeName> au bruit du tonnerre, on
+    aurait pu vous prendre au moins pour le plénipotentiaire de Jupiter Capitolin; ne vous en
+    déplaise pour Mercure, l'objet même de la députation n’aurait pas manqué d’être trouvé : le
+    tonnerre, tombé en même temps sur la maison de la princesse de Palestrine, n’aurait laissé aucun
+    doute; voilà ce que c’est que de ne savoir pas venir à temps dans un lieu. A présent vous vous
+    amusiez à y faire le rôle d’Héraclite, à pester contre votre plume, contre les incidents qui
+    vous empêchent d’aller d’un bout du monde à l’autre, et même contre les édifices que vous
+    regardiez en hiver sans avoir chaud. Mais, mon bon monsieur, vous avez bien de l’humeur, <seg xml:lang="de">Geduld und Zeit macht möglich die Unmöglichkeit</seg>. Si
+    j’avais envie de grogner, je grognerais aussi contre cette belle strophe allemande où par
+    supposition vous ajoutez: <seg xml:lang="de">daran ist mir wenig oder
+     nichts gelegen</seg>. Vous vous trompez, monsieur le ministre: je serai toujours très aise de
+    vous revoir, car j’ai beaucoup d’estime et d’amitié pour vous, et je répéterai volontiers,
+    malgré la critique des protocolistes de <placeName ref="places.xml#vie01">Vienne</placeName>, l’expression <seg xml:lang="de">mit Ehre und Freunde</seg>; à qui seraient donc les
+    distinctions si elles n’étaient aux gens de mérite? sont-elles faites pour les benêts? Cela
+    sent-il aussi ma professien? Quoi qu’il en soit, ce ne sont point les économistes qui
+    me-guideront; j’aime à la folie le parlement de <placeName ref="places.xml#par01">Paris</placeName> depuis l’absurde débat où on
+    délibérait s’il fallait les déclarer secte, et secte <hi rend="italic">nuisible à
+    l’état</hi>. Le bon sens selon moi ne régnait que dans les trois mots soulignés.</p>
+   <p>Si vous saviez comment ces pécores me bombardent de livres! ils ont commenté mon instruction
+    pour les lois, et ainsi accommodée, ils me l’ont envoyée par le prince <persName
+     ref="people.xml#orl01"> Orlof</persName>, apparemment pour lui donner du poids, comme je ne la
+    lirai pas. Je ne suis point portée pour les entraves; cependant je crois qu’il y en a qui ont
+    été mises pour empêcher des inconvénients et auxquelles il est fort imprudent et téméraire de
+    toucher. Chez nous, par exemple, les accises des villes ont été abolies du temps de feu
+     <persName ref="people.xml#eli02"> l’impératrice Elisabeth</persName>; cela a fait qu’au
+    commencement il était indifférent de vivre à la ville ou la campagne pour le bon marché; cela
+    ayant attiré beaucoup de monde dans les villes, la cherté y augmenta, mais personne ne voulut
+    retourner à la campagne, et on fit des dettes et on se ruina, et les campagnes restèrent moins
+    habitées, et la chose n’était point à réparer. Vous savez ce que <rs ref="events.xml#flour01"
+     >la liberté non limitée de l’exportation des blés</rs> etc. peut produire. Je
+    n’ose citer que des faits, et je ne veux pas produire de spéculations. Votre P. S. à pancarte
+    italienne est arrivé par la même poste, et je n’y comprends rien. </p>
+   <closer><signed rend="inline">Dieu vous bénisse et vous donne des boyaux tranquilles.</signed></closer>
+  </body>
+ </text>
+</TEI>

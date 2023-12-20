@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00085</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00085</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-13">13 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, translation, metadata, annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00085">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный Князь Григорий
+                            Александрович.</salute></opener>
+                    <p> Письмы твои от 5 июля из <placeName ref="places.xml#olv01"
+                            >Ольвиополя</placeName> я получила вчерась. Любопытна я знать, какие
+                        вести получишь от <rs ref="people.xml#pot03">известной особы</rs>, чрез
+                        посланного от тебя к нему в <placeName ref="places.xml#pol01"
+                            >Польшу</placeName>.<note type="editorial">It seems that during <ref
+                                target="people.xml#pot01">Potemkin</ref>'s visit to St. Petersburg
+                            from 4 February until 6 May 1789, he and <ref target="people.xml#cat01"
+                                >Catherine</ref> agreed that she would write an ostensible letter to
+                            Potemkin, in French, which he would then show to <ref
+                                target="people.xml#pot01">Stanislaw Szczesny Feliks Potocki</ref>.
+                            This was the first step in Catherine and Potemkin's multi-year campaign
+                            to make use of Potocki's interest in appealing to Russia for help in
+                            reestablishing aristocratic power in Poland. They were so successful
+                            that Potocki later became a leader of the Targowica Confederation, which
+                            opened the way for the second partition of Poland. As regards
+                            Catherine's letter to Potocki, in a missive that can be dated to 10 May
+                            1789, Potemkin reminded Catherine: 'Вы, матушка Государыня, не написали
+                            ко мне письма французского, которое б я мог показать Артиллерии Генералу
+                            Г[рафу] Потоцкому. Мне оно нужно будет--ему показать, колико Вы на
+                            истинный его патриотизм внимаете. Не худо будет, если тут включите
+                            поклониться его жене' ('You, Majesty little mother, did not write me a
+                            French letter that I could show artillery general Count Potocki. I will
+                            need it to show him how much regard you have for his true patriotism. It
+                            also would not be bad if you included greetings for his wife').
+                            Catherine sent him the letter with her reply of 13 May. (<bibl><title
+                                    ref="works.xml#ekater01">Ekaterina II i G.A. Potemkin. Lichnaia
+                                    perepiska 1769-1791</title>, <biblScope unit="pp">pp.
+                                    347-48</biblScope>, <idno>Letters 952 and 954</idno></bibl>.)
+                            Catherine followed Potemkin's advice closely: in her letter she 'asked'
+                            Potemkin to assure artillery general Count Potocki 'de tout [sic]
+                            l'estime que m'a inspirée sa conduite vraiment patriotique' ('of all my
+                            esteem for his truly patriotic conduct') and mentioned his wife, 'que
+                            vous saluerez aussi de ma part' ('to whom you will also give my
+                            greetings') (<bibl><title ref="works.xml#sborni01">SIRIO</title>,
+                                    <biblScope unit="vol">xlii</biblScope>, <biblScope unit="pp">pp.
+                                    11-12</biblScope></bibl>). One of Potemkin's letters of 5 July
+                            indicated that the letter had worked: Potemkin had delayed writing to
+                            Catherine, 'дожидаясь моего посланного по требованию той особы в Польше,
+                            о которооой мне изволили в письме писать' ('awaiting the messenger I had
+                            sent on the request of the individual in Poland, about whom you were
+                            pleased to write to me in a letter'). Potocki had asked that Potemkin
+                            send a reliable messenger to receive important news about the Polish
+                            party opposing Russia. On 9 July, Potemkin sent a note conveying
+                            Potocki's verbal message: Potocki claimed that royal troops had been
+                            deployed along the Dniestr to prevent a Russian retreat (Potemkin denied
+                            that the Poles were beating Russian forces there) and that Ignacy
+                            Potocki, marshal of Lithuania, was the ringleader of the opposing party.
+                                    (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin. Lichnaia perepiska 1769-1791</title>, <biblScope unit="pp">pp. 357, 359</biblScope>, <idno>Letters 970 and
+                                    974</idno></bibl>.)</note> Касательно <rs ref="people.xml#fri03"
+                            >Короля Прусского</rs>, кажется, все возможное делается, чтоб его
+                        удержать и гнев его умяхчить.<note type="editorial">This was a reply to the
+                            next point in Potemkin's letter, following the mention of the messenger
+                            to Potocki: 'Нужно мне, кормилица, остеречься. И, как ни есть, ласково
+                            Короля Прусского удержать в его стремлении' ('I need to be careful,
+                            nurse [a term of endearment frequently used by Potemkin for Catherine].
+                            And somehow gently restrain the King of Prussia in his efforts')
+                                    (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin. Lichnaia perepiska 1769-1791</title>, <biblScope unit="pp">p. 357</biblScope>, <idno>Letter 970</idno></bibl>).
+                            On the Prussian libels attacking Potemkin, see Catherine's <ref
+                                target="letter-00084.xml">letter of 6 July</ref>.</note> Как
+                        выведешь магазейны из <placeName ref="places.xml#pol01">Польши</placeName>,
+                        то ему уже надлежит выдумывать новые лжи и клеветы, чтоб поджигать
+                        поляков.</p>
+                    <p>Теперь шведы до <placeName ref="places.xml#anj01">Аньялы</placeName>
+                        прогнаны, осталось их выжить из <placeName ref="places.xml#kym02"
+                            >Кюменогородского поста</placeName>.</p>
+                    <p>На второе письмо твое, полученное чрез <persName ref="people.xml#sal03"
+                            >Н[иколая] И[вановича] Салт[ыкова]</persName>, я тебе скажу, что я все
+                        твои слова и что ты мне говорил зимой и весною приводила на память, но,
+                        признаюсь, что тут есть много несообразного. <persName
+                            ref="people.xml#rib02">Рибопьер</persName> о всем знал, он и <rs
+                            ref="people.xml#bib02">брат</rs>
+                        <rs ref="people.xml#rib03">его жены</rs> сосватали. Говорил ли он тебе или
+                        нет о сем чистосердечно, не ведаю, но помню, что ты мне единожды говорил,
+                        что <persName ref="people.xml#rib02">Рибо[пьер]</persName> тебе сказал, что
+                            <rs ref="people.xml#dmi01">друг его</rs> достоин быть выгнан от меня,
+                        чему я дивилась. Естьли б зимою тебе открылись, для чего ты мне не сказал
+                        тогда? Много бы огорчения излишнего тем прекратилось и давно уже он женат
+                        был.</p>
+                    <p>Я ничей тиран никогда не была и принуждения ненавидую, <seg xml:lang="fr"
+                            >est il possible que Vous m’ayés méconnue jusqu’à ce point et que dans
+                            Votre esprit la générosité de mon caractère Vous ait échappée et que
+                            Vous m’ayés cru un vilain égoiste, Vous m’auriés guérie tout d’un coup
+                            en me disant la vérité.</seg></p>
+                    <p>Правду говоришь, когда пишешь, что ты у меня в милости ни по каким
+                        обстоятельствам, кои вреда тебе причинить не могут. Прошу сохранить ко мне
+                        сию доверенность; она мне драгоценна и я ее заслуживаю. Злодеи твои,
+                        конечно, у меня успеха иметь не могут, <seg xml:lang="fr">mais, mon Ami,
+                            ne soyés pas aussi ombrageux sans aucune raison et mettés-Vous au dessus
+                            des ombrages minutieux.</seg> От досад, конечно, колико только
+                        можно, тебя избавлю. Утешь ты меня, приласкай нас.</p>
+                    <p>NB <rs ref="people.xml#zub03">У нас</rs> сердце доброе и нрав весьма
+                        приятный, без злобы и коварства <seg xml:lang="fr">et un désir très
+                            déterminé de bien faire</seg>. Четыре правила имеем, кои сохранить
+                        старание будет, а именно: быть верен, скромен, привязан и благодарен до
+                        крайности, <seg xml:lang="fr">avec cela ce <rs ref="people.xml#zub03"
+                                >Noiraud</rs> a de fort beaux yeux et ne manque pas de lecture, en
+                            un mot il me plaît et aucune sorte d’ennui jusqu’ici ne s’est glissé
+                            entre nous; au contraire voilà la quatrième semaine qui se passe très
+                            agréablement.</seg></p>
+                    <p>Я приказала <persName ref="people.xml#bez01">Гр[афу] Безбор[одко]</persName>
+                        выжить <persName ref="people.xml#rum01">Фельдм[аршала]
+                            Румянц[ева]</persName> из <placeName ref="places.xml#ias01"
+                            >Ясс</placeName>: оне лутче знают как, нежели я. Это второй том его
+                        житья в <placeName ref="places.xml#gda01">Данцихе</placeName>.<note
+                            type="editorial">In 1762, Peter III had placed Rumyantsev in charge of
+                            his mission to reclaim Holstein from Denmark. Relieved of his command at
+                            Catherine's accession to the throne, Rumyantsev lived in Danzig with his
+                            mistress, despite Catherine's generous permission to take the waters or
+                            to live on his estates, and, in January 1763, her attempt to recruit him
+                            back into the service. Only in November-December 1764 did he accept an
+                            appointment as governor-general in Ukraine. See his <ref
+                                target="people.xml#rum01">biography page</ref>.</note></p>
+                    <closer><signed>Прощай, мой друг. Извини, буде я тебе сим письмом и чтением его
+                            причинила скуку.</signed>
+                        <dateline><date when-custom="1789-07-14">Июля 14 ч., 1789
+                            году</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear friend Prince Grigory
+                            Aleksandrovich.</salute></opener>
+                    <p>I received yesterday your letters of 5 July from Olviopol. I am curious to
+                        know what news you will receive from the certain individual, via the
+                        messenger you sent to him in Poland. As regards the King of Prussia, it
+                        seems that everything possible is being done to restrain him and to soften
+                        his anger. Once you get the stores out of Poland, he will have to think up
+                        new lies and slanders to enflame the Poles.</p>
+                    <p>Now the Swedes have been chased back to Anjala; it remains to oust them from
+                        the post at Kyumenogorod.</p>
+                    <p>In reply to your second letter, received via N[ikolai] I[vanovich]
+                        Salt[ykov], I will tell you that I recalled all your words and what you said
+                        to me in winter and spring. But I must admit that there is a lot here that
+                        is incomprehensible. Ribaupierre knew about everything: he and his wife's
+                        brother were the go-betweens. I do not know if he spoke to you candidly
+                        about it or not, but I remember you once saying to me that Ribaupierre told
+                        you his friend deserved to be dismissed, which surprised me. If they
+                        confided in you over the winter, why did you not tell me then? It would have
+                        put an end to much unnecessary affliction, and he would have been married
+                        long ago.</p>
+                    <p>I am no one's tyrant, and I detest compulsion. Can you possibly have known me
+                        so poorly? Could the generosity of my character have escaped you in your
+                        judgment? Could you have thought me a mean egotist? You would have cured me
+                        instantly by telling me the truth.</p>
+                    <p>You are telling the truth when you write that my favour toward you does not
+                        depend on any circumstances that could harm you. I ask you to maintain this
+                        confidence in me: I value it and deserve it. Your enemies cannot succeed
+                        with me, of course. But, my Friend, do not be so easily offended for no
+                        reason and rise above minute offenses. I will, of course, spare you
+                        annoyances as much as possible. Comfort me, show us affection.</p>
+                    <p>NB We have a good heart and a most pleasant temper, without malice or guile
+                        and a very determined desire to do well. We have four rules, which effort
+                        will be made to uphold: to be loyal, modest, affectionate, and grateful in
+                        the extreme. Furthermore this Brunet has very beautiful eyes and is not
+                        unread. In a word, I like him, and up to now no troubles of any kind have
+                        come between us. On the contrary, this is the fourth week that has been
+                        spent most agreeably.</p>
+                    <p>I have ordered Co[unt] Bezbor[odko] to oust Field-M[arshal] Rumyants[ev] from
+                        Iași. He knows better than I how to do it. This is the second volume of his
+                        sojourn in Danzig.</p>
+                    <closer><signed>Farewell, my friend. Forgive me if I have bored you with this
+                            letter and the reading of it.</signed>
+                        <dateline><date when-custom="1789-07-14">July 14,
+                        1789</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

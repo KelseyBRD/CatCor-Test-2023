@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03734</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03734</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Could not find any information on the Confédération d’Iwanesk (2) Could not locate
+     Gangij.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:08:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03734">
+  <body>
+   <div>
+    <opener>
+     <dateline> Се <date when-custom="1796-07-15">15 juillet</date>.</dateline></opener>
+    <p>Réponse au No 14. Comment voulez-vous que je consente à vous laisser partir en septembre par
+     mer de <placeName ref="places.xml#lub01"> Lübeck</placeName> ici, tandis que vous êtes sujet à
+     des vomissements, et comment vous risquer d’aller par terre en septembre et octobre avec une
+     caravane comme la vôtre? Je vous l’ai dit plusieurs fois: allez à <placeName
+      ref="places.xml#kar04"> Carlsbad</placeName>, et le printemps vous viendrez de <placeName
+      ref="places.xml#lub01"> Lubeck</placeName> ici fort commodément en cinq ou six jours, par eau.
+     Il faut qu’en <placeName ref="places.xml#ger01"> Allemagne</placeName> on ait une peur
+     diabolique des carmagnoles pour vous en donner une panique: ces gueux-là n’ont pas d’ailes
+     pourtant. Si vous en avez une si grande peur en <placeName ref="places.xml#sax01">
+      Saxe</placeName>, allez à <placeName ref="places.xml#fra05"> Francfort sur l’Oder</placeName>
+     ou à <placeName ref="places.xml#ste02"> Stettin</placeName>, et au printemps vous passerez ici
+     avec aisance, et en attendant vous serez déjà rapproché; surtout <placeName
+      ref="places.xml#ste02"> Stettin</placeName> ne sera pas pris d’emblée. <placeName
+      ref="places.xml#mad02"> Magdebourg</placeName> encore peut vous servir de refuge contre ces
+     peurs paniques, dont, en vérité cependant, vous n’aurez pas d’autre mal que celui-là.</p>
+    <p>Remerciez s’il vous plaît <seg xml:lang="en"> milord</seg>
+     <persName ref="people.xml#ogi02"> Findlater</persName> de ses projets; celui de marier une de
+     nos belles soeurs avec le fils du <persName ref="people.xml#cha24"> prince Charles de
+      Hesse</persName> n’est pas mal imaginé. Il est bien agréable pour moi de ce qu’il s’occupe de
+     notre prospérité; je lui suis bien obligée. J’accepte sa caution pour le nouveau directeur de
+     la banque, et la vôtre aussi.</p>
+    <p>La prétendue confédération d’Iwanesk assurément n’aura pas quoi mordre chez nous; s’en
+     alarmera qui voudra, mais ce ne sera pas moi. Le <persName ref="people.xml#fri03"> roi
+       de <placeName ref="places.xml#pru01"> Prusse</placeName></persName> en a été fort alarmé, et
+     a fait arrêter quantité de Polonais; il l’a communiqué ici; j’ai dit que je n’avais pas de quoi
+     fouetter un chat, et puis c’est tout.</p>
+    <p>Je puis devenir gardien de la <placeName ref="places.xml#gal02"> Galicie</placeName>, mais je
+     n’en deviendrai pas pour sûr possesseur dans l’état présent des choses.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-07-16">16 juillet</date>.</dateline></opener>
+    <p>J’ai lu, monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs>, la déclaration sur
+     votre succession, pour laquelle vos ayants cause ont pris trois paires de manchettes; ce sont
+     des gens faciles à manier étant grugés de la peur démagogique. Voilà le tour du testament qui
+     vient; je l’ai lu avec les codicilles; vous ferez très bien de vivre le plus longtemps que vous
+     pourrez; il paraît que la nation est devenue votre légataire universel; comme elle s’est
+     emparée de l’argent de la <placeName ref="places.xml#hol02"> Hollande</placeName> et qu’elle
+     détrousse l'<placeName ref="places.xml#ita01"> Italie</placeName>, apparemment que bientôt elle pensera à
+     payer ses dettes.</p>
+    <p>Pendant que j’écris cette pancarte sont arrivées pancartines No 15 et 16 et bulletins 69 et
+     70. № 15 m’annonce le départ de <persName ref="people.xml#mez02"> Mézentsof</persName>; j’y
+     crois, car depuis longtemps il est ici.</p>
+    <p>Je me doutais un peu que la chasse aux pauvres diables ne deviendrait pas bien
+     grand’chose.</p>
+    <p>Le titre que vous avez donné à <persName ref="people.xml#mar22"> Antoinette
+      Marchais</persName> pour lui faire prendre les eaux de <placeName ref="places.xml#kar04">
+      Carlsbad</placeName>, est assez plaisant sans doute; quand on lui demandera de mes nouvelles,
+     elle sera fort embarrassée, me semble.</p>
+    <p>C’est aujourd’hui le onzième jour que je me baigne dans l’eau de la mer que j’ai fait porter
+     ici de <placeName ref="places.xml#hog02"> Hogland</placeName>; je m’en trouve à merveille.</p>
+    <p>J’ai ordonné de vous payer 140 sequins pour le tableau de la <persName ref="people.xml#mar12"
+      > Teresina Maron</persName> et de lui payer 100 sequins par an par le comte <persName
+      ref="people.xml#cas03"> Cassini</persName>, et de vous envoyer les 300 écus d’<placeName
+      ref="places.xml#ger01"> Allemagne</placeName> que vous demandez.</p>
+    <p>On m’assure que les dix mille roubles d’avril sont remis; ainsi ce sont vos pourvoyeurs de
+     là-bas qui ne vous les ont pas comptés encore, mais j’ai dit que je veux que vous soyez payé
+     pour sûr.</p>
+    <p>Quand j’ai dit que je vous le devais, j’ai très bien su ce que je disais.</p>
+    <p>Ce prince <persName ref="people.xml#lud04"> Louis de Cobourg</persName> est un très pauvre
+     sire que sa famille oblige de servir, qui n’en a aucune envie, et dont personne ne veut; c’est
+     un butor, outre cela très peu poli vis-à-vis de ses parents les plus proches. Je vous demande
+     si ce sont des gens pareils qu’on peut prier la cour de <placeName ref="places.xml#vie01">
+      Vienne</placeName> d’employer dans ce moment-ci.</p>
+    <p>Le comte <persName ref="people.xml#zub01"> Valérien</persName> a pris <placeName
+      ref="places.xml#kub01"> Kouban</placeName>; en attendant qu’il prenne <placeName
+      ref="places.xml#bak02"> Bakou</placeName>, port de mer, je ne sais si je vous ai mandé que le
+     jour de la prise de <placeName ref="places.xml#der01"> Derbent</placeName>, après que les clefs
+     de la ville furent apportées au comte <persName ref="people.xml#zub01"> Valérien</persName> et
+     que notre garnison y fut entrée le soir, vint dans le camp du comte <persName
+      ref="people.xml#zub01"> Valérien</persName> à cheval, entourée d’une grande quantité de
+     femmes, la princesse <persName ref="people.xml#cha25"> Peredjy Chanum</persName>, qui passe
+     pour la plus belle et la plus spirituelle princesse de la <placeName ref="places.xml#per03">
+      Perse</placeName>. Elle était toute voilée, et l’on ne voyait que les plus beaux yeux du
+     monde. Elle dit à la plus âgée des dames qui l’accompagnaient de dire au truchement qu’elle
+     était venue dans le camp du comte <persName ref="people.xml#zub01"> Valérien</persName> pour
+     intercéder pour son frère le <persName ref="people.xml#aga02"> kan</persName> de <placeName
+      ref="places.xml#der01"> Derbent</placeName>, afin qu’il plût au comte d’adoucir son sort, que
+     c’était un jeune homme qui avait eu à l’entour de lui de mauvais conseillers. Le comte
+      <persName ref="people.xml#zub01"> Valérien</persName> lui promit d’avoir égard à sa prière.
+     Alors elle le fit prier de lui permettre d’avoir une entrevue avec son frère le <persName
+      ref="people.xml#aga02"> kan</persName> de <placeName ref="places.xml#der01">
+      Derbent</placeName>; on la conduisit dans la tente où se tenait son frère, et elle y passa la
+     nuit, pendant laquelle le comte <persName ref="people.xml#zub01"> Valérien</persName> ordonna
+     aux nôtres de n’approcher ni de près, ni de loin de cette tente. Le lendemain la dame rentra
+     avec ses compagnes à cheval en ville, et le comte <persName ref="people.xml#zub01">
+      Valérien</persName> la déclara régente des états de son frère, qui reste dans notre camp, et
+     lui nomma un conseil de régence, ce qu’on appelle divan dans ce pays-là, et voilà la belle et
+     spirituelle princesse <persName ref="people.xml#cha25"> Peredjy Chanum</persName> établie
+     régente des états de son frère par le plus loyal et galant chevalier que ces derniers temps
+     aient produit.</p>
+    <p>Pour vos bulletins, je n’ai garde d’y toucher: ils sont si mauvais qu’on voudrait s’en
+     boucher les oreilles. Adieu, portez-vous bien; j’en fais autant.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-08-18">18 juillet</date>.</dateline></opener>
+    <p>Les nouvelles d’<placeName ref="places.xml#ger01"> Allemagne</placeName> sont bien mauvaises;
+     que pense le <rs ref="people.xml#ogi02"> pair d’Ecosse</rs>: que faut-il que je fasse? Est-il
+     garant des paix fourrées?</p>
+    <p>Je viens de recevoir le bulletin 71. Si <placeName ref="places.xml#fra03">
+      Francfort</placeName> entre dans la ligne de démarcation du <persName ref="people.xml#fri03">
+      roi</persName> de <placeName ref="places.xml#pru01"> Prusse</placeName>, les Français
+     pourront-ils y entrer sans se brouiller avec lui? Ou est-il leur très humble serviteur jusqu’à
+     se laisser donner des nasardes à la face de l’univers?</p>
+    <p>Voici ce que c’est que l’incendie du port des galères de <placeName ref="places.xml#vas02">
+      Vassili-Ostrof</placeName>: un beau jour où il faisait fort chaud, c’est-à-dire le 25 mai,
+     vint un orage avec tonnerre et éclairs, et donna tout droit dans plusieurs endroits des remises
+     aux galères et les brûla toutes avec les chaloupes canonnières etc. etc. etc. C’est la seconde
+     fois que cela est arrivé depuis mon règne. Tout ce dont nous avons vraiment besoin sera rebâti
+     pendant le courant de cet été, et les vieilles hardes resteront brûlées; le port n’en sera que
+     plus propre. Le lendemain de cet accident le tonnerre donna, dans l’<placeName
+      ref="places.xml#her01"> hermitage</placeName>, dans un tuyau de cheminée, qu’il fendit, entre
+     l’ancienne bibliothèque et la chambre du billard ; il y eut beaucoup de fumée, mais point de
+     feu. Tout <placeName ref="places.xml#pet01"> Pétersbourg</placeName> y accourut et y resta
+     depuis les trois heures après midi jusqu’à minuit, non pas dans l’<placeName
+      ref="places.xml#her01"> hermitage</placeName>, mais dans les rues d’alentour et sur les quais,
+     montrant un vif désir que l’<placeName ref="places.xml#her01"> hermitage</placeName> fût sauvé
+     du feu qui n’y était pas.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-07-19">19 juillet</date></dateline></opener>
+    <p>J’ai reçu hier la nouvelle de la prise de <placeName ref="places.xml#bak02">
+      Bakou</placeName>, port de mer sur la <placeName ref="places.xml#cas02">
+     Caspienne</placeName>. Le <persName ref="people.xml#hus01"> kan de <placeName
+       ref="places.xml#bak02"> Bakou</placeName></persName> est venu sur sa frontière avec les clefs
+     de sa ville, qu’il a remises au comte <persName ref="people.xml#zub01"> Valérien</persName>.
+     Or, il faut savoir que ce général vient de faire dans deux mois ce à quoi <persName
+      ref="people.xml#pet01"> Pierre I</persName> employa deux campagnes, et qu’il a trouvé plus de
+     résistance que l’empereur, car dans <placeName ref="places.xml#der01"> Derbent</placeName> il y
+     avait onze mille hommes de garnison très déterminés à se défendre, tandis que l’empereur reçut
+     les clefs de <placeName ref="places.xml#der01"> Derbent</placeName> avant d’y venir. Dans notre
+     camp tout le monde se porte à merveille, et l’on trouve que les chaleurs sont très
+     supportables; on n’y manque de rien, et les communications par terre et par mer y sont
+     parfaitement établies, et comme nos troupes y gardent une discipline exemplaire, elles y sont
+     reçues à bras ouverts. On dit qu’<persName ref="people.xml#her03"> Héraclius</persName>, roi de
+      <placeName ref="places.xml#geo01"> Géorgie</placeName>, a pris Gangij, mais la nouvelle n’en
+     est pas encore formellement arrivée. Ceci couvre le flanc de comte <persName
+      ref="people.xml#zub01"> Valérien</persName> de ce côté-là; son armée, lui à la tête, marche
+     tout droit à Chamahy; quand il en sera là, le cours du fleuve <placeName ref="places.xml#kur02"
+      > Cyrus ou Kour</placeName>, qui se réunit à l’<placeName ref="places.xml#ara02">
+      Arax</placeName> (ils s’en vont ensemble dans la <placeName ref="places.xml#cas02">
+      Caspienne</placeName>), sera parfaitement nettoyé. De l’autre côté de l’<placeName
+      ref="places.xml#ara02"> Arax</placeName> se rassemblent, dit-on, vers le mois de septembre les
+     forces d’<persName ref="people.xml#aga02"> Aga Mehèmet-kan</persName>, l’usurpateur de
+      <placeName ref="places.xml#per02"> Perse</placeName>; son frère <persName
+      ref="people.xml#mur03"> Mourtaza Kouli-kan</persName> est parti d’ici pour s’embarquer
+      à <placeName ref="places.xml#ast01"> Astrakhan</placeName> sur nos vaisseaux et aller de là
+     dans ses états; les villes de <placeName ref="places.xml#ras01"> Rescht</placeName> et de
+      <placeName ref="places.xml#maz02"> Mazandéran</placeName> et plusieurs autres lui
+     appartiennent par droit de succession, mais M. <rs ref="people.xml#aga02"> son frère</rs> l’en
+     avait dépossédé. — Le porteur de cette pancarte est envoyé pour porter mon portrait à ma <rs
+      ref="people.xml#fri16"> belle-soeur</rs> à <placeName ref="places.xml#cob01">
+      Cobourg</placeName>, d’où il ira vous déterrer.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

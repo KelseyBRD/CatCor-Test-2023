@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08212</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08212</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I’m not sure if Catherine means Frederick the Great or Joseph II when she mentions the “Roi”
+     who helped, along with the Austrian court, to free Obreskov. I coded it as Frederick because
+     this seems more likely in the context.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-01">01-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:17:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08212">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1771-05-18">18/29 mai 1771</date>.</dateline>
+   </opener>
+   <p>La lettre que V. A. R. a bien voulu m’écrire au sujet de jour de ma naissance m'est une
+    nouvelle preuve de Son souvenir et de Son amitié à laquelle je suis infiniment sensible. Je Lui
+    ai beaucoup d'obligations pour le mémoire concernant les chapitres des demoiselles nobles
+    établis dans les états du <rs ref="people.xml#fre01"> Roi, Son frère</rs>; c’est un beau et
+    agréable bouquet que V. A. R. m’a fait. J'y reconnais Son inclination bienfaisante qui se plaît
+    à contribuer au bonheur des humains.</p>
+   <p>La paix qui va succéder aux embarras de la <rs ref="events.xml#turki01"> guerre</rs>
+     (<persName ref="people.xml#obr01"> Mr. Obrescof</persName> étant relâché grâce aux soins du <rs
+     ref="people.xml#fre01"> Roi</rs> conjointement avec la cour de <placeName
+     ref="places.xml#vie01">Vienne</placeName>) me donnera plus de loisir pour vaquer à mes
+    occupations ordinaires, et une des premières sera d'employer le canevas que V. A. R. m'a fourni.
+    Cet établissement Vous aura pour fondateur; comme tel, chez les catholiques, au bout de cent ans
+    V. A. R. aurait été canonisée. Nous autres orthodoxes nous faisons mieux, nous Vous regardons
+    dès-à-présent comme un des présents du Très-Haut, qui illustre notre siècle, et nous Vous
+    honorons en conséquence.</p>
+   <p>Le comte <persName ref="people.xml#orl03"> Alexis Orlof</persName> ne saurait assez se louer
+    de toutes les bontés et attentions qu’il a plu à V. A. R. de lui marquer à <placeName
+     ref="places.xml#ber01">Berlin</placeName>. Je suis témoin de la reconnaissance de ses <rs
+     ref="people.xml#orl01 people.xml#orl02 people.xml#orl04 people.xml#orl05">frères</rs> et
+    nommément de celle du <rs ref="people.xml#orl01"> Grand-Maître</rs>. Je prie V. A. R. de me
+    continuer Son souvenir et d’être assurée que c’est avec la plus haute considération...</p>
+  </body>
+ </text>
+</TEI>

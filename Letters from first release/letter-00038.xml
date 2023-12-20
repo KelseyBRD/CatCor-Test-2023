@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00038</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00038</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#austriaholyromanempire"/>
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-25">25 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr">
+        <body>
+            <opener>
+            <salute rend="inline">Madame ma soeur.</salute></opener>
+            <p> On ne peut être plus sensible que je le suis à la lettre pleine de confiance et
+                d'amitié qu'il a plu à Votre Majesté Impériale de m'écrire. Quand ce ne serait pas
+                en moi autant l'effet du sentiment, qu'une maxime d'état de faire jouir d'une
+                tolérance juste et raisonnable les différents peuples de mon <placeName
+                    ref="places.xml#rus01">Empire</placeName>, je me porterai par égard pour
+                l'intercession de Votre Majesté, par estime pour ses vertus, par attention pour le
+                lien politique de nos monarchies, à marquer une protection spéciale à ceux de la <rs
+                    ref="orgs.xml#roma01">religion catholique romaine</rs> et unis. Leur tranquille
+                existence et le maintien de leur dogme et de leur discipline leur sont assurés à
+                l'abri de mes lois, et je ne les connais que comme mes sujets dans tout ce qui peut
+                procurer et augmenter leur bien-être. Quoique je puisse me flatter que mon
+                application suffit à ce dernier objet, je pèserai avec mûre réflexion et dans une
+                juste combinaison civile les mémoires, que le ministre de Votre Majesté Impériale a
+                été autorisé par elle de recommander à ma considération. Je la prie d'être toujours
+                persuadée, que ses vues seront abondamment remplies pour la protection et le libre
+                exercice de la religion en faveur de laquelle elle s'intéresse, et qu'en ceci, comme
+                en toute autre chose, j'aurai particulièrement à coeur de marquer la haute
+                considération et la parfaite estime, avec lesquelles je suis,</p>
+            <closer>
+                <signed>Madame ma soeur, de Votre Majesté Impériale la bonne soeur.</signed>
+                <dateline><placeName ref="places.xml#tsa01">Tsarskoé Sélo,</placeName>
+                    <date when-custom="1774-05-26">ce 26 Mai 1774.</date></dateline>
+            </closer>
+        </body>
+    </text>
+</TEI>

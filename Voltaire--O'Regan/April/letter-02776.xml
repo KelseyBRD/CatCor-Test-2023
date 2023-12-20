@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02776</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02776</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#marriagenotification"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Query #people-lud02. Kelsey: yes, lud02 is correctly identified. Comique taken as #candid01.
+     Kelsey: mistaken identification corrected to perede01.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:33:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup revised, queries resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02776">
+  <body>
+   <opener><dateline> ce <date when-custom="1773-09-11">11 de Septembre
+    1773</date></dateline></opener>
+   <p>Monsieur, Je m’envais satisfaire au demandes que Vous ne m’avés point fait, mais que Vous
+    m’indiqués par Votre lettre du 10 Auguste. Je répondrai aussi à celle du 12 de ce mois que j’ai
+    reçuë en même tems. Cela Vous annonce une dépêche longue à faire bâiller, en réponse à Vos
+    charmantes mais très courte lettres. Jettés la mienne au feu si Vous voulés, mais souvenés Vous
+    que l’ennuy est de mon métier, puisqu’ordinairement il ce trouve à la suite des Roys. Pour le
+    raccourcir cette fois j’entre en matière. Monsieur de <persName ref="people.xml#rum01">
+     Roumenzof</persName> au lieu d’établir son foyer dans l’Atmeidan de <placeName
+     ref="places.xml#ist01"> Stanboul</placeName> selon Vos souhaits, a jugé à propos de rebrousser
+    chemin, parce dit-il, qu’il n’a pas trouvé à diner aux environs de <placeName
+     ref="places.xml#sil01"> Silistria</placeName>, et que la marmite du Visir étoit encore à
+     <placeName ref="places.xml#sum02"> Schiumla</placeName>. Cela ce peut, mais il devoit prévoir
+    au moins qu’il pouvoit diner sans compter sur son hôte. Je range ce fait parmi les fautes
+    d’Ortographie, et je m’en console par la conversation satisfaisante de <persName
+     ref="people.xml#kar01"> Madame la Landgrave</persName> de <placeName ref="places.xml#dar01">
+     Darmstadt</placeName> qui est doué d’une âme forte et mâle, d’un aspect élevé et cultivé. <rs
+     ref="people.xml#wil01"> La quatrième</rs> de ses filles va épouser mon <rs
+     ref="people.xml#pau01"> fils</rs>. La Cérémonie des noçes est fixée au 29 septembre. Come chef
+    de <rs ref="orgs.xml#gree01">l’Eglise grecque</rs> je ne puis Vous laisser ignorer la conversion
+    de cette <rs ref="people.xml#wil01"> Princesse</rs> opérée par les soins, le zèle et la
+    persuasion de <persName ref="people.xml#pla01"> l’Evêque Platon</persName> qui l’a réuni au
+    giron de <rs ref="orgs.xml#roma01">l’Eglise Catholique</rs> universelle grecque, seule vraye
+    créante établie en Orient. Réjouïssés Vous de notre joye, et que cela Vous serve de consolation
+    dans un tems où <rs ref="orgs.xml#roma01"> l’Eglise Latine</rs> est affligée, divisée et occupée
+    de l’extinsion mémorable des Jesuites. A la suite du <persName ref="people.xml#lud02"> Prince
+     Héréditaire</persName> de <placeName ref="places.xml#dar01"> Darmstadt</placeName>, j’ai euë le
+    plaisir de voir arriver ici il y a quelques jours M<hi rend="superscript">r</hi>
+    <persName ref="people.xml#gri01"> Grim</persName>. Sa conversation est un délice pour moi, mais
+    nous avons encore tant de choses à nous dire que nos entretiens ont euë jusqu’ici plus de
+    chaleur que d’ordre et de suite. Nous avons beaucoup parlé de Vous. Je lui ai dit ce que Vous
+    avés publiés peut être, s’est, que ce sont Vos ouvrages qui m’ont accoutumé à penser.
+    J’attendois <persName ref="people.xml#did01"> Diderot</persName> d’un moment à l’autre, je vient
+    d’apprendre à mon grand regret qu’il est tombé malade à <placeName ref="places.xml#dui01">
+     Duisbourg</placeName>. <rs ref="works.xml#histoi01"> L’Histoire Philosophique et Politique du
+     Comerce des Indes</rs> m’a empêché jusqu’ici, en me donant une très grande aversion pour les
+    conquérans du nouve au monde, de lire l’<rs ref="works.xml#delhom01">ouvrage Posthume</rs>
+     d’<persName ref="people.xml#hel02"> Helvetius</persName>. Je n’en ai pas d’idée, mais il est
+    bien diffiçile d’imaginer, que <persName ref="people.xml#pet06"> Pierre le
+    sauvage</persName> porte faix dans les rues de <placeName ref="places.xml#lon01">
+     Londres</placeName>, dont j’ai le tableau peint par <persName ref="people.xml#phi04"> le
+     fils</persName> de Phidias <persName ref="people.xml#fal01"> Falconet</persName>, soit née avec
+    les facultés des premiers homes de ce siècle; je n’auserai citer le seigneur <persName
+     ref="people.xml#mus01"> Moustapha</persName> mon enemi et le Vôtre, parceque <persName
+     ref="people.xml#pri01"> M<hi rend="superscript">r</hi> de St: Priest</persName>, qui a été à
+     <placeName ref="places.xml#par01"> Paris</placeName> et qui par conséquent a de l’esprit come
+    quatre, prétend qu’il en a prodigieusement. Mais àpropos de <persName ref="people.xml#mus01">
+     Moustapha</persName> j’ai à Vous dire que <persName ref="people.xml#lam04">Lamery</persName>
+    Votre protégé a débuté dans le Tragique par <rs ref="works.xml#zaireo01">Orosmane</rs> et dans
+    le Comique par le rôle du <title ref="works.xml#perede01">Père de famille</title> avec un égal
+    succès.</p>
+   <p>Je Vous rend mille grâce de la belle harangue que Vous me composé pour inviter les Cours
+    coopérante dans les affaires de <placeName ref="places.xml#pol01"> Pologne</placeName> à souper
+    au sérail, je l’employerai volontier, mais je sais d’avance que la <persName
+     ref="people.xml#mar01"> Dame</persName> à qui Vous voulés que je l’addresse a un <rs
+     ref="people.xml#kau01"> Séraphin</rs> indomptable assis sur le trépied de sa politique qui par
+    sa lenteur et l’obscurité de ses Oracles détruiroit l’effet des plus belles harangues du monde
+    quelques grande que fussent les vérités qu’elles puissent contenir d’ailleur. Il y a des gens
+    qui n’aime que ce qu’ils ont inventé et qui sacrifient tout à leurs idées une foi reçuë. Je
+    souhaite sans doute la paix, mais il ne me reste qu’à faire la guerre pour y parvenir. Aussi
+    longtems que les choses resteront dans cet état l’espérance de voir finir la captivité des Dames
+    Turques au moins Vous reste. C’est avec tout les sentimens que Vous me conoissés et avec la
+    reconoissance la plus vive de tout ce que Votre amitié pour moi Vous dicte que je ne cesserai de
+    Vous souhaiter l’âge de Matusalem ou du moins celui de cet Anglais qui fut guai et bien portant
+    jusqu’à l’âge de 176 ans; Imités le, Vous qui êtes inimitable.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

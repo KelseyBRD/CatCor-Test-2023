@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02638</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02638</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="war">
+                    <term target="kw.xml#germany"/>
+                </keywords>
+                <keywords n="poland">
+                    <term target="kw.xml#throne"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-16">16 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02638">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#mos01">à Moscou</placeName>, <date
+                                when-custom="1763-02-21">ce 21 Février 1763</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>La lettre de Votre Majesté du 15 Février n. st. m'a fait un très sensible
+                        plaisir dans tout son contenu, je ne puis m'empêcher de renouveler à Votre
+                        Majesté mes compliments de félicitation sur la conclusion de la paix, et de
+                        La remercier de la communication du traité. Je vois avec bien de la
+                        satisfaction la confiance que Votre Majesté me témoigne, et je n'ai garde
+                        d'en abuser, l'article projeté à mon égard prouve encore les bonnes
+                        intentions de Votre Majesté, je ne négligerai pas de les cultiver d'affermir
+                        l'ouvrage de cette paix qui m'est si agréable. Puisque Votre Majesté trouve
+                        que c'est y contribuer que de suivre les idées que le <persName
+                            ref="people.xml#dol01">prince Dolgorouki</persName> Vous a communiquées
+                        de ma part et qu'Elle me dit dans sa lettre qu'Elle conviendra de tous les
+                        candidats au trône de <placeName ref="places.xml#pol01">Pologne</placeName>
+                        que je proposerai; je m'en vais m'expliquer avec autant d'ouverture que de
+                        sincérité en répondant à la confiance de Votre Majesté, mais dans le plus
+                        profond secret: Dans le cas de la vacance du trône de <placeName
+                            ref="places.xml#pol01">Pologne</placeName> je consentirai aisément comme
+                        Votre Majesté le souhaite à l'exclusion de tout prince de la maison
+                            <placeName ref="places.xml#aus01">d'Autriche</placeName>, pourvu qu'il
+                        plaise à Votre Majesté d'en faire autant pour tout candidat soutenu par
+                            <placeName ref="places.xml#fra01">la France</placeName>. Je suis
+                        parfaitement de l'avis de Votre Majesté, j'aime mieux aussi que la couronne
+                        de <placeName ref="places.xml#pol01">Pologne</placeName> tombe en partage à
+                        un Piaste, mais à un tel qui ne soit point au bord du tombeau, et qui ne
+                        reçoit des gages d'aucune puissance. Si Votre Majesté convient avec moi de
+                        cet arrangement et qu'Elle veuille bien, comme je le Lui ai fait proposer,
+                        imposer aux troupes de <placeName ref="places.xml#sax01">Saxe</placeName>,
+                        uniquement en déclarant qu'Elle ne les laissera point passer en <placeName
+                            ref="places.xml#pol01">Pologne</placeName> (où il n'est permis au Roi
+                        d'en avoir qu'au nombre de 1200, selon sa capitulation, et il ne peut
+                        employer un plus grand nombre que pour oppresser la liberté de cette nation,
+                        ce que je ne souffrirai jamais en ayant la garantie), moi de mon côté,
+                        j'agirai de mon mieux pour parvenir à la réussite de ce projet, qui selon
+                        les désirs de Votre Majesté, restera secret entre Nous, pour empêcher les
+                        intrigues et les cabales de ceux à qui cela déplairai, </p>
+                    <closer>
+                        <signed>je prie Votre Majesté d'être bien persuadée du prix que je mets à
+                            son amitié et de ne point douter de la mienne étant avec les sentiments
+                            les plus distingués, Monsieur mon Frère, de Votre Majesté, la bonne
+                            Soeur
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03634</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03634</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find demoiselle Le Fèvre</p><p>Emma - are datelines openers or closers?</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-16">16-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:50:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03634">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#pel01"> Pella</placeName>, ce <date
+       when-custom="1786-06-17">17 juin 1786</date>, à quatre heures
+     après-dîner.</dateline></opener>
+    <p>Je vous dis l’heure où je commence cette lettre, parce que j’ai la main tremblante à force de
+     rire. Je suis venue ici ce matin de <placeName ref="places.xml#tsa01">
+     Tsarsko-Sélo</placeName> avec mes <rs ref="people.xml#ale01 people.xml#kon01">deux
+      petits-fils</rs>; il n’y a qu’une chambre entre la leur et la mienne; par conséquent ils se
+     sont établis chez moi et font un train terrible: il a fallu les chasser pour avoir un moment de
+     repos; encore sont-ils sortis en chantant une marche d’opéra, chacun tenant son chien par la
+     patte en guise de princesse. Vous pouvez juger par là du ton que nous prenons; ces morveux sont
+     charmants. Mais trêve à ces contes de grand’mère; le seigneur <rs ref="people.xml#bez01">
+      factotum</rs> m’a annoncé le départ d’un courrier: par conséquent je commence ma missive.</p>
+    <p>Votre No 68 m’a été remis par le courrier du comte de <persName ref="people.xml#seg01">
+      Ségur</persName>; celui-ci et son beau-frère M. <persName ref="people.xml#agu01">
+      d’Aguesseau</persName> sont ici à <placeName ref="places.xml#pel01"> Pella</placeName>, logés
+     dans des chaumières. J’espère que le courrier parti depuis Pâques d’ici, est arrivé chez vous
+     au moins depuis un mois. Le prince <persName ref="people.xml#pot01"> Potemkine</persName> est
+     fort impatient de savoir si toute sa musique vous a été bien rendue. Je lui ai dit que j’avais
+     déjà vos remercîments pour <title ref="works.xml#armide02"> Armide</title>.</p>
+    <p>M. <persName ref="people.xml#led01"> Ledyar</persName> fera bien de prendre un autre chemin
+     que celui du <placeName ref="places.xml#kam01"> Kamtchatka</placeName>, parce que, pour cette
+     expédition, il n’y a plus le moyen de l’atteindre. Au reste, tout ce qu’on a publié de cette
+     expédition est parfaitement faux et un rêve creux: jamais il n’y a eu de compagnie ambulante,
+     et tout se réduit à l’expédition du capitaine <persName ref="people.xml#bil01">
+      Billing</persName> et d’un équipage choisi par lui et <persName ref="people.xml#pal02">
+      Pallas</persName>. Laissez à l’ <persName ref="people.xml#led01"> Américain</persName>
+     l’argent que vous lui avez donné ou promis; mais ne jetez pas à l’avenir mon argent par les
+     fenêtres: je ne connais point ces gens-là et n’ai aucune affaire jusqu’ici avec eux.</p>
+    <p>J’ai donné la requête de la demoiselle Le Fèvre à M. <persName ref="people.xml#str01">
+      Strékalof</persName>, présentement chargé des affaires du théâtre; celui de l’ <placeName
+      ref="places.xml#her01"> hermitage</placeName> n’a point de loges, mais un seul et unique
+     amphithéâtre, sur lequel tout le monde est pêle-mêle; il n’y a que deux loges sous l’escalier
+     pour <persName ref="people.xml#qua01"> Quarenghi</persName> et sa femme.</p>
+    <p>Remerciez, s’il vous plaît, le Sr <persName ref="people.xml#sed01"> Sedaine</persName> de son
+     discours académique.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1786-06-18">18 juin</date>, à <placeName
+       ref="places.xml#pel01"> Pella</placeName>.</dateline></opener>
+    <p>Le seigneur <rs ref="people.xml#bez01"> factotum</rs> dira à M. de <persName
+      ref="people.xml#seg01"> Ségur</persName> que son courrier part, afin qu’il envoie le thé de M.
+      <persName ref="people.xml#ber05"> Bertin</persName>, mais je crois que ce thé est parti depuis
+     longtemps, car il a expédié, il n’y a pas trois semaines, un courrier.</p>
+    <p>Puisque le <rs ref="events.xml#neckl01"> parlement</rs> de <placeName ref="places.xml#par01">
+      Paris</placeName> a justifié le <rs ref="people.xml#roh02"> cardinal</rs> et <persName
+      ref="people.xml#cag01"> Cagliostro</persName>, je crois que la première poste nous apportera
+     sans doute la nouvelle de l’éclatante satisfaction qu’on leur aura donnée pour les dix mois de
+     détention qu’ils ont soufferts étant innocents.</p>
+    <p>Je vous prie de faire mes compliments au <persName ref="people.xml#bue02"> comte</persName>
+     et à la comtesse de <persName ref="people.xml#bue01"> Bueil</persName>; j’ai été charmée de
+     voir leur bonheur et leur union dans les lettres que chacun d’eux m’a écrites; je suis bien
+     aise d’avoir pu y contribuer, et volontiers je serai marraine du premier né. L’ample cadeau des
+     ordonnances de la marine n’a pas peu grossi l’équipage du courrier français qui l’а apporté. Le
+      <persName ref="people.xml#anh01"> comte d’Anhalt</persName> est ici avec nous. N’ayez pas
+     peur: vous ne serez pas oublié pendant le voyage de la <placeName ref="places.xml#cri01">
+      Tauride</placeName>. Mais puisque mon <rs ref="people.xml#gri01"> souffre-douleur</rs> est
+     l’homme le plus exact pour s’acquitter de mes commissions, les statuts de l’ <orgName
+      ref="orgs.xml#vlad01"> ordre de St. Vladimir</orgName> comportent et exigent qu’il soit admis
+     au nombre des chevaliers, et à ces causes je vous envoie le cordon de la seconde classe, que
+     vous passerez au cou et porterez sur la poitrine, et l’étoile que, vous attacherez tout droit
+     sur le coeur. Que le bon Dieu vous bénisse!</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+       when-custom="1786-06-19">19 juin</date>.</dateline></opener>
+    <p>Je suis arrivée avec toute ma compagnie hier à cinq heures du soir par eau de <placeName
+      ref="places.xml#pel01"> Pella </placeName>en ville. Les bords de la <placeName
+      ref="places.xml#nev01"> Néva</placeName> sont charmants; pendant ces trente-cinq verstes il
+     n’y avait ni chaleur, ni poussière, ni vent, ni plaie, ni aucune incommodité. J’ai trouvé le
+     comte de <persName ref="people.xml#seg01"> Ségur</persName> fort changé: il a été fort malade
+     cet hiver, et je ne sais comment il a fait pour perdre le mouvement de l’oeil droit; on prétend
+     que c’est à force de se magnétiser; mais devant moi il n’a jamais osé souffler de son
+     magnétisme. Il n’y a pas longtemps que mon médecin <persName ref="people.xml#wei02">
+      Weikard</persName> lui a dit tout net que s’il ne cessait de se traiter par des remèdes de
+     charlatan, il se ferait mourir; M. <persName ref="people.xml#agu01"> d’Aguesseau</persName> n’a
+     pas aussi les meilleures couleurs du monde. Par la feuille apostillée de votre main et que j’ai
+     reçue à <placeName ref="places.xml#pel01"> Pella</placeName>, j’ai vu que le <rs
+      ref="people.xml#roh02"> cardinal</rs> et <persName ref="people.xml#cag01">
+      Cagliostro</persName>, <rs ref="events.xml#neckl01"> déclarés innocents</rs> par le parlement
+     et auxquels, comme innocents détenus depuis dix mois en prison, je croyais qu’on donnerait une
+     satisfaction éclatante, que de ces deux innocents, dis-je, l’un a été exilé et dégradé et
+     l’autre banni; à présent je vous prie de me dire s’ils sont innocents ou coupables, car je n’en
+     sais plus rien.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko Sélo</placeName>, ce <date
+       when-custom="1786-07-07">7 juillet</date>.</dateline></opener>
+    <p>Les pluies m’ont chassée de <placeName ref="places.xml#pet02"> Péterhof</placeName> la
+     semaine passée; revenue ici, voilà les chaleurs qui ont commencé. Hier j’ai eu la comédie ici;
+     après le spectacle tout le tripot politique s’est promené et a soupé avec moi; <persName
+      ref="people.xml#cus01"> M. de Custine</persName> en était aussi, et on était d’une si grande
+     allégresse qu’on trouvait tout charmant, à ravir. Pour vous faire endêver j’ai à vous dire,
+     monsieur le chevalier, que vous ne pouvez plus me trouver ici les après-diners, parce qu’outre
+     sept appartements garnis de jaspe, d’agate, de marbre vrai et faux, un jardin attenant de plein
+     pied à mon appartement, j’ai une immense colonnade qui tient aussi à ce jardin et qui finit par
+     un escalier, lequel mène tout droit au lac. Or, après cela cherchez-moi, si vous pouvez; si
+     jamais vous venez ici, il n’y a que l’aboiement des <persName ref="people.xml#tho01">
+      Thomas</persName> qui vous enseignera le chemin que je tiens, ou bien aussi le gazouillement
+     de cinq marmots qui tiennent à moi comme des chardons, et il faut que je me secoue pour les
+     faire en aller parce que cela ne veut jamais quitter. <seg xml:lang="de"> Nu, außer dem habe
+      ich Ihnen heute nichts zu sagen</seg>. Votre <persName ref="people.xml#roc01"> Mad. La
+      Roche</persName> m’accable de <seg xml:lang="de"> Bettel-Briefe</seg>; puisqu’elle vous
+     appartient en propre, je vous envoie sa lettre, comme vous m’envoyez tous les brimborions dont
+     vous ne savez que faire. <seg xml:lang="de"> Gotte segne Sie und gebe Ihnen eine gute Erndte;
+      bei uns ist das Brod sehr theuer, das Geld sehr rar, die Zeiten schwer, die Treppen zum Himmel
+      eng, und die zur</seg> Comedie <seg xml:lang="de"> dunkel</seg>. A propos de comédie, dans un
+     an neuf pièces, que dites-vous de ce rat dramatique? Répondez donc, vous qui ne répondez
+     jamais, à force d’écrire, à ce qu’on vous demande, <seg xml:lang="de"> Sie sind ein sehr
+      seltener Herr</seg>. <persName ref="people.xml#zim01"> Zimmermann</persName> est allé
+      à <placeName ref="places.xml#ber01"> Berlin</placeName> pour guérir le <persName
+      ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">
+      Prusse</placeName></persName> des ses 74 ans. </p>
+    <closer><signed rend="inline">Adieu, je n’ai plus rien à vous dire, portez-vous
+     bien.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

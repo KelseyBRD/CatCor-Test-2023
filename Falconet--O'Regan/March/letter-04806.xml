@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04806</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04806</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:23:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04806">
+  <body>
+ 
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName></salute></opener><p rend="inline">, vos
+     cahiers de <rs ref="works.xml#costum01">costume </rs> antique m’ont donné l’idée de vous
+     prier d’écrire à <persName ref="people.xml#coc02"> Cochin</persName> ou à tel autre de
+     vos connaissances, qui soient capable d’exécuter ce que je m’en vais vous dire; je voudrais
+     avoir le dessin d’une maison antique, distribuée intérieurement à l’antique. Toutes les
+     chambres ornées de même, selon leurs diverses destinations, et tous les meubles dessinés selon
+     le costume; la maison ni trop grande ni trop petite, la façade, la coupe, etc. Je suis capable
+     de faire bâtir une rapsodie grecque ou romaine pareille dans
+     mon jardin de <placeName ref="places.xml#tsa01"> Czarsko-Celo</placeName>, pourvu que
+     cela ne soit pas trop grand. J’aime à la folie surtout la chambre à manger, et les lits autour
+     de la table; je veux tout cela: je vous prie de m’aider à satisfaire cette fantaisie, que je
+     paierai sans doute.</p>
+  </body>
+ </text>
+</TEI>

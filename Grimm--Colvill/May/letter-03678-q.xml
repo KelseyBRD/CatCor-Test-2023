@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03678</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03678</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Still unable to find further information on “Maurice” or “mademoiselle de Pons”.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-01">01-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:56:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03678">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+      when-custom="1792-06-04">4 juin</date>.</dateline></opener>
+   <p>Un courrier qui part pour <placeName ref="places.xml#fra03"> Francfort</placeName> afin de
+    porter au comte <persName ref="people.xml#rum01"> Roumiantsof</persName> tout plein d’histoires
+    me donne occasion de vous écrire aujourd’hui pour vous dire que j’ai là devant moi vos lettres
+    No 36 et 38. Je pense que ce Sr <persName ref="people.xml#vol04"> Volney</persName> dont vous me
+    parlez et qui vous a renvoyé sa médaille, parce que le comte de <persName ref="people.xml#rum01"
+     > Roumiantsof</persName> a été accrédité près des princes frères du roi dès que S. M. a été
+    arrêtée, n’a fait ce renvoi que pour faire parler de lui. Pour à moi, il peut m’être fort
+    indifférent qu’il ait cette médaille, ou qu’il ne l’ait pas. Vous la donnerez dans l’occasion à
+    un autre. Je vous enverrais bien le vocabulaire des mots racines dans toutes les langues pour la
+    bibliothèque du roi, si les livres de cette bibliothèque n’étaient pas menacés d’être pillés
+    afin d’en faire du papier pour les assignats. Mais pour vous montrer ce qui existe de ce
+    vocabulaire, je vous envoie deux tomes de la première et quatre tomes de la <rs
+     ref="works.xml#dictio03"> seconde édition</rs>. Pour de la collection de M. d’Ormesson,
+    puisqu’elle est déjà en chemin, il deviendrait inutile de la refuser. Ce n’est pas le temps de
+    faire venir ici <persName ref="people.xml#rob02"> Robert</persName> et Maurice: on les pendrait
+     à <placeName ref="places.xml#par01">Paris</placeName> si l’on soupçonnait seulement qu’ils sont
+    en pourparlers avec moi: je suis la bête noire des <orgName ref="orgs.xml#jaco01">
+     jacobins</orgName>.</p>
+   <p>Pour faire plaisir à la <persName ref="people.xml#oli01"> Corilla</persName> dont je plains
+    l’amertume d’avoir perdu son ami de vingt-sept ans, je vous donne plein pouvoir de commander un
+    tableau à tel barbouilleur qu’elle choisira; pour de l’ouvrage fait par un de ses parents sur
+    les pierres gravées et envoyé à <persName ref="people.xml#nic02"> Nicolaï</persName>, il y a
+    grande apparence que cet ouvrage n’est pas venu jusqu’à moi. Le Sr <persName
+     ref="people.xml#nic02"> Nicolaï</persName>, amateur lui-même, y corrobore peut-être sa science,
+    Il y a quelques pages touchantes dans votre No 36, auxquelles je ne réponds pas, parce que je
+    veux être <seg xml:lang="de"> von Eisen und Stein, um nicht zu weinen</seg>. Je ne me souviens
+    pas d’avoir rien entendu sur le compte de <persName ref="people.xml#wag02"> Wagnière</persName>.
+    Je vous remercie des souhaits et félicitations que vous me faites au sujet de la paix avec les
+     <orgName ref="orgs.xml#turk01"> Turcs</orgName>. Si vous voulez que je vous dise vrai sur
+    l’envoi du <persName ref="people.xml#bom01"> marquis de Bombelles</persName> ici, je n’y vois
+    qu’une envie démesurée du baron de <persName ref="people.xml#bre02"> Breteuil</persName> de
+    faire accroire à tout le monde qu’il possède la confiance du <rs ref="people.xml#lou01">roi
+    </rs>et de la <rs ref="people.xml#mar14"> reine</rs>, et que ceux-ci veulent et désirent que les
+     <rs ref="people.xml#lou09 people.xml#lou11">princes, frères du roi</rs>, restent en arrière;
+    l’envoi du comte <persName ref="people.xml#est02"> d’Esterhazy</persName> nous a procuré l’envoi
+    du marquis de <persName ref="people.xml#bom01"> Bombelles</persName>. Puisque vous allez à
+     <placeName ref="places.xml#kar04"> Karlsbad</placeName>, vous y verrez sans doute <persName
+     ref="people.xml#hen02">le prince Henri</persName>, et vous me direz sans doute s’il est vrai
+    qu’il est devenu démocrate à brûler. Je n’ai pas le temps aujourd’hui de faire comme de coutume
+    des commentaires sur votre passion des Altesses allemandes; il faut espérer que vous en verrez
+    tout votre soûl au couronnement de <persName ref="people.xml#fra03"> Francfort</persName> et que
+    vous y serez par conséquent dans la joie de votre coeur. J’ai reçu la lettre du comte de
+     <persName ref="people.xml#sch03"> Schomberg</persName>, et suis bien fâchée de son
+    indisposition; la lettre pour mademoiselle de Pons lui a été remise; je vous mande ceci pour
+    vous attester mon mérite en fait d’exactitude pour des commissions. Je ne saurais consentir au
+    projet de M. de la <persName ref="people.xml#cou02"> Coudraye</persName>, parce que, dès que les
+    Anglais verraient que je ferais un armement maritime, M. <persName ref="people.xml#pit01"
+     >Pitt</persName> armerait aussi. </p>
+   <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>, je n’ai
+     plus du temps pour rien.</signed></closer>
+  </body>
+ </text>
+</TEI>

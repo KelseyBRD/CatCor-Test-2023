@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08257</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08257</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I’m not entirely sure which prince of Prussia visited the court. It seems that it could have
+     been Frederick Wilhlem III, who did a grand tour in the 1780s, though this early he would have
+     been 10 years old. The reference is to a prince who is a nephew of Henry – no other detail is
+     provided.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:29:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08257">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1780-10-01">1 octobre 1780</date>.</dateline></opener>
+   <p>La lettre que V. A. R. a bien voulu m'écrire et que j’ai reçue des mains du <rs
+     ref="people.xml#fri13"> prince, Son neveu</rs>, m'est un nouveau témoignage de la continuation
+    de Son souvenir et de cette amitié dont Elle m'a donné des preuves depuis si longtemps. Je La
+    prie d'être persuadée que j'en connais tout le prix, et que je ne négligerai aucune occasion où
+    je pourrais Lui donner des marques de l'étendue de la mienne. Je souhaite que le séjour de S. A.
+    R. le <persName ref="people.xml#fri13"> prince</persName> de <placeName ref="places.xml#pru01"
+     >Prusse</placeName> à ma cour ait pu contribuer autant à la satisfaction personelle du
+     <persName ref="people.xml#fri13"> prince</persName>, à celle du <rs ref="people.xml#fre01">
+     Roi</rs> et de V. A. R., que son arrivée m'a causé de contentement. Au reste, les yeux frappés
+    des grands exemples qui entourent ce prince sans sortir de sa propre famille, il serait
+    difficile que <rs ref="people.xml#fri13"> S. A. R</rs>. puisse ajouter aux sentiments et aux
+    connaissances dont il est orné en visitant quelque autre pays que ce soit, ni qu'il en puisse
+    acquérir de celle qui a l'honneur d'être ...</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08238</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08238</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:23:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08238">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1775-01-11">11 janvier 1775</date>.</dateline></opener>
+   <p>J'ai reçu la lettre qu'il a plu à V. A. R. de m'écrire le 9 janvier au moment où j'allais
+    tracer ces lignes pour Lui recommander mon cousin germain, le prince <persName
+     ref="people.xml#pet02"> Pierre de <placeName ref="places.xml#hol03">Holstein</placeName></persName>, que je La prie de vouloir
+    bien honorer de Ses bontés. Je ne doute point qu'il ne tâche de les mériter, j'ose avancer, et
+    il n'echappera point à la pénétration de V. A. R., que ce jeune <rs ref="people.xml#pet02">
+     prince</rs> est né avec les dispositions les plus hereuses. Tous ceux qui ont été témoins de
+    son séjour à mon armée pendant cette dernière campagne, où il s'est distingué, parlent de lui
+    avec éloge; en un mot c'est un enfant de famille qui ne dément point sa naissance et pour lequel
+    je m'intéresse sincèrement. C'est aussi à ces titres que j'ose l'adresser à V. A. R., afin que
+    sous Ses auspices et guidé par Elle il puisse avoir le bonheur d'être présenté au <rs
+     ref="people.xml#fre01"> Roi</rs>. Je La prie de regarder cette démarche comme une suite de la
+    confiance que m'a inspiré tant de marques réitérées de l'amitié de V. A. R.</p>
+   <p>En faisant mille voeux pour la prospérité de V. A. R. pendant cette nouvelle année, en La
+    remerciant de tout ce qu'Elle me dit d'obligeant en cette occasion et en attendant l'époque
+    désirée où je pourrais Lui renouveler de bouche les assurances . . .</p>
+  </body>
+ </text>
+</TEI>

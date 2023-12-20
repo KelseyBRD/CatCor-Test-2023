@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01007</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01007</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:31:37Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01007">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1780-12-02">2 décembre 1780</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’âme vivement affectée du malheureux événement dont je viens d’apprendre
+    la nouvelle, que V. M. I. permette à l’amitié qu’Elle a su m’inspirer, de mêler dans ces moments
+    cruels à tout coeur sensible mes regrets sincères à Sa juste douleur. Plus je me souviens de
+    tout ce que V. M. I. se plaisait à me dire de <rs ref="people.xml#mar01"> cette auguste
+     princesse</rs>, et plus j’entre dans tous les mouvements dont V. M. I. a dû être affectée dans
+    les tristes instants de sa perte. Ce n’est point pour les Lui renouveler que j’ai pris la plume,
+    mais uniquement pour partager Ses peines avec la franchise d’une amitié vraie et sans feinte.
+    Elle me porte encore à faire les voeux les plus fervents pour la santé, la gloire et l'heureux
+    règne de V. M. I. Ses hautes vertus ont un vaste champ; le monde entier Lui demande des
+    exemples. Je ne doute point de ceux qu’il a à attendre, étant avec la plus haute considération
+    et tous les sentiments qui Lui sont dûs……</p>
+  </body>
+ </text>
+</TEI>

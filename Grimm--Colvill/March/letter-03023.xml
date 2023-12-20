@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03023</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03023</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-15">15/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:39:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03023">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1778-12-25">25 décembre 1778</date>.</dateline>
+   <salute>Avant de commencer ma réponse à votre No 29, qui m’est arrivé hier, permettez
+    que je vous fasse mes compliments sur l’anniversaire de la naissance de notre Seigneur et sur le
+    futur renouvellement d’année, qui vraisemblablement sera commencée depuis longtemps quand
+    celle-ci vous parviendra. Tout ceci est par représailles et en guise de remercîment pour tout ce
+    que vous me dites au sujet de ma fête.</salute></opener>
+   <p>Eh bien, vous êtes à présent à <placeName ref="places.xml#par01"> Paris</placeName> avec des chapeaux, des rubans, des
+    enseignes, des hôtels et des cafés de <placeName ref="places.xml#rus01"> Russie</placeName> et à la russe; je me souviens du
+    temps où tout était à la marabout. Voyez un peu ce que c’est que les vicissitudes de ce monde. Ô
+     <persName ref="people.xml#oua01"> Ouen-Ouang</persName>! vous saviez tout cela sur vos doigts
+    et beaucoup d’autres choses encore, et vous n’en étiez pas plus gras pour cela. Savez-vous bien,
+    vous qui donnez des déjeuners aux jeunes demoiselles de dix à dix-neuf ans à propos de ma fête
+    et qui critiquez leurs coiffures et les chassez fort impoliment, parce qu’elles sont <seg
+     xml:lang="de"> naseweiß</seg>, quoiqu’il soit de l’essence des jeunes filles (élevées comme
+    celles de l’<placeName ref="places.xml#eur01"> Europe</placeName> le sont) de l’être,—savez vous, dis-je, que <persName
+     ref="people.xml#con02"> Confutzée</persName> était un des plus aimables et des plus admirables
+    philosophes qu’il y eut jamais? Dans l’autre monde, dès que j’aurai vu <persName
+     ref="people.xml#cae01"> César</persName> et <persName ref="people.xml#ale04">
+     Alexandre</persName> et tous mes anciens amis, pour sûr je demanderai <persName
+     ref="people.xml#con02"> Confutzée</persName>, car je veux raisonner avec lui à fond de ce qu’il
+    y aurait eu à faire dans celui-ci. Je suis persuadée que M. de <persName ref="people.xml#vol01"> Voltaire</persName> aura été
+    très satisfait de sa conversation, de sa gaité, de son aménité. Je soupçonne que son sublime
+     <persName ref="people.xml#oua01"> Ouen-Ouang</persName> ne le vaut pas, mais qu’il a fait
+    valoir ses vertus pour servir de modèle à ses successeurs; peut-être aussi était-il un peu
+    enthousiaste, et alors on voit quelquefois un peu plus qu’il n’y a, surtout lorsqu’on est
+    enthousiaste et aimable. Allons, je lui pardonne tout cela, vu l’admirable rôle qu’il fait jouer
+    à son <persName ref="people.xml#oua01"> Ouen-Ouang</persName>, qui est un personnage à
+    toutes sauces en rang d’oignon avec les <title ref="works.xml#logera01"> loges de
+     Raphaël</title>, l’oeuvre de <persName ref="people.xml#bib04"> Bibiena</persName> etc. etc. etc. <seg xml:lang="de">und alle volcanische Orcanum oder Zugemüse, wie auch
+     Zwischengerichte von wenigerer Wichtigkeit</seg>. </p>
+   <p>Est-ce ma faute à moi si les têtes de Borne et de <placeName ref="places.xml#par01"> Paris</placeName> sorti disposées à
+    prendre feu, est-ce ma forte si elles sort composées de matières combustibles? Voilà bien du
+    bruit pour une omelette, disait feu Des baireaax; comment, comment, c’est l’adresse de ma lettre
+    à <persName ref="people.xml#den02"> madame Denis</persName> qui y a contribué? Je ne savais
+    point ses titres, et bonnement j’ai dit la pure vérité ‘à madame Denis, nièce d’un grand homme
+    qui m’aimait beaucoup; <seg xml:lang="de"> das heist man schlecht und recht auf gut
+     Teutsch</seg>. Madame Denis m’a répondu par une lettre charmante, sur laquelle le baume de
+    l’esprit de <persName ref="people.xml#vol01"> Voltaire</persName> plane. Je serais très curieuse de savoir si elle a composé
+    elle-même cette lettre.</p>
+   <p>Ma pourquoi avez-vous toujours mon économie à la bouche? Dans deux ans d’ici, quand j’aurai
+    quelques millions de revenus de plus, je vous avertis que je deviendrai d’une avarice sordide.
+    Ecoutez, allez bride en main dans vos jérémiades; vous me dites que j’ai voulu vous humilier et
+    vous affliger; or, je n’ai jamais voulu ni l’un ni l’autre: je vous ai dit simplement <seg
+     xml:lang="de"> und offenherzig</seg> ce que je pensais des récompenses données aux héritiers de
+     <seg xml:lang="en"> milord</seg>
+    <persName ref="people.xml#pit02"> Chatam</persName>. Or, de la façon dont vous prétendez que je
+    vous ai humilié sans toujours le vouloir, sachez que vous m’avez humiliée quelques centaines de
+    fois depuis que je vous connais, car assurément plusieurs centaines de fois dans ma vie je suis
+    convenue que vous aviez des idées pins claires ou plus justes ou plus étendues que les miennes,
+    mais vous êtes en droit, comme tout autre, de dire: l’on ne s’avise jamais de tout; <seg
+     xml:lang="de"> wir sind alle Menschen und dieses mahl hat sie gesehen was mir par distraction
+     nicht im Kopf gekommen ist</seg>.</p>
+   <p>A présent débattons l’article des douleurs: le tout pesé, je crois qu’il vaudra mieux le
+    renvoyer an temps de l'arrivée des manifestes ; il est vrai qu'il peut y en avoir de plusieurs
+    sortes différentes. Le <persName ref="people.xml#fri02"> coadjuteur</persName> m’a la mine de
+    devenir le coq du village de l’<placeName ref="places.xml#ger01"> Allemagne</placeName>: toutes les princesses mariables ou leurs
+    parents aspirent à son alliance; morgué, elles ont le bon nez. Le <persName
+     ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01"> Suède</placeName></persName> <rs ref="people.xml#pfi01"> le
+     veut pour sa soeur</rs>, la <persName ref="people.xml#mar02"> grande-duchesse</persName> pour
+    la sienne; vous voilà aussi sur le tapis. Je vous avoue que vos propositions seront celles qui
+    me plairont le plus, parce que j’estime infiniment le <persName ref="people.xml#kar03"> prince
+     héréditaire de Brunswick</persName>. Mais jamais je ne gênerai le choix du prince coadjuteur,
+    qui a déjà fait, je crois, quelque légère proposition par persuasion de perruques au pr. de
+    Wirtemberg sons la clause que si dans deux ans après s’être vue on se convenait, il tendrait lui
+    faire voir la vôtre, et peut- être Péris donnerait-il la pomme à la pins aimable, sauf toute
+    ressemblance d’oncle, de tante, de maman et grand maman Flotes; il est à <placeName
+     ref="places.xml#ham01"> Hambourg</placeName> présentement. Je trouve que vous devenez d’une
+    très grande indiscrétion: ne voilà-t-il pas imprimé dans les gazettes que j’ai demandé les plans
+    de <placeName ref="places.xml#fer01"> Ferney</placeName>? </p>
+   <closer><signed rend="inline">Mais adieu, il ne faut point qu’on dise dans mon histoire que je passais
+    ma vie à vous écrire.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03013</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03013</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+   
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There are two instances of multiple codes for one person - not sure why - several generations?? Emma</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-13">13/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:37:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03013">
+  <body>
+ 
+   <opener><dateline>A <placeName ref="places.xml#tsa01">
+     Tsarekoé-Sélo</placeName>, ce <date when-custom="1778-08-24">24 d’auguste 1778</date>.</dateline></opener>
+   <p>Ce No 20 tant annoncé, tant prôné par tant de post-scriptum, est enfin arrivé gros de 12 pages
+    in-quarto, accompagné d’un très gros arrêt un conseil d’état du roi. Le tout ainsi considéré en
+    gros, venons aux détails. Si vous avez été plus d’une semaine sans m’écrire, en revanche vous
+    m’avez écrit plus d’un mois de suite, temps ajouté à celui que votre lettre aura été en chemin,
+    et cela fera, le tout ensemble, le temps énorme que j’ai été sans recevoir antre chose que des
+    post-scriptum qui ne contiennent que de fichues affaires soit-dîsant importantes. Tout cela sent
+    un peu le reproche; mais comme j’ai fait souvent de pareils, je me retiens et n’ai rien autre
+    chose à dire, sinon: <seg xml:lang="de"> Null mit Null geht auf</seg>. Mais dites la vérité, il
+    n’y a pas de parité entre les deux faces et <rs ref="people.xml#jos01"> votre ami</rs> qui court
+    ça et là pour chercher s’il n’y a pas un boulet de canon pour lui. Je pense que dans cette belle
+    affaire, comme dans bien d’autres, il y aura par-ci par-là des réputations de gagnées et
+    d’autres de perdues. Si la gourmandise sera punie par une indigestion, justice sera faite, mais
+    c’est Manman qui est inconcevable; elle nous en donne plaisamment à garder avec son
+    désintéressement si généreux et ce coûte que coûte pour n’aller pas au diable, et puis il
+    y a là-dessous tant de tours de passe-passe qu’il faut être bien sur ses gardes pour n’y pas
+    être pris comme dans un filet: <seg xml:lang="de">ja, das sind
+     Taschenspieler die ihres Gleichen nicht haben</seg>. Le beau rôle qu’on fait jouer encore au
+    seigneur tondu: <seg xml:lang="de"> der Mann hat nicht vor ein Kopicken Blut in seinem Adern,
+     das ist ein auch dummer armer Teufel.</seg></p>
+   <p>Ne me parlez plus de verve de théâtre: je n’ai plus de verve que pour dire des injures aux
+    gens sans conscience, sans âme, sans coeur et sans tête. Voilà ce que c’est que d’être un sage:
+    on traite de grandes niaiseries les maux des autres, on se rit d’eux, on manie leur <seg
+     xml:lang="de"> Thun und Laßen</seg>, comme un enfant une orange; on vous lâche une comparaison
+    du talon d’Achille, et on lui donne le titre de cousin germain avec une légèreté, une facilité
+    au-dessus de celle des plus lestes danseurs de corde de ce siècle -et de tout ceux qui l’ont
+    précédé. Allez, ne m’en parlez pins; il n’y a plus ni chèvre, ni chou; il n’y a que Pyrrhus, roi
+    d’Epire, que tout sculpteur devrait sculpter, tout peintre devrait peindre et tout poète
+    chanter. C’est le règne des beaux-arts, les <persName ref="people.xml#bib03 people.xml#bib04">
+     Bibiena</persName>, les Raphaël, les bains de Titus, <persName ref="people.xml#bla01">
+     Blackstone</persName> et les jardins de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> et les beaux bâtiments du
+     <persName ref="people.xml#pot01"> prince Potemkine</persName>, qui surpassent tout ce que je
+    connais, qui ont repris leurs postes tout à côté de la législomanie la plus profonde, la plus
+    recherchée. Voilà le petit tourbillon dans lequel nous tournons en attendant que <persName
+     ref="people.xml#cez01 people.xml#jan01">M. Ali-Bey, capitan-bacha</persName> du très haut
+    et très puissant <persName ref="people.xml#abd01"> Abdoul Hamet</persName>, empereur des
+    Turcomans, vienne faire sa descente en <placeName ref="places.xml#cri01"> Crimée</placeName>, ou telle autre part qu’il lui
+    conviendra. Or, avec tout ce que susdite imagination quelconque peut être satisfaite, la mienne,
+    quoi que vous en disiez, ne saurait faire des vers, mais bien par-ci par-là quelque description
+    exacte, et si dame Nature fait de la poésie, nous la décrivons comme elle est; mais ce n’est pas
+    nous qui imaginons, ni nous qui voyons poétiquement. Pour des moutons ou bien des têtes de
+    montons et de bons citoyens, nous les respectons beaucoup, mais nenni les envions, et si cela
+    s’appelle être incorrigible, je me confesse entre vos mains de l’être.</p>
+   <p>Je ne veux plus parler de votre fête, ni de celle du <rs ref="people.xml#azo01"> seigneur de
+     la Guadeloupe</rs>: cela est vieux comme Hérode. Comme vous y allez, s’il vous plaît! qui est
+    ce meilleur poète et ce meilleur historien de mon empire? Ce n’est pas moi pour sûr, n’ayant
+    jamais fait ni vers ni histoire. Et mes pauvres phrases encore, que vous ont-elles. fait pour en
+    faire un misérable recueil? je vous ai dit mille fois que je ne vous écris point, je jase avec
+    vous. J’ai ordonné d’acheter chez <persName ref="people.xml#eri01"> Erikson</persName> mes
+    portraits, fussent-ils trente coûte qu’il coûte. Outre cela, il y a une quantité prodigieuse de
+    mes portraits dans ma galerie, qu’on copie d’après <persName ref="people.xml#ros01">
+     Roeslin</persName>: chacun en aura, et quand on les aura, en sera-t-on plus gras ou plus
+    maigre, et qu’est-ce que cela me fait qu’on les ait ou qu’on ne les ait pas? Je vous jure que
+    tous ceux de mes prédécesseurs sont la plupart au grenier; j’en ai moi-même deux ou trois
+    garde-meubles de remplis.</p>
+   <p>Patience, vous aurez <seg xml:lang="de"> die sechzehnjährige Prüfung</seg>, comme elle est
+    sortie de ma plume. Vous pouvez être persuadé que nous n’avons rien fait de mieux; mais comme
+    tout le monde n’a pas mon ménage dans sa tête comme moi, cela a fait qu’il y a quelques endroits
+    obscurs qu’on arrange sous mes yeux et ceux du <persName ref="people.xml#pot01"> pr. Potemkine</persName>, qui, peu flatteur de
+    son naturel, regarde cette pièce comme un chef-d’oeuvre et s’intéresse singulièrement à sa
+    réussite. Le <persName ref="people.xml#orl01"> pr. Orlof</persName> la trouve très belle aussi;
+     <persName ref="people.xml#shu02"> M. Schouvalof</persName> dit que c’est une pièce académique;
+    d’autres pleurent en la lisant; quelques-uns s’échauffent. Je trouve moi qu’il y a une si longue
+    suite de grandes ideés, le sujet par lui-même est si vaste que cela fatigue l’attention, et que
+    par là peu de personnes sont en état d’en suivre la lecture, qui est trop rapide toujours pour
+    la multitude de choses qu’elle contient, d’autant plus que le style en est d’une concision
+    précieuse, mais par là même la difficulté de suivre est augmentée pour tous ceux qui ne sont pas
+    rompus dans les affaires ou l’étude. A dire la vérité, je n’entends rien à l’arrêt que vous
+    m’avez envoyé. Les affaires de finances chez vous sont un art que j’ignore; chez nous toute
+    commune envoie ses charges deux fois l’année au trésorier du cercle; il n’y a en ferme que l’eau
+    de vie; j’ai établi des chambres de finances dans chaque gouvernement; les trésoriers en
+    dépendent, et dans tout cela le sieur archevêque n’a rien à faire, comme de raison. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien, cela suffit pour aujourd’hui.</signed></closer>
+   <postscript><p>P. S. <seg xml:lang="de"> Die sechzehnjährige Prüfung ist ein Spiegel worin
+     man sieht viele Sachen und vieler Sachen Ursach</seg>. Nous rendons un peu compte des choses,
+    sans cependant en faire le semblant en aucune façon; ça va là tout naturellement, et l’on
+    jurerait qu’il est tout à fait nécessaire que cela soit ainsi; outre cela, après l’avoir lue,
+    vous diriez que vous saviez tout ce qu’il y a là, et vous le saviez aussi, mais cela n’était pas
+    par écrit.</p></postscript>
+  </body>
+ </text>
+</TEI>

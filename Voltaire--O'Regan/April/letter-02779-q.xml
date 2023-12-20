@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02779</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02779</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>No date by CatII – only written in English by online
+     edition. Unable to find reference to Michael Rose #1774-09-25.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:34:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02779">
+  <body>
+ 
+   <p>Monsieur, Votre lettre du 29 du mois passé, que je vient de reçevoir
+     m'instruit dans l'espace des sept lignes qu'elle contient de la part que Vous prenéz, à la
+     conclusion de ma Paix avec le seigneur <persName ref="people.xml#abd01"> Abdul
+      Hamet</persName>. Vous voudrés bien en recevoir mes
+    très sincère remerciment, et quoique Vous me boudiés encore sur mon long silence, cependant
+    cette très courte dépêche me donne une lumière d'espérance qu'à la réception de ma lettre du 24
+    j'obtiendrai de Vous une absolution plénière de péchés involontaire; de nouvelles je n'ai point
+    à Vous en mander dans ce moment d'autres sinon qu'il y a toute aparence que m<hi
+     rend="superscript">r</hi> le marquis
+     <persName ref="people.xml#pug01"> Pougatchef</persName> est sur le point de finir son rôle. Sur le compte
+    du Livonien <persName ref="people.xml#ros04"> Michael Rose</persName> je m'en raporte à ma dernière et si
+    après cela Vous insistés, pour un sauf conduit je lui en enverré pour que Vous cessiés de croire
+    qu'il y existe un sujet d'humeur entre nous.</p>
+  </body>
+ </text>
+</TEI>

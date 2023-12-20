@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03569</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03569</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-20">20/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:53:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03569">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Tsarsko-Sélo</placeName>, ce <date when-custom="1779-08-23">23 d’aôut 1779</date>.</dateline></opener>
+   <p>Le <seg xml:lang="de"> höchstbetrübter Vortrag</seg> No 8 vient de m’arriver. Je savais la
+    mort de <persName ref="people.xml#men01"> Mengs</persName> par les gazettes, et j’ai jeté les
+    hauts cris en l’apprenant: il est horrible que tout le monde nous quitte comme cela et qu’en
+    fait d’art il n’y ait que les gueux qui nous restent; halte-là, madame, gueux vis-à-vis de
+     <persName ref="people.xml#men01"> Mengs</persName>, le bel encouragement que vous donnez là aux
+    arts et aux sciences. Voilà un commencement de réponse à un <seg xml:lang="de"> Vortrag</seg>
+    qui ressemble comme deux gouttes d’eau à un chapitre de <title ref="works.xml#trista01"
+     >Tristram Shandy</title>; ma foi, qu’il parte; il ira par la poste tout comme un
+    autre. Je ne sais pas pourquoi vous me donnez la charge de commentateur des pancartes du divin
+    par excellence: ce divin devient, de pancarte en pancarte, plus prolixe; je désespère de pouvoir
+    le suivre, et la mort de <persName ref="people.xml#men01"> Mengs</persName> me décourage de
+    nouveau: quand il vivait, cependant, je ne croyais pas vivre pour lui plaire et n’ai guère eu de
+    connexion avec lui ; ma je n’aime point que les gens, comme je les aime, meurent.</p>
+   <p>L’illustre <persName ref="people.xml#wag02"> Wagnière</persName> est toujours malade et la
+    bibliothèque emboîtée; l’impatience m’a prise: j’ai fait tirer de ses caisses du <persName ref="people.xml#cle01">
+    Clérisseau</persName>; on m’a apporté la maison quarrée de <placeName ref="places.xml#nim01">
+     Nîmes</placeName>, et cela m’a donné de l’appétit pour du <persName ref="people.xml#cle01"> Clérisseau</persName>; ainsi
+    sachez que toute oeuvre sous ce titre sera la très bien venue, <seg xml:lang="la"> salve Tu
+     Domine</seg>. Or, à propos de cela, il faut en passant que vous sachiez que dans tout cet opéra
+    il n’y a pas un air que je ne sache par coeur, et que depuis sti-là je crois que <persName
+     ref="people.xml#pai01"> Païsiello</persName> peut faire rire, pleurer et donner à l’âme, à
+    l’esprit et au coeur tel sentiment qu’il voudra, et que c’est un sorcier. Je fais copier cela
+    pour vous et je crois fermement que c’est son chef-d’oeuvre, vu que ni l’idole chinoise, ni
+    Démétrius, ni etc. n’approchent point de cette <seg xml:lang="it"> musica</seg>-là.</p>
+   <p>Ecoutez, ni vous, ni <persName ref="people.xml#rei03"> Reiffenstein</persName>, ni
+    l’ambassadeur d’<placeName ref="places.xml#spa01"> Espagne</placeName>, vous n’avez aucun droit sur les deux mille scudi touchés
+    par <persName ref="people.xml#men01"> Mengs</persName> et envoyés par le <rs
+     ref="people.xml#shu02"> gr. chambellan</rs>: cet argent appartient aux enfants non établis ou
+    en bas âge, on non pensionnés de feu <persName ref="people.xml#men01"> Mengs</persName>; c’est
+    un secret que je vous confie; vous plaiderez, si vous voulez ou selon les circonstances, la
+    cause des deux mille scudi en mon nom, <seg xml:lang="it"> ma</seg> l’argent est à eux et à
+    personne autre, argent intact, sans frais quelconques, argent de mineur à placer pour le plus
+    grand profit du propriétaire, à considérer comme un legs irrévocablement fait, dont vous et
+     <persName ref="people.xml#rei03"> Reiffenstein</persName> êtes les exécuteurs testamentaires et
+    que (sic) sous damnation imp. vous ne pouvez contrevenir &amp; la destination énoncée, permis à
+    vous de récuser en cas de besoin la protection du <persName ref="people.xml#ber03"> c. de
+     Bernis</persName> pour vos deux mille scudi, avec ferme confiance qu’il ne vous la refusera
+    pas, vu le cas. Voyez quel tintamarre je fais pour cette petite somme-là: ne dirait-on pas que
+    ce sont des millions?</p>
+   <p>Monsieur, je n’ai aucun ordre à donner à l’<orgName ref="orgs.xml#acad02"> Académie des
+     beaux-arts</orgName>: tous ces établissements se régissent bien ou mal eux-mêmes; ainsi le
+    divin tirera ou ne tirera point sa pension de là selon le bon plaisir d’icelle; tout ce que je
+    puis faire pour lui, ne m’entendant point en comptes de scudi, c’est de lui faire tenir tons les
+    ans une pension de cinq cents ducats d’<placeName ref="places.xml#hol02"> Hollande</placeName>, chose que j’ordonnerai
+    incessamment ou, pour parler plus clair, en finissant cette lettre. <seg xml:lang="de"> Nun
+     weiter</seg>. Messires les architectes italiens <persName ref="people.xml#tro04">
+     Giacomo Trombara</persName> et <persName ref="people.xml#qua01"> Geronimo Quarenghi</persName>, amis
+    respectifs de <persName ref="people.xml#pai01"> Païsiello</persName> et de <persName
+     ref="people.xml#tis01"> Tischbein</persName>, seront les très bienvenus. J’ai demandé au
+    premier de leurs nouvelles: il les connaît tous deux; s’ils ont la tête aussi bonne que lui, ce
+    seront gens à mettre en poche. J’ai voulu deux Italiens, parce que nous avons des Français qui
+    en savent trop et font de vilaines maisons intérieurement et extérieurement, parce qu’ils en
+    savent trop.</p>
+   <p><seg xml:lang="de"> Nun kommen die commentarii</seg>. Lettre du cher M. du 16 juin. Je trouve
+    le cher M. un habile négociateur. Il rôde comme un chat autour du pot avant que de l’entamer; il
+    a négocié l’affaire des deux architectes comme on pourrait traiter une paix ou un congrès; <seg
+     xml:lang="de"> das ist unvergleichlich und ein schönes Modell um die Sachen zu tractiren</seg>.
+    Le cher <persName ref="people.xml#tis01"> M. Tischbein</persName>, depuis qu’il est ici, nous a
+    livré un théâtre en modèle, et un autre en dessin, dont l’un va être bâti
+    à <placeName ref="places.xml#pet02"> Péterhof</placeName> et l’autre à <placeName ref="places.xml#mos01"> Moscou</placeName>. Or, vous saurez en passant que la
+    fureur de bâtir .chez nous est plus forte que jamais, et guère tremblement de terre n’a plus
+    renversé de bâtiments que nous en élevons:<seg xml:lang="de"> das Bauen ist eine verteufelte
+     Sache; das frisst Geld, und je mehr man bauet, je mehr will man bauen; das ist einen Krankheit,
+     so wie das Saufen, oder auch eine Art von Gewohnheit</seg>. A présent je me suis emparée de
+     <persName ref="people.xml#cam01"> mister Caméron</persName>, écossais de nation, jacobite de
+    profession, grand dessinateur nourri d’antiquités, connu par un livre sur les bains anciens;
+    nous façonnons avec lui ici un jardin en terrasse avec bains en dessous, galerie en dessus; cela
+    sera du beau, beau, comme dit <persName ref="people.xml#bla02"> maître Blaise</persName>. M’en
+    voilà à l’Ave Marie du divin, c’est-à-dire à la fin de la lettre du 16 juin. Je prends celle du
+    23 juin et j’y retrouve <persName ref="people.xml#qua01"> Quarenghi</persName> et <persName
+     ref="people.xml#tro04"> Trombara</persName>; hélas, monsieur, que ne sont-ils déjà ici? Leur
+    habileté, leur moeurs et le peintre <persName ref="people.xml#tis01"> Tischbein</persName>
+    encore que ne les accompagne-t-il? <seg xml:lang="de">Wissen Sie was
+     Neues</seg>? J’ai une petite salle attachée à un bain russe ici dans mou petit jardin; je la
+    fais peindre, avec votre permission, d’après les bains de Titus, un peu antés sur les <title ref="works.xml#logera01">loges de Raphaël</title>, et quoique cela ne soit point
+    achevé encore, tout le monde y court déjà, et ce salon acquiert beaucoup de réputation parmi mon
+    tripot de princes disputeurs et critiqueurs: <seg xml:lang="de"> das ist nun wieder eine
+     Frage</seg> .</p>
+   <p>Je suis fort aise que <persName ref="people.xml#qua01"> Quarenghi</persName> amène sa femme:
+    cela fera une bonne compagnie pour <persName ref="people.xml#pai02"> Mad. Païsiello</persName>,
+    qui se promène toujours presque toute seule dans mon jardin; il y a longtemps que je désirais
+    qu’elle eût avec qui se promener. Ah, du <persName ref="people.xml#cor01"> Corrège</persName>?
+    S’il vous plaît! Si <persName ref="people.xml#jen01"> M. Jenkins</persName> peut se défaire, au
+    dire des experts, à un prix raisonnable de ses Corrège et que divin nous en fasse part, il est à
+    parier que ces <persName ref="people.xml#cor01"> Corrège</persName>, avec une prodigieuse
+    compagnie de ses compatriotes inconnus à vous, iront occuper les nouveaux appartements depuis l’
+     <placeName ref="places.xml#her01"> hermitage</placeName> jusqu’au pont qui mène an corpus; <seg
+     xml:lang="de"> das Haus wird so voll Sachen das man keinem Platz mehr findet</seg>. Dites s’il
+    vous plaît au <rs ref="people.xml#rei03"> divin</rs> de ne pas oublier les <title ref="works.xml#logera01">Raphael</title> etc. qu’il vante tant, car tout ce qui
+    est bon est assez bon à voir. Cela veut dire que nous voulons tout, excepté ce que nous ne
+    pouvons avoir; <seg xml:lang="de"> das ist ein großer</seg> appétit. Ah, monsieur <persName ref="people.xml#wag01">
+    Wagner</persName> et <persName ref="people.xml#car01"> Mad. Cardel</persName>, que ne prêchiez-vous pas à
+    cet esprit gauche? La lettre du 30 juin m’a touchée aux larmes, je n’y touche point. La gloire
+    de <persName ref="people.xml#men01"> Mengs</persName> est établie; dites à <persName
+     ref="people.xml#rei03"> Reiffenstein</persName> que s’il me peut faire avoir de son ouvrage,
+    qu’il en achète pour moi. Pour au camée, je n’ai aucun droit, à moins qu’on ne le vende. Mais
+    écoutez donc, cette année est fatale au mérite, et le <persName ref="people.xml#pac01"> baron de
+     Zuckmantel</persName> est mort aussi; tous mes partisans désertent; <seg xml:lang="de"> aber,
+     mein Gott, was wird denn das werden</seg>?</p>
+   <p>Mais voilà <persName ref="people.xml#ale01"> M. Alexandre</persName> qui arrive; j’en fais un
+    marmot délicieux; il est étonnant que, sans savoir parler, cet enfant a des connaissances A 20
+    mois au-dessus de la faculté de tout autre enfant de trois ans. Grand’maman en fait ce qu’elle
+    veut: morgué, il sera aimable; je n’en aurai pas le démenti: comme cela est gai et de bonne
+    volonté, cela cherche à plaire dès à présent. </p>
+   <closer><signed rend="inline">Adieu. Il faut aller jouer avec lui.</signed>
+   <dateline>Ce <date>26 d’aôut.</date> </dateline></closer>
+   <postscript><p>Pourriez vous me faire le plaisir de m’envoyer la copie du sonnet qu’on vous présenta à la
+    porte de la ville de Capoue et que voue prîtes pour un billet de douane; vous ne m’avez jamais
+    parlé de ce poète-là, cependant il serait fâcheux que son nom me restât inconnu: j’en ai conçu
+    la plus haute idée.</p></postscript>
+  </body>
+ </text>
+</TEI>

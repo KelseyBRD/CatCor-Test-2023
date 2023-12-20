@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01088</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01088</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:26:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01088">
+  <body>
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, ce <date
+      when-custom="1788-10-07">7 d’octobre 1788</date>.</dateline></opener>
+   <p>Monsieur mon frère. La part que V. M. I. a bien voulu prendre au succès réitéré de mes armes
+    sur la <placeName ref="places.xml#bla01"> mer noire</placeName>, m’est un témoignage nouveau et
+    bien cher de Son amitié et de l’intérêt qu’Elle continue de prendre à ce qui me regarde, dont
+    j’ai d’ailleurs déjà tant de preuves authentiques. J'espère que V. M. I. est convaincue de la
+    reconnaissance que mon coeur Lui a vouée. Les procédés injustes, choquants, ridicules et même
+    dénués du bon sens le plus commun du <persName ref="people.xml#gus01"> Roi</persName>
+     de <placeName ref="places.xml#swe01">Suède</placeName> étaient bien propres à exciter
+    l’indignation de V. M. I; elle n’a pu être qu’augmentée par la proposition que le <rs
+     ref="people.xml#cel01"> ministre</rs> de <placeName ref="places.xml#swe01"
+     >Suède</placeName> à <placeName ref="places.xml#vie01">Vienne</placeName> a osé Lui faire, de
+    Lui procurer avec la <placeName ref="places.xml#ott01">Porte</placeName> une paix séparée par le
+    crédit prépondérant du <persName ref="people.xml#gus01"> Roi</persName> de <placeName
+     ref="places.xml#swe01">Suède</placeName> à <placeName ref="places.xml#ist01"
+     >Constantinople</placeName>. Celui-ci cependant jusqu’ici ne paraît pas lui avoir procuré à
+    lui-même les secours dont il aurait le plus urgent besoin. Mes nouvelles disent comme si Ses
+    troupes manquaient de bien de choses et nommément d’argent, de provisions, d’ammunitions et de
+    vêtements; avec cela <persName ref="people.xml#gus01"> Sa Majesté Suédoise</persName> veut aller
+    à des conquêtes. Sa flotte, enfermée jusqu’à cette heure à <placeName ref="places.xml#suo01">
+     Sweaborg</placeName>, aura fourni un argument assez convainquant que ce ne sont pas les
+    relations trompeuses du <persName ref="people.xml#gus01"> Roi</persName> de <placeName
+     ref="places.xml#swe01">Suède</placeName> qui auront décidé du gain de la <name
+     ref="events.xml#hogla01"> bataille navale du 6 de juillet</name>. V. M. I. est déjà instruite
+    sans doute de ce que pour couronner ses oeuvres, ce prince vient de se jeter, a ce qu’il dit,
+    entre les bras des <persName ref="people.xml#lou01 people.xml#cha09">Rois</persName>
+     de <placeName ref="places.xml#fra01">France</placeName> et d’<placeName ref="places.xml#spa01"
+     >Espagne</placeName> seuls pour lui procurer la paix, tandis qu’il a prié instamment les
+    <persName ref="people.xml#fri03 people.xml#geo02">Rois</persName> de <placeName
+     ref="places.xml#pru01">Prusse</placeName> et d’<placeName ref="places.xml#eng01"
+     >Angleterre</placeName> seuls aussi de lui servir de médiateurs pour le même objet, et qu’il a
+    fait dire au <persName ref="people.xml#chr01"> Roi</persName> de <placeName
+     ref="places.xml#den01"> Danemarc</placeName> son beau-frère qu’il lui remettait à
+    lui seul encore de lui faire avoir la paix avec moi. La même proposition encore a dû être faite
+    aux <rs ref="places.xml#hol02"> Etats-Généraux</rs> apparemment seuls aussi. Comme ce n’est, pas
+    le plus court chemin pour aller à la paix, que le <persName ref="people.xml#gus01">
+     Roi</persName> de <placeName ref="places.xml#swe01">Suède</placeName> a choisi, j’augure deux
+    choses : l’une qu’il ne veut pas la paix, l’autre qu’il cherche à mettre l’<placeName
+     ref="places.xml#eur01">Europe</placeName> entière en combustion. Les réponses que j’ai faites à
+    tous ces médiateurs, chacun croyant un moment l’être seul, j’ai ordonné de les communiquer au
+    ministère de V. M. I.</p>
+   <p>Qu’il me soit permis de déposer dans le sein de V. M. I. les inquiétudes mortelles que me
+    donnent les moindres altérations qui peuvent survenir à la précieuse santé de V. M. I. et
+    surtout dans un climat aussi malsain. </p>
+   <p>Je me tais, mais je tremble en y pensant; je prie Dieu de tout mon coeur de veiller sur des
+    jours aussi chers, de bénir toutes Ses entreprises et de Lui procurer les plus glorieux
+    succès.</p>
+   <closer><signed>C’est avec la plus haute considération et l’amitié la plus inviolable que je serai toute ma
+    vie ... .</signed></closer>
+  </body>
+ </text>
+</TEI>

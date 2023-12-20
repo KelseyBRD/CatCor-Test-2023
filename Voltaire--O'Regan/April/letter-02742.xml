@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02742</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02742</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Nb. inclusion</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#southernprovinces"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:24:05Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02742">
+  <body>
+
+   <p>Monsieur, Vous aimés les belles âmes, voyés comme celle du Cte:
+      <persName ref="people.xml#orl03"> Alexis Orlof</persName> s’est peinte dans la
+     réponse qu’il a faite aux consuls chrétiens de <placeName ref="places.xml#izm02">
+      Smirna</placeName>. Je suis
+    persuadée que Vous serés content de lui. L’imprimé si joint la contient. Aije tort quand je dit
+    que ses gens là sont nés pour les grandes choses?</p>
+   <p>Vous me demandés dans Votre lettre du 21 septembre si le général <persName ref="people.xml#tot02">
+     Totleben</persName> s’est emparé d’<placeName ref="places.xml#erz01"> Erzerum</placeName>? Je Vous ai
+    informée je pense que sa dernière conquête que je sache étoit la Ville de
+     <placeName ref="places.xml#kut01"> Cotatis</placeName>. On ne va pas si vite en guerre parcequ’il faut
+    faire deux repas par jour, et que pour que cela se fasse il faut ou avoir ou trouver de quoi. Je
+    veux sincèrement la Paix, non pas parce que les ressources me manque pour faire la guerre, mais
+    parce que je hait l’efusion du sang humain. Si Monsieur <persName ref="people.xml#mus01">
+     Moustapha</persName> veut faire l’opiniâtre j’espère qu’il nous trouvera l’année qui vient
+    partout où nous pourrons lui persuader qu’il vaut mieux céder aux circonstances pour sauver son
+     <placeName ref="places.xml#ott01"> Empire</placeName>, que de pousser l’entêtement jusqu’à l’extrémité.</p>
+   <p>Les Grecs, les Spartiates, ont bien dégénéré, ils aiment la rapine mieux
+     que la liberté. Ils sont perdus à jamais s’ils ne profitent point des dispositions et des
+     conseils du héros que je leur ai envoyé.  Je ne parle point des Venitiens. Je trouve qu’il n’i a que le pape et le
+      <rs ref="people.xml#cha10"> Roy</rs> de <placeName ref="places.xml#sar02">
+      Sardaigne</placeName> qui aye du mérite en <placeName ref="places.xml#ita01">
+      Italie</placeName>. Soyés assuré monsieur qu’on ne sauroit sentir plus de satisfaction que j’en
+     ressent chaque fois que je reçois de Vos lettre, elles contienent tant de témoigna[ges] de Votre amitié que je ne puis que Vous
+     en être très obligée.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed>
+   <dateline> ce <date when-custom="1770-10-09">9/20 d’Octobre 1770</date></dateline></closer>
+  <postscript> <p>Dans ce moment on vient de m’aporter la nouvelle que <placeName
+     ref="places.xml#bel03"> Belgorod</placeName>, en turk <placeName ref="places.xml#bel03">
+     Akkermann</placeName>, sur le <placeName ref="places.xml#dni01"> Dnester</placeName>, s’est
+    rendu le 26 sep: n: st: par Capitulation. Vous entendrés bientôt parler de Votre <placeName
+     ref="places.xml#bra01"> Brailow</placeName> je pense.</p></postscript>
+  </body>
+ </text>
+</TEI>

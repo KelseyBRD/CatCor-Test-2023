@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03675</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03675</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-25">25-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:56:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03675">
+  <body>
+
+   <opener><dateline> Се <date when-custom="1791-12-12">12 décembre 1791</date>, jour de la naissance de
+     <persName ref="people.xml#ale01"> M. Alex</persName>., où il entre dans sa 15-ième année.</dateline></opener>
+   <p>On vient de m’apporter votre lettre du 2 (13) novembre dans cet instant; <persName
+     ref="people.xml#bac01"> Bacchus</persName> est mort depuis huit jours, à ce qu’on est venu me
+    dire à cette occasion; ce sont ses ayant cause qui me l’ont envoyée. Je me porte bien, et les
+    affaires vont malgré la terrible perte que j’ai faite et que je vous ai annoncée la même nuit
+    qui suivit le soir où j’en reçus la fatale nouvelle; j’en suis encore profondément affligée. Le
+    remplacer est impossible, parce qu’il faut naître comme il était, et la fin de ce siècle
+    n’annonce guère de génie; mais en espérance peut-être en aurons nous d’habiles; il faut du
+    temps, des épreuves et de l’application. Pour moi, soyez sûr que je serai invariable et que
+    prêchant aux autres la persévérance, ce ne sera pas moi qui varierai. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien; ceci suffit pour aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

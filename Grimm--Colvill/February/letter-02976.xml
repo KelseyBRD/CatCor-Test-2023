@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02976</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02976</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:04:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02976">
+  <body>
+   
+   <opener><dateline>Du <placeName ref="places.xml#vos01">couvent de
+     Voskressenski</placeName>, à 45 verstes de <placeName ref="places.xml#mos01">Moscou</placeName>, ce <date when-custom="1775-09-14">14 septembre 1775</date>.</dateline>
+   <seg xml:lang="de">Das ist das neue Jerusalem dennoch, NB,
+     nicht dasjenige woron die Beschreibung in der Offenbarung Johannis so deutlich beschrieben und
+     noch deutlicher so oft commentiret worden von vielen Gelehrten priesterlichen und weltlichen
+     Standes.</seg></opener>
+   <p>Ne voilà-t-il pas une introduction de prêche qui promet beaucoup? Cependant je vous avertis
+    qu’il n’y a ni orage, ni grand vent, et que je vous écris de dessus un canapé <rs
+     ref="people.xml#str02"> d’abbé de ce couvent</rs>, c’est dire en termes polis, d’un fainéant;
+    or, je soupçonne que cette place n’a guère d’impulsion sur l’imagination, et voici ma preuve: ce
+    couvent jusqu’ici n’a produit ni vision ni miracle valable; il s’est contenté de très beaux
+    bâtiments et d’une ressemblance parfaite à l’église du saint sépulcre à <placeName
+     ref="places.xml#jer01"> Jérusalem</placeName>; pour cette cause grand nombre de curieux y
+    viennent, et les moines ayant beaucoup à montrer, n’ont que faire de conter. Ne voilà-t-il pas
+    un magnifique développement de choses?</p>
+   <p>Peut-être serez-vous curieux de savoir, <hi rend="italic">monsieur</hi>, pourquoi je vous
+    écris. En voici la cause: c’est par fainéantise, n’ayant absolument pas un chiffon de papier ou
+    d’affaire avec moi à dessein de jouir d’un désoeuvrement parfait; mais voyant sur ma table une
+    belle plume, un encrier très propre avec du papier blanc, le démon du griffonnage m’a tenté,
+    car, comme dit le proverbe, l’occasion fait le larron.</p>
+   <p>Mais observez un peu la marche de ma tête aujourd’hui: c’est bien elle qui va, ce n’est pas
+    moi qui la mène, et Dieu sait par où cette lettre finira, car je vous déclare que je n’ai rien,
+    absolument rien à vous dire, à moins que vous ne soyez curieux de savoir que ni <seg xml:lang="en">sir</seg>
+    <persName ref="people.xml#tho01"> Anderson</persName> ni <seg xml:lang="en"
+     >miss</seg> Mimi ne sont de ce pèlerinage, et cela par ménagement pour les meubles
+    du <persName ref="people.xml#che01"> maréchal Tschernichef</persName> (voyez l’attention !!),
+    dans la terre duquel à 66 verstes d’ici je suis invitée et où j’irai demain, et par conséquent
+    je serai rapprochée de <placeName ref="places.xml#pet01"> Pétersbourg</placeName> de quelques
+    dizaines de verstes.</p>
+   <p>Vous direz que je suis fort ambulante cette année. J’ai une réponse à cela, et une très belle
+    et utile maxime à produire à ce sujet: quand on est mal quelque part, on cherche à être mieux;
+    je suis très mal logée à <placeName ref="places.xml#mos01">Moscou</placeName> et dans un quartier malpropre : ma maison est
+    élevée et par elle-même et par le terrain qu’elle occupe ; les exhalaisons du voisinage y
+    répandent des parfums meilleurs pour les maux hystériques que pour l’agrément; ainsi je m’en
+    éloigne le plus souvent que je puis.</p>
+   <p>J’ai reçu tous vos présents, dont le <persName ref="people.xml#lec01"> marquis de
+     Juigné</persName> était chargé; je vous en fais mes remercîments. Cet homme-là me reviendrait
+    assez: il est rond, il est doux, il est de qualité, il paraît sans méchanceté et sans
+    imagination noire; reste à savoir s’il restera à lui-même, et si on ne détractera pas la montre
+    sensée; c’est le temps qui prouvera cela.</p>
+   <p>J’ai été ces jours-ci treize heures avec lui à la campagne, à cette campagne qui fait dans ma
+    précédente le pendant de <placeName ref="places.xml#kol01">Kolomenski</placeName>, et j’ai dit:
+    que le ciel donne qu’il voie par ses propres visières, car son serviteur est doux et bon, ou du
+    moins il me l’a paru pendant treize heure, et il a paru content et sans ennui, venant
+    de <placeName ref="places.xml#par01">Paris</placeName> au milieu de nous.</p>
+   <p>Le <persName ref="people.xml#lud02"> prince héréditaire de Hesse-Darmstadt</persName> est
+    parti ces jours passés pour retourner chez <rs ref="people.xml#lud01"> Monsieur son père</rs>:
+    que le bon Dieu l’accompagne! il est mieux là qu’à <placeName ref="places.xml#mos01">Moscou</placeName>... J’ai vu la
+    description de <placeName ref="places.xml#par01">Paris</placeName> par le <persName ref="people.xml#orl01"> prince
+     Orlof</persName>; il se loue beaucoup de l’accueil qu’on lui a fait; il y retournera, je pense. </p>
+   <closer><signed rend="inline">Adieu, je vous quitte pour m’en aller à l’église.</signed></closer>
+   <postscript><p> La statue de <persName ref="people.xml#pet01"> Pierre-le-Grand</persName>
+    dans la fonte a manqué: la tête de l’empereur, son bras droit et la tête du cheval sont à
+    refaire.</p></postscript>
+  </body>
+ </text>
+</TEI>

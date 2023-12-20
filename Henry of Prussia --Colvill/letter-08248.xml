@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08248</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08248</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#paul"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:27:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08248">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet02"
+     >Péterhof</placeName>, ce <date when-custom="1776-07-27">27 juillet 1776</date>.</dateline></opener>
+   <p>Le courier de <rs ref="people.xml#pau01"> mon fils</rs> m'a remis la lettre de V. A. R. du 27
+    juillet n. st., par laquelle Elle m'annonce la remise des lettres dont Elle a bien voulu se
+    charger, à leur destination. Je La prie d'en recevoir mes remercîments bien sincères et d'être
+    assurée que mon contentement sur l'<rs ref="events.xml#marri02"> heureux arrangement</rs> de
+    cette affaire, ses circonstances et tout ce qui y a rapport, égale celui que V. A. R. a vu
+    exister à <placeName ref="places.xml#ber01">Berlin</placeName>. La part que le <rs
+     ref="people.xml#fre01"> Roi</rs> y a paru prendre m'est un témoignage précieux de cette
+    ancienne amitié qui existe entre <rs ref="people.xml#fre01"> S. M.</rs> et moi, et qui ne s'est
+    jamais démentie de part et d'autre. Je ne suis pas moins sensible à l'intérêt que toute la
+    famille royale a pris à cet événement et aux attentions dont le grand-duc a été comblé de sa
+    part V. A. R. connaît mon cœur, Elle est persuadée, j'ose le croire, que le <rs
+     ref="people.xml#fri05"> prince</rs> et la <rs ref="people.xml#fri04"> princesse</rs> de
+     <placeName ref="places.xml#wur01"> Würtemberg</placeName>, en me confiant <rs
+     ref="people.xml#mar02"> leur fille</rs>, me donnent un dépôt dont je connais le prix, aussi ne
+    négligerai-je rien, de ce qui dépendra de moi, pour contribuer à son bonheur. J'espère que <rs
+     ref="people.xml#pau01"> mon fils</rs> me secondera sincèrement, il est enchanté de la <rs
+     ref="people.xml#mar02"> princesse</rs>, aussi a-t-il bien de l’être d'après le portrait que V.
+    A. R. me fait d'elle. J'augure avec Elle au mieux de cette union négociée par V. A. R. Je ne
+    saurais finir sans en réitérer à V. A. R. les sentiments de ma reconnaissance, ils se joignent à
+    ceux de la plus haute considération ...</p>
+  </body>
+ </text>
+</TEI>

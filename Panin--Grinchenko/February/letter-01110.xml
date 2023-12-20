@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01110</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01110</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Don't know which prince Anhalt-Köthen is mentioned here</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-23"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-06"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01110">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Есть ли достоинства Принца Ангальт-Кетенскаго таковы, как <persName
+                    ref="people.xml#sal03">Салтыков</persName> об нем писал, и <persName
+                    ref="people.xml#bet01">Генерал-Порутчик Бетцкой,</persName> персонально его
+                зная, подтверждает, то можете отписать, что мне противно не будет, когда он ко Двору
+                моему приедит. О благополучном пребывании и добром здоровье любезнаго моего сына я
+                сердечно радуюсь, благословение к нему посылаю, пребывая Вам доброжелательною.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed>
+               
+                <dateline> <placeName ref="places.xml#tri01">Троицкая Лавра.</placeName><date when-custom="1763-05-19">Маия 19 дня,<lb/> 1763 года.<lb/> По
+                        полудни въ 11 часовъ.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

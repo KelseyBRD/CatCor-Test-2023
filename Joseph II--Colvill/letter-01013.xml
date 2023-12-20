@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01013</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01013</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:04:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01013">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1781-03-04">4 mars 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Chaque ligne, chaque expression de la lettre de V. M. I. du 24 février
+    exigerait un remercîment à part; si je laissais aller ma plume à mes sentiments, V. M. I.
+    recevrait un ample cahier, mais je sais trop ce que je Lui dois, pour abuser de Son loisir.
+    Qu’Elle me permette seulement de L’assurer de la très sincère reconnaissance dont mon âme est
+    remplie pour toutes les marques d’amitié que V. M. I. se plaît à me témoigner, et
+    très-particulièrement encore pour les ordres qu’Elle vient de donner à Son Internonce d’appuyer
+    la stricte observation du <name ref="events.xml#kuchu01"> traité de Kanardghy</name> et de la
+    convention qui s’en est ensuivie. V. M. I. par Ses actions donne journellement le démenti à Ses
+    envieux. Cet Empereur qu’on supposait si belliqueux, commence son règne par appuyer et faire la
+    paix des nations. V. M. I. s’attirera par la leurs bénédictions; Elle y joindra celle de tous
+    les rites, lorsque Sa façon de penser sur la liberté du chemin qui mène au Paradis, sera connue.
+    J’ose L’encourager pour un aussi bel ouvrage, et L’assurer qu'Elle trouvera infiniment moins
+    d’opposition à la tolérance qu’on ne devrait le supposer. Je parle un peu d’expérience ; j’ai
+    trouvé tous les esprits portés à la douceur dès que j’ai annoncé que j’abhorrais la persécution,
+    et j’ai vu des persécuteurs prêcher des réformes jusque là que j’ai été obligée de leur imposer
+    silence, parce qu’ils outrepassaient déjà mes intentions. La race humaine étant partout la même,
+    je ne doute aucunement que V. M. I. ne parvienne aisément à réunir les esprits sur le bien-être
+    de Ses sujets, dont Elle est le père, <seg xml:lang="de"> und unter welchen wohl keine
+     Stiefkinder nicht seyn werden, weil sie einen anderen Weg nach der Ewigkeit nehmen.</seg>
+   </p>
+   <p>Le précieux écran que je tiens de l’amitié de V. M. I., je l’ai déposé à mon <placeName
+     ref="places.xml#her01"> hermitage</placeName>; c’est là que tous les jours je viens lui faire
+    ma visite. Ces promenades ne contribueront pas peu à la guérison entière du peu de rhumatisme
+    qui me reste au bras gauche, et dont jamais je n’aurais osé entretenir V. M. I., si Elle ne
+    m’avait marqué Son désir de savoir ce qui en était. J’en ai senti la douleur entre <placeName
+     ref="places.xml#nar01"> Narwa</placeName> et <placeName ref="places.xml#gdo01">
+     Gdof</placeName>; elle est allée en augmentant jusqu’à la fin de novembre, où enfin je me suis
+    résolu à faire usage des mouches cantharides. Depuis ce temps les douleurs diminuent; j’espère
+    que je pourrai me passer des eaux de <placeName ref="places.xml#tsa02"> Czaritzin</placeName>,
+    où cet hiver j’étais toute résolue d’aller chercher soulagement. Mais j’avoue qu’après le voyage
+    de <placeName ref="places.xml#mog01"> Mohilew</placeName> il est difficile pour moi de trouver
+    de l’agrément dans aucun voyage, devrait-on me procurer les plus beaux échaudés possibles à
+    chaque poste. </p>
+   <closer><signed rend="inline">C’est avec tous les sentiments de la plus haute considération que j’ai
+    l’honneur d'être</signed></closer>
+  </body>
+ </text>
+</TEI>

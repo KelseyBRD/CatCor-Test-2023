@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08246</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08246</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paul"/>
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:26:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08246">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1776-06-24">24 juin 1776</date>.</dateline></opener>
+   <p>J’espère bien que V. A. R. est persuadée que rien ne m'est plus précieux que la continuation
+    de Son amitié. Je suis extrêmement sensible aux assurances qu'Elle veut bien m'en renouveler
+     de <placeName ref="places.xml#rig01">Riga</placeName>. C’est avec bien du déplaisir que je La
+    vois quitter mes états, ce m’en est un aussi vif encore de ce que Son <rs
+     ref="events.xml#henry02"> séjour</rs> à ma cour a été de si courte durée, et dans un temps
+    aussi désagréable. Je La remercie bien sincèrement des nouvelles qu'Elle me donne de la bonne
+    santé de <rs ref="people.xml#pau01"> mon fils</rs> et des soins que V. A. R. me promet d’en
+    avoir. Je Lui avoue que je le trouve en si bonnes mains, que je suis très tranquille à son
+    sujet il est avec mes meilleurs amis.</p>
+   <p>Je Lui rends grâce encore des deux portraits que V. A R. a eu l’attention de m’envoyer. Je
+    trouve l'aînée charmante, ce portrait m’a fait grand plaisir, je l’ai montré au tiers et au
+    quart, afin qu’on voie que ma future bru est jolie. Je ne manquerai pas de m’informer de l'état
+    de l'affaire de Sr. <persName ref="people.xml#bac03"> Bachmann</persName> dont V. A. R. me
+    parle. Je ne cesserai jamais d’être...</p>
+  </body>
+ </text>
+</TEI>

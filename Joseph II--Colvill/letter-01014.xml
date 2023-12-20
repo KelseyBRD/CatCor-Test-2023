@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01014</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01014</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:09:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01014">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1781-03-05">5 mars 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Les désirs de V. M. I. étant parfaitement conformes aux miens de voir
+    rétabli entre nous un traité défensif d’amitié et de garantie réciproque, c’est avec autant de
+    sincérité que de contentement que j’ai donné ordre à mes ministres d’écouter les propositions de
+    celui de V. M. I. Le résultat de leurs conférences se trouve présentement sous les yeux de V. M.
+    I. Je La prie d’être persuadée qu’Elle trouvera les mêmes sentiments, joints à l’amitié la plus
+    vraie, dans toutes mes, démarches, et ce me serait un vrai chagrin s’il arrivait que les formes
+    devinssent nuisibles à la réalité.</p>
+   <p>Tout ce qu’il a plu à V. M. I. de me dire de flatteur au sujet de la commédiation, je le
+    reçois comme un nouveau témoignage de Ses bontés et de Son amitié pour moi. Les <persName
+     ref="people.xml#lou01 people.xml#cha12"> Rois</persName> de <placeName ref="places.xml#fra01"
+     >France</placeName> et d’<placeName ref="places.xml#spa01">Espagne</placeName> ayant consenti à
+    nous reconnaître pour médiateurs, que V. M. I. me permette de me féliciter d'avoir conjointement
+    avec Elle à travailler à un aussi salutaire ouvrage. Je désirerais pour le bien de l’humanité
+    qu’on pût convenir d’une trêve; ce serait un acheminement pour la paix.</p>
+   <p>V. M. I. se plaît à tourner à mon avantage tout ce que je Lui dis; il n’y a pas, jusqu’à mon
+    bavardage sur le compte des vues de la <persName ref="people.xml#jul01"> Reine
+     douairière</persName> de <placeName ref="places.xml#den01"> Danemarc</placeName>, qu’Elle n’a
+    pas pris en mauvaise part. J’avoue que j’entendrai avec grand intérêt ce qu’Elle promet de m’en
+    dire une autre fois.</p>
+   <p>Je ne doute plus de la fin de l’affaire de <persName
+      ref="people.xml#jul02">Julius</persName> depuis que j’ai lu les ordres donnés par V. M.
+    I. Qu’Elle daigne en recevoir mes remercîments, de même que les assurances de la plus haute et
+    la plus parfaite considération, avec laquelle j’ai l’honneur d’être</p>
+  </body>
+ </text>
+</TEI>

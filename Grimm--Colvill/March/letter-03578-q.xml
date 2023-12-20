@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03578</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03578</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I was unable to identify all of the works of which
+     Catherine says she wants copies made. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-23">23/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:49:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03578">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#mog01">
+     Mohilef</placeName>, ce <date when-custom="1780-05-29">29 mai 1780</date>.</dateline></opener>
+   <p>A peine la pancarte immense qui- répond à six de vos lettres est-elle fermée, que je reçois No
+    18 intitulé <seg xml:lang="de"> Kostbarer Vortrag</seg>; on dirait que je ne suis ici que pour
+    parler avec <rs ref="people.xml#jos01"> M. de Falkenstein</rs> et pour vous écrire. Enfin Dieu
+    merci que l’affaire de <persName ref="people.xml#cle01">Clérisseau</persName> est arrangée. Le <rs ref="people.xml#jos01">
+     comte de Falk</rs>: dit que ce sont de très belles choses. Je passe sur toutes les cérémonies
+    qui ont accompagné leur délivrance, parce que je n’ai pas le temps de les éplucher; j’attendrai
+    leur arrivée pour voir ce qu’il y aura à faire pour cet honnête homme. J’approuve fort ce que
+    vous avez fait des oeuvres de <persName ref="people.xml#met01"> Metastasio</persName>. Je m’en
+    vais m’étendre plus au long sur les lettres du divin, sans cependant toucher aux attitudes qu’il
+    prenait dans son lit en vous écrivant. Vous aurez la bonté de suivre la règle suivante: si le <rs ref="people.xml#rei03">divin</rs> a fait un plus grand choix ou un plus
+    nombreux choix de l’oeuvre de <persName ref="people.xml#men01"> Mengs</persName>, ou que j’aie
+    fait moi un plus nombreux choix, le nombre l’emportera, c’est-à-dire que plus il y en aura,
+    mieux ce sera. De ce qui n’a pas été énoncé dans le catalogue, il me faut copie d’après
+     <persName ref="people.xml#cor01"> Corrège</persName>, l’ <title ref="works.xml#jupite01"> Io
+     embrassée par Jupiter, et Vénus avec Mars</title> qui fait le maître d’école, item la Danaé du
+    Trévisan, le bain des Nymphes d’après <persName ref="people.xml#cor01"> Corrège</persName>.
+    Excellent tableau qui est en vente chez le négociant Messi, c’est-à-dire <title
+     ref="works.xml#tarqui01"> Lucrèce et Tarquin du Palma</title>. L’Albani représentant des
+    Nymphes coupant les ailes à Cupidon endormi. Si tout cela n’est pas vendu, s’entend avant que le
+     <rs ref="people.xml#rei03">divin</rs> puisse recevoir cet ordre qui part de <placeName
+     ref="places.xml#mog01"> Mohilef</placeName>. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien. Demain je pars d’ici.</signed></closer>
+  </body>
+ </text>
+</TEI>

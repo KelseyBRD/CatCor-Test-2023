@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00044</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00044</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-22">22 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-06-01">1 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <opener><salute rend="inline">Грaф
+                            Алексей Григорьевич!<note
+                            type="editorial">On 7 July 1789, Catherine's secretary <ref
+                                target="people.xml#khr01">Khrapovitsky</ref> summarised the present
+                            letter and his own role in reviewing and sending it: 'После обеда
+                            приказали отправить письмо собственноручное к Графу Ал. Гр. Орлову
+                            Чесменскому с благодарностию за присланных голубей; но не отвечали
+                            скоро, по причине подателя письма Гр. А. М. [графа Александра
+                            Матвеевича], в то время свадьбою своею занимавшагося. В конце
+                            поздравляют, яко участника, с праздниками 24, 26 и 28 Июня. Спрашивали,
+                            хорошо ли письмо?' ('After lunch they [Catherine] ordered me to send the
+                            autograph letter to Count Al. Gr. Orlov Chesmensky with thanks for the
+                            doves he sent. But they did not answer soon because of Count A.M.
+                            [Aleksandr Matveevich], who presented the letter, who was occupied at
+                            that time with his wedding. At the end they [Catherine] congratulated
+                            him, as a participant, in the holidays of 24, 26, and 28 June. They
+                            asked if the letter was good'). (<bibl><title ref="works.xml#dnevni01"
+                                    >Dnevnik A.V. Khrapovitskago</title>, <biblScope unit="pp">p.
+                                    296</biblScope></bibl>.)</note></salute></opener>
+                    <p>Письмо ваше от 12-го дня я получила в такое время, когда двор и город
+                        занимался ничемъ иным окроме свадьбою <persName ref="people.xml#dmi01">графа
+                            Мамонова</persName>; а теперь за присланных от вас голубей вас
+                        благодарю, они мною отосланы в <placeName ref="places.xml#her01"
+                            >эрмитаж</placeName>. Прошедшие праздники я праздновала <rs
+                            ref="places.xml#tsa01">здесь</rs>.</p>
+                    <closer><signed>Будьте уверены, что я никогда забыть не могу <rs
+                                ref="events.xml#chesm01">24, 26</rs> и <rs ref="events.xml#">28-го
+                                июня</rs>, пребывая к вам как всегда
+                        доброжелательна.</signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Aleksey
+                        Grigorevich!</salute></opener>
+                    <p>I received your letter of the 12th at a time when the court and the city were
+                        occupied with nothing else besides Count Mamonov's wedding. But now I thank
+                        you for the doves you sent: I have sent them to the Hermitage. I celebrated
+                        the recent holidays here.</p>
+                    <closer><signed>Be assured that I can never forget the 24th, the 26th, and the
+                            28th of June, remaining as always well-wishing towards
+                        you.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

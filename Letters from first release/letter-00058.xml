@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00058</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00058</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-23">23 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-11-03">3 November 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-00058">
+        <body>
+            <opener rend="right"><dateline><placeName ref="places.xml#tsa01">A
+                        Tsarsko-Sélo,</placeName>
+                    <date when-custom="1789-06-12">ce 12 juin 1789.</date></dateline></opener>
+
+            <p><persName ref="people.xml#mik02">Le lieutenant-général Michelson</persName> étant
+                entré par <placeName ref="places.xml#wek01">Wekera</placeName> dans <placeName
+                    ref="places.xml#fin01">la Finlande suédoise</placeName> et s'étant emparé près
+                de <placeName ref="places.xml#kyr01">Kyro</placeName> des retranchements suédois, du
+                canon, des magasins, et y ayant fait un bon nombre de prisonniers, au nombre
+                desquels deux majors et six officiers, s'avança vers <placeName
+                    ref="places.xml#ris01"><hi rend="italic">Christine</hi></placeName>, qu'il
+                occupa; de là il tenta de s'emparer de <placeName ref="places.xml#mik01">S<seg
+                        rend="sup">t</seg> Michel</placeName>, où se trouvaient les plus grands
+                dépôts d'armes et de magasins des Suédois. Cette première tentative ne réussit pas;
+                d'un autre côté de la <placeName ref="places.xml#kar01">Karélie</placeName>
+                <persName ref="people.xml#sch02">le général-major baron Schultz</persName>, après
+                avoir renversé le détachement suédois qui se trouvait à son passage devant
+                    <placeName ref="places.xml#sul01">Sulkava</placeName>, s'avança aussi dans
+                    <placeName ref="places.xml#fin01">la Finlande suédoise</placeName>. Le 8 juin à
+                midi <persName ref="people.xml#mik02">le lieutenant général Michelson</persName>
+                attaqua les retranchements suédois de <persName ref="places.xml#por01"
+                    >Porosalmi</persName>, renversa les bateries ennemies; les Suédois se voyant
+                forcés dans cet endroit, s'enfuirent à <placeName ref="places.xml#mik01">S<seg
+                        rend="sup">t</seg> Michel</placeName>, poursuivis par les troupes russes qui
+                s'emparèrent de cet endroit et des magasins qui s'y trouvèrent. L'ennemi s'est
+                retiré vers <placeName ref="places.xml#ioc01">Iockas</placeName>, où il rencontrera
+                probablement <persName ref="people.xml#sch02">le général-major baron
+                    Schultz</persName>, qui devait s'y rendre de <placeName ref="places.xml#sul01"
+                    >Sulkava</placeName>. <persName ref="people.xml#mik02">Le lieutenant-général
+                    Michelson</persName> est allé déloger les Suédois de <placeName
+                    ref="places.xml#pum01">Pumela-sund</placeName>; ce que <persName
+                    ref="people.xml#kno01">le g-l-major Knorring</persName>, livonien, a déjà
+                exécuté. Après que ceci a été écrit, on y a pris seize canons et quantité de
+                munitions et beaucoup de prisonniers; cet endroit est un chantier sur <placeName
+                    ref="places.xml#sai01">le lac Saïma</placeName>.</p>
+
+        </body>
+    </text>
+</TEI>

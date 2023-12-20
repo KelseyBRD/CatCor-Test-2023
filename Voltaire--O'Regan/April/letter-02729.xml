@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02729</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02729</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#Note"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:20:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02729">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1770-05-01">1 Mars 1770</date></dateline></opener>
+   <p>Monsieur, En réponse de Votre lettre du 2 févreier, je Vous dirai que le
+     hospodar de <placeName ref="places.xml#mol01">
+      Moldavie</placeName> est mort, que celui de <placeName ref="places.xml#wal01">
+      Valachie</placeName> qui ce trouve içi a beaucoup d'esprit, Que nous
+     continuous à être les maitres de ces deux Provinces, malgré les Gazettes qui nous en chassent
+     souvent. Le Sultan avoit fait un nouveau Hospodar
+     <seg xml:lang="la">in partibus infidelium</seg>, auquel il
+    avoit ordoné d'aller avec une armée INOMBRABLE ce mettre en possession de
+     <placeName ref="places.xml#buc01"> Boucarest</placeName>, Il ne trouva que six à sept mille home avec
+    lequel il fut batu come il faut au mois de Janvier, et il pensa être fait prisonier. La semaine
+    passée je reçus la nouvelle de la prise de <placeName ref="places.xml#giu01"> Giorgone</placeName> sur le
+     <placeName ref="places.xml#dan01"> Danube</placeName>, et de la défaite d'un corps Turk sous cette place
+    de 15 mille home; Nous avons chanté le lendemain pour cet avantage et pour tant d'autres
+    remportée depuis le 4 Janvier le <seg xml:lang="la">Te
+     Deum</seg>. On dit ma flotte partie de <placeName ref="places.xml#mah01"> Mahon</placeName>, il faut espérer
+    que nous en entendrons parler bientôt, et qu'elle prendra la liberté de doner un démenti à ceux
+    qui soutienent qu'elle est hors d'état d'agir. Je trouve très plaisant que l'envie aye recours
+    au mensonge, pour en imposer au monde. Un pareil assoçiés est toujours prêt à faire Banqueroute.
+    Le peu de Vaisseaux Turks qui existent manquent de matelots, les Musulmans ont perdu l'envie de
+    ce laisser tuer pour les capriçes de sa hautesse. M<hi rend="superscript"
+     >r</hi> <persName ref="people.xml#tot02"> Totleben</persName>, a passé le <placeName ref="places.xml#cau02"> Caucase</placeName>, et il
+    est en quartier d'Hiver en <placeName ref="places.xml#geo01"> Georgie</placeName>, mais come la mauvaise
+    saison est courte dans ces pays, j'espère qu'il ouvrira bientôt la Campagne.</p>
+   <p>Lorsque la première division de ma flotte relâcha en <placeName ref="places.xml#eng01">
+     Angleterre</placeName>, le Ct: <persName ref="people.xml#che03"> Czernischef</persName>, alors Ambassadeur
+    à cette Cour, étoit inquiet de ce que quelques Vaisseaux avoit besoin de radoub, etc: l'Admiral
+    Anglais lui dit, ne soyés point inquiet, jamais expédition maritime de quelque importance ne
+    s'est fait sans de pareils inconvénients, cela est neuf pour Vous, chés nous s'est affaire de
+    tout les jours. Je souhaite Monsieur que Vous ayés le plaisir de voir Vos prophétie s'accomplir.
+    Peu de Prophète peuvent ce vanter d'un tel avantage.</p>
+   <p>Vos protégés, les Officiers huguenots que le Roy de <placeName ref="places.xml#sar02">
+     Sardaigne</placeName> a réformé, seront les bien venu chés nous, il sera aisé d'en plaçer une
+    trentaine, ils n'ont qu'à venir et à s'adresser au Cte: <persName ref="people.xml#che01"> Zacharie
+     Czermischef</persName>, Viçe président du Collège de guerre qui les employera. J'ai grondée le
+    Cte: <persName ref="people.xml#shu01"> Schouvalof</persName> à deux reprises, il jure par Jupiter qu'il
+    Vous a répondu exactement, ses lettres ce sont perdue peut être. Soyés assurés monsieur de mon
+    Amitié et de ma considération la plus distinguée.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

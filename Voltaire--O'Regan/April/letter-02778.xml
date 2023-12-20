@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02778</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02778</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:33:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02778">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1774-08-24">24 d'auguste 1774</date></dateline></opener>
+   <p>Monsieur, Quoique très plaisament Vous prétendiés être en disgrâce à ma
+     Cour, Je Vous déclare que Vous ne l'êtes point. Je
+    ne Vous ai planté là ni pour <persName ref="people.xml#did01"> Diderot</persName> ni pour
+     <persName ref="people.xml#gri01"> Grim</persName> ni pour tel autre favori. Je Vous révère tout come par
+    le passé, et quoiqu'on Vous dise, sur mon honeur je ne suis ni volage ni inconstante. Le Marquis
+     <persName ref="people.xml#pug01"> Pougatchef</persName> m'a doné du fil à retordre cette anée, j'ai été
+    obligée pendant plus de six semaines de doner une attention non interrompuë à cette affaire, et
+    puis Vous me grondés et me dites que Vous ne voulés plus aimer d'Impératrice de Votre Vie.
+    Cependant il me semble qu'ayant fait une si jolie <rs ref="events.xml#kuchu01">paix</rs>, et pour sa
+    forme et pour sa façon, avec ses Turks Vos enemis et les miens, je mériterai de Votre part
+    quelque indulgence et point de haine. Malgré mes occupations je n'ai point oublié encore
+    l'affaire de <persName ref="people.xml#ros04"> Rose</persName> le Livonien Votre protégé. Son sauf conduit
+    n'a pu être expédisé à <placeName ref="places.xml#lub01"> Lubek</placeName> come Vous le désiriés parceque
+     <persName ref="people.xml#ros04"> Rose</persName> outre ses detes s'est sauvé de prison et a emporté
+    quelques milliers de roubles à différentes persones et qu'il seroit remis tout de suite en
+    prison malgré son sauf conduit qui ne sont guère en usage chés nous. Je n'ai reçue de Vous point
+    d'autres lettres depuis plusieurs moi que celle au sujet de <persName ref="people.xml#ros04">
+     Rose</persName>, et par conséquend je n'ai aucune connaissance du Français dont Vous me
+     parlés dans Votre lettre du 9 de ce mois. Mais envérité
+    Monsieur j'aurais envie de me plaindre à mon tour des déclarations d'extinction de passion que
+    Vous me faite si je ne voyois au travers de Votre dépit l'intérêt que l'amitié Vous inspire
+    encore pour moi. Vivés Monsieur et raccomodons nous, car aussi bien il n'i a pas de quoi nous
+    brouiller. J'espère bien que Vous rétracteré par un Codiçile en ma faveur, ce prétendu testament
+    si peu galant. Vous êtes bon Russe, Vous ne sauriés être l'enemi de</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

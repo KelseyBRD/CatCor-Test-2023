@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04749</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04749</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:08:45Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04749">
+        <body>
+           
+            <opener><dateline> А <placeName ref="places.xml#tsa01">
+                    Zarsco-Célo</placeName>, le <date when-custom="1768-10-30">30 Octobre 1768</date>.</dateline></opener>
+            <p>
+                Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, vous
+                    avez oublié que je suis une Hérétique qui me moque des décrets de la <rs
+                    ref="orgs.xml#sorb01"> Sorbonne</rs>, et que c’est pour cela que je ne
+                    mourrai pas de la petite vérole; je ne vois dans la fondation de <persName
+                    ref="people.xml#sor01"> Robert Sorbonne</persName> rien d’infaillible, ils
+                    décident souvent pour des absurdités, chose qui à mon avis doit les avoir
+                    discrédités depuis longtemps, car enfin le genre humain n’est pas toujours
+                    oisons. Or, quand il s’agira de leur inoculer, ou à d’autres, le bon sens, je
+                    conseille qu’on prenne de la matière chez vous, voilà l’avis de <persName
+                    ref="people.xml#cat01"> Catherine seconde</persName> qui vous est bien
+                    obligée de la part que vous prenez à sa convalescence, quoiqu’elle n’ait point
+                    été malade.</p>
+        </body>
+    </text>
+</TEI>

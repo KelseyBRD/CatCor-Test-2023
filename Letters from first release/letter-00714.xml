@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00714</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00714</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-08">08 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00714">
+                <body>
+                    
+                    <p> Письмы твои, батинька, из Херсона от 16 сен[тября] я имела удовольствие
+                        получить сего утра. И хотя подробностей не пишешь, но как тебе самому
+                        кажется удивительно, сколько сии места после заключения мира переменились,
+                        то из того заключить уже можно, что зделано много. По известиям <persName
+                            ref="people.xml#ves01">Веселицкого</persName> Хан спешит своим
+                        переездом. И так думаю, что вы с ним уже виделись. О уходе крымцев в
+                        Анатолию и цареградские вести гласят. Удивительнее всего, что посреди
+                        сумятицы тамошней после пожара, спешили уплачивать деньги, кои нам должны, и
+                        сие приписую трусости. Благодарствую за добрые вести, что провиант и сено
+                        заготовляются с успехом и что урожай был добрый. <persName
+                            ref="people.xml#ska01">Катиша</persName> выздоравливает. У ней два чирьи
+                        оказались наружные и оба открылись. Бауру также есть лехче.</p>
+                    <closer><signed rend="inline">Прощай, друг мой сердечный, будь здоров и весел. С
+                            будущими имянинами тебя поздравляю. Дай Бог тебе всякого добра.</signed><dateline><date
+                                when-custom="1782-09-25">Сентября 25, 1782</date></dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03674</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03674</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find sufficient info to code Du Repaire, de Miandre, or prince Wiazemski.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-01">01-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:55:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03674">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-09-23">23 septembre
+     1791</date>.</dateline></opener>
+    <p>J’ai reçu depuis trois jours par le courrier des princes, frères du roi de <placeName
+      ref="places.xml#fra01">France</placeName>, votre lettre de <placeName ref="places.xml#kob01">
+      Coblence</placeName> du 3 (14) septembre, qui n’a exactement que quatre pages. Il est vrai que
+     les préliminaires de la paix sont faits, mais depuis près de deux mois nous n’en sommes pas
+     plus avancés pour cela, la <placeName ref="places.xml#ott01">Porte</placeName> ayant nommé les
+     mêmes plénipotentaires qu’elle avait à <placeName ref="places.xml#svi02"> Sistova</placeName>
+     pour traiter avec les nôtres à <placeName ref="places.xml#yas01"> Yassi</placeName>. En dépit
+     de votre critique, nous aurons des bals cet hiver tout comme l’année passée. Le <persName
+      ref="people.xml#nas01"> prince de Nassau</persName> n’aime pas à danser apparemment, puisqu’il
+     est allé à <placeName ref="places.xml#kob01"> Coblence</placeName>, où vous l’avez vu, pour se
+     joindre aux descendants d’<persName ref="people.xml#hen01"> Henri-Quatre</persName> fugitif,
+     qui ne doivent avoir d’autres plans que ceux de ce héros de la <placeName
+      ref="places.xml#fra01">France</placeName>, ni d’autre règle de conduite que celle de ce
+     restaurateur de la monarchie; mais les mêmes causes qui ont occasionné les malheurs de
+      la <placeName ref="places.xml#fra01">France</placeName> et l’ont mise à une ligne près de sa
+     perte, ces mêmes causes aussi répandent leurs malignes influences sur les moyens qu’il y aurait
+     pour parvenir à la restauration de cette monarchie. Ces causes sont l’excessive faiblesse de
+     ceux pour qui cependant, dans ce cas, on doit travailler. Car, par exemple, qu’est-ce que ce
+     double bon donné au baron de <persName ref="people.xml#bre02"> Breteuil</persName> et cet autre
+     donné ensuite au <rs ref="people.xml#lou09"> frère aîné</rs> du <rs ref="people.xml#lou01"
+      >roi</rs>, ce baron traitant avec les cours dans un sens contraire à celui des princes? Les
+     uns discréditant nécessairement les autres et faisant hésiter tout le monde, parce que, voyant
+     des négociations pour un accommodement entre le monarque et ses sujets ouvertes et les princes
+     voulant agir à main armée et demandant secours, on ne sait à qui croire. Moi, je n’hésiterais
+     pas un instant, mais je vois hésiter tout le monde, et je ne fais que prêcher pour ramener à
+     l’union les principaux personnages que nous devons et voulons assister. Ce baron de <persName
+      ref="people.xml#bre02"> Breteuil</persName> d’ailleurs en qui le <rs ref="people.xml#lou01">
+      roi</rs> ou la <rs ref="people.xml#mar14"> reine</rs> ou tous deux, si vous voulez, ont tant
+     de confiance, je le connais: c’est un homme très altier, plus avide de pouvoir que capable de
+     l’employer avec sagesse. Il n’a d’autre mérite, je pense, vis-à-vis de la <rs
+      ref="people.xml#mar14"> reine</rs> que d’avoir été créature du duc de <persName
+      ref="people.xml#cho03">Choiseul</persName> et ambassadeur à <placeName ref="places.xml#vie01"
+      >Vienne</placeName>; il sera ombrageux et jaloux à l’excès, et trouvera qu’il n’y a de bien
+     que les prétendus services qu’il ne parviendra à rendre jamais, et en attendant il empêchera
+     que d’autres n’en rendent d’essentiels à leur roi et à leur patrie. On a beau dire, les frères
+     du roi sont plus intéressés que personne à voir le <rs ref="people.xml#lou01"> roi</rs>
+     rétabli, et de la jalousie vis-à-vis de ce qu’ils n’ont pas fait encore est une pensée mesquine
+     qui ne peut venir que du démon.</p>
+    <p>Je suis enchantée de ce que vous me dites du caractère de l’<persName ref="people.xml#cle05">
+      électeur de Trêves</persName>. <rs ref="people.xml#fra03"> Son frère, le comte de Lusace</rs>,
+     est en quelque sorte de relations avec moi depuis cet hiver. Pour avec les deux petits-fils
+      d’<persName ref="people.xml#hen01"> Henri IV</persName>, retirés à <placeName
+      ref="places.xml#kob01"> Coblence</placeName>, je suis depuis quelque temps sur un pied très
+     amical, et ce n’est pas d’aujourd’hui que je m’intéresse pour eux, et je les aiderai avec
+     persévérance de plus d’une manière. Leur lettre imprimée est admirablement bien écrite et, sans
+     réplique, elle doit faire un effet prodigieux, mais elle demande à être soutenue. Un roi
+     prisonnier ne peut que mal faire, parce que par là même qu’il est prisonier il est un
+     malfaiseur; ce n’est pas la place des rois que la prison: ils y font maigre figure.</p>
+    <p>Eh bien, voyez un peu ce que c’est que ce monde: jamais je n’ai eu d’ennemis, sans qu’il ne
+     leur soit arrivé grand mal, mais jamais par ma rancune: je n’en ai pas. Il y a vingt ans que
+     les Français voulaient me manger; il y en a beaucoup moins qu’ils ont fait tout au monde pour
+     rendre les <orgName ref="orgs.xml#turk01"> Turcs</orgName> formidables; ceux-ci ne secourront
+     pas le <rs ref="people.xml#lou01"> roi Très-Chrétien</rs> dans sa détresse, mais moi je ne m’y
+     suis pas refusée un moment. Mais écoutez donc, ce <rs ref="people.xml#lou01"> roi
+      Très-Chrétien</rs> signera-t-il une constitution antichrétienne? <seg xml:lang="la"> ipso
+      facto</seg>, après signature il se trouvera excommunié; ne voit-il pas cela seulement, et s’il
+     le voit, pourquoi se met-il dans ces embarras? Savez-vous pourquoi les princes réussiront avec
+     de très médiocres moyens? Je vous le dirai: c’est parce que tous les grands entendus de ce bas
+     monde ne voient pas où cela aboutira: qu’ils entrent en <placeName ref="places.xml#fra01"
+      >France</placeName>; je veux parier qu’ils y feront ce qu’ils voudront. Le <persName
+      ref="people.xml#est02"> comte d’Esterhazy</persName> est ici, et je le traite sans aucune
+     cérémonie, et il me parait assez content de moi. Adieu, <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, pour aujourd’hui.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-09-25">25 septembre</date>.</dateline></opener>
+    <p>Eh bien, ne voilà-t-il pas que sire <persName ref="people.xml#lou01"> Louis XVI</persName>
+     vous flanque sa signature à cette extravagante constitution et qu’il s’empresse de faire des
+     serments qu’il n’a aucune envie de tenir et que personne ne lui demande, qui plus est. Mais qui
+     donc sont ces gens sans jugement qui lui font faire toutes ces bêtises-là? Ce sont vraiment des
+     lâchetés indignes: on dirait qu’ils n’ont ni foi ni loi, ni probité. Je suis dans une colère
+     horrible; j’ai tapé du pied en lisant Ces ... ces .. ces .. horreurs-là. Fi des vilains! quand
+     vous reviendrez à <placeName ref="places.xml#par01">Paris</placeName>, et s’ils ne sont pas
+     tous pendus encore, prenez une verge et donnez bonnement le fouet aux écoliers, conseillers du
+      <persName>roi de <placeName ref="places.xml#fra01">France</placeName></persName>, pour toutes
+     les pauvretés qu’on lui conseille de faire: cela s’appelle se discréditer, s’avilir, se rendre
+     méprisable et ridicule; en un mot, souffletez-les si vous pouvez; je vous donne carte blanche,
+     pourvu qu’on les rosse:</p>
+    <p>Renoncer aux dieux que l’on croit dans son coeur,</p>
+    <p>C’est le crime d’un lâche, et non pas une erreur.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-09-30">30 septembre</date>.</dateline></opener>
+    <p>Je pense que vous rirez de ma colère, mais c’est que je n’aime pas les bêtises. Le <rs
+      ref="people.xml#lou01"> roi</rs> n’acceptant pas n’avait, outre cela, aucune part à la
+     banqueroute; présentement le voilà à la tête.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-10-03">3 d’octobre</date>.</dateline></opener>
+    <p>Tenez, voilà une lettre que je reçois d’un homme que les préliminaires de ma paix ont rendu
+     timbré; je vous prie de le remercier de ma part de sa félicitation; vous êtes connu dans cе
+     pays-là; je suis enchantée du plaisir qu’il ressent de la paix; dites-lui cela tout de bon.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-10-13">13 d’octobre</date>, à deux heures et demie
+      du matin.</dateline></opener>
+    <p>Un terrible coup de massue hier a frappé de nouveau ma tête. Vers les six heures de
+     l’après-dîner un courrier m’a apporté la bien triste nouvelle que mon élève, mon ami et presque
+     mon idole, le prince <persName ref="people.xml#pot01"> Potemkine le Taurique</persName>, est
+     mort après un mois environ de maladie en <placeName ref="places.xml#mol01"
+     >Moldavie</placeName> ! Je suis dans une affliction dont vous n’avez pas d’idée: à un coeur
+     excellent il joignait un entendement rare et une étendue d’esprit peu ordinaire; ses vues
+     étaient toujours grandes et magnanimes; il était fort humain, rempli de connaissances,
+     singulièrement aimable, et ses idées toujours nouvelles; jamais homme n’eut le don des bons
+     mots et de l’à-propos comme lui; ses qualités militaires pendant cette guerre ont dû frapper,
+     car il ne manqua jamais ni sur terre, ni sur mer un seul coup. Personne au monde n’a été moins
+     mené que lui; il avait encore un don particulier à employer son monde. En un mot, c’était un
+     homme d’état pour le conseil et l’exécution; il m’était attaché avec passion et zèle; grondant
+     et se fâchant quand il croyait qu’on pouvoit faire mieux; avec l’âge et l’expérience il se
+     corrigeait de ses défauts; il y a trois mois, quand il était ici, je disais au g-l <persName
+      ref="people.xml#zub01"> Zoubof</persName> que j’appréhendais ce changement et qu’il n’avait
+     plus les défauts qu’on lui connaissait, et ne voilà-t-il pas que mon appréhension s’est tournée
+     en prophétie, malheureusement. Mais la qualité la plus rare en lui était un courage de coeur,
+     d’esprit et d’âme qui le distinguait parfaitement du reste des humains, et ceci faisait que
+     nous nous entendions parfaitement bien et laissions babiller les moins entendus à leur aise. Je
+     regarde le prince <persName ref="people.xml#pot01"> Potemkine</persName> comme un très grand
+     homme, qui n’a pas rempli la moitié de ce qui était à sa portée.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-10-22">22 d’octobre</date>.</dateline></opener>
+    <p>Dans votre lettre du 20 (31) d’auguste vous commencez par me parler de ma paix avec les
+      <orgName ref="orgs.xml#turk01"> Turcs</orgName>, qui n’est pas faite; j’ai fait partir il y a
+     huit jours le seigneur factotum pour <placeName ref="places.xml#yas01"> Yassi</placeName>, afin
+     de finir au plustôt, et le voilà demain huit jours en chemin. Le prince <persName
+      ref="people.xml#pot01"> Potemkine</persName> en mourant m’a joué un tour cruel! C’est moi sur
+     qui toute la charge tombe: j’aurais envie de vous prier de prier pour moi; enfin, il faudra
+     bien que les choses aillent. Imaginez-vous que j’ai le prince Wiazemski qui radote à la lettre
+     depuis deux ans; le comte <persName ref="people.xml#che03"> Tchernichef</persName> à la marine
+     qui, ayant eu un coup d’apoplexie ce printemps, s’en est allé voyager de rechef, et tout cela
+     vit, et l’homme qui promettait de vivre le plus longtemps me meurt! Eh bien, malgré les six
+     cent mille roubles employés cet été en fortifications en <placeName ref="places.xml#fin01"
+      >Finlande</placeName>, j’ai reçu avant-hier la nouvelle de la conclusion du traité d’alliance
+     entre <persName ref="people.xml#gus01"> Gustave III</persName> et moi: le voilà donc selon vos
+     souhaits sorti totalement des griffes des <rs ref="people.xml#fri03"> Gegu</rs>. Le nouvel
+     allié n’a pas honte de demander à venir se montrer ici, chose que nous cherchons à décliner
+     tant qu’humainement possible. Comment voulez-vous que je lui confie des troupes? Il ne les sait
+     pas mener. Vous voyez que cette convention signée à <placeName ref="places.xml#pil01">
+      Pilnitz</placeName> n’a ni consistance ni suite ; je fais tout au monde pour les échauffer: je
+     leur ai écrit à tous deux, à la prière des princes; je n’en ai pas de réponse, mais j’espère
+     que la nouvelle législature fera tant et tant de bêtises qu’elle obligera de nouveau le roi à
+     crier ou s’enfuir, et alors nous verrons. Mais le principal est de réunir la reine au parti des
+     princes, et qu’elle regarde ce parti comme le plus nombreux et le plus porté pour l’autorité
+     royale, comme en effet il est, et alors qu’elle se réunisse à moi pour faire agir son frère, et
+     celui-ci se mettant en branle, le <rs ref="people.xml#fri03"> Gu</rs>. sera obligé d’en faire
+     autant.</p>
+    <p>M. de <persName ref="people.xml#pri01"> St Priest</persName> a été ici, et j’en suis très
+     contente: c’est un homme de mérite qui parle net; on a eu tort de ne pas suivre ses conseils:
+     ils étaient bons. Pour <persName ref="people.xml#pri02"> mad. de St Priest</persName>, elle
+     était restée près de son frère à <placeName ref="places.xml#sto01">Stockholm</placeName>. Ah,
+     mon Dieu ! c’est bien présentement que je suis madame la Ressource ; de nouveau je suis réduite
+     à me dresser des gens, et ce sont assurément <rs ref="people.xml#zub01 people.xml#zub03">les
+      deux Zoubof</rs> qui donnent le plus d’espérance; mais pensez que <rs ref="people.xml#zub03">
+      l’aîné</rs> des deux est dans sa 24-ième année, et que <rs ref="people.xml#zub01"> le
+      cadet</rs> à peine en a-t-il 20; mais ce sont des gens d’esprit et d’entendement, et l’aîné a
+     infiniment de connaissances, et tout se range admirablement dans sa cervelle: c’est vraiment un
+     bon esprit.</p>
+    <p>Je suis bien aise que vous approuviez ma conduite avec les descendants de St Louis: je vous
+     jure que je m’intéresse vivement pour eux. J’aime cette noblesse, ces vrais chevaliers français
+     rassemblés autour d’eux. Il m’ont écrit une belle lettre, et je leur réponds. Eh bien, sachez
+     que j’ai toujours eu du tendre pour <seg xml:lang="en"> milady</seg>
+     <persName ref="people.xml#amy01"> Malmsbury</persName>, quoiqu’elle fût la femme du
+      brouillon <persName ref="people.xml#har01">Harris</persName>. J’aime beaucoup cette recette
+     que vous composez de <seg xml:lang="de"> weiblicher Scharfsinn, männlicher Geist, weibliche
+      Sanftmuth und männliche Festigkeit</seg>: eh bien, est-ce que tout le monde n’a pas cela? Cela
+     court la rue! J’ai lu la déposition des sieurs Du Repaire et de Miandre, et vous avez raison
+     que ce sont deux personnages intéressants: je serais tentée de faire pour eux une chose
+     extraordinaire.</p>
+    <p>Je suis fâchée que la signature des préliminaires de la paix ait empêché l’amiral <persName
+      ref="people.xml#ush01"> Ouchakof</persName> d’aller un peu plus loin pousser une botte à la
+     suite de sa victoire navale. J’envoie cette lettre au comte <persName ref="people.xml#rum01">
+      Roumiantsof</persName>: il saura où vous trouver. (Excusez, j’ai cru prendre une feuille, et
+     je n’ai pris que la moitié d’une; je viens de m’en apercevoir en tournant.) Le <rs
+      ref="people.xml#bue02"> mari de mad. du Bueil</rs> ayant signé la lettre de la noblesse
+     établie à Tournay que j’ai reçue avant-hier 21 d’octobre, je la crois, elle, hors de <placeName
+      ref="places.xml#fra01">France</placeName> déjà. Votre saint sera pour sûr ambulant cet hiver.
+     Je vois que M. de <persName ref="people.xml#sch03"> Schomberg</persName> est content du
+     portrait; j’espère qu’il le sera aussi de ma lettre, que peut-être vous lui avez envoyée. Dans
+     ce moment-ci l’on dit la populace de <placeName ref="places.xml#par01">Paris</placeName> pour
+     le <rs ref="people.xml#lou01"> roi</rs>, mais pour ne pas changer d’avis tous les quinze jours,
+     je reste ferme dans le parti une fois pris et qui est public: je crois aider le <rs
+      ref="people.xml#lou01"> roi</rs> et la <placeName ref="places.xml#fra01">France</placeName> en
+     assistant, comme j’ai fait, les expatriés.</p>
+    <p>Je n’ai plus le temps de lire <persName ref="people.xml#gib01"> Gibbon</persName>, ni rien du
+     tout. Je suis bien aise que les princes vous aient chargé d’une commission près du <rs
+      ref="people.xml#lou01"> roi </rs>et de la <rs ref="people.xml#mar14"> reine</rs>; j’espère que
+     vous travaillerez à les réunir en principe; du moins, c’est aussi à quoi je travaille de même.
+     Je ne doute nullement des sentiments des princes pour moi. Selon moi, l’<rs
+      ref="people.xml#leo01"> empereur</rs> ne leur a guère donné que des paroles vagues, mais il y
+     a un dessous de cartes visible entre l’<rs ref="people.xml#leo01"> emp</rs>. et la <rs
+      ref="people.xml#mar14"> reine</rs>; je pense que celle-ci médite une seconde fuite, et voilà
+     pourquoi présentement on tâche d’endormir tout le monde. Il faut que les princes continuent de
+     cultiver toutes les cours; les plaintes ne sont bonnes à rien. Il faudrait informer la <rs
+      ref="people.xml#mar14"> reine</rs> de ce que le club des <orgName ref="orgs.xml#jaco01">
+      jacobins</orgName> se vante d’avoir acheté <persName ref="people.xml#spi02">
+      Spielmann</persName>. Il sera bien difficile que de si loin je puisse mener la barque des
+     princes, j’écris à eux-mêmes par ce courrier, et j’instruis aussi le comte <persName
+      ref="people.xml#rum01"> Roumiantsof</persName> de mes intentions. Je vous écris à la hâte,
+     parce que je n’ai presque pas un moment à moi. Adieu. Portez-vous bien.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-10-23">23 d’octobre
+     1791</date>.</dateline></opener>
+    <p>On me dit que la <rs ref="people.xml#mar14"> reine</rs> n’aime pas les parlements, et moi je
+     dis que c’est le <rs ref="people.xml#lou01"> roi</rs> qui les a rétablis et qu’il sera en
+     contradiction avec lui-même si présentement il veut qu’ils soient abolis: ces parlements
+     tiennent à la monarchie, et sans eux la <placeName ref="places.xml#fra01"
+     >France</placeName> sera une république ou bien le <rs ref="people.xml#lou01"> roi</rs>
+     deviendra un despote.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

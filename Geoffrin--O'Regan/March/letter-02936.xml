@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02936</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02936</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Query date format, unsure of month. Double-check the following: de Breteuil = ‘Louis Auguste
+     Le Tonnelier de Breteuil’ | ‘Baron’ = Baron von Grimm? or reference to de Breteuil? | C-te de
+     Bux = Count Frederick Wilhelm Buxhowden. Kelsey: resolved except for Bux.</p>
+    <p>Kelsey: C-te de Bux seems to refer to an ambassador rather than a Russian general; it is also
+     unlikely to refer to a thirteen-year-old boy. I have removed the tag and am leaving for further
+     research.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:33:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-29">29/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected, some queries resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02936">
+  <body>
+
+   <opener/>
+   <p><note type="editorial">Mme Geoffrin added the annotaiton "2-eme 1763" to this letter.</note>Ne
+    grondés pas, ne grondés pas injustement je ne Vous ai jamais accusée d’indiscretion, mais
+    puisque Vous le prenés sur le bon ton avec moi, je Vous dirai tout net la vérité; je craignai de
+    Vous écrire une seconde fois, après l’avanture de la <rs ref="letter-02698">lettre imprimé</rs>,
+    peur que Vous ne me croyés entiché de l’envie de briller par des lettres, j’apprehendais que
+    Vous n’attribuïés à un amour propre déplacé, ce qui reelement ne serait parti que du désir de
+    m’entretenir, avec une Dame que j’aime et que j’estime; Nous autres Politiques sommes accoutumés
+    à chercher des biais, et je me trouvai fort heureuse d’avoir imaginé celui d'adresser la feuille
+    qui Vous a mise de mauvaise humeur à ce <rs ref="people.xml#bet01"> méchant Général</rs> qui me
+    quitte pour ……… je n’ose finir je ne veux pas passer pour envieuse. Après ce petit
+    éclaircissement, j’espere que Vous me rendrés justice et serai persuadé que quand je Vous dis
+    que je Vous aime, il n’y a pas la de l’esprit de mon état, comme dans la feuille pour laquelle
+    Vous me querellés. </p>
+   <p>Si <persName ref="people.xml#bre02"> M-r de Breteuil</persName> se trouve chés Vous quand Voue
+    recevrés ceci, je Vous prie Madame de lui faire bien mes complimens et de lui dire que le C-te
+    de Bux. ne danse plus parceque lui <rs ref="people.xml#bre02"> Baron</rs> ne dansait point, et
+    qu’il a reçu ordre de tenir sa conduite pour etre traité de même: en équilibre des pâtés du
+    perigord, je suis regalée de fromages, en revange j’ai été sur un vaisseaux de la Nation.</p>
+   <p>Vous voyés Madame que Votre discrétion est bien établie, mais je crains que Vous ne me croyés
+    méchante en ce cas j’en appelle au <rs ref="people.xml#bre02"> Baron</rs>.</p>
+  </body>
+ </text>
+</TEI>

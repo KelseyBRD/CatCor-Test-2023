@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00823</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00823</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-06">06 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00823">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute></opener>
+                    <p>Вчерашний день к вечеру привез ко мне подполковник <persName
+                            ref="people.xml#bau01">Баур</persName> твои письма от 8 октября из
+                            <placeName ref="places.xml#eli01">Елисаветграда,</placeName> из коих я
+                        усмотрела жаркое и отчаянное дело, от турков предпринятое на <placeName
+                            ref="xml#kin01">Кинбурн.</placeName> Слава Богу, что оно обратилось так
+                        для нас благополучно усердием и храбростию <persName ref="people.xml#suv01"
+                            >Александра Васильевича Суворова</persName> и ему подчиненных войск.
+                        Сожалею весьма, что он и храбрый <persName ref="people.xml#rec01"
+                            >Генерал-Маиор Рек</persName> ранены. Я сему еще бы более радовалась, но
+                        признаюсь, что меня несказанно обезпокоивает твоя продолжительная болезнь и
+                        частые и сильные пароксизмы. Завтра однако назначила быть благодарственному
+                        молебствию за одержанную первую победу. Важность сего дела в нынешнее время
+                        довольно понимательна, но думаю, что ту сторону (а сие думаю про себя) не
+                        можно почитать за обезпеченную, дондеже <placeName ref="places.xml#och01"
+                            >Очаков</placeName> не будет в наших руках. Гарнизон сей крепости
+                        теперь, кажется, противу прежняго поуменынился; хорошо бы было, естьли б
+                        остаточный разбежался, как <placeName ref="places.xml#kho01"
+                            >Хотинский</placeName> и иные турецкие в прошедшую войну, чего я от
+                        сердца желаю.</p>
+                    <p>Я удивляюсь тебе, как ты в болезни переехал и еще намерен предпринимать путь
+                        в <placeName ref="places.xml#khe01">Херсон</placeName> и <placeName
+                            ref="places.xml#kin01">Кинбурн.</placeName> Для Бога, береги свое
+                        здоровье: ты сам знаешь, сколько оно мне нужно. Дай Боже, чтоб вооружение на
+                            <placeName ref="places.xml#lym01">Лимане</placeName> имело бы полный
+                        успех и чтоб все корабельные и эскадренные командиры столько отличились, как
+                        командир галеры "Десна". Что ты мало хлеба сыскал в <placeName
+                            ref="places.xml#pol01">Польше,</placeName> о том сожалительно.
+                        Сказывают, будто в <placeName ref="places.xml#mol01">Молдавии</placeName>
+                        много хлеба, не прийдет ли войско туда вести ради пропитания?</p>
+                    <p>Буде французы, кои вели атаку под <placeName ref="places.xml#kin01"
+                            >Кинбурн,</placeName> с турками были на берегу, то вероятно, что убиты.
+                        Буде из французов попадет кто в полон, то прошу прямо отправить к <persName
+                            ref="people.xml#kas01">Кашкину</persName> в <placeName
+                            ref="places.xml#sib01">Сибирь,</placeName> в северную, дабы у них отбить
+                        охоту ездить учить и наставить турков.</p>
+                    <p>Я рассудила написать к <persName ref="people.xml#suv01">Генералу
+                            Суворову</persName> письмо, которое здесь прилагаю, и естьли находишь,
+                        что сие письмо его и войски тамошние обрадует и неизлишно, то прошу оное
+                        переслать по надписи. Также приказала я послать к тебе для <persName
+                            ref="people.xml#rec01">Ген[ерала] Река</persName> крест Егорьевский
+                        третьей степени. Еще посылаю к тебе шесть егорьевских крестов, дабы розданы
+                        были достойнейшим. Всему войску в деле бывшим жалую по рублю на нижние чины
+                        и по два - на унтер-офицеры. Еще получишь несколько медалей на егорьевских
+                        лентах для рядовых, хваленых <persName ref="people.xml#suv01"
+                            >Суворовым.</persName> Ему же самому думаю дать либо деньги - тысяч
+                        десяток, либо вещь, буде ты чего лутче не придумаешь или с первым курьером
+                        ко мне свое мнение не напишешь, чего прошу, однако, чтоб ты учинил всякий
+                        раз, когда увидишь, что польза дел того требует. Сказывают, <persName
+                            ref="people.xml#nas01">Князь Нассау</persName> к тебе поскакал, а
+                            <persName ref="people.xml#lig01">Линь</persName> все еще здесь и от
+                        своего двора ни о своем произвождении и ни о чем неизвестен.</p>
+                    <closer><signed>Прощай, мой друг. Который день я от тебя имею курьера, тот день я
+                        поспокойнее, а в прочие дни в уме и помышлении все одно нетерпение знать,
+                        что у вас делается и каков ты. Прощай, Бог с тобою. </signed><dateline rend="below"
+                                ><date when-custom="1787-10-16">Октября 16, 1787</date></dateline></closer>
+                        <postscript><p>Пришло мне было на ум, не послать ли к <persName ref="people.xml#suv01"
+                                >Суворову</persName> ленту Андреевскую, но тут паки консидерация та,
+                            что старее его <persName ref="people.xml#dol03">Князь Юрья
+                                Долг[оруков],</persName>
+                            <persName ref="people.xml#kam01">Каменский,</persName>
+                            <persName ref="people.xml#mil01">Меллер</persName> и другие - не имеют.
+                            Егорья Большого [креста] - еще более консидерации меня удерживают
+                            послать. И так, никак не могу ни на что решиться, а пишу к тебе и прошу
+                            твоего дружеского совета, понеже ты еси воистину советодатель мой
+                            добросовестный.</p></postscript>
+                        
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09093</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09093</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>  
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-28">2023-06-28</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09093"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-11-27">1788 г. нобря 27.</date>
+                </dateline>
+            </opener>
+            <p>Пожалуй достань от <persName ref="people.xml#vya01">князя Вяземскаго</persName> известия, к <rs ref="people.xml#vya01">нему</rs> доставленныя от <persName ref="people.xml#sut01">Сутерланда</persName>.
+            <note type="editorial">
+                A.V. Khrapovitskii noted in his diary under <date when-custom="1788-11-27">the same day</date> that Catherine expected to get the news about the illness of <persName ref="people.xml#geo02">the king of England George III</persName>, but <persName ref="people.xml#sut01">Sutherland</persName>'s notes to <persName ref="people.xml#vya01">Viazemskii</persName> contained information about negotiation (
+                <bibl>
+                    <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                    , <biblScope unit="pp">pp. 204.</biblScope>
+                </bibl>
+                ).
+            </note>
+            </p>
+        </body>
+    </text>
+</TEI>

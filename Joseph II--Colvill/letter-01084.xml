@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01084</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01084</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:26:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01084">
+  <body>
+
+   <p>Monsieur mon frère. Attentive à ne laisser échapper aucune occasion de donner à V. M. I. des
+    témoignages de mes sentiments pour Elle, je saisis avec plaisir celle que me fournit l’envoi
+    d’un courrier que je fais expédier à mon ambassadeur à Sa cour, pour remercier V. M. I. de la
+    lettre qu’Elle a bien voulu m’écrire en date du 11 décembre dernier. Quelqu’accoutumée que je
+    suis aux assurances d’amitié qu’Elle ne cesse de me donner, je les reçois toujours avec
+    l’intérêt qui doit si bien Lui prouver toute la mienne, ainsi que la haute considération et
+    l’attachement inviolable avec lesquels je ne cesserai jamais d’être ....</p>
+  </body>
+ </text>
+</TEI>

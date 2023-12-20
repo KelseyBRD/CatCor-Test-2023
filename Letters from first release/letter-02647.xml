@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02647</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02647</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-08">13 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02647">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Czarskoe Sélo</placeName>,
+                                <date when-custom="1764-09-17">ce 17 Septembre
+                            1764</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>Avec l'aide de Votre Majesté je suis sûre de réussir, dans tout ce que
+                        j'entreprendrai. Mes prédécesseurs n'ont pas eu <persName
+                            ref="people.xml#fre01">le roi Frédéric</persName> pour allié. Voilà
+                        l'avantage que j'ai sur eux, c'est la sincère assistance que mon allié m'a
+                        donnée qui a mené cette élection aussi unanimement que tranquillement à sa
+                        fin. J'en félicite à mon tour Votre Majesté et je me réjouis d'avoir son
+                        approbation. Je ne suis point étonnée de voir de grandes puissances animées
+                        contre moi, j'ai levé un voile incommode pour la <placeName
+                            ref="places.xml#rus01">Russie</placeName>, mais très avantageux à
+                        l'intérêt de ces puissances. La rancune de l'une ne me détournera point de
+                        mon chemin, ni ne me fera perdre les intérêts de mon état de vue, et la
+                        jalousie de l'autre me flatte et me prouve que les ruses et les supercheries
+                        n'ont pas réussi jusqu'ici à me détourner du devoir que j'ai à remplir; les
+                        obstacles ordinairement ne me détournent pas de mes entreprises. Le <rs
+                            ref="people.xml#pon01">ministre</rs> que j'emploie doit être très flatté
+                        de l'approbation de Votre Majesté, ce n'est pas d'aujourd'hui qu'il méprise
+                        les faux bruits que ses envieux font courir. Je dirai sincèrement à Votre
+                        Majesté que je suis très contente de sa conduite, et que je n'ai ni raison
+                        ni envie de le déplacer. Tout ce que Votre Majesté me dit à la fin de Sa
+                        lettre me fait voir Sa franchise et le désir qu'Elle a de prolonger
+                        l'heureuse amitié et l'harmonie qui subsistent entre Nous, comme mes
+                        souhaits répondent parfaitement à ceux de Votre Majesté, </p>
+                    <closer>
+                        <signed>je ne puis mieux finir ma lettre qu'en La priant d'être persuadée de
+                            la durée de mon amitié sincère et de la haute estime et considération
+                            avec laquelle je suis, Monsieur mon Frère, de Votre Majesté la bonne
+                            Soeur et Alliée<note type="editorial">Corrected from source text, which
+                                reads "Allieé".</note>
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

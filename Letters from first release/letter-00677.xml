@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00677</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00677</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00677">
+                <body>
+                   
+                    <p>Сей час возвратился ко мне <persName ref="people.xml#lan02">Ал[ександр]
+                            Дм[итриевич]</persName> и сказывал, что дух твой наполнен
+                        безпокойствами. Но как из всего того, кроме сущепустых бреден, я ничего не
+                        понимаю и притом знаю, что душа моя и его в рассуждении тебя весьма
+                        безпорочны, с каковым душевным спокойством и пребуду до тех пор, пока
+                        рассудишь за благо со мною переговорить. И я ни мало не сумневаюсь, что
+                        всякая клевета и неправда уступит истинной той дружбе, которую всегда и
+                        непременно найдешь в моей и ко мне привязанной душе того, который тебя
+                        наравне со мною любит и почитает. Сожаление же наше единственно об тебе, что
+                        ты находи[шь]ся в безпокойстве.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03698</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03698</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#domesticPolicy"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This is a copy of a letter that Catherine wrote to
+     the Duke of Saxe-Weimar .</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-07">07-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:00:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03698">
+  <body>
+
+   <head  hand="people.xml#unknown">Copie de la lettre de <rs ref="people.xml#cat01"> Sa
+     Majesté Impériale</rs> au<persName ref="people.xml#cha05"> duc de Saxe-Weimar</persName> eu date du 23 mars 1795</head>
+   <p>Monsieur mon cousin, la lettre de <rs ref="people.xml#cha05"> V. A. S</rs>. et la déduction
+    qu’elle y avait jointe pour constater ses droits sur la succession de <placeName
+     ref="places.xml#jev01"> Iever</placeName>, dérivés de sa bisaïeule la princesse <persName
+     ref="people.xml#sop05"> Sophie Auguste</persName> d’Anhalt-Zerbst, me sont exactement
+    parvenues. Je suis persuadée que <rs ref="people.xml#cha05"> V. A</rs>., en examinant elle-même
+    ses titres de plus près, n’aura pas de peine à se convaincre qu’eu égard à ma qualité de soeur
+    et unique héritière légale de <rs ref="people.xml#fri15"> feu mon frère</rs>; j’ai disposé,
+    selon mes droits incontestables, de toute cette succession, du moment qu’elle m’est tombée en
+    partage; et il ne lui sera par difficile d’en tirer la conséquence qu’il ne dépend plus de moi
+    de faire là-dessus aucun autre arrangement.</p>
+   <closer><signed>Je suis avec des sentiments distingués etc.</signed></closer>
+  </body>
+ </text>
+</TEI>

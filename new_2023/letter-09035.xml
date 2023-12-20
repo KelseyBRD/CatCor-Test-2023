@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09035</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09035</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09035"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-08-24">1787 г. августа 24.</date>
+                </dateline>
+            </opener>
+            <p>Сделай милость еще перепиши, и койчас перепишешь, пришли ко мне.
+            <note type="editorial">
+                In A.V. Khrapovitskii's diary under <date when-custom="1787-08-24">the same day</date> stand: "Поутру и после обеда, то-есть 2 раза, переписывал сделанныя перемены в окончании <rs ref="works.xml#prover01">той пьесы</rs>". This note refers to Catherine's play <title xml:lang="fr" ref="works.xml#prover01">Un tiens vaut mieux que deux tu l'auras</title> that Khrapovitskii received and copied on <date when-custom="1787-08-22">August 22 1787</date>, and showed it to Catherine <date when-custom="1787-08-23">the next day</date>. (
+                <bibl>
+                    <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                    , <biblScope unit="pp">pp. 27.</biblScope>
+                </bibl>
+                ).
+            </note></p>
+        </body>
+    </text>
+</TEI>

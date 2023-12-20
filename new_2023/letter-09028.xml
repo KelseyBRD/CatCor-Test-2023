@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09028</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09028</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#education"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#grandchildren"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="fr" xml:id="letter-09028"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-04-17">Le 17 Avril 1787.</date>
+                </dateline>
+            </opener>
+            <p><persName ref="people.xml#seg01">Mr. de Ségur</persName> m’a demandé <date when-custom="1787-04-16">hier</date>, si <rs ref="people.xml#cat01">l’auteur du <title ref="works.xml#siberi01">Schaman</title></rs> n’avait point fait d’ouvrage sur l’éducation. Je <rs ref="people.xml#seg01">lui</rs> ai répondu que non. Mais <date when-custom="1787-04-17">ce matin</date> je me suis ressouvenue qu’il y a de <rs ref="people.xml#cat01">lui</rs> (outre <title ref="works.xml#nastav01">la Grande Instruction du <persName ref="people.xml#sal03">général Saltikof</persName></title>) deux ou trois livres pour les enfans-mêmes qu’ils lisent avec une singulière avidité et qu’ils se font relire continuellement, particulièrement quand ils sont malades. Ses livres ont épargnés beaucoup de pleurs aux enfans et aux bonnes bien des altercations inutiles. Je pense que ces livres sont imprimés en Allemand. L’un est un <rs ref="works.xml#babush01">A B C accompagné de Maximes</rs>, l’autre <rs ref="works.xml#ofevee01 works.xml#ochlor01">des contes d’enfans</rs> le troisième est une espèce de Géographie des frontières de <placeName ref="places.xml#rus01">la Russie</placeName> en forme de narration à la portée des enfans. Tout ceci a été fait pour <persName ref="people.xml#ale01">Alexandre</persName>, quand <rs ref="people.xml#ale01">il</rs> n’avait que quatre à cinq ans, et le succès en a été etonnant. Montrez ce billet au <rs ref="people.xml#seg01">compte de S</rs>.</p>
+        </body>
+    </text>
+</TEI>

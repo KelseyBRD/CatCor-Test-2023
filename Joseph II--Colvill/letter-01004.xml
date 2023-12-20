@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01004</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01004</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-24">24-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:31:05Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01004">
+  <body>
+
+   <p>Monsieur mon frère. La lettre qu’il a plu à V. M. I. de m’écrire le 23 septembre, m’est
+    parvenue le lendemain du départ du <persName ref="people.xml#hen02"> prince de <placeName
+      ref="places.xml#pru01"> Prusse</placeName></persName>. Si les voyageurs qui ont honoré
+     la <placeName ref="places.xml#rus01">Russie</placeName> de leur présence cette année, m’ont
+    causé quelques inquiétudes, elles n’ont eu d’autre motif que celui de l’insatiable désir dont
+    mon âme était remplie, de les voir parfaitement contents dans tous les sens sur notre compte. Le
+    premier n’a emporté d’ici rien de nouveau pour lui, il en a fait autant partout ailleurs. Il
+    nous a inspiré tous les sentiments que sa vue doit produire, et je l’avoue, il nous a rendus
+    difficiles sur ceux que nous verrons à l’avenir. Le suivre immédiatement, était une entreprise
+    difficile et redoutable. Si le <persName ref="people.xml#hen02"> prince de <placeName
+      ref="places.xml#pru01">Prusse</placeName></persName> n’a parlé que pour lui, aussi n’avait-il
+    que cela à faire; la cause de son devancier était toute gagnée dans cette partie de l’<placeName
+     ref="places.xml#eur01">Europe</placeName> qu’il s’est plu à parcourir.</p>
+   <p>Il y a longtemps qu’il y avait vu avec des yeux accoutumés de voir les hommes et les objets,
+    dont assurément l’on ne saurait avoir la même connaissance, lorsque dès le berceau l’on n’a
+    qu’un objet unique et éternel devant les yeux, quelqu’utile qu’il soit d’ailleurs.</p>
+   <p>J’espère que le <persName ref="people.xml#lig01"> prince de Ligne</persName>, dont V. M. I.
+    m’avait fait l'honneur de me parler, sera parti d'ici aussi content de nous que nous le sommes
+    de lui.</p>
+   <p>Je souhaite de tout mon coeur et j’ose présumer que l'horoscope des <rs ref="places.xml#ter01 places.xml#jos01"
+     >deux forteresses nouvelles</rs> en <placeName ref="places.xml#boh01">
+     Bohème</placeName> ne sera point maligne.</p>
+   <p>Nous entendrons dans peu qui seront les heureux. Je ne sais pourquoi j’ai des doutes sur les
+    grands coups dont V. M. I. fait mention; peut-être est-ce parce que je n’en ai pas vu frapper de
+    cette guerre.</p>
+   <p>Tout ce que V. M. I. me dit de <persName ref="people.xml#fer05"> S. A. R. le Grand-Duc de
+     Toscane</persName>, me fait un très-grand plaisir, de joins à une très-haute estime personnelle
+    pour ce prince mille obligations anciennes et nouvelles que je lui ai. Aucun souverain n’a plus
+    fait pour mes flottes que lui. Je serai enchanté chaque fois où je pourrai trouver l’occasion de
+    lui en marquer ma très-sensible reconnaissance.</p>
+   <p>J’ai bien des remercîments à faire à V. M. I. du témoignage qu’Elle a bien voulu donner à mes
+    sentiments. Je La prie d’agréer l’expression de ceux avec lesquels j’ai l'honneur d’être</p>
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur et amie <persName  ref="people.xml#cat01">Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

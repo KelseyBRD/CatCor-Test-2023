@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03012</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03012</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-11">11/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:37:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03012">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date when-custom="1778-08-17">17 d’aôut 1778</date>.</dateline></opener>
+   <p>Depuis qu’il existe dans ce monde des barons allemands, il n’y en eut jamais d’aussi passionné
+    pour les post-scriptum que vous. A peine ai-je eu le temps de répondre à un que voilà une
+    continuation du post-scriptum du 15 juillet annexé au No 20, que je prétends n’avoir point reçu,
+    qui vient m’assaillir. <seg xml:lang="de"> Aber was wird denn das werden</seg>? Je n’aime point
+    les <seg xml:lang="de"> Nachtrag</seg> depuis que j’ai vu dans un, <name ref="events.xml#bavar01"
+     >une renonciation</name> d’un duc <persName ref="people.xml#alb01"> Albert
+     d’Autriche</persName> sur la <placeName ref="places.xml#bav01"> Bavière</placeName>, que la
+    cour de <placeName ref="places.xml#vie01"> Vienne</placeName> nie comme meurtre, <seg xml:lang="de"> aber wer Teufel hat den
+     Recht oder Unrecht, und wer ist denn ein Lügner</seg>? Allons, décidez-moi cela au plûs
+    tôt.</p>
+   <p>Je me joins à <persName ref="people.xml#rei03"> M. Reiffenstein</persName> pour vous souhaiter
+    une parfaite santé; j’espère, de même que lui, que mes précédentes vous seront parvenues dans
+    leur temps. Je n’ai encore reçu aucune caisse ni ballot expédiés par <persName
+     ref="people.xml#rei03"> M. Reiffenstein</persName>, contenant marbres etc., acquis par ordre de
+     <persName ref="people.xml#shu02"> M. de Schouvalof</persName>, NB, qui se trouve ici présent,
+    par la raison que les frégates parties de Livourne ne sont point arrivées encore, ni par
+    conséquent toutes les autres belles choses qui voguent en pleine mer, et Dieu veuille sauver les
+     <title ref="works.xml#logera01"> loges de Raphaël</title> des tempêtes et des mains des
+    armateurs américains, contre lesquels je suis très en colère, parce qu’ils me ruinent mon
+    commerce d’ <placeName ref="places.xml#ark01"> Archangel</placeName>. Je crains beaucoup que
+    la toux n’emporte <persName ref="people.xml#men01"> Mengs</persName> avant qu’il n’ait commencé
+    mes tableaux; voilà un an qu’ils sont commandés, et cette année est malheureusement marquée par
+    la perte de bonnes têtes.</p>
+   <p>Monsieur, je suis encore de l’avis de <persName ref="people.xml#rei03"> M.
+     Reiffenstein</persName>, accompagné du <persName ref="people.xml#aug04"> prince
+     de <placeName ref="places.xml#sax01"> Saxe</placeName>-<placeName ref="places.xml#got01"> Gotha</placeName></persName> et du général <persName
+     ref="people.xml#vor01"> Vorontsof</persName> à <placeName ref="places.xml#rom03"> Rome</placeName>: je regrette infiniment, tout
+    comme eux, de ne pas jouir de votre conversation et de votre agréable compagnie. J’écris tout
+    ceci, tenant la lettre de <persName ref="people.xml#rei03"> M. Reiffenetein</persName> à la
+    main, et tout en la lisant.</p>
+   <p>Me voilà arrivée au père <persName ref="people.xml#jac01"> Jacquier</persName> et à <persName
+     ref="people.xml#chi03"> l’abbé Chigi</persName>; j’ai lu d’un bout à l’autre moi-même la lettre
+    du premier écrite en pattes de mouche; j’accepte avec empressement la dédicace de la carte de la
+     <placeName ref="places.xml#sic01"> Sicile</placeName>, et cela en faveur de mon cousin le mont
+    Etna, pour lequel vous connaissez ma passion très décidée. J’ai d’ailleurs une très grande
+    répugnance pour les dédicaces; mais en faveur de mon cousin, que j’aime infiniment, je fais
+    exception à la règle, et j’aurais envie que <persName ref="people.xml#rei01"> M.
+     Reiffenstein</persName> se chargeât d’embrasser le frère <persName ref="people.xml#jac01">
+     Jacquier</persName> et <persName ref="people.xml#ghi01"> l’abbé Chigi</persName> de la
+    charmante idée qu’ils ont conçue. J’attends avec impatience le tableau de <persName
+     ref="people.xml#hac01"> Hackert</persName> qui représente mon susdit cousin; je le ferai copier
+    en miniature pour le porter en bracelet, tant je l’aime. Apparemment que S. M. catholique aime
+    les sujets tristes, vu la scène désagréable qu’il a commandée à <persName ref="people.xml#men01"
+     > Mengs</persName> et qui retient l’artiste de commencer les tableaux que je voudrais avoir, de
+    même que la demande de <persName ref="people.xml#shu02"> M. de Schouvalof</persName>; il y a
+    longtemps que j’ai dit à ce dernier que je ne trouvais rien de cher de la part de <persName
+     ref="people.xml#men01"> Mengs</persName>; je crois même qu’il lui a déjà envoyé de l’argent
+    d’avance. J’ai ordonné de payer au <persName ref="people.xml#fre03"> baron
+     Friederichs</persName> pour <persName ref="people.xml#rei01"> M. Reiffenstein</persName> 274
+    scudi romani 90 ½ baiocchi. Prenez deux exemplaires pour moi des oeuvres de Metastasio, s’il
+    vous plaît; du reste, je me recommande à l’honneur de votre souvenir. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01128</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01128</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-04"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-08"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01128">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p> Надеюсь, что Вы моим вчерашним посланным сведали, что я вчерась в первом часу по
+                полудни сюда приехала благополучно, имев туда и сюда ветер по желанию. Ваше письмо
+                со всеми депешами получила вчерась же, в девятом часу вечеру, из котораго увидела,
+                что <persName ref="people.xml#pau01">сын мой</persName> здоров. Я в субботу буду в
+                город, а здесь мы вчерась столь много ходили, что сегодни я встала в одиннадцатом
+                часу, а многия после меня без пристрастия говорят, что сад и дом мои хорош, а мне
+                кажется, будто лутче здесь нигде нету.</p>
+            <closer rend="inline">Прощайте, желаю Вам здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1765-06-09">9 числа Июня, 1765.</date><lb/> Из
+                        <placeName ref="places.xml#ora01"
+                >Ораниенбаума.</placeName></dateline></closer>
+        </body>
+    </text>
+</TEI>

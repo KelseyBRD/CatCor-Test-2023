@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02753</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02753</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:27:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02753">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-06-26">26 Juin / 7 Juillet 1771</date></dateline></opener>
+   <p>Monsieur, Le 14 Juin <persName ref="people.xml#mus01"> Moustapha</persName> reçut une nouvelle
+    croquignole, le Prince <persName ref="people.xml#dol04"> Dolgorouki</persName> a la tête de son armée
+    força les Lignes de <placeName ref="places.xml#per04"> Perecop</placeName> et entra dans la
+     <placeName ref="places.xml#cri01"> Crimée</placeName>. Le Cham avec cinquante mille Tartares et sept mille
+    Turks les défendoit, ils prirent la fuite lorsqu’ils aprirent qu’un autre corps détaché allait
+    les couper et au départ du Courier les Députés de la Forteresse de <placeName ref="places.xml#per04">
+     Perecop</placeName> étoit dans notre Camp pour régler leurs accord. J’attend dont de moment en
+    moment la nouvelle de la réduction de cette plaçe.</p>
+   <p>L’Amiral <persName ref="people.xml#sen01"> Sinevin</persName> est parti de <placeName ref="places.xml#tag01">
+     Taganrok</placeName> et ce promène présentement sur la <placeName ref="places.xml#azo02"> mer
+     d’Asoph</placeName> et peut être aussi plus loin, je ne sauroit dire au juste, vuë que cela
+    dépend du tems et des vents. Voilà Monsieur tout ce que j’ai à Vous dire pour le présent. Je me
+    recomande à Vos prières et à Votre amitié</p>
+  </body>
+ </text>
+</TEI>

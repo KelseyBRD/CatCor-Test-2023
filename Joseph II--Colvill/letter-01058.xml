@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01058</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01058</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:19:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01058">
+  <body>
+   <opener>
+    <dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, cе <date when-custom="1784-02-24"
+      >24 février 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre que V. M. I. m’a fait l’honneur de m’écrire de <placeName
+     ref="places.xml#pis01"> Pise</placeName> en date du 3 février, au moment où Elle a reçu la
+    nouvelle que la convention entre les <orgName ref="orgs.xml#turk01"> Turcs</orgName> et moi
+    était <rs ref="events.xml#crime01"> signée</rs>, je l’ai reçue avec cette satisfaction vive que
+    me causent toutes celles qui me viennent de la part de V. M. I. — Les provinces et les îles qui
+    par cette convention passent sous la domination de l’<placeName ref="places.xml#rus01">Empire de
+     Russie</placeName>, forment ma dot. Je l’avoue volontiers, je la dois à l’amitié, à l’appui, au
+    soutien de mon meilleur ami et allié, l’Empereur Joseph II Aussi ne laisserai-je échapper aucune
+    occasion où je pourrai remplir la confiance que V. M. I. veut bien me témoigner, en me disant
+    qu’Elle est assurée d’un parfait retour de ma part. Dès la signature de ma convention mon
+    premier soin a été, comme V. M. I. en est sans doute déjà informée dans ce moment, de m’informer
+    en quoi et comment je pouvais Lui être utile. Mes ordres à ce sujet viennent d’être réitérés à
+    mes ministres à <placeName ref="places.xml#vie01">Vienne</placeName> et à <placeName
+     ref="places.xml#ist01">Constantinople</placeName>. Mes dispositions militaires sur les
+    frontières sont faites en conséquence; en un mot, la sincérité de mes sentiments égale ceux de
+    la parfaite reconnaissance, de la très-haute considération, de l’estime sans bornes et de la
+    fidèle amitié avec lesquels je ne cesserai d’être ....</p>
+  </body>
+ </text>
+</TEI>

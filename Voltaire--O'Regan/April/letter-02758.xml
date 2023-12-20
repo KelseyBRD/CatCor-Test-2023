@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02758</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02758</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+  
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:29:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02758">
+  <body>
+
+  <opener> <dateline> à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date when-custom="1771-10-06">6/17 d'Octobre 1771</date></dateline></opener>
+   <p>Monsieur, J'ai à Vous fournir un petit suplément à l'article fanatisme,
+     qui ne figurera pas mal aussi dans celui des contradictions, que j'ai luë avec la plus grande
+     satisfaction dans le livre des <rs ref="works.xml#questi02"> Questions sur
+     l'Encyclopédie</rs>. Voici de quoi il s'agit. Il y a
+    des maladies à <placeName ref="places.xml#mos01"> Moscou</placeName>, se sont des fièvres pourprées, des
+    fièvres malignes, des fièvres chaudes avec taches et sans taches, qui emportent beaucoup de
+    monde, malgré toutes les précautions qu'on aye pris. Le grand Maitre <persName ref="people.xml#orl01">
+     Cte: Orlof</persName>, m'a demandée en grâce d'y aller pour voir sur les lieux quels seroit les
+    arangemens les plus convenables à prendre pour arretter ce mal; j'ai consentie à cette action si
+    belle et si zélé de sa part, non sans sentir la plus vive peine, sur le danger qu'il va courir.
+    Apeine étoit il en chemin depuis vingt quatre heures que le Maréchal <persName ref="people.xml#sal05">
+     Soltikof</persName>, m'écrivit la catastrophe suivante qui s'est passé à <placeName ref="places.xml#mos01">
+     Moscou</placeName> du 15 au 16 septembre v. st. L'Archevêque de cette Ville, nomé
+     <persName ref="people.xml#amb01"> Ambroise</persName>, home d'esprit et de mérite, ayant apris qu'il y
+    avoit depuis quelques jours une grande affluence de populaçe devant une Image, qu'on prétendoit
+    qui guérissait les malades (lesquels expirait aux pieds de la Ste: Vierge) et qu'on y portait
+    beaucoup d'argent, envoya mettre son sçeaux sur cette caisse, pour l'employer ensuite à quelques
+    œuvres pieuses, Arrangement économique que chaque Evêque est très en droit de faire dans son
+    diocèse. Il est à supposer, qu'il avait intention d'ôter cette image, come cela s'est pratiqué
+    plus d'une fois, et que ceçi n'était qu'un préambule. Effectivement cette foule de monde
+    rassemblé dans un tems d'Epidémie ne pouvait que l'augmenter. Mais voici ce qui arriva.</p>
+   <p>Une partie de cette populaçe ce mit à crier, <hi
+     rend="Emphasis">L'Archevêque veut voler le tréors de la Ste: Vierge, il faut le tuer</hi>.
+    L'Autre prit parti pour l'Archevêque, des paroles ils en vinrent aux coups; la poliçe voulu les
+    séparer, mais la poliçe ordinaire ne put suffire; <placeName ref="places.xml#mos01"> Moscow</placeName> est
+    un monde, non une Ville. Les plus furieux ce mirent à courir vers le <placeName ref="places.xml#kre02">
+     Kremlin</placeName>, ils enfoncèrent les portes du couvent où réside l'Archevêque, ils pillèrent
+    ce couvent, s'enivrèrent dans les caves, où beaucoup de Marchands tienent leurs vins, et n'ayant
+    point trouvé celui qu'ils cherchoient, Une partie s'en alla vers le Couvent nomé
+     <placeName ref="places.xml#don02"> Donskoy</placeName>, d'où ils tirèrent ce vieillard et le massacrèrent
+    inhumainement, l'autre resta à ce battre en partageant le butin. Enfin le Lieutenant Général
+     <persName ref="people.xml#ero01"> Ierapkin</persName> arriva avec une trentaine de soldats, qui les
+    obligèrent bien vite à se retirer, les plus mutins furent pris. En vérité ce fameux xviii siècle
+    a bien là de quoi ce glorifier, nous voilà devenu bien sages. Mais se n'est pas à Vous à qui il
+    faut parler sur cette matière, Vous conoissés trop les homes pour Vous étoner des contradictions
+    et des extravagances dont ils sont capables. Il suffit de lire Vos <rs ref="works.xml#questi02"> Questions sur
+     l'Encyclopédie</rs>, pour être persuadé de la profonde conoissance que Vous avés de l'esprit et
+    du cœur des humains. Je Vous dois mille remercimens Monsieur de la mention que Vous voulés bien
+    faire de moi dans divers endroits de ce livre, où je suis étonée de trouver très souvent mon nom
+    à la fin d'une phrase où je l'attendois le moins. J'espère que Vous aurés reçu à l'heure qu'il
+    est la lettre de change, pour le payement des fabriquens qui m'ont envoyé leurs montres. Le
+    Nouvelle du Combat naval donée à <placeName ref="places.xml#lem01"> Lemnos</placeName> est fausse. Le Cte:
+     <persName ref="people.xml#orl03"> Al: Orlof</persName> était encore à <placeName ref="places.xml#par02">
+     Paros</placeName> le 24 de Juillet, et la flotte Turque n'ose montrer les beaux gueux en deça
+    des <placeName ref="places.xml#dar01"> Dardanelles</placeName>. Votre lettre au sujet de ce combat est
+    unique. Je sens come je doit toutes les marques d'amitié qu'il Vous plait de me doner, et je
+    Vous ai les plus grandes des obligations pour Vos charmantes lettres. J'ai trouvé Monsieur dans
+    les <title ref="works.xml#questi02">Questions sur l'Encyclopedie</title>, si remplie de choses aussi
+    exellentes, une nouvelles, à l'Article Economie publique page 61 de la cinquième partie, ces
+     paroles, <hi rend="Emphasis">Donés à la
+      <placeName ref="places.xml#sib01"> Siberie</placeName> et au <placeName ref="places.xml#kam01">
+      Kamshatka</placeName> réunis, qui font quatre fois l'étendue de
+      l'<placeName ref="places.xml#ger01"> Allemagne</placeName> un Cyrus pour souverain,
+     un Solon pour législateur, un <persName ref="people.xml#sul01"> Duc de
+      Sully</persName>, un <persName ref="people.xml#col06"> Colbert</persName> pour
+     surintendant des finances, un <persName ref="people.xml#cho03"> Duc de
+      Choiseul</persName> pour Ministre de la guerre et de la paix, un <persName ref="people.xml#ans01">
+      Anson</persName> pour Amiral, Ils mourront de faim avec tout leur
+     génie</hi>. Je Vous abandone tout le pays de la <placeName ref="places.xml#sib01"> Siberie</placeName> et
+    du <placeName ref="places.xml#kam01"> Kamshatka</placeName> qui est situé au delà du 63 degré, en revange je
+    plaide chés Vous la cause de tout le terrain qui ce trouve outre le 63 et 45 degrés. Il manque
+    d'homes en proportion de son étenduë, de vins aussi, mais non seulement il est cultivable, mais
+    même très fertile, les bleds y vienent en si grande abondance, qu'ontre la consomation des
+    Habitans, il y a des brasseries imenses, d'eau de vie et il en reste encore assés pour en mener
+    par terre en hiver et par les rivières en été jusqu'à Arcangel, d'où on l'envoye dans les pays
+    Etranger, et peut être en a t'on mangé dans plus d'un endroit, en disant que les bleds ne
+    mûrissent jamais en <placeName ref="places.xml#sib01"> Siberie</placeName>. Les animaux Domestiques, le
+    gibier, les poissons, ce trouvent en grande abondance dans ses Climats, et il y en a d'espèce
+    exellente qu'on ignore dans les autres pays de l'<placeName ref="places.xml#eur01"> Europe</placeName>.
+    Généralement les productions de la Nature en <placeName ref="places.xml#sib01"> Siberie</placeName> sont
+    d'une richesse extraordinaire, témoin la grande quantités de mines de fer, de cuivre, d'or, et
+    d'argent, les Carieres, d'Agathes de toutes couleur, de Jaspes, de cristaux, de marbres, de
+    talk, etc: qu'on y trouve. Il y a des districts entiers couvert de Cèdres d'une épaisseur
+    extraordinaires aussi beaux que ceux du <placeName ref="places.xml#leb02"> Mont Liban</placeName>, et des
+    fruitiers sauvages de beaucoup d'espèçes différente. Si Vous êtes curieux Monsieur de voir des
+    productions de la <placeName ref="places.xml#sib01"> Siberie</placeName>, je Vous enverrés des collections
+    de différentes espèces, qui ne sont comunes qu'en <placeName ref="places.xml#sib01"> Siberie</placeName> et
+    rare partout ailleur. Mais une chose qui démontre je pense que le monde est un peu plus vieux
+    que nos nourice ne nous le disent, s'est qu'on trouve dans le Nord de la <placeName ref="places.xml#sib01">
+     Siberie</placeName> à plusieurs toises sous terre, des ossemens d'Eléphants qui depuis fort longtems n'habitent plus ses contrées. Les
+    savants plutôt que de convenir de l'antiquité de notre globe ont dit que s'était de l'ivoire
+    faussile, mais ils ont beaux dire les faussile ne croisse point en forme d'Eléphant très
+    complet. Ayant plaidé ainsi devant Vous la cause de la <placeName ref="places.xml#sib01">
+     Siberie</placeName>, je Vous laisse le jugement de mon procès et me retire en Vous réitérant les
+    assurances de la plus haute considération et de l'amitié et l'estime la plus sincère,</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

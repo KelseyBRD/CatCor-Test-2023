@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00028</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00028</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-07">7 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-18">18 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-07-18">18 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00028">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-01-02">2 Janvier
+                                1774</date>.</dateline><salute rend="below">Madame ma
+                            Cousine,</salute></opener>
+                    <p>Malgré Vos deux lettres de <placeName ref="places.xml#pot01"
+                            >Potsdam</placeName>, l'une du 9, l'autre du 10 de Décembre, malgré
+                        Votre départ de ce lieu, et même malgré ce que le <rs ref="people.xml#fre01"
+                            >roi de Prusse</rs> me dit dans une de ses lettres sur l'état de Votre
+                        santé, qui devroit me rassurer, je Vous avoue que j'ai eu les plus vives
+                        inquiétudes. La lettre de <persName ref="people.xml#bou01">M<hi rend="sup"
+                                >me</hi> Bouchwald</persName> à <persName ref="people.xml#gri01"
+                            >Grimm</persName>, écrite après le passage de Votre Altesse par <rs
+                            ref="places.xml#got01">Gotha</rs>, m'a cependant un peu calmé. J'attends
+                        avec impatience les nouvelles de votre arrivée à <placeName
+                            ref="places.xml#dar01">Darmstadt</placeName>. <rs ref="people.xml#wil01"
+                            >La Grande-Duchesse</rs> commence à être sujette à la médisance des
+                        courtisans; la semaine passée elle a eu des maux de coeur qui ont donné lieu
+                        à des propos dont on n'est pas bien revenu encore, mais sur lesquels,
+                        cependant, il n'y a point de preuves réelles jusqu'ici, mais, en attendant,
+                            <rs ref="people.xml#pau01">Monseigneur son époux</rs> prend garde à
+                        elle, comme à la prunelle de ses yeux; il ne faut point qu'elle danse, et le
+                        moindre indice paroît preuve convaincante. Je ne manquerai pas, Madame,
+                        d'écrire le bref ostensible dont vous me parlez dans la lettre que j'ai
+                        reçue des mains de la <rs ref="people.xml#wil01">Grande-Duchesse</rs>. J'ai
+                        bien reconnu l'amitié que <persName ref="people.xml#hen02">le prince
+                            Henri</persName> ne cesse de me témoigner dans la conduite qu'il a tenu
+                        lors du séjour de Votre Altesse à <placeName ref="places.xml#ber01"
+                            >Berlin</placeName>. J'étois là entre les mains de mes meilleurs amis et
+                        de personnes qui me sont bien chères.</p>
+                    <p>Savez-Vous bien, Madame, que mon amour-propre est plus flatté et plus fier
+                        d'avoir de tels amis, que de toutes les victoires remportées par mes
+                        généraux, et auxquelles leurs valeurs et celle de mes troupes seules ont eu
+                        part? <persName ref="people.xml#goe01">Le comte Goertz</persName> est arrivé
+                        ici, et j'espère qu'il retournera content de l'accueil qu'on lui a fait. Il
+                        a été invité, le jour passé, à une fête charmante que <persName
+                            ref="people.xml#orl01">le prince Orlof</persName> nous a donné; de tous
+                        les étrangers il étoit le seul qui y assista. A propos de ce prince, je Vous
+                        dirai, Madame, qu'il est un de plus sincères admirateurs de la conduite de
+                        Madame Votre fille, et qu'il est extrêmement reconnoissant de la manière
+                        dont elle le traite. Or, cet homme-là n'est ni faux ni flatteur. Je suis
+                        bien aise que <persName ref="people.xml#gri01">Grimm</persName> soit content
+                        de moi; il vient de temps en temps jaser avec moi le soir, depuis 8 heures
+                        jusqu'à 10. On ne sauroit être plus sensible que je le suis de l'intérêt que
+                            <rs ref="people.xml#fre01">le Roi de Prusse</rs> a paru prendre à ce qui
+                        me regarde. La nouvelle que Sa Majesté Vous a donnée de la défaite d'un gros
+                        corps de l'armée turque, de la prise de deux pachas possesseurs à eux deux
+                        de cinq queues, avec canons et bagage, est très vraie, mais la prise de
+                            <placeName ref="places.xml#var01">Warna</placeName> et de <placeName
+                            ref="places.xml#sil01">Silistrie</placeName> étoit des bruits
+                        prématurés; c'est une partie remise par <persName ref="people.xml#rum01">le
+                            maréchal Romanzof</persName> à un autre temps. Il a mis son armée en
+                        quartier d'hiver, parce que, dit-il, en hiver il fait froid, à quoi
+                        j'ajoute, moi: et en été trop chaud. Vous Vous souviendrez, Madame,
+                        peut-être, encore de certain dîner de <placeName ref="places.xml#pet02"
+                            >Péterhof</placeName>, où les propos de Votre voisine Vous firent rire
+                        un tantinet.</p>
+                    <p><rs>Madame la princesse de Prusse</rs> me témoigna tant de politesse et
+                        d'amitié que je ne sais comment m'acquitter vis-à-vis d'elle. Je vous prie,
+                        Madame, de le lui dire et d'embrasser les princesses Vos filles<note
+                            type="editorial"><ref target="people.xml#ama01">Friederike Amalie</ref>
+                            and <ref target="people.xml#lou03">Louise</ref>.</note> de ma part. La
+                        réquisition de Votre Altesse, au sujet de <persName ref="people.xml#hov01"
+                            >Mr. Hoven</persName>, parviendra au <persName ref="people.xml#pan01"
+                            >comte Panin</persName>, dès qu'un gros rhume qu'il a acquis, malgré la
+                        chaleur de ses chambres et le nombre de vêtements dont il s'enveloppe,
+                        l'aura quitté. Je verrai si la politique sera d'humeur à lâcher prise,
+                        sinon, nous aviserons d'autres façons. Je trouve le livre <seg xml:lang="de" rend="italic"><title ref="works.xml#rechtg01">Von der
+                                    Rechtgläubigkeit der heiligen griechischen Kirche</title>, eine
+                                unvergleichliche Sache in jetzigen schweren Zeiten und
+                                Umständen.</seg> Ce sera le premier livre du monde, qui
+                        aura servi de parure et de bouclier, et il pourra le disputer pour son
+                        double usage à la plus belle chiffonnière française, tables dont l'utilité,
+                        selon les marchands qui les vendent, est si multiplié.</p>
+                    <closer><signed rend="inline">Je finis par où les autres commencent, je Vous
+                            souhaite, Madame, une bonne et heureuse année, accompagnée de tout le
+                            contentement que Vous méritez. Je suis avec autant de considération que
+                            d'estime et d'amitié, Madame ma Cousine <hi rend="below center">de Votre Altesse</hi>
+                            <hi rend="below right">la bonne cousine et
+                            amie</hi>
+                        <persName ref="people.xml#cat01" rend="below right">Catérine.</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-01-02">2 January
+                                1774</date>.</dateline><salute rend="below">My dear
+                        Cousin,</salute></opener>
+                    <p>Despite your two letters from Potsdam, one of the 9th and the other of the
+                        10th of December; despite your departure from that place; and even despite
+                        what the king of Prussia tells me in one of his letters about the state of
+                        your health, which ought to reassure me, I confess to You that I have been
+                        keenly worried. Mrs. Bouchwald's letter to Grimm, written after Your
+                        Highness passed through Gotha, nonetheless reassured me a bit. I wait
+                        impatiently news of your arrival in Darmstadt. The Grand Duchess is starting
+                        to be subject to the slander of courtiers: last week she had nausea, which
+                        gave rise to some talk which has not yet entirely been forgotten, but for
+                        which there is not yet any real evidence. In the meantime, though, her
+                        husband watches over her as the apple of his eye. She must not dance, and
+                        the least indication seems to be convincing proof. I will not fail, madam,
+                        to write the ostensible letter of which you speak in the letter I received
+                        from the Grand Duchess. I well recognised the friendship that Prince Henry
+                        has not ceased to show me in his conduct when Your Highness was in Berlin. I
+                        was there in the hands of my best friends and of people who are most dear to
+                        me.</p>
+                    <p>Do you know, madam, that it flatters more my pride to have such friends, than
+                        all the victories of my generals, to which only their valour and that of my
+                        troops has contributed? Count Goertz has arrived, and I hope that he shall
+                        return pleased with the welcome he received. He was invited yesterday to a
+                        charming party given by Prince Orlov: he was the only foreigner in
+                        attendance. Regarding this prine, I shall tell You, madam, that he is one of
+                        the most sincere admirers of Your daughter's conduct, and he is very
+                        grateful for the way she treats him. And that man is neither false nor a
+                        flatterer. I am very glad that Grimm is pleased with me; he comes from time
+                        to time to chat with me in the evenings, from 8 o'clock until 10. One could
+                        not be more touched than I by the interest that the king of Prussia seemed
+                        to take in all that concerns me. The news that His Majesty gave You of the
+                        defeat of a large Turkish army corps, of the taking of two pashas owning
+                        five tails between them, with cannon and baggage, is very true, but the
+                        taking of Varna and of Silistria were premature rumours. That is an outing
+                        that Marshal Rumyantsev has put off for another time. He put his army in
+                        winter quarters because, he says, it is cold in winter, to which I, for one,
+                        add: and too hot in summer. You will perhaps still recall, madam, a certain
+                        diner at Peterhof, at which Your neighbour's words made you laugh a
+                        smidgeon.</p>
+                    <p>The Princess of Prussia has shown me so much courtesy and friedship that I
+                        know not how to acquit myself towards her. I beg you, madam, to tell her
+                        this and to kiss Your daughters the princesses for me. Your Highness's
+                        petition regarding Mr. Hoven will reach Count Panin as soon as the bad cold
+                        he acquired--despite the warmth of his rooms and the amount of clothing he
+                        wraps himself in--has left him. I will see if politics will be in the mood
+                        to let go; otherwise, we will contemplate other ways. I find the book 'On
+                        the orthodoxy of the holy Greek Church' to be an incomparable thing in the
+                        present difficult times and circumstances. It shall be the first book in the
+                        world that has served as finery and as a chield, and it will be able to
+                        compete with the finest French chiffonier, a table with such numerous uses,
+                        depending on the merchant who is selling it.</p>
+                    <closer><signed rend="inline">I end where other people begin: I wish You, madam,
+                            a good and happy year, with all the happiness You deserve. I am, with as
+                            much regard as esteem and friendship, my dear Cousin, Your Highness's
+                            good cousin and friend
+                        <persName rend="below right">Catérine.</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

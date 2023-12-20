@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01165</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01165</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Don't know which "брат Орлов". Who is the vice-chancellor?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-20"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01165">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#uly01">Синбирска</placeName>.<lb/>
+                <date when-custom="1767-06-07">Июня 7 ч., 1767 г.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Письмо Ваше, от 3 ч., я сего утра получила, из котораго я усмотрела, что, слава Богу,
+                    <persName ref="people.xml#pau01">сын</persName> мой здоров; на будущей неделе
+                неотменно с Вами буду. Я завтра к вечеру отселе еду. <persName
+                    ref="people.xml#orl01">Гр. Григ. Орлов</persName> отложил свою езду в <placeName
+                    ref="places.xml#sar03">Саратов</placeName>, а вместо его брат его и <orgName
+                    ref="orgs.xml#chan01">Советники Опекунства</orgName> поехали. Здесь такой жар,
+                что не знаем куда деваться, город же самой скаредной и все домы, кроме того, в
+                котором я стою, в конфискации, и так мой город у меня же; я не очень знаю, схоже ли
+                то с здравым разсуждением, и не полезнее ли повернуть людям их домы, нежели сии
+                лучинки иметь в странной собственности, из которой ни Коронныя деньги, ни люди не
+                сохранены в целости. Я теперь здесь упражняюсь сыскать способы, чтоб деньги были
+                возвращены, домы по пустому не сгнили и люди не приведены были вовсе в истребление,
+                а недоимка по соли и вину только сто семь тысяч рублей, к чему послужила как кража,
+                так и разныя нещастливыя приключении. Здесь известие получено, что Вице-Канцлер
+                палец ноги переломил и очень ушибся, упадши с лошади. Пожалуй, уведомьте меня,
+                правда ли то. Впрочем, желаю Вам скорее выздороветь. <persName
+                    ref="people.xml#kud01">Безсмертный дед</persName>
+                <persName ref="people.xml#pan02">Петра Ивановича</persName> мне подарил весьма
+                хороший цуг вороных лошадей.</p>
+            <closer rend="inline"><signed>Мы все здоровы.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

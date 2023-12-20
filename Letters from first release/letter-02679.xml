@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02679</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02679</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                    <term target="kw.xml#deathnotification"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-10">10 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02679">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Zarskoe Selo,</placeName>
+                            <date when-custom="1776-05-10">ce 10 Mai 1776</date>.</dateline>
+                   
+                    <salute rend="inline">Monsieur mon Frère,</salute> </opener>
+                    <p> Ce serait avec empressement que j'aurais répondu à la lettre de Votre
+                        Majesté que j'ai reçue des mains de Son Altesse Royale le <persName
+                            ref="people.xml#hen02">Prince Henri</persName> à son arrivée à
+                            <placeName ref="places.xml#pet01">St. Pétersbourg</placeName>, si,
+                        lorsque je croyais que rien ne pouvait altérer la satisfaction que je
+                        ressentais du séjour de ce Prince à ma cour, l'évènement le plus triste, la
+                        mort inattendue de <persName ref="people.xml#wil01">la feue Grande
+                            Duchesse</persName>, ma belle fille, n'avait changé tout à coup mon
+                        contentement dans la plus vive affliction. Ce m'est en quelque façon<note
+                            type="editorial">Corrected from source edition, which reads
+                            'facon'.</note> une consolation que ce malheur quelque douloureux qu'il
+                        soit, m'ait fourni l'occasion de témoigner à Votre Majesté toute la
+                        plénitude de la confiance que j'ai en Elle, et de voir avec combien de
+                        réciprocité et d'amitié Elle y a répondu. Elle a vu que je n'ai pas balancé
+                        un moment à ouvrir mon coeur au Prince, son Frère et sur les idées du voyage
+                        de mon fils <persName ref="people.xml#pau01">le Grand Duc</persName> à la
+                        cour de Votre Majesté, et sur le but de ce voyage. Son Altesse Royale le
+                            <persName ref="people.xml#hen02">Prince Henri</persName> vient de me
+                        communiquer non seulement l'agrément de Votre Majesté sur le séjour de mon
+                        fils près de Votre Majesté, mais encore tout ce qu'Elle a bien voulu faire
+                        pour la réussite de mon projet, et combien son amitié pour moi a mis de
+                        célérité et d'activité dans toute cette affaire; j'ai donc des doubles et
+                        triples remercîments à faire à Votre Majesté, et je m'en acquitte
+                        aujourd'hui au moment où les soins de Votre Majesté ayant aplani la
+                        principale difficulté qui résultait des enagagements du <rs
+                            ref="people.xml#lud02">prince héréditaire de Darmstadt</rs>, j'ose me
+                        flatter de la douce espérance que l'arrivée de la <rs ref="people.xml#mar02"
+                            >Princesse</rs> terminera mes désirs. Ceux-ci sont d'autant plus vifs
+                        que je considère l'alliance dont il est question comme un accroissement de
+                        liaisons intimes entre la maison Royale de Votre Majesté et la mienne. Son
+                        alliance m'est chère, son amitié m'est précieuse, le présent me fait juger
+                        de l'avenir. Je ne puis passer sous silence combien j'ai d'obligations
+                        personnelles au <rs ref="people.xml#hen02">Prince son Frère</rs>, il a bien
+                        voulu partager tous mes sentiments, et il m'a donné mille témoignages de son
+                        amitié. </p>
+                    <closer>
+                        <signed>C'est avec la plus haute considération et tous les sentiments de
+                            l'estime et de l'amitié la plus parfaite que j'ai l'honneur d'être,
+                            Monsieur mon Frère de Votre Majesté la bonne et fidèle Soeur, Amie et
+                            Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

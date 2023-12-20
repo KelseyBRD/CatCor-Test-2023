@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02655</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02655</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#healthpolicy"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#children"/>
+                    <term target="kw.xml#health"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-17">17 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02655">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1768-12-05">ce 5 Décembre 1768</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>J'ai vu par la lettre qu'il a plu à Votre Majesté de m'écrire le 26 Novembre,
+                        non seulement combien Elle prend part à ce qui me regarde, mais même que Son
+                        amitié pour moi Lui fait croire qu'il y a eu de la témérité à mon <rs
+                            ref="events.xml#inocu01">inoculation</rs>; je vais exposer à Votre
+                        Majesté ce qui m'y a porté, et j'espère qu'Elle conviendra, que je n'ai rien
+                        fait qu'en règles. Dès mon enfance on m'a accoutumée à avoir une peur
+                        horrible de la petite vérole, j'ai eu mille peines dans un âge plus
+                        raisonnable à diminuer cette crainte, le moindre mal qui me venait j'y
+                        voyais la susdite maladie. Pendant le printemps et l'été passé, où ce mal a
+                        fait ici de grands ravages, je fuyais de maison en maison et je me suis
+                        bannie de la ville pendant cinq mois entiers, ne voulant exposer ni mon fils
+                        ni moi. Je fus si frappée d'une situation remplie de tant de turpitude, que
+                        je comptais pour faiblesse de n'en pas sortir. On me conseillait de faire
+                        inoculer <rs ref="people.xml#pau01">mon fils</rs>. Mais, disais-je, de quel
+                        front le ferai-je, si je ne commence par moi-même, et comment introduire
+                        l'inoculation, si je ne prêche d'exemple. Je me mis à étudier cette matière,
+                        bien résolue de ne prendre que le parti le moins dangereux. La réflexion
+                        suivante me détermina: tout homme raisonnable voyant deux chemins dangereux
+                        devant lui, choisit celui qui l'est le moins, toute chose étant d'ailleurs
+                        égale. Ce serait une lâcheté, lorsqu'il s'agit des choses de la plus grande
+                        importance de ne pas suivre la même règle. Rester toute sa vie dans un
+                        danger réel avec plusieurs milliers d'hommes, ou bien préférer un moindre
+                        danger qui ne dure que peu de temps et sauver beaucoup de monde. J'ai cru
+                        choisir le plus sûr, le moment est passé et je suis à l'abri du danger. Je
+                        ne regrette en tout ceci que d'avoir donné de l'appréhension à Votre
+                        Majesté, comme Elle veut bien me le témoigner, j'espérai qu'Elle ne
+                        l'apprendrait, que lorsque toute cette misère serait passée, car à dire le
+                        vrai j'ai trouvé que la <rs ref="works.xml#montag01">montagne était
+                            accouchée d'une souris</rs> et que s'était un mal dont il ne valait pas
+                        la peine d'en parler. On ne saurait dire la même chose de la petite vérole
+                        naturelle. Mais pour remplir mon devoir de fidèle Alliée et pour répondre à
+                        l'amitié de Votre Majesté, j'ose la prier instamment, de ne point exposer à
+                        cette maladie naturelle toutes les personnes qui Lui sont chères, mais
+                        d'user du préservatif dont je me trouve si bien, et j'ose l'assurer que dès
+                        que l'inoculation est expérimentée, il n'y a pas de danger. Le <persName
+                            ref="people.xml#dim01">baron Dimsdale</persName> que j'ai fait venir
+                            <placeName ref="places.xml#eng01">d'Angleterre</placeName> a eu six
+                        mille malades et il ne lui est jamais mort qu'un seul petit enfant qui
+                        n'avait pas pris encore la petite vérole, pas un de ses patients ne garde le
+                        lit, en un mot on est malade avec tous les agréments possibles, il inocule
+                        depuis l'âge de trois ans jusqu'à celui de l'âge le plus avancé. Votre
+                        Majesté me pardonnera d'être entrée dans tous ces détails, je l'ai fait tant
+                        pour me disculper dans son esprit du soupçon d'imprudence, que pour Lui
+                        faire voir le peu de danger que j'ai couru, mais plus que toutes choses mon
+                        désir de répondre à l'amitié que Votre Majesté me témoigne a rendu ma lettre
+                        plus longue que je ne l'aurais souhaité, pour ne pas l'ennuyer. </p>
+                    <closer>
+                        <signed>Au reste je suis avec la plus haute considération et l'amitié la
+                            plus sincère, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            fidèle Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

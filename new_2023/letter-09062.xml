@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09062</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09062</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09062"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-06-28">1788 г. июня 28.</date>
+                </dateline>
+            </opener>
+            <p>Реляция для чтения в <rs ref="places.xml#pie01">церкви</rs> при молебне в <date when-custom="1788-06-30">пятницу</date>.—Объявление <name type="event" ref="events.xml#swedi02">войны</name>, <title ref="works.xml#manife05">манифест</title>— поспеет ли к <date when-custom="1788-07-02">воскресенью</date>?
+                <note type="editorial">
+                    A.V. Khrapovitskii notes in his diary under <date when-custom="1788-06-30">June 30 1788</date> that Catherine signed the <title ref="works.xml#manife05">manifesto</title> about the <name type="event" ref="events.xml#swedi02">war against <placeName ref="places.xml#swe01">Sweden</placeName></name> and later went to the church service for the victory on <placeName ref="places.xml#dni02">Liman</placeName> on <date when="1788-06-17">June 17 1788</date> in the <placeName ref="places.xml#pie01">Cathedral of Saint Peter and Saint Paul</placeName>. On <date when-custom="1788-07-02">July 2 1788</date> the manifesto was read in what was at the time the <placeName ref="places.xml#stm01">Summer Palace</placeName> and then became the <placeName ref="places.xml#stm01">Saint Michael's Castle</placeName> (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 57-58.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

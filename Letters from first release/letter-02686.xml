@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02686</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02686</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#peter"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02686">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1777-01-02">ce 2 Janvier 1777</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>
+                        <persName ref="people.xml#coc01">Le baron de Coccei</persName> en
+                        s'acquittant de la commission, dont Votre Majesté l'avait chargé près de
+                        moi, m'a remis la lettre, par laquelle il a plu à Votre Majesté de me
+                        renouveler les assurances de la continuation de cette amitié, qui m'est si
+                        précieuse. C'est à ces sentiments que j'attribue l'approbation flatteuse,
+                        dont Elle a honoré les règlements que j'ai publiés, ce n'est qu'une pierre
+                        que j'ai portée à l'édifice de <persName ref="people.xml#pet01">l'Empereur
+                            Pierre le Grand</persName>. Rien ne pouvait m'être plus agréable que la
+                        nouvelle du retablissement de Votre Majesté. </p>
+                    <closer>
+                        <signed>Je la prie d'être persuadée des voeux que je fais pour Sa
+                            conservation, étant toujours avec la plus invariable amitié et la plus
+                            haute considération, Monsieur mon Frère, de Votre Majesté la bonne Soeur
+                            et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03629</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03629</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-25">25-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:20:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03629">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1786-02-04">4 février 1786</date>.</dateline></opener>
+   <p>Je vous fais ces lignes pour vous envoyer ce qu’il y a de plus nouveau présentement ici. Ma
+     <rs ref="people.xml#mar02"> belle-fille</rs> est accouchée hier d’une fille à laquelle on a
+    donné le nom de <persName ref="people.xml#mar03"> Marie</persName>; elle n’est pas belle, mais
+    elle est fort grande. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+   <postscript><p>Ci-joint un paquet à la même adresse et cachet.</p></postscript>
+  </body>
+ </text>
+</TEI>

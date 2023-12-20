@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02840</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02840</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:32:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02840">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Czarskocelo</placeName> ce <date
+      when-custom="1789-08-08">8. d’Aout v. st. 1789</date>.</dateline></opener>
+   <p>Je viens de reçevoir un courier du Maréchal Prince <persName ref="people.xml#pot01"
+     >Potemkin Tauritchesky</persName> avec la nouvelle, que le <persName ref="people.xml#suv01"> Général
+     Souvorof</persName> combiné avec le <persName ref="people.xml#jos03"> Prince
+     de Coburg</persName> a remporté près de <placeName ref="places.xml#foc01"> Tockchan</placeName>
+     en <placeName ref="places.xml#mol01">Moldavie</placeName> une victoire sur un corps de Turks
+    fort de trente mille Turks, qui ont étés battus et dispersés, les troupes alliés leurs ont pris
+    huit canons, douze drapeaux et le camp Turk avec un considérable butin est tombé entre les mains
+    des troupes victorieuses. Ceçi s’est passé le 21. Juillet v. st., les détails suivront, le <rs
+     ref="people.xml#pot01"> Maréchal</rs> ayant expédié le même sergeant des gardes <persName
+     ref="people.xml#ber01"> Bering</persName>, petitfils du fameux <persName ref="people.xml#ber02"
+     > Bering</persName>, qui lui avoit porté de la part du Gén. <persName ref="people.xml#suv01">
+     Souvarof</persName> cette nouvelle, tout droit ici comme témoin oculaire. Demain nous
+    chanterons le Te Deum in <seg xml:lang="la"> pontificalibus</seg> à <placeName
+     ref="places.xml#pet01">Petersbourg</placeName>. </p>
+   <closer><signed rend="inline">Adiéu, portés vous bien.</signed></closer>
+   <postscript><p>Le <persName ref="people.xml#ber02"> Capitaine Commandeur Bering</persName>
+    est fameux chés nous pour ses découvertes dans la mer pacifique, ayant été deux fois à
+     <placeName ref="places.xml#kam01"> Kamtchatka</placeName>.</p></postscript>
+  </body>
+ </text>
+</TEI>

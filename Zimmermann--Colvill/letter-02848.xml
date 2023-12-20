@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02848</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02848</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#england"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:34:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02848">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01">Petersb.</placeName> ce <date
+      when-custom="1791-04-19">19. d’Avril 1791</date>.</dateline></opener>
+   <p>Monsieur de <persName ref="people.xml#zim01"> Zimmermann</persName>. Si je n’ai pas répondu
+    jusqu’ici à votre lettre du 29. Mars, vous voudrés bien m’en excuser, j’ai eue trop affaire,
+    surtout ces jours et, où je me suis occupée avec toute la vivacité et l’activité, dont je suis
+    capable, de la réception que je serai obligé de faire à la formidable flotte angloise qui va
+    nous rendre visite. Je vous assure que je fais tout ce qui est humainement possible et en mon
+    pouvoir pour la recevoir convenablement, et j’espère que la réception sera complète en tout
+    point. Dès qu’elle aura passée le Sund, je pense qu'il ne conviendra plus que vous m’écriviés et
+    que je vous écrive, et comme je pense que je vais sous peu de jours recevoir la nouvelle comme
+    quoi l’armement anglois est entré dans la <placeName ref="places.xml#bal01"
+    >Baltique</placeName>, dès aujourd’huy je prend congé de vous, mais en revanche je me promet que
+    vous entendrés parler de moi soit qu’on m’attaque par terre ou par mer et qu’en aucun cas vous
+    n’entenderés dire que j’aye acquiescé aux indignités qu’on se permetra de me préscrire. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien. <persName ref="people.xml#cat01"
+      type="signature"> Catherine.</persName></signed>
+   </closer>
+  </body>
+ </text>
+</TEI>

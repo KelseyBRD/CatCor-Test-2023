@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03655</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03655</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:23:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03655">
+  <body>
+
+
+   <p hand="people.xml#bez01">Monsieur le baron de <persName ref="people.xml#gri01">
+     Grimm</persName>! Ayant approuvé l’emploi que vous avez fait des sommes qui vous ont été
+    remises jusqu’à cette date pour le compte du capitaine-lieutenant des gardes du corps <persName
+     ref="people.xml#bob01"> Bobrinski</persName>, je vous écris cette lettre pour vous servir de
+    quittance générale des toutes les dites sommes. Sur ce je prie Dieu, monsieur le baron
+     de <persName ref="people.xml#gri01"> Grimm</persName>, qu’il vous ait en sa sainte et digne
+    garde. </p>
+   <signed rend="inline"><persName ref="people.xml#cat01">Catherine</persName>.</signed>
+   <dateline>A <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+     when-custom="1787-12-10">10 (21) décembre 1787</date>.</dateline>
+  </body>
+ </text>
+</TEI>

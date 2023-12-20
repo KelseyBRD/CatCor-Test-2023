@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02675</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02675</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-07">07 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02675">
+                <body>
+                    <opener rend="right">
+                        <dateline>
+                            <date when-custom="1773-11-19">Ce 19 Novembre 1773</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> J'ai mille remercîments à faire à Votre Majesté de la lettre remplie
+                        d'amitié qu'il Lui a plu de m'écrire au sujet du mariage de <rs
+                            ref="people.xml#pau01">mon fils</rs>. La part que Votre Majesté me
+                        témoigne y prendre augmente mon contentement. Si selon les voeux de Votre
+                        Majesté je parviens à célébrer les noces de mes petits-fils et
+                        arrière-petits fils, ce ne sera jamais qu'après leur avoir inspiré pour les
+                        vertus de Votre Majesté la plus haute vénération et l'amitié la plus sincère
+                        pour leurs plus proches parents, les neveux et petits-neveux de mon plus
+                        cher et plus fidèle allié. Je souhaite de tout mon coeur que Votre Majesté
+                        ait la satisfaction d'être le parrain du <rs ref="people.xml#lou04"
+                            >cinquième petit-fils du prince</rs>, dont <rs ref="people.xml#fri07"
+                            >Madame la Princesse de Prusse</rs> vient d'accoucher, événement dont je
+                        me réjouis bien sincèrement avec Votre Majesté, parce qu'il ne saurait rien
+                        Lui arriver que je n'y participe, sentiments dont j'espère que Votre Majesté
+                        est convaincue de même que du désir parfait que j'ai de Lui témoigner en
+                        toute occasion l'étendue de mon amitié et le cas que je fais de notre
+                        alliance, </p>
+                    <closer>
+                        <signed>étant avec la plus haute considération, l'estime et l'amitié la plus
+                            distinguée, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

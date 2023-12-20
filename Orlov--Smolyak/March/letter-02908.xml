@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02908</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02908</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#receipt"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>This letter completed the issue was raised in letter-02906. Kelsey: I've created the new
+     letterType keyword of "receipt" and applied it here and to letter-02886.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-29">29/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:48:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-04-28">28/04/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02908">
+  <body>
+
+   <opener><salute rend="inline"><persName ref="people.xml#orl03"> Граф Алексей
+      Григорьевич</persName>! </salute></opener>
+   <p>Как в те двадцать четыре тысячи, кои Я вам приказала взять из <orgName ref="orgs.xml#preo01">
+     полковой</orgName> экономической суммы, употребили по воле Моей, то чрез сие даю вам на них
+    квитанцию, коя вам имеет служить для очистки.<note type="editorial">See <ref
+      target="letter-02906">Catherine's letter of 12 April 1774</ref>.</note></p>
+   <closer><signed><persName type="signature" ref="people.xml#cat01">Екатерина</persName></signed>
+    <dateline>
+     <date when-custom="1774-05-15">Мая 15 ч. 1774 г</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00718</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00718</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-09">09 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00718">
+                <body>
+                    
+                    <p>1. Об экстраординарной сумме, надеюсь, что остановки не зделается, ибо
+                        Кн[язю] <persName ref="people.xml#vya01">Вяз[емскому]</persName>
+                        экстраординарные деньги на сей неделе даны.</p>
+                    <p>2. На заведение литейного дома в <placeName ref="places.xml#kie01"
+                            >Киеве</placeName> нельзя не согласиться, тем более что в Малороссии еще
+                        находятся тамошней артиллерии литейщики и другие мастеровые, от коих помощь
+                        ожидать можно, а иного и сберечь [от] лишней пересылки людей и вещей.</p>
+                    <p>3. Хотя не люблю, когда ты не у меня возле бока, барин мой дорогой, но
+                        признаться я должна, что четырехнедельное пребывание твое в <placeName
+                            ref="places.xml#khe01">Херсоне,</placeName> конечно, важную пользу в
+                        себе заключает, как сам упоминаешь.</p>
+                    <closer><signed><seg xml:lang="fr">Bonjour, mon Ami, portes Vous bien.</seg>
+                        О наборе рекрут еще нужно промышлять.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

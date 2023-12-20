@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02651</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02651</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#denmark"/>
+                    <term target="kw.xml#germany"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-16">16 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02651">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1766-04-12">ce 12 Avril 1766</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>Je reçois toujours avec une satisfaction égale au désir que j'ai d'entretenir
+                        la plus parfaite union avec Votre Majesté les assurances qu'Elle me donne de
+                        son amitié; celles que Votre ministre <persName ref="people.xml#sol01">le
+                            comte de Solms</persName> m'a réitérées encore nouvellement, m'ont été
+                        d'autant plus agréables, qu'elles étaient accompagnées d'une marque
+                        particulière de Votre confiance, en ce qu'il a plu à Votre Majesté de
+                        remettre à ma médiation les démêlés qui se sont élevés entre Elle et la
+                        république de <placeName ref="places.xml#pol01">Pologne</placeName>. Je fais
+                        avec le plus grand plaisir dans cette affaire les fonctions d'un ami, qui en
+                        écoutant son inclination, y trouve le but du système politique qu'il a
+                        adopté, d'entretenir la bonne harmonie entre ses voisins, et de veiller à ce
+                        que rien ne puisse altérer la tranquillité du Nord. C'est dans ces
+                        dispositions que j'écris au <persName ref="people.xml#pon01">roi de
+                            Pologne</persName>, je ne lui dissimule pas l'inconvénient qu'il y a
+                        pour la république de faire des changements dans l'intérieur de l'État sur
+                        un point déterminé par un traité, sans se concerter préalablement avec Votre
+                        Majesté, je l'exhorte à suspendre dès à présent l'effet de la douane, et à
+                        en faire décider l'abolition entière à la première diète. Comme je ne doute
+                        pas que le <persName ref="people.xml#pon01">roi de Pologne</persName> ne
+                        défère à ce conseil, dont je lui fais sentir l'avantage pour lui et pour ses
+                        états, j'espère que Votre Majesté agréera cet arrangement, et consentira à
+                        remettre de son côté les choses sur l'ancien pied. Un objet de querelles
+                        aussi peu important en lui-même, ne saurait balancer auprès de Votre Majesté
+                        la volonté de soutenir cette haute idée que <placeName
+                            ref="places.xml#eur01">l'Europe</placeName> doit avoir de l'intimité de
+                        nos liaisons, dont la tranquillité et le repos de la république de
+                            <placeName ref="places.xml#pol01">Pologne</placeName> est inséparable.
+                        Je n'en sentirai pas moins vivement cependant sa complaisance pour un point
+                        qu'Elle voit que j'ai particulièrement à coeur. Il faut supporter ses amis
+                        avec leurs défauts, et la constitution de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName> en a, qui demandent
+                        l'indulgence de ses voisins. J'ai chargé le conseiller privé actuel de
+                            <persName ref="people.xml#sal02">Saldern</persName> de remettre cette
+                        lettre à Votre Majesté, la commission qu'il va exécuter en qualité de
+                        ministre de la tutelle du duché <placeName ref="places.xml#hol03"
+                            >d'Holstein</placeName>, à la cour de <placeName ref="places.xml#cop01"
+                            >Copenhague</placeName>, l'amenant naturellement à <placeName
+                            ref="places.xml#ber01">Berlin</placeName>, je l'ai fait passer par
+                            <placeName ref="places.xml#war01">Varsovie</placeName>, pour y préparer
+                        les esprits et informer ensuite Votre Majesté des dispositions où il aura
+                        laissé le roi et la république de <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>. Je souhaite qu'Elle ait lieu d'en être satisfaite,
+                        et que rien n'arrête le rétablissement d'une parfaite intelligence entre
+                        Votre Majesté et la république. Le conseiller privé de <persName
+                            ref="people.xml#sal02">Saldern</persName> a fait un séjour de près de
+                        trois ans a ma cour. Il connaît mes sentiments pour Votre Majesté, le cas
+                        que je fais de mon alliance avec Elle, et le désir que j'ai de la consolider
+                        par tous les moyens propres à rendre nos intérêts inséparables. Entre ces
+                        moyens différents celui que je regarde comme le plus important, est, qu'en
+                        réunissant tout le Nord dans un système indépendant des puissances
+                        étrangères, l'intégrité de la monarchie Prussienne puisse être regardée
+                        autant utile et nécessaire au repos de cette partie de <placeName
+                            ref="places.xml#eur01">l'Europe</placeName> dans ses alliances que
+                        formidable aux étrangers. Votre Majesté sait avec quelle application je
+                        travaille au dit système: <placeName ref="places.xml#pol01">la
+                            Pologne</placeName>, le <placeName ref="places.xml#den01"
+                            >Danemark</placeName> et la <placeName ref="places.xml#swe01"
+                            >Suède</placeName> sont en bon chemin, la cour de <placeName
+                            ref="places.xml#sax01">Saxe</placeName> n'est pas sans doute à rejeter,
+                        et elle se sent trop enveloppée dans les intérêts multipliés de la maison
+                            <placeName ref="places.xml#aus01">d'Autriche</placeName> pour ne pas
+                        souhaiter de voir jour à pouvoir en sortir avec sûreté. Votre Majesté plus
+                        que personne est à même de la favoriser dans cette route en adoucissant les
+                        affaires de voisinage avec elle. Je ne puis choisir de meilleur interprète
+                        de mes dispositions que <persName ref="people.xml#sal02">Mr. de
+                            Saldern</persName>, ni quelqu'un à qui je puisse mieux confier les
+                        nouvelles assurances que je prie Votre Majesté de recevoir de sa bouche, </p>
+                    <closer>
+                        <signed>de la parfaite estime et amitié avec laquelle je suis, Monsieur mon
+                            Frère, de Votre Majesté, la bonne Soeur et fidèle Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

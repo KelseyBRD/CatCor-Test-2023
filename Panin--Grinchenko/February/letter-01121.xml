@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01121</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01121</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Not sure which Bishop of Vilnius and Oginskii are mentioned here</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-22">2021-02-26</date>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-08"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01121">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Приложенныя два <seg xml:lang="fr">mémoires,</seg> подал Бискуп <placeName
+                    ref="places.xml#vil01">Виленской</placeName> брату Вашему, на которые он письмом
+                ответствовать будет, что я приказла отослать к Министрам, не обещая и не отказывая;
+                а помнится; что Огинский о том же просил; а другое, кажется, лутче в то не
+                ввязываться, дабы большинство голосов не в моду у них вошло,и для того отослать к
+                    <persName ref="people.xml#key03">Графу Кайзерлингу,</persName> дабы он умненько
+                сие от меня отклонил. Я в шестом часу сегодня отселе поеду к Вам в <placeName
+                    ref="places.xml#pet01">Петербург</placeName> чрез <placeName
+                    ref="places.xml#gos01">Гостилицы</placeName> и <placeName ref="places.xml#pet02"
+                    >Петергоф,</placeName> а Вы с <persName ref="people.xml#pau01">Великим
+                    Князем</persName> в город к моему приезду приезжайте; я, отдохнув дни с два в
+                    <placeName ref="places.xml#pet02">Петергофе,</placeName> в город думаю быть.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline>Изъ <placeName ref="places.xml#rig01">Риги</placeName>.<lb/>
+                    <date when-custom="1764-07-15">15 числа Іюля,<lb/>
+                1764.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

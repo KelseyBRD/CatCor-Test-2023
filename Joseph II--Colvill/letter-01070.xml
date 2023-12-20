@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01070</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01070</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:23:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01070">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1786-06-20">20 juin 1786</date>.</dateline></opener>
+   <p>Monsieur mon frère. Instruite par la lettre que V. M. I. a bien voulu m’écrire le 15 juin de
+    la tournée qu’Elle se propose de faire dans quelques-unes de Ses provinces, je ne puis que Lui
+    présenter des voeux bien sincères tant pour Sa précieuse santé que pour Son entière satisfaction
+    pendant la durée de ce voyage.</p>
+   <p>Les calomnies des ennemis de V. M. I. ressemblent à la poussière qui s’élève et empêche pour
+    un temps de voir les objets tels qu’ils sont, mais la pluie des belles et bonnes actions de V.
+    M. I. abattra cette poussière et la réduira indubitablement en sable, et il est à supposer que
+    ceux qui ne se fascinent pas les yeux volontairement, verront les choses telles qu’elles
+    sont.</p>
+   <p>Selon mes dernières nouvelles de <placeName ref="places.xml#ber01">Berlin</placeName>, quoique
+    le <persName ref="people.xml#fre01"> Roi</persName> de <placeName ref="places.xml#pru01"
+     >Prusse</placeName> se promenait à cheval dans son jardin, l’on ne croit pas sur les lieux
+    qu’il passe l’automne. <rs ref="people.xml#fri03"> Son successeur</rs> ne paraît pas jouir non
+    plus d’une santé bien stable. Je m’en rapporte au comte de <persName ref="people.xml#cob02">
+     Cobenzl</persName> et au <persName ref="people.xml#lig01"> prince de Ligne</persName> qui
+    auront rapporté en son temps à V. M. I. ce qui s’est passé ici à ce sujet.</p>
+   <p>Pour mon cher cousin le <persName ref="people.xml#gus01"> Roi</persName> de <placeName
+     ref="places.xml#swe01">Suède</placeName>, il n’a guère lieu d’être content de sa diète
+    assemblée à la hâte, et comme V. M. I. le remarque très-bien, avec un grand appareil et pour
+    bien peu de chose. Mais depuis que je connais la <placeName ref="places.xml#swe01"
+     >Suède</placeName>, le peu de chose pour tout autre pays devient un grand objet pour ce royaume
+    pauvre. L’inquiétude et les projets de toute espèce remplissent les têtes, tandis que les poches
+    sont vides. Malgré cela on dit que <persName ref="people.xml#gus01">S. M.
+    Suédoise</persName> médite un voyage en <placeName ref="places.xml#eng01"
+    >Angleterre</placeName>. Nous apprendrons avec le temps quels seront les arrangements salutaires
+    à la <placeName ref="places.xml#swe01">Suède</placeName> qu’il en rapportera.</p>
+   <p>Tout ce que V. M. I. veut bien me dire au sujet de ma santé, est bien marqué au coin de Son
+    amitié pour moi, de même que ce qu’Elle me fait l’honneur de me dire sur Son séjour à <placeName
+     ref="places.xml#lax01"> Laxenbourg</placeName>. Les détails charmants de la vie qu’on y a
+    menée, si j’ose le dire, font venir l’eau à la bouche. J’aurais été trop heureuse d’en être; le
+    bonheur de voir V. M. I. et de L’entendre en premier lieu, de L’y voir entourée d’une compagnie
+    excellente, sans gêne, et qui faisait tout ce qu’elle voulait, aurait été pour moi le comble de
+    la félicite. Je L’aurais ennuyé peut-être en Lui répétant souvent qu’Elle est fort au-dessus de
+    tous les Rois de la terre, ne serait-ce que parce qu’Elle se met au-dessus des ennuis des
+    trônes. Mais il est temps de finir l’effusion de ma sincérité. Qu’Elle daigne agréer les
+    assurances de mon attachement, de la plus haute considération et de la parfaite amitié avec
+    lesquelles je serai toujours ....</p>
+  </body>
+ </text>
+</TEI>

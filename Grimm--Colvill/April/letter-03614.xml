@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03614</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03614</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Letter from AD Lanskoy to Grimm but written in
+     Catherine’s hand, save for Lanskoy’s signature.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:20:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03614">
+  <body>
+
+   <opener><salute>Monsieur,</salute></opener>
+   <p>Ce n’est qu’aujourd’hui que j’ai reçu des mains de <persName ref="people.xml#tod03"> monsieur
+     Todi</persName> la lettre que vous m’avez fait l’honneur de m’écrire le 31 de mai 1783. Très
+    flatté de la confiance que vous me témoignez et de la bonne opinion que vous voulez bien avoir
+    de moi, je vous prie d’être assuré que je ferai de mon mieux pour remplir vos désirs eu égard à
+    votre protégée. D’abord <rs ref="people.xml#cat01"> mon secrétaire</rs> ordinaire et
+    extraordinaire a été chargé de vous dire tout cela, Monsieur, et après qu’il a tracé dix ou
+    douze lignes raisonnablement écrites, je ne doute point qu’il ne se laisse aller à son caquet
+    habituel; or, ces dix ou douze lignes ont été dictées au secrétaire, qui fort tranquillement les
+    a écrites sans souffler, et il aurait présentement grande envie de ne plus rien dire, comme
+    aussi en effet il fera cette fois-ci par un caprice inouï, vous assurant uniquement, Monsieur,
+    que depuis que le principal a les cheveux accommodés par un de vos protégés ou non protégés, il
+    est plus beau, plus élégant que jamais; </p>
+   <closer><signed rend="inline">mais ce n’est pas par là que nous cherchons à briller, mais bien par
+    l’estime, la reconnaissance et l’envie de vous plaire que nous avons l’honneur d’être, Monsieur,
+    vos très humbles et très obéissants serviteurs <persName ref="people.xml#lan02" type="signature">
+     Lanskoï</persName> et compagnie.</signed>
+   <dateline> Ce <date when-custom="1784-05-28">28 mai 1784</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

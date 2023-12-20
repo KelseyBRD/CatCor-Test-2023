@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01198</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01198</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#turkey"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domestic">
+                    <term target="kw.xml#internationalRelations"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Крок?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-06"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01198">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Что <persName ref="people.xml#pau01">сын</persName> мой здоров, тому радуюсь. Ничего
+                учтивее быть не может, как письмо <persName ref="people.xml#fri03">Короля
+                    Прусскаго</persName>. Грамота к нему очень добра, и я ее подписала, и с сим
+                возвращаю, так как письмо сабачьева сына, кой час от часу более заслуживает
+                посмеяние. <persName ref="people.xml#orl05">Граф Федор Григорьевич Орлов</persName>
+                пишет от 26 маия, что он с <persName ref="people.xml#spi01">Спиридовым</persName> в
+                подкрепление <persName ref="people.xml#elp01">Элфистона</persName> гоняется за
+                    <placeName ref="places.xml#tur01">Турецким</placeName> флотом, которой после
+                двух сшибок бежит, сломя голову, от них; но они его добудут, хотя бы то было в
+                    <placeName ref="places.xml#ist01">Цареграде</placeName>. <persName
+                    ref="people.xml#orl03">Граф Алексей Григорьевич</persName> в <placeName
+                    ref="places.xml#nav01">Наварине</placeName>. Приезжайте ко мне хотя завтре после
+                обеда, дабы время не терять, или послезавтре по утру, чтоб поговорить о приеме
+                    <persName ref="people.xml#hen02">Принца Генриха</persName>; погода хороша;
+                естьли устоит, то и водою не худо его привезти; все готово будет, ибо я велела все
+                держать готово.</p>
+            <closer><signed rend="inline">Бог с Вами.</signed><lb/>
+                <dateline><date when-custom="1770-08-11">Августа 11 числа, 1770
+                    года.</date></dateline></closer>
+            <postscript>
+                <p>Прикажите Кроку домом поспешить.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

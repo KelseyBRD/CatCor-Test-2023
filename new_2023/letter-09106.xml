@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09106</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09106</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#finance"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-29">2023-06-29</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09106"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-04-04">1789 г. апреля 4.</date>
+                </dateline>
+            </opener>
+            <p><placeName ref="places.xml#fin01">Финских</placeName> крепостей починка. Арендная раздача: 1) по именным указам; 2) вдовам и сиротам; 3) заслуженным просителям и их вдовам и сиротам. Указ о запрещении сухопутнаго ввоза шелковых и проч. товаров
+                <note type="editorial">
+                    Catherine writes about the decree that prohibited the importation of alcoholic beverages, silk, paper, woolen and other products into Russia across land borders of Governorates General in <placeName ref="places.xml#pol02">Polotsk</placeName>, <placeName ref="places.xml#mog01">Mogilev</placeName>, <placeName ref="places.xml#kie01">Kiev</placeName> and <placeName ref="places.xml#eka01">Ekaterinoslav</placeName> (
+                    <bibl>
+                        <title ref="works.xml#tamozh01">Problema kontrabandy v tamozhennoi politike Rossii 18 veka</title>
+                        , <biblScope unit="pp">pp. 38.</biblScope>
+                    </bibl>
+                    ).
+                    This decree was signed on <date when-custom="1789-06-26">June 26 1789</date> (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 294.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                . Придворной конторы долги. <orgName ref="orgs.xml#cabi01">Кабинетные</orgName> долги.</p>
+        </body>
+    </text>
+</TEI>

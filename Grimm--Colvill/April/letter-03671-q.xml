@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03671</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03671</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify the comte de Forstemberg, M Schulenburg, or Sombreuil.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-30">30-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:55:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03671">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1791-06-01">1 juin l’an du Seigneur 1791</date>.</dateline></opener>
+    <p>Monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs>, je pense qu’il est dit là-haut
+     que vous et moi nous sommes créés précisément pour avoir tous les deux continuellement la plume
+     à la main, afin de nous écrire sans fin ni cesse, car à peine une pancarte énorme a-t-elle pris
+     la route du séjour de toutes les perfections et bonheurs humains qu’il est possibles
+     d’imaginer, qu’en voilà une fort ample qui m’arrive dans mon taudis, d’où les hauts alliés ne
+     m’ont pas encore tirée malgré moi, comme vous le voyez fort bien par la susdite date. Je ne
+     sais pas si celle-ci vous trouvera aux eaux de <placeName ref="places.xml#bou01">
+      Bourbonne</placeName> ou bien aussi à <placeName ref="places.xml#fra03">
+     Francfort</placeName>, mais quelque part que vous soyez allé, je prie le Très-Haut de bénir vos
+     pas; vous feriez très bien d’emmener avec vous, si faire se peut, et même s’il se pourrait, de
+     mettre, en vous en allant de <rs ref="places.xml#fra01"> Sodome et de Gomorrhe</rs>, dans votre
+     poche le <persName ref="people.xml#lou01"> roi des Français</persName>, afin qu’il parvint sain
+     et sauf au moins jusqu’aux frontières de son royaume. Vous le remettriez là à M. de <persName
+      ref="people.xml#bou05"> Bouillé</persName> lui-même ou à tel autre bien intentionné, afin
+     qu’il préservât <rs ref="people.xml#lou01"> S. M. Très-Chrét</rs>. de tous les malheurs dont il
+     nous parait menacé, et quoique nous n’ayons jamais un seul moment tremblé pour nous-même, nous
+     tremblons tous les jours de la vie, depuis près de trois ans, pour notre grand ami <persName
+      ref="people.xml#lou01"> Louis XVI</persName>, pour la <rs ref="people.xml#mar14"> reine</rs>
+     son épouse et pour ses chers enfants que nous voudrions savoir hors de <placeName
+      ref="places.xml#par01">Paris</placeName>. Mais dites donc, <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, d’où vient qu’on les laisse là abandonnés et menacés de tous les
+     malheurs? Voilà ce que l’on n’approuve pas chez nous, <seg xml:lang="de"> und das kann ich
+      nicht vertragen: sie müssen dorten heraus, denn das ist nicht auszuhalten, und selbst
+       <persName ref="people.xml#cha16"> Karl der Erste </persName> in England hat nicht so viel,
+      mir deucht, Schande auszustehen gehabt</seg>.</p>
+    <p>Vous ne vous doutez pas peut-être que ceci commence ma réponse à votre lettre commencée le 19
+     (30) avril, que vous avez expédiée à <persName ref="people.xml#bac01"> Bacchus</persName> et
+     que celui-ici a reçue et m’a apportée le même jour. Pour moi, je croyais trouver dans cette
+     lettre au moins le secret de dix ou douze états, et Dieu sait de quel train allait déjà ma tête
+     quand j’appris que <persName ref="people.xml#bac01"> Bacchus</persName> viendrait lui-même
+     m’apporter une lettre reçue par un exprès, et le <rs ref="people.xml#bez01"> factotum</rs>
+     prenait déjà son air du plus haut mystère, ayant vu le mystérieux messager qui était allé
+     porter lui-même à <persName ref="people.xml#bac01"> Bacchus</persName> le paquet qui contenait
+     ce fameux secret. Je pensais qu’au moins j’y trouverais une invitation en forme du mari ou de
+     la femme pour m’engager à travailler à les dégager <seg xml:lang="de"> und was noch mehr Herum
+      schwung in dem Schwedenburgischen Regenbogen der Ideen. Nun kommt der <persName
+       ref="people.xml#bac01">Bacchus</persName> mit sehr müden Pferden an einem heißen Tage
+      angefahren; da lauft ihm der <rs ref="people.xml#bez01"> Factotum</rs> ganz schwitzig entgegen
+      und mit sehr affairirter Miene und Manier sticht er mir mit vielem Geheimnisse zwei sehr
+      mächtige Paquete in die Hand, zwei ist viel und schwer, eins faellt auf die Erde, das andere
+      halt’ ich fest; nun geschwind gelesen, aber sie sind sehr lang und weit-läufig; da kommt die
+      ganze Rinderbagage, alle sechs auf einmal, in die Quer; alle wurden sie geschickt zu essen;
+      dieweil es schon spät war und endlich lieset man. Wo, wo sitzt das</seg> Secret?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-06-02">2 juin</date>, en plein air, du côté gauche
+      de la colonnade de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>: je dis du côté gauche, parce que «du côté droit
+      il vente», comme disait feu l’amiral <persName ref="people.xml#kno01">
+      Knowles</persName>.</dateline></opener>
+    <p>Eh bien donc, ce marquis de <persName ref="people.xml#bou05"> Bouillé</persName>
+     lieutenant-général, dont la réputation est faite chez vous, et son maréchal de camp <persName
+      ref="people.xml#hey01"> Heymann</persName>, bon général de cavalerie, le Sr <persName
+      ref="people.xml#hey01"> Heymann</persName>, nous allons les recevoir au service aux contre-
+     propositions que leur homme va leur porter. Mais, <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, nous avons vu, dit-on, chez nous de vos grands faiseurs qui n’ont guère
+     fait depuis la <name ref="events.xml#aixla01"> paix d’Aix-la-Chapelle</name> et les nôtres
+     prétendant qu’ils ont mangé plus d’expériences et avalé de victoires depuis 1766 que tous les
+     autres frères d’armes (comme dit le grand <persName ref="people.xml#fay01"> La
+      Fayette</persName> ou Moitier [Traver], dont chez nous, par parenthèse, on ne connaît ni faits
+     d’armes ni de paix qui vaillent) de l’univers; l’on dirait qu’on ne devient pas mal glorieux
+     chez nous, n’est-ce pas? Mais pourtant, comme la demi-douzaine d’ennemis battus est presque
+     remplie, sinon surpassée, car un chiffre de plus ou de moins dans ce calcul pourrait ne pas
+     fort importer, il est difficile de ne pas convenir qu’avec des succès d’un siècle on ne saurait
+     passer pour bûche, et que si bûche y a, j’aime mieux mes bûches que les habiles qui laissent
+     disloquer la machine et reçoivent des coups de pied au ... sans bouger plus pour cela seul que
+     de vraies bûches. <seg xml:lang="de">Aber, gnädiger Herr, wie ist das möglich zu ertragen, und
+      ertragend wie können sie für brave Kerls passiren, und würde ich nicht Ihr ehrlicher Herr
+      Vater deutscher Nation selber erweisen haben? Dennoch da keine Regel ohne Exception bestehend
+      ist, so wollen wir hierüber geschrieben stehet verfahren und das Übrige nur dem Herrn
+      Schmerzdulder ins Ohr flüstern</seg>. Eh bien, si anciens chevaliers y a, vos anciens
+     chevaliers viendront ou ne viendront pas, comme il leur plaira. S’ils viennent, nous en serons
+     bien aises; ceci est écrit, notez-le bien, après avoir lu ce que vous dites, savoir: «mais que
+     peut-on pour ceux qui ne savent ni ne veulent s’aider?» A cela j’ai dit que quand il fait tant
+     que de descendre l’escalier, et que dans la cour il se met à crier et à pleurer disant qu’on le
+     perd, mon petit conseil serait de le prendre sous les deux bras et de lui dire: quand on a dit
+     A, il faut dire B, et zeste avec deux aides il marcherait . <seg xml:lang="de">Aber das ist ja
+      eine entsetzliche Zeit, wo man alles dasjenige schreibt, was man im Geheimsten denkt! Um
+      Gottes willen, Herr Schmerzdulder, werken Sie ins Feuer alle mein Briefe: ich fürchte immer,
+      das man Ihnen aufhängt um an meine Briefe zu kommen. Und dieses wurde ein sehr übler Streich
+      sein, denn Gott weiß, was alles diese Feder schreibt, wenn sie ihren natürlichen Lauf
+      nimmt</seg>. Pour M. de <persName ref="people.xml#hey01"> Heymann</persName>, s’il vient, il
+     trouvera notre cavalerie légère bien autrement aguerrie encore, mais c’est la cavalerie
+     hongroise qu’on dit invincible quand elle est secondée par l’infanterie russe. <seg
+      xml:lang="de"> Gott segne sie alle Beide</seg>, et que <persName ref="people.xml#leo01">
+      Leopold</persName> parvienne à garder <placeName ref="places.xml#bel01"> Belgrad</placeName>
+     et <placeName ref="places.xml#ors02"> Orsova</placeName>.</p>
+    <p>Les perplexités du seigneur <rs ref="people.xml#gri01"> souffre-douleur</rs> sur les aspects
+     du temps sont d’une nature discutive qui dépend du beau et du mauvais temps que le baromètre
+     décidera toujours vingt-quatre heures d’avance; or celui du <persName ref="people.xml#hen02">
+      pr. Henri</persName> est un composé divers, trop long à définir. Vous voyez que quelque
+     décisive et irraccommodable qu’il a cru la démarche anglaise, elle a pris cependant une route
+     dilatoire. Pour nous, nous chantons la chanson «<persName ref="people.xml#spe01">
+      Malborough</persName> s’en va-t-en guerre» etc.; il viendra à Pâques ou à la Trinité etc.; la
+     Trinité se passe et <persName ref="people.xml#spe01"> Malborough</persName> ne vient pas etc.;
+     madame monte sur sa tour etc. le plus haut qu’elle peut etc. et voilà le beau page qui arrive
+     etc., et madame ôte ses beaux souliers etc. Elle a chaussé pour cet été des bottes d’une espèce
+     nouvelle, que le maréchal <persName ref="people.xml#pot01"> prince Potemkine</persName> lui a
+     apportées et qui sont admirablement commodes, ne froissent point les pieds, les font paraître
+     fins et délicats; tout le monde, hommes et femmes, chez nous ne porte plus que cela, et cela
+     est charmant à la vue, et l’on marche avec cela à pas assurés.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-06-03">3 juin</date>, toujours sur la colonnade
+       de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, du côté gauche, parce que du
+      coté droit il vente, comme disait l’<persName ref="people.xml#kno01"> amiral
+       Knowles</persName>.</dateline></opener>
+    <p>Ayez la bonté de consulter le <rs ref="people.xml#nar02"> St Nicolas</rs> sur cette
+     colonnade, mais ne lui montrez jamais les folies que je vous écris, car il est trop sage pour
+     les goûter, et son extrême sagesse m’a déjà joué le tour de ne pas avoir dit un mot au
+     coadjuteur de Mayence de tout ce que je lui avais donné commission de lui dire. Il n’y a rien
+     de tel que les têtes sages, mais il ne faut pas tout leur dire. Mais écoutez donc, avec votre
+     recommandation de grand secret, je pense que vous prenez mal vos précautions, car l’exprès
+     porteur de votre missive a informé <persName ref="people.xml#nas01">Monsieur de
+      Nassau</persName> de la raison pourquoi il est venu ici. Ce n’est pas que je me défie du
+      <persName ref="people.xml#nas01"> prince de Nassau</persName>: je lui ai recommandé le secret,
+     mais quelle nécessité y avait-t-il de dire cela? Je ne la vois pas, moi; voilà ce que c’est que
+     la coutume: on est singulièrement indiscret dans ce moment chez vous à <placeName
+      ref="places.xml#par01">Paris</placeName>.</p>
+    <p>Pour tout ce qui regarde Mre de <persName ref="people.xml#bou05"> Bouillé</persName> et
+      <persName ref="people.xml#hey01"> Heymann</persName>, je m’en rapporte à la feuille ci-jointe
+     et j’ordonne d’adresser à <placeName ref="places.xml#fra01"> Francfort</placeName> tout ce
+     paquet. L’auguste assemblée fort prudemment désorganise l’armée, apparemment pour donner plus
+     beau jeu à ceux qui dans ce moment-ci, dit-on, travaillent à une contre-révolution; si sur
+     votre chemin vous en entendez parler, je vous prie de me dire ce que vous en apprendrez: j’en
+     suis très curieuse. S’il il y avait de la possibilité dans leur projet, je pense que vos deux
+     généraux ne leur deviendraient pas inutiles. Allons, allons, laissez-là les rêveries de
+      <placeName ref="places.xml#rhe01"> Rheinsberg</placeName>, qui ne feront trembler
+     personne.</p>
+    <p>Le moutardier est de rechef en excursion; ceci est obscur; ce moutardier est le chef des
+     illuminés NB, et c’est bien là qu’on peut dire: tel maître, tel valet. Laissez-les faire, nous
+     avons déjà vu bien des sottises, et nous en verrons encore bien d’autres.</p>
+    <p>Monsieur de <persName ref="people.xml#mei02"> Sénac de Meilhan</persName> s’est offert à
+     venir ici comme homme de lettres, souhaitant de s’occuper de l’histoire. Jusqu’ici il n’est
+     point à mon service, mais c’est un homme d’une très agréable conversation. Je pense que dans ce
+     moment il est occupé à faire un plan d’histoire. Pour de votre éternel <persName
+      ref="people.xml#kot01"> Kotzebue</persName>, à dire la vérité, je ne m’en soucie point du
+     tout: j’ai entendu dire que deux de ses pièces de théâtre ont été défendues à <placeName
+      ref="places.xml#vie01">Vienne</placeName>, mais j’en ignore la raison. Le comte de Forstemberg
+     je l’ai entrevu une ou deux fois; il est entré à notre service, et le prince <persName
+      ref="people.xml#pot01"> Potemkine</persName> l’a placé dans son régiment; il n’est pas
+     étonnant que le père l’aime mieux que ses légitimes enfants; ceux-ci, de l’aveu du père,
+     c’est-à-dire les garçons, sont tous des imbéciles. Mais d’où vient la défense faite au comte de
+     Forst. par son père d’approcher de la <placeName ref="places.xml#sil02"> Silésie</placeName> et
+      de <placeName ref="places.xml#ber01">Berlin</placeName>? Je vous avoue que j’ai été un peu
+     étonnée de le voir arriver, mais puisqu’il y est, qu’il soit le bienvenu. Pour le <persName
+      ref="people.xml#car05"> prince de Craon</persName>, il est encore à venir; c’est une affaire
+     de mode à présent: tous vos désoeuvrés viennent chez nous, comme les nôtres allaient chez vous.
+     Ceci je vous écris de devant la porte vitrée qui mène de mes appartements an jardin des fleurs
+     ce 3 juin l’après-dîner; il est fort nécessaire encore que vous sachiez que trois Thomassins
+     sont couchés à l’entour de moi sur un canapé de cuir vert, qui est en plein air. St Nicolas
+     vous dira, si vous êtes curieux, que ce canapé est sur un vestibule à demi-ouvert vis-à-vis du
+     jardin et que j’y suis comme un kan de <placeName ref="places.xml#cri01"
+     >Crimée</placeName> dans son kiosque, ou comme un perroquet dans sa cage. Vous n’avez pas
+     d’idée de ce que c’est que <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName> quand il
+     fait chaud et beau!</p>
+    <p>Pour votre <persName ref="people.xml#eug01"> duc de Würtemberg</persName>, comme je ne suis
+     pas aussi enthousiaste de tout prince d’<placeName ref="places.xml#ger01"
+     >Allemagne</placeName> comme de certaines gens, je ne vous envie point du tout le plaisir de
+     l’avoir vu, quoique le <persName ref="people.xml#pop03">pape</persName> ait approuvé son
+     mariage avec une <rs ref="people.xml#hoh01"> femme</rs> dont le mari est en vie et dont elle
+     n’est pas séparée. Je serais curieuse de savoir si le <persName ref="people.xml#ric02"> duc de
+      Richelieu</persName> a reçu ma lettre qui accompagnait la croix de St George; dans <placeName
+      ref="places.xml#izm01"> lzmaïl</placeName>, le lendemain de l’assaut, il demandait au
+      <persName ref="people.xml#zub01"> cadet Zoubof</persName> (qui lui-même est un garçon de la
+     plus grande espérance et qui pour son coup d’essai a fait des coups de maître et dont <persName
+      ref="people.xml#suv01"> monsieur le comte des deux empires</persName> dit qu’il est d’une
+     valeur non pareille, pour laquelle je l’ai fait major aux gardes Izmaïlofski: «Dites-moi, mon
+     ami, croyez-vous qu’on me donnera le saint-George?» Il lui fit cette question plus d’une fois;
+     l’autre, qui visait à la même chose et qui savait les statuts de l’ordre par coeur, l’assura
+     que la croix ne saurait lui être refusée. Or ces deux braves sont, je pense, à peu près du même
+     âge, et ils ont fait connaissance ensemble sur une batterie sur une île du <placeName
+      ref="places.xml#dan01">Danube</placeName> qui leur était si chère que pendant douze jours ils
+     n’en découchaient pas.</p>
+    <p>Je suis bien aise que monsieur de <persName ref="people.xml#ric02"> Richelieu</persName> ait
+     lu sur les maisons de <placeName ref="places.xml#lon01">Londres</placeName> l’inscription
+     significative de <hi rend="italic">point de guerre avec la <placeName ref="places.xml#rus01"
+       >Russie</placeName></hi>. Nous verrons à la suite de cela si monsieur <persName
+      ref="people.xml#pit01">Pitt</persName> sera assez intrépide pour risquer sa place en la
+     commençant. Rendez grâce au ciel qu’enfin <persName ref="people.xml#koc01">
+      Youssouf-Pacha</persName> est redevenu visir, car, ayant commencé la guerre, il n’a d’autre
+     moyen pour sauver sa tête qu’en faisant la paix, et il n’y a balivernes qui tiennent: vous
+     verrez qu’il la fera; d’ailleurs, c’est un homme qui ne manque pas d’entendement, et il vaut
+     mieux avoir affaire aux gens d’esprit qu’aux benêts nés. Laissez dire M. de <persName
+      ref="people.xml#sch07"> Schulenburg</persName> et tous les faiseurs de là-bas et même les
+     non-faiseurs, et soyez tranquille et imperturbable. Les papiers du feu roi et ses projets
+     sottement exécutés ne deviendront, voulez-vous parier, que des sottises. J’approuve au reste
+     votre conduite.</p>
+    <p>Commentaire des fragments de <placeName ref="places.xml#rhe01"> Rheinsberg</placeName>.</p>
+    <p>Le 9 d’avril il cherchait à rejeter toute la faute sur les Anglais, et ceux-ci en font autant
+     envers les Prussiens. Pour le <persName ref="people.xml#gus01"> roi de <placeName
+       ref="places.xml#swe01">Suède</placeName></persName>, il est allé aux eaux de <placeName
+      ref="places.xml#spa01"> Spa</placeName>, et s’il recommence, ce sera vers l’automne ; les
+     vaisseaux anglais ne partent ni pour la <placeName ref="places.xml#bla01"> Mer
+      Noire</placeName>, ni pour la <placeName ref="places.xml#bal01">Baltique</placeName>, et leur
+     nombre n’est pas non plus de 60, et le <seg xml:lang="la"> status quo</seg> n’en vaut, ma foi,
+     pas la peine. La <placeName ref="places.xml#rus01">Russie</placeName> depuis cent ans n’a rien
+     perdu à aucune guerre, et on ne lui fait pas la loi comme à un enfant. S. A. R. avait envie
+     pour le coup de vous faire peur. Le 11 d’avril. Il montre beaucoup d’humeur contre les Anglais;
+     à la bonne heure. Malgré sa prédiction, ma réponse sera rendue avant leur arrivée dans
+      la <placeName ref="places.xml#bal01">Baltique</placeName>, où ils ne viendront pas du tout,
+     parions. Il trouve le sujet triste et vilain, et il a raison. Le 17 d’avril. Son langage a plus
+     d’humeur que de vraisemblance; l’<persName ref="people.xml#cat01"> impératrice</persName> ne
+     court aucun risque; elle n’attaque personne, mais elle se défendra en démon, et le <seg
+      xml:lang="la"> status quo</seg> ne vaut pas la peine qu’on l’attaque: bien fou qui le fera.
+     J’aime beaucoup ce <persName ref="people.xml#her02">Hertzberg</persName> qui pleure: morgué,
+     qu’il pleure, je m’en lave les mains; il a fait assez de méchancetés, de bêtises et
+     d’impolitesses, et qu’il se mouche après avoir pleuré.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-06-05">5 juin</date>, sur le canapé de cuir vert,
+      à 4 h. après midi.</dateline></opener>
+    <p>Il fait une chaleur étouffante. Vient la facture à passer en revue.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-06-06">6 juin</date>, à sept heures du matin, sur
+      la colonnade, du côté gauche.</dateline></opener>
+    <p>Nous avons tant marché ces jours-ci que nous nous sommes écorché un peu le pied gauche; par
+     conséquent, au lieu de nous promener, nous écrivons. J’ai tout reçu selon la facture; je suis
+     peu édifiée des brochures, et surtout de celles où on parle de nos lettres. La journée du 18
+     avril ne vaut rien du tout: c’est un pendant du 28 février, à ce qu’il paraît. Je n’ai point
+     encore les tableaux. Mettez sur mon compte les frais du cadre du tableau du protégé de monsieur
+     de <persName ref="people.xml#cal01"> Calonne</persName>. J’ai meilleure opinion du tableau de
+      <persName ref="people.xml#rob02"> Robert</persName>; si ce <persName ref="people.xml#rob02">
+      Robert</persName> n’était ni général commandant, ni démagogue, ni enragé et qu’il vînt ici, il
+     trouverait des vues à peindre, car tout <placeName ref="places.xml#tsa01"
+      >Tsarsko-Sélo</placeName> est un immense ramas des plus jolis points de vue qu’on puisse voir;
+     la colonnade seule en fournirait une honnête quantité. Si vous avez de l’argent à moi, payez
+      <persName ref="people.xml#rob02"> Robert</persName> pour ce tableau. Puisque ce peintre aime
+     mieux à peindre des ruines, et qu’il en a tant sous les yeux, il aura grand raison de ne pas se
+     déplacer du pays des ruines.</p>
+    <p>Tâchez de ravoir de chez <persName ref="people.xml#fal01"> Falconet</persName> quelques
+     chiffons de lettres que je lui ai écrites la première année qu’il vint ici; elles sont peu
+     importantes, mais je n’aime pas l’impression. Tous les lanturlus seront en deuil lorsque
+      <persName ref="people.xml#fer03"> Mad. de La Ferté Imbaut</persName> sera morte. Pour <rs
+      ref="people.xml#geo02"> fr. Ge</rs>., nous ne le connaissons autre qu’on vous le décrit. Nous
+     voici arrivée au chiffon destiné pour a bonne bouche. Votre officier de confiance s’est montré
+     avec une si grande apparence de secret et d’importance que <persName ref="people.xml#gen02">
+      Genet</persName>, le chargé d’affaires de <placeName ref="places.xml#fra01"
+     >France</placeName>, l’a pris tout net pour un homme envoyé ici afin de négocier pour une
+     contre-revolution, car la perfection des bonnes constitutions consiste présentement à être
+     soupçonneux et minutieux au possible, et à faire du mal dans la supposition honnête qu’on vous
+     en peut faire. M. de <persName ref="people.xml#san04"> Traversay</persName>, que le maréchal de
+      <persName ref="people.xml#cas01"> Castries</persName> a envoyé ici, y est arrivé depuis deux
+     gros mois. Je vous avoue que je voudrais que M. de <persName ref="people.xml#bou05">
+      Bouillé</persName> fût déjà hors de <placeName ref="places.xml#fra01">France</placeName> avant
+     qu’on soupçonne son dessein; de ma vie je n’ai rien vu de plus indiscret que vos Français, car
+     s’il ne parle pas en parole, il le fait par ses airs et son maintien, faisant le mystérieux, le
+     boutonné et l’important là où il n’y en a aucun besoin. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien. Sombreuil restera ici au service, et ceci
+      sera porté par <persName ref="people.xml#bom01"> Bombelles</persName>. Ce <date
+       when-custom="1791-06-07">7 juin</date>.</signed></closer>
+   </div>
+   <div>
+    <p>Feuille contenant l’affaire de mess. <persName ref="people.xml#bou05"> Bouillé</persName> et
+      <persName ref="people.xml#hey01"> Heymann</persName>. M<hi rend="superscript">r </hi>le marq.
+     de <persName ref="people.xml#bou05"> Bouillé</persName>, lieut.-général au service
+      de <placeName ref="places.xml#fra01">France</placeName>, sera reçu en <placeName ref="places.xml#rus01">Russie</placeName> en
+     cette qualité avec l’ancienneté qu’il â en <placeName ref="places.xml#fra01"
+     >France</placeName> dans ce grade, et par là il se trouvera en droit de devenir général-en-chef
+     incessamment, étant en <placeName ref="places.xml#fra01">France</placeName> un des plus anciens
+     lieut.-généraux.</p>
+    <p>L’entretien des généraux-en-chef en <placeName ref="places.xml#rus01">Russie</placeName> est
+     en roubles... 4.600.</p>
+    <p>Gratification pour équipage ………………………………………………………………………10.000.</p>
+    <p>Pour la table par mois 500, par année…………………………………………………………6.000.</p>
+    <p>Pension ………………………………………………………………………………………………………2.000.</p>
+    <p>NB. C’est le traitement aussi du <persName ref="people.xml#nas01"> prince de
+      Nassau</persName>; pour le voyage une fois payé trois mille ducats.</p>
+    <p>M. de <persName ref="people.xml#hey01"> Heymann</persName> sera reçu comme général-major avec
+     l’ancienneté qu’il a eue en <placeName ref="places.xml#fra01">France</placeName>, ce qui lui
+     donnera l’avancement en son temps.</p>
+    <p>L’entretien d’un général-major est 2.760 roubles.</p>
+    <p>Pour la table 300 par mois.</p>
+    <p>Pour le voyage deux mille ducats une fois payés.</p>
+    <p>Les officiers que M. de <persName ref="people.xml#bou05"> Bouillé</persName> amènera au
+     nombre de dix à douze, jusqu’au rang de lieutenant-colonel inclusif, seront reçus. On
+     souhaiterait préférablement un nombre d’officiers ingénieurs qui eussent de la pratique.</p>
+    <p>Les enfants de M. de <persName ref="people.xml#bou05"> Bouillé</persName> seront reçus au
+     service selon leurs grades.</p>
+    <p>Pour la retraite, personne chez nous n’a eu lieu de se plaindre. Les veuves ne sont jamais
+     restées sans gratification, ni assistance, et les services réels sont récompensés de mille
+     manières différentes.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

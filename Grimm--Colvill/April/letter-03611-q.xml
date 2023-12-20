@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03611</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03611</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-08">08/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:55:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03611">
+  <body>
+
+   <opener><dateline> Се <date when-custom="1784-05-10">10 mai 1784</date>.</dateline></opener>
+   <p>Réponse du secrétariat.</p>
+   <p>Il y a longtemps que nous savons qu’il vaudrait mieux de ne pas se mêler de ce qui ne nous
+    regarde pas. Mais comment voulez-vous qu’on résiste à la maudite facilité de griffonner une page
+    après l’autre comme rien? ni la tête ni le poing ne s’en ressentent et cela nous amuse.</p>
+   <p>Pour lutin, non, je ne le suis pas, mais pour un bavard, oui.</p>
+   <p>La coutume fait que nous ne nous reposons que l’oreille collée sur l’oreiller, et là encore
+    souvent en sommeil nous vient-il dans l’esprit ce qu’il faudrait dire, écrire ou faire.</p>
+   <p>Il est vrai que monsieur le principal n’a signé qu’en disputant et que longtemps il n’a pas
+    signé; mais enfin, il s’est accoutumé à l’idée baroque et enfin il a signé, et comme cela nous
+    attire des réponses délicieuses et très amusantes à lire, nous continuons tous les deux, moi à
+    écrire, lui à me prier d’écrire, car monsieur le principal est non seulement d’un bon et doux
+    esprit, mais il a un sentiment exquis, et la grande raison et la justice ne lui échappent
+    jamais.</p>
+   <p>Je ne suis point du tout découragée de ce que vous me dites que je n’ai aucune disposition
+    pour le secrétariat et que j’y suis <seg xml:lang="la"> novissime</seg>, car toute ma vie je
+    n’ai fait qu’écrire pour autrui et même pour le premier <seg xml:lang="de"> Paßgänger</seg> qui
+    savait plus que personne se faire un habit des plumes d’autrui. Votre officier d’housards étant
+    entre les mains du <persName ref="people.xml#anh01"> comte d’Anhalt</persName> et du <persName
+     ref="people.xml#lan02"> général Lanskoï</persName>, ils trouveront bien où le placer sans avoir
+    besoin de l’intermission d’un secrétaire intrus.</p>
+   <p>N’ayez pas peur: je ne griffonnerai point pour le <persName ref="people.xml#anh01"> comte
+     d’Anhalt</persName>; j’ai eu trop de peine à faire signer l’autre, qui est très accoutumé à mes
+    petites manières extraordinaires; mais en revanche je les fais rire tous les deux à se tenir les
+    côtés, et je passe chez eux pour un personnage drôle et amusant: voilà ce que le <persName
+     ref="people.xml#lan02"> g-l Lanskoï</persName> me dit tous les jours.</p>
+   <p>Mais je vous trouve tout à fait plaisant de me proposer de battre la campagne pour vous;
+    morgué, vous vous en acquittez fort bien vous-même, et je ne veux pas perdre une syllabe de ce
+    que vous dites; cependant peut- être vous enverrai-je un jour un projet de réponse à
+    quelques-unes de mes lettres. C’est tout ce que je puis faire pour vous.</p>
+   <p>Jamais je ne suis ennuyée à lire vos lettres.</p>
+   <p>Vous pouvez être persuadé que malgré tout ce que <rs ref="people.xml#gus01"> M. le comte de
+     Haga</rs> peut vous dire de moi, je suis pour lui un très ennuyeux personnage, mais ennuyeux à
+    bâiller à périr, <seg xml:lang="it"> ma</seg> il n’ose le dire, parce que nous avons le tic de
+    faire du cas de ce dont le monde fait du cas, quoiqu’au fond de l’âme cela nous ennuie et que
+    nous ne sommes rien moins que ce que nous voulons paraître. A <placeName ref="places.xml#fre01"> Fredrikshamn</placeName> nous
+    affections tous les jours d’être, depuis quatre heures jusqu’à six, enfermé avec votre très
+    humble servante, Dieu sait pourquoi, pour paraître, je crois, être enfermé: nous parlions, nous
+    parlions, nous dévidions, et votre très humble secrétaire, le voyant bâiller, pour mettre fin à
+    brailler, ouvrait la porte dès qu’il sentait odeur d’homme dans l’antichambre pour débarasser
+    les <rs ref="people.xml#gus01 people.xml#sop01">Majestés suédoise</rs> et <rs
+     ref="people.xml#cat01"> russe</rs> de ces tête-à-tête ennuyeux et insipides; cela me faisait
+    suer à mourir, et cela n’a pas peu contribué à m’enrhumer l’été passé, car cela à duré six jours
+    entiers.</p>
+   <p>Nouvelles demandées.</p>
+   <p>L’<persName ref="people.xml#cat01"> impératrice</persName> n’ira point à <placeName ref="places.xml#khe01">
+    Kherson</placeName> cette année 1784, à moins que vous ne lui procuriez un char volant tout exprès pour
+    cela.</p>
+   <p>A <placeName ref="places.xml#par01"> Paris</placeName> elle n’ira jamais, pas même pour vous voir, à moins encore que ce ne
+    soit dans un char volant, car ni cousin <rs ref="people.xml#gus01"> Haga</rs> ni <persName
+     ref="people.xml#pop03"> pape</persName> ne me tentent, ni rien, excepté <rs ref="people.xml#gri01">souffre-douleur</rs>,
+    là-bas.</p>
+   <p>Allons donc, ne pleurez pas: l’été n’a jamais manqué de feuilles, au dire de <persName
+     ref="people.xml#buf02"> M. de Buffon</persName>, ni <rs ref="people.xml#gri01">souffre-douleur</rs> de pancarte: il en a eu, il
+    en a, et en aura. Grand merci pour le bien que vous nous voulez; au projet des courriers, nous y
+    penserons.</p>
+   <p><seg xml:lang="de"> Dieses Mal hat mir der Herr Prinzipal selber bewogen und besohlen zu
+     schreiben.</seg>
+   </p>
+   <p>Mais comme vous y allez, monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs>, comme vous accommodez le secrétariat!
+    vous le discréditez en ne le trouvant ni plaisant ni bon diable; en voulez-vous faire un
+    bonhomme et un mauvais plaisant? Je ne finirais pas si je produisais toutes mes plaintes contre
+    vous. Mais, à propos de cela, il faut que vous sachiez que S. M. I. la très <persName
+     ref="people.xml#cat01"> chère impératrice</persName> a mis hier tout le premier règne de
+    l’histoire de <placeName ref="places.xml#rus01"> Russie</placeName> en médailles et que le <persName ref="people.xml#lan02"> g-l
+     Lanskoï</persName> ayant vu cette ébauche, il m’a dit que c’était un ouvrage charmant, car ce
+     <rs ref="people.xml#lan02"> g-l</rs> commence à devenir un vicaire <rs ref="people.xml#gri01">souffre-douleur</rs>ien,
+    c’est-à-dire que quand on fait quelque chose dont on veut se vanter, on le montre au général
+    vicaire.</p>
+   <p>Et pourquoi voudriez-vous qu’on n’aimât pas ceux qui nous aiment? or, si on m’aime, j’aime
+    bien aussi. Je pense moi que la <rs ref="places.xml#cri01"> Tauride</rs> est un nom grec, et la
+     <rs ref="places.xml#cri01"> Crimée</rs> un nom tartare. Si vous n’attendiez que cela pour vous
+    raccommoder, vous auriez dû être raccommodé depuis longtemps. Le gr. écuyer dit: <seg
+     xml:lang="la"> Tempus venicuum</seg>. J’ai souvent vu que les choses paraissent bonnes ou
+    mauvaises selon le ton qu’on a pris ce jour-là. De quoi vous mêlez-vous d’imprimer ce dont vous
+    n’êtes pas prié de la correspondance d’autrui? C’est une tentation du démon à laquelle il vous
+    sera glorieux de résister. Il y a très longtemps que j’ai oublié <title ref="works.xml#feveyo01"
+     > Fevey</title>; vous en ferez des papillotes si vous voulez. J’ai dit à M. le principal votre
+    idée de faire graver le portrait dont vous avez copie par <persName ref="people.xml#sko01">
+     Skorodoumof</persName>, mais son excellence est trop persuadée de sa paresse pour qu’il lui
+    propose pareille chose. L’émail a été reçu avec des sauts, des bonds, des cris d’allégresse; il
+    a été regardé, tourné dans tous les jours (etc), remis dans l’écran, admiré dans tous les
+    sens.</p>
+   <p>Laissez faire le seigneur <persName ref="people.xml#tho02"> Thouron</persName>: qu’il mette
+    les <persName ref="people.xml#ale01"> Alexandre</persName> et <persName ref="people.xml#kon01">
+     Constantin</persName> en émail; payez-le et envoyez-moi l’émail; il me fera plaisir à moi,
+    secrétaire, commissairisé, renvoyé et repris. Le cher frère du principal est en <rs
+     ref="places.xml#cri01"> Tauride</rs>. S’il faut absolument que la <title
+     ref="works.xml#dianah01"> Diane</title> d’ <persName ref="people.xml#hou01"> Houdon</persName>
+    soit à moi, en voyez-la moi.</p>
+   <p>Je vous envoie en porcelaine les médaillons d’ <persName ref="people.xml#ale01"> Alexandre
+    </persName>et de <persName ref="people.xml#kon01"> Constantin</persName>: il faut que cela vous
+    appartienne; vous verrez que le cadet a beaucoup de la physionomie de <persName
+     ref="people.xml#pet01"> Pierre I.</persName></p>
+   <p>La grande fabrica à l’italienne que les sieurs principal et <persName ref="people.xml#qua01">
+     Quarenghi</persName> bâtissent, détruisent, rebâtissent, renversent et relèvent ensemble, est
+    sur la place vis-à-vis du <placeName ref="places.xml#win01"> palais d’hiver</placeName>. A la
+    place de l’amirauté on mettra tous les collèges, le sénat et le gouvernement, et le quai sera
+    continué.</p>
+   <p>Fort bien, fort bien: vous ne serez plus houspillé: l’explication que vous donnez à vos
+    expressions, me raccommode avec vous, mais je n’en crois pas un mot. Je ne sais ce que c’est que
+    votre modèle de <placeName ref="places.xml#rom03"> Rome</placeName> en relief, et je n’en ai pas besoin. Que le ciel vous accorde
+    santé et patience. Amen. <persName ref="people.xml#har04"> Hardy</persName> n’est pas parti plus
+    têt, parce qu’il a été retardé de près de quatre semaines.</p>
+  </body>
+ </text>
+</TEI>

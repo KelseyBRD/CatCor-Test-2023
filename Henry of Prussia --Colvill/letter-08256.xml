@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08256</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08256</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#prussia"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:29:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08256">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1778-09-03">3 septembre 1778</date>.</dateline></opener>
+   <p>La lettre de V. A. R. du camp de Nîmes, par laquelle Elle m’annonce l'arrivée de la mienne, me
+    La représente au milieu du chemin de la <rs ref="events.xml#bavar01"> gloire</rs>, toujours
+    hérissé d'épines, et entouré de ces difficultés qu'il n'appartient qu'au héros, à l'homme
+    supérieur, à vaincre. L'entrée de V. A. R. en <placeName ref="places.xml#boh01">
+     Bohême</placeName> par <placeName ref="places.xml#jab01"> Gabel</placeName> prouve de nouveau
+    au monde que la nature du terrain s’oppose en vain aux lumières, aux talents, à l'habileté, au
+    courage, à la prudence. Si jamais il fut permis de juger de l'avenir par le passé, c'est ce
+    cas-ci qui en fait naître la tentation. Rien ne Vous résiste et Vous plaidez une grande et juste
+    cause, très propre à faire des enthousiastes.</p>
+   <p>Je prends la liberté d'en recommander un à V. A. R., qui vient de s'adresser à moi, pour
+    obtenir la permission de partager Vos dangers. Le lt. général de mon armée, <persName
+     ref="people.xml#kam01"> Kamensky</persName>, qui m'a toujours servi avec distinction, lassé de
+    l'inaction où il se trouve et de l'indécision sur la paix et la guerre où nous nous trouvons
+    jusqu'à cette heure vis-a-vis des <orgName ref="orgs.xml#turk01">Turcs</orgName>, désire
+    ardemment d'être le témoin oculaire de la nouvelle gloire que les armes du <rs
+     ref="people.xml#fre01"> Roi, Votre frère</rs>, acquièrent. Je prends la liberté de le
+    recommander encore une fois à V. A. R., et je La prie d'obtenir pour lui le consentement du
+     <persName ref="people.xml#fre01"> Roi</persName> d'oser assister au fait de <name
+     ref="events.xml#bavar01"> guerre</name> de ses armées pendant le reste de cette campagne.
+    J'espère que V. A. R., moins par cette démarche-ci que par celle que je me propose de faire dans
+    peu, sera convaincue des sentiments inaltérables d'amitié dont je suis remplie depuis tant
+    d'années. Ce sont eux encore qui m'ont porté à parler à V. A. R. des affaires délicates et
+    désagréables du roi de <placeName ref="places.xml#swe01">Suède</placeName>.</p>
+   <p>Je La prie d'être persuadée que je ne négligerai aucune occasion qui se présentera, où mes
+    bons offices pour l'union, la paix et le bien-être pourront être de quelque utilité aux parties
+    intéressées, La priant d’être assurée de la continuation des sentiments de la plus
+    parfaite estime...</p>
+  </body>
+ </text>
+</TEI>

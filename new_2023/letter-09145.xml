@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09145</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09145</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-07">2023-07-07</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09145"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1793-08-16">1793 г. 16 августа.</date>
+                </dateline>
+            </opener>
+            <p>Все сие в <placeName ref="places.xml#tau01">Таврический дворец</placeName> взять с собою, а прочее, что на столах, в <placeName ref="places.xml#win01">зимний дворец</placeName>. <persName ref="people.xml#der02">Державину</persName> велите забрать <rs ref="people.xml#der02">его</rs> бумаги, в углу на столе лежащия.
+                <note type="editorial">
+                    Catherine left this order to A.V. Khrapovitskii before she left <placeName ref="places.xml#tsa01">Tsarskoe Selo</placeName> and departed to <placeName ref="places.xml#tau01">the Tauride Palace</placeName> on <date when-custom="1793-08-16">August 16 1793</date> (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 437.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

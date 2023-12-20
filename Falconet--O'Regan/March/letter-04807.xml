@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04807</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04807</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:07:37Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04807">
+  <body>
+
+   <p>Fort bien, <rs ref="people.xml#fal01"> Monsieur</rs>, fort bien! Par
+     vos soins, ma fantaisie antique sera satisfaite. J’ai ordonné d’envoyer l’argent pour les dix
+     exemplaires du <rs ref="works.xml#costum01"> costume</rs> au Pr. <persName
+     ref="people.xml#gol03"> Galitzin</persName> à la <placeName ref="places.xml#lah01">
+     Haye</placeName>, pour qu’il les paie à <persName ref="people.xml#coc02">
+     Cochin</persName>, et <persName ref="people.xml#ols01"> Olsoufief</persName> cous
+     demandera leur prix.</p>
+  </body>
+ </text>
+</TEI>

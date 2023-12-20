@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08254</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08254</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The identify of Mr. and Mad. de Vitinghoff is unknown according to the notes in the original.
+     I was unable to find additional references to them</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:29:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08254">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1777-12-02">2 décembre 1777</date>.</dateline></opener>
+   <p>C'est en remerciant V. A. R. et de la lettre du 20 novembre et de son contenu que je dois
+    commencer celle-ci; je La prie d'être persuadée des sentiments immuables d'amitié et d'estime
+    que je conserve pour Elle.</p>
+   <p>Mr. et Mad. de Vitinghoff sont bien heureux d’avoir pu mériter les suffrages de V. A. R.
+     <persName ref="people.xml#mus02"> Pouschkine</persName> qui a eu l'honneur de Lui faire sa
+    cour, va se marier, chemin faisant, à <placeName ref="places.xml#fra03"> Frankfort</placeName>
+    ou <placeName ref="places.xml#man03"> Mannheim</placeName> avec une <rs ref="people.xml#mus07">
+     comtesse</rs> de Wartensleben. <persName ref="people.xml#gri01">Grimm</persName>, pénétré des
+    sentiments que V. A. R. inspire, est arrivé à <placeName ref="places.xml#par01"
+     >Paris</placeName> à ce qu'on m'écrit. Mes établissements et mes gouvernements vont leur petit
+    train. V. A. R. est persuadée que je ne souhaite ni ne désire la guerre; les nuages qui
+    s'assemblent en Orient, et dont Elle fait mention, me rappellent à la mémoire les gestes des
+    peuples du nord, et je me dis: l'on fait ce qu'on peut, quand on ne peut faire comme l'on
+    veut.</p>
+   <p>C'est avec une très-haute considération ...</p>
+  </body>
+ </text>
+</TEI>

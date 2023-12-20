@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08235</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08235</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrevolution"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:23:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08235">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1774-05-08">8 mai 1774</date>.</dateline></opener>
+   <p>J'ai chargé le Sieur <persName ref="people.xml#gri01">Grimm</persName> d'une lettre pour V. A.
+    R. remplie des regrets les plus sincères pour la perte irréparable que nous avons faite tous les
+    deux par le décès de <persName ref="people.xml#kar01"> Mad. la landgrave</persName>, mais hélas,
+    tout ce que je pourrais dire sur ce triste sujet ne nous la rendra pas et ne ferait que
+    renouveler les réflexions que V. A. R. a faites, tout comme moi, en cette occasion. J'ai eu le
+    malheur d'annoncer coup sur coup en moins de vingt quatre heures à la <persName
+     ref="people.xml#wil01"> grande-duchesse</persName> la mort des <rs ref="people.xml#kar01 people.xml#car09">
+    deux personnes</rs> pour lesquelles elle avait le plus d'attachement, et quoique
+    son âme fut remplie de l’amertume la plus profonde, je lui ai vu une fermeté d'âme dont, je
+    l'avoue, j'aurais été incapable à son âge et en pareil cas. Je fais de mon mieux pour dissiper
+    son ennui et j’espère qu'à l’aide du printemps et de l'air de la campagne sa santé ne souffrira
+    aucune atteinte et s'affermira de plus en plus.</p>
+   <p>Elle occupe céans les appartements de V. A. R., mais ce sera avec plaisir qu'elle les Lui
+    cédera à la paix. Cette paix dont on parle tant et qui selon toutes les apparences réside autant
+    dans le cerveau du Seigneur <persName ref="people.xml#abd01"> Abdoul-Hamet</persName> que dans
+    le mien, n'est pas plus avancée encore pour cela, nos vizirs réciproques ne pouvant se résoudre
+    à la coucher par écrit, mais agréablement s'occupent à marchander, à temporiser, pour éviter la
+    contrebande politique, disent-ils, de s'y fourrer. Cependant le maréchal <persName
+     ref="people.xml#rum01">Roumanzof</persName> a pris selon moi le bon parti pour avancer la
+    besogne, il a fait passer le <placeName ref="places.xml#dan01">Danube</placeName> à une partie
+    de son armée. D'un autre côté <rs ref="events.xml#pugac01"> la farce</rs> d'<placeName
+     ref="places.xml#ore01"> Orenbourg</placeName>, qui a tant réjoui et fait babiller nos envieux,
+    touche à sa fin.</p>
+   <p>Connaissant le cœur sensible de V. A. R. je suis persuadée qu'Elle aura été touchée de la mort
+    prématurée du général <persName ref="people.xml#bib01"> Bibicof</persName> qui s'est laissé
+    mourir dans cette expédition d'une fièvre bilieuse, très mal à propos pour lui et pour moi au
+    moment où il était à même de déployer ses talents et que le service de la patrie lui ouvrait une
+    carrière brillante.</p>
+   <p>V. A. R. trouvera que je finis encore cette lettre par où j'aurais dû la commencer, c'est à
+    dire par les remercîments les plus sincères sur ce qu'Elle veut bien me dire d'obligeant sur mon
+    jour de naissance. Je La prie d'être persuadée que personne ne sent mieux que moi le prix de Son
+    amitié, et que j'en désire vivement la continuation, parceque je ne cesserai d'être avec les
+    sentiments...</p>
+  </body>
+ </text>
+</TEI>

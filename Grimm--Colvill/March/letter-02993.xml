@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02993</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02993</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01"/><persName/><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:05:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02993">
+  <body>
+   
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Tsarsko-Sélo</placeName>, ce <date when-custom="1777-08-22">22 d’aout 1777</date>.</dateline></opener>
+   <p>Je commençais à être inquiète de ce que je ne voyais point arriver de votre griffonnage, et
+    vous croyais quasi au fond du <placeName ref="places.xml#gul02"> golfe de Bothnie</placeName>,
+    lorsqu’enfin deux pancartes me sont parvenues: l’une datée de <placeName ref="places.xml#fre01">Fredrikshamn</placeName>, et
+    l’autre dé <placeName ref="places.xml#sto01">Stockholm</placeName>, et je me suis récriée: Eh, voilà mon prophète qui n’est
+    point noyé, et voilà qu’il griffonne <seg xml:lang="de">nach der alten
+     Manier</seg>. A propos de cela, le <persName ref="people.xml#bel01">prince Bélosselski</persName> est arrivé, et il m’a conté
+    toutes vos prouesses en <placeName ref="places.xml#swe01">Suède</placeName>, et comme <persName ref="people.xml#gus01"> Sa
+     Majesté suédoise</persName> vous a traité, et comme il parle <placeName ref="places.xml#rus01">Russie</placeName> etc: Il faut
+    se taire là-dessus, <seg xml:lang="de">damit der Teufel des Stolzes, sich
+     der Seele nicht bemächtiget</seg>, et puis encore ce même <persName ref="people.xml#bel01">
+     Bélosselski</persName> prétend que vous reviendrez quand vous voudrez, ou plutôt, dès que je
+    voudrai, moi. Mais, écoutez donc, revenez le plus tôt, le mieux, et revenez surtout quand vous
+    le voudrez et le pourrez. Vous direz que voilà la lettre la moins bien écrite de moi que vous
+    ayez encore reçue, mais vous aurez beau dire, elle n’est pas la plus mal pensée. Je ne réponds
+    point au dédale de lamentations dont votre lettre ou vos lettres abondent sur votre départ; je
+    vous renvoie à <persName ref="people.xml#dan01">George Dandin</persName> et son refrein, ne voilà-t-il pas un effort
+    sublime de génie? Adieu, ma santé est bonne; mais je ne peux retrouver ma tête: elle est égarée;
+    si vous la retrouvez quelque part, avertissez m’en la législomanie va clopin-clopant; cependant
+    par-ci par-là je retrouve des vues, mais point d’ensemble; cet ensemble où toutes choses
+    venaient se placer de soi-même, les unes la pointe en haut, les autres la pointe en bas, allant
+    toutes merveilleusement bien dans le même cadre sans déborder jamais, <seg xml:lang="de">das ist gänzlich verloren und davon ist seit sehr geraumer
+     Zeit keine Spur</seg>. Mais au bout du compte, qu’est-ce que cela vous fait à vous? il faut
+    avouer que de ma part, de vous conter cela, cela ne peut avoir que deux motifs: ou bien je vous,
+    le dis par bavardage, ou bien aussi il y a en moi une confiance innée pour vous; c’est de
+    l’instinct, et cet instinct ne me laisse pas le moindre doute que vous ne preniez le plus grand
+    intérêt à tout cela. </p>
+   <closer><signed rend="inline" xml:lang="de">Genug für heute.</signed></closer>
+  </body>
+ </text>
+</TEI>

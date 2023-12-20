@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03735</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03735</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is a hand drawn map in the sirio that is not included here; there are also symbols for
+     a currency that did not translate well from the OCR and I cannot find them. The space where
+     these symbols should be highlighted in red. Emma - changed the red to <g/></p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:08:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03735">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1796-08-05">5 d’août</date>.</dateline></opener>
+   <p>J’ai reçu vos pancartes No 17 et 18 hier. Ce même jour M. le comte <persName
+     ref="people.xml#sch09"> Schwerin</persName>, écuyer du roi de <placeName ref="places.xml#swe01"
+     > Suède</placeName>, annonça à <placeName ref="places.xml#tsa01">
+    Tsarsko-Sélo</placeName> l’arrivée prochaine de M. le <rs ref="people.xml#gus02"> comte de
+     Haga</rs>, fils de celui que vous avez vu, il y a dix-neuf ans, à <placeName
+     ref="places.xml#pet02"> Péterhof</placeName>, en compagnie de M. son oncle, le <rs
+     ref="people.xml#cha01"> comte de Wasa</rs>. Ils seront accompagnés d’une suite si nombreuse que
+    le tout ensemble fait cent vingt personnes, qui vont tous loger chez le pauvre ambassadeur
+     de <placeName ref="places.xml#swe01"> Suède</placeName>. La prise de <placeName
+     ref="places.xml#ben01"> Bender-Abassi</placeName> a été inventée par quelque malveillant: notre
+    armée est en-deça de l’<placeName ref="places.xml#ara02"> Arax</placeName>, et ne l’a pas
+    dépassé; le papier ci-joint contient un croquis de carte. Le seigneur <persName
+     ref="people.xml#mur03"> Mourtaza</persName>, persan, non géorgien, est retourné dans son pays;
+    il est propre frère de l’usurpateur <persName ref="people.xml#aga02"> Aga Mehemet</persName>;
+    celui-ci l’avait privé de ses états; <placeName ref="places.xml#ras01"> Rescht</placeName> et
+     <placeName ref="places.xml#gor01"> Astrabad</placeName> lui appartenaient; ces provinces
+    touchent à l’<placeName ref="places.xml#ara02"> Arax</placeName>, mais au bord opposé.</p>
+   <p>Pour ce qui regarde la campagne rétrograde des Autrichiens, elle est trop habile pour ne pas
+    mériter d’être étudiée à fond. Toutes les données peuvent servir sans doute au traité sur les
+    moyens de perdre les empires. Je pense que si la nécessité de fuir devenait indispensable, il
+    faudrait se réfugier derrière <placeName ref="places.xml#mad02"> Magdebourg</placeName>, ce qui
+    vous rapprocherait toujours d’ici. Pour ce qui regarde ce voyage même, j’ai dit hier à votre
+    saint d’avoir soin de vous chercher un gîte, et pour le voyage même vous l’entreprendrez le
+    printemps qui vient, et en attendant vous fixerez votre séjour là où vous croirez être le plus
+    en sûreté; au reste vous ne vous gênerez point sur ce que je vous dis, et l’arrangerez comme
+    vous le trouverez le plus conforme à votre gré et commodité, tant pour le temps que pour la
+    route.</p>
+   <p>Comme vous êtes depuis tant d’années avec <persName ref="people.xml#bue01"> Mad. du
+     Bueil</persName> et sa famille, je n’ai jamais entendu de vous séparer les uns des autres, et
+    lorsqu’il vous a plu de me les léguer, j’y ai consenti. Ainsi, en honneur, j’ignore ce qui vous
+    a pu donner des craintes à cet égard. Souvenez-vous s’il vous plaît que, vous sachant malade de
+    vomissements, je vous ai déconseillé le voyage de mer dans l’arrière-saison et le voyage de
+    terre au mois de septembre et plus tard. Pour du reste, de ce qui regarde <persName
+     ref="people.xml#bue02 people.xml#bue01">M. et Mad. du Bueil</persName>, cela pourra sans doute
+    mieux s’arranger ici que sur le grand chemin. Toutes mes raisons vous ayant été dites dans
+    celle-ci et mes précédentes, je n’ai plus rien à dire, sinon à vous souhaiter un heureux voyage.
+    Je vois bien que ce n’est pas le temps où toutes sortes de babil peuvent trouver leur place;
+    tels sont les malheurs du temps, basta. Cependant j’ose risquer de dire que le château de
+     <placeName ref="places.xml#wol01"> Wolfenbüttel</placeName> est assez grand pour loger une cour
+    royale magnifiquement; par conséquent ceux qui y sont allés seront sous toit.</p>
+   <p>Je suis bien fâchée que nos courriers vous aient causé autant d’embarras que l’argent que vous
+    avez reçu. Il m’a paru que je vous avais mandé qu’une des sommes était pour les émigrés et que
+    l’autre vous appartenait en propre. Je vous prie d’adresser le <persName ref="people.xml#fra07">
+     chevalier de Fransures</persName> au prince <persName ref="people.xml#zub03">
+    Zoubof</persName>; il s’en accommodera volontiers; et si le chevalier manque de moyens,
+    donnez-lui de quoi payer le voyage. Au sujet de la comtesse de <persName ref="people.xml#roc02">
+     Roche Lambert</persName> je vous dirai que celle-là, comme beaucoup d’autres, demande des
+    concessions de terres, et que de tous ceux qui en ont obtenu la plupart ou les ont plantées là,
+    ou au plus vite les ont vendues et ont mangé l’argent en redemandant d’autres; cela est très
+    commode, sans doute. Mais pour régir des terres, faut savoir la langue, et les donner au premier
+    venu quand on a beaucoup de services à recompenser, n’est pas aussi toujours d’une prudence
+    extrême, surtout à des dames de cour qui de leur vie n’ont su que faire la révérence. Or, mon
+    avis est que vous envoyiez, si vous en trouvez le moyen, à <persName ref="people.xml#roc02"> Mad.
+     de La Roche Lambert</persName> trois cents louis présentement. La comtesse de <persName
+     ref="people.xml#cho08"> Choiseul</persName> vous dit qu’elle a besoin de cent louis et de
+    1.250 <g/>, à ce qui me semble, et que son entretien lui coûte 4.000 <g/>; je pense qu’une somme
+    pareille à celle de <persName ref="people.xml#roc02"> Mad. de La Roche Lambert</persName> serait
+    aussi une poire pour la soif. Mais je vous demande excuse de vous donner tant de peine, tandis
+    que vous avez déjà d’aussi grands embarras; mais il a fallu répondre a vos demandes; vous aurez
+    la bonté de mettre le défraiement des courriers sur mon compte. Le résultat de la chasse est
+    digne du temps présent. </p>
+   <p>Il parait que la nôtre a été plus heureuse. Adieu, portez-vous bien et que le ciel vous
+    accorde une dose de meilleure humeur qu’il n’en brille dans le No 18. Je vous dirai du chevalier
+     d’<persName ref="people.xml#aug08"> Augard</persName> ce que je penserai quand je l’aurai vu;
+    son projet sur le <placeName ref="places.xml#jap01"> Japon</placeName> serait fort bon s’il
+    connaissait le local; d’ailleurs nous y trafiquons et n’y sommes pas sans relations, et nous
+    nous renvoyons les naufragés très amicalement. <seg xml:lang="de"> Ja, mein Herr die Passgängern
+     erregt immer Ungeduld, aber die Nöther und Nöthereien noch mehr; die Hölle voll davon, und
+     darum ist dort nicht gut wohnen</seg>.</p>
+  </body>
+ </text>
+</TEI>

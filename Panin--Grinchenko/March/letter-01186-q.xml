@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01186</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01186</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>старый хрыч?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-30"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01186">
+        <body>
+            <opener>Из Петергофа.<lb/>
+                <dateline><date when-custom="1768-06-08">Июня 8 числа, 1768.</date></dateline><lb/>
+                <salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Разставшись с Вами в четверг, мы, подъезжая к Красному Селу, нашли меж гор зефир
+                осенней, хотя из <placeName ref="places.xml#tsa01">Царскаго Села</placeName> мы
+                выехали с весьма теплой погодой. В пятницу с дождем поехали в <placeName
+                    ref="places.xml#gat01">Гатчину</placeName> и приехали назад с такою стужею, что
+                все жалели, что шубы не взяли; вчерась суббота, хотя день былъ серой, однако стужу
+                нигде мы не почувствовали, наипаче же здесь, в <placeName ref="places.xml#pet02"
+                    >Петергофе</placeName>, тепло и хорошо. Только без сердца видеть не можно, как
+                все здесь опущено, хотя с 1762 года я на то выдала сто восемьдесят тысяч, в числе
+                коих я двадцать долгу заплатила за одне железныя трубы, а старой хрыч, вместо того,
+                чтоб <placeName ref="places.xml#pet02">Петергоф</placeName> чинить, чорт знает что
+                из тех денег делал. Я думаю, что они долг Канцелярии от строения заплатили отчасти.
+                Но оставим сие, как бы оно не было. Изволь смело переехать сюда; дни должны быть
+                красны, ибо Петровки; только велите <persName ref="people.xml#pau01">Великаго
+                    Князя</persName> шубы класть поближе, ибо дорогою найдете на один день десять
+                годов разных. Я сегодня перееду в <placeName ref="places.xml#ora01"
+                    >Ораниенбаум</placeName>, где останусь до Вашего сюда приезда, и так как все
+                соединимся в одно место, сделаю воскресение будущее здесь куртаг.</p>
+            <closer><signed rend="inline"><persName ref="people.xml#pau01">Сыну моему</persName> прошу
+                кланяться, а Вам обоим желаю здравствовать; думаю, что Вам теперь не без скуки
+                    <sic>к</sic>
+                <placeName ref="places.xml#tsa01">Царском Селе</placeName>, и что без меня пусто, и
+                для того спешу к Вам.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

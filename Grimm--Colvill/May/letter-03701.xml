@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03701</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03701</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:01:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03701">
+  <body>
+   <opener><dateline> Ce <date when-custom="1794-12-15">15 décembre</date>.</dateline></opener>
+   <p>J’ai reçu hier une petite pancarte du 24 décembre (5 janv.) par les héritiers de <persName
+     ref="people.xml#bac01"> Bacchus</persName>. Il y a trois jours qu’il est parti pour vos
+    contrées un mulet chargé de pauvretés sans nombre et d’une pancarte non achevée, parce qu’un mal
+    d’oreille a empêché de l’achever. Je pense que S. E. ayant été maréchalisée, elle n’a plus
+    besoin d’ajoutation à son nom. Je pense que cette illustre princesse polonaise dont vous parlez
+    est à <placeName ref="places.xml#dre01"> Dresde</placeName>; c’est une charmante femme, et avec
+    cela un très drôle de corps. Quand vous la verrez, parlez-lui du <rs ref="people.xml#sam04">
+     prêtre de Sophie</rs>, qui plante les jardins de tout le monde, et qu’elle trouvait si heureux
+    à cause de cela, car elle est plantomane tout comme nous autres.</p>
+   <p>S’il y a un Damas à élever, on n’a qu’à nous l’envoyer et on le fera élever. Pour des
+    Genevois, nous nous en passerons.. <persName ref="people.xml#zub01"> L’ami Valérie</persName> a
+    eu un pied cassé par un boulet, et à cette occasion il a développé une âme peu commune: son
+    cheval ayant été tué du même coup, il tomba avec le cheval et ne s’aperçut de son pied cassé que
+    lorsqu’en descendant il ne put s’appuyer sur ce pied. Des officiers qui l’entouraient se
+    jetèrent à bas de leurs chevaux et l’emportèrent derrière un petit rideau. Un chirurgien vint,
+    et le blessé lui dit de lui couper la jambe, quatre doigts au dessus du coup reçu, ce que le
+    chirurgien fit tout de suite au bruit du canon ennemi et des boulets qui volaient autour d’eux,
+    de façon qu’il fallut changer de place deux fois pendant l’opération. Ensuite on emporta sur un
+    brancard S. E. en passant devant la seconde ligne de nos troupes qui allaient à l’ennemi.
+     <persName ref="people.xml#zub01"> Valérien</persName> parlait aux soldats, badinait avec eux;
+    plusieurs des soldats pleuraient en le voyant; enfin on l’emporta dans une maison de
+    gentilhomme, tout près de là où le combat, au passage du Bog, se donnait. Tous ceux qui étaient
+    autour de lui fondaient en larmes; pour lui, il n’était occupé que de ses entours et du chagrin
+    qu’éprouveraient ses parents et ses amis de son accident. Il faut savoir que tous les braves et
+    tous les jeunes gens de l’armée voulaient toujours servir avec lui, et qu’il est très aimé de
+    ses supérieurs et inférieurs, qu’il est d’une valeur brillante et que sa réputation militaire
+    est faite. On le regarde de la plus haute espérance. Il écrivit à ses parents, les assurant
+    qu’il était et serait le même, qu’il continuerait de servir, qu’il regrettait de n’avoir pu
+    assister à la prise de <placeName ref="places.xml#pra01"> Prague</placeName>. En un mot, il a
+    montré une âme héroïque; notez que notre héros n’a que 24 ans. Il s’est fait transporter
+     à <placeName ref="places.xml#war01"> Varsovie</placeName>, où il commence à marcher sur des
+    béquilles, le <persName ref="people.xml#suv01"> comte des deux empires</persName> passant ses
+    heures de récréation chez lui et le maréchal <persName ref="people.xml#rum01">
+     Roumiantsof</persName>, qui s’est amouraché de ce jeune homme, envoyant des courriers pour
+    demander de ses nouvelles. En un mot, jamais personne chez nous n’a été plus généralement aimé,
+    estimé et considér que lui. Dans la relation détaillée de la prise de <placeName
+     ref="places.xml#pra01"> Prague</placeName> M. le <persName ref="people.xml#suv01"> maréchal,
+     comte des deux empires</persName>, entre autres recommande un lieutenant du corps des
+    ingénieurs, dont il dit qu’élevé au corps des cadets de l’artillerie, il a fait les plans de la
+    prise d’<placeName ref="places.xml#izm01"> Izmaïl</placeName> et de <placeName
+     ref="places.xml#pra01"> Prague</placeName>, que lui maréchal a exécutés. Il n’y a que cela;
+    c’est un jeune homme de 24 à 25 ans nommé <persName ref="people.xml#glu02"> Gloukhof</persName>.
+    Je pense qu’en voilà assez pour aujourd’hui. Adieu , <rs ref="people.xml#gri01">
+     souffre-douleur</rs>, j’ai mal à l’oreille. C’est peut-être à force d’avoir entendu des
+    nouvelles détestables de toute part, excepté de chez nous. <persName ref="people.xml#kos01">
+     Kostiouchko</persName> amené ici a été reconnu pour un sot dans toute la valeur du terme, très
+    au-dessous de la besogne.</p>
+   <p>Le bulletin du 18 (29) décembre ne vaut pas le diable; ce même jour aussi n’était pas heureux
+    pour les Hollandais, mais soyez rassuré sur le mal d’oreille: il est passé. Il y a longtemps que
+    je sais que quel ton qu’on donne à la chose, c’est ce ton-là qui sonne. Or le ton des sots est
+    sot, et le ton des bêtes est bête. Les Manheimois, apparemment, n’ont rien à perdre, puisqu’ils
+    ne craignent pas d’être pillés. Nous sommes campés ou nous devons l’être, les deux poings dans
+    la ceinture jusqu’ici; faut finir ce qu’on a commencé, avant que de se mêler d’affaires d’autrui
+    qui ne sont pas de notre avis et qui ont commencé leur menuet du pied gauche et dansent sans
+    mesure, et puis, puisque tout le monde raffole de la chose, pourquoi la leur ôter? N’ayez pas
+    peur, ils s’en repentiront, et la chose finira d’elle-même sans profit et sans gloire pour
+    personne, en se détruisant les uns les autres. Tout ceci sans doute ressemble aux prophéties de
+     <persName ref="people.xml#nos01"> Nostradamus</persName>. <seg xml:lang="it"> Ma</seg>
+    <persName ref="people.xml#sha04"> Chah Baham</persName> s’entendait toujours parfaitement
+    lui-même, quoiqu’on ne lui trouvait pas le sens commun. Adieu, portez-vous bien. Je me hâte pour
+    aller ce soir à un concert où trois des nôtres chantent, deux jouent du violon, un du clavecin.
+    Cela nous amuse. Or vous savez ou saurez que le nombre est augmenté <hi rend="italic">d’une dame
+     Anne</hi>, d’une taille énorme en longueur et grosseur; celle-ci ni chante, ni ne crie
+    jusqu’ici.</p>
+   <closer><dateline> Ce <date when-custom="1795-01-11">11 janvier 1795</date>.</dateline></closer>
+   <postscript>
+    <p>Je finis par où j’aurais du commencer, en vos souhaitant une bonne année fertile en bonnes
+     nouvelles.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

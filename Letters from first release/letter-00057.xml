@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00057</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00057</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-23">23 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-11-03">3 November 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and further markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-00057">
+        <body>
+
+            <p>Par ces lignes j'ai l'honneur d'informer monsieur le souffre-douleur de l'arrivée du
+                    <persName ref="people.xml#nas01">prince de Nassau-Siegen</persName> et de tous
+                ses paquets, dont je vous remercie et très particulièrement encore des oranges de
+                    <placeName ref="places.xml#mal01">Malte</placeName> que vous m'avez envoyées. En
+                revanche, vous sachant avide de bonnes nouvelles, je vous fais part de celles que
+                nous avons reçues ces jours-ci de <placeName ref="places.xml#mol01"
+                    >Moldavie</placeName> (voyez l'incluse) et pour lesquelles nous avons chanté
+                hier le Te Deum; outre cela en <placeName ref="places.xml#fin01"
+                    >Finlande</placeName> onze postes suédois ont été renversés depuis la mer
+                jusqu'à <placeName ref="places.xml#sav01">Nyslott</placeName>. Les prisonniers turcs
+                prétendent que <persName ref="people.xml#abd01">le sultan Abdoul Hamet</persName>
+                est mort et son neveu <persName ref="people.xml#sel01">Sélime</persName> lui a
+                succédé; la flotte de <placeName ref="places.xml#tal01">Revel</placeName> est sortie
+                du port, celle de <placeName ref="places.xml#kro01">Cronstadt</placeName> est toute
+                prête à en faire autant. <persName ref="people.xml#pot01">M. le prince
+                    Potemkine</persName> est parti hier pour l'armée réunie qu'il commandait et
+                celle que <persName ref="people.xml#rum01">le mar. comte Roumiantsof</persName> a
+                demandé à quitter à cause de ses infirmités qui le rendent peu capable de monter à
+                cheval.</p>
+            <closer><signed rend="inline">Adieu, en voilà assez pour aujourd'hui.</signed><dateline>
+                    <placeName ref="places.xml#tsa01">A Tsarsko-Sélo</placeName>, <date
+                        when-custom="1789-05-07">ce 7 mai 1789</date>.</dateline></closer>
+            <postscript>
+                <p><rs ref="people.xml#kam02">Le fils du général Kamenskoï</rs> a apporté hier la
+                    nouvelle d'un avantage remporté sur les Turcs <date when-custom="1789-04-16">le
+                        16 d'avril</date>, vieux style. <persName ref="people.xml#der01">Le
+                        lieutenant-général Derfelden</persName> a attaqué et renversé un corps de
+                    troupes ottomanes à vingt verstes de <placeName ref="places.xml#bra01"
+                        >Braïlof</placeName> près de <placeName ref="places.xml#max01"
+                        >Maxineni</placeName>, sur la rivière <placeName ref="places.xml#pod01"
+                        >Sereth</placeName>. Il y a eu quatre cents Turcs tués sur la place, et
+                    plusieurs qui se sont noyés, en se retirant. On a fait plus de cent prisonniers;
+                    de ce nombre sont <persName ref="people.xml#iac01">Iacouf</persName>, pascha à
+                    deux queues, qui commandait ci-devant en <placeName ref="places.xml#mol01"
+                        >Moldavie</placeName>, et deux colonels, ou Bins paschas. On a pris un canon
+                    et trois étendarts. <persName ref="people.xml#der01">Le général
+                        Derfelden</persName> après cette action a dirigé sa marche sur <placeName
+                        ref="places.xml#gal01">Galats</placeName> vers le <placeName
+                        ref="places.xml#dan01">Danube</placeName>.</p>
+            </postscript>
+            <postscript>
+                <p><persName ref="people.xml#kam01">Le général Kamenskoï</persName> vient d'envoyer
+                    un second courrier avec la nouvelle que <persName ref="people.xml#der01">le
+                        lieutenant-général Derfelden</persName> a attaqué <date
+                        when-custom="1789-04-20">le 20 avril</date> (1 mai) avec sa division les
+                    Turcs dans le camp près de <placeName ref="places.xml#gal01">Galats</placeName>
+                    sur le <placeName ref="places.xml#dan01">Danube</placeName>, et après une forte
+                    résistance de plus de trois heures, il les a totalement défaits. Il y a eu 1500
+                    Turcs de tués, et on a fait prisonniers <persName ref="people.xml#ibr01"
+                        >Ibrahim</persName>, pascha à trois queues, un grand nombre d'officiers et
+                    au delà de mille hommes. Leur camp, leurs drapeaux et leur artillerie sont
+                    tombés entre les mains des Russes. La perte de leur côté consiste en 60 tués et
+                    100 blessés.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03085</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03085</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+  
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#paul"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:16:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03085">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#ora01"
+     >Oranienbaum</placeName>, ce <date when-custom="1776-07-22">22 juillet 1776</date>.</dateline></opener>
+   <p>Sensible déjà au delà de ce que je pourrais Lui dire de tous les soins et attentions qu’il a
+    plu à V. A. R. de témoigner au <persName ref="people.xml#pau01"> grand-duc</persName> pendant
+    son voyage, et dont <rs ref="people.xml#pau01">mon fils</rs> me fait dans sa
+    lettre du 22/11 juillet un récit pénétré de reconnaissance, Elle a ajouté le comble à mes
+    sentiments en m'informant de l’heureuse arrivée à <placeName ref="places.xml#ber01"
+     >Berlin</placeName> de mon Télémaque couvert de l'égide de V. A. R. L'accueil du <persName
+     ref="people.xml#fre01"> Roi</persName>, celui de la famille royale, celui du public ne laissent
+    rien à ajouter à ma reconnaissance. V. A. R. sait que, quand je sens le plus, c'est alors que
+    l'expression me manque; ma plume en ce moment est dans le même cas, mais il est sûr que j'en
+    conserverai toute ma vie le souvenir le plus vif. De la façon dont le <persName
+     ref="people.xml#pau01"> grand-duc</persName> me parle de la <persName ref="people.xml#mar02">
+     princesse de Würtemberg</persName>, je suis émerveillée de sa patience et de sa prudence d'être
+    convenu avec V. A. R. de remettre jusqu'au surlendemain l'emploi de mes lettres; j'en attends le
+    résultat sous deux ou trois jours, je me flatte de la réussite, <rs ref="events.xml#marri02">
+     cette affaire</rs> étant dans les mains de V. A. R. Je Lui avoue avec la franchise due à Son
+    amitié le doux contentement que je sens irrésistiblement au fond de mon âme, et de ce voyage et
+    de son motif.</p>
+   <p>C'est en Lui réitérant les sentiments de la reconnaissance la plus étendue que je La prie
+    d'être assurée ...</p>
+  </body>
+ </text>
+</TEI>

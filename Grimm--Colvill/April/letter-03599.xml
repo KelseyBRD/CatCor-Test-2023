@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03599</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03599</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-02">02/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:53:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03599">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date when-custom="1783-05-03">3 de mai 1783</date>.</dateline></opener>
+   <p>Malheureusement pour vous, depuis que j’ai fermé ma lettre, je suis devenue malade: j’ai eu
+    une fluxion à la joue et une si grande chaleur qu’avant-hier on a été obligé de me saigner, et
+    je n’ai pu signer ce qu’il fallait pour expédier le courrier; ceci a donné le temps à mon
+    traducteur de mettre au net sa traduction de la première époque. Vous aurez la bonté de nous en
+    dire votre аѵіs.</p>
+   <closer><signed rend="inline">Adieu. Je suis très faible encore, car je n’ai pas mangé depuis le mois
+    d’avril. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

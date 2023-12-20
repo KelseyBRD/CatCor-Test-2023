@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09016</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09016</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#history"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09016">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1786-10-18">1786 г. 18 октября.</date>
+                </dateline>
+            </opener>
+            <p>Просить <persName ref="people.xml#wei01">Вейдбрехта</persName> снова сделать издание <title ref="works.xml#zapisk01">Записки касательно Российской истории</title> и для того прислали (бы) пробныя литеры, и листы оные послать к <persName ref="people.xml#pas01">господину Пастухову</persName> с тем, чтобы потрудился надсматривать, или кому поверить, лишь бы с точностию напечатано было. Современников
+                <note type="editorial">
+                    According to  <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title> (
+                        <biblScope unit="pp">pp. 11.</biblScope>)
+                    </bibl>, by "Sovremenniki" Catherine might mean the information placed in <title ref="works.xml#zapisk01">"Zapiski"</title> about the events that took place in other countries simulteneously with the episodes of Russian history.
+                </note>к <rs ref="people.xml#wei01">нему</rs> возвратить.
+            </p>
+        </body>
+    </text>
+</TEI>

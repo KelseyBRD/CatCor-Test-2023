@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09089</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09089</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#finance"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-28">2023-06-28</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09089"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-10-07">1788 г. Октября 7.</date>
+                </dateline>
+            </opener>
+            <p>Дайте о сем приказании знать <persName ref="people.xml#sut01">Сутерланду</persName>, чтоб <rs ref="people.xml#sut01">он</rs> видел, что я, кой час до меня доходит, умею взять меры для исправнаго платежа, чрез что возстановила и сохраняю кредит двадцать седьмой год. 
+                <note type="editorial">
+                    According to A.V. Khrapovitskii's diary, Catherine writes about her order to the <persName ref="people.xml#vya01">Procurator General Aleksandr Alekseevich Viazemskii</persName> to pay to <persName ref="people.xml#sut01">baron Sutherland</persName> 229,473 rubles (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 168.</biblScope>
+                    </bibl>
+                    ).
+                    It might be referring to the fact that <persName ref="people.xml#sut01">Sutherland</persName> was lending money to many of the magnates near to Catherine, among them <persName ref="people.xml#pot01">G.A. Potemkin</persName>, <persName ref="people.xml#bez01">A.A. Bezborodko</persName>, <persName ref="people.xml#ost05">I.A. Ostermann</persName>, <persName ref="people.xml#vya01">A.A. Viazemskii</persName>, and even <persName ref="people.xml#pau01">Grand Duke Pavel Petrovich</persName>. Viazemskii and Bezborodko cleared their debts and the others promised to do so later (
+                    <bibl>
+                        <title ref="works.xml#suther01">The Sutherland Affair and Its Aftermath</title>
+                        , <biblScope unit="pp">pp. 259.</biblScope>;
+                        <title ref="works.xml#vndolg01">Vneshnii dolg Rossiiskoi imperii v 1775-1787</title>
+                        , <biblScope unit="pp">pp. 108.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

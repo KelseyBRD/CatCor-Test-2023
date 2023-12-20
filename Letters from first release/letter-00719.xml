@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00719</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00719</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-09">09 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00719">
+                <body>
+                    
+                    <p>Чаю, не оспоришь, буде Генерал-кригскомиссара <persName
+                            ref="people.xml#dur02">Дурнова</persName> вмещу в число Александровских
+                        кавалеров. Что же касается до мужа твоей племянницы, то прошу тебя отложить
+                        сие прошение до другого дня, а наипаче к праздникам всякие прозьбы за
+                        неделю, а еще лутче за две, доставить к моему сведению, дабы мысли время
+                        имели бродить, аки брага. Я, увидясь с тобою, объясню тебе мои мысли
+                        дружественно и дружеские, <seg xml:lang="fr">car, m'amour, je n'en ai
+                            point d'autres pour toi.</seg></p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

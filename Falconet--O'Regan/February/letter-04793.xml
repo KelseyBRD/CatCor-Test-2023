@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04793</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04793</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Double check Rembrandt references - Falconet references a painting called 'Mordecai at the
+     feet of Esther and Ahasuerus'. He may have been referring to 'Haman begging for mercy' by
+     Rembrandt (at the feet of Esther and Ahasuerus) Kelsey: checked and markup adjusted
+     accordingly.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-26">26/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:09:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-02">02/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Query resolved; markup revised and annotation
+    added.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04793">
+  <body>
+
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.
+    </salute></opener>
+   <p rend="inline">Si le <rs ref="works.xml#hamanb01"> tableau</rs>, dont vous me parlez peut
+    servir de pendant à mon <rs ref="works.xml#prodig01"><hi rend="italic">enfant
+     prodigue,</hi></rs> je m’en accommoderais bien, le prix de trois mille six cents livres me
+    paraît très-modique, je vous prie de le faire examiner par des gens en qui vous vous
+     confiez.<note type="editorial">Catherine purchased in 1764 Rembrandt's <ref
+      target="works.xml#ahasue01">"Ahasuerus and Haman at the Feast of Esther"</ref>. Falconet must
+     therefore be referring to another painting, presumably <ref target="works.xml#hamanb01">"Haman
+      Begs Esther for his Life"</ref>, a painting by Rembrandt's studio which at the time was known
+     as "Mordechai before Esther and Ahasverus" and which was up for auction in Paris in
+     1769.</note></p>
+  </body>
+ </text>
+</TEI>

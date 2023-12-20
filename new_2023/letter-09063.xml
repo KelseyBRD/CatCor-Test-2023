@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09063</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09063</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09063"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-06-29">1788 г. июня 29.</date>
+                </dateline>
+            </opener>
+            <p>Из приписанных к <placeName ref="places.xml#tsa01">Софейску</placeName> есть ли охотники в солдаты, пока продолжится <name type="event" ref="events.xml#swedi02">Шведская война</name>? Кой час будет мир, велю отпустить из службы. Скажите <rs ref="people.xml#tok01">городничему</rs>: рослых велю брать в гвардию. Ему же <persName ref="people.xml#tok01">Токареву</persName>: что (чем) более поставит, или уговорит, то почту за большую услугу.  
+                <note type="editorial">
+                     In <bibl>
+                         <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                         (<biblScope unit="pp">pp. 30.</biblScope>)
+                    </bibl>
+                    stands that this recruitment was organized by <persName ref="people.xml#ryl01"><placeName ref="places.xml#pet01">Saint-Petersburg</placeName>'s ober-policemeister Ryleev</persName> and the <persName ref="people.xml#tok01">Governor of Sofia (District of <placeName ref="places.xml#tsa01">Tsarskoe selo</placeName>) Tokarev</persName>.
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03648</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03648</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) I could not find the Comtesse Branitska or General Branitski (2) Could not find the
+     location Kaïdaki</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-18">18-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:52:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03648">
+  <body>
+   <div>
+    <opener><dateline> De ma galère nommée Dnèpre, entre <placeName ref="places.xml#kie01">
+       Kiov</placeName> et <placeName ref="places.xml#kan01"> Kaniev</placeName>, ce <date
+       when-custom="1787-04-24">24 d’avril 1787</date>.</dateline></opener>
+    <p><rs ref="events.xml#crime01"> Je suis partie</rs> le 22 de ce mois de <placeName
+      ref="places.xml#kie01"> Kiev</placeName> et nous voilà à la rame sur le <rs
+      ref="places.xml#dni03"> Boristhène</rs> depuis trois jours, tous très bien portants. De
+     nouvelles je ne saurais vous en dire, sinon que de toutes mes navigations celle-ci paraît être
+     la plus difficultueuse, parce que cette rivière a tant de sinuosités, tant d’îles et îlots, et
+     tant de bas-fonds que jusqu’ici nous n’avons fait aucun usage de nos voiles; elle est
+     infiniment plus rapide que la <placeName ref="places.xml#nev01"> Néva</placeName>. A présent
+     nous sommes entre les deux bords, dont l’un appartient à la <placeName ref="places.xml#pol01">
+      Pologne</placeName>; celui-là est montagneux, et celui de la <placeName ref="places.xml#rus01"
+      > Russie</placeName> est fort plat. Dieu sait d’où partira cette lettre. J’espère d’avoir
+     demain ou après-demain le <persName ref="people.xml#pon01"> roi de Pologne</persName> à mon
+     bord.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1787-04-26">26 d’avril</date>. </dateline></opener>
+    <p>Le <persName ref="people.xml#pon01"> roi de</persName> Pologne a passé hier neuf heures à mon
+     bord; nous avons dîné ensemble; il y a trente ans à peu près que je ne l’ai vu: vous pouvez
+     juger si nous nous sommes trouvés changés. Ce matin je suis partie avec le jour de devant
+      <placeName ref="places.xml#kan01"> Kaniev</placeName>, et nous avons fait une trentaine de
+     verstes; après midi une bonne bourrasque nous ayant atteints, nous voilà à l’ancre, et tandis
+     que ma galère dandine sur son ancre, <seg xml:lang="de"> und daß das Ruder stehet wie ein
+      Kranker</seg>, moi je m’amuse à vous écrire, après en avoir fait autant au <persName
+      ref="people.xml#bru02"> comte Bruce</persName>, auquel je rends compte de ma conduite deux et
+     trois fois par semaine pour l’engager à en faire autant, chose cependant à laquelle il ne
+     manque jamais.</p>
+    <p>Nous avons reçu ce matin la nouvelle du renvoi de <persName ref="people.xml#cal01"> M. de
+      Calonne</persName>; ces notables, qu’en fera-t-on? Je lisais justement ses mémoires et sa
+     harangue, et je disais: voilà encore de l’étalage, <seg xml:lang="it"> ma</seg> les remèdes
+     efficaces sont difficiles à trouver, et le parquet est glissant, puisque tout le monde glisse;
+     beau projet, grand projet, <seg xml:lang="de"> wo sitzt es, wo drückt der Schuh ? Ist zu weit
+      oder zu eng? Eins und das Andere macht das Stolpern. Gott segne die armen Leute.
+     Amen.</seg></p>
+    <p>Ce 3 de mai, sur ma galère à 4 verstes de <persName ref="people.xml#kre01">
+      Krementchoug</persName>, où j’ai passé trois jours dans une grande, belle et charmante maison,
+     bâtie par le maréchal <persName ref="people.xml#pot01"> prince Potemkine</persName>, proche
+     d’un très beau bois de chênes et un jardin dans lequel il у a des poiriers d’une hauteur et
+     grosseur comme de ma vie je n’en ai vu, et qui étaient tous en fleurs. Sans contredit je pense
+     que c’est le pins beau climat de l’empire de <placeName ref="places.xml#rus01">
+      Russie</placeName>; cependant on s’y plaint que le printemps y a retardé cette année de trois
+     semaines. <persName ref="people.xml#kre01"> Krementchoug</persName> est l’endroit le plus riant
+     que j’aie vu de mes jours: tout y est agréable; nous y avons trouvé 15 mille hommes des plus
+     belles troupes qu’on puisse voir, qui y campaient; j’y ai donné un bal où il y avait au moins
+     huit cents personnes. Ce matin nous en sommes partis et nous avons dîné à bord, <seg
+      xml:lang="it"> ma</seg> les vents nous contrarient autant que le font les projets des
+     contrôleurs des finances du <rs ref="people.xml#lou01"> roi très Chrétien</rs>. Mais, à propos
+     de cela, qu’est-ce que vous dites de l’élection du <persName ref="people.xml#dal01"> baron
+      Dalberg</persName> à la coadjutorerie de <placeName ref="places.xml#mai03">
+      Mayence</placeName>? <seg xml:lang="de"> Das ist ein gutes Stück, mir deucht</seg>: j’aime
+     quand le mérite obtient une belle et bonne place, car Dieu m’est témoin que nous autres
+     ignorants nous n’avons aucune inclination quelconque pour les sots en place, et il y en a
+     beaucoup dans ce monde, et il me semble comme si le nombre en augmente. Aimez- vous les sots?
+     Dites-moi cela franchement. Si vous saviez tout ce qui se dit et se fait journellement sur ma
+     galère, vous mourriez de rire. Tout ce monde qui va avec moi s’est si bien accoutumé chez moi,
+     qu’ils sont comme s’ils étaient à la maison.</p>
+    <p>Ce 4 de mai, sur ma galère. Mais écoutez donc: d’où vient que <rs ref="people.xml#kar03">
+      papa de Brunswick</rs> fait si grand peur à <rs ref="people.xml#aug01"> sa fille</rs>? Cette
+     pauvre femme m’écrit de sa terre de <placeName ref="places.xml#loh01"> Lohde</placeName> en
+      <placeName ref="places.xml#est01"> Esthonie</placeName> que dans les lettres de <rs
+      ref="people.xml#kar03"> son papa</rs> il y a beaucoup d’humeur contre elle. Pourquoi cette
+     humeur, s’il vous plaît? Est-ce parce qu’elle n’a plus pu résister au mauvais traitement <rs
+      ref="people.xml#fri06"> du mari</rs> qu’on la boude ou la gronde? Que ne lui en donnait-on un
+     meilleur? Si on veut la ravoir, il ne faut pas lui montrer de l’humeur, car d’ailleurs il n’y
+     aura pas moyen de la faire déguerpir de <placeName ref="places.xml#loh01"> Lohde</placeName> où
+     elle vit fort retirée. Elle a bonne envie de revenir à <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName>, mais cela n’est pas mon compte; quand je reviendrai, j’espère que son
+     affaire aura eu tout le temps de s’arranger, et alors je désirerai de la faire partir, car que
+     voulez-vous qu’elle fasse chez moi? Mais si on me la rend transie de peur et d’appréhension,
+     comment parviendrai-je à la faire partir de bon gré, et en vérité, sans son bon gré et sans
+     être sûre d’un sort tranquille pour ma protégée, je ne saurais lui conseiller aussi de risquer
+     le voyage. Ainsi <rs ref="people.xml#aug01"> ma petite</rs>, qui n’a que moi au monde et qui se
+     tient à moi <seg xml:lang="di">e wie eine Klette</seg>, n’a pas si grand tort aussi d’aimer
+     mieux le château de <placeName ref="places.xml#loh01"> Lohde</placeName>, où elle est
+     tranquille, que bien d’autres désagréments. Or, il me parait encore que le <rs
+      ref="people.xml#kar03"> papa</rs> me boude aussi un peu, car je n’entends point parler de lui
+     depuis le mois de février; tout cela vient parce que je n’ai pas dégoisé tout ce que je sais,
+     et que j’ai agi avec une étonnante sagesse, mais telle que j’en suis étonnée moi-même; cela
+     donne beau jeu peut-être à son <rs ref="people.xml#fri06"> abominable mari</rs>, qui, à ce
+     qu’il me parait, s’est emparé de l’oreille de papa et la farcit, Dieu sait de quoi. Or, si je
+     m’avisais de débiter ma marchandise, en résulterait vent contraire <rs ref="people.xml#fri06">
+      au mari</rs>, dont j’ai enseveli les abominations et dont j’ai déclaré n’être point le juge.
+     NB. NB. NB. Voilà à quoi on s’expose quand on parle en oracle et qu’on agit avec une étonnante
+     prudence et sagesse. Les maris vont se cacher, les papas deviennent boudeurs, et les petites
+     ont de la peine à avoir un sort tranquille. Allons donc, agissez: vous avec votre haute science
+     du développement; agissez et mettez tout cela sur la route où tout le monde est content, et
+     alors nous le serons aussi, moi et <rs ref="people.xml#aug01"> ma petite protégée.</rs></p>
+    <p>A <placeName ref="places.xml#khe01"> Kherson</placeName>, ce 15 de mai. J’ai reçu une lettre
+     du <rs ref="people.xml#kar03"> papa de Brunswick</rs> depuis que je vous ai écrite les pages
+     précédentes; cette lettre me parait douce et raisonnable; aussi l’ai-je expédiée à <placeName
+      ref="places.xml#loh01"> Lohde</placeName> tout de suite pour tranquilliser <rs
+      ref="people.xml#aug01"> ma protégée</rs>.</p>
+    <p>Le sept de ce mois j’appris sur ma Galera au delà de Kaïdaki que M. le <rs
+      ref="people.xml#jos01"> comte de Falkenstein</rs> courait à moi à toute bride; aussitôt je
+     m’en fus à terre pour courir aussi au-devant de lui, et nous courûmes si bien que nous nous
+     rencontrâmes au milieu des champs nez à nez; la première parole qu’il me dit fut que voilà tous
+     les politiques bien attrapés: personne ne verra notre rencontre; lui il était avec son
+     ambassadeur, et moi avec le <persName ref="people.xml#lig01"> prince de Ligne</persName>, <rs
+      ref="people.xml#dmi01"> l’habit rouge</rs> et la comtesse Branitska. Les majestés réunies dans
+     les mêmes voitures coururent d’une traite trente verstes à Kaïdaki; mais ayant couru tous seuls
+     par les champs, lui, comptant sur mon dîner, moi, sur celui du maréchal <persName
+      ref="people.xml#pot01"> pr. Potemkine</persName>, et celui-ci s’étant avisé de jeûner pour
+     gagner du temps et préparer une érection d’une nouvelle ville, nous trouvâmes bien le prince
+     Potemkine revenu de son expédition, mais point de dîner; mais comme on est expéditif dans le
+     besoin, le <persName ref="people.xml#pot01"> prince Potemkine</persName> s’avisa de devenir
+     lui-même chef de cuisine, le <persName ref="people.xml#nas01"> prince de Nassau</persName>
+     marmiton, le grand général Branitski pâtissier, et voilà que depuis le couronnement des deux
+     majestés, elles n’avaient jamais été aussi grandement et aussi mal servies; malgré cela on
+     mangea, on rit et on se contenta d’un dîner tant bon que mauvais. Le lendemain on dîna mieux et
+     le sur lendemain on s’en alla à <placeName ref="places.xml#eka03"> Yékaterinograd</placeName>,
+     où on mit la première pierre pour la bâtisse de cette ville; de là on fut trois jours en chemin
+     pour venir id, où nous sommes depuis quatre jours; aujourd’hui nous avons, lancé trois
+     vaisseaux de guerre à l’eau; c’est le sept-, huit- et neuvième bâti ici; mais que vous dirai-je
+     de tout ce que nous faisons et de tout ce que nous voyons ici?</p>
+    <p><placeName ref="places.xml#khe01"> Kherson</placeName> n’a pas huit ans encore, et elle peut
+     passer pour une des plus belles villes tant militaires que marchandes de l’<placeName
+      ref="places.xml#rus01"> Empire</placeName>; toutes les maisons sont de pierre de taille; la
+     ville a au moins six verstes de long; sa situation, son sol, son climat sont admirables; il y a
+     au moins dix à douze mille habitants de toutes les nations; on peut y avoir tout ce qu’on veut,
+     comme à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>; enfin les soins du
+      <persName ref="people.xml#pot01"> prince Potemkine</persName> ont rendu cette ville et cette
+     contrée, où à la paix il n’y avait pas une cabane, un pays et une ville florissants, et elle le
+     sera bien plus encore d’année en année.</p>
+    <p>Après demain nous prenons le chemin de la <rs ref="places.xml#cri01"> Tauride</rs> avec <rs
+      ref="people.xml#jos01"> M. le comte de Falkenstein</rs>; je ferai partir cette lettre de
+      <placeName ref="places.xml#sev01"> Sévastopol</placeName>, et cela per la curiosità. Dans 15
+     jours nous serons de retour. Tout le monde se porte bien, et nommément le <persName
+      ref="people.xml#seg01"> comte de</persName> Ségur; c’est ce dont vous pouvez assurer sa
+     famille; on prétend savoir ici que le <rs ref="people.xml#seg03"> père</rs> de M. de <persName
+      ref="people.xml#seg01"> Ségur </persName> et M. de Castres sont ou seront renvoyés aussi;
+     cela s'appelle faire maison neuve, ou maison nette.</p>
+    <p>A <placeName ref="places.xml#bak01"> Baktchi-saraï</placeName>, ancienne résidence des kans
+     et dans leur maison, où toute la pacotille des <rs ref="people.xml#cat01 people.xml#jos01">deux
+      Impériales Majestés</rs> est logée, ce 21 mai 1787.</p>
+    <p>Nous avons passé les lignes de <placeName ref="places.xml#per04"> Pérécop</placeName>
+     avant-hier, et hier vers les six heures de l’après-dîner nous sommes arrivés ici tous bien
+     portants et fort gais; pendant tout le chemin nous avons été escortés par des <orgName
+      ref="orgs.xml#tart01"> Tatares</orgName>, et à quelques verstes d’ici nous avons trouvé tout
+     ce qu’il y a de mieux en <rs ref="places.xml#cri01"> Tauride</rs> à cheval. C’était un superbe
+     coup-d’oeil: ainsi précédés, entourés et suivis dans un carrosse ouvert, qui contenait huit
+     personnes, nous sommes entrés à <placeName ref="places.xml#bak01"> Baktchi-saraï</placeName>,
+     et nous sommes descendus tout droit dans la maison des kans; là nous sommes logés entre les
+     minarets et les mosquées où l’on crie, prie, chante et se tourne sur un pied cinq fois dans les
+     vingt-quatre heures. Nous entendons tout cela de nos fenêtres, et comme c’est la fête de
+      <persName ref="people.xml#kon01"> Constantin</persName> et d’ <persName ref="people.xml#ele01"
+      > Hélène</persName> aujourd’hui, nous entendrons la messe dans une cour où l’on a dressé une
+     tente à cet effet. Oh! le singulier spectacle que ce séjour dans cet endroit! Qui? Où? Le
+      <persName ref="people.xml#lig01"> prince de Ligne</persName> dit que ce n’est pas un voyage,
+     mais des fêtes continuelles et variées d’une façon, comme on n’en voit ni peut voir nulle part.
+     Il est flatteur, ce <persName ref="people.xml#lig01"> prince de Ligne</persName>, dira-t-on,
+     mais peut-être n’a-t-il pas tort.</p>
+    <p>Demain nous partons d’ici pour <placeName ref="places.xml#sev01"> Sévastopol</placeName>. Il
+     y a deux ou trois jours que j’ai encore reçu une lettre de <rs ref="people.xml#kar03"> papa de
+      Brunswick</rs> avec les conditions finales en copie, dont il dit avoir envoyé l’original à <rs
+      ref="people.xml#aug01"> sa fille</rs> pour le signer. Il me prie de la conseiller sur ce
+     point; mais quand on a tout réglé, qu’on envoie à signer, qu’est-ce qu’il y a à conseiller? Je
+     suis en <rs ref="places.xml#cri01"> Tauride</rs>, <persName ref="people.xml#aug01">
+      Zelmire</persName> à <placeName ref="places.xml#loh01"> Lohde</placeName>; il faudra au moins
+     encore un mois pour nous concerter; j’attendrai présentement qu’elle me dise à coeur ouvert ce
+     qu’elle en pense, et alors je serai plus à même et à portée de lui dire mon avis. Mais à vue de
+     pays j’entrevois que <rs ref="people.xml#fri06"> son mari</rs> ne lui donnera pas un sou,
+     malgré ses promesses, et que si <rs ref="people.xml#kar03"> papa</rs> ne lui donnera rien, elle
+     n’aura rien; reste à savoir si <rs ref="people.xml#aug01"> ma protégée</rs> sera contente de
+     n’avoir rien, elle, qui présentement a <seg xml:lang="de"> ihr volles Auskommen</seg>. Si elle
+     me dit cela, je ne saurai que lui répondre, à moins que <rs ref="people.xml#kar03"> papa</rs>
+     ne veuille nous promettre qu’en cas que <rs ref="people.xml#fri06"> mari</rs> ne paie pas, <rs
+      ref="people.xml#kar03"> papa</rs> paie notre entretien pour lui, car enfin mourir de faim
+     quand on n’est pas mort de chagrin, est un sort bien triste et désagréable, et je ne serais pas
+     étonnée que l’idée d’un tel avenir seule ne rendît malade ma protégée, d’autant plus qu’elle
+     m’a toujours paru poitrinaire. Adieu, cher <rs ref="people.xml#gri01"> souffre-douleur</rs>,
+     portez- vous bien si vous pouvez, et priez Dieu pour nous. Monsieur <rs ref="people.xml#bez01">
+      factotum</rs> a changé d’avis: il envoie son courrier d’ici, à ce que je crois, non pas de
+      <placeName ref="places.xml#sev01"> Sévastopol</placeName>.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#sev01"> Sévastopol</placeName>, ce <date
+       when-custom="1787-05-23">23 mai 1787</date>. </dateline></opener>
+    <p>Je me suis trompée: M. <rs ref="people.xml#bez01"> factotum</rs> n’a pas envoyé son courrier,
+      <seg xml:lang="it"> ma</seg> l’expédiera d’ici, où nous voilà arrivés hier; morgué, tout ceci
+     ressemble si fort aux rêves des <title ref="works.xml#onetho01"> mille et une nuits</title>,
+     qu’on ne sait si l’on veille ou si l’on rêve. J’ai trouvé ici, où trois ans en arrière il n’y
+     avait rien, une assez jolie ville et une petite flotille assez leste et gaillarde: le port,
+     l’ancrage et le mouillage est naturellement bon, et il faut rendre justice au <persName
+      ref="people.xml#pot01"> pr. Potemkine</persName> qu’il a eu tout ceci montré une grandissime
+     activité et intelligence. La flotte turque, qui est à six cents verstes à peu près d’ici, ne
+     s’est pas montrée encore ; nous verrons si elle fera descente ici pour nous en chasser, comme
+     les gazettes nous l’annoncent. M. le <rs ref="people.xml#jos01"> comte de Falkenstein</rs>
+     paraît être fort content de ce qu’il voit, et le <persName ref="people.xml#lig01"> pr. de
+      Ligne</persName> dit que c’est une fête continuelle. </p>
+    <closer><signed rend="inline">Adieu.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

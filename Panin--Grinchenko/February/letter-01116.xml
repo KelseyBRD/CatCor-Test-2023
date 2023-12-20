@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01116</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01116</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Peter"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-24"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-06"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01116">
+        <body>
+            <opener><salute><persName ref="people.xml#pan01">Никита
+                Иванович!</persName></salute></opener>
+            
+            <p>Письма Ваши мною получены. Я радуюсь, что <persName ref="people.xml#pet04">Его
+                    Высочество</persName> здоров. Естьли то дело, о котором Вы доносите, отнимает y
+                Васъ время отъ важнейших дел, то поручите разобрать оное <persName
+                    ref="people.xml#vya01">Князю Вяземскому.</persName> Естьли Англичане не скоро
+                сюда приедут, то флота уже не застанут, понеже он завтра отправится.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed>
+            <dateline><date when-custom="1764-06-16">16 Июня, <lb/> 1764 г.</date>
+                <lb/>
+                <placeName ref="places.xml#kro01">Кронштат.</placeName></dateline></closer>
+
+        </body>
+    </text>
+</TEI>

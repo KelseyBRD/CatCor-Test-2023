@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09143</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09143</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>Available links to Arndt's work I found referred to selling pages, so I wasn't sure if I should add the entity since I cannot provide the link with the full text of the work</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-07">2023-07-07</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09143"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1792-03-22">1792 г. 22 марта.</date>
+                </dateline>
+            </opener>
+            <p>Пожалуй возвратите <persName ref="people.xml#arn01">Арндту</persName>. <rs ref="people.xml#arn01">Он</rs> в трех местах найдет моих записок, не для внесения в <rs ref="people.xml#arn01">его</rs> сочинение
+                <note type="editorial">
+                    This note refers to <persName ref="people.xml#arn01">Christian Gottlieb von Arndt</persName>'s work <title xml:lang="de">"Über den Ursprung und die verschiedenartige Verwandtschaft der europäischen Sprachen"</title> that was published in Germany after 1818. However, Catherine knew this work in its first version in French under the title <title xml:lang="fr">"Idées sur l'origine et l'affinité des langues"</title>. (
+                    <bibl>
+                        <title ref="works.xml#filolz01">Filologicheskie zaniatiia Ekateriny II</title>
+                        , <biblScope unit="pp">pp. 440.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                , но <seg xml:lang="fr">comme des reflexions qui me sont venues en lisant. Dites <rs ref="people.xml#arn01">lui</rs> de ma part, que j’ai trouvé son ouvrage très intéressant et que la lecture m’en a amuse. Vous pouvez <rs ref="people.xml#arn01">lui</rs> montrer <ref target="letter-09143">ce billet</ref></seg>.</p>
+        </body>
+    </text>
+</TEI>

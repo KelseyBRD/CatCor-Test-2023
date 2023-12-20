@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02828</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02828</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#theatre"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Catherine mentions a Nicolai in Berlin who might reprint her plays, but I’m not totally sure
+     who she is talking about. I think it’s likely Friedrich Nicolai, but it’s unclear.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:29:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02828">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#mos01">Moscow</placeName> ce <date
+      when-custom="1787-07-01">1. Juillet 1787</date>.</dateline></opener>
+   <p>J’ai reçue chemin faisant, Monsieur, votre lettre du 12. Juin, je suis revenue ici le 24. Juin
+    v. st. et demain ou après demain je pars d’ici pour <placeName ref="places.xml#pet01"
+     >Petersbourg</placeName>. Je ne sais pas pourquoi l’on se donne la peine de dire trop de bien
+    et trop de mal de ce <rs ref="events.xml#crime01"> voyage</rs>. Il a été projetté il y a trois
+    ans pour dissiper l’accès d’hypocondrie que votre livre <title ref="works.xml#einsam01"
+     xml:lang="de"> „Von der Einsamkeint"</title> a radicalement dissipé. Je suis partie en hiver
+    pour profiter du trainage, j’ai attendue le printems à <placeName ref="places.xml#kie01">
+     Kiof</placeName>, il a été tardif à venir, je me suis embarqué sur le <placeName
+     ref="places.xml#dni03"> Boristhène</placeName>, parce- que sur un voyage de six mille werstes
+    quelques centaines à faire fort commodément dans un bateau n’est pas une chose à mépriser. De
+    tout cela le monde s’est plu à faire un voyage romanesque, pitoresque, héroico-comique, et à
+    attacher à tout cela une importance que je n’ai jamais pu imaginer qu’il auroit eu. Me voilà
+    revenue et je ne suis pas fâchée du tout d’avoir entrepris ce <rs ref="events.xml#crime01">
+     grand voyage</rs> et de l’avoir presque achevé, sans aucun inconvénient pour qui que ce soit de
+    tous ceux qui sont venus avec moi. J’ai vue les plus beaux pays et les plus beaux climats du
+    monde, j’ai vue partout une très grande quantité de vieillards, ce qui prouve selon moi que ces
+    climats et nommément celui de la <rs ref="places.xml#cri01"> Tauride</rs> n’est pas aussi
+    dangereux qu’on le croit, il est chaud pendant le jour et aseés froid dès que le soleil se
+    couche. Je crois, qu’en buvant du vin modernement et uniquement pour fortifier l’estomac
+    affaibli par les transpirations fréquentes et en se couvrant plus le soir que pendant la
+    journée, on peut éviter les fièvres, dont on s’est plaint jusqu’ici. Ces fièvres sont bileuses,
+    la chaleur est grande, elle impatiente, la moindre chose émeut la bile alors, nous nous fâchions
+    tous pour la moindre bagatelle, et le moment d’après nous nous mocquions de notre colère. À
+     <placeName ref="places.xml#bak01"> Baktschisarai</placeName>, l’ancienne résidence des Khans,
+    il y avoit une mosquée vis à vis mes fenêtres, où cinq fois la journée les imans à grand cris
+    appelloient le peuple à la prière. Je ne sais, si le ciel est sourd à leur prière, mais je sais
+    bien, qu’on voudroit l’être pour ne pas entendre le train qu’ils font dans leurs mosquées, il
+    faut une grande coutume pour supporter les hurlemens de cette force là. Il y en a parmi eux qui
+    tournent jusqu’à s’évanouir en criant Alla hue; ceux ci sont proches de l’inspiration et par
+    conséquent pas fort éloigné des Schamans de <placeName ref="places.xml#sib01"
+     >Sibérie</placeName> et d’<placeName ref="places.xml#ger01">Allemagne</placeName>. Je ne sais,
+    si Nicolai sera assés pour réimprimer au milieu de <placeName ref="places.xml#ber01"
+     >Berlin</placeName> le <title ref="works.xml#siberi01"> Schaman</title>, <title
+     ref="works.xml#deceiv01"> Le trompé</title> et <title ref="works.xml#deceiv02"> Le
+     trompeur</title>. Je pense que ces pièces sont de la contrebande dans l’esprit du tems présent.
+    J’ai vue dans les gazettes d’<placeName ref="places.xml#ham01"> Hambourg</placeName>
+    le dementi que vous avés donné aux magnétiseurs de <placeName ref="places.xml#str01">
+     Strasbourg</placeName> et la mention que vous avés fait dans ce démenti des Schamans
+    de <placeName ref="places.xml#sib01"
+     >Sibérie</placeName>. Je me flate que dans peu on en fera venir de ce pays là dans ceux, où
+    on a un gout si décidé pour cette sorte de charlatans; je puis assurer d’avance qu’ils seront à
+    meilleur marché et qu’on en aura meilleur marché que des <persName ref="people.xml#cag01">
+     Calliostro</persName> et consorts. Mais il y a plus d’une sorte de moulins à vent à la mode et
+    plus d’un <persName ref="people.xml#don03">Don Quichote</persName> aussi qui aime à s’en
+    forger pour les combattre. Les pires de tous sont les moulins à vent politiques et leurs
+    champions, ceux ci soufflent par tout l’animosité, et quand on regarde les choses de près, l’on
+    ne peut pas se dispenser de convenir que ces chimers sont les productions d’une couple de têtes
+    qui les ont inventées pour donner du relief à leur individu qui n’en auroit guère sans cela. Ma
+    santé est meilleure et ma dépense moindre que les gazettes d’<placeName ref="places.xml#hol02"
+     >Hollande</placeName> ne l’annoncent, et je suis remplie d’estime pour vous.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

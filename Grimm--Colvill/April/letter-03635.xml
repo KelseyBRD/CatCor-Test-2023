@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03635</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03635</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:21:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03635">
+  <body>
+  
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date when-custom="1786-07-22">22 juillet
+    1786</date>.</dateline></opener>
+   <p>Le courrier <persName ref="people.xml#kac01"> Kachkine</persName> est arrivé avec tous ses
+    paquets. Je commence par le No 69; puisque vous ne voulez point d’excuse quand je vous donne de
+    la peine, vous n’en aurez plus. Tout ce que vous me dites du <rs ref="people.xml#bob01"> jeune
+     homme</rs> en question ne m’étonne pas, car il appartient à des gens fort singuliers dont il
+    tient beaucoup, mais il ne faut pas qu’il meure de faim par le caprice d’autrui qui n’ont aucun
+    droit sur lui. Il est parfaitement le maître de rester ou de revenir, et quelque parti qu’il
+    prenne, son argent lui sera remis. Ses revenus actuels passent les 37.000 roubles; le capital en
+    est placé aux enfants trouvés. Je ne sais comment il peut ignorer cela, puisque l’année 1782 je
+    lui ai écrit une lettre de ma main pour lui dire à quoi se montait son capital et ses revenus.
+    Ses réflexions sur M. <persName ref="people.xml#bet01"> Betski</persName> sont très justes et
+    judicieuses; je ne sais en quoi celui-ci pourrait dorénavant se mêler de ses affaires, parce que
+    la maison des enfants trouvés doit payer à lui, jeune homme, le revenu de son capital ou à ses
+    commettants. Je vous envoie ci-jointe une note de ce capital et une copie de mes ordres à ce
+    sujet. Le billet ci-joint de <persName ref="people.xml#bet01"> M. Betski</persName> prouve qu’il
+    voulait de rechef le chicaner; j’y ai coupé court en lui écrivant que les intérêts soient
+    envoyés sans chicane et que toute autre mesure serait injuste et n’aurait point mon
+    approbation.</p>
+  </body>
+ </text>
+</TEI>

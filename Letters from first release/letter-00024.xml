@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00024</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00024</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#moscow"/>
+                    <term target="kw.xml#military"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-06">6 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup and annotation.</p>
+            </change>
+            <change>
+                <date when="2015-05-06">6 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00024">
+                <body>
+                    <opener><salute
+                            rend="inline">Граф Петр Александрович,</salute></opener>
+                    <p>При случае отправления сего курьера, который к вам везет разныя мои
+                        разолюции, поспели ко времени и кстати в моих садах тридцать ананасов,
+                        которые к вам посылаю, зная, что вы их любите. Примите сей малый дар, от
+                        добраго сердца происходящий, и прохлаждайтеся ими на здоровье, хотя немного,
+                        после толиких многих и славных ваших трудов во время войны и при заключении
+                        мира таковаго, как еще <placeName ref="places.xml#rus01">Россия</placeName>
+                        не имела. Признаться надобно, сей клейнот вы ей доставили. Плоды онаго
+                        бесчисленны будут, и при каждом имя ваше в незабвенной памяти останется.
+                        Хотя по размене ратификаций, где и как бы оне разменены ни были, я
+                        празднество мира здесь и отправлю, но самое большое празднество означу не
+                        прежде вашего возвращения в отечество, и то на <placeName
+                            ref="places.xml#mos01">Москве</placeName>, дабы мы при оном могли иметь
+                        удовольствие видеть оному виновника. Мой же приезд к <placeName
+                            ref="places.xml#mos01">Москве</placeName> скоро быть не может, ибо у
+                        меня на <placeName ref="places.xml#mos01">Москве</placeName> дворца, после
+                        сгоревшаго во время язвы, нету, а каменный не поспел; но я к построению
+                        деревяннаго все меры теперь беру, и верно сие построение не замешкается.
+                        Нужно мне теперь комплектовать гвардии <orgName ref="orgs.xml#preo01"
+                            >Преображенский полк</orgName>. Желаю, чтоб сие комплектование служило и
+                        к награждению заслуженных солдат армейских полков, и для того прошу вас
+                        приказать выбрать наилучших семьсот человек и прислать их сюда с посланным
+                        для сего <persName ref="people.xml#rak01">капитаном Рахмановым</persName>; в
+                        число сих требую я именно <orgName ref="orgs.xml#star01">Старооскольскаго
+                            полку</orgName>
+                        <persName ref="people.xml#mik01">гренадера Микулина</persName>,
+                        отличившагося при столь многих случаях.</p>
+                    <closer><signed rend="inline">Впрочем остаюсь к вам с отличным
+                            доброжелательством.</signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute
+                            rend="inline">Count Petr Aleksandrovich,</salute></opener>
+                    <p>On the occasion of the sending of this courier, who is bringing you my
+                        various resolutions, on time and opportunely thirty pinapples have riped in
+                        my gardens, and I am sending them to you in the knowledge that you like
+                        them. Accept this small and best-intentioned gift, and cool yourself with
+                        them as you please, at least a bit after so many and glorious labours during
+                        the war and at the conclusion of a peace such as Russia has never known. It
+                        must be recognised that you obtained for her this treasured mark of
+                        distinction. Its fruits shall be innumberable, and with each your name will
+                        be indelibly remembered. At least at the exchange of ratifications, whenever
+                        and wherever they are exchanged, I will celebrate the peace here. But the
+                        biggest celebrations I will not appoint until after your return home to the
+                        fatherland, and that at Moscow, so that on this occasion we might have the
+                        pleasure of seeing its author of it. I cannot go soon to Moscow, for I have
+                        no palace at Moscow after the one that burned during the epidemic, while the
+                        stone one is not yet ready. But I am now taking all measures to have a
+                        wooden one built, and truly this building will not be delayed. I now need to
+                        bring the Preobrazhensky Guards Regiment up to strength. I desire that this
+                        staffing might serve as well to reward the deserving soldiers of the army
+                        regiments, and therefore I ask you to order the best seven hundred men to be
+                        chosen and sent here with Captain Rakhmanov, who has been sent for this
+                        purpose. I demand in particular that Grenadier Mikulin of the regiment of
+                        Staryi Oskol, who has distinguished himself on so many occasions, be of
+                        their number.</p>
+                    <closer><signed rend="inline">Meanwhile I remain with distinguished goodwill
+                            towards you.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

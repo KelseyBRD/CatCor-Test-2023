@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03717</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03717</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-16">16-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:04:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03717">
+  <body>
+   <opener><dateline> Ce <date when-custom="1795-10-23">23 d'octobre</date>.</dateline></opener>
+   <p>J’ai reçu hier le bulletin du 1 (12) d’octobre. Ce n’est pas ma faute si les gens n’ont pas le
+    sens commun. Le <persName ref="people.xml#gus02"> roi de <placeName ref="places.xml#swe01">
+      Suède</placeName></persName> par les intrigues du prince <persName ref="people.xml#hen02">
+     Henri</persName> épouse l’équivalent d’une Guenon; grand bien lui fasse. Ce prince a grand
+    besoin d’appui; on croit lui faire par-là perdre celui de la <placeName ref="places.xml#rus01">
+     Russie</placeName>. Voilà le noeud de l’affaire. Je me réjouis avec vous de la levée du blocus
+    de <placeName ref="places.xml#mai03"> Mayence</placeName>. J’espère que les régicides ne la
+    feront pas longue. Ils ont beau dire et beau faire, ils seront tous exterminés; c’est le cours
+    naturel des choses, qui ne saurait manquer, et avant cela soyez assuré qu’il n’y aura ni paix ni
+    trêve qui puissent durer, car ces scélérats-là ne sauraient tenir rien, et il n’y en a pas deux
+    qui veulent la même chose. <rs ref="people.xml#sop07 people.xml#ant04">Les princesses
+      de <placeName ref="places.xml#sax01"> Saxe-C</placeName></rs>. s’en vont samedi; la <rs
+     ref="people.xml#ann02"> cadette</rs> reste et va demeurer avec les grandes-duchesses <persName
+     ref="people.xml#ale02"> Alexandra</persName> et <persName ref="people.xml#ele01">
+     Hélène</persName>, jusqu’à ses noces, dont le terme n’est pas encore fixé. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien; j’en fais autant. Après demain il y aura
+     une grande mascarade: que n’y venez-vous?</signed></closer>
+  </body>
+ </text>
+</TEI>

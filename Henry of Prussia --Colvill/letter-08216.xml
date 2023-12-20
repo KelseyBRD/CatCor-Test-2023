@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08216</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08216</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#healthpolicy"/>
+     <term target="kw.xml#moscow"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:18:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08216">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1771-09-29">29 septembre 1771</date>.</dateline></opener>
+   <p>La lettre de V. A. R. du 20 septembre est venue très à propos pour soulager la peine que je
+    sentais de deux événements fort désagréables; le premier c’est <rs ref="events.xml#plagu01"> une
+     maladie contagieuse</rs> qui emporte beaucoup de monde à <placeName ref="places.xml#mos01"
+     >Moscou</placeName>, malgré toutes les précautions qu'on ait prises, parce que notre petit
+    peuple ne peut s'accoutumer ni ne se prête, par superstition et par ignorance, aux précautions
+    que demandent de pareilles circonstances. Le comte <persName ref="people.xml#orl01">
+     Orlof</persName>, voyant les progrès rapides de ce mal, m'a demandé en grâce d'y aller, pour
+    voir sur les lieux les arrangements convenables à prendre pour arrêter ce mal. J'ai consenti à
+    cette action si belle et si zélée de sa part, quoique je sente une peine cruelle du danger qu'il
+    va courir. Mais à peine était-il en chemin depuis vingt-quatre heures, que le comte <persName
+     ref="people.xml#sal04"> Soltikof</persName> m’écrivit <rs ref="events.xml#plagu02"> une
+     catastrophe</rs>, occasionée par le fanatisme, qui s'y est passée du 15 au 16 septembre v.
+     <persName ref="people.xml#amb01"> st L'archevêque de <placeName ref="places.xml#mos01"
+      >Moscou</placeName></persName>, ayant appris qu'il y avait depuis quelques jours une grande
+    affluence de populace devant une image qu'on prétendait qui guérissait les malades (qui
+    cependant mouraient aux pieds de l’image) et qu’on y portait beaucoup d'argent, envoya pour
+    premier début cacheter cette caisse. Alors une partie de cette lie du peuple se mit à crier:
+     <persName ref="people.xml#amb01">l’archevêque</persName> veut voler le trésor de Vierge, il
+    faut le tuer! L'autre prit parti pour l’archevêque; des paroles ils en vinrent aux coups. La
+    police voulut les séparer, mais la police ordinaire ne put suffire. Les plus furieux se mirent à
+    courir vers le <placeName ref="places.xml#kre02"> Kremlin</placeName>, ils enfoncèrent les
+    portes du couvent où réside l'archevêque, ils pillèrent le couvent, s'énivrèrent dans les caves
+    où beaucoup de marchands tiennent leurs vins, et n'ayant point trouvé celui qu’ils cherchaient,
+    une partie s’en alla vers un autre couvent, nommé <placeName ref="places.xml#don02">
+     Donskoi</placeName>, d'où ils tirèrent ce <rs ref="people.xml#amb01"> vieillard</rs> et le
+    massacrèrent; l'autre resta à se battre en partageant le butin. Enfjn le lieut. général
+     <persName ref="people.xml#ero01"> Jérapkin</persName>, en absence du maréch. <persName
+     ref="people.xml#sol04"> Soltikof</persName>, arriva au <placeName ref="places.xml#kre02">
+     Kremlin</placeName> avec 30 soldats et ordonna à cette foule de se retirer. Lorsqu'il vit,
+    qu’ils ne faisaient rien et se mettaient sur la défensive, il fit faire feu sur eux, ce qui les
+    dispersa bien vite. Les plus mutins furent pris et beaucoup d'autres tués et blessés.</p>
+   <p>Je détourne les yeux de ces scènes tragiques pour répondre à la lettre de V. A. R. dans
+    laquelle il Lui plaît de me donner des nouvelles marques de Son amitié. Elle ne saurait en
+    témoigner à personne qui en fasse un plus grand cas, c'est ce dont je La prie d'être persuadée.
+    J'espère bien aussi qu'Elle ne doute point de la constance de mon amitié; elle est fondée sur la
+    plus haute estime que j'ai conçue pour Ses vertus; avec ces sentiments on ne change point dans
+    ce monde. Nous aimons tous à nous souvenir du court séjour de V. A. R. en ce pays, ce temps
+    s'est écoulé trop rapidement à notre grand regret, et cet automne, si vilain par lui-même, le
+    devient encore mille fois plus en comparaison de celui de l'année passée où nous nous trouvions
+    si agréablement occupés autour de V. A. R. Si nous avons réussi à Lui faire oublier qu'Elle
+    était au soixantième dégré, nos désirs sont accomplis. Mes craintes étaient toujours que le
+    grand froid ne nuisit à la santé de V. A. R., ce qui faisait que j’aurais eu les plus grandes
+    envies du monde à donner de la confiance aux élèves d'<persName ref="people.xml#hip01"
+     >Hippocrate</persName>. Mais V. A. R., à propos de ces messieurs, oserais-je Lui communiquer
+    mes observations? Nos Esculapes, quelque affairés qu'ils soient, me paraissent se tenir plus
+    droits qu’à l'ordinaire, depuis qu’un de leurs confrères occupe le poste que Vous savez en
+     <placeName ref="places.xml#den01"> Danemarc</placeName>. Il me semble qu’ils auraient grande
+    envie de dire: voilà un pays où le mérite est récompensé, mais ici nous vivrons cent ans et ne
+    parviendrons pas même à être censeurs des livres, malgré notre mérite, et, qui plus est, on
+    se moque un peu de notre art quand nous y mettons plus de notre sainte routine que de
+    jugement. Dans cette supposition j'ai prié le comte <persName ref="people.xml#pan02"
+     >Panin</persName>, leur protecteur, de leur insinuer que, quand j'y verrai jour, je
+    m’emploierai pour ménager à quelqu'un d'eux une place à <placeName ref="places.xml#nap01">
+     Naples</placeName> au défaut de <placeName ref="places.xml#ist01"
+    >Constantinople</placeName>.</p>
+   <p>V. A. R. voudra bien recevoir comme un fait incontestable les assurances de la plus haute
+    considération...</p>
+  </body>
+ </text>
+</TEI>

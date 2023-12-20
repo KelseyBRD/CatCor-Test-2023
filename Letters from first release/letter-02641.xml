@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02641</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02641</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+                <keywords n="war">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+                <keywords n="poland">
+                    <term target="kw.xml#throne"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#relationship"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-20">20 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02641">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1763-09-27"> 27 Septembre v. st.
+                            1763.</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>J'ai appris que Votre Majesté aimait beaucoup les fruits; c'est par cette
+                        raison que je prends la liberté de Lui envoyer des melons d'eau d'
+                            <placeName ref="places.xml#ast01">Astracan</placeName> et de <placeName
+                            ref="places.xml#tsa02">Czaritzine</placeName> et des raisins du premier
+                        de ces endroits que je viens de recevoir, ils sont fort estimés, mais je
+                        crains que les pluies continuelles qui sont tombées depuis le printemps dans
+                        ces provinces ne les aient rendus cette années moins bons que les
+                        précédentes. Votre Majesté trouvera peut-être extraordinaire que je réponde
+                        par un envoi de fruits à sa lettre du six d'Août, où Elle m'annonce l'envoi
+                        du projet de <rs ref="events.xml#pruss01">traité</rs> et à celle du <date
+                            when-custom="1763-09-08">8 Septembre</date> où Elle veut bien me faire
+                        part d'avis également importants. Les petites et les grandes choses ont
+                        souvent la même source, mes melons d'eau partent du même principe que notre
+                        projet d'alliance et les avis de Votre Majesté: c'est l'amitié sincère que
+                        je désire d'entretenir avec Votre Majesté qui me fait saisir avec
+                        empressement les occasions de Lui témoigner mes attentions. Votre Majesté
+                        est trop éclairée pour se tromper. Elle me rend justice en croyant que le
+                        premier de mes motifs est de rendre durable la paix en <placeName
+                            ref="places.xml#eur01">Europe</placeName> le plus longtemps que je le
+                        pourrai. Je ne doute pas que les Saxons ne fassent leur possible pour
+                        expliquer en mal toutes mes actions, et particulièrement à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName>, mais il y a grande
+                        apparence qu'ils ne réussiront<note type="editorial">Corrected from source
+                            text, which reads "réussirent".</note> pas, mes intentions sont trop
+                        nettes et trop désintéressées pour que le temps n'amène la vérité et ne
+                        convainque le monde entier que je n'ai d'autre but que le bonheur de mes
+                        sujets, et de vivre en paix et bonne intelligence avec tous mes voisins.
+                        C'est ainsi que le plus doucement possible, à l'aide de Votre Majesté, nous
+                        ferons, le cas existant, un roi de <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>. Mes troupes étant sorties de la <placeName
+                            ref="places.xml#lit01">Lithuanie</placeName> pour rentrer dans leurs
+                        quartiers, il est à croire que toutes clameurs cesseront. Je ne m'étonnerais
+                        point si la cour de <placeName ref="places.xml#vie01">Vienne</placeName>
+                        observait d'un oeil extrêmement curieux mes démarches, la nature des choses
+                        dans le moment présent doit amener cette défiance, surtout en le comparant
+                        au passé. Je ne parle point à Votre Majesté de l'<rs type="event"
+                            ref="events.xml#biron01">affaire</rs> de <placeName
+                            ref="places.xml#cou01">Courlande</placeName> parce que je la compte
+                        finie. </p>
+                    <closer>
+                        <signed>Mais je ne saurais cesser sans l'assurer que je suis avec la plus
+                            haute considération, Monsieur mon Frère, de Votre Majesté, la bonne
+                            Soeur
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

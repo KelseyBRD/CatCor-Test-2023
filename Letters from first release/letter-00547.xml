@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00547</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00547</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-02-07">07 February 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00547">
+                <body>
+                    
+                    <p>Vous m'aves pour une action au fond estimable, mis le poignard dans le sein
+                        car Vous m'aves dit qu'une action pareille de ma part diminuait Votre amour
+                        pour moi. Ma foi! s'il n'est pas bien leger cet amour, il n'y a pas la de
+                        quoi, car je n'ai rien fait du tout qui puisse Vous offenser ni ne ferai, ni
+                        n'ai l'idee de faire, malgre tout ce que Votre esprit vif et ombrageux
+                        pourra Vous faire imaginer avec Votre fougue ordinaire; mais quoi que Vous
+                        disies, je ne m'alarme pas sur Votre compte; je sais fort bien qu'a tout
+                        moment Vous me temoignes en parole peu d'estime et d'egard, mais en effet
+                        Vous en aves beau-coup dans Votre esprit et dans Votre coeur pour moi; je ne
+                        me repents point d'avoir ecrit cette lettre, mais je suis sensiblement
+                        affligee de l'effet qu'elle a fait sur Vous et je prevois que Vous me
+                        punisses suffisamment en rabachant continuellement cette matiere avec toutes
+                        les imprecations imaginable; comme de coutume, je me soumets avec
+                        resignation, courage et patience. Allons, commences! Il n'y a qu'un point
+                        que je ne saurois supporter, c'est si reellement Vous cessies de
+                        m'aimes.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02995</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02995</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#summer"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-05">05/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:05:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02995">
+  <body>
+  
+   <opener><dateline>A <placeName ref="places.xml#pet01"> Pétersboorg</placeName>, ce <date when-custom="1777-09-10">10 septembre
+    1777</date>, à 8 h. du matin, un dimanche.</dateline></opener>
+   <p>Ah! la bonne journée pour recevoir de vos lettres et pour y répondre! la vôtre, commencée le
+    16, finie le 20 auguste à <placeName ref="places.xml#cop01">Copenhague</placeName>, m’a été apportée par un postillon, qui de la
+    maison de poste à la mienne est venu en bâteau, oui, en bâteau. Je suis bien aise d’être revenue
+    hier à midi de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName> en ville; il faisait un très beau temps; mais je
+    disais: oh, il y aura de l’ouragan, car le prince <persName ref="people.xml#pot01">
+     Potemkine</persName> et moi, nous faisions le soir assaut d’imagination. Réellement, à dix
+    heures du soir voilà le vent qui commence par ouvrir avec fracas une fenêtre dans ma chambre :
+    il pleuvait un peu, et depuis ce moment il a plu toute sorte de choses: des tuiles, des plaques
+    de fer, des vitres, de l’eau, de la grêle, de la neige. J’ai dormi très profondément; je me suis
+    réveillée à cinq heures par un coup de vent; j’ai sonné, on est venu me dire que l’eau était à
+    ma porte et demandait à entrer; j’ai dit: si c’est comme cela, envoyez retirer les sentinelles
+    qui sont dabs les petites cours, pour qu’elles ne périssent en lui disputant le passage.
+    Aussitôt dit, aussitôt fait. J’ai voulu voir les choses de plus près; je m’en suis allée à
+     <placeName ref="places.xml#her01"> l’hermitage</placeName>; elle (sic) et la <placeName
+     ref="places.xml#nev01"> Néva</placeName> ressemblaient à la destruction de <placeName
+     ref="places.xml#jer01"> Jérusalem</placeName>: le quai, qui n’est pas achevé, était couvert de
+    vaisseaux marchands à trois mâts; j’ai dit: «bon Dieu! la foire a changé de place; il faudra que
+    le <persName ref="people.xml#mun01"> comte Munich</persName> établisse la douane là où était le
+    théâtre de <placeName ref="places.xml#her01">l’hermitage</placeName>. Que de vitres cassées!
+    que de pots de fleurs de renversés! Et apparemment pour tenir compagnie aux pots de fleurs, j’ai
+    trouvé ceux de porcelaine des cheminées étendus sur lés planchers et les canapés. <seg xml:lang="de">Ja, das war eine Wirtschaft, und wazu ist das wohl
+     nut?</seg> Mais est-il question dé cela? Pas une dame n’aura son perruquier ce matin, et vous
+    verrez que la messe sera vide, et le jour de cour désert. A propos de cela, le dessert du bailli
+    de <persName ref="people.xml#bre01"> Breteuil</persName>, qui est arrivé depuis longtemps et qui
+    se repose de ses risques et fatigues, en entier, sans être fêlé ni brisé, ni en entier ni en
+    partie, dans la dernière chambre de l’hermitage, cette nuit a pensé avoir sa part du sabbat des
+    vents, car une grande croisée a donné le néz par terre à côté de la table bien solide où il
+    était exposé; ce qui a fait que le vent en a arraché le taffetas qui le couvrait, mais le
+    dessert jusqu’ici est sain et sauf.</p>
+   <p>Continuation, en sortant de la messe.</p>
+   <p>Je dîne chez moi; l’eau a diminué et, comme vous savez, je ne suis point noyée; mais peu de
+    monde encore sort de ses tanières. J’ai vu arriver un de mes valets de chambre dans un carrosse
+    anglais; l’eau couvrait l’essieu de derrière du carrosse, et son valet, qui se tenait par
+    derrière, avait les pieds dans l’eau. Mais c’est assez parler eau; il faudrait y mêler du vin,
+    toutes mes caves sont inondées, et Dieu sait ce qui en sera. Vous êtes un ingrat; tous les rois
+    de votre connaissance vous traitent à gogo, et vous n’avez point voulu voir les <persName ref="people.xml#chr01">royautés du <placeName ref="places.xml#den01">Danemark</placeName></persName>: y aurait-il
+    du nez à cela? Le <persName ref="people.xml#che03"> comte Tschemichef</persName> dit que cela
+    est fâcheux. </p>
+   <closer><signed rend="inline">Adieu, quatre pages doivent suffire pendant une inondation qui diminue
+    d’heure en heure.</signed></closer>
+  </body>
+ </text>
+</TEI>

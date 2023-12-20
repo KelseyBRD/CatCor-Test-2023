@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03581</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03581</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-25">25/03/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:50:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03581">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1780-11-07">7 novembre 1780</date>.</dateline></opener>
+   <p>Depuis plusieurs jours occupée, à toutes les heures de loisir, à contempler les dessins
+    de <persName ref="people.xml#cle01">Clérisseau</persName>, et ne me lassant point de les voir, ma tête s’en échauffe; elle
+    désire, si vous n’y trouvez rien à opposer ni à redire, que vous ayez la bouté de lui proposer,
+    si vous ne trouvez point la proposition ridicule, qu’il me fasse le dessin d’une porte de la
+    ville de <placeName ref="places.xml#pet01"> Pétersbourg</placeName> sur le chemin
+    de <placeName ref="places.xml#mos01">Moscou</placeName>. C’est de cette porte-là que je suis partie pour mon couronnement; c’est
+    d’elle encore que j’ai fait mon entrée après ce couronnement. Ce n’est pas que je désire qu’elle
+    fût couverte de bas-reliefs qui désignent tout cela, mais c’est seulement pour donner à
+    connaîtra à une excellente tête, comme l’est celle de <persName ref="people.xml#cle01">Clérisseau</persName>, qu’une porte qui
+    mène d’une capitale à l’autre est sujette à être passée et repassée dans des occasions
+    solennelles, comme celles que je viens de désigner. Si vous lui en faites la proposition et
+    qu’il l’accepte, je ne m’arrêterai pas aux dessins: je lui demanderai tout net un modèle fait
+    sous ses yeux avec toutes les dimensions, et vous pouvez lui dire que nous bâtissons ici en
+    granit ou pierre de quai et en marbre, que c’est un plaisir, que la porte du chemin de
+     <placeName ref="places.xml#liv02"> Livonie</placeName> est en granit et qu’ainsi il ne se gêne
+    point pour les matériaux. J’ai outre <persName ref="people.xml#qua01"> Quarenghi</persName> et
+     <persName ref="people.xml#tro04"> Trombara</persName> un anglais nommé <persName
+     ref="people.xml#cam01"> Kameron</persName>, qui a été longues années à <placeName ref="places.xml#rom03">Rome</placeName>, a
+    étudie l’architecture, qui est chargé des bâtisses de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, qui est rempli
+    de vénération pour <persName ref="people.xml#cle01">Clérisseau</persName>: ainsi il ne nous manquera pas d’exécuteurs. Oui,
+    mais ceci ne suffit pas: les têtes s’échauffent lorsqu’elles trouvent des matières qui mettent
+    le feu à l’imagination. Que M. <persName ref="people.xml#cle01">Clérisseau</persName> laisse aller la sienne et qu’il nous
+    donne la façade du palais dont il a bien voulu nous envoyer le plan, qui a donné lieu à divers
+    mésentendus. Ou, s’il aime mieux, qu’il me trace un palais: je ne lui demande que la façade, car
+    chacun habite à sa façon. Morgué, j’aurais bien d’autres prières à lui faire, mais je n’ose :
+    c’en est bien assez. Je n’ose souffler d’un ou deux appartements à sa façon dans le grand goût.
+     <seg xml:lang="it"> Basta</seg>. Monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs>, remerciez Dieu de ce que je ne
+    vous en dis pas plus, car la fermentation causée par les dessins <persName ref="people.xml#cle01">Clérisseau</persName> est
+    grande. </p>
+   <closer><signed rend="inline">Bonsoir, dormez bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

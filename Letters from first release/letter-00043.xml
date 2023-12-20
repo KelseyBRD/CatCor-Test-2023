@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00043</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00043</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-22">22 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-09-01">1 September 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-05-25">25 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <opener><salute rend="inline">Граф Алексей
+                        Григорьевич.</salute></opener>
+                    <p>23 числа сего месяца приехал ко Мне <persName ref="people.xml#rum02">граф
+                            Михайла Петрович Румянцов</persName> с радостным таковым от <rs
+                            ref="people.xml#rum01">отца его</rs> известием, что 10 числа сего же
+                        июля, в фельдмаршальском стану, присланными от <rs ref="people.xml#mus04"
+                            >визиря</rs> из <placeName ref="places.xml#shu01">Шумлы</placeName>
+                        двумя уполномочными, а именно: <rs ref="people.xml#efe01">рейс
+                            еффендием</rs> и <rs ref="people.xml#efe02">Нишанджи пашею</rs>,
+                        подписан <rs ref="events.xml#kuchu01">мир</rs>, который со стороны <rs
+                            ref="people.xml#rum01">фельдмаршала</rs>, когда <persName
+                            ref="people.xml#obr01">господин Обресков</persName> из <placeName
+                            ref="places.xml#rom01">Романова</placeName> в <placeName
+                            ref="places.xml#kuc01">Кучук-Кенерджи</placeName>, двенадцать верст за
+                            <placeName ref="places.xml#sil01">Силистрию</placeName>, не успел
+                        приехать, <persName ref="people.xml#rep01">князем Николаем Вас.
+                            Репниным</persName> пятеры сутки трактован был. Кондиции главныя сего
+                        мира увидите из приложенной копии фельдмаршальскаго письма ко Мне. Третьяго
+                        же дня, при выходе Моем из кареты, здесь, куда Я приехала для празднования
+                        дня <persName ref="people.xml#pan03">св. Пантелеймона</persName>, патрона
+                        здешней церкви, Я получила другаго курьера от <rs ref="people.xml#rum01"
+                            >фельдмаршала</rs> с тем, что ратификация визирская воспоследовала в
+                        пятеры же сутки. И так с сем радостным приключением вас ото всего сердца
+                        поздравляю, и вас уведомляю, дабы вы, в силу данныя вам инструкции, могли
+                        брать все надлежащия и потребныя меры к возвращению флота, вам ввереннаго, в
+                        Наши пристани, в чем совершенно полагаюсь на испытанное ваше ко Мне усердие.
+                        Самаго же мирнаго трактата, ниже копии с него Я еще не имею, но к пятому или
+                        шестому августа месяца ожидаю <persName ref="people.xml#rep01">князя
+                            Репнина</persName>, который его сюда везет. <rs ref="people.xml#mus04"
+                            >Визирю</rs> приходило горько: он был отовсюду отрезан и не имел ни
+                        провианта, ни фуражу в <placeName ref="places.xml#shu01">Шумле</placeName> и
+                        янычары попригражвали его; и так он нашелся в таких обстоятельствах, что и
+                        во время трактования мира, хотя кажется и не мешкатно поступали, но он еще
+                        двойжды присылал сказать своим полномочным, чтобы скорее кончили. К сему не
+                        мало служило и сие, что <persName ref="people.xml#zab01"
+                            >Заборовский</persName>, в ста двадцати верстах от <placeName
+                            ref="places.xml#edi01">Адрианополя</placeName>, разбил турецкий корпус и
+                        пашу в плен взял. Об <rs ref="events.xml#pugac01">пугачевских
+                            обстоятельствах</rs> только теперь сие вам скажу, что <persName
+                            ref="people.xml#pot02">Павел Потемкин</persName>, после последней той
+                        шайкой большой проказы, его совершенно разбил, и <rs ref="people.xml#gon01"
+                            >один чугуевский ротмейстер</rs>, с командою, за <rs
+                            ref="people.xml#pug01">самым бездельником</rs> увязался, чтоб его
+                        поймать. И так, с помощью Всевышняго, надеяться можно, что и сии хлопоты в
+                        скором времени окончатся.</p>
+                    <closer><signed rend="inline">Поручая вас руководству Всевышняго, пребываю к вам
+                            непременно доброжелательна.<persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                        <dateline>Из <placeName ref="places.xml#ora01">Ораниенбаума</placeName>.
+                                <date when-custom="1774-07-28">Июля 28 ч. 1774
+                        г.</date></dateline></closer>
+                    <postscript>
+                        <p>Вчерашний день здесь у Меня ужинал весь дипломатический корпус и любо
+                            было смотреть, какия были рожи на друзей и недрузей; а прямо рады были
+                            только датский да <rs ref="people.xml#gun01">английский</rs>. В
+                                <placeName ref="places.xml#rus01">России</placeName> же повсюду
+                            радость весьма приметна; в простом народе говорят, что Турки поддались.
+                            Прощайте и будьте здоровы и веселы; Я же здорова. <rs
+                                ref="people.xml#rum02">Сына</rs>
+                            <persName ref="people.xml#rum01">графа Румянцова</persName> Я брякнула
+                            из полковников в генерал-майоры.</p>
+                    </postscript>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Aleksey
+                        Grigorevich.</salute></opener>
+                    <p>On the 23rd of this month Count Mikhail Petrovich Rumyantsev brought Me the
+                        joyous news from his father that on the 10th of this month of July, in the
+                        Field Marshal's camp, a peace treaty was signed by the two plenipotentiaries
+                        sent by the vizier from Shumla, namely the Reis Effendi and the Nishanji
+                        Pasha. The peace was negotiated in five days on the side of the field
+                        marshal by Prince Nikolay Vas. Repnin, when Mr. Obreskov had not yet managed
+                        to travel from Romanovo to Kuchuk Kainardzhi, which is twelve versts past
+                        Silistra. You will see the main conditions of this peace from the enclosed
+                        copy of the Field Marshal's letter to Me. The day before yesterday, as I was
+                        getting out of My carriage here, whither I arrived to celebrate the feast of
+                        St. Panteleimon, the patron of the local church, I received another courier
+                        from the Field Marshal that the vizier's ratification had followed five days
+                        later. And thus I congratulate you with all my heart on this joyous event,
+                        and I inform you so that you might, by force of the instructions given to
+                        you, take all appropriate and necessary measures to return to our pier the
+                        fleet entrusted to you. In this I rely fully on your proven zeal towards Me.
+                        I do not even have a copy of the peace treaty itself yet, but I expect
+                        Prince Repnin, who is bringing it here, by the fifth or sixth of the month
+                        of August. It was hard going for the vizier: he was cut off on all sides and
+                        had neither provisions nor fodder in Shumla, and the janissaries were
+                        threatening him a bit. And thus he found himself in such circumstances that
+                        even during the negociation, although it seems that they did not dawdle, he
+                        twice sent word to his plenipotentiaries that they hurry up and finish. It
+                        also helped not a little that, one hundred twenty versts from Adrianople,
+                        Zaborovsky crushed a Turkish corps and took a pasha prisoner. For now I will
+                        tell you only this about the Pugachev situation: after that gang's last
+                        major mischief, Pavel Potemkin completely crushed him, and one cavalry
+                        captain from Chuhuiv and his detachment went after the good-for-nothing
+                        himself to catch him. And thus, with the help of the Most High, we may hope
+                        that these troubles too will soon end.</p>
+                    <closer><signed rend="inline">Entrusting you to the care of the Most High, I
+                            remain unfailingly well-wishing towards you.<persName
+                            rend="right">Ekaterina.</persName></signed>
+                        <dateline rend="left">From <placeName ref="places.xml#ora01"
+                                >Oranienbaum</placeName>. <date rend="below"
+                                when-custom="1774-07-28">July 28, 1774</date></dateline></closer>
+                    <postscript>
+                        <p>Yesterday the whole diplomatic corps dined with Me, and it was a fine
+                            sight to see the mugs on our friends and enemies. Only the Dane and the
+                            Englishman were truly pleased. In Russia, though, joy is everywhere most
+                            visible. The common people say that the Turks surrendured. Farewell and
+                            be well and happy; for Myself, I am well. I flung Count Rumyantsev's son
+                            straight from a colonel to a major-general.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

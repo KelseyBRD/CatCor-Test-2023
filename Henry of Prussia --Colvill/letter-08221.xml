@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08221</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08221</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#education"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:19:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08221">
+  <body>
+   <opener><dateline> ce <date when-custom="1772-05-07">7 mai v. st. 1772</date>.</dateline></opener>
+   <p>Je crois ne pouvoir mieux répondre à la lettre qu'il a plu à V. A. R. de m'écrire le 23
+    d’avril qu'en Lui parlant d'une chose qui, je me flatte d'après toutes les amitiés qu'Elle me
+    témoigne, ne Lui sera pas indifférente. Mes <rs ref="people.xml#orl01 people.xml#obr01">
+     plénipotentiaires</rs> pour le congrès de paix sont en chemin depuis dix jours. Les bons
+    offices et l'amitié du <persName ref="people.xml#fre01"
+      >Roi</persName>, Votre frère, ont porté les choses jusque-là. Messieurs les Autrichiens
+    au reste paraissent avoir assez d'intérêt à agir de bonne foi, pour qu'il n’y ait pas lieu
+    d'appréhender de grandes traverses. Il est à présumer que la belle humeur du Sultan n'augmentera
+    pas lorsqu'il s'apercevra qu'il en est pour ses <rs ref="events.xml#austr01"> millions</rs>, si
+    joliment escamotés l'année passée.</p>
+   <p>Tandis que tant de scènes nouvelles vont occuper l'<placeName ref="places.xml#eur01"
+     >Europe</placeName>, je plante mes choux tout doucement à <placeName ref="places.xml#tsa01">
+     Tsarskœ-Sélo</placeName>, où <rs ref="people.xml#pau01"> mon fils</rs> viendra me trouver dans
+    peu, et ce sera à qui des deux parcourra le plus les défilés que j’appelle mon jardin. Depuis
+    que j'y suis, je ne saurais y voir venir personne de ceux qui y ont accompagné V. A. R., sans
+    que cet agréable souvenir ne fasse une grande partie de notre entretien. Avant de partir pour la
+    campagne, j'ai été visiter les établissements d’éducation, dont V. A. R. a la bonté de faire
+    mention dans Sa lettre. J'avoue que les filles passent nos espérances, je n'ose dire qu’elles
+    sont charmantes, mais elles me le paraissent. J'attendrai, pour fixer mon jugement, qu'un jour
+    V. A. R. en décide. En attendant ce moment désiré, Elle voudra bien être persuadée de la haute
+    considération. . . .</p>
+   <postscript><p>P. S. Au moment que j'achevais cette lettre je reçois celle de V. A. R.
+    du 2 de mai. Je Lui fais mille remercîments pour tout ce qu'Elle me dit d'obligeant sur ce jour
+    qui a vu naître, il y a près d'un demi-siècle, la personne du monde qui a pour V. A. R. l'amitié
+    la plus sincère et qui connaît le plus le prix de la sienne.</p></postscript>
+  </body>
+ </text>
+</TEI>

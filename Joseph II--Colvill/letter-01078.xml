@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01078</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01078</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:24:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01078">
+  <body>
+
+   <opener><dateline> A la hauteur <placeName ref="places.xml#orl01"> d’Orlik</placeName> sur le
+      <placeName ref="places.xml#dni03"> Dnepr</placeName>, ce <date when-custom="1787-05-05">5 mai
+      1787</date>.</dateline></opener>
+   <p>Depuis que je sais que Monsieur le <rs ref="people.xml#jos01"> comte de Falkenstein</rs> a
+    passé <placeName ref="places.xml#myr01"> Mirgorod</placeName>, mon impatience, mon inquiétude
+    augmentent d’un moment à l’autre, d’autant plus qu’il n’est dans aucune puissance humaine de
+    vaincre les obstacles que m’opposent une navigation contrariée par les sinuosités continuelles
+    d’une rivière remplie d’écueils et de courants. Outre cela nous sommes harcelés par des bouffées
+    de vents qui ne nous favorisent aucunement. A <placeName ref="places.xml#kie01">
+     Кіоw</placeName> j’avais compté tout au plus trois à quatre jours de traversée jusqu’à
+     <placeName ref="places.xml#kre01"> Krementschouk</placeName>; au lieu de cela j’en ai employé
+    neuf. Dans tout autre temps je m’amuserais des obstacles que m’opposent les éléments; je les
+    regarderais comme un grand spectacle, mais dans celui-ci j’en suis sincèrement affligée, parce
+    que non seulement ils retardent le bonheur qui m’attend à <placeName ref="places.xml#khe01">
+     Cherson</placeName>, mais encore l’événement n’ayant pas justifié mon compte, je suis la cause
+    du séjour prolongé et de l’ennui auquel Monsieur le <rs ref="people.xml#jos01"> comte de
+     Falkenstein</rs> sera exposé dans cette ville pendant plusieurs jours. Il ne me reste rien à
+    faire, si non d’avoir recours à vos vertus, a l’indulgence, mais surtout à l’amitié de mon
+    meilleur ami et allié. Daignez m’excuser, ma faute est involontaire! Si je pouvais, je volerais
+    au-devant de celui duquel je suis avec tous les sentiments de la plus liante considération, de
+    l’amitié la plus sincère et de l’estime la plus parfaite ....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09013</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09013</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09013">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1786-04-21">1786 г. апреля 21.</date>
+                </dateline>
+            </opener>
+            <p>Первое действие служит к показанию умоначертания действующих лиц; второе к продолжению умоначертания и к начатию <seg xml:lang="fr">sujet</seg>, о чем дело идет; третье—к продолжению <seg xml:lang="fr">sujet</seg>-а и к начатию, что называют амброглио
+                <note type="editorial">
+                    Catherine misspells (probably being influenced by French pronunciation) Italian word "imbroglio", which denounces an intricate or complicated situation in a play.
+                </note>; четвертое— к амброглио; пятое—<seg xml:lang="fr">catastrophe</seg>, или окончание.
+            <note type="editorial">
+                <bibl>
+                    <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title> (
+                    <biblScope unit="pp">pp. 9.</biblScope>)
+                </bibl>
+                suggests that in this letter Catherine is writing about the opera <title ref="works.xml#feveyo01">"Fevey"</title>. According to A.V. Khrapovitskii's diary, <rs ref="works.xml#feveyo01"> this opera</rs> was first staged at <orgName ref="orgs.xml#impe01">Bolshoi Kamenny Theater</orgName> on <date when-custom="1786-04-19">April 19 1786</date>, then at the <placeName ref="places.xml#her01">Hermitage</placeName> on <date when-custom="1786-04-22">April 22 1786</date> (
+                <bibl>
+                    <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                    , <biblScope unit="pp">pp. 4.</biblScope>
+                </bibl>
+                ).
+            </note>
+            </p>
+        </body>
+    </text>
+</TEI>

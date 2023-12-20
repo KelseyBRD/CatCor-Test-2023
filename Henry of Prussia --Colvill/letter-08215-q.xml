@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08215</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08215</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify Souchatin or the river Riem; Also not sure what is meant by Phare de
+     Messine – I think it could be a lighthouse that used to be in the waterway between Messina and
+     Calabria in Italy/Sicily, but I’m not confident in this</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-01">01-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:17:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08215">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+     when-custom="1771-08-16">16/27 d'août 1771</date>.</dateline></opener>
+   <p>J'ai devant mes yeux les deux lettres que V. A. R. a bien voulu m'écrire le 19 de juillet et
+    le 9 d'août. Remplies des témoignages de Son amitié, comme elles le sont, elles ne pouvaient que
+    m'être chères et agréables. J'étais bien persuadée de la part que V. A. R. a prise aux
+    inquiétudes que m’a causées la terrible maladie de <rs ref="people.xml#pau01"> mon fils</rs>; je
+    connais la bonté de Son âme. Mes appréhensions sont passées, Dieu merci; aux forces près, <rs
+     ref="people.xml#pau01"> mon fils</rs> est rétabli et il est grandi singulièrement; mais à
+    présent nous avons à le préserver de l'abus des conseils de Salomon, dont j’ai fait mention ce
+    printemps à V. A. R. dans ma lettre de <placeName ref="places.xml#tsa01">
+     Tsarskoe-Sélo</placeName> à laquelle il Lui a plu de me faire la réponse du monde la plus
+    flatteuse. Je remercie bien sincèrement V. A. R. des compliments qu’Elle me fait sur la campagne
+    du prince <persName ref="people.xml#dol04"> Dolgorouki</persName>. Il a employé précisément
+    quinze jours à la prise de la <placeName ref="places.xml#cri01">Crimée</placeName>. En
+    m'annonçant celle de <name ref="events.xml#kafa01"> Kafa</name> il m'écrivit qu'il voyait avec
+    regret le peu d'étendue de la presqu'île, et que sa campagne allait finir au milieu de la belle
+    saison. J'ai vu des lettres particulières de cette armée remplies pareillement de regrets qu'il
+    n'y avait plus rien à faire. En attendant que cette armée rentre dans ses quartiers, les
+     <orgName ref="orgs.xml#tart01"> Tartares</orgName> se sont amusés à élire un nouveau Chan, et
+    ils m'envoient une ambassade pour me demander ma confirmation. V. A. R. trouvera peut-être que
+    cela me donne un faux air du <persName ref="people.xml#mus01">Moustapha</persName>. Ma cour
+    commence en effet à ressembler à la sienne, il y a deux Seraskiers, des Bachas et Pachas en
+    quantité, des chambellans du <persName ref="people.xml#mus01"> Sultan</persName>, des députés de
+    tous les originaux possibles, et jusqu'aux chefs de la Morée. Il n'y manque qu'un mufti et un
+    vézir. Je conseillerais au sultan de donner cette dernière fonction à son médecin, il guérirait
+    peut-être l'état radicalement, cela n'est plus sans exemple, témoin ce qui vient d'arriver
+     en <placeName ref="places.xml#den01">Danemark</placeName>.</p>
+   <p>La perte de <placeName ref="places.xml#giu01"> Gourgi</placeName> a donné lieu à bien des
+    contes ridicules, parmi lesquels il faut ranger la prétendue défaite du prince <persName
+     ref="people.xml#rep01"> Repnin</persName>, tandis que la cause réelle en est la lâcheté du
+    commandant, il a imité Mr. de <persName ref="people.xml#jan03"> Jansac</persName>, auquel le
+     <persName ref="people.xml#noa03"> maréchal de Noailles</persName> avait confié <placeName
+     ref="places.xml#lau02"> Lauterbourg</placeName> dans la guerre de 1742. Je ne crois pas que
+    cette place soit reprise avant l'automne, toutes les rivières sont débordées.</p>
+   <p>Je prends la liberté d'envoyer à V. A. R., pour compléter Son cabinet, la médaille que
+    l'amirauté a fait frapper pour le comte <persName ref="people.xml#orl03"> Alexis
+     Orlof</persName> au sujet de la <rs ref="events.xml#chesm01"> victoire navale</rs> qu'il a
+    remportée près de <placeName ref="places.xml#che02"> Tchesmé</placeName>. Je n'ai point encore
+    de ses nouvelles depuis qu'il a passé le fare de Messine. Le général major Souchatin qui a
+    relevé le comte <persName ref="people.xml#tot02"> Tottleben</persName> en <placeName
+     ref="places.xml#geo01"> Géorgie</placeName> me mande qu'il marche vers <placeName
+     ref="places.xml#pot02"> Poti</placeName>, port sur la <placeName ref="places.xml#bla01"> mer
+     noire</placeName>, et que les quatre princes de la <placeName ref="places.xml#geo01">
+     Géorgie</placeName> vont marcher avec lui. Mr. Souchatin pourra fournir au prince <persName
+     ref="people.xml#dol04"> Dolgorouki</persName> des citrons qui croissent sur les rives du fleuve
+    Riem pour manger les huîtres de <placeName ref="places.xml#feo01"> Kafa</placeName>, et ce sera
+    une chose nouvelle qu'un paquet-boot entre <placeName ref="places.xml#pot01"> Poti</placeName>
+    et <placeName ref="places.xml#feo01"> Kafa</placeName>, pour établir la communication par eau
+    entre la <placeName ref="places.xml#geo01"> Géorgie</placeName> et la <placeName
+     ref="places.xml#cri01">Crimée</placeName> sous la protection du vice-amiral <persName
+     ref="people.xml#sen01"> Sinevin</persName> qui est arrivé avec sa flotille d'<placeName
+     ref="places.xml#azo01"> Azof</placeName> à <placeName ref="places.xml#jen01">
+     Jénikoul</placeName>. Quoique tout cela est très joli, j'espère que V. A. R. me fait la justice
+    de croire qu'aucun succès, quelque brillant qu'il soit, ne saurait diminuer mes désirs sincères
+    de voir la paix rétablie, aussi n'est ce pas ma faute, si elle ne l'est déjà.</p>
+   <p>Quelque éloignées que soient de moi les frontières du <placeName ref="places.xml#mec02">
+     Mecklembourg</placeName>, je prie V. A. R. de croire que la distance des lieux ne saurait
+    effacer l'estime, l'amitié et la haute considération que j'aies pour Elle, et que <rs
+     ref="events.xml#henry01"> Son séjour</rs> en ce pays a gravées ineffaçablement dans mon
+    âme, étant...</p>
+  </body>
+ </text>
+</TEI>

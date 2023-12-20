@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03641</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03641</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-23">23-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:51:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03641">
+  <body>
+
+   <opener><dateline> De <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1786-12-17">17 décembre 1786</date>.</dateline></opener>
+   <p>J’ai reçu consécutivement vos No No 76 et 77 par <persName ref="people.xml#bac01">
+     Bacchus</persName>, auxquels je trouve qu’il n’y a rien à répondre, monsieur le <rs
+     ref="people.xml#gri01"> souffre-douleur</rs> ayant arrangé le tout admirablement bien. Si vous
+    entamez monsieur l’habit rouge, vous trouverez à qui parler; allez votre train, vous en
+    entendrez parler. Dans quinze jours nous partons pour <placeName ref="places.xml#kie01">
+     Kiovie</placeName>, et quand vous recevrez ceci, nous serons bien près de là. Or je vous avoue
+    que je voudrais déjà y être, parce qu’un conflit de choses au moment de mon départ ne me laisse
+    pas un instant à moi et à ce que je voudrais faire. Entre autres les affaires de <persName ref="people.xml#aug01">
+    Zelmire</persName> en sont à toute extrémité, et il y a toute apparence que dans une couple de jours je
+    m’adresserai à son <persName ref="people.xml#kar03"> père</persName> en droiture. J’ai depuis
+    huit jours une espèce de fièvre quand je pense à elle; après cela dites, si vous pouvez, que je
+    ne m’intéresse pas au sort d’autrui. </p>
+   <signed rend="inline">Adieu et bon soir.</signed>
+   <postscript><p>Description métaphysique, physique et morale de l’ <rs ref="people.xml#dmi01"> habit
+     rouge</rs>.</p>
+   <p>Cet <rs ref="people.xml#dmi01"> habit rouge</rs> enveloppe un être qui à un coeur
+    excellentissime joint un grand fonds d’honnêteté; de l’esprit on en a comme quatre, un fonds de
+    gaîté intarissable, beaucoup d’originalité dans la conception des choses et dans la façon de les
+    rendre, une éducation admirable, singulièrement instruit de tout ce qui peut donner du brillant
+    à l’esprit. Nous nous cachons comme meurtre notre penchant pour la poésie; nous aimons
+    passionnément la musique; notre conception en toute chose est d’une facilité rare; Dieu sait ce
+    que nous ne savons pas par coeur; nous déclamons, nous jasons, nous avons le ton de la meilleure
+    compagnie, nous sommes d’une très grande politesse; nous écrivons en russe et en français comme
+    il est rare chez nous qu’on écrive, tant pour le style que pour le caractère; notre extérieur
+    répond parfaitement à notre intérieur; nos traits sont très réguliers; nous avons deux superbes
+    yeux noirs avec des sourcils tracés comme on n’en voit guère; taille au-dessus de la médiocre,
+    l’air noble, démarche aisée; en un mot, nous sommes aussi solide intérieurement, qu’adroit, fort
+    et brillant pour notre extérieur. Je suis persuadée que si vous rencontriez cet <rs
+     ref="people.xml#dmi01"> habit rouge</rs>, vous demanderiez son nom, si vous ne le deviniez tout
+    d’abord.</p></postscript>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02929</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02929</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-31">31/03/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:30:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02929">
+  <body>
+
+   <p>Monsieur le <persName ref="people.xml#nas01"> Vice-Amiral Prince</persName> de <placeName
+     ref="places.xml#nas01"> Nassau-Siegen</placeName>, j’ai reçu hier Votre lettre en date de la
+    rade de <placeName ref="places.xml#kro01">Cronstadt</placeName> du 3 Juin, par laquelle vous me faites part de l’examen, que
+    vous avez fait des bâtiments à vos ordres et des changemens que vous avez trouvé nécessaires
+    parmi les commandans des galères, de l’ordre que vous établissez dans l’escadre et des soins que
+    vous donnez pour hâter l’armement complet des divers bâtiments, tout ceci sert à me donner
+    beaucoup de satisfaction, je vois avec plaisir que le Vice-Amiral <persName
+     ref="people.xml#mus02"> Pouchkin</persName> Vous seconde en tout ce qui dépend de lui, je lui
+    en ai marqué mon contentement. Je souhaite que le vent et toute sorte de bonheur seconde le zèle
+    dont vous me donnez de nouveau des preuves aussi convainquantes. J’ai reçu ce matin du
+    Gal. Comte  <persName ref="people.xml#mus02">Pouchkin</persName> que le Lt. Gal. <persName ref="people.xml#mik01">
+     Michelson</persName> est entré par <placeName ref="places.xml#wek01">Wehéra</placeName> dans la <placeName ref="places.xml#fin01">Finlande Suédoise</placeName>, qu’il a trouvé à <placeName ref="places.xml#kir01">Kiro</placeName> un poste suédois retranché d’un millier
+    d’hommes, ce poste a été forcé, le petit <persName ref="people.xml#bib02"> Bibikoff</persName> a
+    été le premier dans le retranchement et a pris un des deux canons qu’on a pris; deux Majors, six
+    officiers, 50 soldats suédois ont été fait prisonniers, 300 sont restés sur la place, le reste a
+    voulu se sauver après avoir fait une rigoureuse défense, mais les Baschkirs (que les Suédois NB
+    prennent pour des ogres) et les Kozakes, en ont fait un grand carnage dans l’eau et dans le
+    bois. <persName ref="people.xml#mik02">Michelson</persName> s’est avancé jusqu’a  <hi rend="italic">Christine</hi> d’òu il est
+    allé vers <hi rend="italic">St. Michel</hi> òu se trouvent des magasins, mes nouvelles—ne vont
+    que jusque là, elles sont du 31 Mai 1 et 2 Juin, nous voila donc à ce qu’il parait établis dans
+    la <placeName ref="places.xml#fin01">Finlande Suédoise</placeName> et. le corps Suédois de Savelan parait etre coupè, le Gal.
+    Major <persName ref="people.xml#sch02">Schultz</persName> doit l’attaquer ces jours ci. Adieu bon voyage et bonne fortune;
+    j’oubliais de Vous dire que nous avons encore des nouvelles qui paraissent asséz sûres, comme
+    quoi la grande flotte suédoise est dans un si mauvais état qu’un homme du métier fort entendu
+    doit avoir dit qu’il faudrait être fou pour la mener à l’ennemi. </p>
+   <closer><signed><persName ref="people.xml#cat01"> Catherine</persName></signed>
+   <dateline> à <placeName ref="places.xml#tsa01">
+     Czarsko Selo</placeName> le <date when-custom="1789-06-04">4 Juin 1789</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

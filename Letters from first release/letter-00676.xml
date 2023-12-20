@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00676</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00676</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00676">
+                <body>
+                    
+                    <p><persName ref="people.xml#bar02">Барятинский</persName> испугал меня
+                        смертельно: с весьма сериозным лицом пришел ко мне и сказал: <seg
+                            xml:lang="fr">"Le Prince est au desespoir,</seg> капитан у него
+                        ушел". "Кто, кто? Капитан?" У меня сердце от desespoir твоего забилось.
+                        Наконец, все сие обратилось на бомбардирского. Не плачь, батенька, найдешь
+                        его, как оставил, всегда ласковым и дружелюбным к тебе.</p>
+                    <p>Здесь холодно, а вчерась и скучно уже было: <seg xml:lang="fr">je n'ai
+                            point mon Ami, mon Prince</seg></p>
+                    <p>О Днепровских порогах <persName ref="people.xml#tur01">Турчанинов</persName>
+                        Вам скажет мое мнение. Одни пороги легко чистить, вываливая одинокие каменья
+                        из форватера, а другие уступами, сих нельзя переводить. И так, <seg
+                            xml:lang="fr">il faut que Vous commencies par me donner des materiaux
+                            qui me comvainquent de la possibilite.</seg> Сумма же весьма мала и
+                        за нею, видя пользу, не постою.</p>
+                    <closer><signed xml:lang="fr" rend="inline">Adieu, mon cher et bien
+                                aime Ami.</signed>
+                        </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

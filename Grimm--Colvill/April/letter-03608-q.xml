@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03608</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03608</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Could not find any person who matches Goetz (2) Could not find Mad. de Miremont</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-07">07-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:49:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03608">
+  <body>
+
+   <div>
+    <opener><dateline> Се <date when-custom="1784-05-08">8 mai 1784</date>, <placeName
+       ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>.</dateline></opener>
+    <p>Je vous ai écrit une longue pancarte, dont j’ai chargé <persName ref="people.xml#har04">
+      Hardy</persName>, qui s’en retourne à <placeName ref="places.xml#par01"> Paris</placeName>,
+     mais il n’est pas parti encore; en attendant voilà <persName ref="people.xml#lan04"> Ivan
+      Lanskoï</persName> qui est arrivé hier, chargé comme un mulet. Le <persName
+      ref="people.xml#lan02"> général Lanskoï</persName> est dans la joie de son coeur et heureux
+     au-delà de ce qu’il n’a osé espérer. Il vous dira lui-même tout ce qu’il voudra; son secrétaire
+     est disgracié: il y a certain chevalier cagneux (NB. ce n’est pas son nom pourtant, mais, ses
+     qualités) qui a damé le pion au secrétariat. Allons donc, je ne me mêle plus de leur besogne;
+     le secrétaire avec le temps a espérance de devenir commissaire commissionnaire perpétuel et
+     actuel. La lecture et l’examen de ce qu’ <persName ref="people.xml#lan04"> Ivan
+      Lanskoï</persName> a apporté, a rempli toute la journée d’hier bien agréablement; il y a eu au
+     moins vingt-quatre querelles et autant de dis eussions et le double de dissertations avec des
+     commentaires sans nombre qui s’en sont suivis entre l’excellence feu et flamme et le
+     secrétariat commissairisé. Fi donc, chassez-moi le chagrin; cela n’est bon qu’à tourmenter les
+     gens; je veux que vous remportiez la victoire dans cette lutte; voyez autour de vous: vous
+     n’êtes rien moins que seul dans ce monde. Soyez assuré que chaque fois qu’il vous vient la
+     pensée que de chez moi vous êtes oublié ou exclu, vous déraisonnez et n’avez pas le sens
+     commun. Je sais bien que ces expressions ne sont pas aussi polies et flatteuses qu’elles sont
+     vraies, mais, <rs ref="people.xml#gri01"> souffre-douleur</rs>, chacun pense et écrit comme il
+     peut. Or, quand vous écrivez, tripotez etc. pour votre pupille, alors je suis intimement
+     persuadée que vous avez de la raison et de l’esprit comme quatre; ainsi, à tout prendre, vous
+     n’avez pas à vous plaindre de l’opinion que j’ai de vous. Entendez-vous, <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>? Je suis bien aise de voir que vous ne me prenez
+     pas tout à fait pour une statue de marbre, parce que, tandis que les affaires de la <rs
+      ref="places.xml#cri01"> Tauride</rs> s’arrangeaient, j’étais très fâchée du chagrin que vous
+     essuyiez. L’année 1783, à tout prendre, était une année misérable pour vous et pour moi; en
+     général, j’ai remarqué que mes plus grands chagrins sont toujours à côté des événements les
+     plus joyeux ou glorieux: madame la <rs ref="places.xml#cri01"> Tauride</rs> m’a coûté bien des
+     larmes par toutes les pertes que j’ai faites et pensé faire.</p>
+    <p>Ecoutez: je me figure <persName ref="people.xml#bue01"> Emilie</persName>, je ne sais
+     pourquoi, sur le modèle de la petite <persName ref="people.xml#gol11"> comtesse
+      Schouvalof</persName>, sa bonne amie; or, j’ai un grand penchant pour cette <persName
+      ref="people.xml#gol11"> comtesse Schouvalof</persName>, et je ne la vois jamais sans que je
+     m’imagine voir <persName ref="people.xml#bue01"> Emilie</persName>. C’est un bijou que cette
+     petite fille, et je dis tous les jours au père de lui chercher un mari digne d’elle, et j’en
+     connais deux seulement que je pense qu’ils pourraient remplir cette idée comme je le
+     désire.</p>
+    <p>Puisque vous me sevrez de l’espérance de voir arriver <rs ref="people.xml#gri01">
+      souffre-douleur</rs> et <persName ref="people.xml#bue01"> Emilie</persName>, laquelle, par
+     parenthèse ou paradoxe, vous marieriez plus aisément ici qu’en <placeName ref="places.xml#fra01"> France</placeName>, je n’ai
+     plus qu’à vous souhaiter un mari digne d’elle; <seg xml:lang="it"> ma</seg> les jeunes gens
+      de <placeName ref="places.xml#par01"> Paris</placeName>, et ceux surtout que j’ai vus, ne
+     paraissent pas faits pour réunir nos suffrages; je suis bien aise du moins d’avoir contribué à
+     vous faire écouter par les parties intéressées.</p>
+    <p>Pourquoi vous repaissez-vous d’idées tristes, et qu’est-ce que ces airs de retraite que vous
+     vous donnez? à quoi bon cela? Croyez-moi, continuez à vivre comme vous êtes accoutumé, et n’y
+     faites pas le moindre changement; cela est nécessaire à la santé que de continuer à vivre comme
+     on a vécu. Mais pourquoi me dites-vous tout ce que vous me dites, tandis que tout simplement je
+     vous demandais un <hi rend="italic">oui</hi> ou un <hi rend="italic">non</hi>, car enfin dans
+     tout cela il n’y a pas selon moi de……… C’est ce que doit savoir le <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, et vous, plume bavardeuse, ne vous en mêlez pas. <seg xml:lang="it">
+      Basta</seg>.</p>
+    <p>J’ai eu autant de peine à empêcher ma plume à se taire que <persName ref="people.xml#fra01">
+      Franklin</persName> en avait à souffrir les élancements ou corrections de sa goutte. En
+     passant: grand merci pour tous ces pamphlets. Je vous permets d’en faire contre moi, si je
+     cesse jamais de vous écrire. De la vieillesse je ne puis vous délivrer, mais de la solitude,
+     oui. La lettre d’<persName ref="people.xml#bue01"> Emilie</persName> est très bien écrite et
+     très bien pensée. Jamais il n’y eut de grilles dans nos couvents, et il n’y a que les
+     religieuses qui n’oseraient en sortir sans permission de la supérieure; d’ailleurs elles en
+     sont bien empêchées, parce que la plupart sont vieilles comme Hérode; dans tout l’empire
+      de <placeName ref="places.xml#rus01"> Russie</placeName> il n’y a pas au delà de deux mille
+     religieux et religieuses de la religion grecque. J’admire tout ce que vous me dites sur
+      <persName ref="people.xml#rum03"> Nic. Roumiantsof</persName>, et je me tais. Helas! pourquoi
+     aucun de ses neveux ne ressemble-t-il au <persName ref="people.xml#gol17"> maréchal
+      Galitzine</persName>! j’ai envoyé à M. le <persName ref="people.xml#koc02"> chevalier
+      Koch</persName> la pancarte de <rs ref="people.xml#gri01"> souffre-douleur</rs>. Si je me
+     fâche! Ô <rs ref="people.xml#gri01">souffre-douleur</rs>, tu es menacé d’une forte incartade,
+     mais patience: <seg xml:lang="de"> ich werde dir lernen, wie ein jeder rechtschaffener Schrift
+      sein Kreuz trägt.</seg>
+    </p>
+    <p>Je suis bien fâchée de ce que <persName ref="people.xml#did01"> Diderot</persName> est si mal
+     et du malheur inouï arrivé à sa <rs ref="people.xml#van05"> petite-fille</rs>; jamais, je
+     crois, on n’a vu de cas pareil: dame Nature est inépuisable dans ses moyens. Je n’ai jamais
+     douté un moment que la lettre de <persName ref="people.xml#ale06"> D’Alembert</persName> au
+     sujet des prisonniers français pris à <placeName ref="places.xml#kra01"> Cracovie</placeName>
+     qu’il m’écrivit n’eût été dictée par le ministère d’alors; je suis bien aise de savoir que je
+     ne me suis pas trompée.</p>
+    <p>Vous vous me dites né furet, et moi je vous déclare que je suis devenue un vrai rat
+     d’archives.</p>
+    <p>Pour vos grands maîtres d’à present, ils n’ont qu’à mettre en baragouin de l’esprit comme
+     quatre; ils sont pour moi ce qu’est la littérature allemande et la musique plus jeune que
+     cinquante ans pour le roi de <placeName ref="places.xml#pru01"> Prusse</placeName>. Tout cela
+     est boutique d’épicier à garnir, ma n’entrera jamais dans mon atelier, parce que dans tout cela
+     il n’y a rien à apprendre, à retenir ni à profiter pour nous autres ignorants. Le papier public
+     qui a publié qu’il se faisait une édition des oeuvres de <persName ref="people.xml#vol01">
+      Voltaire</persName> à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, m’abonné de
+     la curiosité aussi; j’ai fait demander à tous les libraires et imprimeries de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName> ce qui en était; ils ont tous unanimement
+     répondu qu’il n’en était rien. J’ai fait écrire à <placeName ref="places.xml#ham01">
+      Hambourg</placeName> d’où venait la nouvelle; là nous avons découvert qu’un libraire nommé
+      <persName ref="people.xml#vir03"> Virchaux</persName> s’était servi de la ruse de nommer
+      <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, afin d’avoir plus de
+     souscripteurs, tandis qu’il craint les prêtres fanatiquement dévots d’ <placeName
+      ref="places.xml#ham01"> Hambourg</placeName>, et nommément un grandissime fou nommé Goetz,
+     dont la <seg xml:lang="de"> allgemeine Deutsche Bibliothek</seg> а depuis longtemps livré le
+     nom au ridicule et à la dérision, de façon que pour rire on lit volontiers les articles de
+     théologie qui traitent de ses ouvrages; or, ce <persName ref="people.xml#vir03">
+      Virchaux</persName> s’est préposé de réimprimer et accommoder à sa façon, c’est-à-dire très
+     pauvrement, tout ce qui déjà a été imprimé, et même ce projet en est resté au prospectus, parce
+     qu’ils n’ont pas de quoi commencer et que les souscripteurs leur manquent. Jamais l’impératrice
+     n’a fait aucune offre à <rs ref="people.xml#bea01"> Figaro</rs> et n’a rien eu ni n’a affaire
+     avec cet homme-là. Le témoignage que vous m’avez rendu près de M. de Goetz est très vrai.</p>
+    <p>Payez s’il vous plaît le seigneur <persName ref="people.xml#shc02"> Chedrine</persName>, si
+     vous avez de mon argent. Déclaration a été faite au Sr <persName ref="people.xml#sko01">
+      Skorodoumof</persName> que sa pension est arrêtée jusqu’à vue de travail: ainsi votre requête
+     a été exaucée avant même qu’elle fût arrivée. Ne me parlez pas de frère <persName
+      ref="people.xml#geo02"> George</persName>, car jamais son nom ne fut nommé sans me bouillonner
+     le sang. Mais qu’est-ce donc que cet empire grec avec lequel vous me tourmentez
+     continuellement? Notre excellent <persName ref="people.xml#anh01"> comte d’Anhalt</persName>
+     est avec nous ici à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>; je ne sais
+     s’il se plaît ici, mais il est sûr qu’il est généralement et souverainement aimé et estimé ici;
+     je crois avoir en lui un partisan zélé pour moi personellement, et je ne doute point que le
+     temps ne fasse de nous des amis très sincères. En temps de guerre votre général Waknitz nous
+     pourrait être utile, <seg xml:lang="it"> ma</seg> nous sommes en paix, à moins que don Gustave
+     ne nous oblige de ferrailler pour délivrer la <placeName ref="places.xml#nor01">
+      Norvège</placeName> de ses entreprises. En attendant qu’il court l’<placeName
+      ref="places.xml#eur01"> Europe</placeName> en ne manquant pas un bal, il est-très avéré qu’il
+     a la famine chez lui et qu’à la lettre plusieurs de ses provinces ont perdu quantité de monde
+     de la famine; nos provinces du nord seraient dans le même cas, de même que la <placeName
+      ref="places.xml#sib01"> Sibérie</placeName>, si je n’y avais des magasins qui ont nourri un
+     monde infini, la récolte de l’année passée ayant été très mauvaise depuis le nord jusqu'au
+      56<hi rend="superscript">m</hi>' degré. Or, don <persName ref="people.xml#gus02">
+      Gustave</persName> n’emploie point les subsides en magasins de blé, mais il fait des projets
+     en l’air dont il ne sera rien en aucun temps; je dépose ma parole là-dessus entre vos mains.
+      <seg xml:lang="de"> Und in diesem Stück sage ich Ihnen mehr als an meinen Beichtvater</seg>.
+     Que voulez-vous que je vous dise du roi de pique? Vous l’avez en personne; si vous voulez le
+     faire bâiller, parlez-lui de choses sérieuses et faites-Ibi quelque raisonnement solide; mais
+     si vous voulez l’avoir tout à vous, mettez-vous le dos tourné devant un miroir et parlez- lui
+     vers, chansons, comédies et ajustements, et alors, tout en se regardant au miroir, il ne vous
+     quittera pas de longtemps; s’il vous dit qu’il m’aime, ne l’en croyez pas: nous cadrons
+     ensemble comme un rond dans un carré. Le valet de pique est distrait et flatteur; il m’a paru
+     mal à son aise et gêné avec la cour de <placeName ref="places.xml#swe01">
+     Suède</placeName> encore plus qu’avec celle de <placeName ref="places.xml#rus01">
+      Russie</placeName>. Comment voulez- vous qu’on connaisse un ambassadeur ministérisé dans
+     quatre jours? <seg xml:lang="de"> Gott segne den Koch und die Küchenjungen, alles das ist sehr
+      klug.</seg>
+     <persName ref="people.xml#cat01"> Sa Majesté Impériale</persName> étant encouragée- par sire
+      <rs ref="people.xml#gri01"> souffre-douleur</rs> pour l’entière confection de l’histoire
+      de <placeName ref="places.xml#rus01"> Russie</placeName>, il y a toute apparence qu’après
+     avoir achevé le résumé de la seconde époque et un extrait des règnes des contemporains de
+     chaque règne, S. M. I. entreprends la troisième époque: c’est un ouvrage charmant pour elle et
+     tout à fût attachant, d’autant plus que nous employons à cela nos heures de loisir, et je crois
+     qu’il est impossible de se délasser plus utilement pour l’empire qu’en débrouillant et
+     arrangeant son histoire; or, <rs ref="people.xml#gri01"> souffre-douleur</rs>, faut que tu
+     saches que messieurs de l’archive de <placeName ref="places.xml#mos01"> Moscou</placeName> se
+     servent de nos cahiers autant que de tout autre. Ci-joint votre excellence trouvera encore un
+     gros cahier dont elle pourra s’amuser ou le laisser là, comme il lui plaira, car, pourvu que
+     nous écrivions, il nous est à peu près égal d’être lue ou non lue, mais quand un sire comme
+     vous nous fait l’honneur de nous lire et qu’il dit que cela est bon <seg xml:lang="de"> und hat
+      Kraft und Saft</seg>, alors comme alors nous nous en rengorgeons. De l’allemand il ne sera pas
+     difficile de faire traduire en français. <persName ref="people.xml#nic02"> Friedrich
+      Nicolaï</persName> vient d’imprimer toute la bibliothèque Alexandre-Constantine en allemand en
+     deux petits volumes. Puisque vous fûtes un si grand cas de mon tûent pour les étymologies, vous
+     aurez un ragoût étymologique qui ne se mouche pas du pied dans quelques mois d’ici, car cela ne
+     vient que de paraître en russe, et la traduction prendra du temps.</p>
+    <p>Si la ville de <placeName ref="places.xml#reg01"> Ratisbonne</placeName> a à se plaindre de
+     l’électeur palatin, je crois qu’il faudrait qu’elle s’adressât à l’empereur. Gardez, gardez
+     votre <persName ref="people.xml#mar15"> Mad. Marcel Pesle. </persName><persName
+      ref="people.xml#tod02">Mad. Todi</persName> est encore à venir. Imaginez-vous que j’ai eu la
+     bêtise de défendre globes, ballons etc., crainte qu’on n’augmente les moyens d’incendie dans un
+     pays où il y a beaucoup de bâtisses et de toits en bois et en paille, et à dire la vérité, je
+     n’ai pas donné là-dedans pas un instant; <seg xml:lang="de"> das ist eine Kinderei, mir
+      deucht</seg> ; je ne me soucie pas non plus du charlatan qui guérit les vapeurs. Dites la
+     vérité: il faut à <placeName ref="places.xml#par01"> Paris</placeName> tous les mois une
+     nouvelle marotte qui lui tienne lieu des pantins, défendus par une loi de <persName
+      ref="people.xml#lou15"> Louis XV</persName>, à ce qu’on m’a dit. Je crois que vous badinez en
+     me disant que le <persName ref="people.xml#oli02"> comte de Pilos</persName> est au nombre des
+     initiés: il a vu les charlatans de trop près pour y croire.</p>
+    <p>Comment voulez-vous que je me souvienne de toutes les pauvretés sur lesquelles j’ai voulu
+     savoir votre avis et sur lesquelles vous ne m’avez pas répondu? Dans ce moment je ne m’en
+     souviens, en vérité, de pas une.</p>
+    <p>Ce que vous me mandez du <orgName ref="orgs.xml#phil01"> philantropin</orgName> n’est pas
+     bien consolant; je m’en tiens à la forme normale, qui commence à avoir très bonne réputation
+     chez nous.</p>
+    <p>Vous avez un goût décidé pour les dédicaces: s’il est possible, évitez moi celle de Mad. de
+     Miremont, à moins que vous n’en trouviez la nécessité indispensable.</p>
+    <p>Pour votre M. de <persName ref="people.xml#seg01"> Ségur</persName>, si c’est un élégant, il
+     perdra son élégance céans.</p>
+    <p>J’aime, beaucoup l’anecdote sur <persName ref="people.xml#pit01"> William Pitt</persName>. Le
+     cabinet <persName ref="people.xml#bau04"> Baudouin</persName> nous a prodigieusement
+     réjouis.</p>
+    <p>Tirez toujours sur M. le <rs ref="people.xml#vya01"> procureur-général</rs>: il n’étouffera
+     pas présentement.</p>
+    <p><seg xml:lang="de"> Das wird schade sein, wenn der ausländische Mundloch abgeht, denn da wird
+      das Stolpern angehen und allgemein werden. Gott segne die armen Leute, damit sie kein dummeß
+      Zeug zu Werke bringen.</seg>
+    </p>
+    <p>Vous aurez le Barbier de Séville et le Monde de la lune. Falois est à mon service, et
+     l’ambassadeur de <placeName ref="places.xml#rom03"> Rome</placeName> a la promesse de devenir
+     cardinal. </p>
+    <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>, en voilà
+      assez, portez-vous bien.</signed></closer>
+   </div>
+   <div>
+    <p>Commentaire sur cinq lettres que le <rs ref="people.xml#gri01"> souffre-douleur</rs> imp.
+     écrit au <persName ref="people.xml#lan02"> général Lanskoï</persName>.</p>
+    <p><seg xml:lang="it"> Primo</seg>. <persName ref="people.xml#sam03"> Samoïlewitz</persName>, au
+     lieu d’avoir été bien reçu comme recommandé par sire <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, a été bien et dûment grondé et a eu tête lavée par tout le monde et
+     nommément par le général favorisé par <rs ref="people.xml#gri01"> souffre-douleur</rs>, et cela
+     parce que le susdit sieur <persName ref="people.xml#sam03"> Samoïlewitz</persName> a bien et
+     dûment menti en parole, par écrit et imprimé, comme quoi lui, docteur <persName
+      ref="people.xml#sam03"> Samoïlewitz</persName>, avait inoculé la peste, le diable sait à
+     combien de monde; assertion qu’il ne soutiendra pas, morgué, en <placeName
+      ref="places.xml#rus01"> Russie</placeName>, car qui seraient les délaissés de Dieu qui
+     volontairement se seraient donné la peste, et comment aurait-on permis de la propager tandis
+     qu’on faisait tout au monde pour la détruire?</p>
+    <p><seg xml:lang="it"> Secondo</seg>. <rs ref="people.xml#gri01"> Souffre-douleur</rs> saura
+     qu’à chaque pancarte que le <persName ref="people.xml#lan02"> g-l</persName> reçoit, il vient
+     en sautant se vanter d’être favorisé par <rs ref="people.xml#gri01"> souffre-douleur</rs>, chez
+     le commentateur; sachez encore qu’il a pesté comme un lutin de ce que les camées lui ont
+     échappé. Sachez encore qu’il meurt d’envie des tableaux <persName ref="people.xml#bau04">
+      Baudouin</persName>. Sachez aussi qu’il vous prépare ce qu’il a dit qu’il ne préparait pas et
+     qu’il ne veut pas que vous sachiez. Sachez encore que six règnes de la seconde époque sont là,
+     traduits en allemand, qui attendent un courrier; de ceci <persName ref="people.xml#nic02">
+      Nicolaï</persName> n’a pas tâté encore; il a ordre de vous envoyer un exemplaire de tout ce
+     qu’il imprime.</p>
+    <p><seg xml:lang="it"> Tertio</seg>. S. E. est parfaitement guérie de sa chute, mais nullement
+     de la maladie des chevaux fringants. La situation douloureuse du <rs ref="people.xml#gri01">
+      souffre-douleur</rs> nous a fait une vraie peine; il verra cela par l’immense pancarte qu’il
+     recevra par le premier courrier, de même que tous les chagrins dont nous avons été oppressés à
+     notre tour. Nous tenons <persName ref="people.xml#har03"> M. de Laharpe</persName> en réserve;
+     en attendant il se promène.</p>
+    <p><seg xml:lang="it"> Quarto.</seg> Vous aurez bientôt un courrier, et pour que vous ne
+     mourriez pas d’inanition en attendant, contentez-vous de ce commentaire. Le <persName
+      ref="people.xml#bal03"> Sr Balu</persName> a été malade, mais il est rétabli, et il attendra
+     avec patience femme et enfants.</p>
+    <p><seg xml:lang="it"> Quinto</seg>. Si S. E. a une réputation de bonté et de complaisance, elle
+     ne dément point sa réputation, car à la lettre il est bon et complaisant, ma rayez les <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> du nombre des importuns: ils ne le seront jamais,
+     nous leur avons obligation, et S. E. se réjouit de tout son coeur quand elle tient du
+     griffonnage souffre-douleurien, parce qu’il aime <rs ref="people.xml#gri01">
+      souffre-douleur</rs> autant qu’on peut aimer quelqu’un qu’on n’a jamais vu, mais auquel on a
+     obligation et dont la réputation est telle que le personnage ne peut que paraître aimable; or
+     donc S. E. vous aime, et vous lui avez fait venir l’eau à la bouche pour les tableaux <persName
+      ref="people.xml#bau04"> Baudouin</persName>; la redoutable et charmante lmp., par exemple, n’a
+     aucune part à cela; elle se tenait fort coi dans son coin, et n’achetait rien depuis bien
+     longtemps.</p>
+    <p>NB. Pourquoi est-elle redoutable?</p>
+    <p>Autre question: d’où vient que redoutable et charmant ne vont pas bien- ensemble?</p>
+    <p>L’avis au public du <persName ref="people.xml#bau04"> comte de Baudouin</persName> va être
+     traduit en allemand et russe, <seg xml:lang="it"> ma</seg>
+     <persName ref="people.xml#lan02"> g-l</persName> voudrait savoir à quoi cela monterait que cet
+     achat-là? et si cela ne passait pas le vingt de beaucoup, g-l s’en accommoderait, je pense.</p>
+    <p>Le No 60 de la petite millionne a reçu une si bonne recommandation, саr, celle de <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> nous est sacrée, que dès le lendemain nous nous
+     sommes mis à la piste; je ne suis témoin que de l’empressement et de la bonne volonté. S. E.
+     est après à faire chercher la lettre adressée au <persName ref="people.xml#bau01"> g-l
+      Bauer</persName>.</p>
+    <p>Il est douloureux que <persName ref="people.xml#ale06"> D’Alembert</persName> soit mort sans
+     avoir vu ni lu notre justification sur l’affaire de la <placeName ref="places.xml#cri01"> Crimée</placeName>; du moins
+     fallait-il entendre les deux côtés et puis juger; au lieu de cela il nous disait des injures;
+     j’en suis fâchée, de même que de la pusillanimité qu’il a marquée dans sa maladie; les forces
+     du corps avaient apparemment emporté avec elles celles de l’esprit. <seg xml:lang="it">
+      Ma</seg> ces gens-là ont jugé souvent autrement qu’ils ne prêchaient; il y a très longtemps
+     que j’étais en disgrâce, et vous savez que c’est <persName ref="people.xml#vol01"> Voltaire</persName> qui nous avait
+     brouillés.</p>
+    <p>Je vous prie de payer d’après le compte ci-joint deux mille quatre cent quarante huit roubles
+     quinze sous de mon argent, si vous en avez; sinon, tirez hardiment pareille somme sur <persName
+      ref="people.xml#sut01"> Sutherland</persName>, qui sera prévenu de payer pareille somme quand
+     vous la demanderez.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

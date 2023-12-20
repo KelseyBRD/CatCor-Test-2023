@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04253</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04253</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-09">09/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T13:59:38Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Converted to xml and
+                    checked</label></change>
+            <change><date when="2021-03-18">18/03/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Query concerning the identity of le comte Orloff
+                resolved.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04253">
+        <body>
+
+            <opener>
+                <dateline>
+                    <placeName ref="places.xml#mos01"> Moscou</placeName>, cе <date
+                        when-custom="1767-03-28">28 Mars 1767</date>.</dateline>
+                <salute> Je commencerai celle-ci, Monsieur, par répondre à Vos questions et puis je
+                    dirai ce que je pourrai.</salute></opener>
+            <p> Votre jugement au sujet du <persName ref="people.xml#jau01"> Chevalier de
+                    Jaucourt</persName> et de son article <rs ref="works.xml#encycl01" rend="italic"
+                    >Russie</rs> est juste. Lisez l’article <rs ref="works.xml#encycl01"
+                    rend="italic">Joli</rs>, il y a un paragraphe qui me tournerait la tête, si elle
+                ne l’était déjà.</p>
+            <p> Puisque Vous désirez que je donne mes avis à <persName ref="people.xml#col02"> M-lle
+                    Collot</persName>, Vous pouvez lui dire qu’elle fera de son ouvrage tel usage
+                qu’elle jugera à propos; j’y donne les mains avec plaisir, surtout depuis que j’ai
+                lu la sentence.</p>
+            <q>Eh! mes amis, fabriquez des plaisirs.</q>
+            <p> Envoyez-moi Votre dispute sur la postérité. Je Vous dirai sincèrement ce que j’y
+                trouverai à redire, s’entend si la question n’est pas traitée d’une façon qui soit
+                au-dessus de ma portée. Je serais tentée de supposer qu’il n’y a rien à corriger,
+                mais j’ai vu couché tout au long par écrit que <persName ref="people.xml#fal01"> M.
+                    Falconet</persName> ne prétend point faire de son <rs ref="works.xml#pierre01">
+                    Pierre-le-Grand</rs> un chef-d'oeuvre, qu’il n’est pas venu au monde pour cela,
+                qu’il n’en fera pas, qu’on fera bien de se détromper etc. Mais voilà un singulier
+                entêtement; je crois moi, que c’est le climat qui commence à influer sur Vous; les
+                Français tout naturellement plus souples, plus pliants et si je dois trancher le
+                mot, plus prévenus d'eux-mêmes, il n’y a que l’air du Nord qui peut rendre un
+                quelqu'un aussi peu complaisants. Je dirais que c’est pure malice si je n’avais vu
+                que Vous promettez de faire de Votre mieux. Eh bien, faites-le, nous serons tous
+                contents et nous ne disputerons point sur les mots.</p>
+            <p> Je me réjouis de voir par ce que Vous appelez <hi rend="italic">Votre folie </hi>
+                que Vous avez naturellement l’imagination couleur de rose, passez-moi le terme; je
+                ne l’aime pas depuis que Vous m’avez dit que faute d’être tel, le <rs
+                    ref="works.xml#paraly01"> Paralytique</rs> de <persName ref="people.xml#gre02">
+                    Greuze</persName> n'avait pas fait fortune en <placeName ref="places.xml#fra01">
+                    France</placeName>. Cependant je le trouve de cette couleur, mais dans le sens
+                du sublime beau et non pas de l'agréable joli. Pour entendre ce galimatias, je Vous
+                renvoie a l’article <rs ref="works.xml#encycl01" rend="italic">joli</rs>, où Vous
+                trouverez que nous sommes condamnés à nous passer du second qui appartient tout
+                entier aux puissances du <placeName ref="places.xml#mid01"> Midi</placeName>; je ne
+                sais, si l’inquisition est du nombre, un mauvais plaisaint dirait: il est vrai qu’il
+                faut vivre et laisser vivre.</p>
+            <p> Gardez le livre qui m’appartient autant que Vous voudrez. J’ai assez de
+                l’Encyclopédie. Je ne puis quitter ce livre. C’est une source inépuisable
+                d’excellentes choses où cependant il y a par-ci par-là de grandes inexactitudes.
+                Mais il ne faut pas s’en étonner, car quelles contradictions et dégoûts n’ont-ils
+                pas essuyés, et assurément ils ont témoigné un grand courage et un désir invincible
+                de servir et d’instruire l’espèce qui les persécutait, et leur criait: Point
+                d’instruction, nous ne voulons rien savoir.</p>
+            <p> Mes respects à <persName ref="people.xml#pet01"> Pierre-le-Grand</persName> tout
+                habillé. Il a une physionomie, une action, une expression, et la tête de son
+                coursier est étudiée; — voilà ce que vous me dites, et voilà ce que je regrette bien
+                de ne pas voir. Vous ne me dites rien de son bras qu’il étend sur son <rs
+                    ref="places.xml#rus01"> Empire</rs>. Le comte <persName ref="people.xml#orl01">
+                    Orloff</persName> dit, que ce bras est ce qu’il trouve de plus difficile et de
+                plus délicat à traiter, et qu’il n’y a que vous qui puissiez trouver la vraie
+                expression du bras. Vous voyez que lorsqu’il disait cela il ignorait que vous
+                eussiez renoncé au chef-d’oeuvre. N’allez pas dire encore que je suis difficile et
+                surtout ne vous arrêtez pas à ce que je dis, car je puis dire très-mal; allez votre
+                train. </p>
+            <closer>
+                <signed>Adieu, <persName ref="people.xml#fal01"> Monsieur Falconet</persName>,
+                    portez-vous bien et soyez assuré que je suis bien impatiente de voir et vous et
+                    votre ouvrage à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>; cet
+                    endroit-là ressemble au commencement du printemps et celui-ci à un vilain
+                    automne. Je partirai d’ici à la fin du mois d’Avril, pour me rapprocher de
+                        <placeName ref="places.xml#pet01"> Pétersbourg</placeName> par <placeName
+                        ref="places.xml#kaz01"> Kazan</placeName>.</signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08242</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08242</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:24:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08242">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName> ce <date when-custom="1776-01-31">31 janvier 1776</date>.</dateline></opener>
+   <p>En remerciant V. A. R. de tout ce qu'Elle me dit d'obligeant sur le renouvellement de l’année,
+    je La prie d'être persuadée de la sincérité de mes vœux pour Sa conservation et Sa prospérité,
+    tant en cette occasion qu'à l'époque du jour mémorable de Sa naissance. Je me flatte de
+    l'espérance agréable d'avoir bientôt le plaisir de Lui en réitérer de bouche les assurances.
+    J'ai mille obligations à V. A. R. de ce qu'Elle veut bien me dire sur Son voyage. Je souhaite de
+    pouvoir Lui rendre Son <rs ref="events.xml#henry02"> séjour ici</rs> supportable, du moins mon
+    amitié pour Elle ne négligera rien pour Lui prouver la haute considération . . .</p>
+  </body>
+ </text>
+</TEI>

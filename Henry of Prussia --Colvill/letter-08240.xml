@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08240</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08240</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:24:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08240">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa04"> Tsaritzina-Sélo</placeName>, ce <date
+      when-custom="1775-08-07">7 d'août 1775</date>.</dateline></opener>
+   <p>La lettre de V. A. R. du 16 juillet m'a trouvée ici où je me remets petit à petit d'une
+    maladie assez sérieuse que m'avait donnée la bagarre des premières fêtes de la paix, les
+    chaleurs étouffantes et les excellentes pêches de <placeName ref="places.xml#mos01"
+     >Moscou</placeName>. J'ose croire que ce bel endroit que j'ai acheté depuis peu, et qui, selon
+    les plans et descriptions que j'en aies, ressemble à <placeName ref="places.xml#rhe01">
+     Rheinsberg</placeName>, s'attirerait l'approbation de V. A. R., si Elle l’avait vu. C'est bien
+    autre chose que le beau pélérinage que nous avons fait à <placeName ref="places.xml#tro02">
+     Troitza</placeName> et dans lequel nous avons essuyé toutes les incongruités de l'air et des
+    mauvais gîtes. J'avoue cependant, malgré ma prévention pour ma nouvelle acquisition, que les
+    gîtes et tout ce qui a été fait de la main des hommes est ce qu'il y a de plus mauvais. Jamais
+    je n'aurais pu m'imaginer que ma visite à <placeName ref="places.xml#tri01"> St.
+     Serge</placeName> eût pu causer de l'envie à V. A. R., c'est en vérité un honneur que ce voyage
+    ne méritait en aucune manière. Je ne dois attribuer tout ce qu'Elle a la bonté de me dire à ce
+    sujet qu’à la continuation de cette amitié si précieuse pour moi, dont il plaît à V. A. R. de me
+    renouveller les preuves en toutes occasions.</p>
+   <p>Je Lui dois encore mille remercîments pour les petits tableaux à l'antique dont le comte
+     <persName ref="people.xml#che03"> Ivan Czernichef</persName> s'est trouvé chargé, ils me
+    paraissent fort agréables. Je me flatte que V. A. R. les verra à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> l'année prochaine. Je suis déterminée d'y
+    retourner à la fin de celle-ci ou au commencement de 1776 ou, comme l’on dit en <placeName
+     ref="places.xml#rus01">Russie</placeName>, avec les premiers traîneaux, et par conséquent je
+    pourrais avoir le plaisir de revoir V. A. R. plutôt que je n’osais l'espérer. Mais en quelque
+    temps que ce soit, je La prie d'être assurée qu'Elle trouvera toujours en moi les sentiments de
+    la plus haute estime ...</p>
+  </body>
+ </text>
+</TEI>

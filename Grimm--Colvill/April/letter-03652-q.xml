@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03652</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03652</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find any additional references to Lombard
+     or Abolianinof</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:23:09Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03652">
+  <body>
+   <p>On vient de me remettre votre No 92, dans lequel vous me parlez beaucoup de l’action de la
+    frégate garde-côte à l’embouchure du <rs ref="places.xml#dni03"> Boristhène</rs>. Eh bien, voici
+    son histoire: la nouvelle de la déclaration de guerre turque n’avait pas eu encore le temps
+    d’arriver qu’une flotte turque de trois vaisseaux de ligne et de quatorze autres bâtiments à
+    deux mâts sortit d’<placeName ref="places.xml#och01"> Otchakof</placeName> et s’avisa d’attaquer
+    cette frégate, qui avait avec elle un autre petit bâtiment. La frégate s’appelle <hi
+     rend="italic">Skoroï</hi>, ce qu’on peut traduire la Vitesse ou l’<hi rend="italic"
+     >Alerte</hi> ou l’<hi rend="italic">Agile</hi>, sur cette frégate était un lieutenant nommé
+    Abolianinof; celui-ci se défendit bravement, et il tira dans trois heures de temps, s’il m’en
+    souvient bien, 580 coups de canon; pendant le combat il coupa son ancre pour prendre le large,
+    et passa devant les remparts d’<placeName ref="places.xml#och01"> Otchakof</placeName>, dont il essuya la décharge; il coula à
+    fond quelques bâtiments turcs; il tirailla avec d’autres à coup de fusil; il n’eut de tués et
+    blessés que 10 hommes et il revint occuper son poste, ayant ses agrès endommagés. On dit son
+    combat plus beau que celui de la belle poule qui fit dans son temps tant de bruit; mais puisque
+    vous êtes curieux de pareils faits, je m’en vais vous régaler de quelques autres dont le démon
+    s’est mêlé comme de celui-ci. Quelques jours après cette action, cette même flotte
+    d’<placeName ref="places.xml#och01"> Otchakof</placeName> s’en alla canonner et bombarder le fort de <placeName
+     ref="places.xml#kin01"> Kinbourne</placeName>; on arma dans le <rs ref="places.xml#dni03">
+     Boristhène</rs> les bâtiments que j’y ai amenés et qui sont des espèces de galères; les
+     <orgName ref="orgs.xml#turk01"> Turcs</orgName> firent deux descentes près de <placeName
+     ref="places.xml#kin01"> Kinbourne</placeName> et furent repoussés et bien battus par les
+    troupes de terre; mais comme la flotte turque incommodait le fort, on détacha une de ses galères
+    nommée Desna, sur laquelle nous dînions NB., et celle-ci se mit à son tour à canonner la flotte
+    turque; elle passa au travers de celle-ci et se mit sous le canon du fort. Sur cette galère il y
+    a pour commandant un chevalier de <placeName ref="places.xml#mal01"> Malte</placeName>, âgé de 25 ans, nommé Lombard et qui n’est
+    à mon service que depuis <placeName ref="places.xml#kie01"> Kiev</placeName>. Le <persName ref="people.xml#suv01"> général
+     Souvorof</persName> fit avoir à Lombard et à sa galère jusqu’à vingt pièces de canon, avec
+    lesquels il tient la flotte turque en respect; il leur a brûlé Dieu sait combien de bâtiments;
+    le fort de <placeName ref="places.xml#kin01"> Kinbourne</placeName> leur a fait voler en l’air
+    un vaisseau de guerre et deux frégates, et monsieur Lombard et sa galère a ruiné, coulé à fond
+    et brûlé au moins six canonnières. Enfin le 1 d’octobre les <orgName ref="orgs.xml#turk01">
+     Turcs</orgName> ont de rechef débarqué, sur la pointe où est situé <placeName
+     ref="places.xml#kin01"> Kinbourne</placeName>, au délà de 5,300 hommes, dont il n’est pas
+    retourné cinq cents à <placeName ref="places.xml#och01"> Otchakof</placeName>. Voilà les dernières nouvelles que j’ai reçues et
+    dont je vous fais part en vous souhaitant bonne santé et contentement. </p>
+   <closer><signed rend="inline">Adieu. Ce <date when-custom="1787-10-22">22 d’octobre 1787</date>.</signed></closer>
+  </body>
+ </text>
+</TEI>

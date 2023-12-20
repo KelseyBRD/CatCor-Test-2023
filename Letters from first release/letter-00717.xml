@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00717</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00717</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-08">08 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00717">
+                <body>
+                    <opener><dateline><date when-custom="1782-10-08">Окт[ября] 8 ч., 1782
+                        г.</date></dateline></opener>
+                    
+                    <p>Из писем твоих, друг мой сердечный, от 25 и 26 числа я усмотрела твое
+                        свиданье с Ханом и пустой его страх. Пуганая ворона куста боится. Татары об
+                        нас судят по тем правилам, по которым приобыкли судить о турецких
+                        распоряжениях, и для того нам подножием служат ныне. Что-то Хан к тебе
+                        напишет? Войск весьма достаточно наряжено идти, лишь бы в <placeName
+                            ref="places.xml#cri01">Крыме</placeName> достаток был на зиму в фураже;
+                        а прочие заботы в моей голове исчезли, видя из твоих писем приуготовление
+                        пропитанья. Что мои письмы тебе приятны, сие служит к моему большому
+                        удовольствию. Бог знает, <persName ref="people.xml#ves01"
+                            >Веселицкий</persName> или Хан причиною недоразумения о Ахтиярской
+                        гавани, я никогда на эти слова много не полагалась: надобно будет -- займем
+                        и без них, не надобно, то перед ними.</p>
+                    <p><persName ref="people.xml#ska01">Катя</persName> все еще возится с чирьями.
+                        Пятый оказался. Я почитаю сие за великое щастие, что материя сама сыскала
+                        такой путь. <persName ref="people.xml#aug01">Виртем[бергская]
+                            Принцесса</persName> приехала, и в четверг у ней в <placeName
+                            ref="places.xml#her01">Эрмитаже</placeName> глаза были так распухли и
+                        расплаканы, что жалко было смотреть. Они, сказывают, живут, как кошка с
+                        собакою. <persName ref="people.xml#pau01">Вел[икий] Кн[язь]</persName>
+                        приехал в Вену 23 сентября, тамо останутся две недели4. И так теперь на
+                        обратном пути.</p>
+                    <p><persName ref="people.xml#lan02"> Саша</persName> ужасно как обрадован твоими
+                        письмами.</p>
+                    <closer><signed rend="inline">Прощай, любезный друг, будь здоров и приезжай скорее к нам.
+                        </signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

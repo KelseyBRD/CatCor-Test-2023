@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03666</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03666</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I’m not entirely sure who Madame Boehmer is, but I went ahead and coded her as boe02. Kelsey:
+     further identification made. </p>
+    <p>Can’t identify Mad. de Pons Kelsey: partial possible identification made, coded as pon03</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-25">25-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:54:02Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-04">04-08-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup revised, queries addressed</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03666">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-06-21">21 juin 1790</date>, à <placeName
+       ref="places.xml#tsa01">Tsarsko-Sélo</placeName>.</dateline></opener>
+    <p>Hier au matin j’ai reçu des mains de M. <persName ref="people.xml#mac01"> Machkof</persName>
+     les pancartes 15, 16 et toutes les annexes dont il a plu à son excellence monsieur le <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> de le charger. Le No 15 commence par les torts
+     que vous avez vis-à-vis de la <persName ref="people.xml#bue01"> comtesse de Bueil</persName>,
+     ce qui me fait souvenir de celui que j’ai si de n’avoir pas encore lu sa lettre depuis hier
+     qu’elle m’est parvenue; attendez donc, monsieur le <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, jusqu’à ce que je l’aurai lue. Ouais, cette lettre m’a ôté l’envie de
+     rire; il n’y est parlé que des malheurs de la <placeName ref="places.xml#fra01"
+      >France</placeName> et des horreurs dont vous êtes entourés. Vous êtes plus malheureux que
+     nous, à ce qu’il paraît, avec deux guerres sur les bras, dont l’une tellement aux portes de
+      <placeName ref="places.xml#pet01"> Pétersbourg</placeName> que dans la ville et plus encore
+     ici l’on entend tous les coups de canon qui se tirent depuis un mois, et malgré cela nous
+     sommes de bonne humeur. Je crois que cela vient de ce que tout le monde est persuadé, tout
+     comme me le dit la <persName ref="people.xml#bue01"> comtesse de Bueil</persName>, que mes
+     guerres sont justes, si jamais il y en eut, parce que nous nous défendons contre l’injustice et
+     les traîtres. Or, je vous prie de remercier votre élève de sa lettre, de ses souhaits et de la
+     bonne opinion qu’elle a de moi; je désire bien sincèrement que les malheurs de la <placeName
+      ref="places.xml#fra01">France</placeName> finissent et qu’elle reprenne une place signifiante
+      en <placeName ref="places.xml#eur01">Europe</placeName>, et surtout que la situation de la <rs
+      ref="people.xml#mar14"> reine</rs> soit telle que le vif intérêt qu’elle m’inspire me le fait
+     souhaiter; c’est dans les grands périls que les grands courages triomphent. M. <rs
+      ref="people.xml#gus01"> Falstaff</rs> peut développer le sien dans ce moment. Prenez, s’il
+     vous plaît, la carte de la <placeName ref="places.xml#bal01">Baltique</placeName>; cherchez
+      <placeName ref="places.xml#vib01"> Viborg</placeName>; il est au fond d’un golfe sur la côte
+     de la <placeName ref="places.xml#fin01">Finlande</placeName>; c’est le golfe le plus proche
+      de <placeName ref="places.xml#kro01">Kronstadt</placeName>. Eh bien, après trois jours de
+     combat qui commençait à la pointe du jour et finissait avec le soleil couchant, par une
+     combinaison suédoise, la flotte commandée par M. <persName ref="people.xml#cha01"> de
+      Sudermanie</persName> s’est réunie devant ce golfe avec la flotte de galères commandée par le
+     roi en personne; le golfe de <placeName ref="places.xml#vib01"> Viborg</placeName> est farci
+     d’îles; trente de nos galères sont embossées entre les îles; la ville de <placeName
+      ref="places.xml#vib01"> Viborg</placeName> derrière celles-ci. Les deux flottes suédoises
+     entre nos trente galères, et les deux escadres de <placeName ref="places.xml#tal01"
+      >Revel</placeName> et de <placeName ref="places.xml#kro01">Kronstadt</placeName> leur coupant
+     toute communication avec la mer et les côtes de <placeName ref="places.xml#swe01"
+      >Suède</placeName>, et du côté du golfe de <placeName ref="places.xml#kro01"
+      >Kronstadt</placeName> le <persName ref="people.xml#nas01"> prince de Nassau</persName> avec
+     un train de galères, de chebeks et d’autres bâtiments à rames, qui sont en vérité presque
+     innombrables, y ayant en tout, sans mentir, au-delà de deux cents sous son commandement à lui
+     seul; eh bien, que fait-il? <rs ref="people.xml#gus01"> Falstaff s’entend</rs>; il meurt de
+     faim et son monde aussi, outre cela celui-ci déserte dès qu’on envoie quelqu’un à prendre de
+     l’eau seulement. Il y a dans ce golfe de <placeName ref="places.xml#vib01"> Viborg</placeName>
+     entre les pierres et les écueils au-delà de cinquante mille hommes de part et d’autre, et tout
+     sera décidé probablement lorsque vous recevrez ceci. Pourquoi dites-vous que les Grecs ne
+     célèbrent pas la Pentecôte? C’est une calomnie dont je ne puis m’empêcher de vous avertir.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-06-22">22 juin</date>.</dateline></opener>
+    <p>Ecoutez donc, je ne puis acquiescer à votre traité, et il convient aussi peu au maire du
+     palais, qui a démonarchisé la <placeName ref="places.xml#fra01">France</placeName>, d’avoir le
+     portrait de <persName ref="people.xml#cat01"> l’impératrice</persName> la plus aristocrate de
+      l’<placeName ref="places.xml#eur01">Europe</placeName> qu’à celle-ci de l’envoyer au maire du
+     palais démonarchiseur; ce serait mettre et le maire du palais démouarchiseur et l’impératrice
+     aristocratissime en contradiction avec eux-mêmes et leurs fonctions passées, présentes et
+     futures. Or, pour satisfaire outre ceci à la fantaisie du seigneur <rs ref="people.xml#gri01">
+      souffre-douleur</rs> d’avoir un portrait peint par M. <persName ref="people.xml#gar01">
+      Garkoy</persName>, qui a fait en émail celui que porte le comte de <persName
+      ref="people.xml#seg01">Ségur</persName> sur sa boîte, il est nécessaire que le susdit peintre
+     guérisse d’une fluxion d’yeux qui l’afflige; outre cela le susdit n’est pas bien expéditif,
+     mais la fantaisie du seigneur <rs ref="people.xml#gri01"> souffre-douleur</rs> lui sera
+     amplement communiquée avec exhortation de se presser autant que faire se pourra.</p>
+    <p>Je ne dis rien de <persName ref="people.xml#fay01"> M. de La Fayette</persName>, mais je vois
+     que vous en pensez précisément comme moi. Pour à M. <persName ref="people.xml#nec01">
+      Necker</persName>, il y a fort longtemps que je lui ai tiré ma révérence, et je crois que pour
+     le bonheur de la <placeName ref="places.xml#fra01">France</placeName> il aurait été fort
+     heureux s’il ne s’était jamais mêlé de ses affaires. Pour le prêtre inepte, je l’ai toujours
+     cru un des plus grands péchés de feu mon très grand ami, auquel le sort n’a pas laissé achever
+     la carrière pour laquelle cependant ses grands talents étaient faits. Si l’ordre de <placeName
+      ref="places.xml#mal01">Malte</placeName> se sent de l’inclination pour moi, ce n’est pas en
+     vérité en vain, car jamais personne n’estima ni même n’aima par passion plus les preux et
+     vaillants chevaliers que moi, et nommément tout chevalier de <placeName ref="places.xml#mal01"
+      >Malte</placeName> a toujours été pour moi un objet d’une espèce de culte; ainsi dès que je
+     saurai en quoi je pourrai être utile à l’ordre entier, je m’y prêterai volontiers. St Jean est
+     un très grand seigneur chez nous et plus particulièrement encore à votre très humble servante
+     depuis la fameuse journée de <placeName ref="places.xml#che02"> Tchesme</placeName> dont
+     l’époque se célèbre le jour de sa fête tous les ans, la flotte ottomane ayant été battue le 24
+     juin v. st., et peut être la suédoise sera-t-elle défaite le même jour, c’est à dire après
+     demain. Amen.</p>
+    <p>Qu’est-ce que ces étouffements qui vous prennent quand vous écrivez? j’en suis bien fâchée,
+     en vérité.</p>
+    <p>Je vois que <rs ref="events.xml#josep01"> les pertes que j’ai faites à <placeName
+       ref="places.xml#vie01">Vienne</placeName></rs> vous affligent autant qu’elles m’ont été
+     sensibles dafts leur temps; je n’ose en parler encore à l’heure qu’il est, et j’ai été bien
+     longtemps sans pouvoir voir l’ambassadeur, parce que nous en étions tous les deux aux sanglots.
+     J’ai plaint mille et mille fois à ce sujet encore la <persName ref="people.xml#mar14"> reine de
+       <placeName ref="places.xml#fra01">France</placeName></persName>, qui a fait tant de pertes
+     différentes dans si peu de temps; mais elle a bien le caractère de courage de sa mère et
+     l’intrépidité de la famille, car <persName ref="people.xml#jos02"> Joseph II</persName> gâtait
+     ses affaires, si j’ose le dire, par cette même intrépidité que j’ai vue dans toute son étendue
+     lorsqu’il reçut en <rs ref="places.xml#cri01"> Tauride</rs>, et moi aussi, la première nouvelle
+     des troubles des <placeName ref="places.xml#hol02">Pays-Bas</placeName>; il m’en parla, et je
+     pris la liberté de lui dire à coeur ouvert mon avis; je vous avoue que je fus effrayée de ce
+     qu’il me répondit. Mais voyant qu’il avait plus d’esprit et de facilité à parler que moi, je me
+     tus, lui faisant sentir cependant quelle aurait été la marche de mes idées en pareille
+     occasion; je ne pouvais lui en dire plus, parce que probablement il devait connaître le local
+     que j’ignorais, mes idées, en général, par coutume ne pouvant être bonnes que pour le mien. Je
+     ne sais ce que <persName ref="people.xml#did03"> Didot</persName> entend par mes mémoires, mais
+     ce qu’il y a de sûr, c’est que je n’en ai pas écrit et que si c’est un péché de ne l’avoir pas
+     fait, je dois m’en accuser.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-06-21">23 juin</date>.</dateline></opener>
+    <p>Je vois que vous vous intéressez pour Mad. <persName ref="people.xml#boe02">
+      Boehmer</persName> et ses enfants; or, cette madame <persName ref="people.xml#boe02">
+      Boehmer</persName>, après la mort de son mari, a obtenu une terre <hi rend="italic">auf
+      Arrende </hi>pour douze ans; ces terres en arrende demandent de l’économie, et il est défendu
+     de les donner in <hi rend="italic">Subarrende</hi>; or Mad. Boehmer les a fait administrer Dieu
+     sait par qui, demeurant avec ses enfants à <placeName ref="places.xml#ber01"
+     >Berlin</placeName> et hors du pays; les 12 ans passés, on n’a pas cru devoir la préférer aux
+     habitants du pays nécessiteux tout comme elle peut-être, mais natifs, tandis que Mad. <persName
+      ref="people.xml#boe02"> Boehmer</persName> a joui pendant 12 ans d’un bienfait et d’un revenu
+     peu mérité, tandis que nous avons des veuves d’officiers tués pour le service de la patrie, et
+     je ne vois pas la nécessité qu’elle se quarre à <placeName ref="places.xml#ber01"
+      >Berlin</placeName> avec les revenus de l’arrende de <placeName ref="places.xml#liv02">
+      Livonie</placeName> qu’elle suce. Sa fille est mariéé à <persName ref="people.xml#bou02">
+      Corberon</persName> qui fut autrefois chargé d’affaire du <persName ref="people.xml#lou01">
+      roi de <placeName ref="places.xml#fra01">France</placeName></persName> en <placeName
+      ref="places.xml#rus01">Russie</placeName> et qui est un déterminé voyeur d’esprits. Je suis
+     bien aise que vous rendiez justice à <persName ref="people.xml#jos01"> Joseph II</persName>: je
+     l’aimais d’une amitié vraiment sincère, et il m’aimait de même, et je ne saurais me souvenir de
+     lui sans attendrissement; c’est une terrible lettre que celle qu’il m’écrivit; je lui répondis
+     immédiatement, mais ma lettre est venue trop tard. J’espère beaucoup de son <rs
+      ref="people.xml#leo01"> successeur</rs>, qui s’annonce avec beaucoup de prudence, de sagesse,
+     de fermeté et dignité, et qui donne en toute chose des impressions favorables à son sujet.
+     Voilà le numéro 15 coulé à fond.</p>
+    <p>Puisque vous aimez les coups portés aux ennemis, uous vous en instruirons par <persName
+      ref="people.xml#bac01"> Bacchus</persName> tout de suite; remarquez la date s’il vous
+     plaît.</p>
+    <p>J’entreprends le No 16 daté du 10 (21) mars. La manière dont vous avez lu ma lettre de quatre
+     pages, que <persName ref="people.xml#bac01"> Bacchus</persName> vous a envoyée, est tout-à-
+     fait nouvelle: vous l’avez lue par lambeaux; je sais ce que c’est que l’assemblée nationale
+     mettant la <placeName ref="places.xml#fra01">France</placeName> en lambeaux; le mal vous gagne,
+     et vous traitez mes lettres, comme elle traite le royaume, qui apparemment n’en est plus
+     un.</p>
+    <p>Vous aurez avec celle-ci la pancarte commencée le 13 janvier 1789. Tenez, la voilà: c’est
+     avec peine que je l’ai retrouvée; c’est bien celle-là et tout ce qu’elle contient qui est très
+     parfaitement de la moutarde après dîner; mais en la lisant j’y ai trouvé autant de chaleur que
+     de rapidité. Je plains vos yeux d’être obligés de faire une lecture aussi inutile à peu près.
+     Je vous répète de ne pas donner au maire démonarchiseur le portrait le plus aristocrate de
+      l’<placeName ref="places.xml#eur01">Europe</placeName>; je ne veux rien avoir à faire avec
+     Jean Marcel, qu’on enverra à la lanterne au premier jour; je vous le (dis) bien expressément,
+     entendez-vous, malgré ce qui en est dit dans la vieille pancarte ci- jointe; alors les choses
+     n’étaient pas ce qu’elles sont devenues. <seg xml:lang="de"> Die dummen Kötze, die Mißgeburten
+      und alle die Höllischen Barren müßen derbe Prügel friegen, und dann werden sie lernen das Maul
+      halten und höflicher zu werden; der dumme Tölpel Gu. Hat ein drittes Weib sich antrauen laßen;
+      der Kerl kann nicht genung angetraute Weiber debekommen; das ist mir ein Kerl, ein
+      gewißenhafter Kerl</seg>. Monsieur de <persName ref="people.xml#lan05"> Langeron</persName>
+     est avec le <persName ref="people.xml#nas01"> prince de Nassau</persName>; il me paraît un
+     chevalier français qui ne raffole pas de votre folle démocratie royale; il m’a remis ou fait
+     remettre vos envois. Remerciez, s’il vous plaît, le comte de <persName ref="people.xml#seg01"
+      >Ségur</persName> de ses écrits; je suis persuadée que ses intentions sont bonnes; il a l’âme
+     noble, il est instruit et éclairé, mais je doute, tout comme vous, qu’il réussisse.</p>
+    <p>Savez-vous bien que si je vous renvoie vos lettres, cela fera non la charge d’un mulet, mais
+     la cargaison d’un navire, et comment le faire passer avant que le canal de <placeName
+      ref="places.xml#die01"> Dieppe</placeName> à <placeName ref="places.xml#par01"
+      >Paris</placeName> ne soit creusé, et comment les faire passer quand on pille et qu’il n’y a
+     aucune sûreté, et tandis que tout le monde n’est pas rossé encore? Je n’ai point, à ce qu’il me
+     paraît, encore les paquets du <persName ref="people.xml#dam01"> comte de Damas</persName>.
+     Jamais à <placeName ref="places.xml#kie01"> Kief</placeName> personne ne se serait douté
+      qu’<persName ref="people.xml#lam01"> Alexandre de Lameth</persName> deviendrait un enragé.
+     Laissons là le jésuite de <placeName ref="places.xml#neu02"> Neuwied</placeName> et son bureau.
+      <persName ref="people.xml#pon03">Mad. de Pons</persName> est ici. Vous pourrez vous promener
+     cet été sur les grands chemins et y rencontrer votre cher St Nicolas qui s’en va à <placeName
+      ref="places.xml#fra03"> Francfort</placeName>. Puisque la petite <persName
+      ref="people.xml#cat05"> Katinka de Buéil</persName> vient chez vous baiser la marraine et ses
+     petits garçons qui sont à côté, je vous enverrai, dès qu’on me l’apportera, les six têtes de
+     mes <rs ref="people.xml#ale01 people.xml#kon01">petis-fils</rs> et <rs
+      ref="people.xml#ale02 people.xml#ele01 people.xml#eka01 people.xml#mar03"> filles</rs> en
+     estampes d’après un dessin fait par la <persName ref="people.xml#mar02">
+      grande-duchesse</persName>, qui est charmante. Votre commentaire sur le <persName
+      ref="people.xml#lou01"> roi des Français</persName> etc. est le meilleur de tous. Ils ont été
+     pêcher cela dans l’Histoire de <placeName ref="places.xml#fra01">France</placeName>; je pense
+     que <persName ref="people.xml#pha01"> Pharamond</persName> s’appelait le Roi des Francs. Mais
+     avec tous leurs arrangements, adieu la <placeName ref="places.xml#fra01">France</placeName>, et
+     voilà qui n’est pas plaisant.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

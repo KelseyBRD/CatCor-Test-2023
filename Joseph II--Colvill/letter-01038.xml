@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01038</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01038</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:14:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01038">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date when-custom="1782-08-01">1
+     d’août 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Ma joie a égalé ma reconnaissance à la lecture de la lettre qu’il a plu à
+    V. M. I. de m’écrire en date du 12 juillet. V. M. I. est accoutumée à faire des heureux ; Elle
+    s’empresse à contribuer au bonheur même de son Alliée. La promesse de V. M. I. de s’entendre
+    avec moi sur tous les événements possibles que les troubles de la <placeName
+     ref="places.xml#cri01">Crimée</placeName> pourraient occasionner, m’est un gage précieux de Son
+    amitié pour moi, dont Elle voudra bien me permettre de Lui témoigner ma très-vive gratitude.
+    C’est avec une entière confiance que dans peu j’aurai l’honneur de communiquer à V. M. I. mes
+    idées rédigées en forme, sans omission quelconque, et après avoir tourné mes yeux et mes pensées
+    de tous les côtés, je soumettrai le tout à la clairvoyance de mon Empereur <persName
+     ref="people.xml#jos01">Joseph</persName> II., des grands et éminents talents duquel j’ai la
+    plus intime conviction, et auquel je souhaite une santé aussi constante que le sera sans faute
+    la prospérité de Son très-glorieux règne. C’est avec ces sentiments et ceux de la plus haute
+    considération et de l’amitié la plus sincère que j’ai l’honneur d’être, Monsieur mon frère</p>
+   <closer><signed>de Votre Majesté Impériale <lb/> la bonne soeur et fidèle amie et alliée <persName ref="people.xml#cat01" type="signature"
+     >Catherine.</persName></signed></closer>
+   <postscript><p><rs ref="people.xml#pau01 people.xml#mar02">Mes enfants</rs> sont trop heureux
+    de se retrouver près de <persName ref="people.xml#jos01"> V. M. I.</persName></p></postscript>
+  </body>
+ </text>
+</TEI>

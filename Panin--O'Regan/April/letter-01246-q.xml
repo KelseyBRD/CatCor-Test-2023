@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01246</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01246</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Check of #people-leo02 – as Leopold, Prince of
+     Anhalt-Köthen died in 1728.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:16:24Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01246">
+  <body>
+   <p>Je me réjouis beaucoup de la continuation de la bonne santé de
+     mon <rs ref="people.xml#pau01"> fils</rs>; le bon
+     Dieu le bénisse. Le mauvais temps continue; je me rendrai demain à
+    <placeName ref="places.xml#tro02"> Troitza</placeName>; les mauvais
+     piétons sont fort aise des bourasques, qu’il fait. Si ce
+    <persName ref="people.xml#leo02"> Prince d’Anhalt Coethen</persName>
+    est un homme de mérite, comme il paroit par la lettre de M-r
+     <persName ref="people.xml#sal05"> Solticoff</persName>, il
+     sera le bien venu; mais si c'est une
+    <seg xml:lang="ru"> чучела</seg>, la parenté ne Me fera pas
+     plaisir; je vous prie d'en tirer des informations chez <persName ref="people.xml#bet01">
+     M-r Betzki</persName>; je vous souhaite beaucoup de santé, vous
+     étant toujours très affectionnée.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Catherine.</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

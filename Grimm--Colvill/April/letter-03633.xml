@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03633</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03633</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:21:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03633">
+  <body>
+
+   <opener><dateline> Се <date when-custom="1786-05-21">21 mai 1786</date>.</dateline></opener>
+   <p>J’ai reçu hier le No 67. <persName ref="people.xml#lav02"> M. Lavrof</persName> est de retour
+    ici depuis un mois, et son successeur doit être chez vous à l’heure qu’il est. Je me réjouis
+    avec vous du bonheur de votre pupille; le filleul ne pourra qu’être le bienvenu. J’ai vu dans
+    les nouvelles publiques la mort de votre conseiller privé d’ <persName ref="people.xml#enn01">
+     Ennery</persName>. Mettez s’il vous plaît la patte sur les pierres gravées et les portraits en
+    émail du défunt, et faites-nous savoir à temps le prix par le Glouton ou comme il vous plaira.
+    Notre table est chargée de la neuvième pièce de T. (<hi rend="italic">théâtre</hi>), et nous
+    avons si bien donné le ton et réchauffé la faisaillerie qu’il commence d’en pleuvoir de tous
+    côtés; il est à souhaiter seulement que la pluie ne soit pas aussi froide que celle
+    d’aujourd’hui où il ne fait que trois degrés de chaud. </p>
+   <closer><signed>Adieu. Quand est-ce que vous répondrez à l’immense envoi que je vous ai fait?
+    Quand est-ce que vous me direz ce que vous pensez des imprimés que je vous ai envoyés? Quand
+    est-ce que vous me parlerez et me répondrez à toutes mes questions? Quand est-ce que nos lettres
+    auront le sens commun? <persName ref="people.xml#zim01"> Zimmermann</persName> raffole du <title
+     xml:lang="de" ref="works.xml#deceiv01">Betrüger</title>; je soupçonne que c’est lui qui l’a fait jouer à
+     <placeName ref="places.xml#ham01"> Hambourg</placeName>. <seg xml:lang="ru"> Полно</seg> pour
+    aujourd’hui où il n’y a que trois fêtes.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02837</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02837</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#sweden"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:31:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02837">
+  <body>
+   <opener><dateline> ce <date when-custom="1788-12-19">19. Dec. v. st.
+    1788</date>.</dateline></opener>
+   <p>Je vous annonce, Monsieur, la prise <placeName ref="places.xml#otz01"> d’Otzakof</placeName>
+    emporté d’assaut le 6. Décembre v. st. en une heure et demi de tems à la petite pointe du jour,
+    les retranchemens, le château d’<persName ref="people.xml#cen01"> Hassan Pacha</persName> et la
+    forteresse même ont été attaqué et emporté à la fois par six colonnes; à la tête des deux
+    premières etoient les Lieutenants généraux <persName ref="people.xml#vic01"> Prince
+     d’Anhalt-Bernbourg</persName> et <persName ref="people.xml#sam02"> Samoilow</persName>, l’un
+    d’un côté, l’autre de l’autre, tout ayant plié devant eux par la même ils ont conquis la croix
+    de <orgName ref="orgs.xml#geor01"> St. George</orgName> de la 2. classe, le Maréchal
+     Prince <persName ref="people.xml#pot01">Potemkin</persName> qui m’a annoncé cette bonne
+    nouvelle par le Lieutenant <persName ref="people.xml#bau07"> Colonel Bauer</persName>, fils de
+     <rs ref="people.xml#bau01"> celui</rs> qui s’est rendu fameux dans la <name
+     ref="events.xml#seven01"> guerre de 7 ans</name> et chez nous dans la <rs
+     ref="events.xml#turki01"> dernière guerre</rs> et qui est mort Lieutenant-Général. Le Maréchal
+     Prince <persName ref="people.xml#pot01">Potemkin</persName> a reçu pour la conquête la grande
+    croix de <orgName ref="orgs.xml#geor01"> St. George</orgName> et son courier a été fait Colonel.
+    Ne sachant, où vous trouver, Monsieur, j’ai différé de vous faire part de cet événement
+    réjouissant pour nous et qui fera un effet contraire aux ennemis de la <placeName
+     ref="places.xml#rus01">Russie</placeName>. En recevant cette nouvelle j’ai etée incommodée d’un
+    refroidissement, qui cependant ne m’a pas empeché d’aller le lendemain au Te Deum qui a été
+    chanté comme de raison au bruit des canons. Nous attendons les détails. Adieu, portés vous bien,
+    nous avons une froideur de 25 à 28 dégrés d’une continuité rare, et comme il fait presque aussi
+    froid dans les pays étrangers cette hiver, je pense que vous en avés assés souffert dans
+    l’excursion qu’on vous a envoyé faire sans fruit en <placeName ref="places.xml#hol02"
+     >Hollande</placeName>. Si vous aviés passé la mer, vous auriés été le 7. des esculapes qui
+    entourent le <persName ref="people.xml#geo02"> Roy</persName> d’<placeName
+     ref="places.xml#eng01">Angleterre</placeName> dans la cruelle maladie qui l’afflige. Moi qui me
+    passe volontiers des membres de la faculté je trouve, que le nombre en est si grand, que le
+    malade aura beaucoup de bonheur, s’il sortira saint et sauf des mains de cette multitude, qu’en
+    dites vous? Recevés, s’il vous plait, cette remarque comme une preuve signalée de mon estime
+    pour vous et portés vous bien. </p>
+   <closer><signed rend="inline">Adieu</signed></closer>
+  </body>
+ </text>
+</TEI>

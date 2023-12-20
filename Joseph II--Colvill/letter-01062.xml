@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01062</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01062</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-18">11-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:20:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01062">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, cе <date when-custom="1784-11-20">20 novembre 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’amitié sincère que je porte à V. M. I. m’a fait prendre la part que je
+    devais à l’insulte que les Hollandais viennent de faire à Son pavillon. Cette république a été
+    bien mal conseillée lorsqu’on l’a portée à provoquer l’indignation de V. M. I. Les dispositions
+    magnanimes de V. M. I. qu’Elle veut bien me confier, sont dignes de Son grand coeur et de Son
+    humanité. En conséquence de Ses désirs j’ai ordonné à mon ministre à <placeName
+     ref="places.xml#lah01"> la Haye</placeName> de présenter aux Etats-Généraux une note
+    exhortatoire afin de les faire rentrer en eux-mêmes, sur laquelle mon ambassadeur près de V. M.
+    I. s’expliquera plus amplement avec Son ministère, de même que sur les ordres que j’ai fait
+    donner à mon envoyé <persName ref="people.xml#kal03"> Kalitschef</persName>. Je souhaite de tout
+    mon coeur que cette démarche puisse avoir le succès désiré, et que mes bonnes intentions ne
+    soient pas de nouveau contrariées par des impulsions étrangères comme elles l’ont été dans la
+    guerre passée. Cette fois-ci j’en ressentirais une peine véritable par le désir que j’ai de voir
+    les affaires de V. M. tourner selon Ses souhaits. Je suis fâchée de ce que ce contre-temps soit
+    survenu au moment où je m’employais efficacement pour la grande affaire dont V. M. I. avait
+    formé le plan qui me paraissait si avantageux pour Sa monarchie. Tout ceci laisse entrevoir
+    combien il est essentiel de s’assurer de la vraie façon de penser de la Cour de <placeName
+     ref="places.xml#ver01">Versailles</placeName>. V. M. I. est plus à portée que personne de
+    l’approfondir, et je me flatte qu’Elle voudra bien me communiquer les informations qui Lui en
+    parviendront. Au reste en cette occasion comme en toute autre je me ferai un vrai plaisir de
+    prouver à V. M. I. l’étendue des sentiments vrais et inviolables avec lesquels j’ai l'honneur
+    d’être ....</p>
+  </body>
+ </text>
+</TEI>

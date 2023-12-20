@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09031</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09031</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09031"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-07-09">1787 г. июля 9.</date>
+                    <placeName ref="places.xml#val02">В Валдае.</placeName></dateline>
+            </opener>
+            <p>Сей дом, сказывают, казенный. Давно сказано писанно (sic) и словесно, чтоб в казенных домах панели и у окошек и дверей коробки деревянныя не клали, и почтено сие за излишний убыток: понеже за панелями клопы лишь водятся и иныя гадины, а коробки мороз дерет; здесь же поделаны коробки и панели. Сие не оставьте без примечания для переду. А сей дом строен еще, чаю, при <persName ref="people.xml#sie01">Сиверсе</persName>.</p>
+        </body>
+    </text>
+</TEI>

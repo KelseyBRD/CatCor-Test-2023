@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01161</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01161</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#russianorthodoxchurch"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Not sure if I need to mark Татары. Maybe we need a separate keyword for them too</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-19"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01161">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#gol01">деревни</placeName>
+                <persName ref="people.xml#orl06">Графа И. Гр. Орлова</persName>.<lb/>
+                <date when-custom="1767-06-03">Июня 3 дня, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Вчерась я причиною была, что куриер к Вам не отправлен; я все ждала Вашего, которой,
+                знатно, проехал в <placeName ref="places.xml#kaz01">Казань</placeName>, откуда еще
+                не поворотился. Вчерашний день мы ездили на берег смотреть развалины старинного,
+                    <persName ref="people.xml#tam01">Тамерланом</persName> построеннаго, города
+                    <placeName ref="places.xml#bol02">Болгары</placeName> и нашли действительно
+                остатки больших, но не весьма хороших, строений, два <placeName
+                    ref="places.xml#tur01">Турецкия</placeName> минарета весьма высокия, и все, что
+                тут ни осталось, построено из плиты очень хорошей; Татары же великое почтение имеют
+                к сему месту и ездятъ Богу молиться в сии развалины. Сему один гонитель, <placeName
+                    ref="places.xml#kaz01">Казанской</placeName> Архиерей, <persName
+                    ref="people.xml#luk01">Лука</persName>, при покойной Императрице <persName
+                    ref="people.xml#eli02">Елисавете Петровне</persName> позавидовал и много
+                разломал, а из иных построил церковь, погреба и под монастырь занял, хотя <persName
+                    ref="people.xml#pet01">Петра I</persName> Указ есть, чтоб не вредить и не ломать
+                сию древность. Сей день здесь провожу, а завтра в <placeName ref="places.xml#uly01"
+                    >Синбирск</placeName> поеду, разстоянием отселе в пятидесяти верстах, NB что я
+                на луговой стороне, мы все здоровы.</p>
+            <closer rend="inline"><persName ref="people.xml#pau01">В. Князю</persName> прошу
+                кланяться и желаю Вам обоим здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p>К <placeName ref="places.xml#mos01">Москве</placeName> неотменно буду между 15 и
+                    20 числом сего месяца.</p>
+            </postscript>
+
+        </body>
+    </text>
+</TEI>

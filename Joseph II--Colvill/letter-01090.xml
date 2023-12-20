@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01090</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01090</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:27:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01090">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, le <date
+     when-custom="1789-03-27">27 mars 1789</date>.</dateline></opener>
+   <p>Monsieur mon frère. C’est avec une joie bien vraie que j’ai appris par la lettre de V. M. I.
+    du 9 février que Sa santé a commencé à devenir meilleure. Je prie Dieu que la belle saison qui
+    approche, achève de la raffermir parfaitement, et que les travaux et les fatigues qu’elle
+    amènera, n’en empêchent pas l’effet salutaire. Par une suite de l’amitié la plus vraie et de
+    l’intérêt le plus sincère que je prends à une santé aussi chère que précieuse, je ne saurais
+    m’empêcher de prier V. M. I. très-instamment d’employer les soins et les ménagements les plus
+    propres pour la mettre à l’abri des atteintes qui pourraient lui être nuisibles.</p>
+   <p>Ma satisfaction se renouvelle toutes les fois que V. M. I. me donne des marques de celle
+    qu’Elle ressent de ma façon de penser et d’agir. Les démarches qu’Elle a jugées à propos de
+    faire à <placeName ref="places.xml#ist01">Constantinople</placeName> par l’ambassadeur
+     de <placeName ref="places.xml#fra01">France</placeName>, sont dignes de Sa haute sagesse et
+    pénétration. J’ai chargé <rs ref="people.xml#gol04"> mon ambassadeur</rs> près de V. M. I. de
+    témoigner à <rs ref="people.xml#kau01"> Son ministère</rs> toute l’étendue de mon contentement à
+    ce sujet. Elle sera informée par la même voie de la démarche que j’ai fait faire à l’appui de
+    celle de V. M. I. Je n’en sens pas moins la nécessité de redoubler d’efforts pour et pendant la
+    campagne prochaine. Toutes mes mesures sont prises et mes ordres données en conséquence; la <rs
+     ref="events.xml#turki02"> campagne</rs> s’ouvrira aussitôt que la saison et les circonstances
+    le permettront.</p>
+   <p>Je crois m’être conformée aux idées de V. M. I. par rapport aux opérations à exécuter pendant
+    cette <rs ref="events.xml#turki02"> campagne</rs>, et je La prie de croire que je ne m’occupe
+    jamais de mes intérêts sans y comprendre au même degré les siens. Confiante dans les sentiments
+    d’amitié et d’intérêt que V. M. I. me porte, je suis remplie du désir de Lui en témoigner mon
+    très-parfait retour. Je suis avec la plus haute considération et l’attachement le plus
+    inviolable ....</p>
+  </body>
+ </text>
+</TEI>

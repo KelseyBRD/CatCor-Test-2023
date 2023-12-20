@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00538</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00538</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#navy"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-02-05">05 February 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00538">
+                <body>
+                  
+                    <p>От Вашей Светлости подобного бешенства ожидать надлежит, буде доказать Вам
+                        угодно в публике так, как и передо мною, сколь мало границы имеет Ваша
+                        необузданность. И, конечно, сие будет неоспоримый знак Вашей ко мне
+                        неблагодарности, так как и малой Вашей ко мне привязанности, ибо оно
+                        противно как воле моей, так и несходственно с положением дел и состоянием
+                        персон.</p>
+                    <p><placeName ref="places.xml#hab01">Венский двор</placeName> один. Из того
+                        должно судить, сколь надежна я есмь в тех персон[ах], коих я рекомендую им к
+                        вышним достоинствам. Так--то оказывается попечение Ваше о славе моей.</p>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

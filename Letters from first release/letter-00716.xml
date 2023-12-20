@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00716</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00716</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-08">08 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00716">
+                <body>
+                    <opener><dateline><date when-custom="1782-09-30">Сентября 30 ч., 1782
+                        года</date></dateline></opener>
+                    
+                    <p>С сегодняшними твоими имянинами поздравляю тебя от всего сердца. Сожалею, что
+                        не праздную их обще с тобою. Желаю тебе тем не меньше всякого добра, наипаче
+                        же здоровья. Об моей к тебе дружбе всегдашней прошу ни мало не сумневаться,
+                        равномерно и я на твою ко мне привязанность щитаю более, нежели на каменных
+                        стен. Письмо твое от 19 сентября из <placeName ref="places.xml#khe01"
+                            >Херсона</placeName> до моих рук доставлено. Неблистающее описание
+                        состояния <placeName ref="places.xml#och01">Очакова,</placeName> которое ты
+                        из <placeName ref="places.xml#kin01">Кинбурна</placeName> усмотрел,
+                        совершенно соответствует попечению той Империи об общем и частном добре, к
+                        которой по сю пору принадлежит. Как сему городишке нос подымать противу
+                        молодого <placeName ref="places.xml#khe01">Херсонского Колосса!</placeName>
+                        С удовольствием планы нового укрепления <placeName ref="places.xml#kin01"
+                            >Кинбурна</placeName> прийму и выполнение оного готова подкрепить
+                        всякими способами. <persName ref="people.xml#pet01">Петр Первый,</persName>
+                        принуждая натуру, в Балтических своих заведениях и строениях имел более
+                        препятствий, нежели мы в <placeName ref="places.xml#khe01"
+                            >Херсоне.</placeName> Но буде бы он оных не завел, то мы б многих
+                        лишились способностей, кои употребили для самого <placeName
+                            ref="places.xml#khe01">Херсона.</placeName> Для тамошняго строения
+                        флота, как Охтенских плотников, так и Олончан, я приказала приискать, и по
+                        партиям отправим. А сколько сыщутся, тебе сообщу. По письмам <persName
+                            ref="people.xml#ves01">Веселицкого</persName> из Петровской крепости я
+                        почитаю, что скоро после отправления твоего письма, ты с Ханом имел
+                        свидание. Батыр-Гирей и Арслан-Гирей изчезнут, яко воск от лица огня, так и
+                        они, и их партизаны, и покровители - от добрых твоих распоряжений. Что
+                        татары подгоняют свой скот под наши крепости, смею сказать, что я первая
+                        была, которая сие видела с удовольствием и к тому еще до войны поощряла
+                        всегда предписанием ласкового обхождения и, не препятствуя, как в старину
+                        делывали. Здесь говорят, что турки до войны не допустят, а я говорю:
+                            <seg xml:lang="fr">cela se peut.</seg></p>
+                    <p> Кажется по последним известиям, что носы осунулись у них. Курьер сказывает,
+                        что по всей дороге нет ни единого города, ни единого замка, который бы не
+                        заперт был по причине внутренних конвульсий каждого из тех городов и
+                        замков.</p>
+                    <p>Принц <persName ref="people.xml#fri02">Виртембергский</persName> приехал
+                        сегодни и завтра ко мне будет. </p>
+                    <closer><signed rend="inline">Прощай, мой друг сердечный. <persName
+                            ref="people.xml#ska01">Кате,</persName> твоей племяннице, есть лехче,
+                        только наружные чирьи еще не все миновались.
+                        </signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

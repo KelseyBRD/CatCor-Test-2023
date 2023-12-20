@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03560</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03560</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:51:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03560">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarskoé-Sélo</placeName>, ce <date when-custom="1779-04-27">27 d’avril
+    1779</date>.</dateline></opener>
+   <p>Ce matin à 9 heures la <persName ref="people.xml#mar02"> grande-duchesse</persName> est
+    accouchée d’un <rs ref="people.xml#kon01"> second fils</rs>, et tout le monde se porte bien, et
+    moi aussi, ma je suis très fatiguée et par conséquent peu disposée pour l’écriture, de quoi vous
+    pouvez remercia: le ciel, parce que cela vous dispensera de l’ennui de lire une trop longue
+    pancarte. Celle-ci, je vous prie de la recevoir comme un post-scriptum annexé à la première
+    lettre que je vous écrirai. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03651</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03651</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-19">19-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:22:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03651">
+  <body>
+<div>
+   <opener><dateline> Ce <date when-custom="1787-09-13">13 septembre 1787</date>.</dateline></opener>
+   <p>Le <rs ref="people.xml#kar03"> père de  Zelmire</rs> se trouvant dans un pays, pour le
+    présent, et à la tête d’affaires dont je ne me soucie pas qu’on dise que je me mêle ni en blanc
+    ni en noir, je ne trouve pas à propos non plus qu’on voie aller et venir mes courriers chez lui,
+    et à cet effet je vous dirai à vous ce qui regarde les affaires de <persName ref="people.xml#aug01"> Zelmire</persName>.
+    Celle-ci, quelque peine que je me suis donnée jusqu’ici, ne marque aucune envie de retourner
+    dans sa patrie. Elle dit, <seg xml:lang="it"> primo</seg>, qu’elle n’a que du chagrin et des
+    chicanes à y attendre, que comme son entretien doit dépendre de <rs ref="people.xml#fri06"> son
+     mari</rs>, elle regarde comme une chose hors de doute qu’il ne lui donnera rien, qu’elle serait
+    à charge seulement à ses parents, et que ceux-ci la persécuteraient de retourner chez son mari
+    tous les jours de la vie, et que de retourner chez lui, elle croirait que sa vie ne serait pas
+    même en sûreté; ergo donc, elle préfère de rester où elle est, où elle est à l’abri de toutes
+    persécutions, vivant très petitement, mais dans une fort grande tranquilité. Si vous voulez
+    savoir le dessous des cartes de tout cela, je vous le dirai, et mon sentiment
+    aussi. <persName ref="people.xml#aug01"> Zelmire</persName> est partie d’ici pour une terre que j’ai en <placeName
+     ref="places.xml#est01"> Esthonie</placeName>, nommée <placeName ref="places.xml#loh01">
+     Lohde</placeName>, trois ou quatre jours avant mon départ pour <placeName
+     ref="places.xml#kie01"> Kiov</placeName>, à la fin de l’année passée, dans la ferme résolution
+    d’y attendre l’arrangement définitif de son affaire, qui avait été, dès le premier instant,
+    renvoyée par moi et par elle au bon plaisir de son père, à qui j’avais envoyé un courrier. M.
+     <rs ref="people.xml#kar03"> son père</rs> a jugé à propos, après l’arrivée de mon courrier,
+    d’avoir plusieurs entrevues avec l’époux de <persName ref="people.xml#aug01"> Zelmire</persName>; il est assez singulier sans
+    doute que le père d’une fille outragée et malheureuse ait des entrevues et se laisse fasciner
+    les yeux par un furieux, et <persName ref="people.xml#aug01"> Zelmire</persName> croit et est persuadée que M. son <rs
+     ref="people.xml#kar03"> père</rs> donne pleine croyance à tout ce qu’il a plu au cher mari de
+    débiter contre elle. Il est vrai que les lettres de М. <rs ref="people.xml#kar03"> son
+    père</rs>, et surtout l’envoi d’un nommé <persName ref="people.xml#sch04"> Schroeder</persName>,
+    actuellement au service <rs ref="people.xml#fri06"> du mari</rs> et que le <rs
+     ref="people.xml#kar03"> papa</rs> a chargé d’une lettre pour <rs ref="people.xml#aug01"> sa
+     fille</rs> et qu’il a lui-même expédié pendant mon absence à <placeName ref="places.xml#loh01">
+     Lohde</placeName>, témoignent suffisamment que <rs ref="people.xml#kar03"> papa</rs> et <rs
+     ref="people.xml#fri06"> mari</rs> sont d’accord, que <rs ref="people.xml#kar03"> papa</rs> n’en
+    agit pas avec une loyauté naturelle à un grand caractère, comme je me suis toujours figurée le
+    sien. Il ne tiendrait même qu’à moi de me plaindre du peu de franchise du duc vis-à-vis de moi;
+    je le lui ai fait sentir, et il s’est assez mal tiré d’affaire eu glissant sur cet article de ma
+    lettre. Imaginez-vous que tandis que le <rs ref="people.xml#kar03"> père</rs> expédie ce
+     <persName ref="people.xml#sch04"> Schroeder</persName> à <placeName ref="places.xml#loh01">
+     Lohde</placeName> avec une lettre fulminante à <rs ref="people.xml#aug01"> sa fille</rs>, dans
+    laquelle il lui <hi rend="italic">ordonne</hi> de signer en présence de <persName
+     ref="people.xml#sch04"> Schroeder</persName> des points très peu favorables à <rs
+     ref="people.xml#aug01"> sa fille</rs>, il m’écrit à moi une lettre à <placeName
+     ref="places.xml#kie01"> Kiov</placeName>, par laquelle il me prie de la conseiller. Cela
+    s’appelle, selon moi, se moquer des gens. Il ordonne à <rs ref="people.xml#aug01"> sa fille</rs>
+    de signer à <placeName ref="places.xml#loh01"> Lohde</placeName>, tandis que je suis à mille et
+    plus de verstes, et moi il me prie de la conseiller: ou bien elle signera sans mon conseil, ou
+    bien elle désobéira et me consultera, et moi qui ne sais rien des ordres qu’elle a reçus, je
+    conseillerai. <seg xml:lang="it"> Ma</seg> à bon chat bon rat. <persName ref="people.xml#sch04">
+     Schroeder</persName> n’a point vu <persName ref="people.xml#aug01"> Zelmire</persName>. Mon ami monsieur <persName
+     ref="people.xml#poh01"> Pohlmann</persName>, qui a soin du petit ménage de <persName ref="people.xml#aug01">
+    Zelmire</persName>, prudent et prévoyant et qui n’a que le bien de <persName ref="people.xml#aug01"> Zelmire</persName> en vue, a fort
+    poliment renvoyé l’ <rs ref="people.xml#sch04"> envoyé du mari et du père</rs>, et lui a dit
+    que sans mon ordre exprès, personne n’était admis à l’audience de <persName ref="people.xml#aug01"> Zelmire</persName>. Alors
+     <persName ref="people.xml#sch04"> Schroeder</persName> a tiré la lettre du <rs
+     ref="people.xml#kar03"> père</rs>; elle a été remise à <persName ref="people.xml#aug01"> Zelmire</persName>. Cette lettre
+    fulminante a mis <persName ref="people.xml#aug01"> Zelmire</persName> au désespoir: elle en a été malade et au lit; sur ces
+    entrefaites je suis revenue ici, et comme j’ai été informée de son état de chagrin, nous nous
+    sommes écrit plusieurs lettres, et après avoir tout dit ce que j’ai pu lui dire de raisonnable
+    pour la faire retourner chez ses parents, en vérité j’ai eu pitié de son état, et vous pouvez
+    être assuré que je ne ferai plus un seul pas ni vis-à-vis de <persName ref="people.xml#aug01"> Zelmire</persName>, ni de M. <rs
+     ref="people.xml#kar03"> son père</rs>. <persName ref="people.xml#aug01"> Zelmire</persName> restera à <placeName
+     ref="places.xml#loh01"> Lohde</placeName> tant qu’il lui plaira, et elle retournera chez ses
+    parents quand il lui plaira aussi, et puisqu’elle est contente de rester en <placeName
+     ref="places.xml#est01"> Esthonie</placeName>, je le suis aussi, et puisque le <rs
+     ref="people.xml#kar03"> cher papa</rs> aime mieux écouter le <rs ref="people.xml#fri06">
+     monstre de mari</rs>, et puisqu’il a plus de crédit chez lui que <persName ref="people.xml#aug01"> Zelmire</persName> et moi,
+    il n’a qu’à l’écouter et s’engraisser ou s’en maigrir de ses discours tant qu’il lui
+    plaira. <persName ref="people.xml#aug01"> Zelmire</persName> n’ayant que moi au monde, je jure entre vos mains que je ne
+    l’abandonnerai pas. Elle est douce comme un agneau à <placeName ref="places.xml#loh01">
+     Lohde</placeName>, et elle se fait adorer du peu de monde qui l’entoure. <persName
+     ref="people.xml#poh01"> Pohlmann</persName> est devenu son ami; <persName
+     ref="people.xml#wil06"> madame Wilde</persName> aussi; ses gens ne jurent que par elle; elle
+    lit ou travaille, ou fait de la musique, ou se promène; avec cela elle est courageuse et
+    ferme.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1787-10-04">4 d’octobre 1787</date>. </dateline></opener>
+   <p>Rien n’est changé à l’état de <persName ref="people.xml#aug01"> Zelmire</persName> depuis que je vous ai écrit les pages
+    précédentes. <seg xml:lang="it"> Ma</seg> hier j’ai reçu vos deux lettres du 21 d’août (1
+    septembre) et 8 (19) septembre en même temps; les incluses ont été rendues tout de suite à <rs
+     ref="people.xml#dmi01"> l’habit vert et rouge</rs>, au <persName ref="people.xml#lig01"> prince
+     de Ligne</persName> et à M. <persName ref="people.xml#rog01"> Rogerson</persName>?</p>
+   <p>Dieu merci que vous êtes content de moi et de <name ref="events.xml#crime01"> mon voyage de
+     Tauride</name>. Je suis fort curieuse de savoir si M. <persName ref="people.xml#tou01">
+     Toutolmine</persName> obtiendra sa charge, on s’il n’aura rien, quoique quelques mots de votre
+    lettre me donnent ou me bercent de quelque doux espoir. Pour de l’édition des <title
+     ref="works.xml#oeuvre02"> oeuvres de Voltaire figaroisé</title>, nous ne nous en soucions point
+    du tout: autant vaut pour le confrère <persName ref="people.xml#gol12"> Goldoni</persName>, mais
+    tout cela nous est arrivé avec vos pancartes en même temps. M. <rs ref="people.xml#dmi01">
+     l’habit rouge</rs> vous honore d’une réponse charmante qu’il a rétirée pour y ajouter encore
+    tout plein de folies; n’est-il pas vrai qu’il écrit parfaitement bien et avec esprit et
+    facilité? En un mot, je vous prie de l’aimer, parce qu’il est infiniment aimable; je m’en
+    rapporte au comte de <persName ref="people.xml#seg01"> Ségur</persName> et au <persName ref="people.xml#lig01"> prince de
+     Ligne</persName>, qui passent des moments bien agréables avec lui; il va vous envoyer un
+    proverbe, moitié à lui, moitié à moi; il en pleut chez nous, et nous avons décidé que c’est
+    l’unique moyen de ramener la bonne comédie au théâtre. Quoique votre réponse au <persName
+     ref="people.xml#lig01"> prince de Ligne</persName> ne fût pas cachetée, cependant je ne l’ai
+    pas lue, faute de temps; si elle me revient, je la commenterai, si j’en ai le temps. Je jure
+    entre vos mains que je tâcherai de répondre à la politesse musulmane du mieux que je pourrai et
+    que je l’entendrai, et vous feriez fort bien de vous... des musulmans. Au bout du compte je ne
+    suis pas la seule offensée, car ces marabouts ont refusé d’entendre ce que les trois cours
+    étaient convenues de leur dire, et par conséquent, comme je l’entends, ont offensé les deux
+    autres aussi; <seg xml:lang="de"> die arme Leute</seg> ci-devant ne se laissaient pas
+    chiquenauder de tout côté impunément; si le goût leur en est venu présentement, c’est assurément
+    un goût nouveau, qui fera que l’opinion publique changera aussi; enfin chacun galvaude ses
+    affaires à son gré, et celles d’autrui ne sont pas les miennes; pour mon rôle, il est tout
+    décidé, et je tâcherai de le jouer le mieux que je pourrai, et, qui plus est, j’espère qu’il ne
+    sera pas excessivement difficile. Pour au <rs ref="people.xml#bob01"> jeune voyageur</rs>, vous
+    direz ou écrirez qu’il est décidé de ne recevoir aucun volontaire à l’armée, ni sien ni
+    étranger, et que par conséquent il peut rester par congé où il est, et payer ses dettes et
+    manger son revenu, et je vous remercie beaucoup des peines que vous vous êtes données pour
+    arranger ses affaires, à moins qu’il ne montre de l’envie de s’embarquer en <placeName ref="places.xml#eng01">
+    Angleterre</placeName>, l’année qui vient, sur nos vaisseaux qui iront dans la Méditerranée. Adieu,
+    monseigneur; que le ciel vous donne santé et prospérité, et si le <rs ref="people.xml#bob01">
+     jeune homme</rs> désire de faire cette croisade en mer, je n’y refuse point mon consentement,
+    et l’amiral pourra encore à temps recevoir l’ordre de le recevoir.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1787-10-07">7 octobre</date>.</dateline></opener>
+   <p>Je vous avertis que <rs ref="people.xml#dmi01"> l’habit rouge</rs> est plus fou que moi en
+    fait de pierres gravées et de médailles: j’ai eu bien de la peine aujourd’hui, après deux heures
+    d’examen, de le tirer du médaillier où il s’était si bien entouré de coffres et de coffrets
+    qu’on ne pouvait plus passer par la chambre, et puis il a fini par emporter la clef de la
+    chambre pour que personne ne lui dérangeât le bel arrangement qu’il y a fait et qui barre si
+    bien l’entrée et l’accès que je défie qui que ce soit d’y pénétrer sans cette précaution même,
+    très inutile à mon avis et qu’il trouve d’une très haute prudence.</p></div>
+  </body>
+ </text>
+</TEI>

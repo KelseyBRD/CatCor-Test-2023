@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01137</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01137</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#prussia"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unclear which vice-chancellor is being referred to:
+     Ostermann, Golitsyn?.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-05">05/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:26:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01137">
+  <body>
+   <p>Monsieur <persName ref="people.xml#pan01">
+     Panin</persName>! Le Vice-Chancellier est venu Me dire hier, que
+     le Ministre de <placeName ref="places.xml#pru01"> Prusse</placeName>
+    avoit reçu un courrier de son Maître, qui lui ordonnoit de déclarer
+     qu’il seroit cause commune avec nous en <placeName ref="places.xml#pol01">
+     Pologne</placeName>, mais qu’il désiroit que, ses trouppes
+     n’entrassent point dans ce pays, parcequ’il croyoit, que dès que les siennes paroitroient, les
+     Autrichiens feroient entrer les leurs. Que le Comte <persName ref="people.xml#sol01">
+     Solms</persName>
+    lui avoit dit, que le Comte <persName ref="people.xml#rze01">
+     Rzewousky</persName>
+    débitoit ici, que sa cour n’avoit plus d’autres ressources, que de
+     se jeter entre les bras de celle de <placeName ref="places.xml#vie01">
+     Vienne</placeName>; que lui Vice-Chancellier vous avoit dit tout
+     cela, et que vous aviez conclu tous deux par supposer, que le dernier courrier de
+     <persName ref="people.xml#lob01"> Lobkowitz</persName>
+    lui avoit apparemment apporté quelque déclaration à faire dans le
+     cas ci-dessus marqué; qu’outre cela <persName ref="people.xml#rze01"> Rzewousky</persName>
+    lui avoit demandé réponse à la dernière note remise de leur part au
+     Prince <persName ref="people.xml#rep01"> Repni</persName>n
+     par rapport aux trouppes, qui sont sur les terres de <rs ref="people.xml#mas01"> l’Evêque
+     de Vilna</rs>. A cela J’ai répondu, que Je croyois, que le
+     meilleur dans le moment présent étoit de ne point faire de réponse et d’attendre le courrier du
+     Prince <persName ref="people.xml#rep01"> Repnin</persName>,
+     pour voir si la diète en a fait une à la déclaration de cet Ambassadeur lors de son audience
+     publique, et qu’au surplus Je lui recommandois de vous parler de tout cela et de convenir avec
+     vous de ce, qui seroit de plus convenable à faire, sans trop se presser sur les réponses, afin
+     de ne point faire de pas de clerc. Ceci vous en paroîtra peut-être un, mais J’ai cru devoir
+     vous informer de ceci, afin que vous voyiez, si J’ai bien compris le Vice-Chancellier et pour
+     cause. Tâchez de vous porter mieux, et soyez assuré, que votre maladie m’a causé bien de
+     l’inquiétude. </p>
+   <closer><signed><persName ref="people.xml#cat01"> Catherine.</persName> </signed>
+   <dateline>A <placeName
+     ref="places.xml#tsa01"> Czarskoe Selo.</placeName>
+    ce <date when-custom="1766-11-12">12 Novembre, 1766</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

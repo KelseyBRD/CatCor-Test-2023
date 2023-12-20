@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00075</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00075</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#censorship"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-05">5 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Replaced the text, since the wrong letter was scanned. Further markup, tagging,
+                    translation.</p>
+            </change>
+            <change>
+                <date when="2014-04-20">20 April 2014 </date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Annotation.</p>
+            </change>
+            <change>
+                <date when="2014-02-05">3 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Themes.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00075">
+                <body>
+                    <opener><salute rend="inline">Петр Дмитриевич.</salute></opener>
+                    <p>По доходящим сюда слухам, что на <placeName ref="places.xml#mos01"
+                            >Москве</placeName> хотят переводить <rs ref="works.xml#oeuvre02">новое
+                            издание</rs>
+                        <persName ref="people.xml#bea01">Бомарше</persName> всех сочинений <persName
+                            ref="people.xml#vol01">Вольтера</persName> в 69 томах состоящее,
+                        прикажите <orgName ref="orgs.xml#mosc01">Управе Благочиния</orgName> и <rs
+                            ref="people.xml#tol02">обер-полицмейстеру</rs> наблюдать, чтоб <rs
+                            ref="works.xml#polnoe01">таковое издание</rs> отнюдь не было печатаемо
+                        ни в одной типографии без цензуры и апробации <rs ref="people.xml#pla01"
+                            >преосвященнаго митрополита Московскаго</rs>.<note type="editorial"
+                            >According to K.A. Papmehl, in this letter Catherine was setting a
+                            'trap' for Platon, metropolitan of Moscow, who had been denounced by
+                            Petr Alekseev as using Catherine's correspondence with Voltaire as a way
+                            of discrediting her Orthodoxy (see Catherine's <ref
+                                target="letter-00066.xml">letter to Khrapovitsky of 17 September
+                                1789</ref> and the editorial note on it). Papmehl does not mention
+                            that there really was a <ref target="works.xml#pol01">large-scale effort
+                                to translate Voltaire</ref>, if not from the Beaumarchais edition,
+                            being undertaking in Moscow at that time: Catherine may really have
+                            heard about it. One might also think that, seeing the manifest absurdity
+                            of Alekseev's accusation, Catherine in the present letter reasserted her
+                            trust in Platon and her continued desire to use him in her service. One
+                            might imagine that she knew that Alekseev would interpret her letter as
+                            giving him free rein to attack Platon, and she thus indirectly
+                            reestablished the Metropolitan's authority. Rather than proving a
+                            two-faced and malicious enemy of Platon, she perhaps used the two
+                            letters in question to cleverly balance the two rival clergymen and to
+                            ensure that she could continue to use Platon as an unfanatical clergyman
+                            and censor, as well as Alekseev as a source of information. It is worth
+                            noting that while Catherine was not pleased about the publication of her
+                            letters by Beaumarchais and was already concerned about the French
+                            Revolution, she also at this time did not regard Voltaire as an enemy:
+                            her letters to Grimm show her reading Voltaire's <ref
+                                target="works.xml#hen01">Henriade</ref> and citing Voltaire as a
+                            royalist still a year later in 1790. It is rather amusing, though, that
+                            she remembered only 69 volumes of the Kehl edition: it was in fact 70
+                            volumes. She must have wanted (consciously or unconsciously) to exclude
+                            the volume containing her correspondence from the full extent of
+                            Beaumarchais's edition.</note></p>
+                    <closer><dateline><placeName ref="places.xml#pet01">В
+                                С.-Петербурге.</placeName>
+                            <date when-custom="1789-09-25">Сентября 25,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Petr Dmitrievich.</salute></opener>
+                    <p>Since rumours have reached us that in Moscow there are plans to translate
+                        Beaumarchais's new edition of all the works of Voltaire in 69 volumes, order
+                        the Police Board and the senior police constable to ensure that such an
+                        edition is by no means printed on any press without the censorship and
+                        approval of the Right Reverend Metropolitan of Moscow.</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">In St.
+                                Petersburg.</placeName>
+                            <date when-custom="1789-09-25">September 25,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

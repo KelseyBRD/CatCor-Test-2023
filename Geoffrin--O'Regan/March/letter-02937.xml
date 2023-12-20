@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02937</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02937</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Discrepancy between dates in opener and closer - Emma. Kelsey: discrepancy in source text.
+     We're using 1 October in metadata. For further research if manuscripts become available. Markup
+     adjusted to reflect fact that 4 October is the date added apparently in Geoffrin's hand--this
+     also avoids the conflicting datelines in the markup.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-07">07/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:33:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-29">29/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup modified, query partially resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02937">
+  <body>
+
+   <opener/>
+   <p><note type="editorial">Geoffrin added the annotation "4 octobre 1764. 3-eme."</note>Comme Vous
+    avés le tact si fin, Vous aurés vue d’ou Vous etes que Vos deux lettres m’ont fait beaucoup de
+    plaisir. Ma mauvaise humeur est passée, je Vous fait mes excuses de Vous avoir écrite dans ces
+    moments, ou cette miserable affaire dont Vous parlés à M-r <persName ref="people.xml#bet01">
+     Betsky</persName> me rendoit triste, affligé et me fatiguoit. J’ai remplie Vos souhaits, j’ai
+    fait traiter tout cela avec le plus d’Autenticité possible, l’examen du proçés a été fait
+    publiquement, et la sentence prononcé à huits ouvert, à laquelle je n’ai rien changée, le tout
+    sera imprimé. J’espere pour longtems etre delivré de pareille incartade, dont le fanatisme le
+    plus singulier etoit le mobile. Mes envieux ne laisseront pas de gloser, mais je me repose sur
+    la sincerité et le dernier vrai de ma conduite et je mépriserai ceux qui meconnoitront mon Ame.
+    Si je ne craignoit de Vous ennuyer en parlant si longtems de moi-même, je Vous dirai que le
+    terrible metier que je fait tourne insensiblement en coutume, que les jours ou je suis moins
+    tracassée, il me semble qu’il me manque quelque chose, et le lendemain j’ai plus d’ardeur que
+    jamais pour le travail, je me suis fais une regle de commencer toujours par le plus dificil le
+    plus embarrassant et les matières les plus seches, cela fini le reste parait aise et agreable,
+    et j’apelle cela menager le plaisir. Eh! Madame dite moi tout ce qui Vous plaira et tout ce que
+    Vous croirai m'etre necessaire, ne Vous gené pas grondé moi, je suis toutte étonné que quelqu’un
+    me veuille pour amie, je verrai un peu comment Vous Vous y prendrai pour etre la mienne, cela
+    est tout nouveaux pour moi, mais je suis accoutumée a voir eclore des evenemens rare. Je n’en
+    sentirai pas moins le prix de plus d’une façon et je suis charmée deja apresent de ce que Vous
+    m’en dite.  <hi rend="italic">Je Vous felicite Madame de l'Elevation de M-r Votre </hi><rs
+     ref="people.xml#pon01">fils</rs><hi rend="italic">, s'il est devenu Roy, s'est je ne sçais pas
+     trop comment, mais bien parceque la providence la voulue</hi>, et assurement son Royaume est le
+    plus a feliciter en cette occasion, ils n’en pouvoit avoir de plus propre à les rendre
+    humainement heureux, l’on dit que Votre fils ce conduit a merveille, et j’en suis bien aise, je
+    laisse le soin de le rectifier en cas de besoin a Votre tendresse maternelle. Au sujet de ce que
+    Vous me dites que la verité et l’amitié fuit les Souverains, je veux bien Vous avertir, que je
+    me tue de crier en toutte occasion convenable, et j’accoutume meme ceux qui m’aproche a me dire
+    la verité toutte pure, fut elle meme contre moi, et souvent j’en ai tiré de grand profit. Je
+    Vous prie Madame de faire ensorte que le Prince <persName ref="people.xml#gol03">
+     Galitzin</persName> m’envoie ce nouveaux <rs ref="works.xml#dictio01"> Dictionaire
+     Philosophique portatif</rs>, du quel Vous m’avés envoyés ce bel extrait dont je Vous suis bien
+    obligé. Le Baron <persName ref="people.xml#bre02"> de Breteuil</persName> montre bien de
+    l’esprit et de l’etude dans son Ambassade de <placeName ref="places.xml#swe01">
+     Suede</placeName>, mais s’est un Pays ou je ne voudrais pas etre Ambassadeur si j'etois un
+    particulier. Vous n’aimés pas a etre contrariés Madame, je m’accommoderai le mieux que je
+    pourrés a Votre humeur, continué seulement a m’ecrire et a me parler librement, devrai je meme
+    convenir que je suis aimable, je le ferai pour maquerir Votre amitié. Vous me dites dans Votre
+    petit billet tout rempli d’amitié, que Votre nouvelle correspondante m’a remise fort exactement,
+    que Vous avés 65 ans, que Vous voudriés etre avec moi, que Vous pensés a moi et m’aimés, et que
+    Vous me coifferiés mieux que <rs ref="people.xml#sok01"> la grosse rejouië</rs>, sachés Madame
+    que celle-ci ne me coeffe pas que ma toilette ordinaire ne dure pas plus longtems que le serieux
+    de <persName ref="people.xml#sok01"> Nastassia</persName>, que je suis enchanté de me voir aimée
+    par une personne aussi estimable que Vous, que Votre compagnie me paroit délicieuse, que Vous me
+    paroissés d’une humeur de 25 ans, que Vous avés tort de gronder M-r <persName
+     ref="people.xml#bet01"> Betski</persName>, et que je suis sensible au dernier point de touttes
+    les amitiés que Voue me témoignés et que je ne desire que de pouvoir Vous marquer ma
+    reconnoissance, mais Vous savés Madame que ce qui ce sent fortement ote la facultés
+    d’exprimer.</p>
+   <closer><dateline>Ce <date>1 d’Octobre</date>.<note type="editorial">Discrepancy with the date
+      provided apparently in Geoffrin's hand (4 October) is present in the source
+     edition.</note></dateline></closer>
+  </body>
+ </text>
+</TEI>

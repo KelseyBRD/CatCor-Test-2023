@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01069</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01069</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify the ambassador of Holland
+     mentioned</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:22:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01069">
+  <body>
+   
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1785-11-28">28 novembre 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. Je félicite bien sincèrement V. M. I. de la conclusion du <name
+     ref="events.xml#fonta01"> traité</name> définitif signé à <placeName ref="places.xml#fon01">
+     Fontainebleau</placeName> par <rs ref="people.xml#cla02"> Son ambassadeur</rs> et ceux de la
+    république d’<placeName ref="places.xml#hol02">Hollande</placeName> sous la médiation du
+     <persName ref="people.xml#lou01"> Roi Très-Chrétien</persName>. Ma conduite dans cette affaire
+    n’a eu d’autre vue, d’autre but que de remplir avec exactitude les devoirs d’une amie et alliée
+    fidèle. Le <name ref="events.xml#allia04"> traité d’alliance</name> que la <placeName
+     ref="places.xml#fra01">France</placeName> a conclu le même jour avec les Hollandais, paraît
+    mettre ces derniers dans la dépendance de la première. Nous verrons à la rentrée du parlement ce
+    que le <persName ref="people.xml#geo02"> Roi</persName> d’<placeName ref="places.xml#eng01"
+     >Angleterre</placeName> en dira aux deux chambres assemblées, et sous quel point de vue il
+    demandera de nouveaux subsides, sans lesquels les autres arguments de la <orgName
+     ref="orgs.xml#leag01"> ligue</orgName> seront moins sonores.</p>
+   <p>C’est avec la plus haute estime et considération et l’amitié la plus parfaite que j’ai
+    l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

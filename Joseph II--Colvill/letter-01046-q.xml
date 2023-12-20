@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01046</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01046</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Not sure what is meant by l’Archipel.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:16:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01046">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1783-01-04">4
+      janvier 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. Dans l’espérance que V. M. I. est parfaitement rétablie de l’incommodité
+    que Lui a causée l’érésipèle lors du départ de la lettre qu’Elle m’a fait l’honneur de m’écrire
+    le 13 novembre, j’ose aujourd’hui Lui adresser la réponse détaillée dont je Lui ai parlé dans ma
+    précédente. D’abord V. M. I. voudra bien être persuadée que les nouvelles preuves de confiance
+    et d’amitié exprimée dans Sa lettre, m’ont touchée sensiblement. C’est avec une satisfaction
+    bien vraie que je prends la plume pour répondre à cette lettre qui m’est un gage d’autant plus
+    précieux de la solidité de notre union et de celle de nos Etats, que je me fais un plaisir
+    d’adopter les principes et d’entrer dans les vues de V. M. I. Je soumettrai à Ses lumières
+    supérieures quelques observations sur lesquelles je prie V. M. I. de vouloir bien me dire Sa
+    façon de penser avec cette franchise que nous nous devons réciproquement et dont la continuation
+    assurera le bien-être de nos deux monarchies. A cet effet je passerai article par article de
+    cette lettre.</p>
+   <p>Je sens vivement toute la force des raisons que V. M. I. allègue pour prouver combien il
+    importe au succès de nos projets de ménager les différentes branches de la maison de Bourbon et
+     la <placeName ref="places.xml#fra01">France</placeName> en particulier, et comme il ne paraît
+    pas plus possible qu’il n’est même nécessaire de les y faire coopérer, il serait utile
+    uniquement de les déterminer à y apporter le moins d’obstacles que faire se pourrait. Ma
+    conduite pendant toute la <rs ref="events.xml#ameri01"> guerre</rs> présente maritime a été
+    fondée sur la plus parfaite impartialité. J’ai évité tous les engagements contraires à ses
+    principes, malgré les avantages que je pouvais en retirer. Je me réglerai dorénavant sur les
+    mêmes principes aussi longtemps qu’on ne me donnera pas lieu à les changer, et qu’on restera
+    passif durant nos démêlés avec les <orgName ref="orgs.xml#turk01"> Turcs.</orgName> Bien loin
+    d’avoir rien à objecter contre les moyens proposés par V. M. I. pour y réussir, j’ai applaudi
+    avec beaucoup de satisfaction à Son plan, et je me repose avec une entière confiance en Sa
+    prudence et sagacité au sujet des ouvertures qu’on pourrait faire à la Cour de <placeName
+     ref="places.xml#fra01">France</placeName>, de même que sur le moment qu’Elle croira propre pour
+    cela dans le courant de notre guerre avec la <placeName ref="places.xml#ott01"
+    >Porte</placeName>, et les avantages qu’il conviendra de lui accorder pour prix de son inaction,
+    convaincue que V. M. I. ne fera en tout cela que ce que le bien de notre cause et la réussite de
+    nos projets rendra indispensable.</p>
+   <p>En obtenant cе point capital, il ne nous restera, comme V. M. I. l’observe très-bien, qu’à
+    mettre nos frontières à l’abri de toute surprise de la part de nos voisins. L’armée
+    d’observation que V. M. I. aura en <placeName ref="places.xml#boh01"> Bohème</placeName> et en
+     <placeName ref="places.xml#mor01"> Moravie</placeName>, suffira, je m’assure, de ce côté-là, et
+    j’aurai soin d’entretenir les corps de troupes dans mes provinces voisines de la <placeName
+     ref="places.xml#swe01">Suède</placeName> et de la <placeName ref="places.xml#pol01"
+     >Pologne</placeName>, en les portant au point d’assurer non seulement mes frontières, mais
+    aussi d’être prêt à agir en cas de besoin, ce qui suffira, je pense, pour tenir en respect ceux
+    qui pourraient être tentés de s’opposer au succès de nos projets communs. Ce corps restant dans
+    mes provinces produira le même effet que s’il était en <placeName ref="places.xml#pol01"
+     >Pologne</placeName>, étant toujours prêt d’y entrer, et ne sera cependant pas dans le cas
+    d’inquiéter sans nécessité la Cour de <placeName ref="places.xml#ber01">Berlin</placeName>, au
+    lieu que, s’il passait mes frontières pour s’établir en <placeName ref="places.xml#pol01"
+     >Pologne</placeName> et dans le voisinage immédiat des Etats prussiens, sa proximité pourrait
+    fournir matière à des fausses interprétations, en inspirant de l’ombrage à notre commun voisin,
+    et cela dans un moment où il conviendrait, je crois, le plus de Lui en ôter toute idée,
+    puisqu’il n’est pas indifférent pour la réussite de nos projets que <persName
+     ref="people.xml#fre01"> S. M. Prussienne</persName> tienne une conduite passive, à la quelle je
+    crois qu’il ne serait pas impossible de le déterminer du moment qu’il sera rassuré sur la
+    possession tranquille de ses Etats actuels. Je pourrais même m’en expliquer avec cette Cour de
+    l’aveu et du consentement de V. M. I., si Elle le juge à propos, en lui faisant au moins
+    entrevoir, sans lui découvrir nos vues, que la bonne harmonie et l’observation du traité
+    défensif qui subsiste entre la <placeName ref="places.xml#rus01">Russie</placeName> et cette
+    Cour, dépendront de la conduite passive qu’elle tiendra dans les circonstances actuelles envers
+    nos deux monarchies. Evitant ainsi de faire entrer mon corps d’observation en <placeName
+     ref="places.xml#pol01">Pologne</placeName> sans une absolue nécessité, j’ôterai au <persName
+     ref="people.xml#fre01"> Roi de <placeName ref="places.xml#pru01"
+    >Prusse</placeName></persName> le prétexte d’y introduire ses propres troupes. Je prie V. M. I.
+    de peser toutes ces considérations et de m’en dire Son avis, L’assurant d’avance que je me ferai
+    un plaisir d'adopter autant qu’il me sera possible tout ce qu’Elle voudra bien me communiquer à
+    ce sujet.</p>
+   <p>Quant à la <placeName ref="places.xml#sax01">Saxe</placeName>, je crois qu’il conviendrait de
+    l’empêcher de prendre aucun engagement avec les puissances contraires à nos vues, et qu’un état
+    passif de sa part serait presque préférable à une conduite active en notre faveur. Les
+    événements de la <name ref="events.xml#seven01"> guerre de 1756</name> prouvent que sa
+    coopération est moins utile au parti qu’elle embrasse, que profitable à ses ennemis. Ce pays
+    ouvert et sans défense devient le magasin de la première armée à portée de s’en emparer, qui y
+    trouve encore la ressource d’y lever des recrues. Ainsi en cas d’hostilités de ce côté-là je
+    présume que la neutralité de cet électorat pourrait être préférable pour nous à une alliance
+    effective. Je n’en désire pas moins sincèrement cependant pour le plus grand bien de la chose
+    que cet électeur entre dans les vues et les intérêts de son digne chef pour tout ce qui regarde
+    les affaires de l’<placeName ref="places.xml#rus01">Empire</placeName>, qui pourrait obtenir ce
+    but en laissant entrevoir la perspective de la sécularisation de quelqu’évêché, ou tel autre
+    avantage ou arrondissement dépendant de l’influence de V. M. I., en quoi je serai prête à La
+    seconder partout où Elle le jugerait à propos. Ceci me paraît préférable à l’expectation du
+    trône de <placeName ref="places.xml#pol01">Pologne</placeName> qui doit à l’avenir être occupé
+    par un Piaste d’après mes engagements avec cette couronne, dont en revenant je suppose que le
+    <persName ref="people.xml#fre01"> Roi de <placeName  ref="places.xml#pru01">Prusse</placeName></persName> s’en prévaudrait
+    peut-être, ou pour susciter de nouveaux embarras, ou pour obtenir d’autres changements dans le
+    gouvernement de la <placeName ref="places.xml#pol01">Pologne</placeName> ou des possessions
+    actuelles de cette république, qu’il convient fort de laisser dans l’état où elle se trouve
+    présentement.</p>
+   <p>Sensible à la confidence que V. M. I. m’a faite touchant Ses idées d’arrondissements en cas de
+    réussite de nos projets, et des limites qu’Elle se prescrit aux dépens de l’ennemi de la
+    chrétienté, je n’ai qu’à répéter que j’y coopérerai avec tout le zèle et l’amitié que je Lui ai
+    vouée. Je pense de même touchant la parfaite liberté du commerce de Ses sujets sur le <placeName
+     ref="places.xml#dan01">Danube</placeName> et la <placeName ref="places.xml#whi02"> mer
+     blanche</placeName>.</p>
+   <p>Quant aux engagements que devraient prendre les deux Souverains de la Dacie et de <placeName
+     ref="places.xml#gre02">Grèce</placeName>, de ne mettre aucune entrave ni péage sur les
+    bâtiments marchands des sujets de V. M. I., Elle doit être persuadée qu’en ceci comme dans tous
+    mes autres arrangements je ne prétendrai rien au-delà d’une parfaite égalité d’avantages, en
+    sorte que les sujets commerçants de V. M. I. seront certainement traités par les deux nouveaux
+    Etats au niveau des miens.</p>
+   <p>Je ne verrai pas avec moins de satisfaction qu’Elle se procure quelques ports sur la
+     <placeName ref="places.xml#med02"> Méditerranée</placeName>, qui, en La mettant à même d’avoir
+    une flotte dans ces parages, rendraient notre alliance encore plus respectable, surtout aux
+    nations méridionales de l’<placeName ref="places.xml#eur01">Europe</placeName>. Je crois même
+    que les acquisitions qu’Elle se propose aux dépens des <orgName ref="orgs.xml#turk01">
+     Turcs</orgName>, Lui procureront ces ports. Mais comme je crois que le concours des Vénitiens
+    pourrait nous être utile dans la poursuite de la guerre au cas que les <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> nous forcent de l’entreprendre, il importerait au bien
+    de notre cause de ménager cette république, que le soupçon d’un tel projet pourrait alarmer. Il
+    conviendrait aussi de ne pas trop restreindre l’Empire grec, et de lui conserver surtout
+     <placeName ref="places.xml#mor02"> la Morée</placeName> et l’Archipel. La base de nos
+    arrangements à cet égard devra reposer, comme nous en sommes déjà convenus, sur une compensation
+    d’avantages dans les acquisitions de part et d’autre, qui dépendront naturellement, ainsi que V.
+    M. I. observe dans Sa dernière lettre, des événements heureux de la guerre, qui, s’ils sont de
+    nature à réaliser nos justes espérances pour l’entière exécution de notre plan, V. M. I. me
+    trouvera constamment disposée à y coopérer de tout mon pouvoir, et à Lui procurer tous les
+    avantages qu’Elle désire par Elle-même, et je me prêterai avec une satisfaction d’autant plus
+    vive aux arrangements les plus utiles pour Ses Etats, que je suis intimément convaincue de la
+    parfaite réciprocité de Ses sentiments à mon égard, fondés tant sur l’amitié personnelle que
+    nous nous sommes voués, que sur l’indivisibilité des intérêts de nos deux monarchies, qui est
+    telle que tout avantage pour l’une doit être profitable à l’autre. Pénétrée de cette vérité,
+    j’aime à croire que V. M. I. n’en est pas moins persuadée, et puisque nous sommes d’accord sur
+    les points les plus essentiels de nos arrangements, je prie V. M. I., soit par une
+    correspondance suivie avec moi<hi rend="subscript">;</hi> soit en envoyant un projet de lettre à
+    Son ministre ici d’après la forme déjà établie entre nous, de vouloir bien l’autoriser à
+    s’expliquer avec moi, ou avec celui ou ceux qui seront autorisés de ma part, afin que nous
+    puissions arranger préalablement ici tant ce qui regarde les acquisitions que nous pourrons
+    faire, que la combinaison de nos forces et le plan d’opération pour agir dans le plus parfait
+    concert.</p>
+   <p>Je ne saurais finir cette lettre sans renouveler à V. M. I. mes remercîments pour la démarche
+    efficace que <rs ref="people.xml#her09"> Son ministre</rs> a fait à la <placeName
+     ref="places.xml#ott01">Porte</placeName> en commun avec le mien. Je n’ai pas besoin de Lui
+    détailler la sensation que cela a causée ; cette union si compatible aux intérêts de nos Etats
+    ne restera plus secrète aux yeux de toute l’<placeName ref="places.xml#eur01"
+    >Europe</placeName>, et probablement ne laissera pas d’en imposer à tous ceux dont elle excite
+    la jalousie. C’est avec les sentiments de l’amitié la plus vraie et ceux de la plus haute
+    considération que j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

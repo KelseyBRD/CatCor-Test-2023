@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01148</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01148</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-15"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01148">
+        <body>
+
+            
+            <opener><dateline>Из <placeName ref="places.xml#kos01">Костромы.</placeName><lb/>
+                <date when-custom="1767-05-15">Maия 15 ч., 1767.</date></dateline><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Ваше письмо от 13 ч. я сего утра здесь получила; мы все здоровы, и радуюсь, что и Вы
+                с <persName ref="people.xml#pot01">Великим Князем</persName> таково же находитесь;
+                завтра поеду отселе, а иноплеменников отпущу к <placeName ref="places.xml#mos01"
+                    >Москве</placeName>. Они Вам скажут, как здесь я принята была. Я их всех не
+                единожды видела в слезах от народной радости, а <persName ref="people.xml#che03">И.
+                    Гр. Чернышев</persName> весь обед проплакал от здешняго дворянства благочиннаго
+                и ласковаго обхождения. <persName ref="people.xml#che01">Захар
+                    Григорьевич</persName> ногу ушиб вчерась, только думаю, что не долго будетъ дома
+                сидеть. Прощайте, я завтра буду ответствовать на Ваше письмо, а теперь нельзя; я
+                пишу в <placeName ref="places.xml#ipa01">Ипатском монастыре</placeName>, которой
+                прославлен в Истории нашей тем, что из него Царь <persName ref="people.xml#mik03"
+                    >Михайло Феодорович</persName> на Царство веден в <placeName
+                    ref="places.xml#mos01">Москве</placeName>, и истинно сие место и видом и
+                богатством украшений в церквах почтенно.</p>
+            <closer><signed rend="inline">Прощайте, мы все здоровы, желаем Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01054</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01054</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-18">11-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:18:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01054">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1783-11-02">2 novembre v. st. 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. C’est avec le sentiment de la joie et de l’intérêt le plus vif, dicté par
+    l’amitié vraie et sincère que je porte à V. M. I. que j’ai décacheté Sa chère lettre du 30
+    d’octobre. J’y ai vu avec une satisfaction conforme à mes sentiments la continuation de Son
+    précieux souvenir et les marques non équivoques de la continuation de Sa façon de penser à mon
+    égard. Les <orgName ref="orgs.xml#turk01"> Turcs</orgName> et leurs amis chrétiens ou
+    non-chrétiens, n’ayant pas réussi dans les tentatives faites auprès de V. M. I. pour obtenir
+    d’Elle quelques expressions conformes à leurs désirs, doivent par là même être plus fortement
+    convaincus de l’indissolubilité des liens de notre amitié et alliance. Cette alliance est bien
+    faite à donner en tout temps un poids convenable aux affaires qu’elle appuie. Je suis la
+    première à en ressentir l’effet salutaire; je ne doute point que le temps ne me fournisse
+    l’occasion de m’acquitter vis-à-vis de V. M. I. Je m’y porterai avec l’empressement que l’amitié
+    la plus intime inspire. Je ne crois pas que la <placeName ref="places.xml#fra01"
+     >France</placeName> réplique à l’excellente réponse que V. M. I. a ordonné de lui faire. Des
+    axiomes pareils ne sont pas susceptibles à contradiction, V. M. I. ayant la vérité et la raison
+    de Son côté. La clarté, la netteté de son éloquence entraîne la conviction et détruit les
+    refuges obscurs du style tortueux.</p>
+   <p>Le <persName ref="people.xml#gus01"> Roi</persName> de <placeName ref="places.xml#swe01"
+     >Suède</placeName> pendant son séjour à <placeName ref="places.xml#fre01">
+     Fredriksham</placeName> m’avait beaucoup parlé de voyages et du désir qu’il avait d’aller
+     à <placeName ref="places.xml#vie01">Vienne</placeName> pour avoir l’honneur de faire la
+    connaissance personnelle de V. M. I. Je ne sais d’où il vient qu’il a pris la route du
+     <placeName ref="places.xml#tyr01"> Tyrol</placeName> ; peut-être se réserve-t-il cet honneur à
+    son retour ; son ministre m’a dit qu’il n’était pas décidé quel chemin il prendrait.</p>
+   <p>Que V. M. I. daigne recevoir l’expression de la plus haute considération, de l’estime et de
+    l’amitié la plus parfaite avec lesquelles j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01275</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01275</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Оскирков? Added him to the database but I don't know who he is</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-30"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-06-28"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01275">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Пришлите ко мне чиноположение <persName ref="people.xml#osk01">Оскиркова</persName>
+                аудиенции, а речь ево такова, что и подданной более сказать не мог; увидим, каково
+                принята будет в нашей публике, и будут ли чувствовать, сколь сие ласкательно от
+                чужова народа, а я думаю, что имеем чем хвастать.</p>
+            <p><persName ref="people.xml#pau01">Сына</persName> моего и Вас желаю застать в добром
+                здоровье.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p>Не уже ли <rs ref="events.xml#hetma01">Гетманское дело</rs> еще не подписано?</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

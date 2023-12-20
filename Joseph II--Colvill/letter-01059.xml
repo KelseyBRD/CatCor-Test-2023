@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01059</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01059</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#prussia"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:19:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01059">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date
+      when-custom="1784-05-13">13 mai 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. La dernière lettre de V. M. I. qui renferme tant de nouvelles assurances
+    de. Ses sentiments pour moi, et de Sa persévérance dans des principes qui doivent à jamais unir
+    nos deux monarchies, m’a causé une joie et satisfaction proportionnées aux grands objets qu’elle
+    traite. Elle égale la vivacité de la reconnaissance que Ses procédés à mon égard m’ont inspirée,
+    et qui ont éclaté, je le répète volontiers, avec tant d’avantage pour mon <placeName
+     ref="places.xml#rus01">Empire</placeName> dans les discussions récentes avec la <placeName
+     ref="places.xml#ott01">Porte Ottomane</placeName>, terminées si heureusement sous les
+    auspices de V. M. I.</p>
+   <p>Ces impressions dont je suis pénétrée jusqu’au fond de mon âme, me font désirer de Lui rendre
+    la pareille, en saisissant chaque occasion qui se présentera pour Lui en donner les preuves les
+    plus convaincantes.</p>
+   <p>Quant aux affaires de la ville de <placeName ref="places.xml#gda01"> Dantzig</placeName> dont
+    V. M. I. me parle dans Sa lettre, Elle a pu remarquer le vif intérêt que j’ai pris à la
+    conservation des droits de cette ville depuis le commencement de ses démêlés avec la Cour
+     de <placeName ref="places.xml#ber01">Berlin</placeName>. Je continuerai certainement d’apporter
+    la plus grande attention à les maintenir dans leur intégrité, attendu que je n’envisage pas
+    seulement cette <rs ref="places.xml#gda01"> ville</rs> comme commerçante et port de mer, mais
+    aussi comme place fortifiée, et que, considérée sous ce dernier point de vue, je suis convaincue
+    qu’il est de l’intérêt commun de nos deux monarchies, que son industrie et son commerce soient
+    maintenus au point qu’elle reste en état de pourvoir à sa propre défense, ce qui ne peut
+    s’effectuer qu’en la mettant à l’abri des usurpations et vexations prussiennes, qui tendent
+    visiblement à la ruine de son commerce. Tel est le but principal et le motif de toutes mes
+    démarches en faveur de la dite <rs ref="places.xml#gda01"> ville</rs>. Je m’efforcerai en même
+    temps à prévenir autant que cela peut dépendre de moi les entraves qu’on voudrait mettre au
+    commerce des sujets de la <placeName ref="places.xml#pol01">Pologne</placeName> le long de la
+     <placeName ref="places.xml#vis01"> Vistule</placeName>, mais si malgré mes soins leur commerce
+    restait encore exposé à quelques vexations, elles ne pourraient tourner qu’au détriment de celui
+    qui les leur ferait éprouver, en forçant ce commerce à s’ouvrir d’autres débouchés, qui par la
+    situation locale de nos Etats respectifs devraient nécessairement refluer chez nous et
+    pourraient peut-être devenir ainsi plus avantageux pour les sujets de V. M. I. et les miens
+    qu’une entière liberté de commerce par la <placeName ref="places.xml#vis01">
+    Vistule</placeName>.</p>
+   <p>J’ai suivi V. M. I. d’un oeil attentif dans Son voyage d’<placeName ref="places.xml#ita01"
+     >Italie</placeName>. Les rigueurs de la saison qui semblaient avoir passé de nos climats sous
+    ce beau ciel, m’ont quelquefois fait craindre pour Sa santé. Je suis d’autant plus ravie que
+    celle-ci n’ait point souffert. Je partage sincèrement le plaisir que V. M. I. doit avoir goûté
+    en revoyant tant de personnes de Sa maison qui Lui sont chères.</p>
+   <p>La résolution qu’Elle a prise d’achever l’éducation du <rs ref="people.xml#fra04"> prince Son
+     neveu</rs> à <placeName ref="places.xml#vie01">Vienne</placeName>, ne pourra qu’être
+    généralement applaudie. Le modèle auguste que ce <rs ref="people.xml#fra04"> prince</rs> aura
+    constamment devant ses yeux, ne manquera pas de faire germer dans son esprit et son coeur des
+    principes propres à le rendre digne de remplir un jour sa grande destinée.</p>
+   <closer><signed>Je suis avec les sentiments d’une amitié inaltérable et la plus haute
+    considération .... </signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09046</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09046</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+   
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-09046"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-02-07">1788 г. 7 февраля.</date>
+                </dateline>
+                <salute>Александр Васильевич,</salute>
+            </opener>
+            <p>скажите <rs ref="people.xml#pam01">батюшке - духовнику</rs>, что <persName ref="people.xml#dmi01">Александр Матвеевич</persName> у меня просит мощей в золотой крест, который <rs ref="people.xml#dmi01">он</rs> посылает к <rs ref="people.xml#dmi03">своей матери</rs>. Мне помнится, что у меня в церкви есть образа многие с мощами, и чтоб <rs ref="people.xml#pam01">он</rs> отобрал несколько частиц для того.</p>
+        </body>
+    </text>
+</TEI>

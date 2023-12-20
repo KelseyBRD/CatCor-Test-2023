@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00069</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00069</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#education"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                    <term target="kw.xml#grandchildren"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-02">2 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup.</p>
+            </change>
+            <change>
+                <date when="2014-11-03">3 November 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation and further markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00069">
+                <body>
+                    
+                    <p>Говорил мне <persName ref="people.xml#pot01">князь Потемкин</persName> с
+                        безпримерными похвалами о великих князьях<note type="editorial"><ref
+                                target="people.xml#ale01">Alexander</ref> and <ref
+                                target="people.xml#kon01">Konstantin</ref>.</note>, пачеже о
+                            <persName ref="people.xml#ale01">Александре Павловиче</persName> и со
+                        слезами в глазах называя его ангелом, воплощенным для блаженства империи;
+                        сказал, que <seg xml:lang="fr">c’est le prince de son coeur</seg>, и
+                        что видит в нем величайшую надежду, что скромность и модестия в нем
+                        чрезвычайная, одним словом он так к нему страстен стал, как я и вы. Я сие
+                        вам нарочно пишу, чтобы вы сему радовалися, что он всех людей сердца
+                        приобретает; в пятницу они оба, прийдя ко мне, к нему пойдут на кадрильной
+                        пробе. Вот вам плод ваших трудов!</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>Prince Potemkin spoke to me with incomparable praise for the grand dukes,
+                        especially Aleksandr Pavlovich, and with tears in his eyes called him an
+                        angel incarnate for the bliss of the empire. He said that he was the 'prince
+                        of his heart', that he sees the greatest promise in him, and that he is
+                        extremely humble and modest. In a word, he has grown as partial to him as
+                        you and I. I am writing this to you on purpose, so that you might rejoice at
+                        it, that he wins everyone's hearts. On Friday, after coming to see me, will
+                        go to see him to rehearse the quadrille. There you have the fruit of your
+                        labours!</p>
+                  
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

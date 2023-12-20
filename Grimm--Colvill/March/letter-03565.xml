@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03565</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03565</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-18">18/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:52:28Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03565">
+  <body>
+
+   <opener><dateline>A <placeName ref="places.xml#pet02"> Péterhof</placeName>, се <date when-custom="1779-07-01">1 juillet 1779</date>.</dateline></opener>
+   <p>Enfin donc voilà one forme raisonnable: le No 39 qui vient de m’arriver n’est ni <seg
+     xml:lang="de"> Vortrag</seg> ni <seg xml:lang="de"> Nachtrag</seg>, mais il se présente de
+    lui-même dans la forme dont se servaient nos pères, dans celle que prescrivait M. <persName ref="people.xml#wag01">
+    Wagner</persName> et Mlle <persName ref="people.xml#car01"> Cardel</persName>, de glorieuse mémoire; je
+    m’en réjouis de tout mon coeur et m’en vais répondre à son contenu. Remerciez bien <persName ref="people.xml#sed01">
+    Sedaine</persName> de ma part du désir qu’il marque de prendre sa revanche, et dites-lui que s’il faisait,
+    au lieu d’une, deux ou trois pièces, cent pièces, je les lirais toutes avidement. Vous savez
+    qu’après la plume du <rs ref="people.xml#vol01"> patriarche</rs> il n’y en a point que j’aime
+    tant à suivre que celle de <persName ref="people.xml#sed01"> Sedaine</persName>; quand je dis suivre, je veux dire qu’à la
+    lecture, comme à la représentation, j’aime à suivre la marche de la tête de l’auteur; or, ceci
+    vous ne direz point à <persName ref="people.xml#sed01"> Sedaine</persName>, crainte que cela ne lui fasse étudier sa marche et
+    ne la rende moins naturelle; or, c’est précisément cette marche naturelle qui est précieuse.
+    Dans les comédies du <rs ref="people.xml#vol01"> patriarche de <placeName ref="places.xml#fer01"> Ferney</placeName></rs> j’aime
+    tant à suivre cette marche: il y a dans ses pièces cent mille choses que quantité de gens
+    d’esprit, de gens instruits laissent échapper sans y prendre garde. Si jamais je me trouve à
+    côté de vous pendant la représentation d’une de ses pièces, je vous ferai des dissertations qui
+    vous empêcheront d’écouter et de suivre la pièce, mais vous conviendrez que j’ai raison. Les
+    excuses sur <title ref="works.xml#epreuv01">Raimond</title> au sujet de la façon dont
+    la pièce lui arrive, sont assurément très bien pensées, et le grommeleur a eu tort avec moi dès
+    qu’il a lâché la critique, parce que du temps de <title ref="works.xml#epreuv01">
+     Raimond</title> les postes n’étaient point ce qu’elles sont présentement, et que des choses
+    pareilles il faut les laisser au choix de l’auteur. <rs ref="people.xml#shu02"> M. le grand
+     chambellan</rs> est allé à <placeName ref="places.xml#mos01"> Moscou</placeName> et chemin faisant il a rendu visite à tous les
+    lieux de dévotion ; il prie Dieu jour et nuit jusqu’à l’extinction de ses forces; il est pâle et
+    harassé, l’оn nе sait trop pourquoi, et puis il y a là-dedans une ancienne réputation
+    d’amabilité et de Dieu sait quoi, qu’on veut soutenir et qu’on se reproche tout doucement; cela
+    fait soupirer et rend plus irrésolu que jamais; en vérité, l’on souffre pour lui en le
+    voyant.</p>
+   <p>Ah! M. le <persName ref="people.xml#riq01"> comte de Caraman</persName>, vous avez rendu là un
+    homme fort malheureux. Donnez à <persName ref="people.xml#sed01"> Sedaine</persName> douze mille livres des fonds qui sont
+    à <placeName ref="places.xml#par01"> Paris</placeName> et dont je peux disposer; sa pièce n’est pas tombée du tout, elle est très
+    bonne, mais n’a point été représentée par précaution, afin d’empêcher les grommeleurs de
+    grommeler; c’est une politesse, et puis c’est tout, mais la pièce est bonne et très bonne. <seg
+     xml:lang="it"> Ma</seg> qu’il vous donne tout ce que sa tête enfantera: je suis persuadée que
+    cela fera plaisir à moi et aux autres.</p>
+   <p>Pour <persName ref="people.xml#ale01"> M. Alexandre</persName>, laissez-le à lui-même;
+    pourquoi voulez-vous qu'il pense et qu’il sache absolument comme on a pensé ou ce qu'on a su
+    avant lui? apprendre n’est pas difficile, mais il faut, selon moi, que la tête et la faculté de
+    la tête d’un enfant soit développée avant de l’étourdir par les fatras passés, et de ces fatras
+    il faut alors apprécier quoi lui présenter, <seg xml:lang="de"> mein Gott, was die Natur nicht
+     thut, kann kein Lernen nicht thun, aber lernen ersticht oft Mutterwiß</seg>, et rien de pire
+    que les gens frottés d’esprit et de science, selon feu <persName ref="people.xml#geo04"> Mad.
+     Geoffirin.</persName></p>
+   <p>Voilà donc l’<placeName ref="places.xml#spa01"> Espagne</placeName> qui est entrée en branle avec vous; si par le passé on
+    pouvait pertinemment prédire l’avenir, je dirais que la paix se fera l’année qui vient, vu ce
+    qui s’est passé l’année 1768. Ma deux gouttes d’eau ne sе ressemblent guère dans le meilleur des
+    mondes possibles. Fr. G. est un bon citoyen. Oh! il en fait qu’on ne prévoit jamais, lui; jamais
+    personne ne mérita mieux que lui u.. p.... d. s devinez quoi: maman m’en donnait quelque fois
+    par humeur, guère par raison. <seg xml:lang="de"> Was soll man mit die Leute machen, stolz im
+     Glücke, Advocaten im Unglücke, schaden wenn zu thun Zeit ist: halbe Worte und halbe Werke
+     machen nicht Dinge, die ganz gethan sein mußten, onsten würde in der Welt sein halb und sein
+     ganz sein ; nicht ganz ist Gänzegang, diese watscheln, ich liebe die Gänse nicht gebraten,
+     nicht gerauchert, der Geschmack ist nicht angenehm.</seg>
+   </p>
+  <closer><signed rend="inline">Adieu, cette dissertation deviendrait trop longue si je la continuais,
+    et tous les commis de poste se fâcheraient de ce que je dis des oies, qu’ils aiment, et
+    médiraient de nos belles-lettres en mangeant <seg xml:lang="de"> auf Wartin eine Gans, mit
+     Äpfeln und pflaumen zubereitet</seg>
+   </signed></closer>
+  </body>
+ </text>
+</TEI>

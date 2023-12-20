@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03677</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03677</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#poland"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I coded the “comte Esterhazy” as Prince Nicholas, because it seemed she was talking about him
+     as if he was no longer alive (and he died in 1790, 2 years before this letter). That said, I’m
+     not 100% sure about this coding.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-28">28-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:56:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03677">
+  <body>
+   <div>
+    <opener><dateline> Се <date when-custom="1792-05-09">9 mai</date> après
+     diner.</dateline></opener>
+    <p>Ce M. <persName ref="people.xml#rit01"> Ritt</persName>, fils d’un violon et beau-frère de
+     feu M. <persName ref="people.xml#sos01"> Sosie</persName>, mon maître d’hôtel favori, est
+     revenu ici et a remis en son temps ce dont vous l’aviez chargé; mais comme c’était un livre
+     écrit depuis pas longtemps, je me suis dispensée de le lire, et en vérité je ne me souviens
+     plus du nom de la dame qui me l’avait envoyé; mais vous voudrez bien la remercier de son livre.
+     Au reste, je ne lis rien du tout à moins que cela ne soit du treizième siècle et n’ait rapport
+     à l’histoire de <placeName ref="places.xml#rus01">Russie</placeName>. Une centaine de vieilles
+     chroniques font ma bibliothèque portative; c’est un plaisir que de s’enfouir dans ces vieux
+     fatras. Le reste du temps emportent les affaires; celle-ci augmentent journellement: vous allez
+     entendre parler de nous, et les affaires de <placeName ref="places.xml#fra01"
+      >France</placeName> ne seront pas du tout négligées; mais je ne ferai pas un pas sans mes
+     protégés et cette noblesse française que je soutiendrai à tout rompre.</p>
+    <p>Me voilà bien loin de M. <persName ref="people.xml#rit01"> Ritt</persName>, peintre en
+     miniature, qui fait un très joli portrait du <persName ref="people.xml#zub01"> g-l
+      Zoubof</persName>. Ce <persName ref="people.xml#zub01"> g-l Zoubof</persName> est laborieux,
+     intègre, rempli de bonne volonté et d’une excellentissime tournure d’esprit; c’est un homme
+     dont vous entendrez parler: il ne tient qu’à moi de nouveau d’en faire un factotum. <persName
+      ref="people.xml#qua01"> Quarenghi</persName> se porte à merveille; il vient de finir une belle
+     et grande salle au palais d’hiver. <persName ref="people.xml#lam02"> Lampi</persName>, peintre
+     qui nous est venu de <placeName ref="places.xml#vie01">Vienne</placeName>, a fait depuis peu un
+     immense portrait de votre humble servante, dont tout le monde convient qu’il n’y a rien de
+     pareil; aussi ai-je été tourmentée avec huit séances. Pour <persName ref="people.xml#doy01">
+      Doyen</persName>, je ne l’ai pas vu, car chez nous on n’admet plus si vite les Français; au
+     moins faut-il qu’ils passent par la quarantaine politique. Allons, allons, quand les Français
+     seront bien battus, la confusion des langues et la régénération finira, mais elle finira mal
+     pour eux; prenez-y garde. Les voisins ... les voisins y mettront ordre; ils sont enchantés
+     d’une aussi belle occasion; de longtemps ils n’en auraient osé espérer de pareille s’il faut
+     parler net.</p>
+    <p>Je remercie bien sincèrement <persName ref="people.xml#bue01"> madame du Bueil</persName> des
+     deux lettres qu’elle m’a écrites. La <rs ref="people.xml#cat01"> marraine</rs> de <persName
+      ref="people.xml#cat05"> Katinka</persName> est toute prête à donner son contingent pour tirer
+     la <placeName ref="places.xml#fra01">France</placeName> de peine, selon la chanson de sa filleule. Je suis prête aussi à donner
+     mon consentement à la requête du comte de <persName ref="people.xml#nes01">
+      Nesselrode</persName>. Sur tout ce que vous me dites du <persName ref="people.xml#bre02">
+      baron de Breteuil</persName> et des plans qu’on lui prêtait, je vous dirai à mon tour que
+     toutes les charlataneries nouvelles n’ayant produit que la ruine de la <placeName
+      ref="places.xml#fra01">France</placeName>, je pense que toute forme qui ne serait pas
+     l’ancienne, ne ferait qu’augmenter la confusion; mais de l’ancienne l’on pourrait tirer les
+     clous qui blessaient le corps politique, et cela avec mesure, prudence et sagesse. Mais
+     malheureusement le mal réside aux <placeName ref="places.xml#tui01"> Tuileries</placeName>,
+     entre nous soit dit, et nulle part antre: qu’est-ce que ces marches doubles, triples et
+     quadruples, ces lettres disant et dédisant; que veut-on, que ne veut-on pas, je l’ignore, et
+     personne n’y comprend plus que moi; le mari disant une chose, la femme une autre, et le premier
+     ayant consenti an dire de sa moitié, et de rechef lui donnant un gros démenti. Gardez cela pour
+     vous, mais cela est vrai et vérifié.</p>
+    <p>Vous dites qu’il faut tout pardonner aux malheureux. Eh bien, pardonnons-leur, mais qu’ils
+     n’y reviennent plus. Monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs>, dites-moi
+     s’il vous plaît, d’où vient que vous croyez que les affaires de la <placeName
+      ref="places.xml#pol01">Pologne</placeName> ne sauraient aller en même ligne et de front avec
+     celles de <placeName ref="places.xml#fra01">France</placeName>? Apparemment vous ignorez que la
+     jacobinière de <placeName ref="places.xml#war01">Varsovie</placeName> est en correspondance
+     régulière avec celle de <placeName ref="places.xml#par01">Paris</placeName>, et que les Mazzey,
+     qui ont fondé l’une, fondent l’autre, et que ce sont les Piatoly qui ont composé le fameux
+      <title ref="works.xml#manife03"> manifeste</title> de <persName ref="people.xml#noo01"> Van
+      der Noot</persName> au Brabant, qui mènent le roi et la diète présente. Ils ont fait
+     disparaître du monde mon ancienne amie et alliée, la république de <placeName
+      ref="places.xml#pol01">Pologne</placeName>, tous les traités qu’elle avait avec la <placeName
+      ref="places.xml#rus01">Russie</placeName>, et ne cessent de faire depuis quatre ans à celle-ci
+     toutes les offenses et outrages dont ils peuvent s’aviser, jusque là que pendant ma guerre avec
+     les <orgName ref="orgs.xml#turk01"> Turcs</orgName> ils ont envoyé un ambassadeur à <placeName
+      ref="places.xml#ist01">Constantinople</placeName> pour faire avec la <placeName
+      ref="places.xml#ott01">Porte</placeName> un traité offensif et défensif. Si je n’avais les
+     preuves en main, jamais je n’aurais pu croire que le roi de <placeName ref="places.xml#pol01"
+      >Pologne</placeName> fût aussi ingrat et peu avisé que je l’ai trouvé dans ces quatre années.
+     Il faut qu’il soit mené ou tombé en imbécillité pour se laisser entraîner dans des démarches
+     aussi nuisibles et aussi contraires au bien-être de la <placeName ref="places.xml#pol01"
+      >Pologne</placeName>, à la probité, à la reconnaissance. Ils ont cru la <placeName
+      ref="places.xml#rus01">Russie</placeName> aux abois, <seg xml:lang="la"> ergo</seg>
+     <rs ref="people.xml#pon01"> S. M. Pol</rs>. s’est permis d’enfreindre ses <seg xml:lang="la">
+      pacta conventa</seg> jurés et par lesquels, s’il les enfreint, il permet à ses sujets de ne
+     plus lui obéir; il se fait donner par 25 ou 30 nonces, auxquels il fait peur d’être massacrés
+     par la populace de <placeName ref="places.xml#war01">Varsovie</placeName>, un pouvoir illimité.
+     Celui-ci obtenu, que fait-il? Il fait décider la vente des starosties; il abolit les charges
+     des grands généraux, il ôte des charges sans faire juger les gens; il s’empare du trésor de la
+     république. Notez qu’il avait commencé par abolir la garantie du gouvernement qu’il voulait
+     renverser. Enfin, ces jacobins cherchent à répandre partout la confusion des langues, car tous
+     ces arrangements polonais vont avec leurs lois sur toute matière comme une selle à une vache,
+     selon le proverbe russe. Et vous voulez que je plante là mes intérêts et ceux de mon alliée la
+     république et mes amis républicains, pour ne m’occuper que de la jacobinière de <placeName
+      ref="places.xml#par01">Paris</placeName>? Non, <rs ref="people.xml#gri01">
+      souffre-douleur</rs>, je la battrai et combattrai en <placeName ref="places.xml#pol01"
+      >Pologne</placeName>, mais pour cela je ne m’en occuperai pas moins des affaires de <placeName
+      ref="places.xml#fra01">France</placeName>, et j’aiderai à battre le ramas des <orgName
+      ref="orgs.xml#sanc01"> sans-culotte</orgName>, tout comme le feront les autres, mais jamais
+     sans les princes et les gentilshommes français, car je veux que cette noblesse garde son
+     existence et que tout chevalier français sache que je le regarde comme le défenseur du trône et
+     de la royauté. Là, <rs ref="people.xml#gri01"> souffre-douleur</rs>, ai-je raison ou tort?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1792-05-10">10 mai</date>. </dateline></opener>
+    <p>J’espère que la course du chevalier de <persName ref="people.xml#bel05"> Belsunce</persName>
+     depuis <placeName ref="places.xml#bru01"> Bruxelles</placeName> jusqu’ici a été assez bien
+     cachée et qu’on ne se doute nullement qu’il était chargé des lettres de M. de <persName
+      ref="people.xml#bre02"> Breteuil</persName>. J’ai ordonné de vous remettre six mille roubles,
+     que vous emploierez comme bon vous semblera pour vos besoins ou ceux des autres. Le livre de M.
+     de <persName ref="people.xml#sim02"> Simon</persName> m’est arrivé, et vous voudrez bien l’en
+     remercier. Si je lisais encore, je le lirais; mais je me rapporte à ce que je vous dis plus
+     haut de mes lectures. Le <persName ref="people.xml#est02"> comte Esterhazy</persName> a eu son
+     exemplaire Simon. J’avais toujours entendu parler du <persName ref="people.xml#ara01"> comte
+      d’Aranda</persName>, comme vous m’en parlez; je ne sais pourquoi présentement l’on a pris à
+     tâche de faire courir le bruit que son caractère est tout différent de celui que nous lui
+     supposions; il faudra voir si l’ancienne ou nouvelle diction se vérifiera: les choses
+     parleront. Pour de Philippe <persName ref="people.xml#seg01">Ségur</persName>, il ne faut plus
+     en parler. Donnez, s’il vous plait, la médaille d’or au sage <persName ref="people.xml#rei04">
+      Reichard</persName> pensant en allemand, écrivant en français, et dites à tous ceux qui
+     m’envoient des livres ou des brochures que je ne lis plus. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien.</signed>
+     <dateline>Ce <date>12 mai</date>.</dateline></closer>
+    <postscript>
+     <p>Ci-jointe une lettre de change à l’usage de <rs ref="people.xml#gri01">
+      souffre-douleur</rs>.</p>
+    </postscript>
+   </div>
+  </body>
+ </text>
+</TEI>

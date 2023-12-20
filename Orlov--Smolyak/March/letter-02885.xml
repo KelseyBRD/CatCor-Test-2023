@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02885</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02885</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>New keyword needed: decree? Kelsey: This should be covered by the "document type" in the
+     metadata spreadsheet, so I don't think we need a new keyword.</p>
+    <p>The letter demonstrated continuous correspondence about the preparation of the so-called
+     ‘Archipelago’ navy expedition (1769-1774) (<rs>#event-orlov01</rs>), which was part of the
+     First Russo-Turkish war (<rs>#event-turki01</rs>). Emma: kept orlov01</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-29">29/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:47:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-04-18">18/04/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Additional markup, checking queries.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02885">
+  <body>
+   <p>По предложению графа <persName ref="people.xml#orl03"> Орлова</persName> в <rs
+     ref="orgs.xml#coun01">совете</rs>, повелеваем оному графу <persName ref="people.xml#orl03">
+     Алексею Орлову</persName> сыскать способ купить корабль военный, в разсуждении <rs
+     ref="events.xml#orlov01">тех нужд, каковыя он имеет в кораблях во флоте</rs>, и на оную покупку
+    держать ему денег до полутораста тысяч рублев.<note type="editorial">As noted in the source
+     edition, Orlov purchased the English bomb vessel "Molniia" ("Lightning"), which joined the
+     fleet in mid-summer 1771. In 1771 he also purchased two English frigates with 22 and 26
+     cannons, respectively: the "Feodor" and the "Grigorii," for 4000 and 4500 guineas.</note> Если
+    же и сия сумма не достаточна была, то дозволяем графу <persName ref="people.xml#orl03">
+     Орлову</persName> прибавить, по его усмотрению, зная совершенно его к Нашему интересу
+    усердие.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed>
+    <dateline>
+     <date when-custom="1771-03-23">23-го марта, 1771 года</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03630</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03630</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I coded Aguesseau as Henri Cardin Jean Baptiste, but I still am not 100% sure it’s the right
+     Aguesseau</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:20:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03630">
+  <body>
+<div>
+   <opener><dateline> Ce <date when-custom="1786-02-17">17 février 1786</date>.</dateline></opener>
+   <p>Il faut que je vous dise que je vous ai envoyé par un courrier de M.
+     de <persName ref="people.xml#seg01"> Ségur</persName> la musique d’<title ref="works.xml#armide02">
+     Armide</title> et la comédie du <title ref="works.xml#deceiv01"> Trompeur</title>, traduite du
+    russe en allemand, avec une toute petite lettre de ma part. Le <persName ref="people.xml#pot01">
+     prince Potemkine</persName> s’est fait une fête de faire copier pour vous cet opéra d’<title
+     ref="works.xml#armide02"> Armide</title>, de <persName ref="people.xml#sar01">
+    Sarti</persName>. La comédie du <title xml:lang="de" ref="works.xml#deceiv01">Betrüger</title> a
+    été suivie de celle <title xml:lang="de" ref="works.xml#deceiv02"> Betrogene</title>; l’une et
+    l’autre ont eu un succès prodigieux et ont fait l’excellent effet de retenir et d’arrêter la
+    fougue <seg xml:lang="de"> der <title ref="works.xml#deceiv01">Betrüger</title> und <title
+      ref="works.xml#deceiv02">Betrogene</title></seg>. Il y a encore sur le métier <title
+     ref="works.xml#feveyo01"> Fevey</title>, opéra comique, et le <title ref="works.xml#siberi01">
+     Chaman de</title> Sibérie, comédie. Tout cela sera gai au possible: le chaman est un théosophe
+    qui fait toutes les charlataneries des confrères de <persName ref="people.xml#par01">
+     Paracelse</persName>. Voyez l’article Théosophe de l’<title ref="works.xml#encycl01">
+     Encyclopédie</title>, et vous aurez le secret de nos comédies, de la maçonnerie et des sectes à
+    la mode. Le St Synode a été à la dernière, non pas en détail, mais en corps; ils y ont ri comme
+    des fous et claqué des mains à tout rompre. Voilà la description des amusements de notre hiver.
+    Quand est-ce que votre procès au <rs ref="people.xml#roh02"> dindon</rs> finira? je parle du
+    procès <rs ref="people.xml#roh02"> cardinal</rs>, et je soupçonne présentement cette éminence
+    d’être et dindon et fripon.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1786-03-02">2 mars 1786</date>.</dateline></opener>
+   <p>Ce matin, après avoir signé tous mes apprêts pour mon voyage en <rs ref="places.xml#cri01">
+     Tauride</rs>, qui aura lieu, s’il ne se trouvera aucun empêchement d’ici là, c’est- à-dire dans
+    les premiers jours du mois de janvier de 1787. J’ai reçu votre pancarte du 1 (12) février par la
+    voie de <persName ref="people.xml#bac01"> Bacchus Gloutonowitz</persName>, le parfaitement bien
+    nommé; elle m’apprend les grandes obligations que vous avez à ce dernier et m’instruit qu’il est
+    exact à vous faire parvenir mes très petites missives.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-03-03">3 mars</date>.</dateline></opener>
+   <p>Je me doutais un peu du grand scandale que vous donnerait la conduite du Sr <persName
+     ref="people.xml#cle01"> Clérisseau</persName> et l’accroissement de la ligue Germanique en
+    conséquence ou en haine de cette affaire; comme j’ignore ce que vous avez fait et que je ne
+    l’apprendrai que par la pancarte que m’apportera <persName ref="people.xml#lav02">
+     Lavrof</persName>, je ne puis rien vous dire de plus sur cet article. Je vous envoie ci-joint
+    le chiffre que vous me demandez pour l’aimable <persName ref="people.xml#bue01">
+     Emilie</persName>; sa lettre est charmante. Sur les pierres gravées de monseigneur NB
+    j’attendrai donc l’heure du berger. J’espère que vous et votre employé en saisiront le moment
+    s’il est saisissable. La réponse du maréchal de <persName ref="people.xml#seg01"> Ségur</persName> à son fils, que j’ai vue,
+    est telle qu’on peut la souhaiter, et je crois que vous avez depuis longtemps de par le roi
+    commission de chercher de présenter, et peut-être qu’à l’heure qu’il est tout est-il
+    arrangé.</p></div><div>
+   <opener><dateline> Сe <date when-custom="1785-03-09">9 mars</date>.</dateline></opener>
+   <p>Je n’ai pas eu le temps de finir ma réponse au No 62 qu’arrive un No 64: les pancartes
+    pleuvent au mois de mars.</p></div><div>
+   <dateline> Ce <date when-custom="1785-03-11">11 mars</date>.</dateline>
+   <p>M. d’ <persName ref="people.xml#agu01"> Aguesseau</persName> n’est point encore arrivé, que je
+    sache. <persName ref="people.xml#qua01"> Quarenghi</persName> est à <placeName ref="places.xml#mos01">
+    Moscou</placeName> présentement, mais comme j’ai supposé que la lettre que vous m’avez envoyée n’est pas un
+    billet-doux, je l’ai envoyée à sa femme, qui est restée, pendant l’excursion de son mari, ici.
+     <persName ref="people.xml#tod01"> Mad. Todi</persName> a reçu la sienne. Je vous ai envoyé,
+    avec l’opéra d’ <title ref="works.xml#armide02"> Armide</title> que le <persName ref="people.xml#pot01"> pr.
+    Potemkine</persName> a fait copier pour vous, la traduction du <title ref="works.xml#deceiv01">
+     Charlatan</title>; tout cela est parti par le courrier du comte de <persName ref="people.xml#seg01"> Ségur</persName>.</p>
+   <p>J’ai lu le mémoire de <persName ref="people.xml#cag01"> Cagliostro</persName> que vous m’avez
+    envoyé, et si je n’avais pas été persuadée que c’est un franc charlatan, son mémoire m’en aurait
+    convaincue; et pourquoi le parlement de <placeName ref="places.xml#par01"> Paris</placeName> n’appelle-t-il pas un traducteur
+    arabe pour constater que cet imposteur ne sait pas un mot d’arabe? C’est un vilain coquin, qu’il
+    faudrait pendre: cela arrêterait la frénésie nouvelle de croire aux sciences occultes dont on
+    est si fort engoué à présent en <placeName ref="places.xml#ger01"> Allemagne</placeName>, en <placeName ref="places.xml#swe01"> Suède</placeName>, et qui
+    commençait à prendre <rs ref="places.xml#rus01"> ici</rs>, <seg xml:lang="it"> ma</seg> nous y
+    mettons bon ordre. L’autre mémoire me prouve que son éminence est un vilain coquin qui passait
+    sa vie avec des escrocs.</p>
+ <p>Nous travaillons dans ce moment à notre septième pièce de théâtre depuis un an.</p></div>
+  </body>
+ </text>
+</TEI>

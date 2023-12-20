@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03716</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03716</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-10">10-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:04:45Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-04">04-08-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup revised, query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03716">
+  <body>
+   <div>
+    <opener><dateline> Réponse au <seg xml:lang="de"> Vortrag</seg> 97. Ce <date
+       when-custom="1795-09-23">23 septembre</date>.</dateline></opener>
+    <p>Je m’en vais faire écrire au comte <persName ref="people.xml#cas03"> Cassini</persName> au
+     sujet des tableaux de <persName ref="people.xml#del02"> Gio Batta dell’Era</persName>; ce que
+     j’en sais est que quelques-uns sont à <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo</placeName>; ils ont été commandés pour une grande salle qui me sert de cabinet,
+     par l’architecte <persName ref="people.xml#qua01"> Quarenghi</persName>, auquel il est arrivé
+     26 malheurs: <seg xml:lang="it"> primo</seg>, il y a deux ans qu’il perdit sa femme en couches;
+     il lui resta 13 enfants sur les bras, dont moitié en <placeName ref="places.xml#ita01">
+      Italie</placeName>, moitié ici; il pensa perdre l’esprit de désespoir; il crut se guérir par
+     un voyage, et je lui conseillai d’aller en <placeName ref="places.xml#ita01">
+      Italie</placeName>, afin de se remarier. En effet, il jeta les yeux sur la soeur de sa femme,
+     qu’il croyait non mariée; tout résolu de partir, il envoie ses enfants d’avance; ils
+     parviennent jusqu’à <placeName ref="places.xml#war01"> Varsovie</placeName>; ils s’y arrêtent
+     quelques jours, et ne voilà-t-il pas que l’horrible catastrophe d’Igelstrôm les y surprend;
+     dans le même temps <persName ref="people.xml#qua01"> Quarenghi</persName> reçoit ici la
+     nouvelle que sa belle-soeur s’est mariée à <placeName ref="places.xml#rom03"> Rome</placeName>.
+     Lui, ayant toujours le mariage en tête, s’amourache d’une Suissesse protestante, qui tantôt
+     veut et tantôt ne veut pas se marier avec lui; et au moment de conclure leur contrat de
+     mariage, l’intérêt les sépare. Voilà <persName ref="people.xml#qua01"> Quarenghi</persName>
+     plus malheureux que jamais, et n’ayant plus sa tête, jusqu’à négliger tous ses ouvrages.
+     Cependant il est revenu, car il a bâti de nouveau, mais je le vois fort rarement; je crois
+     qu’il a laissé les tableaux à <placeName ref="places.xml#rom03"> Rome</placeName>, crainte
+     d’être pris par les armateurs. Je viens d’ordonner au g-l <persName ref="people.xml#pop01">
+      Popof</persName> de les faire payer et de prendre des mesures avec le comte <persName
+      ref="people.xml#cas03"> Cassini</persName> pour les faire venir ici.</p>
+    <p><persName ref="people.xml#bru06"> Madame Le Brun</persName> est ici et peint mes deux
+     petites-filles <persName ref="people.xml#ale02"> Alexandrine</persName> et <persName
+      ref="people.xml#ele01"> Hélène</persName>, qui sont toutes les deux fort jolies. Je n’ai pas
+     besoin du déjeuner viennois: la porcelaine étrangère est défendue ici depuis deux ans. Vous
+     pouvez dire à la très réclamante princesse que lorsque le sort de la Pol. sera définitivement
+     réglé, les princes de <placeName ref="places.xml#sax01"> Saxe</placeName> apprendront ce qui
+     sera arrangé en leur faveur.</p>
+    <p>Les deux dernières propositions du <seg xml:lang="de">buntscheckige Vortrag</seg> sont les
+     plus absurdes, même plus que celles de la dame réclamante. Aussi je les passe sous silence.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-02">2 d’octobre</date>.</dateline></opener>
+    <p>Mes princesses n’arrivent pas, ma elles arriveront dans trois ou quatre jours, devant coucher
+     demain à <placeName ref="places.xml#nar01"> Narva</placeName>.</p>
+    <p>Que dites-vous des belles retraites des Autrichiens? Je pense qu’ils seront bientôt
+      à <placeName ref="places.xml#vie01"> Vienne</placeName>.</p>
+    <p>Il n’y a pas d’infamie qui ne se fasse.</p>
+    <p>Remerciez bien <seg xml:lang="en"> milord</seg>
+     <persName ref="people.xml#ogi02"> Findlater</persName> pour ses magnifiques envois: je les ai
+     envoyés à leur destination.</p>
+    <p>Voilà vos lettres coulées à fond; adieu pour aujourd’hui.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-03">3 d’octobre</date>.</dateline></opener>
+    <p>J’ai deux choses à vous dire: l’une regarde <persName ref="people.xml#hen02"> le prince
+      Henri</persName>, l’autre sera un mémoire apologique de ma conduite.</p>
+    <p>Le <persName ref="people.xml#hen02"> prince Henri</persName> arriva pour le jour de naissance
+     du <rs ref="people.xml#fri03"> roi, son cher neveu</rs>, à <placeName ref="places.xml#ber01">
+      Berlin</placeName> ; il commença par lui écrire une lettre à <placeName ref="places.xml#pot01"
+      > Potsdam</placeName>, par laquelle il lui annonçait qu’il avait des choses de la plus grande
+     importance à lui communiquer et qu’à cet effet il lui demandait le jour où il pourrait venir
+     lui parler à <placeName ref="places.xml#pot01"> Potsdam</placeName>. Le <rs
+      ref="people.xml#fri03"> roi</rs> déclina cette visite, n’alla pas à <placeName
+      ref="places.xml#ber01"> Berlin</placeName> pour sa fête et défendit à la <rs
+      ref="people.xml#fri07"> reine</rs> de fêter le jour de naissance du roi. Alors <rs
+      ref="people.xml#hen02"> S. A. R</rs>. devint furieux, retourna à <placeName
+      ref="places.xml#rhe01"> Rheinsberg</placeName> et envoya au très cher <rs
+      ref="people.xml#fri03">neveu</rs> un énorme cahier, tendant à persuader le <rs
+      ref="people.xml#fri03"> roi</rs> à conclure un traité infâme d’alliance avec les régicides
+     contre l’<placeName ref="places.xml#eur01"> Europe</placeName> entière; <rs
+      ref="people.xml#fri03">le royal neveu</rs> se fâcha à son tour et ne voulut, vu l’énormité
+     peut-être, pas même lire la liasse.</p>
+    <p>Mémoire justificatif.</p>
+    <p>Si l’on viendra vous dire qu’il se fait des séquestres et des confiscations en <placeName
+      ref="places.xml#lit01"> Lithuanie</placeName> et dans mon lot, sachez ce qui en est. Le
+     séquestre a été mis sur les biens de tous ceux qui ont trempé dans la trame ourdie pour
+     laquelle <persName ref="people.xml#kos01"> Kostiouchka</persName> et consorts ont pris les
+     armes. <seg xml:lang="it"> Secundo</seg>, ceux qui avaient prêté serment et ensuite ont pris
+     les armes, ont perdu leurs droits volontairement, et leurs biens ont été confisqués. Malgré
+     tout cela, j’en rends journellement, car je ne suis pas bien méchante, mais il est bon que vous
+     sachiez cela; outre cela, qui dit starosties dit bien royaux; ceux-ci ne sauraient que
+     retourner à la couronne. J’aime mieux les donner pour services rendus que de les laisser à des
+     gens dont la fidélité est douteuse. Ainsi vous m’excuserez si vous pouvez.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-05">5 d’octobre</date>.</dateline></opener>
+    <p>Or, <rs ref="people.xml#gri01"> souffre-douleur</rs>, je ne veux pas que vous croyiez que je
+     varie dans mes principes, comme <rs ref="people.xml#fri03"> frère Gu</rs>, avec lequel on ne
+     sait jamais où on en est, si un moment on cesse de se souvenir qu’il est et les siens capables
+     de toutes les fourberies possibles, pourvu qu’il en reçoive un écu.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-06">6 d’octobre</date>.</dateline></opener>
+    <p>Ecoutez, <rs ref="people.xml#gri01"> souffre-douleur</rs>, c’est aujourd’hui entre sept et
+     huit heures du soir que les princesses arrivent; or, c’est aujourd’hui aussi que j’ai reçu
+     votre lettre No 100, en date du 12 (23) septembre. <seg xml:lang="de"> Das ist eine sehr
+      jämmerliche Depesche</seg>, quoiqu’elle commence par le court récit de la rencontre des trois
+     nymphes et de leur mère qui nous arrivent ce soir. <seg xml:lang="de"> Aber, Herr <persName
+       ref="people.xml#gri01"> Schmerzdulder</persName>, warum haben Sie einen so Großen Unmuth über
+      der Abreise des Grafen Hertzblatts? Dieser hat Ihnen u nichts in der Welt geholfen. Bald gegen
+      dem Frühjahre werden Sie ihm ja hieher folgen</seg>. Si vous vous en allez de <placeName
+      ref="places.xml#got01"> Gotha</placeName>, je vous conseillerais d’aller à <placeName
+      ref="places.xml#lei01"> Leipzig</placeName>, de là à <placeName
+      ref="places.xml#fra05 places.xml#fra03"> Francfort sur l'Oder</placeName>, de là à <placeName
+      ref="places.xml#kon01"> Königsberg</placeName>, de là à <placeName ref="places.xml#mit01">
+      Mitau</placeName> etc. Avec cette lettre, et même avant, vous recevrez une lettre de change sur
+      <placeName ref="places.xml#lei01"> Leipzig</placeName> pour dix mille roubles, afin que vous
+     ne soyez pas pris au dépourvu si vous aviez besoin de partir, crainte des brigands, avant
+     terme; <seg xml:lang="it"> ma</seg> sachez que, de la façon dont les choses vont, lorsqu’on
+     croira tout perdu, c’est alors que le sauveur se trouvera, et que toute cette gueuserie vous
+     sera renvoyée beaucoup plus promptement qu’elle ne sera venue: le temps fait mûrir les
+     nèfles.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-04">4 d’octobre</date>. NB. Ceci est écrit
+      depuis trois jours sur cette page.</dateline></opener>
+    <p>Je vous félicite de ce que le 1 novembre sera déclaré le mariage du <persName
+      ref="people.xml#gus02"> jeune roi de <placeName ref="places.xml#swe01">
+      Suède</placeName></persName> avec la très laide et bossue <rs ref="people.xml#lou12">
+      fille</rs> de votre amie la <persName ref="people.xml#lou19"> duchesse de
+      Mecklembourg</persName>; malgré sa laideur et sa bosse, on la dit aimable. Si le <rs
+      ref="people.xml#cha01"> régent jacobin</rs> était un particulier, j’aurais droit de lui faire
+     donner une volée de coups de bâton pour son manque de parole portée, sans que je l’eusse
+     demandée, dans cette affaire. Non seulement le comte Steinbock m’en a parlé an nom du <rs
+      ref="people.xml#cha01"> régent</rs> et du <rs ref="people.xml#gus02"> roi enfant</rs>, mais il
+     disait à qui voulait bien l’entendre qu’il était envoyé ici pour arranger, selon la volonté du
+      <rs ref="people.xml#gus01"> feu roi</rs>, l’affaire du mariage du jeune roi avec <persName
+      ref="people.xml#ale02"> Alexandrine</persName>. L’ambassadeur <persName ref="people.xml#ste01"
+      > Stedingk</persName> en a parlé pendant plusieurs années sur le même pied. La religion ne
+     devait point empêcher une affaire aussi salutaire aux deux états.</p>
+    <p>Que le <rs ref="people.xml#cha01"> régent</rs> me haïsse et ait cherché à me leurrer, à me
+     tromper, à la bonne heure; mais pourquoi marie-t-il son pupille avec une laideron contrefaite?
+     pourquoi celui-là mérite-t-il une aussi cruelle punition, tandis qu’il s’attendait à épouser
+     une personne dont la figure seule remporte tous les suffrages?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-06">6 octobre</date>, à 5 heures du
+      soir.</dateline></opener>
+    <p>Monsieur <persName ref="people.xml#bud02"> Budberg</persName> sera ici dans deux ou trois
+     heures avec toute sa pacotille; par conséquent donc, vos pacquets sont de la partie. Je vous
+     remercie pour le mémoire sur les écoles de marine. J’ai lu le mémoire de <persName
+      ref="people.xml#chi06"> Madame de Chimay</persName>; il est bien difficile sans doute de
+     nourrir tout le monde.</p>
+    <p>Le malheur de M. de <persName ref="people.xml#dam02"> Damas</persName> nous était déjà
+     connu.</p>
+    <p>Il faut dire la vérité, le comte <persName ref="people.xml#gol15"> Golofkine</persName> est
+     un être aussi avantageux qu’intrigant, et il a trouvé moyen par-là de se discréditer dans bien
+     des endroits, et nommément à <placeName ref="places.xml#vie01"> Vienne</placeName>, où il
+     s’était lié avec <persName ref="people.xml#luc01"> Lucchesini</persName>, trait inconséquent et
+     hors de propos.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-07">7 d’octobre</date>.</dateline></opener>
+    <p>D’abord, il n’y a qu’un instant qu’il est à <seg xml:lang="de"> Neapel</seg>; il s’attache à
+      <persName ref="people.xml#ita01"> ltalinski</persName>; ils se conviennent parfaitement, dit
+      <persName ref="people.xml#gol15"> Golofkine</persName>: c’est aller vite en besogne; ils sont
+     déjà amis; notez qu’<persName ref="people.xml#ita01"> Italinski</persName> là-bas a ce que tous
+     les autres ont en salaire; s’il viendra ici, il sera placé s’il sort de la diplomatie sans
+      <persName ref="people.xml#gol15"> Golofkine</persName> et sa recommandation. Celui-ci n’ayant
+     jamais été dans les gouvernements de la <placeName ref="places.xml#bla01"> Mer
+      Noire</placeName>, il parle gratuitement des employés qu’il ne connaît pas, par conséquent sa
+     parenthèse sur les non-talents des employés est gratuite. Le gouverneur général comte <persName
+      ref="people.xml#zub03"> Platon Zoubof</persName> est occupé sans relâche à donner des démentis
+     à <rs ref="people.xml#gol15"> M. l’envoyé</rs>.</p>
+    <p>Je ne sais qui pourraient être autour de moi les gens qui se trouveraient blessés de la
+     confiance que <rs ref="people.xml#gol15"> M. l’envoyé</rs> pourrait me marquer. Il n’a jamais
+     été à même, tenez-le pour dit, de faire des ingrats; ce n’est pas lui encore qui a pris le
+     parti de s’éloigner, mais comme il marquait de l’esprit et qu’on l’a cru propre à sa nouvelle
+     carrière, on lui a donné ce poste, dont il a été enchanté. Pour des faveurs, il n’en a jamais
+     eu, ni joui. Mais un seul trait le caractérise: ayant reçu tout ce qu’on donne à ceux qui
+     partent dans son caractère, il vint chez le comte <persName ref="people.xml#zub03">
+      Zoubof</persName> le prier de me dire qu’il ne pouvait partir sans huit mille roubles à
+     ajouter à ce qu’il avait reçu. Je lui fis répondre que je ne ferais pas plus pour lui que pour
+     les autres; là-dessus il ne vint plus chez le <persName ref="people.xml#zub03"> comte
+      Z</persName>., mais resta encore longtemps en ville sans partir; alors quelqu’un le
+     rencontrant, lui dit: «D’où vient que vous ne venez plus chez le comte <persName
+      ref="people.xml#zub03"> Zoubof</persName>?» à quoi <persName ref="people.xml#gol15">
+      Golofkine</persName> répondit: «Nous nous écrivons deux ou trois fois par jour, et cela nous
+     suffit». Or, jamais ils ne s’écrivaient.</p>
+    <p><rs ref="people.xml#sop05 people.xml#ant04 people.xml#ann02">Mes princesses</rs> sont
+     arrivées hier au soir, 6 d’octobre; elles sont bien jolies. Le g-l <persName
+      ref="people.xml#bud02"> Budberg</persName> m’a remis ce matin, 7 d’octobre, votre lettre et
+     vos paquets; j’y répondrai demain.</p>
+    <p>NB. Ce demain a duré jusqu’à aujourd’hui, 9 d’octobre; j’ai été si fatiguée tous ces jours
+     par <persName ref="people.xml#kon01"> Constantin</persName> et tout ce qui le regarde, outre la
+     bagarre ordinaire, que je n’ai pas eu un moment à moi. La <persName ref="people.xml#aug07">
+      princesse héréditaire de <placeName ref="places.xml#sax01">
+      Saxe-Cobourg</placeName></persName> est une bien brave et digne femme; <rs
+      ref="people.xml#sop05 people.xml#ant04 people.xml#ann02"> ses filles</rs> sont très jolies;
+     c’est dommage que notre épouseur n’en peut prendre qu’une, car il paraît qu’elles seraient
+     toutes trois bonnes à garder, mais il parait que notre Pâris donnera la pomme à la <rs
+      ref="people.xml#ann02"> plus jeune</rs>: vous verrez que c’est <persName
+      ref="people.xml#ann02"> Julie</persName> qui l’emportera. Deux cents personnes à peu près qui
+     les ont vues jusqu’ici n’ont qu’une voix: c’est <persName ref="people.xml#ann02">
+      Julie</persName>, et <persName ref="people.xml#ann02"> Julie</persName> l’espiègle l’emporte
+     sur <rs ref="people.xml#sop05 people.xml#ant04">ses soeurs</rs>, faut voir. Voyez si ceci est
+     conforme à votre billet, qui a été décacheté et lu avant la lettre, même malgré votre défense
+     expresse.</p>
+    <p>Les tableaux de <persName ref="people.xml#mar12"> Teresina</persName> sont charmants. Je suis
+     bien redevable à la <persName ref="people.xml#cha13"> duchesse de <placeName
+       ref="places.xml#got01"> Gotha</placeName></persName> pour l’envoi de l’ouvrage du baron
+      <persName ref="people.xml#thu01"> Thümmel</persName>. Dites-moi si le <rs
+      ref="people.xml#fre10"> second fils</rs> de <rs ref="people.xml#cha13"> cette duchesse</rs>
+     est bien de figure, de coeur et d’esprit; je m’en vais faire prendre notice de tous les cadets
+      d’<placeName ref="places.xml#ger01"> Allemagne</placeName>, et quand j’en aurai une liste
+     complète, j’en choisirai autant qu’il m’en faudra pour des épouseuses, dont chacune ayant
+     choisi un à son gré, elle fera la fortune de son mari. Je commence par <rs
+      ref="people.xml#fre10"> un cadet</rs> de <placeName ref="places.xml#got01"> Gotha</placeName>;
+     il y a encore un cadet à <placeName ref="places.xml#kot01"> Köthen</placeName> que je m’en vais
+     pourchasser; si vous m’en pouvez faire avoir des nouvelles, vous m’obligerez. Mais gardez ma
+     chasse pour vous; je ne veux pas qu’elle s’ébruite avant le temps; ce ne sont pas des régnants,
+     mais des cadets n’ayant que la cape et l’épée qu’il me faut.</p>
+    <p>Eh bien, n’est-ce pas beau à moi d’avoir subjugé la <rs ref="people.xml#sop07"> vieille
+      duchesse de Cobourg</rs> avec une dixaine de lignes, toute prussienne qu’elle est? Je n’ai
+     point lu les premiers tomes de l’ouvrage du baron de <persName ref="people.xml#thu01">
+      Thümmel</persName>; ainsi j’ignore le portrait qu’il a fait du Solon de l’<placeName
+      ref="places.xml#ger01"> Allemagne</placeName>; mais je m’en vais les faire chercher à cet
+     effet. La <persName ref="people.xml#mar02"> grande-duchesse</persName> n’aura pas les trois
+     tomes que vous venez de m’envoyer, quoiqu’elle ne soit pas tout à fait aussi rigide dans ses
+     lectures que tous et l’auteur le supposez. <seg xml:lang="de"> Sie liest viel, auch was sie
+      vielleicht nicht versteht</seg>. Il paraît que ce vilain <persName ref="people.xml#cha04"> duc
+      de Deux-Ponts</persName> est mort comme il a vécu; c’était un c…… Pour le cygne poméranien, il
+     était toujours fort gros de son propre mérite, mais celui-ci je le lui dispute comme vous le
+     savez, même comme littérateur. C’était un parvenu dans toute la force du terme; n’a-t-il pas
+     voulu faire croire que le feu roi n’avait d’autre mérite que celui que lui <persName
+      ref="people.xml#her02"> Hertzberg</persName> avait eu la complaisance de lui en faire? <seg
+      xml:lang="de"> Ich konnte den groben Kerl niemals leiden, und auch niemand hatte in ihm
+      Bertrauen, eben so wenig als in den tückischen Schurken <persName ref="people.xml#luc01">
+       Lucchesini</persName>; die Röthers haben die ganze Regierung des dicken Herren verdreht und
+      auch verrenkt, weil sie alles aus dem gehörigen Maaß gebracht und übertrieben haben. Das
+      russische Sprichwort sagt: wo das Pferd mit dem Hufen hintritt, da will der Krebs auch mit der
+      Scheere hintreten, und das geht nicht allzeit an.</seg>
+    </p>
+    <p>Commentaire sur l’école de marine.</p>
+    <p><seg xml:lang="de"> Die Herren haben auch so viel geandert zu ihrer Zeit das sie den Karren
+      im D… geschoben haben, und da fitzt er nun drin, und keiner von diesen größten Beränderern
+      kann ihn nun daraus ziehen.</seg> Qui diable a jamais entendu que pour mieux apprendre le
+     service de mer, il faut faire instruire les jeunes officiers de mer dans l’intérieur des terres
+     et les tirer à cet effet des ports de mer? Pour moi, j’ai cru jusqu’ici qu’il fallait, pour
+     ainsi dire, les fourrer le nez dans la mer, qu’ils eussent cet élément continuellement devant
+     les yeux de même que tous les travaux des ports et chantiers: les raisons de ce changement sont
+     bien faibles. Il n’y avait rien de meilleur que ces races d’officiers de marine servant de père
+     en fils dans la marine et n’entendant que marine depuis le berceau. Les mathématiques pouvaient
+     être apprises dans les ports avec pratique, et les moeurs auraient été surveillées là aussi
+     bien que dans l’intérieur du pays. Je pense que le <rs ref="people.xml#ogi02"> pair
+      d’Ecosse</rs> m’a envoyé ce mémoire afin que j’évite de tomber dans pareille faute comme celle
+     qu’on a commise dans cet établissement, et pour cela je le lui promets de bon coeur.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-11">11 d’octobre</date>.</dateline></opener>
+    <p>C’est <persName ref="people.xml#hen02"> le prince Henri</persName> qui négocie le mariage du
+     jeune <persName ref="people.xml#gus02"> roi de <placeName ref="places.xml#swe01">
+       Suède</placeName></persName> avec la <persName ref="people.xml#lou12"> princesse de
+      Mecklembourg</persName>, tout comme il a négocié celui du <persName ref="people.xml#rad03">
+      prince Radzivill</persName> avec la <rs ref="people.xml#fre07"> fille</rs> du prince <persName
+      ref="people.xml#aug06"> Ferdinand</persName>: <seg xml:lang="de"> der kluge Mann wird ein
+      Kuppler auf seine alten Tage</seg>; si vous vous mariez, adressez-vous à lui.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-12">12 d’octobre</date>.</dateline></opener>
+    <p>Tenez: voilà la lettre de change que je vous ai promise. Cette lettre vraisemblablement
+     partira avec le courrier, porteur de la nouvelle à <placeName ref="places.xml#cob01">
+      Cobourg</placeName> que le sieur <persName ref="people.xml#kon01"> Constantin</persName> a
+     fait son choix. Hier toutes les distinctions de sa part étaient pour <persName
+      ref="people.xml#ann02"> Julie</persName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-13">13 d’octobre</date>.</dateline></opener>
+    <p>Le sieur <persName ref="people.xml#kon01"> Constantin</persName> prétend ce soir porter sa
+     plainte à la <persName ref="people.xml#aug07"> princesse héréditaire</persName> au sujet des
+     beaux yeux de sa <rs ref="people.xml#ann02"> fille cadette</rs>; il ne peut attendre, dit-il,
+     pas un moment plus tard, tant y a que cette affaire la grand train, comme vous voyez très
+     bien.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-14">14 d’octobre</date>.</dateline></opener>
+    <p>Il n’y a pas jusqu’au ministre de <placeName ref="places.xml#pru01">
+     Prusse</placeName> lui-même qui ne dise que <persName ref="people.xml#hen02"> le prince
+      Henri </persName>a adopté parfaitement le système et la conduite de <persName
+      ref="people.xml#orl08"> Philippe Egalité</persName> d’infâme mémoire.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-10-14">14 d’octobre</date>, après
+      dîner.</dateline></opener>
+    <p>Notre affaire est bâclée. <persName ref="people.xml#kon01"> Constantin</persName> épouse
+      <persName ref="people.xml#ann02"> Julie</persName>; ils se trouvent charmants également; la
+      <rs ref="people.xml#aug07"> mère</rs> et tout le monde pleure et rit tour à tour de ce couple
+     intéressant; le futur a 16 ans, et la future 14. Ce sont deux espiègles ensemble. Le courrier
+     pour <placeName ref="places.xml#cob01"> Cobourg</placeName> partira probablement demain. </p>
+    <closer><signed rend="inline">C’est ainsi que je vous fais mes adieux. Portez-vous bien; j’en
+      fais autant.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

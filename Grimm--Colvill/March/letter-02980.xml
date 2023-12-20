@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02980</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02980</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:21:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02980">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName> ce <date when-custom="1776-01-30">30 janvier 1776</date></dateline></opener>
+   <p><seg xml:lang="de">ist das möglich</seg>! Quelle folie que ce beau titre
+    impérial écrit en gros caractères à la tête du No 26. parti de Milan le 13 decembre 1775. Mais
+    que diront les commis de poste<hi rend="superscript">:</hi> je crains, mon ami que pour cette
+    belle correspondance ils ne nous condamnent par contumace ou par une <seg xml:lang="de"
+     >wohl hergebrachte gewohnheit</seg> de leur très louable patrie.— quelque ville
+    municipale d'<placeName ref="places.xml#ger01">Allemagne</placeName>, où les abus des lois, les louables coutumes, tiennent lieu
+    des lois mêmes.—aux petites maisons tout droit. Il faut avouer que vous êtes un faiseur de
+    galimatias de profession M Laurent m'a appris : griffonner en français; mais la cendre <seg xml:lang="de">ehrwürdige</seg> pasteur <persName ref="people.xml#wag01">Wagner</persName> se mettrait
+    en mouvement s’il savait qu’autre que lui était soupçonné de m’avoir enseigné l’écriture
+    allemande. M. Laurent était un <seg xml:lang="de">velche</seg>, qui parlait
+    allemand comme une vache espagnole. Vous étiez né pour être un saint, et Dieu punira ceux qui
+    vous ont empêché de l’être. Vous tenez de St Paul, même par vos extases continuelles: il
+    dégringola de cheval en rêvant; n’allez pas en faire autant de quelque belle montagne
+    d’<placeName ref="places.xml#ita01">Italie</placeName>. Vous pleurez du chant de la <persName ref="people.xml#gab01">
+     Gabriella</persName>; quand je vous écris et quand je ne vous écris pas, vous hurlez
+    d’imagination; vous avez des visions. Mais voilà des dispositions admirables! Si tout cela était
+    tourné vers le regret de vos péchés et la contemplation des béatitudes de l’autre monde, une
+    grande partie du chemin serait faite pour y parvenir. J’espère beaucoup que la présence du
+    saint-père et le séjour de <placeName ref="places.xml#rom03">Rome</placeName> vous mettra sur le reste de la route. La
+     <placeName ref="places.xml#vos01"> nouvelle Jérusalem</placeName> a opéré sur vous de loin:
+    aussi c’est une des grandes voies du paradis chez nous, surtout une station que l’on ne saurait
+    accomplir autrement qu’à quatre pattes. Venez-у, vous le verrez. Eh bien, mais qu’est-ce que
+    vous avez, tant à crier de ce voyage du <persName ref="people.xml#hen02">prince
+     Henri</persName>? Est-ce notre faute que toutes les combinaisons humaines ne tiennent point contre
+    les événements imprévus, et depuis si longtemps que vous êtes dans le monde, monsieur le
+    philosophe plénipotentiaire, ne devriez-vous pas être fait à cette allure de la création?
+    Allons, allons, consolez-vous, et rôdez par l’<placeName ref="places.xml#ita01">Italie</placeName> jusqu’à ce que la fantaisie
+    vous prendra de refroidir votre imagination dans le Nord. Disciple d’Héraclite, il me semble que
+    vous aimez beaucoup ceux qui vous font rire. Le <rs ref="people.xml#vol01"> patriarche de <placeName ref="places.xml#fer01">Ferney</placeName></rs> mourait d’envie de vous voir, et d’où
+    vient donc qu’il vous a reçu fraichement? C’est tant mieux si l’année 1776 de la correspondance
+    est payée aussi par les deux envois. Grand merci pour la liste des tableaux et pour toutes les
+    marques d’amitié que vous me donnez. Je savais déjà de <placeName ref="places.xml#vie01">Vienne</placeName> que <persName
+     ref="people.xml#des01"> l’archiduchesse de Milan</persName> avait réuni tous les suffrages en
+    sa faveur. </p>
+   <closer><signed rend="inline">Adieu. </signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02897</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02897</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:22:09Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02897">
+  <body>
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.
+   <salute>Нашему генералу графу <persName ref="people.xml#orl03"> Алексею
+     Орлову</persName>.</salute></opener>
+   <p>Настоящия Наши обстоятельства привлекают Нас принять некоторыя меры относительно <orgName
+     ref="orgs.xml#russ02"> флота</orgName> Нашего в <placeName ref="places.xml#bal01"> Балтийском
+     море</placeName>. Того ради Высочайше повелеваем вам, укомплектовав эскадру вашу необходимо
+    надобным числом морских офицеров и штурманов, при вас находящихся, отправить сюда сухим путем
+    прочих, коих теперь у вас довольному числу быть надлежит, снабдя их потребною на проезд суммою и
+    разделяя их на несколько партий, по два, или по четыре человека, дабы сие их отправление не
+    возбудило излишняго примечания, а они бы в течение наступающей зимы сюда прибыть могли. Впрочем,
+    пребываем вам Императорскою Нашею милостию благосклонны. </p>
+   <closer><dateline>Дан в <placeName ref="places.xml#pet01"> Санктпетербурге</placeName>, <date when-custom="1772-09-04">4-го
+    сентября 1772 года</date>.</dateline>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

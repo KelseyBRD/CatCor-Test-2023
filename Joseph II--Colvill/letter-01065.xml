@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01065</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01065</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#prussia"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:21:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01065">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1785-08-30">30 d’août 1785</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre de V. M. I. du 26 juillet m’a causé un plaisir d’autant plus
+    sensible que j’étais alarmée sur l’état de Sa santé depuis Son retour d’<placeName
+     ref="places.xml#ita01">Italie</placeName>. Nos envieux n’ayant pas pu venir à bout de la mienne
+    qui est bonne, malgré tous les bruits contraires qu’ils se sont plu à répandre, c’est à présent
+    sur celle de V. M. I. qu’ils tachent de jeter partout l’alarme. Je ne sais comment il se fait
+    que les faussetés ne discréditent pas leur auteur dans le public; il me paraît aussi qu’il est
+    difficile de s’occuper ainsi de la santé de son prochain sans être très-valétudinaire
+    soi-même.</p>
+   <p>Pendant l’<rs ref="events.xml#mosco01"> excursion</rs> que j’ai faite à <placeName
+     ref="places.xml#mos01">Moscou</placeName>, ayant l’ambassadeur de V. M. I. à mes côtés, je me
+    rappelais continuellement le voyage de <placeName ref="places.xml#mog01"> Mohilew</placeName> et
+    je disais: quand est-ce que je serais aussi heureuse que je l’étais alors?</p>
+   <p>Je suis charmée qu’enfin ces députés bataves se soient acquittés de leur tâche au gré de V. M.
+    I. — Je souhaite que ces républicains montrent autant de docilité dans le cours du reste de la
+    négociation, et que le dénouement désiré s’ensuive au terme qu’Elle leur a fixé. J’espère que V.
+    M. I. ne doute pas de l’intérêt vif et sincère que j’y prends. J’ai donné en conséquence des
+    ordres précis à mon ministre à <placeName ref="places.xml#lah01"> la Haye</placeName> d’exhorter
+    derechef Messieurs les Hollandais, et de leur faire sentir la nécessité indispensable d’un
+    prochain accommodement avec Elle.</p>
+   <p>Il m’a été infiniment agréable de voir le contentement de V. M. I. sur les démarches que j’ai
+    faites de concert avec Elle pour arrêter les progrès de <seg xml:lang="en"> league</seg>
+    nouvellement formée en <placeName ref="places.xml#ger01">Allemagne</placeName>. Si nous n’avons
+    pas pu réussir à la détruire dans sa source, il semble que le seul parti qu’il nous convient
+    maintenant de prendre pour donner un démenti à la haine et à la jalousie qui l’ont fait naître,
+    et pour en rendre les effets tout-à-fait illusoires, c’est de la traiter avec une parfaite
+    indifférence, et de n’en point montrer d’humeur. D’ailleurs je crois que notre union intime
+    pourra dans tous les cas opposer un boulevard suffisant aux menées de ceux qui chercheront à
+    nous contrecarrer. Rien n’empêchera pour cela ni V. M. I. ni moi d’employer plus d’un moyen pour
+    soustraire les autres princes de l’<placeName ref="places.xml#hol01">Empire</placeName> à cette
+    confédération, et selon mon avis il n’y aurait pas de meilleur moyen d’y parvenir que d’user à
+    leur égard de beaucoup de douceur, en les obligeant tant en paroles qu’en effets dans leurs
+    demandes, et en prévenant même jusqu’à un certain point leurs désirs, à quoi V. M. I. en Sa
+    qualité de chef du corps germanique pourra certainement contribuer le plus.</p>
+   <p>Ce sont là des réflexions que la candeur et la franchise avec lesquelles je suis accoutumée de
+    m’expliquer vis-à-vis de V. M. I., m’ont suggérées, et que je soumets au reste à Sa haute
+    pénétration.</p>
+   <p>En attendant j’ai enjoint à <rs ref="people.xml#vor02"> mon ministre</rs> à <placeName
+     ref="places.xml#lon01">Londres</placeName> de tâcher à faire comprendre au ministère
+     d’<placeName ref="places.xml#eng01">Angleterre</placeName> que la <placeName
+     ref="places.xml#gre01"> Grande-Bretagne</placeName> consultait fort mal ses intérêts, si elle
+    voulait faire cause commune en cette occasion avec l' <persName ref="people.xml#geo02"> électeur
+     d’Hanovre</persName>, et si V. M. I. jugeait à propos de conformer ii cet égard son langage au
+    mien, sans déroger pour cela à Ses engagements subsistants avec la <placeName
+     ref="places.xml#fra01">France</placeName>, je pense que nous n’aurions pas beaucoup de peine à
+    nous assurer de cette puissance.</p>
+   <p>V. M. I. me permettra de me référer pour le reste à mon ambassadeur, à qui j’ai donné ordre de
+    L’entretenir plus au long sur les présentes conjonctures et les mesures lui nie paraissent les
+    plus propres à les subordonner à nos vues.</p>
+   <p>Je ne crois pas avoir besoin de renouveler à V. M. I. mes assurances sur les bons offices que
+    je continuerai d’employer pour Ses intérêts, tant relativement à la <placeName
+     ref="places.xml#ott01">Porte</placeName> qu’en toute autre occurrence. Mon désir constant est
+    de La convaincre de la sincérité et de l’étendue de mon amitié, laquelle n’est égalée que par la
+    très-haute considération avec laquelle je suis</p>
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur et, fidèle
+    amie et alliée <persName ref="people.xml#cat01"> Catherine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

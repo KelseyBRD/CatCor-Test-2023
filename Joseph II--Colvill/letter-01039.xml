@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01039</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01039</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#education"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:14:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01039">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, ce <date when-custom="1782-09-07">7 septembre 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Tandis que j’étais occupée à écrire à V. M. I. une lettre d’une telle
+    étendue ou volume qu’elle ne ressemblera pas mal à un ancien plaidoyer de Son Conseil Aulique,
+    je reçois par le Sr. <persName ref="people.xml#jan02"> Jancovich</persName> la charmante lettre
+    de V. M. I. du 8 d’août. Le choix qu’Elle a daigné faire d’un sujet tel que lui qui joint la
+    théorie à la pratique, non seulement me pénètre de la plus parfaite reconnaissance V. M. I.,
+    mais j'ose encore L’assurer que c’est un vrai don de bienfaisance dont Elle vient de gratifier
+    les écoles de mon <placeName ref="places.xml#rus01">Empire</placeName> et dont les effets seront
+    indubitablement d’éclairer bien des milliers d’hommes et de leur donner des lumières aussi
+    utiles à eux-mêmes qu’a la société de la manière du monde la plus simple et la plus facile. Je
+    partage le contentement que le grand coeur de V. M. I. doit sentir d’une action aussi digne de
+    Son humanité avec cet intérêt vif que l’amitié sincère et les hautes vertus de V. M. I. m’ont
+    inspiré depuis l’heureux moment où j’ai eu le bonheur de Lui témoigner de bouche la très-haute
+    considération avec laquelle je ne cesserai d’être ....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08239</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08239</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I believe that the “Couvent de Troitza” is the Trinity Lavra of St. Sergius, but I am not
+     100% sure. I went ahead and coded it as Trinity Lavra (in the dateline)</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:24:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08239">
+  <body>
+
+   <opener><dateline> du <placeName ref="places.xml#tri01"> Couvent de Troitza</placeName>, ce <date
+      when-custom="1775-06-02">2 juin 1775</date>. </dateline></opener>
+   <p>C'est de ce lieu de dévotion que je m'aquitte des remercîments que je dois à V. A. R. pour la
+    lettre qu'Elle m'a écrite par le comte <persName ref="people.xml#che03"> Czernichef</persName>.
+    Je l'ai trouvée, à ma grande satisfaction, remplie des marques du précieux souvenir de V. A. R.
+    Rien ne me saurait être plus agréable et plus flatteur que la continuation de Son amitié. Le
+    comte <persName ref="people.xml#sol01"> Solms</persName>, que j'ai prié de faire parvenir
+    celle-ci à V. A. R., Lui dira que je suis en pélérinage, nous avons fait une proménade à pied de
+    trente werstes le plus lestement du monde. C’est aussi tout le bien qu'on en peut dire, le temps
+    était très rude encore malgré la saison. Il n'y a pas huit jours encore que nous avons eu de la
+    neige. L'air de printemps a été aussi orageux que la disposition des esprits de bien des pays ;
+    l'on dirait que l'épidémie s'est répandue depuis <placeName ref="places.xml#ore01"
+     >Orenbourg</placeName> jusqu’au delà de <placeName ref="places.xml#par01">Paris</placeName>. La
+     <rs ref="events.xml#flour01"> fameuse police</rs> de <placeName ref="places.xml#par01"
+     >Paris</placeName> n'a pas suffi pour réprimer le vertige; il y a longtemps que je m'en
+    doutais. Je suis persuadée que le Sr <persName ref="people.xml#gri01">Grimm</persName> en cette
+    occasion se sera ressouvenu de mes conversations avec lui; j'espère de le voir l'année qui vient
+    à la suite de V. A. R., car je me flatte toujours, qu'Elle ne me refuse pas la satisfaction de
+    Lui réitérer à <placeName ref="places.xml#pet01"> Pétersbourg</placeName> de bouche les
+    assurances des sentiments d'amitié. . .</p>
+  </body>
+ </text>
+</TEI>

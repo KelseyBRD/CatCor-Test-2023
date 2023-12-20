@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01190</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01190</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domestic">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Марузий?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-31"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01190">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Чрез <persName ref="people.xml#str01">Стрекалова</persName> я получила Ваши вчерашние
+                пакеты, и еще не все прочла, а сейчас вручено мне Ваше сегоднишнее письмо, из
+                котораго усмотрела, что, слава Богу <persName ref="people.xml#pau01">сын</persName>
+                мой здоров. Здесь все готово к его приезду. При сем обратно посылаю к Вам <persName
+                    ref="people.xml#zeg01">Зегелиново</persName> письмо. Прикажите Марузию всячески
+                помогать фамилии <persName ref="people.xml#obr01">Обрескова</persName>, а его самого
+                наисильнейше моим именем обнадежить, что детей не оставлю, и старайтеся их
+                благополучно сюда привести; а я их тотчас раздам, девочек в девичей монастырь, а
+                мальчиков в кадетской корпус, как наилучшия училищи, и то еще такия, где я сама
+                часто бываю, очевидной свидетель успехов сих питомцев. <persName
+                    ref="people.xml#orl03">Графу Орлову</persName> письмо брата его вручила и весьма
+                любопытна знать, пишет ли Марузий чего нибудь интереснаго.</p>
+            <closer><signed rend="inline">Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1769-05-08">Мая 8 дня, 1769.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

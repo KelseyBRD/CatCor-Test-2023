@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08241</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08241</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:24:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08241">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#mos01">Moscou</placeName>, ce <date
+      when-custom="1775-10-06">6 octobre 1775</date>.</dateline></opener>
+   <p>La lettre de V. A. R. datée de <placeName ref="places.xml#rhe01"> Rheinsberg</placeName> du 18
+    septembre me donne une nouvelle marque de Son amitié par l'intérêt qu'Elle a bien voulu prendre
+    à mon indisposition qui paraissait très sérieuse, mais dont, selon Ses désirs, j'ai été rétablie
+    au bout de quelques jours. Les belles pêches de <placeName ref="places.xml#mos01"
+     >Moscou</placeName>, les fêtes de la <rs ref="events.xml#kuchu01"> paix</rs> et l'excessive
+    chaleur en étaient l’unique cause; surtout la corvée du premier jour où j'étais en cérémonie
+    depuis les dix heures du matin jusqu'à quatres de l'après-dîner. Tout autre que V. A. R. me
+    dirait: à quoi bon? Mais Elle, je suis persuadée, connaissant la bonté de Son cœur et Ses
+    sentiments élévés, Elle ne saurait désapprouver que j'aie employé quelques heures à me gêner
+    pour rendre d'autant plus solennel l'acte de justice que je devais à ceux qui m'avaient servie
+    pendant la dernière campagne. Mon maréchal <persName ref="people.xml#rum01"
+    >Roumanzof</persName> par exemple, j'espère que V. A. R. est contente de la façon dont je l’ai
+    accomodé? Cependant, je l'avoue, il lui manque une décoration à mes yeux. Je vais plus loin,
+    l'amitié de V. A. R. m'a inspiré une pleine confiance, je ne balancerai pas de Lui dire dans la
+    plus grande intimité, que c’est le cordon de l'aigle noir que je désirerais pour lui. Il y a
+    encore un autre personnage qui non seulement est mon élève, mais qui a servi avec distinction,
+    qui n'est pas un sujet ordinaire, que j'aime et que j’estime et pour lequel même V. A. R. a
+    marqué des bontés, pour lequel je forme le même vœu. Faut-il le nommer? C'est le général en chef
+    comte <persName ref="people.xml#pot01"> Potemkine</persName>. Est-ce abuser de l'amitié de V. A.
+    R. que de La prier d'interposer auprès du <rs ref="people.xml#fre01"> Roi, Son frère</rs>, des
+    bons offices pour obtenir de lui cette marque de bienveillance pour des personnes qui ont servi
+    sa meilleure amie et alliée avec zèle et fidélité? Non, c'est procurer à V. A. R. une occasion
+    de faire usage de Sa bienfaisance naturelle et d’y ajouter une nouvelle preuve d’amitié à toutes
+    celles qu'Elle n'a cessées de me donner depuis plusieures années, et pour lesquelles ma
+    gratitude Lui est acquise pour jamais. Si ce n'est pas à <placeName ref="places.xml#tsa04">
+     Tsaritsina</placeName> que j’aurai le plaisir de voir cette année-ci V. A. R., je me flatte que
+    ce sera après pâques de l'année qui vient qu'Elle honorera <placeName ref="places.xml#tsa01">
+     Tsarskoe-Sélo</placeName>, <placeName ref="places.xml#pet02">Péterhof</placeName> et <placeName
+     ref="places.xml#ora01">Oranienbaum</placeName> de Sa présence. C'est là que viendront Lui faire
+    la cour les pavillons revenus de l'archipel et de la méditerranée, et nous boirons à la santé de
+    V. A. R. au bruit des mêmes canons qui ont servi à la journée de <placeName
+     ref="places.xml#che02"> Tchesmé</placeName> et de <placeName ref="places.xml#met03">
+     Métélin</placeName>.</p>
+   <closer><signed>C'est avec la plus haute considération .. .</signed></closer>
+  </body>
+ </text>
+</TEI>

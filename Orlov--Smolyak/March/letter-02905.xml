@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02905</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02905</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#legislation"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter demonstrated continuous correspondence about the preparation of the so-called
+     ‘Archipelago’ navy expedition (1769-1774) <rs>(#event-orlov01</rs>), which was part of the
+     First Russo-Turkish war <rs>(#event-turki01</rs>). Emma: kept orlov01</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-30">30/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:48:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02905">
+  <body>
+   <opener><salute>Нашему генералу графу <persName ref="people.xml#orl03">
+     Орлову</persName>.</salute></opener>
+   <p>Находившагося при вас, в <rs ref="events.xml#orlov01">архипелажской экспедиции</rs> у
+    письменных дел, майора <persName ref="people.xml#mil03"> Ивана Миловскаго</persName>, Мы
+    всемилостивейше увольняем, по прошению его, за старостию и болезнию от всех дел, повелевая за
+    его службу производить ему по смерть пенсии, из статс-конторских доходов, по пяти сот рублей на
+    год.</p>
+   <closer><signed><persName type="signature" ref="people.xml#cat01">Екатерина</persName>.</signed>
+    <dateline><placeName ref="places.xml#pet01">С.-Петербург. </placeName>
+     <date when-custom="1774-03-24">24 марта, 1774</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02907</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02907</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#navy"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-12">12-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:22:55Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02907">
+  <body>
+
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.
+   <salute>Нашему генералу графу <persName ref="people.xml#orl03"> Алексею
+     Орлову</persName>.</salute></opener>
+   <p>Во все течение настоящей <name ref="events.xml#turki01"> войны</name> Нашей с <placeName
+     ref="places.xml#ott01"> Турками</placeName> одержанныя Нами победы и выгоды над сим
+    неприятелем, сколь ни существенно долженствовали вселят в него искреннее желание к прекращению
+    войны, с таковыми великими для него потерями; но со всем тем посторонние ненавистники славы
+     <placeName ref="places.xml#rus01"> империи</placeName> Нашей, имея большую в нем инфлюенцию, по
+    его невеждеству, предуспевают и доныне удерживать <placeName ref="places.xml#ott01">
+     Порту</placeName> от соглашения на резонабельныя мирныя кондиции, обольщая ее мечтою, что или
+    таковое упорство ея в продолжении <name ref="events.xml#turki01"> войны</name>, и Нам тягостной,
+    приведет нас до препоручения интересов Наших их медиации, или же, что они разными своими
+    собственными вооружениями разстроят все Наши меры и Нас принудят повсеместно умалить Наши против
+    ея военные силы. Но как и при таковых сильных и безпрестанных внушениях от враждующих Нам
+    внутренно держав, неприятель Наш, при <persName ref="people.xml#abd01"> новом
+    султане</persName>, оказал ныне желание свое к возобновлению мирных договоров чрез начатую о том
+    переписку между <persName ref="people.xml#mus04"> верховным визирем</persName> и Нашим <persName
+     ref="people.xml#rum01"> генерал фельдмаршалом</persName>, то, по сему нежному и критическому
+    положению дел между войны и мира, политический резон требует, чтоб Нам ни малейше не показать
+    себя неприятелю в сокращенной пред прежним военной позитуре; из сего же выводится, что
+    оставление Нашего <orgName ref="orgs.xml#russ02"> флота</orgName> в <placeName
+     ref="places.xml#aeg01"> Архипелаге</placeName> на настоящее время есть дело необходимо нужное.
+    А как вы отправляетесь ныне возвратно к главной над тем <orgName ref="orgs.xml#russ02">
+     флотом</orgName> нашим команде, то и почитаем Мы за нужно предписать к руководству вашему
+    следующие пункты:</p>
+   <p>1. Главнейшее старание ваше долженствует простираться на пресечение торговли и мореплавания
+    собственных неприятельских подданных.</p>
+   <p>2. Недопущение <placeName ref="places.xml#aeg01"> архипелагских островов</placeName> до
+    сообщения с с <placeName ref="places.xml#ott01"> Турками</placeName> должно быть также предметом
+    вашего рачительнаго внимания; чего ради и надлежит вам воспрещать входу неприятельских кораблей
+    в <placeName ref="places.xml#aeg01"> Архипелаг</placeName> и стараться побивать из них тех, кои
+    бы показываться стали.</p>
+   <p>3. А как сим средством неприятелю пресечете вы способы к собиранию с <placeName
+     ref="places.xml#aeg01"> тех островов</placeName> обыкновенной подати, то и следует из сего
+    право Наше обращать те самыя подати в пользу <orgName ref="orgs.xml#russ02"> флота</orgName>
+    Нашего, что вы и имеете исполнять с добрым порядком, поколику вам возможно будет.</p>
+   <p>4. Хотя сии предписанные пункты суть те самые, кои, при настоящем дел положении, составляют то
+    единое и главное намерение, для коего там <orgName ref="orgs.xml#russ02"> флот</orgName> Наш
+    оставляется; но при всем том тем не меньше Мы возлагаем на вас твердую надежду, что вы, по
+    испытанной вашей ревности к службе Нашей и <placeName ref="places.xml#rus01">
+     отечества</placeName>, воспользуетесь всеми теми обстоятельствами, кои иногда, во время вашего
+    тамо пребывания, в каких либо особенно местах и случаях представляться вам могут, по мере ваших
+    сил, к нанесению неприятелю чувствительных ударов, чего, однакож, Мы и Сами теперь ни верно
+    ожидать, ниже предвидеть не можем.</p>
+   <p>5. В заключение Мы вам рекомендуем, неприметным образом как для публики, так и для неприятеля,
+    склонить все устройство и заготовление во вверенном вам <orgName ref="orgs.xml#russ02">
+     флоте</orgName> таким образом, дабы при наступлении зимы, уже без особливых и новых
+    приготовлений, возможно вам было начать ваше с ним возвращение к Нашим водам, если дел состояние
+    сие дозволять будет. Впрочем, пребываем Мы вам Императорскою Нашею милостию благосклонны. </p>
+   <closer><dateline rend="inline">Дан в <placeName ref="places.xml#tsa01">
+     Царском Селе</placeName>, <date when-custom="1774-05-06">мая 6 дня 1774 г.</date></dateline>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

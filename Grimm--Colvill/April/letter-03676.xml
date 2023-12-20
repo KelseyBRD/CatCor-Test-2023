@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03676</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03676</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-28">28-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:24:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03676">
+  <body>
+<div>
+   <opener><dateline> Ce <date when-custom="1792-04-04">4 d’avril, jour de Pâques 1792</date>.</dateline></opener>
+   <p>J’ai reçu par <persName ref="people.xml#bel05"> M. de Belsunce</persName> (que je n’ai pas vu,
+    parce qu’il est arrivé le soir du jeudi saint et que ce jeudi, vendredi et samedi, de même que
+    le dimanche de Pâques, sont des jours peu propres à faire de nouvelles connaissances, parce que
+    nous ne sortons ces quatre jours-là de l’église qu’excédée de fatigue) vos paquets depuis
+    septembre jusqu’au 4 (15) mars. Je suis enchantée que, malgré toutes les horreurs dont vous avez
+    été témoin, vous badiniez encore; pour moi, je crains de devenir hébétée à force de voir des
+    événements qui vous secouent les nerfs. Comme, par exemple, la mort inopinée de <rs
+     ref="people.xml#leo01"> l’empereur</rs>, l’<rs ref="events.xml#assas01"> assassinat</rs> du <rs
+     ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01"> Suède</placeName></rs>, les suites auxquelles journellement il
+    faut s’attendre en <placeName ref="places.xml#fra01"> France</placeName>; et n’y a-t-il pas jusqu’à cette pauvre <rs
+     ref="people.xml#mar09"> reine de <placeName ref="places.xml#por02"> Portugal</placeName></rs> qui s’avise de devenir folle? il
+    est vrai que c’est la petite-fille de <persName ref="people.xml#phi03"> Philippe V</persName> et
+    qu’à cela il paraît y avoir de l’hérédité dans la maison d’Anjou. Mais passe pour cela, ce n’est
+    pas leur faute; mais ce qu’il y a d’impardonnable, c’est que celle d’Orléans ce soit rangée dans
+    les classes des enragés et qu’en conséquence elle arrange et prenne part à toutes les horreurs
+    qui se commettent, et quelle nécessité avait ce vilain <persName ref="people.xml#orl08">
+     Philippe Capet</persName> d’envoyer <rs ref="people.xml#ade01"> sa fille</rs> en <placeName ref="places.xml#eng01">
+    Angleterre</placeName> pour lui faire apprendre le plus abject des métiers?</p></div><div>
+   <opener><dateline> Ce <date when-custom="1792-04-14">14 d’avril 1792</date>.</dateline></opener>
+   <p>Écoutez donc, les jacobins publient de tout côté qu’ils vont me tuer et et qu’à cet effet ils
+    ont dépêché trois ou quatre hommes, dont de tout côté on m’envoie le signalement. Je pense que
+    s’ils en avaient réellement le dessein, ils n’en feraient pas courir le bruit pour qu’il me
+    parvienne. A <placeName ref="places.xml#war01"> Varsovie</placeName> Mazzey a fait un pari qu’au 3 de mai je ne serais plus en
+    vie, et l’on dit que le <persName ref="people.xml#vil02"> maire Péthion</persName> a assuré
+    qu’au 1 juin je ne serais plus dans ce monde. Je me crois en conscience engagée à vous écrire à
+    ces dates, afin que vous sachiez que je suis en vie à ces époques. Dès que je pourrai, je ferai
+    donner des coups de bâton à ces coquins; afin de leur apprendre à parler. A la fin du 18-ème
+    siècle, c’est donc un mérite apparemment d’assassiner les gens, et puis on vient me dire que
+    c’est <persName ref="people.xml#vol01"> Voltaire</persName> qui prêchait cela; voilà comme on ose calomnier les gens; je crois
+    que <persName ref="people.xml#vol01"> Voltaire</persName> aimerait mieux de rester là où on l’avait enterré que de se trouver
+    en compagnie de <persName ref="people.xml#mir01"> Mirabeau</persName> à <rs ref="places.xml#pan01"> St Geneviève</rs>. Mais
+    quand est-ce donc qu’on mettra fin à toutes ces scélératesses! Il est singulier que dans cette
+    affaire toutes les cours suivent l’intention et la direction du <rs ref="people.xml#lou01">
+     R.</rs> et de la <rs ref="people.xml#mar14"> R. de Fr</rs>., qui dans toute leur conduite n’ont
+    montré qu’inconduite; je sais bien d’où cela vient, mais là la cause et le motif m’en déplaît.
+    Si le <persName ref="people.xml#nas01"> prince de Nassau</persName> a pris <persName
+     ref="people.xml#bue02"> M. du Bueil</persName> pour son adjudant, il n’a qu’à porter l’uniforme
+    russe.</p></div><div>
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date when-custom="1792-05-09">9 mai</date>, jour de St
+    Nicolas.</dateline></opener>
+   <p>Avec la meilleure envie du monde ce n’est qu’avant-hier que j’ai vu le chevalier de <persName
+     ref="people.xml#bel05"> Belsunce</persName>; je pense que s’il ne se fait pas tuer, il est de
+    ces gens-là qui feront leur chemin; il parle bien et pense de même: c’est un jeune homme tout à
+    fait intéressant.</p>
+   <p>J’ai reçu hier la nouvelle comme quoi au premier début à Mons le ramas français a été bien
+    reçu par les troupes autrichiennes. J’en suis enchantée; il n’y a que les coups qui puissent
+    guérir ces écervelés; tout c qu’ils pouvaient faire de mieux, était de chercher querelle à tout
+    le monde; ce sera plustôt fait. Je voudrais qu’ils eussent le dessein d’attaquer <placeName
+     ref="places.xml#ost01"> Ostende</placeName> et la <placeName ref="places.xml#hol02"> Hollande</placeName>; alors les Anglais
+    bien vite sortiraient de la neutralité. Ce qu’il y a de singulier, c’est qu’ils déclarent la
+    guerre à ceux qui les ménagent; le <persName ref="people.xml#vic03"> roi de
+    Sardaigne</persName>, à ce qu’il paraît, va tout de suite se trouver dans le même cas; Dieu
+    m’est témoin que ce n’est pas le mien; personne ne s’est expliqué plus librement sur leur
+    compte; si tout le monde eût pris avec eux la même méthode, ils auraient été moins impudents.
+    Ils prétendent faire peur à toute la terre, parce qu’ils meurent de peur eux-mêmes, de ce que
+    leur conscience leur dit qu’ils sont des scélérats couverts et noyés dans tous les crimes.</p></div>
+  </body>
+ </text>
+</TEI>

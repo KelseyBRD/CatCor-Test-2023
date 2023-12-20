@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00083</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00083</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-06">6 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2014-05-02">2 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Themes</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00083">
+                <body>
+                    
+                    <p>Apophtegme</p>
+                    <p>A son Ami intime il faut dire les choses comme elles sont. Le 18 Juin, au
+                        sortir de la table (N.B. c'était un Lundi) le <persName
+                            ref="people.xml#dmi01">Comte Mam[onov]</persName> est venu me dire que
+                        je ne le traitois plus aussi bien que ci-devant, que je ne répondois pas aux
+                        questions qu'il m'avoit faites à table; qu'il n'étoit pas content de ce que
+                        quantité de gens, qui remarquoient cela, se faisoient des mines, et qu'il
+                        étoit las du rôle qu'il jouoit. La réponse ne fut pas difficile à faire, je
+                        lui dis, que si ma conduite à son égard changeoit, la chose ne serait pas
+                        bien étonnante, vu tout ce qu'il avoit fait depuis le mois de Septembre pour
+                        la faire changer; qu'il m'avoit dit et répété qu'hormis de l'attachement il
+                        n'avoit pour moi aucun autre sentiment; qu'il avoit oppressé tous les miens
+                        et que si ils n'étoient plus les mêmes il pouvoit s'en prendre à lui même,
+                        les ayant étouffés pour ainsi dire des deux mains; que ses questions je ne
+                        les avois pas entendues et que des mines des autres, si elles n'étoient pas
+                        dans son imagination, je ne pouvois pas répondre. Sur cela il me dit: Vous
+                        avoues donc, que Vous n'aves plus pour moi les même sentiments; à cette
+                        question même réponse de ma part, sur quoi il me dit: Il faudra donc, que je
+                        m'arrange en conséquence. Réponse: Vous feres ce que Vous jugeres à propos.
+                        Sur quoi il me pria de lui donner conseil au sujet de ce qu'il avoit à
+                        faire; à quoi je répondis que j'y penserais et il s'en alla. Au bout d'un
+                        quart d'heure il m'écrivit pour me dire qu'il prévoyoit tous les désagrémens
+                        et les mortifications et mépris aux quels il alloit être exposé, et me
+                        renouvela la prière de le conseiller. Je lui répondis que n'ayant guère
+                        suivi mes conseils jusqu'ici, je ne risquerais pas aussi de lui en donner
+                        présentement; mais puisqu'il m'en prioit, je lui dirois qu'une manière
+                        brillante pouvoit s'offrir de sortir d'affaire, que le <persName
+                            ref="people.xml#bru02">C[om]te Bruce</persName> seroit de jour le
+                        Dimanche d'après, que je lui ordonnerois d'amener <rs ref="people.xml#bru03"
+                            >sa fille</rs>, qu'<persName ref="people.xml#nar01">Anna
+                            Niki[tichna]</persName> étoit ici, et que je me faisois fort de porter
+                        parole pour lui et d'obtenir la plus riche héritière de l'Empire, que le
+                        père, à ce que je croyois, y consentiroit volontiers; je croyois faire une
+                        chose agréable à tous les intéressés.</p>
+                    <p>A ce billet je reçus pour réponse un aveu par écrit de la part du <persName
+                            ref="people.xml#dmi01">C[om]te Mamo[nov</persName>] où il m'avoue que
+                        depuis un an il amoureux de la <persName ref="people.xml#shc01">Princ[esse]
+                                <seg xml:lang="ru">Щербатов</seg></persName>, me demandant
+                        la permission formelle de l'épouser. Je tombai presque de mon haut de
+                        surprise, et je n'en étois pas revenue encore qu'il entra dans ma chambre,
+                        tomba à mes genoux, m'avoua toute son intrigue, ses entrevues, sa
+                        correspondance et ses intelligences avec elle. Je lui dis, qu'il n'avoit
+                        qu'à faire ce qu'il vouloit, que je ne m'opposois à rien, que j'étois
+                        seulement fâchée de ce que depuis un an, au lieu de me duper, il ne m'avoit
+                        point déclaré la vérité, et que s'il l'avoit fait, il m'auroit épargné, et à
+                        lui aussi, bien du chagrin et des tracasseries. A ceci il n'avoit rien à
+                        répondre, mais désira qu'<persName ref="people.xml#nar01">Anna
+                            Niki[tichna]</persName> fût appelée. Elle vint et le gronda, comme de ma
+                        vie je n'ai vu gronder personne. Le lendemain il demandas que je fisse les
+                        promesses, ce que j'ai fait le Mercredi; puis il demanda la noce, qui va se
+                        faire Dimanche 1 juillet, le carême ne permettant pas de les marier plus
+                        tôt. Mais ce qu'il y a de singulier, c'est que promis et promise ne font que
+                        pleurer, et que ni l'un ni l'autre ne sortent point de leurs appartemens. Le
+                        lendemain de la noce les nouveau mariés s'en iront à <placeName
+                            ref="places.xml#mos01">Moscou</placeName>; ceci, c'est moi qui l'ai
+                        exigé, car j'ai vu le moment, où il alloit désirer de rester malgré son
+                        mariage, et si je dois dire la vérité, il y a des contradictions fort
+                        singulières, dont j'ai des indices presque certains dans son fait. Pour moi
+                        je cherche à me distraire; j'ai cru le ramener, mais j'ai toujours prévu,
+                        que cet expédient pourroit être dangereux.</p>
+                    <p>Le semaine qui vient, je Vous en dirai davantage sur le compte de <rs
+                            ref="people.xml#zub03">certain Noiraud</rs>, dont il ne tient peut-être
+                        qu'à moi de faire la connaissance, mais je ne la ferai qu'à toute
+                        extrémité.</p>
+                    <closer><signed rend="inline">Adieu, portes Vous bien.</signed></closer>
+                    <postscript>
+                        <p>J'ai fait venir ces jours-ci <persName ref="people.xml#rib02"
+                                >Ribaupierre</persName>, qui a été le confident pendant un an. Je
+                            l'ai trouvé muet et tremblant; je lui ai dit qu'ils avoient eu tort de
+                            me cacher et tromper depuis un an tout cela et, encore plus, de ne pas
+                            s'être ouverts à Vous. Après cela je me suis souvenue, mon Ami, de
+                            toutes Vos paroles: Vous m'en aves dites plusieurs, qui me sont restées
+                            dans la mémoire, comme par exemple: <seg xml:lang="ru">нет ли
+                                амуришки</seg>, et puis Vous m'aves demandé: <seg
+                                xml:lang="ru">не ревновали ли Вы к <persName ref="people.xml#shc01"
+                                    >княжне Щербатовы</persName></seg>? et cent fois Vous m'aves
+                            répété: <seg xml:lang="ru">ох, матушка, плюнь ты на нево</seg>;
+                            et jamais Vous ne m'aves donné la moindre espérance - quand je me
+                            plaignois. Mais, si Vous savies cet amour que ne me le disies Vous tout
+                            net? Cela m'auroit affligée alors mais guérie pour sûr, car je n'ai
+                            jamais été le tyran de personne. Il est vrai qu'alors il n'y avoit pas
+                            de <rs ref="people.xml#zub03">Noiraud</rs> en pérspective. Dites moi, si
+                            Vous savies ou ne savies pas l'intrigue? Si Vous la savies, je juge que
+                            Vous me l'avés caché par ménagement, mais Vous aves eu tort; il falloit
+                            me le dire.</p>
+                        <closer><signed rend="inline">Adieu, je Vous embrasse de tout mon
+                                coeur.</signed></closer>
+                    </postscript>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>Apothegm</p>
+                    <p>To one's intimate friend one must tell it like it is. On 18 June, after
+                        dinner (N.B. it was a Monday), Count Mamonov came to tell me that I was not
+                        treating him as well as before; that I had not answered the questions he had
+                        asked me at dinner; and that he was not pleased that a number of people, who
+                        had noticed it, were giving one another significant looks; and that he was
+                        tired of the role he was playing. It was not difficult to reply: I told him
+                        that it would not be very surprising if my conduct toward him changed, given
+                        all that he had done since September to make it change. He had told me
+                        repeatedly that he had no other feelings for me besides affection. He had
+                        suppressed all my feelings, and he could blame himself if they were no
+                        longer the same, since they had been stifled with both hands, so to speak. I
+                        had not heard his questions, and I was not responsible for other people's
+                        looks, or else he was imagining them. Thereupon he said to me: 'You admit,
+                        then, that you no longer have the same feelings for me.' This question
+                        received the same reply from me, whereupon he said to me: 'I will therefore
+                        have to make arrangements accordingly.' Reply: 'You will do as you see fit.'
+                        Whereupon he begged me to advise him as to what he should do. I replied that
+                        I would think about it, and he left. A quarter of an hour later he wrote to
+                        tell me that he saw all the tribulations and humiliations and scorn that he
+                        would face and reiterated his request for advice. I replied that since he
+                        had hardly followed my advice in the past, I would not venture to give him
+                        any at present. But, since he begged me for it, I would tell him that there
+                        might arise a magnificent means of sorting it out: Count Bruce would be on
+                        duty the coming Sunday, I would order him to bring his daughter, Anna
+                        Nikitchna was here, and I could guarantee that I would speak for him and
+                        obtain the richest heiress in the Empire. The father, as far as I knew,
+                        would gladly consent. I thought that this would be agreeable to all
+                        involved.</p>
+                    <p>In reply to this note I received a written confession from Count Mamonov, in
+                        which he admitted that he [had been] in love with Princess Shcherbatov for a
+                        year and in which he asked for my formal permission to marry her. I was so
+                        surprised I almost fell off my chair, and I had not yet recovered when he
+                        entered my chamber, fell at my knees, and confessed to me his entire
+                        intrigue, his meetings, his correspondence, and his connivances with her. I
+                        said to him that he could do just as he pleased, that I opposed nothing,
+                        that I was only distressed that a year ago, rather than deceive me, he had
+                        not revealed the truth to me. If he had done so, he would have spared me and
+                        himself a great deal of grief and many troubles. He had nothing to say to
+                        this, but desired that Anna Nikitichna be summoned. She came and scolded him
+                        as I have never seen anyone scolded in all my life. The next day he asked
+                        that I betroth them, which I did on Wednesday. Then he asked for the
+                        wedding, which will take place on Sunday, 1 July, as they cannot marry
+                        earlier because of Lent. Quite extraordinarily, though, both fiancé and
+                        financée do nothing but cry, and neither leaves his or her apartments. The
+                        day after the wedding the newlyweds will leave for Moscow. I am the one who
+                        demanded this, for I foresaw that he was going to hope to stay on despite
+                        his marriage. To tell the truth, there are some most extraordinary
+                        contradictions, of which I have almost certain indications in his case. As
+                        for myself, I have tried to take my mind off it. I thought I could get him
+                        back, but I have always anticipated that this could be a dangerous
+                        stratagem.</p>
+                    <p>Next week I will tell you more about a certain Brunet, with whom, perhaps, I
+                        need only get acquainted, but I will only do so if worst comes to worst. </p>
+                    <closer><signed>Farewell, be well.</signed></closer>
+                    <postscript>
+                        <p>In the past few days I summoned Ribaupierre, who was the confidant for a
+                            year. I found him mute and trembling. I told him that they were wrong to
+                            hide all that from me and to deceive me for a year, and, moreover, for
+                            not opening up to you. Afterward I remembered, my friend, all your
+                            words. You said several that have remained in my memory, such as, for
+                            example: 'are there no little love affairs?' And then you asked me:
+                            'have you never been jealous of Princess Shcherbatova?' And you repeated
+                            to me a hundred time: 'oh, little mother, just spit on him.' And you
+                            never gave me the least hope when I complained. But, if you knew about
+                            this love, why did you not tell me plainly? It would have grieved me but
+                            cured me for sure, for I have never been a tyrant to anyone. It is true
+                            that at that time there was no Brunet in sight. Tell me, did you or did
+                            you not know about the intrigue? If you knew about it, you hid it from
+                            me to spare me, I assume, but you were wrong. You should have told
+                            me.</p>
+                        <closer><signed rend="inline">Farewell, I kiss you with all my
+                                heart.</signed></closer>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

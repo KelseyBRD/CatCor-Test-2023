@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00023</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00023</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-06">6 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup and annotation.</p>
+            </change>
+            <change>
+                <date when="2015-05-08">8 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00023">
+                <body>
+                    <opener><salute rend="inline">Александр Ильич,</salute><note
+                            type="editorial">Although the source edition claims that this is a draft
+                            letter, it also indicates that Bibikov endorsed it ('Получено 25-го
+                            марта 1774 г.'/'Received on the 25th of March 1774') and that it was
+                            addressed on the reverse in Catherine's own hand, 'Александру Ильичу
+                            Бибикову' ('To Aleksandr Ilich Bibikov').</note></opener>
+                    <p> Письмы ваши от 2-го марта до рук моих дошли, на которыя ответствовать имею,
+                        что с сожалением вижу, что злодеи обширно распространились, и весьма
+                        опасаюсь, чтоб они не пробрались в <placeName ref="places.xml#sib01"
+                            >Сибирь</placeName>. Также и <rs ref="orgs.xml#secr03"
+                            >Екатериненбургскаго ведомства</rs> делá не суще меня веселят. Пожалуй,
+                        прикажите <orgName ref="orgs.xml#secr03">секретной комисии</orgName>
+                        осторожной быть в разборе и наказании людей. По моему разсуждению, солдаты
+                            <persName ref="people.xml#ait01">Айтуган</persName> и <persName
+                            ref="people.xml#san01">Сангулов</persName> невинно сечены; также при
+                        разспросах какая нужда сечь? Двенадцать лет <orgName ref="orgs.xml#secr04"
+                            >тайная экседиция</orgName> под моими глазами ни одного человека при
+                        допросах не секла ничем, а всякое дело начисто разобрано было, и всегда
+                        более выходило, нежели мы желали знать. Друга вашего <persName
+                            ref="people.xml#pot01">Потемкина</persName> весь город определяет быть
+                        подполковником в <orgName ref="orgs.xml#preo01">полку
+                            Преображенском</orgName>.<note type="editorial">On the very day this
+                            letter was written, Grigory Potemkin was made commander of the
+                            Preobrazhensky Guards Regiment.</note> Весь город часто лжет, но сей раз
+                        я весь город во лжи не оставлю, и вероятие есть, что тому быть так. Но
+                        спросишь, какая нужда мне сие к тебе писать, на что ответствую—-для забавы.
+                        Если бы здесь был, не сказала бы; но прежде нежели получите сие письмо, дело
+                        уже сделано будет. Так не замай же: я первая вам скажу; меня уверяют, что
+                        оно вам не противно, а кто уверяет, не скажу. Я б <persName
+                            ref="people.xml#gag01">Гагрина</persName> пожаловала бы ныне
+                        подполковником, но опасаюсь, что частым пожалованием не сделалось бы у вас
+                        тоже, что в армии <persName ref="people.xml#rum01">графа
+                            Румянцова</persName>.</p>
+                    <closer>
+                        <signed rend="inline">Впрочем остаюсь к вам доброжелательною и желаю скораго
+                            окончания порученнаго вам дела. <persName ref="people.xml#cat01" rend="below"
+                            >Екатерина.</persName></signed>
+                        <dateline><date when-custom="1774-03-15" rend="left">Марта 15-го числа 1774
+                                г.</date></dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Aleksandr Ilich,</salute></opener>
+                    <p>Your letters of the 2nd of March reached my hands. In reply, I must say that
+                        I am sorry to see that the villains have spread out broadly, and I very much
+                        apprehend that they should get into Siberia. Similarly the affairs of the
+                        Ekaterinburg office do not really cheer me. Please order the secret
+                        commission to be careful in investigating and punishing people. As I reason,
+                        the soldiers Aitugan and Sangulov were whipped without cause; also, what
+                        need is there to whip people during interrogations? In twelve years under my
+                        oversight the secret police have not whipped a single person with anything,
+                        yet every affair has been thoroughly investiged and more always came out
+                        than we wanted to know. The whole city has tapped your friend Potemkin to be
+                        lieutenant colonel of the Preobrazhensky Regiment. The whole city often
+                        lies, but this time I shall not belie the whole city, and there is a
+                        likelihood that it will be so. But if you ask what need there was for me to
+                        write this to you, I shall answer: for fun. If you were here, I would not
+                        have told you. But before you receive this letter, the deed will already
+                        have been done. So leave it be: I am the first to tell you. They assure me
+                        that you will not be averse to it, but I shall not tell you who assures me.
+                        I would promote Gagrin now to lieutenant colonel, but I fear that frequent
+                        promotions would not produce amongst you what happened in Count Rumyantsev's
+                        army.</p>
+                    <closer>
+                        <signed rend="inline">Meanwhile I remain well-wishing towards you and hope
+                            for the quick completion of the affair entrusted to you. <persName
+                            rend="below">Catherine.</persName></signed>
+                        <dateline><date when-custom="1774-03-15" rend="left">March 15,
+                            1774.</date></dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

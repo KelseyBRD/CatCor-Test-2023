@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03623</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03623</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-10">10/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:56:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03623">
+  <body>
+<div>
+   <opener><dateline> Ce <date when-custom="1785-04-27">27 d’avril</date>.</dateline></opener>
+   <p>Vous m’avez parlé de <persName ref="people.xml#aug01"> Zelmire</persName>, que vous m’avez recommandée
+    de la part de ses parents<note type="editorial"><persName ref="people.xml#kar03"/> and <persName
+      ref="people.xml#aug02"/></note>. Je dois d’abord vous dire qu’elle se conduit parfaitement
+    bien et qu’il n’y a aucune sorte de reproche à lui faire, mais <rs ref="people.xml#fri06"> son
+     belître de mari</rs> est un homme intraitable, qui a avec elle une conduite si brutale et si
+    inconsidérée qu’il fera mourir de chagrin cette pauvre petite femme et que même je ne sais pas
+    trop si sa vie et sa santé est en sûreté avec lui. Il a eu avec elle une scène scandaleuse la
+    semaine passée dont tout le monde est instruit: il l’a battue, l’a tirée par les cheveux, et
+    puis l’a enfermée sous clef dans sa maison; sa <rs ref="people.xml#car06"> propre soeur</rs>,
+     <rs ref="people.xml#geo03"> son beau-frère</rs> et tout le monde sont du côté de la femme. Dès
+    que je l’ai appris, sans compromettre la femme ni personne des complaignants, j’ai envoyé <rs
+     ref="people.xml#fri06"> le mari</rs> dans son gouvernement sous prétexte d’affaire pressante;
+    au départ ils ont fait une paix plâtrée qu’il est à prévoir qu’elle ne sera pas de durée; elle
+    viendra avec moi à la campagne où je vais après demain; monsieur <rs ref="people.xml#fri06"> son
+     mari</rs> lui dit à toute heure qu’il ne peut pas la souffrir, c’est le plus doux compliment
+    qu’elle en reçoit. Je crois qu’il serait utile pour la pauvre petite que ses parents sussent le
+    malheureux état dans lequel elle se trouve sans sa faute quelconque; mais il faudrait leur
+    recommander de ne pas la compromettre. Elle ignore totalement que j’écris ceci, et je l’écris
+    parce que je prévois qu’on sera obligé de les séparer tôt ou tard si on veut la conserver en
+    vie. Vous ferez de tout ceci l’emploi que vous jugerez convenable; si nous pourrons, nous
+    éviterons tout événement troublant la paix, ma la chose parait difficile avec un furieux comme
+    celui-là.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-04-28">28 d’avril</date>. </dateline></opener>
+   <p>Appendice d’après les ordres exprès du seigneur <rs ref="people.xml#bez01"> factotum</rs> et
+    motivé de sa main propre.</p>
+   <p>La lettre en réponse au <persName ref="people.xml#fri10"> prince de Hesse
+     Philipsdal</persName> est ci jointe.</p>
+   <p>J’ai fait dire au <persName ref="people.xml#raz01"> maréchal Razoumofski</persName> de payer
+    au <persName ref="people.xml#bir01"> maréchal Biron</persName> ce qui lui est dû, et monsieur
+     <rs ref="people.xml#bez01"> factotum</rs> est chargé de poursuivre cette affaire. La note
+    touchant la manière de placer etc. <title ref="works.xml#logera01"> les loges de Raphaël</title>
+    a été livrée à Mons. <persName ref="people.xml#qua01"> Quarenghi</persName>. Par rapport à
+    l’affaire des marchands de Lyon avec <persName ref="people.xml#sam02"> Samoïlof</persName>
+    de <placeName ref="places.xml#mos01"> Moscou</placeName> l’affaire sera jugée dans le courant de cette semaine.</p>
+   <p>Je souhaiterais d’avoir à mon service la demoiselle <persName ref="people.xml#col05">
+     Coltolini</persName>, peintatrice (sic) de miniature; chargez <persName ref="people.xml#rei03">
+     Reiffenstein</persName> d’arranger cette affaire.</p>
+   <p>Selon que les comptes de <persName ref="people.xml#san03"> Santini</persName> sont envoyés, le
+    paiement s’en fait; <rs ref="people.xml#bez01"> factotum</rs> vous dira le reste. Ce 21 d’avril
+    nous avons publié les privilèges de la noblesse et celui des villes; ce sont de bonnes
+    pièces.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1784-04-30">30 d’avril</date>. </dateline></opener>
+   <p>Vous m'avez dit dans une de vos lettres de l’été passé comme quoi M. de <persName
+     ref="people.xml#bre03"> Breteuil</persName> vendait sa collection de pierres gravées, sur quoi
+    je vous ai répondu que je n’en voulais point; <seg xml:lang="it"> ma</seg> présentement appétit
+    et tentation nous sont revenus, et pour cette raison je vous prie de me marquer le dernier prix,
+    afin que je voie si je m’en accommoderai. Le catalogue en est chez moi; ma petite collection de
+    pierres gravées est telle que hier quatre personnes avaient de la peine à porter deux corbeilles
+    remplies des tiroirs contenant à peu près la moitié de la collection; or, pour qu’il n’y ait
+    rien de douteux, vous saurez que ces corbeilles étaient celles avec lesquelles on porte chez
+    nous en hiver le bois dans les chambres et que les tiroirs débordaient de beaucoup les
+    corbeilles; par là vous pouvez juger de la gourmandise gloutonnière qui s’est emparée de nous
+    sur ce chapitre; tous les comptoirs anglais de cette ville et M. <persName
+     ref="people.xml#fos01"> Foscari</persName>, envoyé de <placeName ref="places.xml#ven01">
+     Venise</placeName>, sont occupés continuellement à nous en pourvoir, et nous en avons de la
+    grandeur de plus de deux verschoks (il y a seize verchoks à l’archine). Si M. de <persName
+     ref="people.xml#bre03"> Breteuil</persName> est fatigué des siens, il pourront trouver place
+    chez nous. NB. Je voudrais que mon courrier fût parti, pour que je ne vous demande plus rien. </p>
+ <closer><signed rend="inline">Adieu.</signed></closer></div>
+  </body>
+ </text>
+</TEI>

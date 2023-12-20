@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04788</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04788</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:08:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04788">
+  <body>
+  
+
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>. </salute></opener><p rend="inline">Dès
+     que j’aurai vu la <rs ref="works.xml#winter01"> statue de l’hiver</rs> dans son
+     quartier d’hiver, je vous en dirai mon sentiment mais je suis persuadée qu’en quelque place
+     qu’elle se trouve, elle sera toujours d’une grande beauté: telle elle était dans le jardin sur
+     son piédestal; vous trouverez singulier peut-être que je ne l'аі point été voir encore, je ne
+     disputerai point ce fait, mais pour s’occuper des beaux-arts il faut moins de charivari que je
+     n’en ai eu depuis six semaines. J’ai prévu la dissertation que vous me faites au sujet du
+     médaillon du C-te
+    <persName ref="people.xml#orl01"> Orloff</persName>. Vos observations sont exactement
+     vraies; faites comme vous l’entendez avec Mad. <persName ref="people.xml#col02">
+     Collot</persName>: vous ne sauriez que bien faire, et c’est suivre le bon sens à la lettre.
+     J’ai les deux livres que vous me proposez, mais si vous le pouvez, cédez-moi l’estampe de la
+     famille Royale d’<placeName ref="eng01">
+     Angleterre</placeName> qui est encore chez moi: elle me plaît beaucoup. </p>
+   <closer><signed rend="inline">Bonsoir, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

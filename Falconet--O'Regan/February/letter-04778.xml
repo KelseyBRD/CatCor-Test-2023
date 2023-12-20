@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04778</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04778</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-24">24/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:06:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04778">
+  <body>
+   
+   <p>Monsieur, n’allez pas conclure parceque je ne vous ai pas répondu depuis trois
+     jours, que je suis devenue fière ou paresseuse depuis la bataille de <rs ref="events.xml#kagul01">Kagoul</rs>. J'ai eu une vilaine migraine qui ne
+     me l'a pas permis. Je suis bien aise que M-rs <persName ref="people.xml#roe01">Roitiers</persName> soient contents; je le suis beaucoup d’une douzaine de pièces de vermeil que j’ai reçues depuis un
+     mois de <placeName ref="places.xml#par01"> Paris</placeName>. Il y a cependant deux chandeliers qui ne sont pas beaux de
+     dessin. Ces pièces m’ont confirmée dans
+     l’opinion que les figures humaines ne devraient jamais être employées pour du potage. N’ayez
+     pas peur que je donne dans l’absurdité des inscriptions qui ne finissent pas; je n’ai jamais pu
+     entendre jusqu’au bout celle dont tous faites
+     mention. Je m’en tiens à celle que vous savez
+     en quatre mots. Je suis charmée d’entendre que vous soyez content de <persName
+     ref="people.xml#los01"> Lossenkoff</persName>: dites-moi un mot un jour de son <rs
+     ref="works.xml#vladro01"> tableau</rs> de réception. Il y a une femme à genoux sur ce tableau, dont je me contenterais; il me
+     semble qu’elle tient de la manière de <persName ref="people.xml#rap01">
+     Raphael</persName>, autant que j’en peux juger sur les estampes. M-r
+    <persName ref="people.xml#vil01"> de Villiers</persName> restera avec ou sans contrat, comme
+     il lui plaira; je ne sais s'il est content, mais moi, beaucoup. Si vous trouvez que la pierre
+     gravée par M-r
+    <persName ref="people.xml#gua01"> Guay</persName> est payée avec 100 Louis, dites-le à
+     M-r
+    <persName ref="people.xml#bet01"> Betzki</persName>, afin qu’il ait soin de l’envoi de
+     l’argent. Je salue <persName ref="people.xml#pet01"> Pierre-le-Grand</persName> et
+     son
+    <rs ref="works.xml#pierre01"> statuaire</rs>. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

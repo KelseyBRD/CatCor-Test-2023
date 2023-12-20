@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03682</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03682</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-02">02-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:57:27Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03682">
+  <body>
+   <opener><dateline> Ce <date when-custom="1793-04-13">13 avril 1793</date>.</dateline></opener>
+   <p>Les événements dans ces derniers temps se précipitent les uns sur les autres avec une telle
+    rapidité qu’on n’a plus le temps pour rien: voilà la raison pourquoi vous allez recevoir ce
+    chiffon qui contiendra, je pense, moins de lignes que je ne vous écris quelquefois de pages ou
+    de feuilles. Je réponds aujourd’hui à vos numéros 49 et 50. Ecoutez, jusqu’ici on avait vu des
+    royaumes tomber en quenouille, mais jamais encore, que je sache, on n’en avait vu tomber en
+    scélératesse. Ce beau régal était réservé au XVIII-ème siècle, qui naguère se vantait d’être le
+    plus doux, le plus éclairé des siècles et qui a enfanté des âmes atroces au milieu de la ville
+    la plus réputée qu’on connût. Fi dés abominables! j’aime ce mot du prêtre irlandais qui dit à
+     <persName ref="people.xml#lou01"> Louis XVI</persName>, fils de St Louis: «Montez au ciel!»
+    Vous souvient-il du temps où vous me disiez que vous n’aviez qu’à vous louer des hommes, et moi
+    qui vous répondis: Dans quel cercle étroit êtes-vous donc allé vivre?</p>
+   <p>Savez-vous ce que c’est ce que vous voyez en <placeName ref="places.xml#fra01"
+     >France</placeName>? Ce sont les Gaulois qui ont essayé de chasser les Francs; mais vous verrez
+    revenir les Francs, et les bêtes féroces avides du sang humain seront ou exterminées ou obligées
+    de se cacher où elles pourront. Pour moi, j’ai fait prêter serment à tout ce qui n’a pas voulu
+    être chassé de la <placeName ref="places.xml#rus01">Russie</placeName>: imaginez, s’il vous
+    plaît, ce qui en est arrivé. Tous les assermentés sont devenus zélés royalistes; j’en prends à
+    témoin M. le <persName ref="people.xml#cha11"> comte d’Artois</persName>, qui est ici depuis
+    cinq semaines. Traité comme il convient à un fils de <placeName ref="places.xml#fra01"
+     >France</placeName>, il repart demain, assez content, à ce que j’espère, de son séjour chez
+    nous: du moins y a-t-il pu voir la meilleure volonté du monde d’adoucir son malheur sans aucun
+    mélange d’ingrédients de cette amertume à laquelle on a eu la cruelle manie de vouloir les
+    accoutumer. Enfin, j’espère qu’il dira que notre conduite a été vis-à-vis de lui franche et
+    loyale. J’ai trouvé ce prince tel que je le souhaitais, d’une compréhension facile, l’âme
+    élevée, le coeur bon et magnanime; comment les leurs faut-il donc? L’évêque d’Arras est un homme
+    d’esprit et avec lequel j’aimais à faire la belle conversation. Sur vos projets l’on peut dire
+    que les beaux esprits se rencontrent: quand il en sera temps, les émigrés avertis pourront se
+    joindre aux princes: c’est leur place. Nous venons d’apprendre la défection de <persName
+     ref="people.xml#dum05"> Dumouriez</persName>; que ne la faisait-il au moulin de Valmi? Le <rs
+     ref="people.xml#lou01"> roi</rs> serait en vie, et s’il l’a proposé et que ce maudit duc de Br.
+    n’en ait pas profité, il est en vérité bien coupable. J’ai remis la lettre que vous m’avez
+    adressée pour M. le comte <persName ref="people.xml#cha11"> d’Artois</persName>, à ce
+    prince.</p>
+   <p>Le baron de <persName ref="people.xml#rol01"> Roll</persName> emporte cette lettre-ci; il va à
+     <placeName ref="places.xml#ham02"> Hamm</placeName> pour annoncer le départ du comte <persName
+     ref="people.xml#cha11"> d’Artois</persName>. J’ai reçu la lettre du baron de <persName
+     ref="people.xml#thu01"> Thümmel</persName>, qui est fort bien écrite. Je m’en vais adresser
+    cette lettre à <placeName ref="places.xml#got01">Gotha</placeName>. </p>
+   <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>, je salue
+      <persName ref="people.xml#bue01"> mad. du Bueil</persName> et ses beaux
+    enfants.</signed></closer>
+  </body>
+ </text>
+</TEI>

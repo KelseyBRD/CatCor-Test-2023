@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01008</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01008</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:31:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01008">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1780-12-09">9 décembre 1780</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre que V. M. I. m’a fait l'honneur de m’écrire le 30 novembre m’a
+    apporté la triste confirmation de la profonde douleur dans laquelle Son âme est plongée.
+    Connaissant Sa sensibilité, j’ai prévu la peine extrême qu’Elle en ressentirait, tout comme Sa
+    confiance en mon amitié ne Lui a point laissé de douta sur la sincérité avec laquelle je partage
+    Son affliction. Faut-il des formes à l’amitié ? Et cette lettre même, par laquelle Elle a bien
+    voulu se souvenir de moi dans des moments aussi cruels, ne m’est-elle pas la plus précieuse
+    marque de la sienne? Que V. M. I. daigne être persuadée que les plus heureux moments de ma vie
+    seront ceux où je pourrai Lui prouver par des faits la vérité des sentiments avec lesquels je ne
+    cesserai d’être . . .</p>
+   <p><rs ref="people.xml#pau01 people.xml#mar02">Mes enfants</rs> Lui présentent leurs très-humbles
+    compliments de condoléance et de remercîment pour Son souvenir. </p>
+  </body>
+ </text>
+</TEI>

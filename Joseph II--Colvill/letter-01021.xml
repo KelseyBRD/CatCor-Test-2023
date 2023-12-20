@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01021</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01021</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:10:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01021">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01">
+     Czarskoeelo</placeName>, ce <date when-custom="1781-06-02">2 juin 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Sensible et reconnaissante de la confiance et de l’amitié avec laquelle il
+    a plu à V. M. I. de me faire part de Ses intentions d’unir <persName ref="people.xml#fra04"> S.
+     A. R. l'Archiduc François</persName> Son neveu avec la <persName ref="people.xml#eli06">
+     Princesse Elisabeth de Württemberg</persName>, et ne pouvant douter de la réussite d’un projet
+    aussi agréable pour moi, c’est avec le plus grand empressement que selon les désirs de V. M. I.
+    je me suis cependant appliquée à reconnaître les sentiments des <rs ref="people.xml#fri05 people.xml#fri04">
+    parents de la jeune princesse</rs> et les siens. Je les ai trouvés tels que je
+    les avais supposés, et conformes aux souhaits de V. M. I. et aux miens. Que V. M. I. me permette
+    de Lui témoigner la joie et le contentement avec lesquels je vois cheminer cette affaire vers la
+    réussite, et qu'il Lui plaise d’ajouter foi aux sentiments de la plus haute estime et
+    considération avec lesquels j’ai l’honneur d’être ....</p>
+  </body>
+ </text>
+</TEI>

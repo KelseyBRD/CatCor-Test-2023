@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04743</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04743</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:05:44Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-04-30">30/04/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Markup corrected, annotations added, and queries
+                    resolved.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04743">
+        <body>
+
+            <opener><dateline>
+                    <date when-custom="1768-07-01">1 Juillet 1768</date>.</dateline></opener>
+            <p>Le conseil de <rs ref="works.xml#amourm01">M. Guillaume</rs> est bon;<note
+                    type="editorial">In his letter of 28 June 1768, Falconet quotes <ref
+                        target="people.xml#mol01">Molière</ref>'s <ref target="works.xml#amourm01"
+                        >"L'Amour médecin"</ref> to suggest that Catherine send Voltaire a marble
+                    bust of herself made by Marie-Anne Collot: "Si Votre Majesté Impériale eût
+                    demandé à M. Guillaume ce qu'il fallait envoyer à M. de Voltaire, M. Guillaume
+                    eût répondu: 'une belle tenture de tapisserie de verdure ou à personnages pour
+                    lui réjouir l'esprit et la vue.' Mais l'esprit de M. de Voltaire n'étant pas
+                    fort triste, et sa vue n'étant pas fort bonne, les belles couleurs de la tenture
+                    manqueraient leur effet. Une tête en marbre de Votre Majesté faite par M-lle
+                    Collot (celle qui a le voile, par exemple) serait à coup sûr, un présent digne
+                    de l'Impératrice et du poète philosophe; reste à savoir, Madame, si vous le
+                    trouvez bon, et si vous approuvez la logique du bonhomme Guillaume."</note>
+                priez Mad. <persName ref="people.xml#col02"> Collot</persName> de prendre un bloc et
+                d’en faire <rs ref="works.xml#cather05">ma physionomie</rs>. L’exécution de ma
+                statue en bronze ne trouvera de difficulté que dans ma propre délicatesse, mais
+                celle-ci cédera peut-être à la beauté de votre esquisse qui me fera oublier mes
+                résolutions précédentes. La médaille ne sera frappée qu’après que vous le voudrez
+                bien et point du tout avant.</p>
+            <p><rs ref="works.xml#pierre01">Le serpent allégorique</rs> ne me déplaît ni ne me
+                déplairait, on me l’a proposé tout simplement comme une idée qui vous était venue,
+                mais comme souvent l’on met sur le compte d’autrui ce qui nous appartient, j’ai
+                différé d’acquiescer à ce sentiment jusqu’à ce que j’aie su votre pensée, et lorsque
+                vous m’avez dit ce qui en était, j’ai voulu relever toutes les objections qu’on
+                pouvait faire contre ce serpent mais je ne m’y oppose plus.</p>
+            <p>Au sujet du bonhomme <persName ref="people.xml#sim02"> Simon</persName>, j’ai fait
+                faire des informations et jusqu’ici il n’y a rien de consolant pour lui; on dit que
+                dans ce temps il y avait ici un sculpteur nommé <persName ref="people.xml#pin02">
+                    Penault</persName> — mais je n’ai encore trouvé aucune trace du nom de <persName
+                    ref="people.xml#sim02"> Simon</persName>, le <rs ref="people.xml#mun01"> Comte
+                    Munich</rs>, fils de <rs ref="people.xml#mun02">celui</rs> que <persName
+                    ref="people.xml#sim02"> Simon</persName> cite ne sait rien de cette histoire,
+                quoique son père fût grand conteur et que lui-même eût plus de trente ans alors;
+                outre cela personne jamais n’a entendu dire que l’<persName ref="people.xml#apr02">
+                    Amiral Apraxin</persName> ait eu des dettes: c’était un homme exorbitamment
+                riche, qui a laissé des sommes considérables et des biens immenses; ainsi on ne voit
+                point pourquoi l’<rs ref="people.xml#eli02"> Impératrice</rs> eût voulu payer ses
+                dettes; il légua sa plus belle maison par testament à la couronne ; elle fait partie
+                du <rs ref="places.xml#win01"> palais d’Hiver</rs> que j’occupe dans cette
+                saison.</p>
+            <p>Je trouve que la suite de <rs ref="works.xml#zapata01"> Zapata</rs> est plus
+                accablante que le livre même; on ne saurait rien répondre à votre logique. Vous
+                voudrez bien que je vous remercie du beau compliment que vous articulez à la fin de
+                votre lettre au sujet de la fête.<note type="editorial">The anniversary of <ref
+                        target="events.xml#ascen02">Catherine's accession to the
+                    throne</ref>.</note> Quand il vous plaira, monsieur, que je voie <rs
+                    ref="works.xml#pierre01">l’homme et le cheval</rs>, vous me l’enverrez dire.
+            </p>
+        </body>
+    </text>
+</TEI>

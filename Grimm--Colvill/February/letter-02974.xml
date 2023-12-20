@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02974</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02974</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+   
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:04:24Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02974">
+  <body>
+  
+   <opener><dateline>A <placeName ref="places.xml#tsa01">
+     Tsaritsino-Sélo</placeName>, ce <date  when-custom="1775-08-16">16 d’août 1775</date>.</dateline></opener>
+   <p>Votre No 21, monsieur, m’a été remis hier, lorsque je sortais de la cathédrale, dont c’était
+    la fête. Je J’ai trouvé écrit le jour du <rs ref="events.xml#coron02">sacre du
+     roi</rs>; cette lettre était destinée à assister aux fêtes. Voyez un peu ce que c’est que cette
+    destinée de trois feuilles de papier fin, remplies d’encre et de beaucoup d’esprit, de gaieté et
+    d’agréments sur douze pages, sans qu’il у ait le moindre espace vide. Morgué, l’on ne s’attend
+    pas aux fortunes que font quelquefois les lettres qu’on écrit: la mienne, par exemple, du 29
+    avril, qui se serait attendu qu’elle serait qualifiée de délicieuse, de digne d’être imprimée,
+    d’inspirée, de conforme à votre façon de penser, de lettre qui occasionne des promenades, qui
+    renverse tout dans un taudis, et qui contient des tableaux de paysages, comme il n’y en a dans
+    aucune galerie. C’est une belle chose que d’avoir à faire aux savants ou de tomber sous la patte
+    d’un philosophe: ces gens-là vous classifient jusqu’à l’herbette et les fétus qu’ils foulent au
+    pied. Sans doute que vous m’entendez mieux que mille autres et que très souvent la même
+    réflexion vous vient à <placeName ref="places.xml#par01">Paris</placeName> que j’ai conçue à <placeName ref="places.xml#mos01">Moscou</placeName>; mais balte
+    là! ne nous en enorgueillissons point. Souvenez-vous que <persName ref="people.xml#pet01">
+     Pierre-le-Grand</persName> envoyait au marché pour savoir si on y devinait sa pensée et
+    qu’ordinairement on la lui rapportait de là, parce que la marche du jugement des hommes en
+    général est assez uniforme, sauf les gaucheries qui s’en mêlent et qui viennent du dehors et non
+    de l’intérieur des têtes. Ma comme vous, vous possédez singulièrement le talent du
+    développement, ainsi vous devinez et vous prévenez la pensée de votre prochain plus aisément
+    qu’un autre. Quel galimatias! Mais avec <persName ref="people.xml#sha04"> Chabaham</persName> je
+    me récrierai: tant pis pour les employés de la poste qui ne me comprendront point en ouvrant ma
+    lettre; moi je me comprends.</p>
+   <p>Votre <persName ref="people.xml#lec01"> M. de Juigné</persName> est arrivé. Je l’ai vu hier:
+    sti là n’a pas l’air d’un étourdi; je prie Dieu qu’il lui élève l’esprit au-dessus des rêves
+    creux, des fièvres chaudes, des grosses et lourdes calomnies, des bêtises et des transports au
+    cerveau politique de ses prédécesseurs, et surtout qu’il le préserve du radotage sur toutes les
+    matières du <rs ref="people.xml#dur01"> dernier</rs>, et du fiel, bile, hypochondrie noire et
+    atrabilaire de la petite canaille ministérielle qui les ont devancés tous les deux. Amen, mais
+    je crois qu’il a mangé en chemin tous vos présente, car je n’en entends pas parler. Je vous
+    defends de tant vous tourmenter pour cette fameuse écritoire et l’argent qui y est destiné; vous
+    savez que pour que les choses aillent bien, quelquefois il faut les laisser aller sans trop s’en
+    mêler. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien; ci-joint un postscript qui devait accompagner
+    ma dernière lettre.</signed></closer>
+   <postscript><p>Apostille à la réponse au No 20.</p>
+   <p>Monsieur <persName ref="people.xml#tho01"> Tom</persName> et mademoiselle
+    Mimi par leur gaillardise m’ont empêchée tantôt de vous gronder à mon tour des airs que vous
+    vous donnez de parler de votre confesseur. C’est un être idéal qu'un confesseur d'un enfant de
+     <persName ref="people.xml#lut01"> Luther</persName>, et je veux parier que vous ignorez le nom
+    du vôtre. Savez-vous bien que je vous aurai- laissé passer cette équipée, si vous ne vous étiez
+    avisé à la fin de votre lettre de prophétiser contre <orgName ref="orgs.xml#jesu01"> mes chers
+     coquins de la <placeName ref="places.xml#whi01">Russie Blanche</placeName></orgName> mais vous avez beau dire, vous ne les
+    distrairez pas de la bâtisse de leur beau et grand noviciat, qui va grand train en dépit de vous
+    et de tous ceux qui leur veulent du mal: or, comment voulez-vous qu'ils mettent un rabat
+    lorsqu'ils ignorent qu’il le faut arborer?</p></postscript>
+  </body>
+ </text>
+</TEI>

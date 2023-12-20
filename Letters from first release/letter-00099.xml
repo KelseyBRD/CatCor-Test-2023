@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00099</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00099</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#greece"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-05-28">30 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, metadata, tagging, translation.</p>
+            </change>
+            <change>
+                <date when="2014-07-14">14 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Text checked against manuscript.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00099">
+                <body>
+                    <div>
+                        <opener>
+                            <dateline>
+                                <placeName ref="places.xml#tsa01">à Czarskoçelo</placeName>
+                                <date when-custom="1789-05-23">ce 23. de May 1789.</date>
+                            </dateline>
+                        </opener>
+                        <p>J’ai reçue, Monsieur, depuis trois jours votre lettre du 18. Avril. Je
+                            vois avec plaisir que vous êtes content de ma <ref
+                                target="letter-00098.xml">réponse</ref> à votre discours qui me
+                            supposoit dans les <placeName ref="places.xml#ely01">champs
+                                Elisées</placeName>, en attendant que j'y descende je me promène
+                            beaucoup ici, où je ne fais que batir et planter depuis 22 ans et je
+                            laisse faire au Marchis <persName ref="people.xml#luc01"
+                                >Luchesini</persName> et compagnons tout le mal qu'ils peuvent faire
+                            et qu'ils font. Je suis très fort de l'avis de ceux ou de celui qui est
+                            persuadé, que jamais <persName ref="people.xml#fre01">Friderik
+                                II.</persName> n'auroit approuvé une conduite aussi contraire à
+                            celle qu'il a tenu constamment depuis l'année 1762. Présentement la <rs
+                                ref="places.xml#pru01">cour de Berlin</rs> a adopté en politique les
+                            principes de Mr. de <persName ref="people.xml#cho03"
+                            >Choiseul</persName>, dont <persName ref="people.xml#fre01">Frederik
+                                II.</persName> s'est tant mocqué. Tout le monde sait ce que la
+                            politique du Duc de <persName ref="people.xml#cho03">Choiseul</persName>
+                            nous a valu, sa crainte chimérique de la grandeur de la <placeName
+                                ref="places.xml#rus01">Russie</placeName> couvroit sa passion, sa
+                            haine, son envie et sa duplicité. Il voulut me nuire et il ne fit que
+                            dévoiler sa propre foiblesse et celle des <rs ref="places.xml#ott01"
+                                >Turks</rs> qu'il mit en jeux. Il avoit toujours à la bouche la
+                            balance de l'<placeName ref="places.xml#eur01">Europe</placeName>, cette
+                            balance métaphysique de l'<placeName ref="places.xml#eur01"
+                                >Europe</placeName>, qui a mise hors de l'équilibre toutes les
+                            puissances qui se sont appuyés sur cette phrase, laquelle sert à jetter
+                            de la poudre aux yeux de la multitude et à masquer les vues et les
+                            intentions vicieuses et inconséquentes, quand celles ci ont pris la
+                            place de la justice, qui est la base de tous les états et le lien de la
+                            société humaine. Je crois et suis persuadé, que la réputation des
+                            cabinets est de même que celle des particuliers, que celui qui souffle
+                                là<note type="editorial">Error in source edition.</note> discorde à
+                            droite et à gauche dans les maisons voisines ne sauroit inspirer aucune
+                            confiance ni mériter d'autre réputation que celle des boutefeux. La
+                            duplicité est un mauvais chemin pour marcher à la gloire et ceux qui
+                            l'employent ne peuvent qu'être la dupe de leur propre ouvrage, mais
+                            beaucoup de personnes ne connoissent que deux choses dans<note
+                                type="editorial">Error in source edition: manuscript reads
+                                "en".</note> politique: jetter de l'huile sur le feu et pécher dans
+                            l'eau trouble et c'est ce qui embrouilla dans tous les siècles ces
+                            pièces sanglantes appellées guerres, dont les Princes d'un esprit
+                            fougueux ou menés par des ministres de ce caractère ne sentent le
+                            repentir que lorsque leurs sujets en sont les victimes. J'espère que
+                            dans peu vos voeux seront accomplis, que les <rs ref="places.xml#ott01"
+                                >Turks</rs> et <rs ref="people.xml#gus01">S. M. Suédoise</rs> seront
+                            battus par mer et par terre, de quoi ceux<note type="editorial"><ref
+                                    target="places.xml#pru01">Prussia</ref> and <ref
+                                    target="places.xml#gre01">Great Britain</ref>.</note> qui les
+                            ont fomentés, qui les appuyent et les soutiennent, ne manqueront pas,
+                            j'espère de me féliciter pour soutenir leurs rôle. Je viens d'apprendre
+                            que le voyage du <rs ref="people.xml#geo02">Roy d'Angleterre</rs> est
+                            remis jusqu'à un autre tems.<note type="editorial">In his letter of 18
+                                April, Zimmermann reported <ref target="people.xml#geo02">George
+                                    III</ref>'s complete recovery from his madness and his apparent
+                                intention to spend the summer in <ref target="places.xml#han01"
+                                    >Hanover</ref> with the <ref target="people.xml#cha02"
+                                    >queen</ref>. (<bibl><title ref="works.xml#briefw02">Der
+                                        Briefwechsel zwischen der Kaiserin Katharina II. von
+                                        Russland und Joh. Georg Zimmermann</title>, <biblScope unit="pp">p. 98</biblScope>.</bibl>)</note></p>
+                        <p>Les chirurgiens que vous avés engagés seront payés, n'en doutés point; je
+                            ne sais pourquoi ils ne s'adressent pas à moi plutot qu'à vous pour
+                            l'être, en mettant sur l'adresse "en main propre" chaque bureau de poste
+                            est obligé de me faire tenir le paquet "en main propre". J'approuve
+                            beaucoup le présent que vous avés proposé à Mr. de <persName
+                                ref="people.xml#gro02">Gross2</persName> pour le chirurgien major
+                            qui vous a aidé à choisir les gens que vous nous avés envoyés.</p>
+                    </div>
+                    <div>
+                        <opener>
+                            <dateline>
+                                <date when-custom="1789-07-20">Ce 20. Juillet.</date>
+                            </dateline>
+                        </opener>
+                        <p>Cette lettre restée sur ma table depuis deux mois par différentes raisons
+                            a vue arriver la votre du 12. Juin apportée par courier. Il paroit selon
+                            nos notions, que <persName ref="people.xml#sel01">Selim III.</persName>,
+                            penche à la cruauté, à l'inhumanité, par conséquent il est difficile
+                            qu'il devienne votre héros et le mien, s'il est écervelé ses liaisons
+                            avec <persName ref="people.xml#gus01">Gustave III.</persName> n'en
+                            deviendront que plus naturelles. L'un étranglera ses pachas et l'autre
+                            la liberté et la verité dans ses discours et écrits, et chaqu'un d'eux
+                            trouvera ses aprobateurs et ses admirateurs accompagnés de secours et
+                            d'apologistes dans la politique tortueuses qui s'est emparée des
+                            cabinets de plusieurs cours de l'<placeName ref="places.xml#eur01"
+                                >Europe</placeName>, qui croyent par là s'engager dans une route
+                            brillante, tandis qu'au fond elles se préparent un champ vaste qui les
+                            menera tot ou tard tout droit à leur ruine. Mais mes envieux ne
+                            connoissent aucune borne à leurs malveillance et il faudra bien voir qui
+                            de nous rira le dernier. Le Prince <persName ref="people.xml#pot01"
+                                >Potemkin</persName> et son armée ayant parfaitement bien servi il
+                            étoit juste, qu'ils fussent recompensés.<note type="editorial">In his
+                                letter of 12 June, Zimmermann praised highly Catherine's rewards for
+                                all who participated in the <ref target="events.xml#och01">taking of
+                                    Ochakov</ref>, from Potemkin to the soldiers. He called her
+                                'unique in this kind of glory' and asserted that no other state in
+                                Europe gave such magnificent rewards in wartime (<bibl><title
+                                        ref="works.xml#briefw02">Der Briefwechsel zwischen der
+                                        Kaiserin Katharina II. von Russland und Joh. Georg
+                                        Zimmermann</title>, <biblScope unit="pp">p. 103
+                                    </biblScope></bibl>).</note> Le Gén.-L. <persName
+                                ref="people.xml#kam01">Kamensky</persName> est rempli de feu et de
+                                zèle.<note type="editorial">In a postscript added to his letter of 3
+                                February 1789, Zimmermann mentioned two newspaper reports that <ref
+                                    target="people.xml#kam01">Kamensky</ref> had defeated a large
+                                group of Turks near Bender (this was his <ref
+                                    target="events.xml#gan01">victory at Gangura</ref>). Zimmermann
+                                claimed to be especially pleased, as he had spent a few days in
+                                Kamensky's company in Embs in 1780, along with <ref
+                                    target="people.xml#orl01">Grigory Orlov</ref>, who, according to
+                                Zimmermann, had much respected Kamensky. (<bibl><title
+                                        ref="works.xml#briefw02">Der Briefwechsel zwischen der
+                                        Kaiserin Katharina II. von Russland und Joh. Georg
+                                        Zimmermann</title>, <biblScope unit="pp">p.
+                                    94</biblScope>.</bibl>)</note> Si <rs ref="people.xml#uni01"
+                                >votre gentilhomme</rs> empèche la <rs ref="places.xml#pru01">cour
+                                de Berlin</rs> de déraisonner, il rendra un très bon service à
+                            l'humanité; il faudroit qu'il tacha de la rendre moins injuste, moins
+                            entiché à soutenir, à aprouver, à fomenter les injustices de <persName
+                                ref="people.xml#gus01">Gustave III.</persName> et les folies
+                                Polonoises.<note type="editorial">Zimmermann communicated via this
+                                anonymous 'gentilhomme' the passage of Catherine's <ref
+                                    target="letter-00098.xml">letter of 29 January</ref> concerning
+                                Lucchesini and Prussian policy to the cabinet at Berlin
+                                        (<bibl><title ref="works.xml#briefw02">Der Briefwechsel
+                                        zwischen der Kaiserin Katharina II. von Russland und Joh.
+                                        Georg Zimmermann</title>, <biblScope unit="pp">p.
+                                        95</biblScope></bibl>).</note> Bien loin de consumer la
+                            récolte prochaine des Polonois nous retirons touS nos magasins de la
+                                <placeName ref="places.xml#pol01">Pologne</placeName> et ceci fait,
+                            je vous promet, que la <placeName ref="places.xml#pol01"
+                                >Pologne</placeName> ne verra pas un boisseaux de son blé consumé
+                            par mon armée, à quoi la <placeName ref="places.xml#pol01"
+                                >Pologne</placeName> perdra des millions, qu'elle regrettera et ne
+                            retrouvera nulle part, personne ne pouvant en consumer au delà de son
+                            nécessaire ni compenser à la <placeName ref="places.xml#pol01"
+                                >Pologne</placeName> cette perte.<note type="editorial">From this
+                                sentence onward, Catherine is replying to Zimmermann's letter of 12
+                                June 1789. In it, Zimmermann relayed his anonymous Prussian
+                                gentleman's account of the debates at the court of Berlin: while the
+                                gentleman succeeded in eliciting Prussian moderation vis-à-vis
+                                Poland, the Poles apparently believe that this dilatory policy would
+                                simply allow the Russians to feed off Poland for another season
+                                        (<bibl><title ref="works.xml#briefw02">Der Briefwechsel
+                                        zwischen der Kaiserin Katharina II. von Russland und Joh.
+                                        Georg Zimmermann</title>, <biblScope unit="pp">pp.
+                                        103-104</biblScope></bibl>.</note> Jusqu'ici en <placeName
+                                ref="places.xml#fin01">Finlande</placeName> il n'y a eue que des
+                            affaires de poste qui se renouvelent journellement; à la fin de la
+                            campagne nous en dirons le résultat. L'Amiral <persName
+                                ref="people.xml#chi01">Czizagof</persName> est allé chercher la
+                                <orgName ref="orgs.xml#swed01">flotte Suédoise</orgName>, mais si
+                            elle est allé cacher son délabrement dans <placeName
+                                ref="places.xml#kar02">Carlskrone</placeName>, il ne la trouvera pas
+                            en mer et sera bien obligé de revenir sans l'avoir trouvé. Les nouvelles
+                            qui me viendront du midi et du nord je vous le manderai quand il en
+                            vaudra la peine. Je n'ai jamais eue l'idée de devenir Impératrice des
+                            Grecs ou de la <placeName ref="places.xml#gre02">Grèce</placeName>, je
+                            sais me borner, mais je souhaite que les Grecs deviennent libres et
+                            heureux sous un Prince chrétien de leur religion et qu'ils cessent de
+                            souffrir sous un joug affreux et inhumain. Cette lettre partira par
+                            courrier.</p>
+                        <closer>
+                            <signed rend="inline">Je vous remercie des souhaits que vous faites en
+                                ma faveur, et soyés assuré de mon estime. Adieu.</signed>
+                        </closer>
+                    </div>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <div>
+                        <opener>
+                            <dateline>
+                                <placeName ref="places.xml#tsa01">in Tsarskoe Selo</placeName>
+                                <date when-custom="1789-05-23">this 23 May 1789.</date>
+                            </dateline>
+                        </opener>
+                        <p>I received, sir, your letter of 18 April three days ago. I see with
+                            pleasure that you are happy with my response to your discourse, which
+                            supposed me to be in the Elysian Fields. While I wait to descend
+                            thither, I am walking about a great deal here, where I have done nothing
+                            but build and plant for the past 22 years, and I allow the Marchis
+                            Lucchesini and his companions to do all the ill they can do and do
+                            indeed. I am very much in agreement with those or with him who is
+                            convinced that Frederick II would never have approved of conduct so
+                            contrary to that which he maintained constantly from the year 1762.
+                            Presently the court at Berlin has adopted the political principles of
+                            Mr. de Choiseul, whom Frederick II mocked so much. Everyone knows what
+                            we got from the duc de Choiseul's politics: his chimerical fear of the
+                            grandeur of Russia hid his passion, his hatred, his envy, and his
+                            duplicity. He wanted to harm me, and he did nothing but reveal his own
+                            weakness and that of the Turks whom he brought into play. He was always
+                            rambling on about the balance of Europe, that metaphysical balance of
+                            Europe, which has so unbalanced all powers that have relied on that
+                            phrase. It serves to throw dust in the eyes of the multitude and to mask
+                            vicious and thoughtless aims and intentions, when these have taken the
+                            place of justice, which is the basis of all states and the bond of human
+                            society. I believe and am convinced that the reputation of cabinets is
+                            the same as that of individuals, that he who sows discord left and right
+                            in his neighbours' houses cannot inspire confidence nor merit any other
+                            reputation than that of an incendiary. Duplicity is a poor road by which
+                            to march toward glory, and those who employ it cannot help but be duped
+                            by their own handiwork. But many people know only two things in
+                            politics: pouring oil on the fire and fishing in troubled waters. And
+                            that is what has stirred up in all ages those bloody spectacles called
+                            wars, of which hot-headed princes, or princes led by ministers of that
+                            character, repent only once their subjects have fallen victim to them. I
+                            hope that soon your wishes will be fulfilled, that the Turks and H.M. of
+                            Sweden will be beaten on sea and on land, on which those who have
+                            fomented them, and who second and support them, will then congratulate
+                            me, in order to stay true to their roles. I have just learned that the
+                            King of England's journey has been postponed until another time.</p>
+                        <p>The surgeons that you have hired will be paid, have no doubt. I do not
+                            know why they do not address themselves to me rather than to you for it,
+                            by putting in the address 'in her own hands': every post office is
+                            required to deliver the packet to me 'in my own hands'. I approve very
+                            much of the present that you have suggested to Mr. de Gross for the
+                            surgeon-major who helped you to chose the people whom you have sent to
+                            us.</p>
+                        <closer>
+                            <dateline>
+                                <date when-custom="1789-07-20">This 20 July.</date>
+                            </dateline>
+                        </closer>
+                    </div>
+                    <div>
+                        <p>This letter, which had remained on my table for two months for various
+                            reasons, has seen the arrival of yours of 12 June, brought by courier.
+                            We have the feeling that Selim III has a penchant for cruelty and
+                            inhumanity, and therefore it would be difficult for him to become your
+                            hero or mine. If he is featherbrained, his ties with Gustav III will be
+                            all the more natural. One will strangle his pashas and the other liberty
+                            and truth in his speeches and writings, and each of them will find
+                            approval and admirers, with help and apologists in the tortuous politics
+                            that have seized the cabinets of several courts of Europe. They believe
+                            that they will thus set out on a brilliant road, whereas in essence they
+                            are preparing for themselves a vast field that will bring them sooner or
+                            later to their ruin. But those who envy me know no limits to their
+                            malevolence, and we will very much have to see who of us laughs last.
+                            Prince Potemkin and his army served perfectly: it was quite just that
+                            they should be rewarded. Lieut. Gen. Kamensky is full of fire and zeal.
+                            If your gentleman prevents the court at Berlin from being unreasonable,
+                            he will render a very good service to humanity. He would have to try to
+                            render it less unjust, less besotted with supporting, approving, and
+                            fomenting Gustave III's injustices and Polish follies. Far from
+                            consuming the Poles' next harvest, we are withdrawing all our magazines
+                            from Poland. And once this is done, I promise you that Poland will not
+                            see a bushel of its wheat consumed by my army, whereby Poland will lose
+                            millions, which they will miss and will not recover anywhere, as no one
+                            can consume more than they need or compensate Poland for this loss. Up
+                            to now in Finland there has been nothing but skirmishes over small
+                            outposts that recur every day: at the end of the campaign we will see
+                            the result. Admiral Chichagov has gone in search of the Swedish navy,
+                            but if it has gone to hide its disrepair at Karlskrona, he will not find
+                            it at sea and will be quite obliged to return without having found it. I
+                            will send you the news that reaches me from south and north when it is
+                            worth it. I have never had the idea of becoming empress of the Greeks or
+                            of Greece. I know how to limit myself. But I hope that the Greeks will
+                            become free and happy under a Christian prince of their confession and
+                            that they will cease to suffer under a terrible and inhuman yoke. This
+                            letter will go by courier.</p>
+                        <closer>
+                            <signed rend="inline">I thank you for your wishes in my favour, and be
+                                assured of my esteem. Farewell.</signed>
+                            
+                        </closer>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

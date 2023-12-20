@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00100</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00100</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-16">16 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-05-31">Kelsey Rubin-Detlev</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, metadata, tagging, translation, annotation.</p>
+            </change>
+            <change>
+                <date when="2014-07-17">17 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Text checked against manuscript.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00100">
+                <body>
+                    <opener>
+                        <dateline>Ce <date when-custom="1789-11-16">16. Nov. 1789</date>.</dateline>
+                    </opener>
+                    
+                    <p>J’espère, Monsieur, que la <rs ref="events.xml#bende01">prise</rs> de
+                            <placeName ref="places.xml#ben01">Bender</placeName>, qui s'est rendu à
+                        discrétion le 4. Nov. v. st. au Maréchal Prince <persName
+                            ref="people.xml#pot01">Potemkin Tauritcheskoy</persName>, contribuera
+                        selon vos souhaits au prompt rétablissement de la paix, que je n'ai jamais
+                        enfreinte, mais que les intrigues de mes envieux ont réussi de détruire. Je
+                        suis fachée de savoir que les nouvelles que je vous donne vous arrivent si
+                            tard.<note type="editorial">In his letter of 27 October 1789, Zimmermann
+                            informed Catherine that he could read the first news of her armies'
+                            victories in the Hamburg newspapers at least eight days before
+                            Catherine's personal announcements reached him. (<bibl><title
+                                    ref="works.xml#briefw02">Der Briefwechsel zwischen der Kaiserin
+                                    Katharina II. von Russland und Joh. Georg Zimmermann</title>,
+                                    <biblScope unit="pp">p. 112</biblScope>.</bibl>)</note> La
+                        raison en est, je crois, que les nouvelles de mon armée en <placeName
+                            ref="places.xml#mol01">Moldavie</placeName> vont plus vites par
+                            <placeName ref="places.xml#war01">Varsovie</placeName> à <placeName
+                            ref="places.xml#ham01">Hambourg</placeName> qu'elles ne sauroient aller
+                        de l'armée à <placeName ref="places.xml#pet01">Petersbourg</placeName> et de
+                        là à <placeName ref="places.xml#han01">Hannover</placeName>. S'il faut
+                        parvenir à la liberté en passant par les <rs ref="events.xml#frenc01"
+                            >calamités</rs> qui agitent la <placeName ref="places.xml#fra01"
+                            >France</placeName>, je pense que peu de pays seront tentés de cet
+                        exemple, parcequ'il est douteux encore, si le jeu vaudra les chandelles. Ne
+                        vous scandalisés point de ce que je dis; je sçais que vous êtes né en
+                            <placeName ref="places.xml#swi01">Suisse</placeName> et attaché au
+                        service d'un <rs ref="people.xml#geo02">Roy d'Angleterre</rs>, mais souvenés
+                        vous, s'il vous plait, que par métier je suis royaliste, mais royaliste de
+                        ceux là qui souhaitent, que sureté et proprieté soyent en pleine sécurité,
+                        et qui soutiennent que la liberté est incompatible avec l'anarchie et la
+                        licence effrénée.<note type="editorial">In his letter of 27 October 1789,
+                            Zimmermann wrote: 'Les amis de la liberté ne peuvent plus se réjouir de
+                            ce qui se fait en France depuis toutes les horreurs qu'on y commet et
+                            depuis que la populace effrenée de Paris donne la seule loi qui règne
+                            encore en France. L'anarchie y est àprésent complète et on peut comparer
+                            ce beau Royaume à une planète qui se trouve en dissolution' ('The
+                            friends of liberty can no longer rejoice at what is being done in
+                            France, after all the horrors that are being committed there and ever
+                            since the unbridled populace of Paris has been giving the only law that
+                            still reigns in France. It is complete anarchy there, and one can
+                            compare that beautiful kingdom to a dissolving planet'). (<bibl><title
+                                    ref="works.xml#briefw02">Der Briefwechsel zwischen der Kaiserin
+                                    Katharina II. von Russland und Joh. Georg Zimmermann</title>,
+                                    <biblScope unit="pp">p. 112</biblScope>.</bibl>)</note></p>
+                    <closer>
+                        <signed rend="inline">Adieu, Monsieur, portés vous bien et soyés assuré des
+                            sentimens que vous me connoissés.</signed>
+                        <persName ref="people.xml#cat01" type="signature" rend="right">Catherine.</persName>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="left">
+                            <date when-custom="1789-11-16">This 16 Nov. 1789.</date>
+                        </dateline></opener>
+                   
+                    <p>I hope, sir, that the taking of Bender, which surrendered completely on 4
+                        November o.s. to the Marshal Prince Potemkin-Tavrichesky, will contribute,
+                        as you wish, to the prompt reestablishment of the peace that I never
+                        infringed, but that the intrigues of those who envy me succeeded in
+                        destroying. I am vexed to learn that the news that I send you arrives so
+                        late. The reason is, I think, that news from my army in Moldavia travels
+                        more quickly through Warsaw to Hamburg than it can from the army to
+                        Petersburg and from there to Hanover.</p>
+                    <p>If it is necessary to arrive at liberty by passing through the calamities
+                        that are shaking France, I think that few countries will be tempted to
+                        follow that example, for it is still doubtful whether it will be worth the
+                        effort. Do not be scandalised by what I am telling you: I know that you were
+                        born in Switzerland and are attached to the service of a King of England.
+                        But remember, please, that I am a royalist by profession, but one of those
+                        royalists who desire that safety and property should be fully secure and who
+                        maintain that liberty is incompatible with anarchy and unbridled
+                        licence.</p>
+                    <closer>
+                        <signed>Farewell, sir, be well and be assured of the sentiments that you
+                            know me to have.
+                        <persName rend="right">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

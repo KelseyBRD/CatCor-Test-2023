@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02988</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02988</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:04:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02988">
+  <body>
+   
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarskoé-Sélo</placeName>, ce <date when-custom="1776-08-18">18 d'août
+    1776</date>.</dateline></opener>
+   <p>Au risque que ma lettre trouve monsieur le ministre plénipotentiaire du sérénissime duc
+    de <placeName ref="places.xml#sax01">Saxe</placeName>-<placeName ref="places.xml#got01">Gotha</placeName> etc. dans un des faubourgs de <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>, il faut indispensablement que je lui annonce
+    l’arrivée de son No 34, et cela pour ne pas perdre la très louable coutume que j’ai prise (avec
+    lui seul, je pense) de répondre avec exactitude.</p>
+   <p>Vous me parlez de mes voyageurs, et moi j’ai l’honneur de vous faire part que la moitié en est
+    de retour depuis dimanche passé, c’est-à-dire le <persName ref="people.xml#pau01">
+     grand-duc</persName> et sa suite; pour la <persName ref="people.xml#mar02">
+     princesse</persName>, elle est encore à venir, et nous ne l’aurons pas de dix jours. Dès que
+    nous la tiendrons, nous procéderons à sa conversion. Or, pour la convaincre, il faudra bien 15
+    jours, je pense; je ne sais combien il faudra pour lui apprendre à lire en
+    russe intelligiblement et correctement sa confession de foi; mais tant y a que plus vite
+    que cela pourrait se bâcler, le mieux cela serait. Pour mieux accélérer tout cela, <persName
+     ref="people.xml#pas01"> M. Pastookhof</persName> est allé à <rs ref="places.xml#lit01">
+     Memel</rs> pour lui apprendre l’abc et la confession en route, la conviction viendra après.
+    Vous voyez par là que nous sommée prévoyants et précautionneux et que cette conversion et
+    confession de foi courent la poste. A huit jours de cet acte je fixe la <rs ref="events.xml#marri02">noce</rs>. Si vous voulez y danser, vous n’avez qu’à
+    vous hâter.</p>
+   <p>Je m’aperçois que toute cette feuille ou page ne répond point dutout à votre lettre, mais vous
+    savez qu’on ne fait pas toujours ce qu’on veut dans ce monde. Je crois que j’ai reçu toutes vos
+    lettres et que mes réponses vous sont parvenues: ainsi retenez vos cris et n’allez point aux
+    enfers pour les chercher; aussi bien n’y a-t-il qu’<persName ref="people.xml#her07">Hercule</persName> qui en sache le chemin. On dit que
+    l’Hercule que le chevalier <persName ref="people.xml#glu01"> Gluck</persName> a fait
+    brailler à <placeName ref="places.xml#par01">Paris</placeName> dans son dernier <rs ref="works.xml#alcest01"> opéra</rs>, n’a
+    guère eu d’admirateurs; cela doit décourager ceux qui voudraient l’imiter, entendez-vous? Votre
+    conversation avec le <persName ref="people.xml#fri03"> roi de <placeName ref="places.xml#pru01">
+    Prusse</placeName></persName> sur mon compte, ne vous en déplaise, ne prouve rien, sinon que tous les deux vous êtes
+    avantageusement prévenus sur mon compte. Il faudrait vous opposer ceux qui prétendent me
+    connaître sous un coup d’oeil plus défavorable et puis un Anglais ou deux pour débattre
+    bien grièvement et sans se fâcher le pour et le contre, après quoi conclusion se ferait, sans
+    pari ou avec pari, pour les spectateurs selon leurs commodités, parce qu’il faut que chacun soit
+    à son aise. Le <persName ref="people.xml#hen02">prince Henri</persName> vous dira qu’il
+    ne s’est point ennuyé ici: n’en croyez rien; il aime les fêtes, et je n’ai pu lui en donner une
+    seule; outre cela tout était maussade ici à cause du deuil. Je sais bien qu’à la cour
+    de <placeName ref="places.xml#sax01">Saxe</placeName>-<placeName ref="places.xml#got01">Gotha</placeName> il est d’usage de commencer une lettre sur une feuille
+    entière ; mais il y a des gens qui n’en ont pas et dont la patience n'attend pas qu’on leur en
+    apporte pour commencer, et alors chez nous on commence ses lettres comme l’on peut, et l’on fait
+    ses excuses à la troisième page; cela est poli au moins.</p>
+   <p>Vous avez beaucoup à faire avec ma santé; quand je me porte bien, je n’y pense jamais: or,
+    depuis avril, où j’étais un peu détraquée, je me suis bien portée. Pour sir <persName
+     ref="people.xml#tho01"> Tom</persName>, vous le trouverez très engraissé; le baronet se fait
+    vieux; je ne sais s’il est bien nécessaire à l’empire de <placeName ref="places.xml#rus01">Russie</placeName>, mais comme sa
+    race augmente à vue d’oeil, je crois qu’il contribue au moins à tenir les denrées en valeur. Je
+    verrai un peu, quand vous arriverez, ce que c’est que ce prétendu orgueil dont vous vous dites
+    boursouflé. Savez-vous bien que vous me boursouflerez aussi avec tous les beaux titres que vous
+    me donnez et toutes les belles choses que vous me jetez à la tête?</p>
+   <p>Je suis bien aise que vous me confirmiez le bien qu’on dit généralement de la petite vers
+    laquelle mon instinct me conduisait; morgué, c’eût été grand dommage si votre jeune homme l’eût
+    épousé. Que je vous dirai de choses de ce monsieur-là et de quelques autres encore! Vous verrez
+    qu’à l’avenir on ira à <placeName ref="places.xml#ste02"> Stettin</placeName> à la pèche des
+    princesses, et qu’il y aura dans cette ville des caravanes d’ambassadeurs, comme au delà du
+     <placeName ref="places.xml#spi01"> Spitzbergen</placeName> il y en a de pêcheurs de baleine, et
+    alors on pourra partager les ambassadeurs hardiment en deux classes, et nommer les uns <seg xml:lang="de">Wallfischjäger</seg> et les autres <seg xml:lang="de">Heringsfänger</seg>. Je sais bien que vous trouverez la
+    dernière de ces dénominations trop triviale, mais ce n’est pas ma faute: elle est venue là se
+    placer au bout de ma plume. Et puis, pour vous dire la vérité, j’en ai vu employer de plus
+    plates et d’aussi plates dans les affaires politiques: <seg xml:lang="de">Der Herr Politicus wird’s nicht übel nehmen ; ich will’s hoffen.</seg> Mais écoutez donc, comme
+    chef de l’Eglise, je suis scandalisée de ces deux lignes: <hi rend="italic">Et ce nom de Sophie
+     qui sera noyé une autre fois dans tes eaux salutaires du baptême grec</hi>. Avec une sainte
+    colère je vous dirai que les philosophes déraisonnent comme les autres hommes: sachez, sachez
+    qu’on ne rebaptise aucun chrétien chez nous et qu’il ne s’agit que de la confirmation, avec
+    laquelle, tout comme chez les catholiques, l’on vous impose un nom: or, ce nom imposé par
+    l’église grecque est celui qu’on porte, et tous les autres vous les mettez en poche; gardez
+    cette lettre, elle sera précieuse pour un antiquaire dans deux mille ans, quand ils auront à
+    parler des uses et moeurs de ce temps. </p>
+   <closer><signed rend="inline">Adieu, que le ciel vous bénisse.</signed></closer>
+  </body>
+ </text>
+</TEI>

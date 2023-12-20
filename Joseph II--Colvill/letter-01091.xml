@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01091</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01091</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:27:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01091">
+  <body>
+   <opener><dateline>
+    <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date when-custom="1789-05-30">30
+     mai 1789</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’intime union que j’ai eu la satisfaction de contracter avec V. M. I.
+    dans le courant de <name ref="events.xml#allia02"> mai 1781</name>, a été suivie d’une chaîne de
+    faits et de preuves qui ont porté au plus haut degré possible d’évidence tant la sincérité, la
+    fidélité et la constance sans bornes des sentiments qui nous dictèrent cette union, que son
+    heureuse influence sur le bien-être et la prospérité de nos monarchies. Voyant maintenant
+    arriver le terme de huit ans, après lequel nous nous sommes mutuellement engagés, V. M. I. et
+    moi, à renouveler les stipulations consignées dans les lettres autographes qui furent échangées
+    entre nous aux dates respectives du 21 mai et 1781, je m’acquitte de cet engagement avec un
+    empressement qui n’est égalé que par la satisfaction que j’éprouve a le voir partagé par V. M.
+    I., et comme nous sommes convenus entre nous d’adopter en cette occasion de renouvellement
+    d’alliance la même forme de stipulation immédiate de souverain à souverain, que nous préférâmes
+    à toute autre à la première époque de son établissement, par des motifs analogues à l’intimité
+    de nos sentiments personnels, en conséquence je renouvelle et confirme par la présente en mon
+    nom et en celui de mes héritiers et successeurs toutes les promesses et stipulations comprises
+    dans mes deux lettres autographes à V. M. I. datées du —1781 en échange de Ses deux lettres du
+    21 mai de la même année, en sorte que les dites promesses et stipulations continueront d’avoir
+    pour moi, mes héritiers et successeurs la même obligation et vigueur, tout comme si elles se
+    trouvaient transcrites et répétées ici mot à mot selon toute la teneur de mes deux lettres
+    ci-dessus mentionnées et avec la même force qu’aurait le traité le plus solennel et le plus
+    sacré ; m’engageant conformément à nos conventions réciproques envers V. M. I. en mon nom et en
+    celui de mes héritiers et successeurs de les confirmer et renouveler pareillement avant
+    l’expiration des huit années prochaines avec telles amplifications et modifications que les
+    circonstances d’alors requerront pour le plus grand bien de nos Etats.</p>
+   <closer><signed>Je réitère en même temps à V. M. I. les assurances des sentiments invariables de
+    considération, d’attachement et d’amitié avec lesquels je serai toute ma vie ....</signed></closer>
+  </body>
+ </text>
+</TEI>

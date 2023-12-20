@@ -1,0 +1,708 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03624</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03624</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-11">11/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:56:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-04">04/08/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Queries resolved, markup modified.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03624">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tve01"> Tver</placeName>, <date
+       when-custom="1785-06-01">1 juin 1785</date>.</dateline></opener>
+    <p>J’allais de <placeName ref="places.xml#pet01"> Pétersbourg</placeName> (dont je suis partie
+     le 24 mai) voir les communications d’eau qui y mènent les provisions de bouche et les
+     marchandises; l’ambassadeur de l’empereur, le <persName ref="people.xml#seg01"> ministre
+       de <placeName ref="places.xml#fra01"> France</placeName></persName> et <rs
+      ref="people.xml#fit01"> celui d’<placeName ref="places.xml#eng01">
+     Angleterre</placeName></rs>, désirant de faire la même tournée, étaient dans ma suite <rs
+      ref="events.xml#mosco01">. Nous allions sur la grande route de <placeName
+       ref="places.xml#mos01"> Moscou</placeName></rs> fort gaiment et en parfaite santé, malgré les
+     gazettes, pour nous rendre à <placeName ref="places.xml#bor02"> Borovitchi</placeName>, lieu où
+     nous devions nous embarquer. Arrivés à <placeName ref="places.xml#vys01"> Vichnii
+      Volotchok</placeName>, voilà que le <persName ref="people.xml#bru02"> comte Bruce</persName>
+     nous arrive de <placeName ref="places.xml#mos01"> Moscou</placeName>; il se met à nous prêcher
+     de pousser plus loin et de lui rendre visite dans <placeName ref="places.xml#mos01">
+      Moscou</placeName>; personne ne l’écoute, il continue. Quelle folie! comment
+      jusqu’à <placeName ref="places.xml#mos01"> Moscou</placeName>?— Oui, jusqu’à <placeName
+      ref="places.xml#mos01"> Moscou</placeName>. —Et où trouver des chevaux? — C’est mon affaire. —
+     Nous voulons dîner, souper, dit la compagnie.—Vous trouverez tout cela, fut la réponse. On
+     commence à se faire à l’idée, on commence à en être tenté: tout le monde trouve cela charmant;
+     on succombe à la tentation; le <persName ref="people.xml#bru02"> comte Bruce</persName> se
+     jette dans son carrosse et part comme un éclair. Nous le suivons, et nous voilà à <placeName
+      ref="places.xml#tve01"> Tver</placeName> par le plus beau temps du monde et par un pays et des
+     situations tout à fait riantes; l’ambassadeur, les envoyés de <placeName ref="places.xml#fra01"
+      > France</placeName> et d’<placeName ref="places.xml#eng01"> Angleterre</placeName> vont à
+     tour de rôle avec moi dans mon carrosse à six places; ils sont tous trois très accommodants,
+     très instruits, NB. très gais; le <persName ref="people.xml#pot01"> prince
+     Potemkine</persName>, le comte <persName ref="people.xml#che03"> Tchernichef</persName>, <rs
+      ref="people.xml#shu02"> le grand chambellan</rs>, le <rs ref="people.xml#nar02"> gr.
+      écuyer</rs>, le <persName ref="people.xml#anh01"> comte d’Anhalt</persName> et plusieurs
+     autres personnes, en tout seize personnes, composent ma suite, et c’est à qui égaiera le plus
+     la compagnie. Nous partons aujourd’hui dimanche après la messe pour <placeName
+      ref="places.xml#mos01"> Moscou</placeName>; nous y resterons deux à trois jours et
+     retournerons pour nous embarquer à <placeName ref="places.xml#bor02"> Borovitchi</placeName> et
+     pour débarquer à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>. Que dites-vous de
+     cette escapade, et que diront les gazettes et les boutonnés qui me disent mourante?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-06-14">14 juin</date>. </dateline></opener>
+    <p>Me voilà de retour de <placeName ref="places.xml#mos01"> Moscou</placeName> et embarquée
+     depuis deux fois vingt-quatre heures sur la <placeName ref="places.xml#mst01"> rivière
+      Msta</placeName>, qui doit nous mener demain ou après demain à <placeName
+      ref="places.xml#nov01"> Novgorod</placeName>, par le <placeName ref="places.xml#ilm01"> lac
+      Ilmène</placeName>, d’où nous entrerons dans la <placeName ref="places.xml#vol03"> rivière
+      Volkhof</placeName>, laquelle nous jettera dans le canal de <placeName ref="places.xml#lad01">
+      Ladoga</placeName>, d’où nous entrerons dans la <placeName ref="places.xml#nev01">
+      Néva</placeName> et irons débarquer à <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName>. Vous pouvez juger des dispositions de la compagnie qui est avec moi
+     par la belle production ci-jointe, qui a été composée en conséquence. Il faut rendre justice à
+     M. de <persName ref="people.xml#seg01"> Ségur</persName>: il est difficile d’être plus aimable
+     et d’avoir un meilleur esprit; il paraît se plaire avec nous, et il est gai comme un pinson. Il
+     nous a fait vers et chansons, et nous lui avons donné de la mauvaise prose. Le <persName
+      ref="people.xml#pot01"> prince Potemkine</persName> est à mourir de rire pendant tout ce
+     voyage, et il parait que tout se met en quatre pour y contribuer. Nous avons le plus beau temps
+     et des situations charmantes.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-06-20">20 de juin</date>, de <placeName
+       ref="places.xml#pet02"> Péterhof</placeName>. </dateline></opener>
+    <p>Nous sommes revenus avant-hier par la rivière <placeName ref="places.xml#nev01">
+      Neva</placeName> en bâteau jusqu’à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>,
+     et hier je suis venue par terre ici; l’ambassadeur et les <rs ref="people.xml#fit01"> ministres
+       d’<placeName ref="places.xml#eng01"> Angleterre</placeName></rs> et de <placeName
+      ref="places.xml#fra01"> France</placeName> ont été remis à leurs hôtels respectifs en ville;
+     morgué, ils auraient été jusqu’au bout du monde avec moi, si j’avais voulu. Si la <placeName
+      ref="places.xml#fra01"> France</placeName> a beaucoup de gens comme M. de <persName
+      ref="people.xml#seg01"> Ségur</persName>, je l’en félicite: au mérite, à l’esprit, aux
+     talents, aux connaissances il joint la noblesse du sentiment et l’amabilité; c’est une justice
+     qu’il faut lui rendre; il paraît aimer et estimer le <persName ref="people.xml#fay01"> marquis
+      de La Fayette</persName>; il espère qu’il viendra ici; si celui-ci le vaut, ce sera une fort
+     agréable connaissance à faire.</p>
+    <p>Notez s’il vous plaît que nous avons emmené l’envoyé d’<placeName ref="places.xml#eng01">
+      Angleterre</placeName> malade; il ne dormait et ne mangeait depuis plusieurs mois; on
+     craignait même qu’une mélancolie sinistre ne s’emparât de lui; et nous le ramenons guéri: il
+     dort, il mange, il rit aux éclats et s’occupe à faire rire les autres; il a repris couleurs et
+     est engraissé. Faites-moi part de ce que vous apprendrez qu’on dira du voyage le plus gai qu’on
+     ait jamais fait, je crois. Selon vos ordres voilà le second courrier des trois mois qui va
+     partir.</p>
+    <p>Or, il faut que je vous dise que durant tout mon voyage, pendant que j’ai fait à l’entour de
+     mille deux cents verstes par terre et six cents verstes par eau, j’ai trouvé un changement
+     étonnant dans tout le pays que j’avais vu et pas vu; où il y avait de méchants hameaux, j’ai
+     trouvé de belles villes très, bien bâties en briques et en. pierres; où il n’y avait point de
+     hameaux, j’ai trouvé de grands villages, et en général un bien être et un mouvement de commercé
+     àu-delà de mes espérances. On me dit que c’est la suite des arrangements que j’ai faits et qui
+     s’exécutent à la lettre depuis dix ans, et moi je dis voyant cela: j’en suis bien aise. Cela
+     n’est pas bien spirituel, ma cela est vrai.</p>
+    <p>J’attends cet après-dîner mes petits-fils, que je fais venir ici; <seg xml:lang="de"> die
+      schwere Bagage wird erst den 26 ankommen</seg>. Il faut encore que vous sachiez, si vous ne le
+     savez déjà, que cet hiver j’ai lu <seg xml:lang="de"> das Buch von der Einsamkeit</seg>, qui
+     m’a totalement guérie de ce mal-là, et qui m’a donné si bonne opinion de l’auteur (<persName
+      ref="people.xml#zim01"> Zimmermann</persName>, médecin du <persName ref="people.xml#geo02">
+      roi d’<placeName ref="places.xml#eng01"> Angleterre</placeName></persName> à <placeName
+      ref="places.xml#han01"> Hannover</placeName> et ami de <persName ref="people.xml#wei02">
+      Weikard</persName>, qui est ici) qu’ex-tempore je suis entrée avec lui en correspondance, non
+     pas pour le consulter pour cause de maladie ou de santé, mais pour parler raison et folie; or,
+     il m’écrit, à la lettre, des lettres aussi folles que raisonnables; c’est aussi une tête qui va
+     et ne sait où, mais toujours plus loin qu’on ne s’en avise ordinairement. J’ai voulu qu’il
+     vienne ici; il le voulait aussi, mais quand il l’a voulu, je l’en ai dissuadé, parce qu’il a
+     une maladie qui ne lui permet pas de voyager, et malgré cela il venait; mais moi je ne voulais
+     pas qu’il mourût. Voyez un peu sur quel pied de folie le voyage a monté ma tête; il est bon de
+     faire porter cette lettre par courrier, car, en vérité, tous les commis de poste, de
+      l’<placeName ref="places.xml#ger01"> Allemagne</placeName> surtout, seraient choqués de voir
+     ce ton-là. Pendant tout le voyage nous lisions dans les gazettes l’état de ma petite santé; je
+     crois que ceux qui font courir ces bruits-là sont malades eux-mêmes et fort occupés de la leur,
+     car les gens en santé ne pensent pas seulement à supposer des maladies aux bien-portants. Je
+     crois que les boutonnés enragent de ce voyage, qui prouve, comme deux fois deux font quatre,
+     qu’ils en ont menti, et que l’épanchement de leur bile est noir. <seg xml:lang="de"> Das ist
+      doch auch schwer manchmal mit uns fortzukommen, und das ist auch nicht aller Krippenbeißer
+      Sache</seg>. Que le ciel vous soit en aide et qu’il vous assiste dans tous les épanouissements
+     de rate que pourra vous causer la lecture de cette dépêche, remarquable autant par son contenu
+     que par sa construction merveilleuse. <seg xml:lang="de"> Ja, das mus man nun so fürlieb
+      nehmen, wenn man sich abgiebt mit Leuten, welche ihre Jeder ohne Zurückhaltung so plaudern
+      lassen, als es der liebe Gott beschert</seg>. </p>
+    <p>A <placeName ref="places.xml#pet02"> Péterhof</placeName>, ce 28 juin 1785. Voilà vingt-trois
+     ans de règne révolus; cependant je me suis levée aujourd’hui deux heures plus tard que ce
+     jour-là, il y a 23 ans. Car alors je partis d’ici à six heures du matin. Hier nous est arrivé
+     le prince <persName ref="people.xml#bar02"> Bariatinski</persName>, qui, en me remettant ses
+     lettres de récréance, m’a aussi remis votre paquet. J’ai trouvé votre lettre bien courte, parce
+     qu’elle ne contenait que quatre pages bien remplies; est-ce ainsi que nous écrivons? Mais
+     écoutez donc, qu’est-ce que vous avez tant à crier contre mon petit cabinet de dix toises et
+     mon vocabulaire de deux cents langues? Savez-vous bien que je ne revois jamais ce petit cabinet
+     sans avoir envie d’y rester, et que cette salle est l’appartement dans lequel je me plais le
+     plus, encore à l’heure qu’il est? il n’y a pas de jour que, malgré vent et marée, je n’y passe
+     quelques heures quand je suis en ville. Et mon cher vocabulaire va être imprimé; c’est
+     peut-être l’ouvrage le plus utile qu’on ait jamais fait pour toutes les langues et pour tous
+     les dictionnaires, et nommément pour la langue russe, dont l’académie russe avait entrepris de
+     faire le dictionnaire et pour lequel, s’il faut dire la vérité, elle manquait totalement de
+     connaissances. Or, mon ouvrage est un flambeau lumineux, et c’est là qu’on peut dire: <seg
+      xml:lang="de"> Wer Ohren hat zu hören und Augen hat zu sehen, der wird hören und sehen, aber
+      wer blind und taub geboren ist, der wird blind und taub bleiben</seg>. Je ne sais comment vous
+     n’avez pas pu deviner que le <persName ref="people.xml#pot01"> M. Pr. Pot</persName>.
+     signifiait le <persName ref="people.xml#pot01"> maréchal prince Potemkine</persName>: cela
+     était plus clair encore que mon vocabulaire, sous lequel vous me trouviez étouffée. <seg
+      xml:lang="de"> Nu, das ist denn auch nicht so ganz in Wirtlichkeit: voriges Jahr um diesen Tag
+      waren wir todkrank und kalt ohne Hoffnung; nach vierzehn Tagen zwischen Leben und Tod kommen
+      uns Freunde zu Hülfe; der Fürst Pot. aus der Prim, der Graf Fed.</seg>
+     <persName ref="people.xml#orl05"> Orlof </persName><hi rend="background(cyan)">aus Moscou;
+      diese halfen, aber ich konnte die Hülfe nicht Leiden, kein Mensch war im Stande zu reden, zu
+      denken nach unserm Sinn; dieser war traurig und man wollte ihn wieder lustig haben nach der
+      Gewohnheit, das war nicht das; Schritt für Schritt sollte man gehen und bei jedem Schritt war
+      eine Bataille auszuhalten: eine zu geben, eine zu gewinnen, eine zu verlieren. Die Zeit blieb
+      nicht stehen, sie verstrich, sie war lang und Alles war zähe und langwierig; der Fürst aber
+      war sehr schlau: er schlich herum wie eine Ratze; wenn ein Umstand nicht anging, so drehte er
+      sich herum und hatte immer einen andern Anschlag fertig; endlich wurde es etwas lustiger:
+      dieses gefiel dem Herrn, er suchte es noch lustiger zu machen und so weckte er uns aus dem
+      todten Schlaf auf.</hi>
+    </p>
+    <p>Mais écoutez donc, je vous ai parlé de <persName ref="people.xml#aug01">
+     Zelmire</persName> et de son malheureux état; j’ai tenu son bourru de <rs
+      ref="people.xml#fri06"> mari</rs> absent pendant deux mois; à présent je n’ai pour le moment
+     plus de prétexte honnête pour le tenir éloigné: il est revenu ici; la <rs
+      ref="people.xml#car06"> soeur</rs> et le <rs ref="people.xml#geo03"> beau-frère</rs>
+     s’attendent à voir renouveler les scènes. <rs ref="people.xml#aug01"> Cette pauvre femme</rs>
+     dépérit à vue d’oeil; avez-vous fait savoir au <rs ref="people.xml#kar03"> père
+      </rs>de <persName ref="people.xml#aug01"> Zelmire</persName> ce que je vous ai mandé du
+     malheureux état de sa fille? Si vous n’en avez rien fait, je vous prie de faire parvenir à ses
+      <rs ref="people.xml#kar03 people.xml#aug02">parents</rs> ce que je vous ai mandé, et en outre
+     que je prévois que je serai obligée dans peu, pour donner du repos, à la <rs
+      ref="people.xml#car06"> soeur</rs> et au beau-frère, de renvoyer chez lui le belître; or,
+     alors que deviendra la pauvre, l’innocente <persName ref="people.xml#aug01">
+     Zelmire</persName>? comment suivre <rs ref="people.xml#fri06"> cet homme</rs> dont elle n’a que
+     de mauvais traitements à attendre? Je voudrais que le <rs ref="people.xml#kar03"> père</rs>
+      de <persName ref="people.xml#aug01"> Zelmire</persName> voulût bien s’entendre avec moi pour
+     améliorer le sort de cette femme malheureuse. Le <rs ref="people.xml#kar03"> père</rs> l’a
+     menacée de la faire enfermer si jamais elle pensait à ne pas suivre son <rs
+      ref="people.xml#fri06"> mari</rs>, mais papa ne voudrait-il pas essayer lui-même de vivre avec
+     ce butor? Il verrait qu’il n’y a que coups et injures à attraper; <persName
+      ref="people.xml#aug01"> Zelmire</persName>, je crois, ne pourra pas durer près du butor bien
+     longtemps; ses <rs ref="people.xml#fri12 people.xml#cat04 people.xml#pau03">enfants</rs> même,
+     tous petits qu’ils sont, ne le voient jamais sans terreur. Selon moi, il y aurait trois choses
+     à faire et à opter, si les choses en viennent au dénouement, lorsque <rs ref="people.xml#fri06"
+      > le butor</rs> sera renvoyé d’ici où il est bal et détesté comme un crapaud: 1. Que <persName
+      ref="people.xml#aug01"> Zelmire</persName> retourne en paix chez ses <rs
+      ref="people.xml#kar03 people.xml#aug02">parents</rs>, ou 2, si les <rs
+      ref="people.xml#kar03 people.xml#aug02">parents</rs> n’y consentent pas, qu’elle reste ici à
+     son choix ou aille s’établir ailleurs; 3, que les enfants soient donnés non pas au <rs
+      ref="people.xml#fri06"> père</rs>, mais les <rs ref="people.xml#fri12 people.xml#pau03"
+      >fils</rs> aux états du <placeName ref="places.xml#wur01"> Würt</placeName>: et que les filles
+     restent à la <rs ref="people.xml#aug01"> mère</rs>, qui est d’une conduite irréprochable. En un
+     mot, comme en cent, j’ai promis à <persName ref="people.xml#aug01"> Zelmire</persName> ma
+     protection, et elle a ma parole d’honneur que je ne l’abandonnerai pas; je veux bien que son
+     papa et sa maman le sachent, et je ne permettrai point qu’elle soit rendue de façon ou d’autre
+     plus malheureuse qu’elle n’est. Je veux que, ne pouvant rester avec <rs ref="people.xml#fri06">
+      le butor</rs>, elle ne soit point gênée dans sa retraite, et je vous déclare tout net que je
+     défendrai tout net à <persName ref="people.xml#aug01"> Zelmire</persName> de quitter
+      la <placeName ref="places.xml#rus01"> Russie</placeName> avant d’être assurée en bonne et due
+     forme qu’elle est et sera sur un état parfait de sécurité. Entendez-vous? Tout cela est-il
+     clair et parlerez-vous de tout cela comme il convient, ou n’en parlerez-vous pas au papa? afin
+     que, si vous n’en pouvez pas parler, je lui fasse parler par d’autres, ma comme c’est par vous
+     qu’il m’a recommandé sa fille, je crois que vous lui pourriez dire ce que je vous dis pour le
+     bien de sa fille.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1785-07-04">4 juillet</date>. </dateline></opener>
+    <p>Je suis enfin revenue ici hier au soir, après avoir couru six semaines moins un jour;
+      de <placeName ref="places.xml#pet02"> Péterhof</placeName> j’ai été en ville, de là j’ai
+     couché de l’autre côté de la rivière, à <placeName ref="places.xml#esc01"> Ossinovaïa
+      Rostcha</placeName>; de là j’ai été courir à <placeName ref="places.xml#ses02">
+      Systerbäck</placeName>, d’où je suis revenue en ville; hier j’ai dîné et soupé avec mes
+     ministres de poche, l’ambassadeur imp. et les envoyés d’<placeName ref="places.xml#eng01">
+      Angleterre</placeName> et de <placeName ref="places.xml#fra01"> France</placeName> chez les
+      <rs ref="people.xml#nar02 people.xml#nar04">deux frères Narischkine</rs>, d’où je suis
+     retournée ici. Si M. de <persName ref="people.xml#seg01"> Ségur</persName> aimera mieux <rs
+      ref="people.xml#abd01"> le grand Turc</rs> que moi, il aura grand tort, car, en vérité, je
+     suis beaucoup plus aimable que cet homme-là: tenez, tandis que ce rustre-là fait voler des
+     têtes par douzaines, voyez un peu les jolies gazettes que je compose; lisez mes nouvelles à la
+     main, et puis décidez-vous entre sultan <persName ref="people.xml#abd01"> Abdoul
+      Hamet</persName> et moi. N’est-il pas vrai que je mérite la préférence, ne serait-ce que pour
+     cela?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-07-11">11 juillet</date>. </dateline></opener>
+    <p>Voici encore un prospectus que je vous envoie, afin que vous puissiez souscrire, si l’envie
+     vous en prend. Mais quand est-ce que vous me répondrez à mes lettres du mois d’avril?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-07-14">14 juillet</date>. </dateline></opener>
+    <p>Je viens de recevoir votre No 83, commencé 20 (31) de mars; il est bien vieux, mais n’y fait
+     rien. Écoutez, n’allez pas croire qu’à la lettre, parce que je me suis occupée de langues et de
+     grammaire, j’en sois plus savante pour cela; point du tout, je conserve mon ignorance
+     intacte.</p>
+    <p>Les leçons de grammaire que vous me donnez me seront utiles, mais j’irai mon train sans
+     mettre des points sur les i, comme vous l’ordonniez le 20 (31) de mai, précisément un mois
+     après avoir commencé cette honnête pancarte, venue par Bacchus Weynacht.</p>
+    <p>La belle <persName ref="people.xml#ele01"> Hélène</persName> prospère et, à la lettre, à six
+     mois montre beaucoup plus d’esprit et de vivacité que <rs ref="people.xml#ale02"> sa chère
+      aînée</rs>, qui aura 2 ans la semaine qui vient. Pour de votre <seg xml:lang="de">
+      Traumbedeuterei</seg>, je n’en fais aucun cas, c’est ce que je vous déclare tout net.</p>
+    <p>Jeudi je m’en irai d’ici à <placeName ref="places.xml#pel01"> Pella</placeName> avec mes
+     trois ministres de poche, d’où je reviendrai ici lundi pour la Marie Madeleine.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#pel01"> Pella</placeName>, ce <date
+       when-custom="1785-07-18">18 juillet</date>. </dateline></opener>
+    <p>Me voilà venue ici, dans cet endroit dont vous n’avez pas d’idée; je suis à 26 verstes de
+      <placeName ref="places.xml#shl01"> Schlüsselbourg</placeName>, à 32 de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>, à 35 de <placeName ref="places.xml#tsa01">
+      Tsarsko-Sélo</placeName> dans un coude que fait la <placeName ref="places.xml#nev01">
+      Néva</placeName> au-dessous de ces cataractes; dans ce moment-ci ces cataractes sont à ma
+     droite, et à la même distance à ma gauche je vois de ma fenêtre la rivière <placeName
+      ref="places.xml#tos01"> Tosna</placeName> tomber dans la <placeName ref="places.xml#nev01">
+      Néva</placeName>; depuis les cataractes jusqu’à l’embouchure de la <placeName
+      ref="places.xml#tos01"> Tosna</placeName> le terrain fait une grande demi-lune dont <placeName
+      ref="places.xml#pel01"> Pella</placeName> est le milieu; la rivière <placeName
+      ref="places.xml#nev01"> Néva</placeName> passe les cataractes, et ayant formé la baie dans
+     laquelle je me trouve, a la bonté de continuer son cours, précisément vis-à-vis de mes
+     fenêtres, vers <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, de façon que la
+     façade de <placeName ref="places.xml#pel01"> Pella</placeName> n’est point du tout au nord,
+     mais précisément du côté de la rivière au couchant, et la façade de la cour au levant.
+     Vis-à-vis de <placeName ref="places.xml#pel01"> Pella</placeName>, à l’autre rive, est une
+     pointe de terre par dessus laquelle ont voit des villages, des bois et des maisons qui sont sur
+     l’un et l’autre bord de la <placeName ref="places.xml#nev01"> Néva</placeName>; dans quatre ans
+     d’ici j’aurai une très belle maison dans cette terre; les fondements en sont déjà mis, mais en
+     attendant je demeure dans la maison de bois de l’ancien propriétaire, qui est plus grande que
+     belle. La <placeName ref="places.xml#nev01"> Néva</placeName> a l’air d’un grand lac dans cet
+     endroit: des milliers de bâteux, en un mot, tout le commerce et toute la bâtisse de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName> passent devant mes fenêtres, et tout est
+     mouvement sur l’eau et sur ses bords dans ce moment.</p>
+    <p>Sur ces entrefaites est morte <persName ref="people.xml#zem01"> Zémire</persName>, l’arrière
+     petite-fille de sir <persName ref="people.xml#tho01"> Tom</persName>, et voici l’épitapbe que
+     lui a composée M. de <persName ref="people.xml#seg01"> Ségur</persName>. J’y joins encore
+     certain mémoire que le dit seigneur a composé, qui vous fera voir le beau ton qui règne dans
+     cette compagnie de voyageurs; comment vous comprendrez tout cela, ce ne sont pas là mes
+     affaires; pourvu que vous lisiez tout, cela suffit.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1785-07-21">21 juillet</date>. </dateline></opener>
+    <p>Je me suis défaite hier à l’<placeName ref="places.xml#her01"> hermitage</placeName> de toute
+     ma compagnie de voyage, et en revenant de <placeName ref="places.xml#pel01"> Pella</placeName>
+     à <placeName ref="places.xml#pet01"> Pétersbourg</placeName> par eau, nous avons créé
+     l’ambassadeur roi et <persName ref="people.xml#bra02">la comtesse Branitzka</persName> reine,
+     parce qu’ils étaient assis ensemble dans un fauteuil; c’était donc le roi <persName
+      ref="people.xml#dag01"> Dagobert</persName> et <persName ref="people.xml#ber09">la reine
+      Berthe</persName>, et puis des folies et un tapage sans fin qui s’en est suivi et avec lequel
+     nous avons continué jusqu’au débarquement. Que dites-vous de cela? Présentement faut répondre
+     au mémoire.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1785-07-22">22 juillet</date>. </dateline></opener>
+    <p><rs ref="people.xml#bez01"> Monsieur factotum</rs> vient de m’avertir que le courrier est
+     tout prêt à partir; ainsi je ferme ce gros paquet en vous souhaitant la patience nécessaire
+     pour le lire et une santé robuste qui soutienne toutes les convulsions de rate qu’il pourrait
+     vous donner. Cependant M. <persName ref="people.xml#kel01"> Kelchen</persName> nous a assurés
+     chemin faisant qu’il était impossible de mourir de rire; je le crois, car personne n’est mort,
+     quoiqu’on riait aux éclats depuis le matin jusqu’au soir. </p>
+    <closer><signed rend="inline">Adieu. </signed></closer>
+    <postscript>
+     <p>Je viens d’apprendre du <rs ref="people.xml#bez01"> factotum</rs> que les pierres de M. de
+       <persName ref="people.xml#bre03"> Breteuil</persName> sont achetées par vous; j’ai signé ce
+      matin l’ordre pour que <persName ref="people.xml#sut01"> Southerland</persName> paie la lettre
+      de change.</p>
+     <p>Le <rs ref="people.xml#fri06">bourru</rs> en agit un peu mieux avec <persName
+       ref="people.xml#aug01"> Zelmire</persName>; le <rs ref="people.xml#geo03"> beau-frère</rs> et
+      la <rs ref="people.xml#car06"> soeur</rs> le moralisent.</p>
+    </postscript>
+   </div>
+   <div>
+    <opener><seg xml:lang="ru"> Прилокѳнія къ</seg> No 141 <lb/> (A.) <dateline>De <placeName
+       ref="places.xml#mos01"> Moscou</placeName>, le <date when-custom="1785-07-04">4 juin
+       1785</date>.</dateline></opener>
+    <p>La consternation est grande dans cette ancienne capitale. Le l<hi rend="superscript"
+     >r</hi> de ce mois on remarqua déjà parmi le peuple, tout comme parmi la noblesse, des
+     avant-coureurs de rumeur et une fluctuation d’allée et de venue qui ne pouvait présager rien de
+     bon. Le soir les gens prudents, les bourgeois, les marchands, les artisans et autres personnes
+     de tout rang, se retirèrent chez eux de bonne heure; ceux qui avaient à perdre quelque chose
+     fermèrent soigneusement leurs portes et leurs fenêtres. Beaucoup de gens de la première volée
+     se couchèrent fort tard; d’autres restèrent sur pied toute la nuit sans se déshabiller.</p>
+    <p>NB. L’auteur de cette relation, en observateur curieux, fut au nombre de ces derniers; il
+     garda même son épée au côté, sans cependant la tirer du fourreau. Ce même jour le soir on ferma
+     les portes de la ville. Le <persName ref="people.xml#bru02"> comte Bruce</persName>, gouverneur
+     général de la province, qui était allé faire un voyage, revint en poste subitement.</p>
+    <p>Le 2 de juin la rumeur ne fit qu’augmenter. On remarqua-ce jour-là que le gouvernement
+     employa beaucoup de monde, pendant trente-six heures, à réparer à la hâte les ponts, les
+     chemins, les rues. On dit qu’il ne paya personne, manquant d’argent autant que de crédit, ce
+     qui est une suite de la mauvaise administration présente, comme il est notoire. Dès lors les
+     gens clairvoyants ne doutèrent point qu’on s’occupait de marches de troupes vers la ville pour
+     apaiser le tumulte dont on était visiblement menacé. En effet, dans le courant de la journée il
+     commença à éclater. Le peuple sortit de ses cabanes, comme des souris hors d’un grenier, se
+     rassembla dans toutes le rues, et se porta vers la porte de <placeName ref="places.xml#tve01">
+      Tver</placeName>, ainsi nommée parce qu’elle se trouve sur le chemin d’une mauvaise bicoque
+     qui porte ce nom. Un bruit sourd alors se répandit, comme quoi les mutins exigeaient qu’à
+     l’exemple du peuple romain on établit des tribuns. Les gens sensés supposent que ce sont les
+     deux derniers édits inconsidérés que l’ <persName ref="people.xml#cat01">
+      impératrice</persName> a fait publier qui ont donné lieu à cette sédition, conçue et exécutée
+     avec tout le secret et la célérité nécessaires et un courage étonnant. On ne sait pas encore au
+     juste le nom des chefs de l’entreprise; mais il n’est pas douteux, disent les gens le plus
+     éclairés, que la plupart des grandes familles du pays et beaucoup d’autres gentilshommes ne
+     soient en jeu, car on a vu pendant ce temps des rubans bleus, des rubans rouges, et même des
+     généraux courir à cheval au grand galop par les rues, sous prétexte d’apaiser le peuple, auquel
+     ils parlaient avec beaucoup d’aménité en apparence, mais au fond ils fomentaient visiblement la
+     révolte par des paroles à double entente. De plus, on a remarqué que le maréchal de la noblesse
+     du gouvernement, le seigneur le plus riche du pays, est tombé malade tout-à-coup, quoiqu’il eût
+     un air de santé, ce que les plus politiques attribuent à son indécision et à une envie de
+     temporiser, pour voir le parti qu’il embrassera. Beaucoup de courriers furent expédiés ce
+     jour-là de tous côtés.</p>
+    <p>Le 2 au soir on apprit, non sans une grande surprise, que l’ <persName ref="people.xml#cat01"
+      > impératrice</persName> était arrivée de <placeName ref="places.xml#vys01"> Vichnii
+      Volotchok</placeName> en poste à <placeName ref="places.xml#pet04"> Pétrofski</placeName>,
+     maison de campagne à quatre lieues de <placeName ref="places.xml#mos01"> Moscou</placeName>,
+     apparemment pour apaiser les troubles et imposer par sa présence aux séditieux. Mais informée
+     de ce qui se passait dans la ville, <rs ref="people.xml#cat01"> S. M. I</rs>. ne trouva pas à
+     propos d’entrer le même jour dans cette capitale ; par là l’on voit suffisamment combien le
+     risque devait être grand. Le peuple n’en devint que plus insolent; instruit par ses agents de
+     la venue de cette princesse, il alla jusqu’à cette campagne, entoura la maison de tous côtés,
+     et voyant qu’elle était sans défense, il commença à murmurer à haute voix. L’ <persName
+      ref="people.xml#cat01"> impératrice</persName> demanda ce que c’était; les courtisans et les
+     flatteurs, pour ménager la sensibilité de S. M. (dont la santé est toujours faible et dans un
+     état de langueur habituelle, comme tout le monde sait), lui dirent que ce n’était que des cris
+     de joie, ce qui parut lui donner quelque tranquillité momentanée ; mais, ayant entendu
+     redoubler les cris et les clameurs du peuple et voulant en savoir de rechef les raisons, les
+     plus affidés de sa cour lui représentèrent que c’était des chansons d’allégresse que le peuple
+     chantait pour se réjouir de son arrivée, et pour l’amuser; alors S. M. sourit gracieusement à
+     ce vacarme. Cependant on remarqua qu’elle évita de se présenter aux fenêtres et aux balcons qui
+     donnent vers <placeName ref="places.xml#mos01"> Moscou</placeName>, que pendant très peu de
+     moments elle était fort entourée par ceux de sa suite qui sont les plus attachés à sa personne;
+     on remarqua surtout le grand écuyer; celui-ci la soutenait du bras; elle paraissait être
+     triste, défaite, pâle, languissante, et la frayeur était peinte sur son visage. L’on voyait que
+     l’ambassadeur de l’empereur, qui était venu avec elle, lui donnait des conseils, car il
+     s’approcha plusieurs fois pour lui parler à l’oreille. <rs ref="people.xml#fit01">Les envoyés
+       de <placeName ref="places.xml#fra01"> France</placeName></rs> et d’<placeName
+      ref="places.xml#eng01"> Angleterre</placeName> sont aussi du voyage. On a remarqué que ce
+     dernier a eu une longue conférence en langue grecque avec l’ <persName ref="people.xml#pla01">
+      archevêque de <placeName ref="places.xml#mos01"> Moscou</placeName></persName>, qu’on sait
+     être du complot; on entendit distinctement qu’il lui cita, apparemment pour le persuader, un
+     vers entier de l’évangile de St Jean; de là on conjecture, de même que de beaucoup d’autres
+     allées et venues de ces deux ministres, qu’ils se sont entremis pour ménager un accommodement,
+     mais on appréhende, non sans raison, vu les circonstances, que tout cela sera en vain, ou bien
+     aussi de peu de durée. Mais tout ceci n’est rien en comparaison de la terrible journée du 3 de
+     juin.</p>
+    <p>Dans la nuit qui précéda ce jour mémorable ou funeste, on avait eu quelques légères
+     espérances de voir renaître le calme, parce qu’à la lueur de la lune, couverte cependant de
+     quelques nuages, on vit clairement que le peuple défilait par bandes vers la ville. Mais quelle
+     fut la surprise de tout le monde lorsqu’on apprit le 3, de grand matin, qu’à l’aube du jour les
+     mutins s’étaient rassemblés en plus grand nombre que le jour précédent à l’entour de <placeName
+      ref="places.xml#pet04"> Pétrofski</placeName>, d’où ils avaient emmené l’impératrice; les
+     tourbillons de poussière causés par la multitude, leurs cris tumultueux et l’horreur dont toute
+     âme bien née était saisie dans ce moment, empêchèrent d’être informé au juste de ce qui se
+     passait; nous apprîmes seulement vers les neuf heures du matin que cette princesse avait trouvé
+     le moyen de se réfugier dans la cathédrale. A dix heures et demie on nous dit qu’appréhendant
+     apparemment qu’après le service divin on n’en fermât les portes, S. M. I. avait gagné le parvis
+     de l’église où sont enterrés nombre de ses prédécesseurs; mais, toujours poursuivie, elle
+     passa, par des issues peu fréquentées, à une troisième église, et de celle-ci dans un couvent
+     limitrophe, où, s’étant jetée dans une voiture, elle sortit de la ville et courut à toute bride
+     à <placeName ref="places.xml#kol01"> Kolomenskoï</placeName>, château impérial au de-là du
+     fleuve, dans un lien écarté, entouré de ravins, et d’un difficile accès. Là S. M. fut
+     abandonnée de sa suite; il ne resta avec elle que l’ambassadeur de l’empereur, qui, dit-on, se
+     trouvait gêné par ses instructions. L’après-midi l’impératrice ne se croyant pas en sûreté dans
+     cet endroit, se retira à <placeName ref="places.xml#tsa02"> Tsaritsine</placeName> et mit entre
+     elle et les séditieux un pays aisé à défendre et difficile à attaquer.</p>
+    <p>Mais un accident n’arrive jamais seul: l’on assure que les nouvelles arrivées de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>, dont S. M. fut informée en arrivant à
+      <placeName ref="places.xml#tsa02"> Tzaritsine</placeName>, lui donnèrent beaucoup d’humeur.
+     Elle ne trouva pas à propos d’en faire part au peu de personnes qui la suivaient encore. Elle
+     imagina fort habilement de trouver à redire à la bâtisse du château; les voûtes lui parurent
+     trop épaisses, les chambres trop basses, les boudoirs trop resserrés, les appartements sombres,
+     les escaliers trop étroits, et comme l’argent est rare, et que le pain est cher, elle regretta
+     beaucoup celui qui y avait été employé. On lui vit prendre ensuite des routes détournées dans
+     les bois, d’où de rechef elle se rendit à <placeName ref="places.xml#kol01">
+      Kolomenski</placeName>, et régla avec une inquiétude active beaucoup de différents
+     arrangements pour son départ subit de <placeName ref="places.xml#mos01"> Moscou</placeName>. En
+     effet, le 4, dans le courant de la journée, la cour partit; longeant la ville au dehors on
+     trouva une forte embuscade près du nouveau palais qui se bâtit. Tout le monde s’y était
+     rassemblé; on fut obligé de mettre pied à terre et de se réfugier pendant quelques moments dans
+     la bâtisse, mais il fallait indispensablement passer au travers de la foule et par le jardin.
+     On remarqua qu’ici la contenance manqua aux uns et aux autres. L’ <persName
+      ref="people.xml#cat01"> impératrice</persName> s’avisa de faire des révérences à droite et à
+     gauche, et tandis que tout le monde se baissait pour les lui rendre, elle vit un tour à droite,
+     s’esquiva au travers la foule, remonta dans son carrosse, et passa par la ville, qui
+     heureusement était assez vide. Il faut avouer que S. M. connaît très bien les entrées et les
+     issues. Ce dernier trait surtout passe aux yeux des connaisseurs pour fort ingénieux. L’on dit
+     qu’à la porte du maréchal de la noblesse l’<persName ref="people.xml#cat01">
+      impératrice</persName> demanda à boire, parce qu’elle était altérée, et que celui-ci, dont on
+     loue beaucoup la politesse envers les dames, ne lui refusa pas ce qu’elle souhaitait. Peu de
+     temps après le bruit courut comme quoi la cour était allée souper chez le gouverneur-général;
+     le peuple y courut, mais on ne vit plus rien, parce qu’il faisait sombre; on entendit seulement
+     le bruit du canon. On jugea avec raison alors que l’action devait être vive; les détails nous
+     en manquent; on sait cependant que l’impératrice est de rechef à <placeName
+      ref="places.xml#pet04"> Pétrofski</placeName> d’où elle part pour apaiser une nouvelle révolte
+     à Pétersbourg ou <placeName ref="places.xml#ore01"> Orenbourg</placeName>. Ceci fait supposer
+     que S. M. se porte mieux; car on a pu voir par les gazettes que quand elle est malade, tout est
+     tranquille en <placeName ref="places.xml#rus01"> Russie</placeName>, et que quand elle se porte
+     bien, les séditions se renouvellent journellement, comme le pain quotidien. La continuation à
+     l’ordinaire prochain.</p>
+    <p>(B.)</p>
+    <p>L’on a recueilli plusieurs anecdotes concernant la révolte de <placeName
+      ref="places.xml#mos01"> Moscou</placeName>. On nous assure, entre autres, que les équipages du
+      <rs ref="people.xml#fit01"> ministre d’<placeName ref="places.xml#eng01">
+       Angleterre</placeName>,</rs> et ceux du gr. écuyer ont beaucoup souffert dans la mêlée, et
+     même qu’ils ont été pillés.</p>
+    <p>On dit encore que sur la route il y a eu dans différents endroits des attroupements
+     tumultueux (ce qui a pu donner lieu au manquement de vivres), qui ont obligé la cour de prendre
+     des chemins détournés, où on espérait du moins de trouver du lait, des oeufs etc.; mais nous
+     sommes instruits de bonne part qu’en plusieurs endroits, et nommément entre <placeName
+      ref="places.xml#med03"> Mednoé</placeName> et <placeName ref="places.xml#tor01">
+      Torjok</placeName>, on s’est vu frustré dans cette attente: la plupart des gentilshommes dont
+     les terres se trouvent sur le chemin, sont dans le complot: on cite pour exemple un certain M.
+     Un et demi qui passe pour être parmi les mécontents; il fit semblant de n'avoir rien que des
+     fruits qui n’étaient pas mûrs, quoique le lendemain il se vantât sous main d’avoir fait bonne
+     chère avec ses amis jusqu’à quatre heures du matin.</p>
+    <p>Nous apprenons encore que la cour, manquant de chevaux et ne sachant où donner de la tête,
+     s’est embarquée sur des bâtiments marchands qui descendent des petites rivières. On craint
+     beaucoup qu’elle ne soit attaquée par les corsaires dont ces eaux fourmillent et qui sont tous
+     parents ou cousins.</p>
+    <p>Chemin faisant on s’est pourvu de boussoles de l’invention du Sr <persName
+      ref="people.xml#bal01"> Balu</persName>, confiturier, habile mécanicien, dans la boutique
+     duquel on trouve aussi du point de <placeName ref="places.xml#bru01"> Bruxelles</placeName> de
+     nouvelle invention.</p>
+    <p>On assure que le <persName ref="people.xml#pot01"> prince Potemkine</persName> s’est mis à la
+     tête de l’avant-garde sur les eaux, preuve évidente du danger. Les <rs ref="people.xml#fit01">
+      ministres d’<placeName ref="places.xml#eng01"> Angleterre</placeName></rs> et de <placeName
+      ref="places.xml#fra01"> France</placeName> l’accompagnent; apparemment qu’ils continuent à
+     négocier un accommodement. On ne doute point qu’ils ne rencontrent des écueils et des
+     circonstances scabreuses. Il s’est répandu un bruit sourd comme si M. le comte de <persName
+      ref="people.xml#seg01"> Ségur</persName> avait été blessé par les corsaires. L’on dit que le
+     11 de juin au soir l’ <persName ref="people.xml#cat01"> impératrice</persName> est allée
+     incognito dans une chaloupe (non sans être fortement accompagnée) reconnaître l’ennemi.</p>
+    <p>Des lettres antérieures à celle-ci disent que la cour est arrivée en assez bonne santé,
+     malgré la faim et la soif, à <placeName ref="places.xml#vys01"> Vischnii-Yolotchok</placeName>.
+     Elles font aussi mention d’une certaine dame, venue à l’improviste de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>, qui s’arrêta à cinq verstes du gîte de la
+     cour; on a appris d’elle le fâcheux état des choses dans cette seconde capitale. On prétend que
+     cette dame était chargée de lettres et de pourparlers de la part des mécontente, et qu’elle a
+     eu déjà une conférence secrète avec une personne de considération de la suite de l’impératrice;
+     on conjecture, non sans raison, qu’il s’agissait de choses de la plus grande importance, par le
+     mystère qu’on y. a mis de part et d’autre, ce seigneur ayant refusé tout net le même soir une
+     partie de trictrac qu’il était accoutumé de faire, pour aller voir la dame en cachette, ce
+     qu’il ni a le lendemain, quoique cette dame fût, du su de tout le monde, madame son épouse. On
+     a remarqué que la nuit qui a suivi l’embarquement, l’ambassadeur de l’empereur a été fortement
+     occupé à écrire et à transcrire de sa propre main, ce qui fait conjecturer que ses dépêches ne
+     peuvent être que de conséquence, puisqu’il n’a pas même jugé à propos d’y employer quelques-uns
+     de ses secrétaires...</p>
+    <p>(C.)</p>
+    <p>Bulletin secret.</p>
+    <p>L’on se dit à l’oreille que le droit des gens a été mal observé vis-à-vis de messieurs les
+     ministres étrangers qui accompagnent l’ <persName ref="people.xml#cat01">
+      impératrice</persName> durant son voyage désastreux par mer et par terre; on prétend que
+     chacun d’eux est confiné dans une très petite cellule de laquelle ils ne sortent que pour les
+     repas, et où ils rentrent tout de suite après; on ajoute que c’est un nègre à qui la garde en a
+     été confiée et qui ne les quitte pas de vue; on prétend qu’ils sont autant gênés qu’ils sont à
+     l’étroit.</p>
+    <p>(D.)</p>
+    <p>Le Mérite et le Hasard.</p>
+    <p>Conte.</p>
+    <p>On m’a conté qu’au temple de la Gloire </p>
+    <p>Le mérite une fois eut le désir d’aller;</p>
+    <p>Vous devinez, sans qu’il faille en parler,</p>
+    <p>Des envieux la méchanceté noire,</p>
+    <p>Ce qu’il eut de périls, d’obstacles à braver;</p>
+    <p>Comme il ne rampe point, sans peine l’on peut croire </p>
+    <p>Qu’il était tard lorsqu’il put arriver.</p>
+    <p>Mais vous pensez au moins qu’il dut trouver </p>
+    <p>Le temple ouvert, et la couronne prête,</p>
+    <p>Qu’on l’accueillit, qu’on lui fit fête.</p>
+    <p>Vous avez tort: le temple était fermé:</p>
+    <p>Le mérite aux refus doit être accoutumé.</p>
+    <p>Il ne se plaignit point, on sait qu’il est modeste.</p>
+    <p>Près de lui cependant un aveugle portier </p>
+    <p>A chaque instant, sans se faire prier,</p>
+    <p>Ouvrait à mille fous qui marchaient d’un air leste. </p>
+    <p>Sans examen il les faisait entrer;</p>
+    <p>Leur course était rapide, et leur chûte était prompte; </p>
+    <p>Arrivés pleins d’orgueil, ils sortaient pleins de honte, </p>
+    <p>Et pas un seul n’y pouvait demeurer.</p>
+    <p>Au mérite à la fin le vieux portier s’adresse,</p>
+    <p>L’appelle par caprice, et, le tirant à part,</p>
+    <p>Lui dit: Votre mépris me surprend et me blesse; </p>
+    <p>Vous comptez sur vos droits aux yeux de la Déesse; </p>
+    <p>Vous m’avez négligé, mais vous entrerez tard,</p>
+    <p>Et je prétends sur vous faire un exemple </p>
+    <p>Pour prouver que la clef du temple </p>
+    <p>Ne sort pas des mains du Hasard. —</p>
+    <p>Je sais quelle est ton injuste puissance,</p>
+    <p>Dit le mérite, et j’en connais l’excès;</p>
+    <p>Mars te laisse son glaive, et Thémis sa balance,</p>
+    <p> Arbitre des revers, arbitre des succès;</p>
+    <p>Ici tout est soumis à ton pouvoir funeste;</p>
+    <p>De ce temple à ton gré tu peux donner l’accès;</p>
+    <p>Mais le mérite seul y reste.</p>
+    <p><hi rend="bold">Envoi en conte do Mérite et en Hasard.</hi></p>
+    <p>Ce conte qu’à vos yeux sans crainte j’osai lire,</p>
+    <p>De beaucoup de lecteurs m’attire le courroux:</p>
+    <p>La vérité qu’il peint, vous flatte et les déchire;</p>
+    <p>C’est satire pour eux, c’est éloge pour vous.</p>
+    <p><hi rend="bold">Portrait qui n’a pas besoin de titre, tant il est aisé à
+     reconnaître.</hi></p>
+    <p>NB, à ce que l’auter dit.</p>
+    <p>Je veux en peu de mots peindre un grand empereur,</p>
+    <p>Une femme célèbre et justement chérie;</p>
+    <p>L’entreprise est facile en paraissant hardie;</p>
+    <p>Son cachet fournira les pinceaux, la couleur;</p>
+    <p>Son aigle peindra son génie,</p>
+    <p>Sa devise peindra son coeur.</p>
+    <p rend="bold">Chanson pour l’anteur de la Gazette de <placeName ref="places.xml#mos01">
+      Moscou</placeName>.</p>
+    <p>Sur l’air: Que ne suis-je la fougère.</p>
+    <p>Ah, que j’aime la Gazette!</p>
+    <p>Il n’est rien de mieux écrit;</p>
+    <p>Comme l’auteur qui l’a faite,</p>
+    <p>Ce n’est que grâce et qu’esprit.</p>
+    <p>Son voile point ne m’abuse;</p>
+    <p>Je dis, sans être sorcier:</p>
+    <p>De l’histoire c’est la muse </p>
+    <p>Sous les traits d’un gazetier.</p>
+    <p><hi rend="bold">Impromptu</hi></p>
+    <p>dont les rimes ont été données par <persName ref="people.xml#fit01"> M. Fitz Herbert, min.
+      d'Angl</persName>.</p>
+    <p>D’un peuple très nombreux <persName ref="people.xml#cat01"> Catherine</persName> est
+     l’amour.</p>
+    <p>Malheur à l’ennemi qui contre elle se frotte;</p>
+    <p>La renommée usa pour elle — son tambour,</p>
+    <p>L’histoire avec plaisir sera — son garde-note.</p>
+    <p>(E.)</p>
+    <p>Nouvelles à la main de <placeName ref="places.xml#pet02"> Péterhof</placeName> le 30
+     juin.</p>
+    <p>On a remarqué qu’à la fête du 29 de ce mois, après les dix heures du soir, il s’est passé
+     plusieurs choses qui donnent lieu à des conjectures diverses.</p>
+    <p>D’abord, après le souper, l’ambassadeur de l’empereur s’est perdu; ce qui fait supposer qu’il
+     a eu quelques conférences secrètes, on ne dit pas avec qui.</p>
+    <p>Le <persName ref="people.xml#pot01"> prince Potemkine</persName> s’est retiré chez lui à onze
+     heures du soir, sous prétexte d’aller se coucher, mais on sait de bonne part qu’il a veillé une
+     partie de la nuit, que le sénateur <persName ref="people.xml#str03"> comte Stroganof</persName>
+     était enfermé avec lui, qu’ils ont examiné avec beaucoup d’attention et longtemps des cartes,
+     ce qui donne lieu à penser qu’ils réglaient ou expédiaient des affaires de la plus grande
+     importance, et qu’il s’agissait au moins du salut de l’état ou du partage de quelques autres;
+     on leur a même entendu nommer plus d’un roi. Tandis qu’ils arrangeaient des affaires qui
+     paraissaient fort embrouillées, on a remarqué que le <persName ref="people.xml#str03"> comte
+      Stroganof</persName> était extrêmement inquiet; ceux qui regardaient de la terrasse
+     l’illumination du canal, ont vu d’en-bas qu’au troisième étage du château le dit comte sautait
+     sur sa chaise ça et là, et qu’il paraissait fort échauffé.</p>
+    <p>On dit que l’ <persName ref="people.xml#cat01"> impératrice</persName> se cachait
+     soigneusement pendant une partie du bal, et qu’elle fuyait tous ceux qui pouvaient la
+     reconnaître. On sait de source certaine que l’ <rs ref="people.xml#fit01"> envoyé d’<placeName
+       ref="places.xml#eng01"> Angleterre</placeName></rs> a reçu de superbes présents d’un masque
+     qu’il a fait semblant de n’avoir, pas reconnu; on ignore quels peuvent être les motifs d’une
+     pareille conduite de part et d’autre.</p>
+    <p>On prétend que le <persName ref="people.xml#seg01"> ministre de <placeName
+       ref="places.xml#fra01"> France</placeName></persName> s’occupait à magnétiser dans la salle
+     même du bal divers malades dont il a gagné la confiance, et qu’il marquait autant de dépit que
+     d’humeur contre ceux qui lui causaient la moindre distraction, qu’entre autre on lui a entendu
+     dire à quelqu’un avec un ton de voix très élevé des paroles entrecoupées, comme: qui est donc
+     ce masque-là . . .? Le masque n’eut pas de peine à deviner le reste de la phrase, car tout de
+     suite il fit signe qu’il ne prétendait point interrompre la cure magnétique, ce qui parut
+     apaiser la colère du susdit seigneur et redoubler son attention vis-à-vis des malades.</p>
+    <p>Pendant les illuminations de la St-Pierre quelques personnes ont pris <rs
+      ref="people.xml#nar02"> M. le gr. écuyer</rs> pour un aérostat.</p>
+    <p>On nous assure qu’au même bal le comte J. <persName ref="people.xml#che03">
+      Tchernichef</persName>, au fort d’une conversation très animée, a pris subitement une
+     convulsion affreuse, et qu’en se démenant il a cassé le bras à un pauvre masque qui se tenait
+     près de lui pour le soutenir. Depuis cet accident on lui a remarqué beaucoup de chaleur et de
+     vivacité dans l’imagination.</p>
+    <p>On sait que l’éloquence du <rs ref="people.xml#shu02"> gr. chambellan</rs> a réprimé et
+     dissipé un attroupement qui se faisait à la porte de la salle ; l’on ajoute que ses gestes,
+     surtout ceux de ses coudes, ont fait impression sur la multitude.</p>
+    <p>Nous sommes chargés d’avertir le public que le même soir à minuit mademoiselle <persName
+      ref="people.xml#ros03"> Protassof</persName> a été enlevée par deux masques; l’habileté seule
+     du cocher la sauva: il feignit de se tromper de chemin et la ramena à <rs
+      ref="places.xml#pet02"> Monplaisir</rs>; ses ravisseurs alors se sauvèrent. Elle offre
+     récompense à ceux qui les dénonceront à la police.</p>
+    <p>On dit que les nouvelles à la main vont être suprimées et défendues par le gouvernement à
+     cause de quelques méprises que nos envieux veulent faire passer pour des médisances.</p>
+    <p><hi rend="bold">(F.)</hi></p>
+    <p><hi rend="bold">Prospectus.</hi></p>
+    <p>Une compagnie de plusieurs personnes qui savent lire et écrire ayant fait un voyage par terre
+     et par eau, il ne peut être trouvé que juste qu’à l’imitation de beaucoup d’autres leurs
+     remarques soient imprimées.</p>
+    <p>Les personnes intéressées sont requises de fournir les matériaux pour la confection de
+     l’ouvrage. En attendant qu’ils parviennent aux éditeurs, on propose d’ouvrir dès à présent une
+     souscription pour les frais de l’impression.</p>
+    <p>L’ouvrage pourra paraître par chapitres.</p>
+    <p>Le premier contiendra à peu près les raisons pour lesquelles l’ouvrage a été réduit en
+     chapitres, et à cause de cela on pourra l’intituler le chapitre des chapitres.</p>
+    <p>Le chapitre second traitera ou ne traitera pas de la pluie et du beau temps.</p>
+    <p>Les autres chapitres attendront leurs numéros et leurs titres des intéressés.</p>
+    <p>Esquisse du premier chapitre:</p>
+    <p>Il est tout simple que le présent ouvrage soit réduit en chapitres. Quiconque prend la plume
+     fera très bien de commencer par numéroter des chapitres; c’est autant de fait; on gagne par là
+     du temps, on attend patiemment que la pensée vienne au bout de cette plume prête à la tracer;
+     outre cela, les chapitres donnent l’agréable occupation de leur trouver des titres; ceux-ci
+     très naturellement font naître la matière, et voilà l’ouvrage mis en train sans que l’auteur
+     lui-même s’en aperçoive. NB. La continuation dépendra des matériaux qu’on fournira; il pourront
+     être ajoutés, prolongés, retranchés et raccourcis à volonté.</p>
+    <p>Croquis du second chapitre:</p>
+    <p>De la pluie et du beau temps.</p>
+    <p>Le beau et le mauvais temps tiennent une place notable, comme tout le monde le sait, dans le
+     chapitre des saisons, tout comme dans celui de la conversation; le chapitre des voyages en est
+     tout plein; ceux de la bonne et de la mauvaise humeur y tiennent souvent; celai de la santé en
+     dépend encore plus; il vient ail secours de ceux qui ne savent que dire; il se présente à ceux
+     qui entrent et qui sortent; on l’avale, on le sent, on s’en plaint, on le cherche, on le fuit,
+     on s’en sert comme de prétexte, on le couche par écrit, on le peint et le dépeint, on le laisse
+     aller comme il va; il vous suit, devance, accompagne, poursuit, vous laisse en arrière; il
+     passe, vient, s’en va, reste, dure; on le maudit, on le loue, on le prend comme il est, on ne
+     s’en aperçoit pas, il trompe votre attente. Pendant toute la route le temps a varié, les
+     remarques barométriques et thermométriques nous manquent, parce que la compagnie n’était pas
+     pourvue d’instruments nécessaires pour des observations de cette nature etc. etc. etc.</p>
+    <p>(G.)</p>
+    <p rend="bold">Epitaphe de <persName ref="people.xml#zem01"> Zémire</persName>.</p>
+    <p>Ici mourut <persName ref="people.xml#zem01"> Zémire</persName>, et les Grâces en deuil </p>
+    <p>Doivent jeter des fleurs sur son cercueil.</p>
+    <p>Constante dans ses goûts, à la course légère,</p>
+    <p>Comme <persName ref="people.xml#tho01"> Tom</persName> son aïeul, comme <persName
+      ref="people.xml#lad01"> Lady</persName> sa mère:</p>
+    <p>Son seul défaut était un peu d’humeur,</p>
+    <p>Mais ce défaut venait d’un très bon coeur.</p>
+    <p>Quand on aime, on craint tant! </p>
+    <p><persName ref="people.xml#zem01"> Zémire</persName> aimait tant Celle </p>
+    <p>Que tout le monde aime comme elle!</p>
+    <p>Croyez-vous qu’on aime en repos </p>
+    <p>Ayant cent peuples pour rivaux?</p>
+    <p>Les dieux, témoins de sa tendresse,</p>
+    <p>Devaient à sa fidelité </p>
+    <p>Le don de l’immortalité ,</p>
+    <p>Pour qu’elle fût toujours auprès de <rs ref="people.xml#cat01"> sa maîtresse.</rs></p>
+   </div>
+  </body>
+ </text>
+</TEI>

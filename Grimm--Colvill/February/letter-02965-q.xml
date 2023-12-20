@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02965</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02965</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is mention in this letter of Louise’s
+     (princess of Hesse-Darmstadt) sister being ill, but it’s unclear to which sister (Amalie or
+     Wilhelmine) Catherine II refers</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-17">17/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-20T17:30:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-20">20-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02965">
+  <body>
+   
+   <opener><dateline> Réponse au No 12, ce <date when-custom="1775-02-10">10 février 1775</date>,
+    de <placeName ref="places.xml#mos01">Moscou</placeName>.</dateline></opener>
+   <p>Je commence par où vous finissez, c’est à dire, par la future écritoire de M. le Mailly, que
+    vous aurez la bonté de commander en bonne et due forme et de convenir exactement du prix,
+    crainte de mésentendu, comprenez- vous? Cette écritoire a donné dans les yeux de mon général
+     <persName ref="people.xml#pot02"> Potemkine</persName>, qui l’а déjà placée au beau milieu du
+    chapitre de <orgName ref="orgs.xml#geor01">l’ordre de S. George</orgName>, chapitre qui est
+    encore à fonder, tout comme l’écritoire est à faire. Mais allons toujours en avant. Ayez la
+    bonté, encore une fois, d’avoir soin de l’écritoire, et nous nous chargeons de l’établissement
+    du chapitre et de ses commanderies, choses qui ne sauraient manquer, si vos voeux à l’occasion
+    des commencements d’année de tous les calendriers possibles seront exaucés, c’est à dire, pour
+    parler naturellement, si je me porterai bien et ne me trouverai encore de sitôt au nombre parmi
+    les décédés.</p>
+   <p>Il y a longtemps déjà que j’ai voulu vous demander des nouvelles des <title ref="works.xml#voltai01">tableaux d’Huber</title>. Dieu merci, vous commencez à en
+    rappeler la mémoire vous-même; j’attendrai donc ce que vous m’en direz, pour y répondre. Je ne
+    vous parlerai point du mariage de la <persName ref="people.xml#lou03"> princesse
+     Louise</persName>; c’est une affaire finie; la santé de sa soeur va de mal en pis, et nous
+    mourons de peur qu’elle ne dévienne hétique: elle en a tout plein de symptômes.</p>
+   <p>Vous trouvez donc ma lettre du 3 de décembre fort agréable; je n’en doutais pas, car je suis
+    toujours fort aimable quand j’ai la fièvre, et je l’avais alors. Aujourd’hui que je me porte à
+    merveille, j’ai tout lieu d’appréhender que ma lettre ne devienne moins bonne. Quand les
+    pruneaux de Tours seront arrivés, je les mangerai à votre santé; en attendant je vous en fais
+    mes remercîments tout comme si je les tenais. </p>
+   <closer><signed rend="inline">Mais, en vérité, en voilà assez pour aujourd’hui, et si mémoire ne me
+    manque, vous voilà avec trois pancartes déjà que j’ai expédiées de <placeName ref="places.xml#mos01">Moscou</placeName>, où je
+    ne suis encore établie que depuis quinze jours.</signed></closer>
+   <postscript><p>En relisant ma lettre j’ai trouvé que le mot de monsieur ne s’y trouve
+    point: je m’en vais le mettre à la fin, afin que vous puissiez le placer au moins une fois à
+    chaque page, et voilà la quantité que j’y destine: monsieur, monsieur, monsieur.</p></postscript>
+  </body>
+ </text>
+</TEI>

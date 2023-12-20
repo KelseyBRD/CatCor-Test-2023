@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01162</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01162</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Who is Fleming? Русский воевода? Don't know who the French ambassador is. Also,
+                    is the date 1764 a typo in the edition?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-19"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01162">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#gol01">деревни</placeName> Графа <persName
+                    ref="people.xml#orl06">Ивана Григорьевича Орлова.</persName><lb/>
+                <date when-custom="1767-06-04">Июня 4, 1764.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Я здесь ночевала, а после рбеда поеду в <placeName ref="places.xml#uly01"
+                    >Синбирск</placeName>, вчерась к вечеру один за другим мы двух Ваших куриеров
+                получили, и я все привезенныя ими депеши успела прочесть. Поведение <persName
+                    ref="people.xml#gus01">Короля Шведскаго</persName> в разсуждении нас весьма не
+                дружское, и истинно жалко видеть все <persName ref="people.xml#gus01">Их
+                    Величеств</persName> поведение; естьли б любили свое <placeName
+                    ref="places.xml#swe01">Государство</placeName>, то бы им все то приятно было,
+                что служит к благу той земли, над которой Бог им определил царствовать; а так как
+                теперь их поведение, то кажется, что они особой, и <placeName ref="places.xml#swe01"
+                    >Швеция</placeName> особой интерес имеют, и что они страстнее к себе и к своим
+                прихотям, нежели к своей земле, что весьма честному человеку слышать соблазно. Все
+                их поведение с <placeName ref="places.xml#fra01">Французским</placeName> Послом и
+                его прощание компрометирует их персоны и достоинство. Из поведения Воеводы Русскаго
+                и <persName ref="people.xml#fle01">Флеминга</persName> видно, кажется, и трусость, и
+                не точная их еще принятая резолюция. Что делать! Я чаю, сам Двор в такой же цветущей
+                системе. <placeName ref="places.xml#ist01">Цареградския</placeName> депеши я с
+                удовольствием прочитала: все, кажется, хорошо. Прощайте, <persName
+                    ref="people.xml#pau01">сыну</persName> моему прошу кланяться, мы все здоровы.
+                    <persName ref="people.xml#che01">Граф Захар Григорьевич</persName> уже со мною в
+                поход к <placeName ref="places.xml#mos01">Москве</placeName> повернется и далее не
+                поедетъ. Впрочем, желаю Вам здравствовать. Сия деревня в шести верстах от пригородка
+                    <placeName ref="places.xml#mai02">Маинск</placeName>, которой отчасти <persName
+                    ref="people.xml#orl06">брату</persName> Вашему нринадлежит, а он, я чаю, и от
+                роду в нем не бывал; а мы вчерась его луга потоптали, хлеб всякаго рода так здесь
+                хорош, как еще не видали; по лесам же везде вишни и розаны дикие, а леса инаго нет,
+                как дуб и липа, земля такая черная, как в других местах в садах на грядах не видят;
+                одним словом, сии люди Богом избалованы; я от роду таких рыб вкусом не едала, как
+                здесь, и все в изобилии, что себе представить можешь, и я не знаю, в чем бы они
+                имели нужду; все есть, и все дешево.</p>
+            <closer rend="inline"><signed>Впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

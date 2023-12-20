@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02820</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02820</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:28:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02820">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01">
+     Petersb</placeName>. ce <date when-custom="1785-02-22">22. Février 1785</date>.</dateline></opener>
+   <p>Je viens de recevoir, Monsieur, votre lettre du 28. Janvier, par laquelle vous m’accusés la
+    réception du paquet que vous avés reçu par la voie de mon ministre à <placeName
+     ref="places.xml#ham01"> Hambourg</placeName>. Vous ne vous doutés pas même de la reconnoissance
+    que je vous ai. <rs ref="works.xml#einsam01"> Votre livre</rs>, qu’au premier abord j’ai craint
+    d’ouvrir, parceque d’après son titre j’appréhendai qu’il n’augmenta les dispositions
+    hipocondriques, auxquelles je me sentois encline depuis quelques mois. Ce livre, dis je, est la
+    première chose qui en aye empêché et puis diminué l’accroissement <seg xml:lang="de"> diesem
+     Buche ist Kraft und Macht und Reizt der Seele</seg>; c’est je crois la meilleur antidote pour
+    ou plutôt contre les dispositions hipocondres qu’on puisse imaginer, à en juger d’après l’effet
+    que ce livre précieux a fait sur moi, tout bon médecin devroit l’inscrire sur le registre des
+    prescriptions de son art, et souvent il sera plus efficace que bien des drogues; pour lesquelles
+    votre ami <persName ref="people.xml#wei02"> Weikardt</persName> pourra vous dire, que je ne suis
+    point du tout portée, de façon que les comptes annuels de l’apoticairerie pour mon personnel
+    passent rarement les trente souls, quoique les gazettes m’ayent dite morte, mourante,
+    agonissante et dans un état valétudinaire, rien de tout cela n’a existé jusqu’ici. Aussi lorsque
+    j’aurai souhaité, que vous vinssiés ici, aucune consultation de l’art ne guidoit ce désir, mais
+    bien celui de faire la connoissance et de jouir de la conversation d’un homme d’esprit, de
+    capacité et de connoissance non commune. Telle est l’idée que j’ai conçue de vous, Monsieur ; le
+    feu Prince <rs ref="people.xml#orl01"> Orlof</rs>, notre ami commun, et bien d’autres n’ont pas
+    peu contribués à me la donner, mais surtout vos écrits. La franchise et la candeur, qui régne
+    dans vos lettres, augmenteroit mon envie de vous voir de plus près ; mais comme je vois que vous
+    ne pouvés vous exposer sans risque pour votre santé au mouvement de la voiture durant un aussi
+    long voyage, et le voyage de mer pouvant aussi avoir ses risques, je me fais une conscience, de
+    vous presser d’avantage sur cet article, d’autant plus que peutêtre la vie d’un grand nombre de
+    vos malades dépend de vos habiles soins et qu’ici, quoique je ne vous parlerai pas un mot de
+    médecine, assurément d’autres vous accableroient de consultations, et par conséquent vous
+    rendroient moins heureux que je ne désirerois de vous voir. Je préféré donc, quoiqu’à regret, ce
+    qu’il y a de plus sur pour vous, au plaisir de vous voir, Monsieur, quelque envie que j’en
+    aye.</p>
+   <p>Portés vous bien et jouissés en plein de la réputation que vos talens vous attirent. Je me
+    contenterai du plaisir de vous écrire de tems en tems, lorsque l’occasion s’en présentera. </p>
+   <closer><signed rend="inline">Adieu. <persName ref="people.xml#cat01" type="signature">
+    Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

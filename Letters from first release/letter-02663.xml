@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02663</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02663</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#turkey"/>
+                    <term target="kw.xml#moldavia"/>
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#germany"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                    <term target="kw.xml#request"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-19">19 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02663">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1770-12-09">ce 9 Décembre 1770</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Je ne mets point de bornes à ma confiance en Votre Majesté, comme en mon
+                        meilleur ami et mon plus fidèle allié, en Lui communiquant dans la plus
+                        grande confidence mon plan et mes pensées les plus secrètes sur ma
+                        pacification avec <placeName ref="places.xml#ott01">la Porte</placeName>. Le
+                        temps paraît propre à y travailler. Tous les évènements, postérieurs aux
+                        premières ouvertures de part et d'autre, doivent les acheminer à un but. Les
+                        Turcs n'ont à se louer d'aucun fait d'armes, qui ait dû changer, ni même
+                        refroidir leurs dispositions, et les miennes se fortifient naturellement, à
+                        mesure que j'acquiers une plus grande certitude de procurer à mes peuples
+                        une paix juste, honorable et sûre. C'est à cela que se rapportent uniquement
+                        mes conditions. Je me flatte que Votre Majesté les approuvera. Je ne choque
+                        les vues politiques de qui que ce soit. Il est même évident qu'il n'y a
+                        point de puissance Chrétienne impartiale, dont l'intérêt ne s'accorde
+                        parfaitement avec le mien, qui, comme Votre Majesté le voit et le sait,
+                        n'est autre que de détourner autant que possible toute nouvelle occasion de
+                        guerre avec mon ennemi. En faisant Votre Majesté dépositaire de toutes mes
+                        intentions, je suis dans la pleine persuasion, qu'Elle en fera le meilleur
+                        usage que je puisse attendre de son amitié et de sa discrétion, dans le
+                        temps et les circonstances qu'Elle même jugera les plus propres, pour
+                        défendre le fond de ma bonne cause, justifier la droiture de mes intentions,
+                        manifester mon désintéressement effectif et enfin accélérer la conclusion de
+                        la paix; toutes considérations sur lesquelles je me remets entièrement à la
+                        prudence, aux lumières et à la grande pénétration de Votre Majesté. Je dois
+                        ici specialement observer à Votre Majesté que le renvoi de <persName
+                            ref="people.xml#obr01">mon ministre Obrescoff</persName>, de la façon
+                        que je l'ai demandé, est et restera toujours comme un préalable
+                        indispensable à toute entrée en négociation, et même à toute ouverture
+                        quelconque. Pour cela Elle sait mon éloignement absolu à me prêter à cet
+                        arrangement de <placeName ref="places.xml#ott01">la Porte</placeName>, de
+                        faire négocier à <placeName ref="places.xml#ist01"
+                            >Constantinople</placeName> et d'y accréditer de nouveau mon ministre;
+                        mais si après m'avoir donné satisfaction sur ce point, qui tient si
+                        essentiellement à ma gloire personnelle et au bien de mon pays, les Turcs
+                        veulent envoyer leurs plénipotentiaires dans quelque place de la <placeName
+                            ref="places.xml#mol01">Moldavie</placeName> ou de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName>, j'y enverrai aussi les
+                        miens, et je regarderai comme un bon office de Votre Majesté, de faire
+                        travailler son <rs ref="people.xml#zeg01">ministre</rs> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName> à les y disposer. Dans
+                        les insinuations que Votre Majesté jugera à propos de leur faire faire, et
+                        dont Elle est entièrement la maîtresse, je sais que Sa prudence Lui dira,
+                        que mon plan, tel que je le Lui communique, n'a été rédigé que pour la
+                        confiance et l'amitié, et qu'il n'est pas de nature à être communiqué à un
+                        ennemi. Ce serait trop tôt, et quand le temps sera venu, il faudra
+                        l'apprêter sous une autre forme et dans d'autres termes. Je parlerai à
+                        présent à Votre Majesté des ménagements et de la conduite, que j'ai à tenir
+                        vis à vis de la cour de <placeName ref="places.xml#vie01">Vienne</placeName>
+                        dans l'état actuel des choses. Il n'y a entre moi et elle aucune ouverture
+                        directe sur l'article de ma paix, et comme elle se trouve, relativement à
+                        moi et à Votre Majesté, dans un système politique toujours équivoque par ses
+                        liaisons avec la <placeName ref="places.xml#fra01">France</placeName>, je ne
+                        croirais pas prudent de m'avancer vis-à-vis d'elle, plus que je n'ai fait
+                        par la note ministérielle du 29 Septembre dernier, en réponse aux premières
+                        ouvertures de la part de Votre Majesté, touchant la réquisition de
+                            <placeName ref="places.xml#ott01">la Porte</placeName> pour Votre
+                        médiation commune. Voilà donc des formalités, et encore après cela
+                        faudra-t-il que je mesure ma confiance sur ce que j'aurai raisonnablement à
+                        me promettre de sa sincérité. Le parti le plus court et le plus sûr pour
+                        moi, et tel que je le vois dans ma franchise et mes sentiments, est de ne
+                        connaître en ceci que Votre Majesté et de La prier, d'agir vis-à-vis de
+                        cette cour relativement à la participation qu'Elle doit avoir de mes vues et
+                        de mes intentions, comme Elle ferait pour Sa propre affaire. Toutefois je ne
+                        crois pas qu'il puisse Lui être confié une copie de mon plan, à moins que
+                        nous ne soyons bien assurés, qu'elle est revenue à de meilleurs principes
+                        sur mes affaires et qu'elle n'a pas cette partialité, qui
+                        quoiqu'incompatible avec son intérêt le plus clair, n'en est pas moins
+                        probable. Sa vraie façon de penser n'a pu échapper à Votre Majesté dans
+                        l'ouverture confidentielle qui s'est faite avec elle; elle est à portée de
+                        la pénétrer et de voir ce qu'on peut en attendre, en suivant la même voie de
+                        discuter l'objet de mes intérêts; ma confiance ira pas à pas à l'abri de
+                        celle de Votre Majesté. J'avoue d'un autre côté, que je ne voudrais point
+                        nuire par trop de réserve, ni par aucune marque d'éloignement vis-à-vis de
+                        cette cour, au bien qu'une plus grande intimité avec elle peut apporter à
+                        nos liaisons même. Si à la suite de cette intimité il était possible de la
+                        dégager du système absurde dans lequel elle est, et de la faire entrer dans
+                        nos vues, <placeName ref="places.xml#ger01">l'Allemagne</placeName> se
+                        verrait rendue à son état naturel, et la maison <placeName
+                            ref="places.xml#aus01"> d'Autriche</placeName> serait par d'autres
+                        perspectives détournée de ses vues sur les possessions de Votre Majesté, que
+                        ses liaisons actuelles entretiennent. </p>
+                    <closer>
+                        <signed>En attendant tout du temps, des circonstances et surtout de la
+                            prudence de Votre Majesté, je suis, avec les sentiments invariables de
+                            la plus parfaite estime et amitié, Monsieur mon Frère, de Votre Majesté
+                            la bonne Soeur, Amie et Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

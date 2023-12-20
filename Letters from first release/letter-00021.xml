@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00021</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00021</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#greatbritain"/>
+                    <term target="kw.xml#france"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-06">6 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, further markup.</p>
+            </change>
+            <change>
+                <date when="2015-05-03">3 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00021">
+                <body>
+                    <opener><salute rend="inline">Madame,</salute></opener>
+                    <p> Lorsqu'on vous a dit que le feu <persName ref="people.xml#wil02">prince de
+                            Holstein</persName> était le seul qui promettait, on vous a trompée: <rs
+                            ref="people.xml#pet02">son frère</rs> qui nous reste promet beaucoup
+                        plus que le défunt. C'est un très aimable enfant; voilà ce dont tout le
+                        monde convient; je lui trouve une ressemblance frappante avec ma mère: il a
+                        de la gaîté et de la vivacité, il est engageant. <rs ref="people.xml#wil02"
+                            >L'aîné</rs> était excessivement lourd et n'avait aucune facilité à
+                        s'énoncer.</p>
+                    <p>Vous vous plaignez des pluies et du mauvais temps, tandis que nous avons eu
+                        un été charmant et des fruits aussi excellents que la quantité en était
+                        abondante. Rien de plus vrai que la conclusion de <rs
+                            ref="events.xml#kuchu01">notre paix avec les Turcs</rs>. Je vous envoie
+                        des vers sur cette paix faite ici, et cela par un Russe: peut-être cela vous
+                        amusera-t-il, puisque vous vous intéressez à nous. Il est très vrai que
+                        cette paix a fait beaucoup de plaisir aux <rs ref="places.xml#eng01"
+                            >Anglais</rs>, comme Anglais.</p>
+                    <closer>
+                        <signed rend="inline">Adieu, madame, soyez assurée que je suis très
+                            reconnaissante de tous les témoignages d'amitié que vous me
+                            donnez. <persName ref="people.xml#cat01" rend="below">Catherine.</persName></signed>
+                        <dateline rend="right"><date when-custom="1774-08-29">Ce 29 d'août
+                                1774</date>, à <placeName ref="places.xml#pet01">St.
+                                Pétersbourg</placeName>.</dateline></closer>
+                    <postscript>
+                        <p>A propos, que dit-on dans vos cantons de <rs ref="people.xml#lou01">la
+                                nouvelle cour</rs> de <placeName ref="places.xml#fra01"
+                                >France</placeName>? J'ai vu un papier anglais dans lequel on la
+                            taxait d'être encore verte et peu mûre; cela m'a paru plaisant.<note
+                                type="editorial">When Louis XVI became king on 10 May 1774 (NS), he
+                                was not yet 20 years old.</note></p>
+                    </postscript>
+
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+
+                    <opener><salute rend="inline">Madam,</salute></opener>
+                    <p>When they told you that the late prince of Holstein was the only one to show
+                        promise, they deceived you: his brother who remains shows much more promise
+                        than the deceased. He is a most amiable child: on that everyone agrees. I
+                        find in him a striking resemblance with my mother: he is gay and vivacious,
+                        he is engaging. The elder was excessively ponderous and had no ability to
+                        express himself.</p>
+                    <p>You complain of the rains and the bad weather, whereas we have had a charming
+                        summer and fruits as excellent as they were abundant in quantity. Nothing is
+                        more true than the conclusion of our peace with the Turks. I am sending you
+                        some verses on this peace that were written here, and moreover by a Russian:
+                        perhaps that will amuse you, since you take an interest in us. It is very
+                        true that this peace has greatly pleased the English, as Englishmen.</p>
+                    <closer>
+                        <signed rend="inline">Farewell, madam, rest assured that I am very grateful
+                            for all the marks of friendship that you show me. <persName
+                            rend="below">Catherine.</persName></signed>
+                        <dateline rend="right"><date when-custom="1774-08-29">This 29 of August
+                                1774</date>, at St. Petersburg.</dateline></closer>
+                    <postscript>
+                        <p>By the way, what are they saying where you are about the new court of
+                            France? I saw an English paper in which it was accused of being still
+                            green and unripe, which I found funny.</p>
+                    </postscript>
+
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

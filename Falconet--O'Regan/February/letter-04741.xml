@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04741</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04741</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-15">15/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:04:34Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04741">
+        <body>
+        
+            <p>
+                En réponse à votre lettre du 23 Mai, je vous dirai qui je me porte bien: le
+                    voyage pour l’autre monde était un badinage, et la fièvre m’a quittée il у a
+                    plus de huit jours. Je trouve M-lle
+                <persName ref="people.xml#col02"> Collot</persName> bien aimable de rêver avec
+                    autant de diligence; je verrai avec bien du plaisir son ouvrage, j’en juge par
+                    ses ouvrages que j’ai vus, et d’où vient donc qu’elle n’a point autant de marbre
+                    qu’il lui en faut? Est-ce qu’il n’y en aurait pas dans mes magasins ou à
+                    l’<rs ref="orgs.xml#impe03"> Académie</rs>?</p>
+            <p>
+                Si votre coursier s’animait dans votre atelier comme autrefois <rs
+                    ref="works.xml#pygmal01"> la statue de Pygmalion</rs>, il ferait un terrible
+                    ravage, à la mine qu’il a. Cela me fait souvenir de ma terre cuite de <rs
+                    ref="works.xml#pygmal01"> Pygmalion</rs> à laquelle l’on pourrait dire
+                «ora pro nobis», avec bien plus de vraisemblance qu’on n’adressait des vœux
+                    à la fièvre il y a deux mille ans.</p>
+            <p>
+                J’ai oublié de vous accuser la réception de la lettre et de la feuille
+                    d’observations très-bonnes sur le 9 ch. de <rs ref="works.xml#ordren01"
+                    > l'ordre naturel</rs>, je commence à
+                    croire que cet homme-là ne croit pas en Dieu, il arrange son ordre naturel comme
+                    les athées arrangent la création du monde, et puis il vous plante là. Si cette
+                    idée ne vous paraît pas juste, vous aurez la bonté d’en faire la critique. Je
+                    garde le fragment de la lettre à M-r <persName ref="people.xml#did01"
+                        >Diderot</persName>, et je conviens des
+                    beaux raisonnements que vous faites à ce sujet vous-avez beau dire le petit
+                    modèle sera effacé, si vous ne l’avez pas écrit, vous l’avez dit et si vous ne
+                    l’avez pas dit, il n’y a pas de doute que vous le ferez. Je serais bien fâchée
+                    si vous raccourcissez vos propos, je les trouve très-bons.</p>
+            <p>Je ne me souviens point d’avoir vu ici aucun portrait peint ou grave
+                    d’<persName ref="people.xml#hen01"> Henri quatre</persName>, il est
+                    vrai que le C-te
+                <persName ref="people.xml#orl01"> Orlof</persName> prétend en avoir un dans la
+                    maison dite <rs ref="places.xml#ste01"> Stegleman</rs>, que je n’ai
+                    jamais vue qu’à la bougie; il est dans une chambre à côté de la salle où il y a
+                    toutes les têtes couronnées et non couronnées du monde, pêle-mêle, et
+                    <persName ref="people.xml#hen01"> Henri quatre</persName> est entre la
+                    porte de la salle et le fourneau, tout en haut. Le C-te
+                <persName ref="people.xml#orl01"> Orlof</persName> n’est pas ici, mais son
+                    frère, le C-te
+                <persName ref="people.xml#orl03"> Alexis Orlof</persName>, votre bon ami, est à
+                    <placeName ref="places.xml#pet01"> Pétersbourg</placeName> et peut-être
+                    pourra-t-il le procurer à M-lle
+                <persName ref="people.xml#col02"> Collot</persName>. </p>
+            <closer><signed rend="inline">Adieu, Monsieur <persName ref="people.xml#fal01">
+                    Falconet</persName>, portez- vous bien.  <persName ref="people.xml#cat01" type="signature" rend="inline">
+                    Catherine</persName>.</signed>
+      
+            <dateline> Ce <date when-custom="1767-05-24">24 Mai 1768</date>.</dateline></closer>
+        </body>
+    </text>
+</TEI>

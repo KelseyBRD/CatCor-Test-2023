@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02821</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02821</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#history"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:28:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02821">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01">Petersb.</placeName> ce <date
+      when-custom="1785-05-09">9. May 1785</date>.</dateline></opener>
+   <p>Je viens de recevoir votre charmante lettre, Monsieur, du 29. Mars. Je suis enchantée de voir
+    que la mienne a dissipé les nuages, dont vous étiés entouré. Elle vous a rendu en quelque sorte
+    le même office que j’ai reçu de votre livre, les épines que vous m’avés montré, m’ont tiré de la
+    solitude, dans laquelle pendant près de neuf mois je m’étois presque confinée et dont j’ai eue
+    de la peine à sortir. Vous ne vous douterés guère de ce que j’y faisois ;pour la rareté du fait
+    je vous le dirai. Je noyois mon ennui dans un fatras inoui jusqu’ici. J’ai fait un registre de
+    deux à trois cent mots radicaux de la langue Russe, ceuxci je les ai fait traduire dans autant
+    de langues et jargons que j’ai pu trouver, le nombre déjà en dépasse la seconde centaine. Tous
+    les jours je prenois un de ces mots et je l’écrivois dans toutes les langues que je pouvois
+    ramasser. Ceci m’a appris que le Celte ressemble à l’Ostiaque; que ce qui veut dire „ciel“ dans
+    une langue signifie „nuage“, brouillard“, „ voûte“ dans d’autres : que le mot „Dieu“ dans de
+    certains dialectes désigne le très haut ou le bon, dans d’autres le soleil ou le feu. <seg
+     xml:lang="de"> Dieses Steken-Pferdgen wurde ich überdrüssig, nachdem das Buch von der
+     Einsamkeit durchgelesen war</seg>. Mais comme cependant j’aurois eu du regret de jetter au feu
+    une si grande masse de papier; la salle de dix toises de long que j’habitois en guise de cabinet
+    dans mon <placeName ref="places.xml#her01"> hermitage</placeName> étoit d’ailleurs assés chaude,
+    je fies prier le professeur <persName ref="people.xml#pal02"> Pallas</persName> de venir chés
+    moi, et après la confession exacte de ma part de ce péché nous sommes convenus, de rendre par
+    l’impression ces traductions utiles à ceux qui auroient envie de s’occuper de l’ennui d’autruy;
+    on n’attend plus à cet effet que quelques dialectes de la <placeName ref="places.xml#sib01"
+     >Sibérie</placeName> orientale. Y verra ou n’y verra pas qui voudra des choses lumineuses de
+    plus d’un genre, cela dépendra de la disposition d’esprit respective de ceux qui s’en
+    occuperont, et ne me regarde plus du tout ; peutêtre cela fera-t-il quelque miracle approchant
+    de celui que St. Antoine habillé par vous, Monsieur, a opéré sur moi. Les deux tomes de cet <rs
+     ref="works.xml#einsam01"> excellent livre</rs> que vous me promettés, seront les très bien
+    venus, je n’ai que faire de vous dire le cas que j’en fais, je me flatte que vous en êtes
+    persuadé. Notés, s’il vous plait, que tout ceci doit servir de réponse à votre lettre et que me
+    voilà parvenu à l’endroit, où vous me parlés d’une manière aussi touchante que conforme à mes
+    pensées de mon Prince <persName ref="people.xml#orl01"> Orlof</persName>. Oui, Monsieur, cet
+    homme unique et vraiment grand, mais si peu compris par ses contemporains, vous le decrivés tel
+    qu’il étoit, vous et moi nous le regretterons toujours. Son courage, ses vertus héroiques ont eu
+    deux occasions célèbres, où elles se sont déployées dans leurs vrai jour. La dernière la peste
+     de <placeName ref="places.xml#mos01">Moscow</placeName>, dont vous me parlés, j’en ai perpétué
+    la mémoire par l’аrc de triomphe en marbre de <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName>, dont  l'inscription dit simplement „<persName ref="people.xml#orl01"
+     >Orlof</persName> a délivré la ville de <placeName ref="places.xml#mos01">Moscow</placeName> de
+    sa ruine totale“, ce qui est aussi vrai que celle de la médaille qui vous a plu et que je vous
+    envoyé ; elle est accompagné par celle de son frère, frappée à l’occasion de la fameuse <name
+     ref="events.xml#chesm01"> bataille</name> de <placeName ref="places.xml#che02">
+     Tschesma</placeName>, qui réduisit les forces navales de la sublime <placeName
+     ref="places.xml#ott01">Porte</placeName> pour longtems à une inaction totale; ces deux
+    médailles sont un rare exemple dans une même famille et n’en prouvent pas mal les vertus
+    glorieuses pour les individus et utiles à leurs patrie.</p>
+   <p>Votre ami <persName ref="people.xml#wei02"> Weikard</persName> dans ce momentci est incommodé
+    d’un rhumatisme à la hanche, pour lequel il a épuisé tous les remèdes et que peutêtre je
+    guérirai moi qui ne suis point médecin. Pour ma santé elle continue à être telle que vous me la
+    souhaités. Je ne puis finir ma lettre sans vous marquer ma sensibilité au sujet de tout ce que
+    j’y trouve d’agréable et de dateur pour moi, sachés, s’il vous plait, que votre façon
+    d’envisager les choses ne m’est rien moins qu’indifférente. Ceci vous prouve de reste l’estime
+    qu’en fait</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">
+    Catherine.</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

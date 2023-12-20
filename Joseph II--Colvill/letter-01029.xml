@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01029</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01029</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-03">03-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:12:30Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01029">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1781-12-07"
+     >7/18 décembre 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre que je viens de recevoir de V. M. I. du 1<hi rend="superscript"
+    >er</hi> décembre, et que j’ai trouvée jointe à celles de <rs ref="people.xml#pau01 people.xml#mar02">
+     mes enfants</rs>, en me peignant les intentions de V. M. I, m’instruit en même
+    temps de Ses bontés pour le <rs ref="people.xml#pau01 people.xml#mar02">comte et la comtesse du
+     Nord</rs>. Le souhait de mon coeur rempli de la plus parfaite reconnaissance vis-à-vis de V. M.
+    I, ne peut être que celui de voir <rs ref="people.xml#pau01 people.xml#mar02">mes enfants</rs>
+    répondre en toute occasion aux désirs de V. M. I. avec l’ardeur et l’empressement que produisent
+    sur les âmes sensibles d’aussi grands avantages. A en juger par leurs lettres, ils sentent leur
+    bonheur et se trouvent heureux, contents et reconnaissants sous les auspices de V. M. I. Puisse
+     <rs ref="people.xml#pau01"> mon fils</rs> profiter des grandes leçons tracées dans les paroles,
+    dans les actions et dans chaque pas de <persName ref="people.xml#jos01"> l’Empereur Joseph
+     second</persName>. Le peu d’empressement du <rs ref="people.xml#pau01 people.xml#mar02">comte
+     et de la comtesse du Nord</rs> à fixer le temps de leur départ, et la tournée qu’ils vont
+    faire, je l'attribue aux distractions de leur bien-être à <placeName ref="places.xml#vie01"
+     >Vienne</placeName>. Je leur en ai fait la question en cas qu’ils n’y aient pas pensé
+    jusqu’ici, et j’ose implorer l’indulgence de V. M. I. pour les inadvertances et l’inexpérience
+    de la jeunesse.</p>
+   <p>Je suis de l'avis de V. M. I. que<hi rend="subscript">;</hi> si le parlement d’<placeName
+     ref="places.xml#eng01">Angleterre</placeName> ne sera pas orageux à cette séance-ci, il n’y a
+    plus rien à attendre de lui, mais il me semble qu’il voit broncher son gouvernement à chaque pas
+    depuis vingt ans, et qu’il ne donne les guindés de la nation que pour faire payer à chaque
+    individu l’approbation des fausses mesures du ministère. Il y aurait cependant selon <seg
+     xml:lang="en"> Mylord</seg>
+    <persName ref="people.xml#pit02"> Chatham</persName> et moi plus d’un moyen de relever leur
+    nation, mais comme commédiateur de la paix il ne m’appartient pas d’occuper mon imagination de
+    projets de guerre.</p>
+   <closer><signed>Que V. M. I. daigne recevoir les assurances de l’invariabilité de mes
+    sentiments, étant avec l’amitié la plus sincère et la plus haute considération ....</signed></closer>
+  </body>
+ </text>
+</TEI>

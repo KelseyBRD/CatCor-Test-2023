@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08217</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08217</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not identify a Kossakowski whose dates/bio seemed to match what Catherine talks about
+     here; Could not find the location Rouchzoug</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:18:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08217">
+  <body>
+   <opener><dateline> ce <date when-custom="1771-11-16">16/27 novembre
+    1771</date>.</dateline></opener>
+   <p>Il y а des temps où l'on dirait que le concours de diverses circonstances se rassemble tout
+    exprès pour nous attrister ou pour nous réjouir. La lettre de V. A. R. du 4 de ce mois, si
+    remplie de témoignages de cette amitié qu'Elle veut bien m’accorder, m’est parvenue dans le
+    temps que je recevais de tous côtés de nouvelles très agréables, et elle a beaucoup contribué à
+    augmenter la satisfaction que je sentais de ce que bien des choses prenaient un tour plus
+    favorable qu'elles ne paraissaient avoir il y a deux mois. V. A. R. ne doute point, j'espère, de
+    ma reconnaissance envers Elle, ni de la part que je prends aux inquiétudes qu’Elle a senties de
+    l’état critique dans lequel se sont trouvés S. A. R le prince <persName ref="people.xml#aug06">
+     Ferdinand</persName> et la <rs ref="people.xml#ann03"> princesse son épouse</rs>. J’espère et
+    souhaite que la réconvalescence du <rs ref="people.xml#aug06"> prince</rs> soit aussi prompte et
+    aussi parfaite que l'a été celle de mon fils, qui depuis sa maladie paraît être devenu plus
+    robuste qu'il ne l’était ci-devant.</p>
+   <p>L'intérêt que V. A. R. a la bonté de prendre à ce qui me regarde, m'enhardit à Lui conter ce
+    dont mon cœur est rempli. La <rs ref="events.xml#plagu01"> maladie</rs> de <placeName
+     ref="places.xml#mos01">Moscou</placeName> est réduite à un cinquième de ce qu'elle était, grâce
+    aux soins et à l’intelligence du comte <persName ref="people.xml#orl01">Orlof</persName>. Il a
+    su outre cela si bien ranger l'esprit fanatique à l'obéissance, que non seulement il n'est plus
+    question de miracles, mais même il ne permet pas au peuple l'entrée des églises pour entendre la
+    messe, parceque, nos églises étant petites et tout le monde se tenant debout, la presse qu’il y
+    a ordinairement peut augmenter l'infection. Ainsi le peuple pendant le service divin reste en
+    dehors des églises, ce qui s'exécute à la lettre. Autre règlement salutaire, en dépit des
+    cagots, c'est la défense d'enterrer dans les églises et les cimétières de la ville. <persName
+     ref="people.xml#orl01"> Le comte</persName> a fait de sa propre maison un hôpital, il a pris
+    une des miennes pour le même usage, après quoi chaque quartier de la ville en a fourni une. A
+    l'aide d'autres arrangements, aussi utiles qu'exacte- ment exécutés, le mal diminue
+    considérablement de jour en jour et nous laisse le loisir de prêter attention aux nouvelles
+    reçues des frontières.</p>
+   <p>Le comte <persName ref="people.xml#rum01">Roumanzof</persName> a fait attaquer les <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> en cinq endroits à la fois. Le général-major <persName
+     ref="people.xml#wei03"> Weisman</persName> a passé le <placeName ref="places.xml#dan01"
+     >Danube</placeName>, s'est emparé de <placeName ref="places.xml#tul02"> Toultcha</placeName>,
+    de là il est est allé trente werstes plus avant dans les terres, a pris <placeName
+     ref="places.xml#bab02"> Babadagh</placeName> et a chassé le <persName ref="people.xml#sil01">
+     Grand-Visir</persName> de son camp après avoir défait ses troupes, honneur, je crois, qu'aucun
+    général-major n'a eu jusqu'ici. Il a pris ce camp de même que tous les canons et nommément ceux
+    que <persName ref="people.xml#tot01"> Mr. Thot</persName> avait fondus l'année passée
+     à <placeName ref="places.xml#ist01">Constantinople</placeName>. Puis, retournant sur ses pas,
+    il s'est emparé d'<placeName ref="places.xml#isa02"> Isaktchi</placeName>, dont il a fait sauter
+    les fortifications de même que celles des chateaux de <placeName ref="places.xml#bab02">
+     Babadagh</placeName> et de <placeName ref="places.xml#tul02"> Toultcha</placeName>. Dans le
+    même temps le gén.-major <persName ref="people.xml#mil05"> Miloradowitch</persName> a aussi
+    passé le <placeName ref="places.xml#dan01">Danube</placeName> et s'est emparé des forts de
+     <placeName ref="places.xml#mac01"> Matchina</placeName> et de Girsova, qu'il a fait sauter
+    pareillement. Tandis qu'au delà du <placeName ref="places.xml#dan01">Danube</placeName> les
+     <orgName ref="orgs.xml#turk01"> Turcs</orgName> fuyaient de tous côtés, le lieut.-général
+     <persName ref="people.xml#ess01"> Essen</persName> a battu un corps de 40 mille <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> qui s’était avancé dans la <placeName
+     ref="places.xml#wal01">Valachie</placeName> et a réoccupé <placeName
+     ref="places.xml#giu01"> Giurgevo</placeName> que les <orgName ref="orgs.xml#turk01">
+     Turcs</orgName> ont abandonné à l'approche de nos troupes. Les troupes sous le commandement du
+    lieut.-général <persName ref="people.xml#bib01"> Bibicof</persName>, après la défaite de Mr.
+     <persName ref="people.xml#ogi03"> Oginski</persName> ont encore battu <persName
+     ref="people.xml#pul01"> Poulawski</persName> et Kossakowski. Je voulais faire rendre à Mr.
+     <persName ref="people.xml#ogi03"> Oginski</persName> ses clarinettes et ses haut-bois pris
+    parmi les équipages, mais on ne sait où le trouver. J’attends présentement des nouvelles de
+    l’entreprise du gén.-major <persName ref="people.xml#pot01">Potemkin</persName> sur Rouchzoug et
+     <placeName ref="places.xml#sil01"> Silistria</placeName>, ce qui achèverait de nettoyer la rive
+    opposée du <placeName ref="places.xml#dan01">Danube</placeName>. Après tout ce charivari un peu
+    de paix ne ferait aucun mal, je la souhaite sincèrement, et il faut espérer que les vapeurs
+    échauffantes montées aux cerveaux s'abaisseront avec toute la gravité propre aux brouillards
+    épais, même sans le concours des disciples d'Esculape. Ceux-ci ont dérangé ma partie de piquet
+    en expédiant dans l'autre monde <persName ref="people.xml#cat08">Milady
+    Cathcart</persName>. J'espère bienque V. A. R. prendra part à mon affliction à ce sujet. Mais
+    quoiqu'il en soit, je La prie d'être assurée ....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03667</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03667</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not find any information on the Pavlof mentioned in the letter from Bezborodka.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-26">26-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:54:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03667">
+  <body>
+   <div>
+    <opener><dateline> 1790. А <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1790-06-24">24 juin</date> v. st., jour de la S<hi rend="superscript">t
+      </hi>Jean et anniversaire de la fameuse journée de <placeName ref="places.xml#che02">
+       Tchesma</placeName>.</dateline></opener>
+    <p>Avant-hier nous reçûmes un courrier du vice-amiral <persName ref="people.xml#nas01"> prince
+      de Nassau</persName> avec la nouvelle qu’arrivé le 21 juin avec sa flotte à rames dans le
+     détroit <placeName ref="places.xml#bio01"> Berezof</placeName> ou autrement dit <placeName
+      ref="places.xml#bio01"> Biörkö-sund</placeName>, il rencontra l’ennemi, et après une canonnade
+     de cinq heures, il chassa les Suédois plus loin dans la baie de <placeName
+      ref="places.xml#vib01"> Vibourg</placeName>, et prit son poste à la hauteur de l’église de
+      <placeName ref="places.xml#bio01"> Biörkö</placeName>.</p>
+    <p>Hier au matin nous reçûmes un courrier du <persName ref="people.xml#sal01"> g-l comte
+      Soltikof</persName> de <placeName ref="places.xml#vib01"> Vibourg</placeName>, par lequel nous
+     apprîmes, les nouvelles de ce qu’on a vu des côtes, savoir: le 22 juin à 8 heures du matin la
+     grande flotte des Suédois, avec un vent favorable, fit voile pour passer à travers les
+     vaisseaux russes qui la tenaient bloquée dans la baie de <placeName ref="places.xml#vib01">
+      Vibourg</placeName> depuis le 27 mai; en approchant près des vaisseaux commandés par le
+      <persName ref="people.xml#pov01"> contre-amiral Povalichine</persName>, la canonnade commença
+     bientôt après, et l’on dit avoir vu sauter en l’air 5 vaisseaux suédois et que le sixième fut
+     pris.</p>
+    <p>La canonnade continua aussi avec l’escadre du <persName ref="people.xml#kha01"> contre-amiral
+      Khanikof</persName>, qui prit aux Suédois 3 vaisseaux de ligne, 1 frégate, 2 galères et
+     quelques bâtiments de moindre grandeur.</p>
+    <p>Alors la déroute de l’ennemi devint générale: toutes ses forces maritimes prirent la fuite
+     dans le plus grand désordre: les grands vaisseaux du côté d’<placeName ref="places.xml#asp01">
+      Aspö</placeName>, les bâtiments à rames dans les skârs entre les îlots de la côte. Les
+     premiers sont poursuivis par la grande flotte russe sous les ordres de <persName
+      ref="people.xml#chi01"> l’amiral Tchitchagof</persName>, les seconds par le <persName
+      ref="people.xml#nas01"> prince de Nassau</persName>, qui doit avoir pris un grand nombre de
+     galères et de chaloupes canonnières à l’ennemi. Nous attendons les nouvelles ultérieures et les
+     détails de cette défaite signalée des Suédois de messieurs les amiraux eux-mêmes, qui, trop
+     occupés pour le moment de la poursuite de l’ennemi, n’ont pas le temps apparemment de tailler
+     des plumes; outre cela le vent favorable à la poursuite ne l’est pas dans ce moment pour
+     envoyer en arrière des bâtiments. Adieu. Portez-vous bien.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-06-24">24 juin 1790</date>, jour de la St Jean,
+      autrement dite journée de la fameuse <name ref="events.xml#chesm01"> bataille de
+        <placeName ref="places.xml#che02">Tchesma</placeName></name>.</dateline></opener>
+    <p>Hier au matin, tandis que je vous écrivais, il arriva un courrier du <persName
+      ref="people.xml#sal04"> g-l comte Soltikof</persName> expédié de <placeName
+      ref="places.xml#vib01"> Vibourg</placeName>, qui apporta la nouvelle que la veille le
+      <persName ref="people.xml#nas01">prince de Nassau</persName> ayant chassé le <persName>roi
+       de <placeName ref="places.xml#swe01">Suède</placeName></persName> du <placeName
+      ref="places.xml#bio01"> sund de Biörkö</placeName>, il s’était fait un engagement entre les
+     deux grandes flottes (le <persName ref="people.xml#nas01"> prince de Nassau</persName> et le
+     roi commandent les petites flottes à rames); trois heures après un autre courrier du <persName
+      ref="people.xml#sal04"> c. Soltikof</persName> nous apprit que de la côte on avait vu cinq
+     vaisseaux de guerre suédois sauter en l’air, et voici depuis ce moment-là que nous sommes 27
+     heures sans savoir un seul mot de plus; voilà une situation un peu pénible, n’est-il pas vrai?
+     Mais au moment où je vous écris ceci arrive un courrier du <persName ref="people.xml#sal04">
+      g-l comte Soltikof</persName>, qui m’annonce la déconfiture suédoise telle qu’on l’a vue des
+     côtes. Messieurs les amiraux occupés encore à la rendre plus parfaite, et par conséquent
+     n’ayant pas le temps encore de tailler leurs plumes, je vous manderai par <persName
+      ref="people.xml#bac01"> Bacchus</persName> tout ce que nous en savons et saurons.</p>
+    <p>A présent je continuerai à vous, répondre; j’en suis à l’endroit du commentaire: <hi
+      rend="italic">avec adresse et finesse, à coeur ouvert</hi>. Vous voyez combien de monde est
+     employé à chasser le ver rongeur de votre coeur et que dans la <placeName
+      ref="places.xml#bal01">Baltique</placeName> seule <persName ref="people.xml#chi01"> l’amiral
+      Tchitchagof</persName>, le héros du moment, les vice-amiraux <persName ref="people.xml#kru03">
+      Kruse</persName>, <persName ref="people.xml#mus02"> Pouchkine</persName>, <persName
+      ref="people.xml#nas01"> prince de Nassau</persName>, les contre-amiraux <persName
+      ref="people.xml#pov01"> Povalichine</persName>, <persName ref="people.xml#kha01">
+      Khanikof</persName>, <persName ref="people.xml#koz01"> Kozlaïninof</persName> et <persName
+      ref="people.xml#odi02"> Odintsof</persName> y vont de la bonne manière sur l’onde, sans
+     compter tous les bras, têtes et pieds employés depuis la <placeName ref="places.xml#bla01">Mer
+      Noire</placeName> jusqu’ici, et qui en vérité sont farcis d’expérience et de bonne volonté,
+     d’un courage et d’une intrépidité peu commune. Le <persName ref="people.xml#lig01"> prince de
+      Ligne</persName> disait qu’en aucun pays il n’avait trouvé des gens plus expérimentés et plus
+     rompus au service que chez nous. Ils ont fait la barbe à tout le monde, et avec l’aide de Dieu
+     ils la feront à <rs ref="people.xml#gus01"> Mons. Gu</rs> mieux qu’à personne. <seg
+      xml:lang="de"> Sie werden ihn schon höflich machen; der dummen Tölpel ist grob und mit seinem
+      drei angetrauten Weibern</seg>; il a l’air d’un fils de parvenu auquel son père a laissé une
+     maison opulente et qui, ne connaissant pas la peine qu’il en a coûté et les ménagements que
+     l’autre y a portés, se croit tout permis; <seg xml:lang="de"> der dumme Teufel! Nu, nu, das
+      wird auch wohl einmal ein Ende nehmen. Gott der Herr wird ihn strafen, das ganze Gebäude ruhet
+      ja nur auf der Sandbüchse, und wird auch wieder zu Sand und Staub werden: Geduld, Geduld und
+      Zeit macht möglich die Unmöglichkeit; die Hetzhunde haben sich schon einigermaßen vergasst und
+      mit der Rase an der Wand gestoßen. Und der größte Hetzer sieht doch selber das er auch einem
+      dummen Teufel vor sich hat, auf den er wenig rechnen kann, wenn es zur That kommt</seg>. Ainsi
+     dormez tranquillement.</p>
+    <p>Pour ce qui regarde le second point qui vous tourmente au sujet de la fortune vacillante de
+      <rs ref="people.xml#bue01"> votre élève</rs>, vu l’état général du <rs ref="places.xml#fra01">
+      pays que vous habitez</rs>, je trouve votre résignation très belle assurément, mais il faut
+     pourvoir au moment, et à cet effet j’ai ordonné de vous envoyer six mille roubles, dont vous
+     paierez ce que je dois, et le reste vous servira à quoi il vous plaira de l’employer; six
+     autres mille roubles seront déposés ici à la maison des enfants trouvés, afin que vous en
+     fassiez, ou du revenu ou du capital, tout ce qu’il vous plaira. Je les ai mis là, parce que je
+     crois cette maison plus sûre que tous les endroits de l’argent en <placeName
+      ref="places.xml#fra01">France</placeName> et où l’on ne paie plus du tout. Or, si ceci n’a pas
+     le sens commun, vous me le direz. Des <seg xml:lang="de"> Türkensteuer</seg> et des charges ou
+     d’impôts de guerre excepté les recrues, jusqu’ici nous n’en avons pas eu de besoin malgré les
+     traîtres et leurs adhérents. Pour un poste d’envoyé ou en <placeName ref="places.xml#ita01"
+      >Italie</placeName> ou en <placeName ref="places.xml#ger01">Allemagne</placeName>, volontiers
+     je vous l’accorderai lorsque vous en souhaiterez.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-06-25">25 juin, 1790</date>.</dateline></opener>
+    <p>La déconfiture des flottes suédoises doit être complète, mais de huit jours nous n’en aurons
+     pas ramassé tous les détails; je vous ai envoyé hier par <persName ref="people.xml#bac01">
+      Bacchus</persName> un échantillon de la première journée. <rs ref="people.xml#gus01"> S. M.
+      suédoise</rs> et probablement M. <rs ref="people.xml#cha01"> son frère</rs> avec un Anglais
+     nommé <persName ref="people.xml#sch06"> Schmidt</persName> que <rs ref="people.xml#gus01"> S.
+      M.</rs> ne quitte pas de vue ni jour ni nuit, se sont mis sur une barcasse entre deux bâteaux
+     de provisions, et ainsi se sont enfuis, tandis que les vaisseaux et, bâtiments de guerre se
+     battaient; voilà par exemple ce que je n’aurais pas fait, parce que cela prouve qu’on craint
+     pour sa peau. Moi bonnement j’aurais dit à mes flottes: «Messieurs, vos dangers sont les miens;
+     où vous serez, j’y serai aussi; vivons et mourons ensemble». Mais de fuir au plus fort du
+     danger, c’est le crime d’un lâche et non pas une erreur; oh, les vilains poltrons! ils me font
+     horreur. <seg xml:lang="de"> Das sind Schurken auf gut Deutsch</seg>. Allons donc, je ne veux
+     pas que vous étouffiez: défaites-vous de ce mal-là et des angoisses: il n’y a pas de quoi en
+     avoir, et vous voyez que vos voeux sont de nouveau couronnés, comme vous dites, des plus
+     brillants succès. J’ai un rapport d’un piquet de cosaques de la côte, daté du 23, qui contient
+     trois mots remarquables. <hi rend="italic">L’officier dit les nôtres en mer </hi><hi
+      rend="bold">prennent</hi>, <hi rend="bold">brûlent</hi> et <hi rend="bold">pressent</hi> <hi
+      rend="italic">les ennemis</hi>. Votre très humble serviteur. Mais puisqu’en <placeName
+      ref="places.xml#fra01">France</placeName> vous convenez qu’il n’y a plus d’agréments, ce
+     pays-là a donc perdu sa première qualité, et aux agréments ont succédé les honneurs. Quelle
+     chute! Les ronces vont croître sur les grands chemins; Sully se réjouissait de ce que son cher
+      <persName ref="people.xml#hen01"> Henri IV</persName> les avait fait disparaître; jamais je
+     n’ai tant lu et relu la <title ref="works.xml#henria01"> Henriade</title> et tous les mémoires
+     de ce temps-là que pendant cet hiver.</p>
+    <p>Il faudra que <orgName ref="orgs.xml#nati01"> l’assemblée nationale</orgName> fasse jeter au
+     feu tous les meilleurs auteurs français et tout ce qui a répandu leur langue
+      en <placeName ref="places.xml#eur01">Europe</placeName>, car tout cela dépose contre l’abominable
+     grabuge qu’ils font. Jusqu’ici on regardait comme méritant la potence quiconque s’avisait de
+     méditer la ruine d’un pays, et voilà toute une nation ou plutôt mille deux cents députés de
+     cette nation qui s’en occupent. Si on en pendait quelques-uns, je pense que le reste se
+     raviserait; il faudrait commencer par leur ôter les dix-huit livres qu’on donne à chaque
+     député, et alors ces pauvres diables iraient regagner leur pain à leurs métiers et faire une
+     loi qu’aucun avocat n’y fût admis, car cela fait un tas de chicaneurs, contre lesquels dans
+     tout pays l’on fait des lois, même très sévères, et en <placeName ref="places.xml#fra01"
+      >France</placeName> de ces roquets-là on a fait des législateurs. Ces canailles-là sont comme
+     le marquis <persName ref="people.xml#pug01">Pougatchef</persName>, dont je disais toujours que
+     personne plus que lui n’est persuadé comme quoi il est un scélérat. Ces avocats, quand et selon
+     qu’on les payait, soutenaient ci- devant le vrai et le faux, la justice et l’injustice; je
+     chasserais moi les personnes et ne combattrais pas par parcelles ce qu’ils ont fait ou font;
+     cela viendra après, mais l’on dit que le maître se plaît à cette bourgeoiserie, et voilà ce qui
+     ne détruira point la chose. Le royaume est à plaindre, et tous les gens sensés! Pour de la
+     multitude et de son avis, il n’y a pas grand cas à faire.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-06-25">25 juin</date> après
+     midi.</dateline></opener>
+    <p>Voilà encore des rapports arrivés de <placeName ref="places.xml#tal01">Revel</placeName> de
+     la déconfiture suédoise qui ressemblent à ceux de la côte de <placeName ref="places.xml#fin01"
+      >Finlande</placeName> de la part du piquet cosaque: messieurs les amiraux y ont envoyé des
+     prises suédoises et commencent déjà a s’en servir comme des leurs; cela est commode, comme vous
+     voyez. Je n’oserais pas vous en accuser dès à présent le nombre, parce que cela vous paraîtrait
+     un mensonge peut-être, si je vous parlais de quelques dizaines; attendons que nous en ayons le
+     régistre avec noms et surnoms. Mais dites la vérité: la perfidie n’est-elle pas bien
+     accommodée? Vous voyez que je ne tiens pas aussi loin de mes lèvres et de ma plume tous les
+     objets de votre aversion, et j’avoue qu’en cela vous êtes infiniment plus sage que moi.</p>
+    <p>Pour ce qui est des ingrats, croyez-moi qu’ils sont très sévèrement punis par la chose même;
+     il y a grande apparence que le ménage ne va pas bien du tout; et que peut-il y avoir de plus
+     mal placé qu’un homme qui ne manque ni d’esprit, ni de talents, ni d’ambition, ni
+     d’instruction, et qui se trouve à 30 ans à la campagne, tout seul vis-à-vis d’une femme
+     maussade et capricieuse, à laquelle il reproche tous les jours d’être resté seul avec elle et
+     pour elle? Outre cela le fardeau de l’ingratitude lui est tombé sur la poitrine et l’a rendu
+     premièrement par imagination et puis tout de bon asthmatique.</p>
+    <p>Eh bien, votre plume, qui pendant plusieurs mois a tracé une vingtaine de pages, ne m’étonne
+     nullement, parce que je me souviens d’avoir lu dans les <title ref="works.xml#memoir07">
+      mémoires du <persName ref="people.xml#ret01">cardinal de Retz</persName></title> qu’il y avait
+     eu un pape qui avait écrit sept ans avec la même plume; il se peut cependant que pendant sept
+     ans il n’écrivit pas vingt pages. J’ai trouvé M. <persName ref="people.xml#mac01">
+      Machkof</persName> bien instruit et rempli d’esprit et de bonne volonté; il retournera avec
+     avancement dès que ses affaires à <placeName ref="places.xml#mos01">Moscou</placeName> seront
+     arrangées. Mais cette pancarte-ci vous parviendra avant lui.</p>
+    <p>Je ne lirai point la vie de <persName ref="people.xml#vol01">Voltaire</persName>, parce que
+     je n’aime point ce qui est écrit par les énergumènes. J’ai lu la brochure allemande publiée
+      à <placeName ref="places.xml#got01">Gotha</placeName>, consacrée à la mémoire de <persName
+      ref="people.xml#bou01"> Mad. de Buchwald</persName>; le <rs ref="people.xml#dal01">
+      coadjuteur</rs> m’avait lui-même envoyé la sienne. J’aime beaucoup et j’estime cet homme-là.
+     Vos almanachs de <placeName ref="places.xml#got01">Gotha</placeName> viennent un peu tard. Je
+     ne sais qui est votre M. An-thing. Je n’entends pas du tout ce que vous me dites <hi
+      rend="italic">des soucis de <persName ref="people.xml#pit01">William Pitt</persName>, ce qui
+      met le grand <persName ref="people.xml#her02">Hertzberg</persName> hors des
+     gonds</hi>. Personne ne prend plus de part à la souffrance de <rs ref="people.xml#mar14">la reine</rs>
+     que moi; je l’aime comme la soeur bien-aimée de mon meilleur ami <persName
+      ref="people.xml#jos01"> Joseph</persName> II, et j’admire son courage. Adieu, <rs
+      ref="people.xml#gri01"> souffre-douleur</rs>, portez-vous bien.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1790-6-26">26 juin 1790</date>.</dateline></opener>
+    <p>J’ai à vous mander encore, avant le départ du porteur de la grande pancarte, comme quoi j’ai
+     déjà le rapport que l’escadre du <persName ref="people.xml#pov01"> contre-amiral
+      Povalichine</persName> a jusqu’ici en sa possession un vaisseau de guerre suédois, que cinq
+     sont volés en l’air vis-à-vis de lui, les brûlots suédois ayant été portés par le courant et le
+     vent sur leurs propres vaisseaux. Le contre-amiral <persName ref="people.xml#kha01">
+      Khanikof</persName> doit en avoir pris quatre de ligne. <persName ref="people.xml#chi01">
+      L’amiral Tchitchagof</persName> a envoyé à <placeName ref="places.xml#tal01"
+     >Revel</placeName> jusqu’ici deux vaisseaux de 74 canons, et il se sert de ses moindres prises
+     pour faire des messages; or, n’oubliez pas que l’on est encore à la poursuite et que
+     l’histoire, ou là bataille ou la déconfiture, n’est pas finie encore. Le <persName
+      ref="people.xml#nas01"> prince de Nassau</persName> m’écrit qu’il n’a pas le temps de me dire
+     rien, mais qu’il va toujours en avant et qu’entre autres un vaisseau de guerre de soixante
+     canons s’est rendu à son pavillon, et l’on dit que le nombre des vaisseaux à rames pris passe
+     les cinquante: en un mot, c’est la déconfiture la plus signalée. Adieu, portez-vous bien, et
+     sachez que si les abominables principes de vos enragés par épidémie gagnent l’<placeName
+      ref="places.xml#eur01">Europe</placeName>, il faudra en féliciter les <orgName
+      ref="orgs.xml#turk01"> Turcs</orgName>, auxquels alors la conquête de l’<placeName
+      ref="places.xml#eur01">Europe</placeName> deviendra une chose aisée et facile; voilà ce que
+     votre très humble servante prophétise et qu’elle peut prouver comme deux et deux font quatre.
+     Adieu encore une fois.</p>
+   </div>
+   <div>
+
+    <opener><address><addrLine><seg xml:lang="ru"> Письмо <persName ref="people.xml#bez01">гр.
+      Безбородко</persName></seg></addrLine></address>
+     <salute hand="people.xml#unknown">Monsieur,</salute></opener>
+    <p>M. <persName ref="people.xml#mac01"> Machkof</persName> arrivé ici m’a remis la lettre que
+     vous avez bien voulu m’adresser. Très sensible aux marques de votre bon souvenir, je suis
+     extrêmement fâché, monsieur, que les occupations dont je suis surchargé, ne me permettent pas
+     de vous répondre d’une manière détaillée, et principalement à, l’époque actuelle, où nous nous
+     trouvons, pour ainsi dire, au milieu de combats et de conquêtes pérpétuels. C’est en
+     conséquence de cela que je ne manquerai pas de m’en acquitter au départ prochain de M.
+      <persName ref="people.xml#mac01"> Machkof</persName>, mais en attendant j’ai cru devoir
+     profiter du canal que me présente M. Pavlof prêt à partir, pour vous faire parvenir une lettre
+     de change de six mille roubles pour des dépenses connues.</p>
+    <closer>
+     <signed rend="inline">J’ai l’honneur d’être, avec les sentiments de la considération très
+      distinguée et de l’attachement le plus inviolable, monsieur, votre très humble et très
+      obéissant serviteur.</signed> <address><addrLine>A. <persName ref="people.xml#bez01">c-te de
+      Bezborodka</persName></addrLine></address></closer>
+   </div>
+   <div>
+    <dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+      when-custom="1790-06-26">26 juin 1790</date>.</dateline>
+    <dateline> Ce <date when-custom="1790-06-29">29 juin 1790</date>.</dateline>
+    <p hand="people.xml#cat01">Enfin voici à peu près la relation de la déconfiture suédoise.</p>
+    <p>Après trois combats désavantageux pour la flotte suédoise, qui se donnèrent à la fin de mai
+     entre l’escadre du <persName ref="people.xml#kru03"> vice-amiral Kruse</persName> sortie
+      de <placeName ref="places.xml#kro01">Kronstadt</placeName>, forte de 17 vaisseaux de ligne et
+     le <persName ref="people.xml#cha01"> duc de Sudermanie</persName>, lorsque celui-ci apprit que
+      <persName ref="people.xml#chi01"> l’amiral Tchitchagof</persName> arrivait avec son escadre de
+     vaisseaux du port de <placeName ref="places.xml#tal01">Revel</placeName>, M. <persName
+      ref="people.xml#cha01"> de Sudermanie</persName> alla joindre le <rs ref="people.xml#gus01">
+      roi son frère</rs> et sa flotte à rames dans la baie de <placeName ref="places.xml#vib01">
+      Vibourg</placeName>. La flotte de <placeName ref="places.xml#tal01">Revel</placeName> et celle
+      de <placeName ref="places.xml#kro01">Kronstadt</placeName> se joignirent à la vue de l’ennemi
+     le 27 mai, et tout de suite se mirent à bloquer les flottes de <placeName
+      ref="places.xml#swe01">Suède</placeName> dans la baie de <placeName ref="places.xml#vib01">
+      Vibourg</placeName>. Le vice-amiral <persName ref="people.xml#nas01">prince de
+      Nassau-Siegen</persName>, retenu par les vents contraires, ne put arriver au <placeName
+      ref="places.xml#bio01"> sund de Biörkö</placeName> avec sa flotille à rames que le 21 de juin;
+     délogea, après un combat de 5 heures, <persName ref="people.xml#gus01">S. M.
+      Suédoise</persName> de <placeName ref="places.xml#bio01"> Biörkö</placeName>. Alors celui-ci
+     prit la résolution de passer avec sa flotte de vaisseaux et celle à rames à travers de la
+     flotte russe; il fit faire une fausse attaque à l’aile droite des vaisseaux russes le 22 juin
+     au matin, et avec un fort vent du nord les vaisseaux de ligne suédois attaquèrent les cinq
+     vaisseaux de guerre de l’escadre du <persName ref="people.xml#pov01"> contre-amiral
+      Povalichine</persName>; les Suédois mirent trois brûlots devant eux, croyant que le vent les
+     pousserait sur la susdite escadre du <persName ref="people.xml#pov01"> c.-a.
+      Povalichine</persName>; mais au contraire les brûlots accrochèrent deux vaisseaux de ligne
+     suédois qui volèrent en l’air avec les trois brûlots. Ensuite, pendant quatre heures, les
+     vaisseaux suédois passèrent, vaisseau par vaisseau, devant l’escadre des <persName
+      ref="people.xml#pov01"> contre-amiraux Povalichine</persName> et <persName
+      ref="people.xml#kha01"> Khanikof</persName>, qui en prirent cinq et deux frégates avec
+     quantité de galères et d’autres bâtiments, sans compter ce qui fut coulé à fond. En attendant
+     que ceci se passait, <persName ref="people.xml#chi01"> l’amiral Tchitchagof</persName> et les
+     vice-amiraux <persName ref="people.xml#kru03"> Kruse</persName> et <persName
+      ref="people.xml#mus02"> Pouchkine</persName> levaient l’ancre pour poursuivre l’ennemi, de
+     même que le vice-am. <persName ref="people.xml#nas01">prince de Nassau-Siegen</persName>, qui
+     arriva, au dire de nos marins, comme une flèche pour courir après les Suédois, et leur prit un
+     vaisseau de ligne qui se rendit à son pavillon. On les poursuivit jusqu'à <placeName
+      ref="places.xml#hog02"> Hogland</placeName>, et dans cette poursuite fut pris le vaisseau du
+     contre-amiral suédois et un autre encore avec une frégate. La nuit finit les conquêtes de cette
+     journée. Il y a cinq mille prisonniers, au nombre desquels le <persName ref="people.xml#lej01">
+      contre-amiral Lejonanker</persName> et plus de cent officiers. Notre perte est de 117 morts et
+     164 blessés. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien. On ne sait rien du <rs
+       ref="people.xml#gus01"> roi</rs>; son déjeuner, sa galère, sa chaloupe sont prises. Il y en a
+      qui disent qu’il s’est sauvé dans un esquif, son yacht a été coulé à fond; ce qu’il y a de
+      sûr, c’est qu’il n’est pas pris jusqu’ici.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

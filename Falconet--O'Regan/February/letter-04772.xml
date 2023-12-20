@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04772</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04772</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Nb inclusion. </note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:52:12Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04772">
+  <body>
+   
+   <p>Je vous renvoie, Monsieur, la lettre de M-r <persName ref="people.xml#did01">Diderot</persName>. Par rapport à la lettre que vous m’avez
+     écrite il y a trois jours, je crois que vous ferez bien de parler de ce que vous m’y dites à
+     M-r 
+    <persName ref="people.xml#bet01">Betzki</persName>. La journée est trop mauvaise
+     aujourd’hui pour voir bien votre héros, et s’il ne vient du soleil entre ci et midi, je n’irai
+     pas chez vous.</p>
+  </body>
+ </text>
+</TEI>

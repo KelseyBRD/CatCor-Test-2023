@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04742</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04742</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-15">15/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:05:10Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04742">
+        <body>
+
+            <opener><dateline><date when-custom="1768-06-14"/></dateline>
+                <salute>Je répondrai à votre lettre Monsieur <persName ref="people.xml#fal01">
+                        Falconet</persName>, et non à celle de votre ami que j’ai été deux jours à
+                    déchiffrer, et je toucherai seulement quelques endroits que j’ai compris et qui
+                    demandent réponse.</salute></opener>
+            <p>Mes ordres viendraient trop tard pour les livres et tableaux de <rs
+                    ref="people.xml#gag03"> l’Amateur</rs> qui vient de mourir à <placeName
+                    ref="places.xml#par01"> Paris</placeName>; le duc de <persName
+                    ref="people.xml#cho03"> Choiseul</persName> est en marché du tout, au dire du
+                Pr. <persName ref="people.xml#gol03"> Galitzin</persName>.</p>
+            <p>Il est difficile qu’un secrétaire d’Ambassade, à moins que de jouer d’imagination,
+                sache les choses bien au vrai comme elles sont; entre nous soit dit, je vois comme
+                ils mentent tous les jours plutôt que d’avouer leur ignorance à ceux par qui ils
+                sont payés pour dire à tort et à travers ce qu’ils savent et ne savent pas. Ainsi,
+                d’avance, je parierais que l’ouvrage du Sr. <persName ref="people.xml#rul01">
+                    Rulière</persName> ne vaut pas grand’ chose, surtout parceque M-r  <persName
+                    ref="people.xml#did01">Diderot</persName> dit qu’il y a de la maîtresse femme et
+                de la <hi rend="italic">cervello di principessa;</hi> or dans cet évènement, ce
+                n’était point tout cela, mais il s’agissait ou de périr avec un fou ou de se sauver
+                avec la multitude qui prétendait s’en délivrer. Or, à cela, il n’y avait de
+                manigance que celle de la mauvaise conduite du personnage, car sans cette conduite,
+                assurément, jamais il n’aurait rien pu lui arriver. Il faudrait tâcher d’acheter le
+                manuscrit de <persName ref="people.xml#rul01"> Rulière</persName> et j’en ferai
+                écrire à <persName ref="people.xml#kho01"> Chotinsky</persName>.</p>
+            <p>3. La dette de <persName ref="people.xml#sim02"> Simon</persName> ne serait pas la
+                première que j’aurais payée de temps antérieurs aux miens.</p>
+            <p>J’en viens à la lettre que vous m’écrivez. Vous m’avertirez n’est-ce pas, quand il
+                sera temps que je vienne voir et la statue et l’esquisse. Je trouve l’idée de
+                l’esquisse noble et simple et bien meilleure que l’autre. Envoyez-moi, je vous prie,
+                le manuscrit de <rs ref="works.xml#zapata01"> Zapata</rs>; j’espère d’en reconnaître
+                l’auteur; mon impatience est grande de voir une belle et bonne provision de marbre
+                entre les mains de M-lle <persName ref="people.xml#col02"> Collot</persName>, je
+                meurs d’envie d’avoir mes bustes. J’ai reçu pour <placeName ref="places.xml#ora01">
+                    Oranienbaum</placeName> deux mauvais bas-reliefs qui ne sont pas plaçables,
+                j’aurais une si belle idée à fournir pour ce travail, mais je né puis la dire qu’à
+                M-r <persName ref="people.xml#fal01"> Falconet</persName> de bouche, et à condition
+                qu’il me rectifiera si je me trompe quand nous nous verrons vous m’en ferez
+                souvenir. </p>
+            <closer><signed rend="inline">Adieu, Monsieur, soyez gai et moquez-vous des envieux, il
+                    vaut mieux en faire que de faire pitié, or il y a des gens de tout état qui font
+                    pitié.</signed></closer>
+        </body>
+    </text>
+</TEI>

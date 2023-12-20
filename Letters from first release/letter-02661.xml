@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02661</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02661</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#finland"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#summer"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-18">18 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02661">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet02">à Péterhof,</placeName>
+                            <date when-custom="1770-07-19">ce 19 Juillet 1770</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Son Altesse Royale le <persName ref="people.xml#hen02">prince
+                            Henri</persName>, frère de Votre Majesté, est allé passer quelque temps
+                        avec <rs ref="people.xml#lou05">la reine, sa soeur,</rs> à <placeName
+                            ref="places.xml#sto01"> Stockholm</placeName>, de <placeName
+                            ref="places.xml#sto01">Stockholm</placeName> à <placeName
+                            ref="places.xml#tal01">Reval</placeName> il n'y a qu'une journée, de
+                            <placeName ref="places.xml#tal01">Reval</placeName> à <placeName
+                            ref="places.xml#kro01">Kronstadt</placeName> une autre, cette ville est
+                        à deux lieues de <placeName ref="places.xml#pet02">Péterhof</placeName> où
+                        je passe ordinairement l'été. Je ne puis voir dans une telle proximité du
+                        lieu où je suis <rs ref="people.xml#hen02">un prince</rs>, qui appartient de
+                        si près à Votre Majesté et pour lequel j'ai autant d'estime, sans témoigner
+                        à Votre Majesté le vif désir qui me fait souhaiter de renouveler
+                        connaissance avec ce prince. Je n'ai voulu faire aucune démarche à ce sujet
+                        sans en demander l'agrément de Votre Majesté. Je n'ai d'autres motifs de ma
+                        proposition que ma haute considération et mon amitié pour Elle et pour tous
+                        ceux qui Lui appartiennent; connaissant la réciprocité de ces sentiments,
+                        j'espère que ma proposition ne déplaira pas à Votre Majesté. On suppose
+                        volontier ce que l'on souhaite: en cas que Votre Majesté voulut bien
+                        consentir à mon projet et que <rs ref="people.xml#hen02">le prince</rs> n'y
+                        eut aucune répugnance, je ne perdrai pas un moment, j'écrirai à Son Altesse
+                        Royale, et si la saison n'est pas trop avancée lors de la réponse de Votre
+                        Majesté, je Lui enverrai les yachts dont je me sers moi même pour de
+                        pareilles petites courses de mer, ils sont bons et sûrs, et ne sauraient
+                        d'ailleurs donner aucun ombrage à mes chers voisins. Les vents du golfe de
+                            <placeName ref="places.xml#fin01">Finlande</placeName> seront sages, je
+                        me flatte, pour une aussi belle occasion, je le souhaite du moins de tout
+                        mon coeur. Mais si la saison était trop avancée pour un voyage de mer, je
+                        tâcherai de rendre les chemins par la <placeName ref="places.xml#fin01"
+                            >Finlande</placeName> aussi bons que possibles, et toutes les
+                        difficultés s'aplaniraient sous les pas de <rs ref="people.xml#hen02">Son
+                            Altesse Royale</rs>. Il est vrai que le chemin serait un peu plus long.
+                        Votre Majesté voit que ma pensée va au devant des détails de ce projet avec
+                        bien de la satisfaction, </p>
+                    <closer>
+                        <signed>je La prie de juger par là de l'empressement que j'ai de voir un <rs
+                                ref="people.xml#hen02">prince</rs> pour lequel j'ai les sentiments
+                            les plus distingués et qui à toutes ses autres qualités joint encore
+                            celle d'être frère d'un <rs ref="people.xml#fre01">Grand Roi</rs> mon
+                            Ami et mon Allié, dont je ne cesserai jamais de me dire avec la plus
+                            haute estime et considération, Monsieur mon Frère, de Votre Majesté la
+                            bonne Soeur et fidèle Amie et Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

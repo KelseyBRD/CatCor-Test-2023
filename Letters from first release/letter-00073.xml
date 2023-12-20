@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00073</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00073</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-03">3 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00073">
+                <body>
+                    <opener><salute rend="inline">Петр Дмитриевич.</salute></opener>
+                    <p>Из находящихся в <placeName ref="places.xml#mos02">Московской
+                            губернии</placeName> пленных Шведов, сколько имеется плотников и
+                        кузнецов, прикажите отправить <placeName ref="places.xml#eka01"
+                            >Екатеринославскаго наместничества</placeName> в губернский город
+                            <placeName ref="places.xml#dne01">Екатеринослав</placeName>, препроводя
+                        оных к <rs ref="people.xml#kak01">губернатору тамошнему</rs>; равным
+                        образом, если от генерала-фельдмаршала князя <persName
+                            ref="people.xml#pot01">Григория Александровича
+                            Потемкина-Таврическаго</persName> прислан будет нарочный выбрать из тех
+                        же пленных Шведов и других мастеров, и оных туда же отослать.</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">В
+                                С.-Петербурге.</placeName>
+                            <date when-custom="1789-03-15">Марта 15,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Petr Dmitrievich.</salute></opener>
+                    <p>However many carpenters and blacksmiths there are amongst the Swedish
+                        prisoners in Moscow guberniya, order them to be sent to Ekaterinoslav, the
+                        guberniya seat of the governorate general of Ekaterinoslav, dispatching them
+                        to the local governor. Equally, if you receive a special messenger from
+                        general field marshal Prince Grigory Aleksandrovich Potemkin-Tavrichesky,
+                        chose other master craftsmen from amongst the same Swedish prisoners and
+                        send them to the same place.</p>
+                    <closer><dateline><placeName ref="places.xml#pet01">In St.
+                                Petersburg.</placeName>
+                            <date when-custom="1789-03-15">March 15,
+                        1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

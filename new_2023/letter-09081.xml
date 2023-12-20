@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09081</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09081</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>Could not define "у здешняго вице-губернатора" as I found no clear evidence as for where this note was written</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-23">2023-06-23</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09081"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-08-22">1788 г. 22 августа.</date>
+                </dateline>
+            </opener>
+            <p><persName ref="people.xml#bau01">Баур</persName> клал силу соли в градире
+                <note type="editorial">
+                    <persName ref="people.xml#bau01">Friedrich Wilhelm Bauer</persName> built a saltery in <placeName ref="places.xml#sta05">Staraia Russa</placeName> on the order of Catherine from <date when-custom="1771-02-15">February 15 1771</date>. This saltery used saltpans for the production. (
+                    <bibl>
+                        <title ref="works.xml#starru01">Illiustrirovannyi istorichesko-statisticheskii ocherk goroda Staroi Russy i Starorusskogo uezda</title>
+                        , <biblScope unit="pp">pp. 61-65.</biblScope>
+                    </bibl>
+                    ).
+                </note>.</p>
+                <p>— Не все варницы суть казенныя. Следовательно частные люди варят, как им выгодней, управители же на свою руку; приказания же о сем частные заводы примут за отягощение, и от того подымут цену на соль.</p>
+            <p>— У <persName ref="people.xml#kas01">Кашкина</persName> и у здешняго вице-губернатора наведываться о <persName ref="people.xml#saf01">Сафонове</persName>, что <orgName ref="orgs.xml#sena01">сенат</orgName> сделал по <rs ref="people.xml#saf01">его</rs> представлениям и <ref target="letter-09080">проэктам</ref>?</p>
+                <p>—  Вольнопромышленники, кои морскую соль варят, в которой более быть должно сырости, нежели в вываренной, усушки и утечки не знают.</p>
+        </body>
+    </text>
+</TEI>

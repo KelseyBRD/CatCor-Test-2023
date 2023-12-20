@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01144</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01144</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-10"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01144">
+        <body>
+
+            <dateline><placeName ref="places.xml#ryb01">Рыбная слобода.</placeName><lb/>
+                <date when-custom="1767-05-09">9 Маия, 1767.</date></dateline>
+            <lb/>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Мы ночевать сюда приехали вчерась, и сегодня, отслушавши обедню, понеже Николин день,
+                пустимся в <placeName ref="places.xml#yar01">Ярославль</placeName> и то будет
+                девятой день, как выехали из <placeName ref="places.xml#tve01">Твери</placeName>; и
+                так я в своем щете ошиблась: правду сказать, в моем щете не входили разные морския
+                приключения, противоречащия нашим намерениям. Великому <persName
+                    ref="people.xml#pot01">Князю</persName> прошу кланяться; радуюсь, что мое письмо
+                ему приятно было.</p>
+            <closer><signed rend="inline">Прощайте, желаю Вам здравствовать; мы все здоровы, и в гошпитале
+                людей не прибавляется.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00033</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00033</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-18">18 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-06-01">1 June 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <opener><salute rend="inline">Граф Никита Иванович,</salute></opener>
+                    <p> Письмо ваше вчерашнее я уже получила весьма поздо [sic], и для того
+                        предоставила до сего утра ответствовать. Постскрипт <persName
+                            ref="people.xml#kau01">князя Кауница</persName>, который вам прочел
+                            <persName ref="people.xml#lob01">князь Лобкович</persName>, кажется, так
+                        сочинен, что он должен у нас отнять всякое сумнение о двоякости венскаго
+                        двора. Мне пришло на мысли воспользоваться вступлением <rs
+                            ref="people.xml#abd01">новаго султана</rs>: с ним не настоят все те
+                        опасения в разсуждении гордости и других его собственных обстоятельств и
+                        чувствований, кои мы опасаться имели в умершем, и для того я думаю, чтоб вы
+                        снова <persName ref="people.xml#kau01">князя Кауница</persName> просили,
+                        чтоб он готовость нашу к поспешению мира предъявил Туркам всякий раз, что
+                        они к трактованию онаго охоту иметь будут, и что для того к <rs
+                            ref="people.xml#rum01">фельдмаршалу</rs> снова ныне отправлены как
+                        рескрипт, так и полномочие.</p>
+                    <p><persName ref="people.xml#all01">Доктор Аллеман</persName> мне советовал не
+                        прежде как завтра отселе подняться в разсуждении <rs ref="people.xml#pau01"
+                            >сына моего</rs>, который вчерашний день проводил без лихорадки; итак
+                        ждем сего утра одиннадцатый час, чтоб узнать, вовсе ли оная болезнь его
+                        покинула.</p>
+                    <closer><signed rend="inline">Впрочем остаюсь к вам доброжелательна.
+                        <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                        <dateline><date when-custom="1774-02-13">Февраля 13 числа 1774
+                            г.</date></dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Nikita
+                        Ivanovich,</salute></opener>
+                    <p>I received your letter of yesterday very late, and therefore I left it until
+                        this morning to reply. Prince Kaunitz's postscript, which Prince Lobkowitz
+                        read to you, was written, it seems, so that it ought to remove all our
+                        suspicions about the Viennese court's duplicity. It occurred to me to take
+                        advantage of the new sultan's accession: we do not expect to fear from him
+                        the same pride and other personal circumstances and feelings, as we had to
+                        fear from the deceased, and therefore I think that you should ask Prince
+                        Kaunitz again to profess to the Turks our readiness to hasten the peace
+                        whenever they show a desire to negociate. For this purpose a rescript and
+                        credentials were sent today to the field marshal..</p>
+                    <p>Doctor Alleman recommended that I not leave here until tomorrow on account of
+                        my son, who spent all of yesterday without a fever. Therefore we will wait
+                        until eleven o'clock this morning to learn whether that illness has entirely
+                        left him.</p>
+                    <closer><signed rend="inline">Meanwhile I remain well-wishing towards
+                            you.
+                        <persName rend="right">Ekaterina.</persName></signed>
+                        <dateline rend="left"><date when-custom="1774-02-13">February 13,
+                                1774.</date></dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

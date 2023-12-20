@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04734</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04734</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-13">13/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:01:39Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04734">
+        <body>
+          
+            <opener><dateline>
+                <placeName ref="places.xml#mos01"> Moscou</placeName>, <date when-custom="1767-03-10">10 Mars 1767</date>.</dateline>
+            <salute> La lettre ci-jointe était écrite dès mon arrivée en cette ville, mais
+                le lendemain ou quelques jours après, quelqu’un est entré dans ma chambre et ayant
+                trouvé le livre sur les aveugles, m’a prié de le lui prêter, ce qui a retardé
+                l’envoi de la ci-jointe; la voilà et votre livre aussi. Rectifiez donc 
+                <persName ref="people.xml#coc02">M-r Cochin</persName>, il croit que c’est
+                    uniquement pour la guerre que mes cadets sont élevés: l’<rs ref="orgs.xml#ecol01">Ecole Militaire</rs> de <placeName ref="places.xml#par01">Paris</placeName> lui a peut-être
+                    fait prendre le change, mes cadets seront tout ce qu’ils voudront et choisiront
+                    leur état selon leurs goûts et inclinations.</salute></opener>
+            <p>
+                Au sujet de <persName ref="people.xml#did01">M-r 
+                        Diderot</persName>, je vous dirai que je le voudrais ici et pour lui
+                    éviter des persécutions futures, que je crains toujours pour lui et par ceque
+                    l’on souhaite volontiers de voir des gens de mérite; pour la destination, je ne
+                    puis en décider: en premier lieu, parceque je ne voudrais point le gêner dans
+                    son propre choix, et puis aussi voudrais-je le connaître plus précisément avant
+                    que de lui rien proposer; toujours est-il bien sûr que s’il venait et que je
+                    suivisse mon goût, je le garderais pour moi et mon instruction sans contredit.
+                </p>
+            <closer><signed rend="inline">Adieu, Monsieur <persName ref="people.xml#fal01">
+                    Falconet</persName>, portez-vous bien, j’espère qu’à mon retour la toilette de
+                    <persName ref="people.xml#pet01"> Pierre-le-Grand</persName> sera faite, l’on
+                m’a dit qu’après mon départ il existait déjà, mais en grand déshabillé.</signed></closer>
+        </body>
+    </text>
+</TEI>

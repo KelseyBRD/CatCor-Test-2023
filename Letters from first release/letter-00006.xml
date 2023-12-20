@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>letter-00006</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>CatCor Project</authority>
+            <idno type="CatCor">letter-00006</idno>
+         </publicationStmt>
+         <notesStmt>
+            <note/>
+         </notesStmt>
+         <sourceDesc><p>CatCor v1</p></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords n="culture">
+               <term target="kw.xml#sculpture"/>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">French</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date when="2013-09-11">11 September 2013</date>
+            <name>James Cummings</name>
+            <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+         </change>
+         <change>
+            <date when="2013-12-18">18 December 2013</date>
+            <name>Stephen Ashworth</name>
+            <p>Initial markup.</p>
+         </change>
+         <change>
+            <date when="2014-07-28">28 July 2014</date>
+            <name>Kelsey Rubin-Detlev</name>
+            <p>Metadata.</p>
+         </change>
+         <change>
+            <date when="2015-03-04">4 March 2015</date>
+            <name>Kelsey Rubin-Detlev</name>
+            <p>Further markup and translation.</p>
+         </change>
+         <change>
+            <date when="2021-03-29">29 March 2021</date>
+            <name>HD|DH</name>
+            <p>Made encoding consistent with new release.</p>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text type="letter" xml:lang="fr" xml:id="letter-00006">
+            <body>
+               <opener><dateline><date when-custom="1774-05-21"/></dateline>
+               <salute rend="inline">Monsieur Falconet, </salute></opener>
+               <p>En vérité je ne sais quelle querelle peut vous faire <persName
+                     ref="people.xml#cle01"><hi rend="italic">Simon</hi> Clérisseau</persName>: il
+                  me semble que ni vous ni moi nous n'avons rien à démêler ensemble. Gardez le
+                     <title ref="works.xml#boywit01">tireur d'épine</title> chez vous jusqu'à mon
+                  retour en ville, que vous m'apporterez si tel alors sera votre bon plaisir, je ne
+                  doute point que je ne le voie avec plaisir. Pour ce qui regarde <rs
+                     ref="people.xml#fal02">votre fils</rs>, il sera difficile qu'il travaille
+                  céans: primo, parce que dans les chaleurs c'est très-pénible et pour lui et pour
+                  celui qui se fait peindre, secundo, parce qu'il n'y a pas ici, que je sache, de
+                  coin vide pour un atelier de cette nature: plutôt à <placeName
+                     ref="places.xml#pet02">Péterhof</placeName> en trouverons-nous.</p>
+               <closer><signed rend="inline">Adieu, Monsieur.</signed></closer>
+            </body>
+         </text>
+         <text type="translation" xml:lang="en">
+            <body>
+               <opener><dateline><date when-custom="1774-05-21"/></dateline>
+               <salute rend="inline">Mister Falconet, </salute></opener>
+               <p>Truly I know not what quarrel Simon Clérisseau could pick with you: it seems to me
+                  that neither you nor I have anything to sort out with him. Keep the boy with thorn
+                  until I return to the city, when you will bring it to me if that is your pleasure;
+                  I doubt not that I shall see it with pleasure. Concerning your son, it will be
+                  difficult for him to work here: first, because it is most tiresome in the heat
+                  both for him and for him who is having himself painted; second, because there is
+                  no longer to my knowledge an empty corner here for a studio of that nature. We
+                  will find one sooner at Peterhof.</p>
+               <closer><signed rend="inline">Farewell, Sir.</signed></closer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>

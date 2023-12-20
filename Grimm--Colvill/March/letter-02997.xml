@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02997</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02997</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:06:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02997">
+  <body>
+
+   <opener><dateline> À <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1777-10-29">29 octobre 1777</date>.</dateline></opener>
+   <p>Votre No 6 est de <placeName ref="places.xml#nau01"> Naumbourg</placeName>; s’il vous plaît,
+    où est ce <placeName ref="places.xml#nau01"> Naumbourg</placeName>? Il y en a de différents:
+    quelques-uns où j’ai été, et quelques-uns où je n’ai jamais été; eh bien, vous voyez que malgré
+    les bêtises qui m’empêchaient d’écrire et de travailler ce printemps et cet été, malgré cela,
+    vous, être privilégié et au-dessus des événements, vous avez trouvé deux de mes lettres
+    à <placeName ref="places.xml#ber01"> Berlin</placeName>: je suis d’une exactitude charmante avec vous, n’est-ce pas? J’ai mille
+    choses à vous dire. En premier lieu, je suis très fâchée de la mort de <persName
+     ref="people.xml#geo04"> madame Geoffrin</persName>; vous trouverez bien du vide à <placeName ref="places.xml#par01">
+    Paris</placeName> dans vos allées et venues: plus d’une personne vous manque, cela est fort désagréable; je
+    ne voudrais perdre âme qui vive des personnes avec lesquelles je suis accoutumée à vivre,
+    inclusivement, cela s’entend, tous les <persName ref="people.xml#tho01"> Thomas</persName>,
+    grands et petits.</p>
+   <p>C’est quelque maladroit commis de poste qui, après avoir ouvert ma lettre, l’aura recachetée,
+    tellement que la feuille s’est attachée à la cire du couvert; par conséquent votre apostrophe
+    allemande les regarde eux, et nullement mes doigts, qui lèvent si adroitement des mailles dans
+    ce tricot ecclésiastique qui ne finit point; trouvez-vous aussi cela un trait de génie? <seg xml:lang="de">Das ist eine Prüfung, so produciret worden durch die hohe
+     Approbation, so Ihre hochwohlgeboren meinen Briefen gönnen, worinnen allerhand Possen für
+     außnehmende Züge des Verstandes passiren</seg>. Voilà un effort allemand digne de feu
+    M. <persName ref="people.xml#wag01"> Wagner</persName>, et qui, si toutes choses étaient en règle, ne devrait jamais parvenir
+    jusqu'à un personnage qui est toujours embourbé avec quelque tête à couronne, et que les frères
+    et soeurs s’arrachent et qu’ils boudent quand il ne leur va pas montrer sa face, témoin ce qui
+    vous est arrivé à <placeName ref="places.xml#cop01"> Copenhague</placeName>.</p>
+   <p>De nom notre <rs ref="events.xml#kuchu01">paix</rs> existe, de fait les
+    marabouts l’enfreignent tous les jours, article par article, <seg xml:lang="de"
+     >und den wollen sie wieder flicken</seg>; mais d’où vient que ce frère si peu frère
+    (où est-ce qu’ils ont pêché celui-là? les deux aînés se ressemblaient tellement que ce que
+    disait l’un, l’autre le pensait) défend l’approche de <placeName ref="places.xml#zer01">
+     Zerbst</placeName> et <placeName ref="places.xml#dor01"> Dornbourg</placeName>. Ce dernier
+    endroit, nous l’aimions beaucoup, c’est.... Oh! je sais bien ce que c’est.</p>
+   <p>J’attendrai avec impatience vos observations sur le <orgName ref="places.xml#phil01">
+     Philantropin</orgName>. Sur le surtout du baron ou <persName ref="people.xml#bre01"> bailli
+     de Breteuil</persName> écoutez une tirade à laquelle vous avez échappé jusqu’ici. Malgré-vos
+    médisances, faites avec moi et sans moi, je suis admirablement bien logée cet hiver: j’ai un
+    labyrinthe d’appartements, quoique je ne sois qu’une; il y a dans tout cela un luxe enragé; le
+    surtout de <persName ref="people.xml#bre01"> M. de Breteuil</persName> a fait tirer des magasins
+    immenses de choses que j’ai des pièces analogues de toute espèce et de toutes pierres; tout cela
+    fait le plus joli ameublement du monde et d’une richesse très honnête; on a baptisé cela le
+     <placeName ref="places.xml#win01"> Museum Impérial</placeName>, et quand on y est, il y a tant
+    à voir qu’on ne peut en sortir, et à tout cela il n’y a pas une seule pièce que vous ayez jamais
+    vue. Ce Museum fait le coin; on y vient par la <placeName ref="places.xml#chi02">
+     Chine</placeName>, à la <placeName ref="places.xml#chi02"> Chine</placeName> par
+    la <placeName ref="places.xml#tur01"> Turquie</placeName>, à celle-ci par la Perse, qui tient aux antipodes; l’antipode ressemble
+    à un magasin de glaces à miroir; il est contigu à la chambre d’audience du grand-visir d’un
+    côté, et au cabinet gothique de l’autre, etc. Vous y êtes présentement, n’est-ce pas? Le
+    surtout, le surtout, je vous ai dit déjà phis d’une fois qu’il est heureusement arrivé et qu’il
+    plaît; c’est-à-dire, chaque chose à part; cependant on travaille beaucoup mieux au moulin
+    de <placeName ref="places.xml#pet02"> Péterhof</placeName>. La bibliothèque de <persName ref="people.xml#gal05"> l’abbé
+     Galiani</persName> m’amuse ; vous savez comme j’aime les plans etc. Je suis bien fâchée de la
+    perte que vous avez faite de votre <persName ref="people.xml#gri02"> frère aîné</persName>. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

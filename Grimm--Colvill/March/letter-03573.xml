@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03573</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03573</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:53:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03573">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     S<hi rend="superscript">t</hi> Pétersbourg</placeName>, ce <date when-custom="1779-12-07">7 décembre 1779</date>.</dateline></opener>
+   <p>Volontiers je consens à ne faire aucun commentait sur ce que vous ne m’avez écrit que des <seg
+     xml:lang="de"> Vortrag</seg>, mais j’y mets une condition, qui est que vous ne commenterez pas
+    non plus mon dessèchement de cervelle, parce que je pense l’avoir retrouvée : c’est le comte
+     <persName ref="people.xml#str03"> Stroganof</persName> qui me l’a rapportée, je vous dirai plus
+    bas comment. Mon cher seigneur, chacun a ses douleurs et ses afflictions dans ce monde ; chacun
+    aussi a ses manques de loisir; pardonnons-nous réciproquement nos manquements et soyons
+    indulgents les uns pour les autres.</p>
+   <p>Je suis très fâchée de toutes les souffrances que vous endurez depuis si longtemps près de ce
+    lit de douleur où vous êtes cloué. <persName ref="people.xml#tro02"> Tronchin</persName> avec
+    toute sa science est bien court vis-à-vis des variations de dame Nature en fait de témperaments
+    et de moyens. Les médecins, tout comme les augures, ne devraient jamais se rencontrer sans rire
+    de leur ignorance et de la bonne foi des autres humains. Je dois horriblement vous ennuyer dans
+    l’état où vous êtes, et plus on vous parle de moi, et plus je suis en droit de vous faire des
+    excuses sur les importuns et les importunités que vous essuyez à mon sujet et de moi. Je vous ai
+    grondé par ma dernière; je vous fais excuse aujourd’hui, et j’entre parfaitement dans votre
+    état: rien de pire au monde que de voir souffrir les gens auxquels on s’intéresse, et il
+    faudrait être d’une cruauté horrible s’il était possible de concevoir rancune en pareille
+    occasion pour une réponse ou même plusieurs de retardées : ainsi soyez tranquille de mon côté,
+    et agissez à votre commodité.</p>
+   <p>Voulez-vous que je vous dise, sur cette <name ref="events.xml#tesch01"> paix de Teschen</name>
+    que vous faites tant retentir et sur la gloire qui en est due aux pacificateurs selon vous, ce
+    que je pense ? De ma vie je n’ai attaché de la gloire au faits les plus prônés: chacun prône et
+    ne prône pas, selon ses intérêts. Ce n’est pas cela: la gloire qui me plaît est celle que
+    souvent on prône le moins; c’est celle qui produira non seulement le bien présent, mais qui
+    produira des races futures, des races d’hommes et des races de bien sans nombre; c’est celle qui
+    n’est souvent semée que par un mot ou une ligne ajoutée ou omise ; c’est celle que les érudits
+    même chercheront la lanterne à la main et se cogneront le nez dessus sans y rien comprendre,
+    s’ils manquent du génie propre au développement; ah, monsieur! un boisseau de gloire pareille
+    efface à mes yeux les petites glorioles dont on voudrait me parler. <seg xml:lang="it"> Ma
+     basta</seg> : travaillons en silence, faisons le bien pour faire le bien, et laissons batifoler
+    tout le reste. <persName ref="people.xml#str03"> Stroganof</persName> n’a garde
+    d’oublier <placeName ref="places.xml#par01"> Paris</placeName>: il n’a que cela à la bouche. Pour <persName
+     ref="people.xml#aud01"> Mad. Audet</persName>, je ne l’ai point vue, mais on en dit beaucoup de
+    bien. L’imp. au visage, selon vous toujours le même, est devenue éxtrêmement solitaire depuis un
+    certain temps : elle n’a pas un moment &amp; elle ; elle toupille, sans toupiller ; les
+    vingt-quatre heures sont trop courtes ; elle écrit et lit beaucoup, n’a jamais le temps de rien,
+    travaille sans relâche, moins cependant qu’elle ne souhaiterait; un fatras énorme occupe trois
+    planches, rien n’est achevé, beaucoup est mis au net, plusieurs sont à moitié, une matière
+    enfile l’aiguille d’une autre, des matériaux immenses ramassés de tous côtés et prêts à être mis
+    en oeuvre. Après cela jugez si <persName ref="people.xml#aud01"> mad. Audet</persName> pourrait
+    se plaire près d’un quelqu’un qui parle moins qu’il ne griffonne.</p>
+   <p>Les comédies de <persName ref="people.xml#gen01"> mad. de Genlis</persName> ont été remises à
+     <persName ref="people.xml#bet01"> M. de Betski</persName>. <persName ref="people.xml#shu02"> M.
+     le grand chambellan</persName> étant toujours confiné à prier le ciel dans sa province, je
+    n’espère pas d’avoir de sitôt par lui l’oeuvre de la <rs ref="people.xml#gen01"> susdite
+     dame</rs>. J’en viens aux <title ref="works.xml#epoque01">Epoques de la Nature</title>: parlez moi de cela; <seg
+     xml:lang="de"> ja, Das kann man wohl lesen</seg>; selon moi, voilà une hypothèse qui est
+    jusqu’ici le non plus ultra de l’esprit ou plutôt du génie humain. <persName
+     ref="people.xml#new01"> Newton</persName> fit un pas de géant; en voilà un second; monsieur, ce
+    livre-là m’a rendu de la cervelle. Ah! que j’aurais voulu qu’il eût tout dit; il me semble qu’à
+    l’époque de l’homme il n’a pas vidé son sac ; il est vrai qu’en poursuivant, son idée devient
+    assez claire. Oui, oui, les bords du <placeName ref="places.xml#vol01"> Volga</placeName> et la <placeName ref="places.xml#sib01"> Sibérie</placeName> même sont
+    remplis de monuments et de tombeaux, remplis d’ouvrages en tout genre; il est défendu sons peine
+    de la vie d’y fouiller depuis qu’on en a retiré la peste à plusieurs reprises au commencement du
+    siècle et à la fin du siècle passé. Ah, monsieur, l’hypothèse <persName ref="people.xml#buf01">
+     buffonienne</persName> remue et secoue les têtes; <seg xml:lang="de"> ja, das ist was neues und
+     alles paßt sich sonderlich wohl in dieses Fach. Aber unterdem daß dieser Brief geschmiert
+     wurde, so wird ein neues, Gott geb‘ ein gutes Jahr, und heute ist es des 2te Januar; der
+     <persName ref="people.xml#shu02"> Herr Oberkammerherr</persName> ist auch gottselig und armselig in dieser Kälte aus Moskau
+     zurückgekommen und hat sich für mir gezeigt mit den Comödien der Frau von <persName ref="people.xml#gen01"> Genlis</persName>
+     unter seinem Arm; dieses sah nun wohl umgekehrt tartüffisch aus</seg>. Pour les récréations
+    dramatiques de <persName ref="people.xml#tro03"> M. Tronchin des Délices</persName> qui n’est
+    pas médecin, helas! ne puis les lire; ce que je regrette, vu tout ce que je vous dis dans la
+    seconde et troisième pages de ce long écrit intitulé lettre commencée le 7 décembre 1779. J’aime
+     <persName ref="people.xml#cor02"> Corneille</persName>; il m’a toujours élevé l’âme, et je
+    n’aime point qu’on touche aux ouvrages des gens de génie. Ceci je l’écris en fort petits
+    caractères pour que cela reste entre vous et moi. Que chacun fasse comme il peut, mais n’
+    appartient qu’ à l’auteur de corriger ses ouvrages. Je tire donc ma révérence à <persName
+     ref="people.xml#tro03"> M. Tronchin</persName>, et s’il se peut, qu’il nous donne du sien, et
+    nous le lirons.</p>
+   <p><seg xml:lang="it"> Ma</seg> savez-vous qu’une des plus grandes extravagances qui aient jamais
+    été en vogue parmi l’espèce humaine, c’est la franc-maçonnerie. J’ai eu la patience de lire,
+    imprimées et manuscrits, toutes les ennuyeuses absurdités dont ils s’occupent, et j’ai vu avec
+    un dégôut révoltant qu’on a beau se moquer vingt fois des gens, et de la même manière, ils n’en
+    deviennent ni plus sages, ni plus instruite, ni plus prudents. Les belles balivernes que tout
+    cela, et comment est-il possible qu’étant berné de tant de façons, à la fin un être raisonnable
+    ne s’en désabuse? L’histoire d’Adoniram est si bête et tant répétée qu'on voudrait que ses
+    promoteurs fussent au diable avec lui; voilà de quoi les héros du siècle s’occupent, et ce
+     <persName ref="people.xml#fer03"> pr. Ferdinand</persName> à la tête, et tant d’autres,
+    et <persName ref="people.xml#vol01"> Voltaire</persName> reçu parmi eux; <seg xml:lang="de"> aber ist das möglich, und wie
+     lachen sie nicht wenn sie sich einander begegnen?</seg> Votre bonne amie <persName
+     ref="people.xml#bou01"> Mad. Bouchwald</persName> doit être attristée de la mort du <rs
+     ref="people.xml#ern03"> petit prince</rs> de <placeName ref="places.xml#got01"> Gotha</placeName> que le duc a fait enterrer
+    dans une île de son jardin, comme <persName ref="people.xml#rou01"> J. J. Rousseau</persName> à
+     <placeName ref="places.xml#erm01"> Ermenonville</placeName>; cette sépulture me plaît : je
+    voudrais qu’elle devînt à la mode.</p>
+   <p>J’attende la pièce de <persName ref="people.xml#sed01"> Sedaine</persName> avec impatience; j’espère aussi que les <persName
+     ref="people.xml#cle01"> Clérisseau</persName> que vous pourrez m’envoyer sans gêner ni
+    chagriner l’auteur, vous me les ferez parvenir, car les <persName ref="people.xml#cle01"> Clérisseau</persName> me plaisent
+    infiniment, et vous prendrez pour cela la route de la <placeName ref="places.xml#hol02"> Hollande</placeName>, car tout ce qui
+    vient des ports de <placeName ref="places.xml#fra01"> France</placeName> vient toujours trop tard. La patente de <persName ref="people.xml#cle01">
+    Clérisseau </persName> est entre les mains de M. <persName ref="people.xml#bez01"> Bezborodka</persName>.
+    Vous avez calculé juste; votre No 43 m'est arrivé le matin de ma fête, et vous m’excuserez, s’il
+    vous plaît, d’y répondre si tard. Quatre dames de la famille <persName ref="people.xml#tho01">
+     Thomas</persName> accoucheront dans les trois premiers mois de cette année 1780; <rs
+     ref="people.xml#tho01"> lui-même</rs> se porte à ravir, gambadant comme s’il n’avait qu’un an.
+    Le 13<hi rend="superscript">em</hi> <seg xml:lang="de"> Vortrag</seg> vient se ranger sous mes
+    yeux, et voici ma réponse: eh bien, soit, donnez aux filles non mariées de <persName
+     ref="people.xml#men01"> Mengs</persName> ce qui est à donner, et ne m’en parlez plus. <persName
+     ref="people.xml#tro04"> Trombara</persName> est arrivé et entre les mains de <persName
+     ref="people.xml#pai01"> Païsiello</persName>, et tout est payé. Pour votre <persName
+     ref="people.xml#ril01"> monsieur Rilliet</persName>, c’est l’affaire du procureur-général. Je
+    n’ai peint d’argent pour, acheter des pendules. </p>
+   <closer><signed rend="inline">Adieu. Je vois que d’aujourdhui je n’ajouterai plus rien à cette lettre,
+    il faut qu’elle parte.</signed></closer>
+  </body>
+ </text>
+</TEI>

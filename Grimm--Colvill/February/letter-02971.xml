@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02971</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02971</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#education"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrebellion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22"></date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:48:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02971">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#kol01">
+     Kolomenskoé</placeName>, ce <date when-custom="1775-06-16">16 juin 1775.</date></dateline></opener>
+   <p>Puisque par votre No 18 vous souhaitez ma décision sur votre future fonction, la voici. Soyez
+    sans ministère ministre des branches Albertine et Ernestine de <placeName ref="places.xml#sax01">Saxe</placeName>, mais à
+    condition que vous ne négocierez jamais chez moi pour des chevaliers de <orgName
+     ref="orgs.xml#geor01"> St George</orgName> dégradés avec connaissance de cause et très
+    indignes de votre intercession. Pour les extraits baptistaires, il n’a qu’à les demander au
+     <persName ref="people.xml#pan01"> comte Paniné</persName> et au <persName
+     ref="people.xml#vya01"> prince Viazemski</persName>. Il a souhaité lui-même de ravoir son fils,
+    et on le lui a rendu; comme c’est un enfant et qu’il n’a jamais été que page, nulle part
+    l’aventure du père ne saurait nuire au fils; mais je n’ai rien à faire avec l’un ni l’autre.
+     <persName ref="people.xml#cho01"> M. de Choisi</persName>, habile à pervertir, saura leur
+    procurer de l’emploi; pour de ses mémoires, je lui en fais présent: ils seront, si tant y a
+    qu’ils existent, un tissu de mensonges, comme tout le reste de ses exploits, et basta, les
+    honnêtes gens ne les liront point, et la paix a montré qui a battu et qui a été battu.</p>
+   <p>Après vous avoir lavé la tête, comme aurait pu faire <persName ref="people.xml#geo04"> Mme
+     Geoffrin</persName>, je vous remercie bien sincèrement de votre excellent <rs
+     ref="works.xml#essair01"> écrit sur les écoles</rs>, que je garderai bien soigneusement pour en
+    faire mon profit dès que la besogne que j’ai sur les bras sera finie, et elle le sera en
+    juillet. Vous faites bien de remettre la description des <title ref="works.xml#voltai01">
+     tableaux d’Huber</title> d’un jour à l’autre, car je ne les verrai qu’à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>, où j’arriverai dans un an d’ici. J’espère que
+    votre description viendra vers ce temps-là.</p>
+   <p>Il me semble que vous trouvez tous les princes d’<placeName ref="places.xml#ger01">Allemagne</placeName> de grands génies et
+    charmants, et pourtant je vous jure qu’il y en a qui ne le sont pas et, qui plus est, il ne
+    tiendra qu’à moi d’en citer de votre connaissance. Dites-moi un peu, que faisiez-vous dans votre
+    taudis lorsqu’on <rs ref="events.xml#flour01">pillait le pain sous vos
+     fenêtres</rs>? toussiez-vous? Souvenez-vous un peu de mes propos sur le compte de cette police
+    si bien instruite, qui cependant ignore toujours tout ce qui lui importe le plus de savoir,
+    quoiqu’elle ait affaire à gens bavards.</p>
+   <p>Savez-vous bien que l’épidémie d’esprit s’est répandue depuis <placeName ref="places.xml#ore01"><rs ref="events.xml#pugac01">Orenbourg</rs></placeName> jusqu’à <placeName ref="places.xml#par01"><rs ref="events.xml#flour01">Paris</rs></placeName>, et qu’avant cela elle avait fait son effet en <placeName ref="places.xml#spa01">Espagne</placeName> et en 
+    <placeName ref="places.xml#sic01"> <rs ref="events.xml#paler01">Sicile</rs></placeName>; la 
+    <placeName ref="places.xml#swe01"> <rs ref="events.xml#gusta02">Suède</rs></placeName> et le <placeName ref="places.xml#den01">Danemark</placeName> y ont eu leur
+    part, <placeName ref="places.xml#ame01"><rs ref="events.xml#ameri01">l’Amérique</rs></placeName> et 
+    <placeName ref="places.xml#eng01">l’Angleterre</placeName> aussi. Allons, vantez-vous, qui pourra, les sages et les sots, les policés et non
+    policés; voyons un peu qui sent les plus avancés; morgué, nommez-les moi, messieurs les savants.
+    Souscrivez, si vous voulez, pour une demi- douzaine d’exemplaires de <persName
+     ref="people.xml#san02"> Sancho Pansa</persName>, mais je renonce aux haute-lisses de quatre
+    cents ans, parce que je les suppose passées de jeunesse et au teint fané.</p>
+   <closer><signed>Adieu, seigneur ministre; quand vous le serez, vous m’en avertirez et de la
+    cérémonie aussi dont il faudra user avec vous à l’avenir, monsieur. </signed></closer>
+  </body>
+ </text>
+</TEI>

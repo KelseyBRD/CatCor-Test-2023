@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03004</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03004</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">The original letter enclosed a “Manifestation” which
+     was an invitation to the party Catherine II describes in this letter. There is also an
+     “affiche,” that seems like a postscript because it provides belated, additional details as to
+     something mentioned in the body of the letter. </note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The original letter enclosed a “Manifestation” which
+     was an invitation to the party Catherine II describes in this letter. There is also an
+     “affiche,” that seems like a postscript because it provides belated, additional details as to
+     something mentioned in the body of the letter. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-09">09/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:35:27Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03004">
+  <body>
+
+   <dateline> Ce <date when-custom="1778-02-14">14 février 1778</date>.</dateline>
+   <p>Monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs>, Il faut que je vous écrive, car j’ai mal à la tête; ne vous
+    attendez point ce jour d’hui à grande imagination, ou bien à nombre de paroles culbutant les
+    unes sur les autres, comme les eaux d’une digue rompue; ce n’est point cela: il ne s’agit que
+    d’un simple récit de la fête du seigneur <persName ref="people.xml#azo01"> Azor</persName>. Or
+    donc, pour entrer en matière, il faut rappeler à votre mémoire que je vous ai mandé que nous
+    étions dans les fêtes et les mascarades jusque par-dessus les oreilles, et que nous roulons par
+    la ville de maison en maison, comme un rat dans un grenier. Il s’est trouvé un malheureux petit
+    jour de repos mardi 13 février, où tout le monde, étourdi à force de musique, accablé de danse
+    et de fatigue, croyait respirer chacun chez soi; ne voilà-t-il pas que le diable, cet ennemi du
+    repos, vient s’en mêler. Que fait-il? Il inspire au seigneur gentilhomme africain de choisir un
+    jour d’opéra où les loges étaient presque vides et le parterre assez clair-semé : il vient
+    affublé dans le costume de son pays et présente à une trentaine des plus considérés la
+    manifestation ci-jointe. Ce bel écrit, où personne ne comprenait rien, mit toutes les têtes en
+    mouvement: qu’est-ce? que sera-ce? Je devine,—je ne devine pas; on imaginait, on se cassait la
+    tête, et on riait ; en attendant, bonne préparation pour la fête, disait <persName
+     ref="people.xml#azo01"> Azor</persName>. A la moitié de l’opéra, selon le désir du seigneur
+    africain, tout le monde invité vint au lieu assigné et fut obligé de monter par un petit
+    escalier tournant et fort étroit, non pas pourtant précisément au grenier, mais dans certain
+    entre-sol où tout respire l’ambroisie de l’<placeName ref="places.xml#asi01"> Asie</placeName>. Là trois grandes tables à tapis
+    de velours étaient dressées pour le macao.; sur chacune se trouvaient placées une petite boite
+    et une petite cuillère d’or (j’entre dans ces détails pour la commodité de ceux qui voudront
+    imiter le seigneur <persName ref="people.xml#azo01"> Azor</persName>), accompagnées de l’affiche
+    ci-jointe. La compagnie s’empressa à remplir les intentions de l’hôte; rien de plus animé que
+    ces jeux-là, disaient les hommes; rien de plus amusant, disaient les femmes: c’est joli que de
+    jouer des diamants; cela ressemble aux <title ref="works.xml#onetho01"> Mille et une
+     Nuits</title>; l’or et les bijoux roulent. On avait de l’esprit comme quatre; les soupes aux pois
+    disaient que la nouveauté de cela était on ne peut pas plus amusante; d’autres se taisaient,
+    mais faisaient neuf; enfin, ce beau jeu dura une heure et demie jusqu’au souper, et les boîtes
+    n’étaient pas vides. On prit le parti de partager ce qui restait, après quoi on descendit
+    l’escalier par lequel on était monté. Il conduit à un appartement tout en glaces de miroir: mur,
+    plafond, tout en est couvert; vis-à-vis de l’escalier est une grande croisée, dont les rideaux
+    s’ouvrirent subitement et laissèrent à découvert un grand A de la grandeur d’une archine, de la
+    largeur d’une main, fait des plus grands diamants de la couronne; sous cet A immense étaient
+    placés une vingtaine de pages, vêtus en toile d’or avec des écharpes de satin bleu; ils étaient
+    destinés au service des tables et groupaient bien dans la fenêtre sous ГА de diamants. Les
+    tables étaient placées le long des murs à droite et à gauche, adossées aux miroirs, de façon que
+    les convives se trouvaient vis-à-vis des miroirs. Mais comment vous décrire le dessert placé
+    devant les miroirs? C’étaient tous les bijoux des quatres armoires que vous connaissez, couvrant
+    les plus belles pièces du dessert Breteuil. Le dessin et l’arrangement de tout cela, à la
+    lettre, était une chose merveilleuse; j’ai ordonné d’en faire le dessin pour le faire graver; je
+    vous l’enverrai. En entrant dans la chambre, à la lettre tout le monde restait ébloui de la
+    beauté et de la richesse du spectacle, et plus d’une demi-heure se passa sans qu’on pût parvenir
+    à fixer et à faire asseoir aux tables les convives. Pendant tout le souper l’enthousiasme dura,
+    après quoi il fallut remonter pour quelques instants.</p>
+   <p>J’ai oublié de vous dire que lorsqu’on entra, on passa par cette chambre où il n’y avait rien
+    du tout et que tout cela s’arrangea pendant le jeu aux diamants; autre omission: c’est que
+    vis-à-vis du grand A de la croisée il y avait dans une niche un autre grand A de la même forme
+    en perles. </p>
+   <signed rend="inline">Adieu. En voilà assez pour aujourd’hui.</signed>
+   <postscript><head>Manifestation</head>
+   <p><persName ref="people.xml#azo01"> Francisque Azor</persName> a eu l’honneur de représenter
+    plus d’une fois, en présence de témoins, comme quoi il était gentilhomme africain. Il ignore si
+    c’est par envie ou autrement que plusieurs ont révoqué en doute le susdit fait, par lui énoncé.
+    Mais ce n’est pas là de quoi il est question aujourd’hui, où il se détermine enfin à déclarer en
+    face du public qu’il est le représentant de sa patrie, de celle de l’or, de l’argent, des
+    pierreries et des monstres; en un mot, de la grande partie du globe terrestre nommée
+     l’<placeName ref="places.xml#afr01"> Afrique</placeName>. Il fera plus: il offre à prouver ce
+    fait à quiconque ce présent écrit sera par loi remis en mains propres, on par délégué, pourvu
+    qu’on veuille bien se rendre, au sortir du spectacle ce mardi 13 février 1778, dans les
+    appartements de <persName ref="people.xml#cat01"> l’Impératrice</persName>, cet écrit à la main.
+    Les gens éclairés conviendront que lui, seigneur représentant, ne pouvait choisir un moment plus
+    propre pour faire sa déclaration, vu que la terre, les deux, les ondes et les êtres de toute
+    nature ont été mis à l’envi les uns des autres en mouvement, ces jours passés, pour rendre cette
+    époque brillante. Il finit en souhaitant après le jeu et le souper un doux sommeil aux yeux
+    fatiguée de ses convives.</p></postscript><postscript>
+   <head>Affiche</head>
+   <p>Le seigneur représentant a exposé sur chaque table une boite remplie de
+    diamants, non pas en vente, mais afin qu’en jouant au macao, chaque neuf soit payé de sa part
+    par une pierre d’un carat.</p></postscript>
+  </body>
+ </text>
+</TEI>

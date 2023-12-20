@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01193</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01193</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#italy"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-01"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01193">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Надеюсь завтра увидеть <persName ref="people.xml#pau01">сына</persName> моего в
+                добром здоровье, и надеюсь услышать, что и Вам легче. Депеши, как прочту, возвратно
+                пришлю. Жаль бы было, естьли б злодейски извели новаго <persName
+                    ref="people.xml#cle04">Папу</persName>, но думаю, что провралось: я умных людей
+                люблю.</p>
+            <closer><signed rend="inline">Прощайте, желаю Вам здравствовать; я завтра к вечеру буду в город.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1770-04-27">27 Апр., 1770.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

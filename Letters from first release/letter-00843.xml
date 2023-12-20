@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00843</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00843</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-11-09">09 November 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00843">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute></opener>
+                    <p>Слух носится у <placeName ref="places.xml#swe01">Швеции,</placeName> будто
+                            <persName ref="people.xml#gus01">Король Шведский</persName> в намерении
+                        имеет нас задирать. <persName ref="people.xml#raz02">Граф
+                            Разумовский,</persName> о сем слухе говоря с старым <persName
+                            ref="people.xml#fer01">Графом Ферзеном,</persName> сей ему сказал, что
+                        без сумашествия сему верить нельзя, <seg xml:lang="fr">mais que d'un
+                            cerveau un peu derange on peut tout attendre.</seg> Что заподлинно в
+                        сем деле есть, - то, что в <placeName ref="places.xml#kar02"
+                            >Карлскрону</placeName> послано приказание вооружить двенадцать военных
+                        кораблей и несколько фрегатов. Деньги в <placeName ref="places.xml#hol02"
+                            >Голландии</placeName> негосиирует, и в <placeName
+                            ref="places.xml#fin01">Финляндии Шведской</placeName> делаются
+                        приготовления к лагерям. Также три полковника из <placeName
+                            ref="places.xml#fin01">Финляндии</placeName> призваны к <persName
+                            ref="people.xml#gus01">Королю</persName> в <placeName
+                            ref="places.xml#sto01">Стокгольм</placeName> и паки отправлены в
+                            <placeName ref="places.xml#fin01">Финляндию.</placeName>
+                        <persName ref="people.xml#pos01">Ген[ерал] Поссе</persName> объезжает
+                        границу и делает магазин - 14 000 бочек всякого хлеба, сам же <persName
+                            ref="people.xml#gus01">Король</persName> поехал в <placeName
+                            ref="places.xml#upp01">Упсалу</placeName> на несколько времяни. Все сие
+                        видя и слыша, благоразумие требует, не тревожась, взять приличные случаю
+                        осторожности, дабы пакости какой неприличной [не] учинил. И для того, окроме
+                        вооружения флота, который пойдет в Архипелаг, вооружить здешние пять, да от
+                            <placeName ref="places.xml#ark01">города Архангельского</placeName>
+                        столько же кораблей и фрегат, держать [на]готове галеры и гребные суда и
+                        оным предписать разъезд для сбережения наших берегов от нечаянной высадки и
+                        тому подобного. Здешние полки и остзейские гарнизоны приводить в комплектное
+                        состояние, такожде артиллерию и тому принадлежащее. На все сие, касательно
+                        людей, требуется до осьмнадцати тысяч рекрут. От архиереев подано еще прежде
+                        сего, что излишних церковников есть до двадцати четырех тысяч; из оных
+                        годные в военной службе быть могут, иные сами требуют записаться в оную.</p>
+                    <p><placeName ref="places.xml#pet01">Петербургская губерния</placeName> еще
+                        никогда не давала рекрут, с нее брать и набрать можно до семи сот. Я
+                        перечитала на сие время все прежние планы и почитаю, что ныне остаться
+                        должно при демонстрации на демонстрацию. Буде же заподлинно вздумает нас
+                        задирать, то оборону обратить в наступление. Есть подозрение, будто целит на
+                            <placeName ref="places.xml#liv02">Лифляндию:</placeName> он туда посылал
+                            <persName ref="people.xml#arm01">полковника Армфельда,</persName>
+                        нивесть чтоб его сбыть, либо заподлинно узнать тамошние места, но потом
+                        отменил. Еще бы был способ к комплектованию, но к сему также приступить еще
+                        опасаюсь по причине родить могущие неудобности: то есть - в столицах обеих
+                        находящихся беглых, к ружью способных, отдать в полки, чтоб служили, дондеже
+                        хозяев[а] отыщут, либо с защетом. Из сего родиться будет ропот, сие
+                        известно, и умножить может побеги, а люди надобны. Буде бы крайность была, я
+                        чаю, и по подписке самих помещиков в городе здесь соберется великое число,
+                        но во всем недели две розницы не зделают большой розницы. Рассудила писать к
+                        тебе, дай совет, как комплектовать? Магазейны мы соберем и все приготовления
+                        прочие зделаем без огласки. Пока флот еще в <placeName
+                            ref="places.xml#bal01">Балтике,</placeName> опасаться нечего. Естьли
+                        пакости быть, то по выходе оного. Шевелить <persName ref="people.xml#gus01"
+                            >Его Вел[ичеству]</persName> нельзя, чтоб и датчане с нами общего дела
+                        не делали; и так, чаю, поодумывается, но хорошо на всякий случай приводить
+                        здешний край в почтительное состояние. Башкир и калмыков приведем сюда хотя
+                        тысячи две.</p>
+                    <p>Письмы твои от 4 марта я получила и на оные не ответствовала доныне, чтоб
+                        приводить в некоторую ясность вышеописанное. Видно, что <persName
+                            ref="people.xml#gle01">грек,</persName> который взял в Хаджи-бее судно,
+                        а тобою произведен мичманом, отревожил весь тот берег и до самого <placeName
+                            ref="places.xml#och01">Очакова,</placeName> что пальба их везде слышна
+                        была. Добрым твоим распоряжением, надеюсь, что все ко времяни поспеет. Жалею
+                        лишь о том, что ты из сил выбился.</p>
+                    <p>Морских офицеров надеюсь до тебя доставить добрых. <persName
+                            ref="people.xml#jon01">Павел Жонес</persName> приехал уже в <placeName
+                            ref="places.xml#cop01">Копенгаген,</placeName> и думаю, что скоро получу
+                        известие, что принят и к тебе поедет. Принц Оранский к <persName
+                            ref="people.xml#kin01">Кингсбергену</persName> послал увольнение; я
+                        думаю, что он ему в тягость, понеже не переставал ему твердить о умножении
+                        флота, а сей ту часть терпеть не может, а старается о сухопутной, чтоб
+                        иметь, чем обуздать голландцев.</p>
+                    <p>Французских артиллеристов, наипаче же инженеров, я приказала принять, и сам
+                            <persName ref="people.xml#vau01">господин Дево</persName>
+                        <seg xml:lang="fr">(De Vaulx)</seg> едет. Я чаю, <persName
+                            ref="people.xml#nas01">Нассау</persName> его знает. Которых ты выписал,
+                        за то тебя хвалю.</p>
+                    <closer><signed>Прощай, мой друг, будь здоров. Бог с тобою. Я достала от
+                                <persName ref="people.xml#koe01">Кениха</persName> твой портрет
+                            марморный: чрезвычайно хорош, и с него зделано <seg xml:lang="fr"
+                                >empreinte en pate</seg> и положено в моей коллекции. <seg
+                                xml:id="fr">C'est charmant.</seg></signed><dateline rend="below"
+                                ><date when-custom="1788-03-24">Марта 24 ч., 1788 </date></dateline>
+                       </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00065</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00065</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-30">30 March 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Additional markup, tagging, annotations, and translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00065">
+                <body>
+                    <opener rend="right"><dateline><date when-custom="1789-02-06">1789 г. февраля
+                                6.</date></dateline></opener>
+               
+                    <p>Долго (ли) быть подобной срамоте, что <orgName ref="orgs.xml#impe01"
+                            >феатральные люди</orgName> не заплачены осьмой месяц! Я думаю
+                        разстаться с господином <persName ref="people.xml#str01"
+                            >Стрекаловым</persName> вовсе, чтоб лишиться сего безпокойства, при всех
+                        прочих хлопотах. Прошу о сем наведаться подробно.<note type="editorial">On 6
+                            February 1789, Khrapovitsky noted in his diary the receipt of this note:
+                            'В вечеру поздно прислали записку, чтоб справиться, почему девятый месяц
+                            актерам не дают жалованья?' ('In the evening she sent a note to ask why
+                            for the ninth month the actors have not been given their salaries?').
+                            The next day, on the 7th, he noted that they had an 'Изьяснение о
+                            безпорядках театра. Я пропозировал себя и <ref target="people.xml#soi01"
+                                >Соймонова</ref>. Принято благосклонно. Взялся заготовить нужное')
+                            ('Discussion about the disorder of the theatre. I proposed myself and
+                                <ref target="people.xml#soi01">Soimonov</ref>. Favourably received.
+                            Undertook to prepare what is necessary'). On the 8th, Catherine and
+                            Khrapovitsky had extensive discussions about the theatre's debts, with
+                            Khrapovitsky drawing up several versions of the proposed ukazy. In a
+                            note of the same day, Catherine ordered Khrapovitsky to write an ukaz
+                            for the current theatre director <ref target="people.xml#str01"
+                                >Strekalov</ref>'s dismissal and to insist on seeing the accounts
+                            and personally signing off on payments. On 10 February, Catherine signed
+                            off on one ukaz to the Cabinet, but left the rest of the ukazy until she
+                            had had time to further investigate the situation. Khrapovitsky,
+                            meanwhile, reassured her that he was not seeking the directorship of the
+                            imperial theatres: 'Еще я повторил, что на управление театрами я не
+                            напрашиваюсь'. Heated discussions between Khrapovitsky and the empress
+                            went on throughout February: on the 19th Khrapovitsky even begged on his
+                            knees to be dismissed from his post before leaving his final notes on
+                            the matter on her desk. Finally, on 2-3 March, Catherine signed orders
+                            handing over the direction of the theatres from Strekalov to
+                            Khrapovitsky and Soimonov and alloting 200,000 rubles to the theatres.
+                                    (<bibl><title ref="works.xml#dnevni01">Dnevnik A.V.
+                                    Khrapovitskago 1782-1793</title>, <biblScope unit="pp">pp.
+                                    250-59</biblScope></bibl>; <bibl><title level="a"
+                                    ref="works.xml#sobstv01">'Sobstvennoruchnyya pisma i zapiski
+                                    Imperatritsy Ekateriny II-i k A.V. Khrapovitskomu,
+                                    1783-1793'</title>, <biblScope unit="pp">columns
+                                    2086-87</biblScope></bibl>.)</note></p>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener rend="right"><dateline><date when-custom="1789-02-06">1789 February
+                                6.</date></dateline></opener>
+                    
+                    <p>Is such a disgrace to continue for long? The people working in the theatre
+                        have not been paid for eight months! I am thinking of parting ways with Mr.
+                        Strekalov entirely, so as to be rid of this trouble, alongside all my other
+                        worries. Please look into this in detail.</p>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

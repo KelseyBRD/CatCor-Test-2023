@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00047</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00047</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                    <term target="kw.xml#catherineasauthor"/>
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-22">22 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-06-05">5 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, annotation, metadata.</p>
+            </change>
+            <change>
+                <date when="2014-06-09">9 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr">
+                <body>
+                    
+                    <p>Si Vos Altesses Impériales n'ont aucune partie de plaisir arrangée pour ce
+                        soir entre six et sept heures, Elles sont invitées à venir en déshabillé
+                        sans aucune cérémonie rire ou baîller, comme il leur plaira, a <placeName
+                            ref="places.xml#her01">l'Hermitage</placeName>, où l'on donnera gratis
+                        les trois misères suivantes:</p>
+                    <p><title ref="works.xml#voyage02">Les voyages de M-r Bontemps</title></p>
+                    <p><title ref="works.xml#rageau01">La rage au proverbes</title></p>
+                    <p><title ref="works.xml#amantb01">L'amant bourru.</title></p>
+                    <note type="editorial">On 14 December 1789, Catherine's secretary <ref
+                            target="people.xml#khr01">Khrapovitsky</ref> noted: 'Велели играть без
+                        собрания на ермитажном театре: "Les voyages de M. Bontemps" et "La rage aux
+                        proverbes", для Их Имп[ераторских] Высочеств. Они были приглашены и все сие
+                        было исполнено. В дополнение спектакля, дали еще "L'amant bourru"'
+                        ('[Catherine] ordered that without an assembly in the Hermitage theatre "The
+                        Voygaes of Mr. Goodtimes" and "The Rage for Proverbs" for Their Imperial
+                        Highnesses [Paul and Mariya Fedorovna]. They were invited, and all this was
+                        carried out. As a supplement to the performance they also played "The Grumpy
+                        Lover"'). The present letter is the invitation that <ref
+                            target="people.xml#khr01">Khrapovitsky</ref> mentions.</note>
+                    <closer><dateline><date when-custom="1789-12-14">Vendredi, 14
+                                décembre 1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                   
+                    <p>If Your Imperial Highnesses have no pleasure outing planned for this evening
+                        between six and seven o'clock, You are invited to come in informal dress
+                        with no ceremony whatsoever, to laugh or to yawn, as you please, to the
+                        Hermitage, where the following three nothings will be played for free:</p>
+                    <p>The Voyages of Mr. Goodtimes</p>
+                    <p>The Rage for Proverbs</p>
+                    <p>The Grumpy Lover.</p>
+                    <closer><dateline><date when-custom="1789-12-14">Friday, 14
+                                December 1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

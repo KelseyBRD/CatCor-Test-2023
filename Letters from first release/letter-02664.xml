@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02664</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02664</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#henry"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-20">20 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02664">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1771-01-19">ce 19 Janvier 1771</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Comme c’est à Votre Majesté que je suis redevable de la satisfaction que m’a
+                        donnée le séjour du <rs ref="people.xml#hen02">prince, son frère,</rs> en
+                        cette ville, je ne puis voir partir <rs ref="people.xml#hen02">Son Altesse
+                            Royale</rs>, sans remercier bien sincèrement Votre Majesté de ce qu’Elle
+                        a bien voulu consentir à cette entrevue que j’ai désirée et qui m’a fait un
+                        aussi grand plaisir. Les sentiments distingués d’amitié et de la plus haute
+                        estime et considération que j’avais pour Votre Majesté et pour tous ceux qui
+                        Lui appartenaient, ont été, j’ose le dire, encore consolidés par la vue d’un
+                            <rs ref="people.xml#hen02">prince</rs> qui joint aux vertus les plus
+                        éminentes les sentiments de l’amitié la plus tendre pour Votre Majesté, et
+                        par les assurances non interrompues qu’il m’a répétées de celle de Votre
+                        Majesté pour moi. Je l’ai prié de témoigner à Votre Majesté toute l’étendue
+                        de la mienne et de l’assurer de mon empressement à lui en donner des preuves
+                        non équivoques. <rs ref="people.xml#hen02">Son Altesse Royale</rs> emporte
+                        d’ici les regrets de tous ceux qui ont eu l’honneur de l’approcher. Il ne
+                        nous restera qu'un souvenir ineffaçable d'un aussi beau songe. Ce me sera
+                        une consolation véritable d'apprendre qu'en cette occasion comme en toute
+                        autre Votre Majesté est convaincu, que je n'ai rien négligé de tout ce qui
+                        pouvait Lui prouver </p>
+                    <closer>
+                        <signed>la haute considération et l'amitié inaltérable avec laquelle je
+                            suis, Monsieur mon Frère, de Votre Majesté la bonne Soeur, Amie et
+                            Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

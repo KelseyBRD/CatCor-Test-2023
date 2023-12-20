@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00002</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00002</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                    <term target="kw.xml#russianorthodoxchurch"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2013-12-06">06 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata.</p>
+            </change>
+            <change>
+                <date when="2015-02-20">20 February 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00002">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-11-02">ce 2 Novem:
+                                1774</date></dateline><salute rend="inline">Volontier Monsieur</salute></opener>
+                    
+                    <p>je satisferé Votre curiosité sur le compte de <persName
+                            ref="people.xml#pug01">Pougatchef</persName>, il me sera d’autant plus
+                        aisé de le faire qu’il y a un mois qu’il est pris, ou pour parler plus
+                        exactement qu’il a été lié et gardé par ses propres gens dans la plaine
+                        inhabité entre le <placeName ref="places.xml#vol01">Volga</placeName> et la
+                        rivière <placeName ref="places.xml#ura01">Jaik</placeName>, où ils avoit été
+                        chassé par les troupes envoyé de tout côté contre eux. Là privé de nouriture
+                        et de moyens pour ce ravitailler, ses compagnons excédés d’ailleurs des
+                        cruautés qu'il comettoit et espérant obtenir leur pardon le livrèrent au
+                        Comandant de <placeName ref="places.xml#jai02">la forteresse du
+                            Jaik</placeName>, qui l’envoya à <placeName ref="places.xml#uly01"
+                            >Sinbirsk</placeName> au gén: Cte: <persName ref="people.xml#pan02"
+                            >Panin</persName>, d’où il est en chemin présentement pour être mené à
+                            <placeName ref="places.xml#mos01">Moscou</placeName>. Amené devant le
+                        gén: <persName ref="people.xml#pan02">Panin</persName> et dans son premier
+                        interrogatoire il avoua naivement qu’il étoit kosak du <placeName
+                            ref="places.xml#don01">Don</placeName>, noma l’endroit de sa naissance,
+                        dit qu’il étoit marié avec la fille d’un kosak du <placeName
+                            ref="places.xml#don01">Don</placeName>, que sa feme étoit en vie, qu’il
+                        avoit trois enfans, qu’il en avoit épousé une autre pendant ses troubles,
+                        que ses frères et ses neuveux servoit à la <orgName ref="orgs.xml#firs01"
+                            >première Armée</orgName>, qu’il avoit servi lui même les deux première
+                        Campagnes contre la <placeName ref="places.xml#ott01">Porte</placeName>.
+                        Come le gén: <persName ref="people.xml#pan02">Panin</persName> a beaucoup de
+                            <orgName ref="orgs.xml#donc01">Kosaques</orgName> du <placeName
+                            ref="places.xml#don01">Don</placeName> avec lui, et que les troupes de
+                        cette nation n’ont jamais mordu à l’ameçon de ce brigand tout ceçi fut
+                        bientôt vérifié par les Compatriotes de <persName ref="people.xml#pug01"
+                            >Pougatchef</persName>. Il ne sait ni lire ni écrire, mais s’est un home
+                        extrêmement hardi et déterminé. Jusqu’ici il n’i a pas la moindre traçe
+                        qu'il aye été l’instrument de quelque puissance ou intelligence extérieure,
+                        ni qu’il aye suivi les inspirations de qui que ce soit. Il est à suposer que
+                            M<hi rend="sup">r</hi>
+                        <persName ref="people.xml#pug01">Pougatchef</persName> est maitre brigand,
+                        et non Valet d’âme qui vive. Je crois qu’après <persName
+                            ref="people.xml#tam01">Tamerlan</persName> il n’i en a guère eu qui aye
+                        plus détruit d’espèce humaine, d’abord il pendoit sans rémission ni autre
+                        forme de procès toutes les raçes nobles, homes, femes et enfans, tous les
+                        offiçiers, et tous les soldats, qu’il pouvoit attaquer. Aucun endroit où il
+                        passèrent lui ou sa troupe n’est resté sans être pillé et saccagé. Ceux même
+                        qui pour éviter ses excès cherchoit à ce le rendre favorable par une bone
+                        réception, n’étoit pas à l’abri du pillage et du meurtre. Mais ce qui montre
+                        bien jusqu’où l’home ce flatte, s’est qu’il ose concevoir quelque espérance
+                        que je pourrais lui faire grâce ou dit il qu’à cause de son courage il
+                        pourrait par ses services futurs faire oublier ses crimes passés; s’il
+                        n’avoit offensé que moi son raisonement pourrait être juste et je lui
+                        pardoneroit, mais cette cause est celle de l’<placeName
+                            ref="places.xml#rus01">Empire</placeName> qui a ses Loix.</p>
+                    <p>Vous voyés par là Monsieur que <persName ref="people.xml#dum01"
+                            >Dumenil</persName>, Avocat dont je n’ai jamais entendu parler malgré
+                        les avis de son Parain, serait venu trop tard pour les giloter. M<hi
+                            rend="sup">r</hi>
+                        <persName ref="people.xml#riv01">de la Rivière</persName> même qui il y a
+                        six ans nous supposait marcher à quatre pates, et qui très poliment s’étoit
+                        donné la peine de venir de la <placeName ref="places.xml#mar01"
+                            >Martinique</placeName> pour nous dresser sur nos pieds de derrière
+                        n’étoit venu plus à tems. Pour ce qui regarde le baise mains des prêtres sur
+                        lequel Vous me questioné je Vous dirai que s’est un usage de l’<orgName
+                            ref="orgs.xml#gree01">Eglise grecque</orgName> établi je pense presque
+                        avec Elle. Depuis dix à douze ans les prêtres comencent à retirer leurs
+                        mains, les uns par politesses les autres par humilité, ainsi ne Vous
+                        gendarmé pas trop contre un ancien usage qui s’aboli. Je ne sais pas aussi,
+                        si Vous trouveriés beaucoup à me gronder sur ce que dès ma quatorzième anée
+                        je me serai conformée à un usage établi, en tout cas je ne serai pas la
+                        seule qui mériterai de l’être. Si Vous venés ici, si Vous Vous faites prêtre
+                        je Vous demanderés Votre bénédiction et quand Vous me l’aurés doné je
+                        baiseré de bon cœur cette main qui a traçè tant de vérité de belles et bones
+                        chose, mais pour que Vous sachiés où me trouver je Vous averti que cet hiver
+                        je m’en vais à <placeName ref="places.xml#mos01">Moscow</placeName>. </p>
+                    <closer><signed rend="inline">Adieu, portés Vous
+                        bien.</signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-11-02">this 2 Novem:
+                                1774</date></dateline><salute rend="inline">Gladly, sir, </salute></opener>
+                    
+                    <p>will I satisfy your curiosity about Pugachev. It will be all the easier for
+                        me to do so, since he was caught a month ago, or, to speak more exactly, he
+                        was tied up and guarded by his own followers in the uninhabited plain
+                        between the Volga and the Yaik Rivers, whither they had been chased by
+                        troops sent against them from all sides. There, deprived of food and means
+                        for replenishing their supplies, and moreover disgusted with his cruelties
+                        and hoping to obtain their pardon, his companions handed him over to the
+                        commander of Yaik fortress, who send him to Simbirsk to the General Count
+                        Panin, whence he is currently en route to be brought to Moscow. Brought
+                        before General Panin and in his first interrogation, he ingenuously admitted
+                        that he was a Don Cossack, named the place of his birth, said he was married
+                        to the daughter of a Don Cossack, that his wife was alive, that he had three
+                        children that he had married another during the unrest, that his brothers
+                        and nephews were serving in the First Army, that he had himself served in
+                        the first two campaigns against the Porte. Since General Panin has many Don
+                        Cossacks with him and that nation’s troops have never taken that brigand’s
+                        bait, all this was soon verified by Pugachev’s compatriots. He does not know
+                        how to read or write, but he is an extremely bold and determined man. Up to
+                        now there has been no sign that he was the instrument of any external power
+                        or intelligence, nor that he was inspired by anyone at all. One must suppose
+                        that Mr. Pugachev is a master brigand, and not the valet of a living soul. I
+                        think that after Tamerlane hardly anyone has destroyed more of the human
+                        race. First he hanged mercilessly and without any further formalities all
+                        noble families, men, women and children, and all the officers and all the
+                        soldiers that he could attack. Not a place that he or his band passed was
+                        left without being pillaged and ransacked. Even those who, to avoid his
+                        excesses, sought to win his favour with a good reception were not safe from
+                        pillage and murder. But what shows the extent to which the man flatters
+                        himself is that he dares to conceive some hope that I shall pardon him. Or,
+                        he says, with his courage he might, by his future services, make us forget
+                        his past crimes. If I were the only one he had offended, his reasoning might
+                        have been sound, and I would have forgiven him, but the cause is that of the
+                        Empire, which has its Laws.</p>
+                    <p>You see thereby, sir, that Dumenil, the lawyer of whom I have never heard
+                        despite the opinions of his godfather, would come too late to solidify them.
+                        Even Mr. de la Rivière, who six years ago assumed that we went on all fours
+                        and who most politely troubled himself to come from Martinique to raise us
+                        on our hind legs, came too late. As for the hand-kissing of priests, about
+                        which you ask, I shall tell you that it is a custom that was established in
+                        the Greek Church at almost the same time as the Church itself, I think. In
+                        the past ten or twelve years, priests have begun to pull back their hands,
+                        some out of politeness, others out of humility. Therefore, do not get
+                        yourself too much up in arms about an old custom that is abolishing itself.
+                        I also know not whether you would find much cause to scold me for conforming
+                        since the age of fourteen to an established custom: in any case, I would not
+                        be the only one who deserved it. If you come here and if you become a
+                        priest, I shall ask your blessing and when you give it to me, I shall
+                        willingly kiss the hand that traced so many truths and good and beautiful
+                        things. But so that you know where to find me, I am warning you that this
+                        winter I am off to Moscow. </p>
+                    <closer><signed rend="inline">Farewell, be well.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

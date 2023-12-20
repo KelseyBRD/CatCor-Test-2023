@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01238</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01238</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#health"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01238">
+        <body>
+            <opener>
+                <salute>
+                    <persName ref="people.xml#pan01">Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Благодарствую Вам за уведомление, которое я получила на <placeName
+                    ref="places.xml#pet03">Бронницах</placeName> сего утра. Я не вижу дальней нужды,
+                чтоб мне тише ехать, потому что я как для своего покою, так и для многих других
+                обстоятельств хочу быть скорее в <placeName ref="places.xml#pet03"
+                    >Петровском</placeName>. Рекомендую Вам здоровье <persName
+                    ref="people.xml#pau01">Его Высочества</persName>, и знаю, что Вы из всего того,
+                что в Вашей возможности есть, ничего не уроните. Продолжайте с Богом путь.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p>На сем письме написано собственною Ея Императорскаго Величества рукою
+                    следующее:</p>
+                <p>Я по четыре станции на день езжу, хотя Вы о том со мной и спорите.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

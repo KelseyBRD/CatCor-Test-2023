@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08244</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08244</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:25:09Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08244">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1776-06-15">15 juin 1776</date>.</dateline></opener>
+   <p>Je prends la liberté d'envoyer à V. A. R. les quatre lettres dont je Lui ai parlé, et dont
+    Elle a bien voulu se charger. La première est pour le <rs ref="people.xml#fre01"> Roi, Son
+     frère</rs>, et les autres pour les princes et les princesses de <placeName
+     ref="places.xml#wur01"> Würtemberg</placeName>. J'ose La prier, (si le cœur de <rs
+     ref="people.xml#pau01"> mon fils</rs> se détermine pour la <persName ref="people.xml#mar02">
+     princesse Sophie Dorothée</persName>, comme j'e n'en doute pas) d’employer les trois dernières
+    selon leur destination et de les appuyer de l'éloquence persuasive dont Dieu L'a douée.</p>
+   <p>Les preuves convaincantes et réitérées qu'Elle m'a données de Son amitié, la haute estime que
+    j'ai conçue pour Ses vertus, et l’étendue de la confiance qu'Elle m'a inspirée, ne me laissent
+    aucun doute sur le succès d'<rs ref="events.xml#marri02"> une affaire</rs> qui me tient tant au
+    cœur. Pouvais-je la mettre en de meilleures mains?</p>
+   <p>V. A. R. est assurément un négociateur unique: qu'Elle pardonne cette expression à mon amitié,
+    Mais je ne crois pas qu'il y ait exemple d'une affaire de cette nature, traitée comme celle-ci.
+    Aussi est-ce la production de l’amitié et de la confiance la plus intime.</p>
+   <p><rs ref="people.xml#mar02"> Cette princesse</rs> en sera le gage. Je ne pourrai la voir, sans
+    me ressouvenir comment cette affaire a été commencée, menée et finie entre la maison Royale
+     de <placeName ref="places.xml#pru01">Prusse</placeName> et celle de <placeName
+     ref="places.xml#rus01">Russie</placeName>. Puisse-t-elle perpétuer les liaisons qui nous
+    unissent !</p>
+   <p>Je finis en remerciant bien tendrement V. A. R. de tous les soins et de toutes les peines
+    qu’Elle s'est donnée; et je La prie d'être assurée, que ma reconnaisance, mon amitié, mon
+    estime, la haute considération que j'aie pour Elle ne finiront qu’avec ma vie . . .</p>
+  </body>
+ </text>
+</TEI>

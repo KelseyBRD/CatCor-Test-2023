@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00742</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00742</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-29">29 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00742">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Царского Села. </placeName><date
+                            when-custom="1783-08-13">Августа 13, 1783</date></dateline></opener>
+                    
+                    <p>Письмы твои, друг мой сердечный, из лагеря у <placeName
+                            ref="places.xml#bel02">Карасу-Базара</placeName> от 29 июля я получила,
+                        и уже о прошедшем, по которому ты прислал объяснение, упоминать не буду.
+                        Слава Богу, что ты и с тобою в лагере находящиеся войски, посреди сильной
+                        Крымской язвы, здоровы. Хорошо бы было, естьли б каждую татарскую деревню
+                        для пресечения язвы можно было до того довести, чтоб наблюдали обряд тот,
+                        который у нас каждая деревня наблюдала в подобном случае. Скорее пресеклась
+                        бы зараза. За все приложенные тобою труды и неограниченные попечения по моим
+                        делам не могу тебе довольно изъяснить мое признание. Ты сам знаешь, колико я
+                        чувствительна к заслугам, а твои - отличные, так как и моя к тебе дружба и
+                        любовь. Дай Бог тебе здоровья и продолжение сил телесных и душевных. Знаю,
+                        что не ударишь лицом в грязь.</p>
+                    <p>Будь уверен, что не подчиню тебя никому, окроме себя. Что дешевле подряжаешь,
+                        и за то великое тебе спасибо. Только, пожалуй, береги себя для меня. Я очень
+                        смеялась тому, что пишешь о слухах заразы размножения теми, у коих сборное
+                        место <placeName ref="places.xml#spa02">Спа</placeName> и <placeName
+                            ref="places.xml#par01">Париж.</placeName>
+                        <seg xml:lang="fr">C'est un mot delicieux.</seg></p>
+                    <p>Я чаю, после Байрама откроется, на что турки решатся, а дабы не ошибиться,
+                        кладу за верно, что объявят войну.</p>
+                    <p>О чем ты писал, о том решение к тебе отправлено. Во флот отправленные к тебе
+                        люди, чаю, уже до тебя доходят.</p>
+                    <p>Радуюсь, что <persName ref="people.xml#kor01">Корсаков</persName> тебе
+                        пригодился и что мои о нем попечения и деньги не втуне остались.</p>
+                    <p>Росписание Малороссийских полков зделано, как сам усмотришь.</p>
+                    <closer><signed>Прощай, мой друг сердечный, Бог с тобою. <persName
+                            ref="people.xml#lan02">Саша</persName> тебе кланяется.</signed>
+                        </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

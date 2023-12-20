@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01155</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01155</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolitics">
+                    <term target="kw.xml#france"/>
+                </keywords>
+                <keywords n="foreignPolitics">
+                    <term target="kw.xml#england"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>I don't know who Абба Гиота, Димон, Боссетова are.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-17"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01155">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#che01">Чебоксара</placeName>. <lb/>
+                <date when-custom="1767-05-25">Маия 25 числа, 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Французской Консул <persName ref="people.xml#ros02">Россигниоль</persName>
+                бездельник, естьли его письмо к Аббе Гиота прочесть рядом с одним письмом, которое
+                он писал, помнится, к <persName ref="people.xml#dum03">Дюмону</persName>, скоро
+                после смерти <persName ref="people.xml#bos01">Боссетовой</persName>. Видно изо
+                всего, что хотелось, бы ему Министром быть, а позабыл он, что Министра не приму без
+                надлежащаго мне титула. Каково-то будет в <placeName ref="places.xml#eng01"
+                    >Aнглии</placeName>, как <persName ref="people.xml#cha07">Лорд Чатам</persName>
+                умрет; теперь раком идут, а тогда вовсе без движения уже будут; удивительно их
+                видеть ныне в сравнении того, что они были в последней войне. Ваш куриер от 20 числа
+                приехал после того, котораго Вы отправили на другой день. <placeName
+                    ref="places.xml#che01">Чебоксар</placeName> для меня во всем лутче <placeName
+                    ref="places.xml#niz01">Нижняго Новагорода.</placeName></p>
+            <closer rend="inline"><persName ref="people.xml#pau01">Сыну</persName> моему кланяюсь, и
+                Вам обоим желаю здравствовать. Мы все здоровы. <lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00087</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00087</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#crimea"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-18">18 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00087">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный Князь Григорий
+                            Александрович.</salute></opener>
+                    <p>Пишет ко мне Ге[нерал] Граф <persName ref="people.xml#sal04">Ив[ан]
+                            Петр[ович] Салтыков</persName>, что бригадир <persName
+                            ref="people.xml#sel02">Селим-Гирей</persName> ушел к туркам и живет
+                        теперь у <rs ref="people.xml#kal01">Калги-султана</rs> в турецком войске.
+                        Сей неблагодарный человек доказал, сколь мало на магометанскую к нам
+                        верность щитать можно. <seg xml:lang="fr">Voilà un vilain Monsieur de
+                            plus et puis c’est tout,</seg> а со времянем у турок будет без
+                        головы, как <persName ref="people.xml#sha02">Шагин-Гирей</persName>. Сие
+                        письмо отдаст тебе <persName ref="people.xml#zub02">Николай Ал[ександрович]
+                            Зубов</persName>, который обратно к тебе едет и весьма хвалится твоею к
+                        нему ласкою, за что <rs ref="people.xml#zub03">брат его</rs> премного тебя
+                        благодарит. Они все люди очень добросердечные, <seg xml:lang="fr">mais
+                            la perle de la famille, selon moi, c’est <persName
+                                ref="people.xml#zub03">Platon</persName> lui même, qui est d’un
+                            caractère vraiment aimable et ce caractère ne se dément dans aucune
+                            occasion.</seg></p>
+                    <closer><signed>Я здорова и тебе желаю то[го] же, и чтоб сам Бог тебе помогал и
+                            подкреплял во всех случаях. Прощая, мой друг.</signed>
+                        <dateline><date when-custom="1789-10-10">Окт[ября] 10,
+                            1789</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear friend Prince Grigory
+                            Aleksandrovich.</salute></opener>
+                    <p>Ge[neral] Count Iv[an] Petr[ovich] Saltykov writes to me that Brigadier
+                        Selim-Girey has gone over to the Turks and is now living with the Kalga
+                        Sultan amongst the Turkish troops. That ungrateful man has proven how little
+                        we can count on Mahometan loyalty to us. That's one more wicked man and then
+                        that's it, but soon he will be amongst the Turks without his head, like
+                        Shagin-Girey. This letter will be delivered by Nikolay Al[eksandrovich]
+                        Zubov, who is returning to you and who boasts much about your kindness to
+                        him, for which his brother thanks you very very much. They are all very
+                        goodhearted people, but the pearl of the family, in my opinion, is Platon
+                        himself, who is of a really amiable character, and that character never
+                        belies itself.</p>
+                    <closer><signed>I am healthy and I wish you the same, and that God Himself
+                            strengthens you on all occasions. Farewell, my friend.</signed>
+                        <dateline><date when-custom="1789-10-10">Oct[ober] 10,
+                            1789</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

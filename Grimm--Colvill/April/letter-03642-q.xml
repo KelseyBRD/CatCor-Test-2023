@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03642</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03642</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Not sure who is meant by “Gu. le loué;” (2) I could not find M Poggenpohl.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:51:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03642">
+  <body>
+   <opener><dateline> Ce <date when-custom="1786-12-26">26 décembre 1786</date>.</dateline></opener>
+   <p>Le seigneur <rs ref="people.xml#bez01"> factotum</rs> m’ordonne de tenir prête une missive
+    pour votre seigneurie; tout ce temps-ci a été un temps très stérile pour l’écriture; je n’ai
+    rien de reste ou de préparé plus tôt pour monsieur le <rs ref="people.xml#gri01">
+     souffre-douleur</rs>. En revanche nous tenons dans notre <placeName ref="places.xml#her01">
+     hermitage</placeName> une princesse enchantée depuis dix jours: c’est <persName ref="people.xml#aug01"> Zelmire</persName> qui
+    s’est réfugiée chez moi, courant risque de la vie chez l’ <rs ref="people.xml#fri06"> indigne
+     maroufle</rs>, son conjoint; il n’y a pas de mauvais traitement ni d’ignominie qu’elle n’ait
+    essuyés ou eu à craindre; j’ai saisi l’occasion favorable pour faire dire au maroufle endiablé
+    de s’en aller d’ici. Il m’a écrit une lettre d’enragé, ma il a dû plier bagage, et est
+    réellement parti mardi passé. Il a dit qu’il partait pour aller trouver son beau-père,
+     et <persName ref="people.xml#aug01"> Zelmire</persName> tremble qu’il ne la noircisse près de
+    ses parents. Le public est tout contre le maroufle; ses plus proches ne le justifient pas, ma
+    ils auraient voulu être avertis par <persName ref="people.xml#aug01"> Zelmire</persName>; or,
+    celle-ci, en conscience, ne pouvait les avertir; on me boude, je crois aussi, ma on aura la
+    double peine de se fâcher et défâcher. Mon intention nette et claire est de renvoyer <persName
+     ref="people.xml#aug01"> Zelmire</persName> à ses parents, et dans toute cette affaire j’ai
+    fait, je fais et je ferai ce que je dois faire; je ne puis attendre la réponse des parents ici,
+    puisque je pars le 2 janvier. Je ne puis renvoyer <persName ref="people.xml#aug01">
+     Zelmire</persName> à l’aventure: aussi je la ferai partir d’ici où elle ne peut rester non
+    plus; je ne puis vous dire au juste dans ce moment l’endroit où elle ira attendre la décision de
+    son sort, parce que cela dépend du local, et que j’ai envoyé dans plusieurs endroits pour lui
+    choisir un asile commode et décent; outre cela, je lui ai promis que sans sa propre volonté et
+    sans être sûre que son sort s’améliorera selon sa triste situation, elle ne sera pas obligée de
+    quitter la solitude ou l’en attendant qu’elle occupera pendant ce temps; tout cela, je pense,
+    est humain et décent; autant que j’ai pu, j’ai jeté le voile du silence sur des horreurs, et le
+    lendemain j’ai envoyé un courrier et j’ai écrit au <rs ref="people.xml#kar03"> père
+     de </rs><persName ref="people.xml#aug01"> Zelmire</persName> et l’ai prié de s’entendre
+    amicalement avec moi. Je trouve <persName ref="people.xml#aug01"> Zelmire</persName>, au reste,
+    rien moins que sotte; elle est assez courageuse et ferme, et espère que je ne l’abandonnerai
+    pas; aussi ne le ferai-je; elle voudrait bien rester à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName> et nommément chez moi, <seg xml:lang="it"> ma</seg> à ceci il n’y a pas
+    d’apparence, parce que chez nous on sera bien aise d’oublier toute cette désagréable histoire;
+    il faut avouer que la famille de <persName ref="people.xml#aug01"> Zelmire</persName> n’a pas eu
+    de bonheur au <placeName ref="places.xml#rus01"> Russie</placeName>: voilà la huitième ou
+    neuvième personne qui y souffre. Faites-moi savoir ce que vous apprendrez des sentiments du <rs
+     ref="people.xml#kar03"> père</rs> de <persName ref="people.xml#aug01"> Zelmire</persName>:
+    est-il content de moi? ne l’est-il pas? Je ne puis croire que le maroufle réussisse à lui faire
+    oublier qu’il est un méchant; j’ai trop bonne opinion de la tête d’un des héros du siècle. Le
+    maroufle est un héros en méchanceté: on dit qu’il va s’établir en <placeName
+     ref="places.xml#swi01"> Suisse</placeName>. Il a dit lui-même à <persName
+     ref="people.xml#aug01"> Zelmire</persName> qu’il était ennemi implacable et qu’il ne savait pas
+    comment on pouvait pardonner; ne voilà-t-il pas un joli petit caractère?</p>
+   <p>Description métaphysique etc. de l’ <rs ref="people.xml#dmi01"> habit rouge</rs>.</p>
+   <p>Remarques sur la lettre de <persName ref="people.xml#bus01"> Du Buscher</persName>, que j’ai
+    numérotées par articles:</p>
+   <p>No 1. Le <persName ref="people.xml#lig01"> prince de Ligne</persName> m’a dit en <placeName
+     ref="places.xml#cri01"> Tauride</placeName> qu’à son arrivée à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> il y trouverait un portrait de <persName
+     ref="people.xml#pet01"> Pierre I</persName>. peint par <persName ref="people.xml#net01">
+     Netcher</persName>, et quand il est arrivé, il ne l’a pas trouvé; pour moi, je ne l’ai ni
+    demandé, ni commandé, ni ne le demande, ni ne le commande.</p>
+   <p>No 2. Quand le <persName ref="people.xml#lig01"> prince de Ligne</persName> voudra que je me
+    mêle de ses affaires, il me le dira, écrira ou fera savoir par quelqu’un autorisé par lui et en
+    son nom.</p>
+   <p>No 3. Je n’ai point reçu de <persName ref="people.xml#hen02"> Henri</persName> quatre dessins
+    en pied et au crayon, ni n’en veux recevoir, parce que je ne l’ai ni demandé, ni commandé.</p>
+   <p>No 4. Pour ceci il faut s’adresser à quelque meilleur commissionnaire que moi, qui n’entends
+    rien aux commissions faute d’usage dans ce métier-là, dans lequel je pourrais être, malgré mon
+    âge, très novice.</p>
+   <p>No 5. Pour la science de lire dans l’avenir, recommandez-le si vous voulez à Gu. le loué.</p>
+   <p>No 6. Voilà encore un cadeau que je n’ai point désiré.</p>
+   <p>No 7. De ma vie je n’ai vu d’étrennes mignonnes couvertes de dentelles, ni n’en ai demandé, ni
+    n’ai aucune liaison avec M. Poggenpohl.</p>
+   <p>No 8. Jamais n’ai ni vu, ni commandé rien de pareil et prié instanément de ne point m’en
+    envoyer, ni de venir lui-même. Pour M. <persName ref="people.xml#mic01"> Michel</persName>, il
+    est mort depuis plus de dix ans, et de son vivant nous n’avions aucune connexion ensemble.</p>
+   <p>No 9. J’ai trois exemplaires dans ma bibliothèque des ouvrages de <persName
+     ref="people.xml#bor03"> M. de La Borde</persName>; il se peut qu’il m’en ait envoyé un, mais
+    oncques me souvient autant pour la lettre ; on ferait au reste fort bien de ne m’envoyer que ce
+    que je demande; alors on aurait moins de raison de se plaindre de moi.</p>
+   <p>No 10. Je n’ai ni vu, ni reçu, ni commandé rien de tout cela.</p>
+   <p>No 11. Je ne demande point d’hommage, et ne permets ni n’aime les épithètes.</p>
+   <p>No 12. Priez-le d’employer son zèle plus utilement ailleurs.</p>
+   <p>NB. Ce du <persName ref="people.xml#bus01"> Buscher</persName> doit être un insupportable
+    bavard; le <persName ref="people.xml#lig01"> pr. de Ligne</persName> dit que c’est le plus
+    insolent nouvellistes de <placeName ref="places.xml#par01"> Paris</placeName>; je ne sais
+    pourquoi il s’est avisé de lui écrire de <placeName ref="places.xml#mos01"> Moscou</placeName>,
+    et voilà qu’il me l’a mis sur les bras.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00046</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00046</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#austriaholyromanempire"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-22">22 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-06-04">4 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup and tagging, metadata.</p>
+            </change>
+            <change>
+                <date when="2014-06-09">9 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr">
+                <body>
+                    
+                    <p>J'ai reçue hier, mes chers enfants, Votre lettre au moment, que je sortais;
+                        c'est ce qui m'a empêché de Vous témoigner tout de suite ma sensibilité sur
+                        les sentiments, que Vous me marquez en m'envoyant la lettre, que <rs
+                            ref="people.xml#jos01">l'Empereur</rs> Vous écrit par son courrier; la
+                        santé de ce Prince paraît être meilleure, il est passé de <placeName
+                            ref="places.xml#vie01">Vienne</placeName> à <placeName
+                            ref="places.xml#lax01">Laxenbourg</placeName>; les assurances de son
+                        amitié sont assurément sincères, ses intérêts se lients [sic] plus, que
+                        jamais aux nôtres dans les circonstances actuelles et celles, qui sont à
+                        prévoir. L'heureuse union de <rs ref="people.xml#mar04">Madame
+                            l'Archiduchesse</rs> me fait un vrai plaisir; Elle me paraît mariée avec
+                            <rs ref="people.xml#vic02">celui de ses prétendants</rs> qui pouvait la
+                        rendre heureuse.</p>
+                    <closer><signed rend="inline">Je Vous embrasse tous les deux de tout mon
+                            coeur.</signed><dateline><date from="1789-05" to="1789-07"
+                                >Dimanche, à 9 heures du matim. [sic]</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>I received your letter yesterday, my dear children, just as I was going out.
+                        That is what prevented me from immediately expressing my sensibility to the
+                        sentiments that you show me in sending me the letter that the Emperor wrote
+                        you by his courier. That Prince's health seems better; he has gone from
+                        Vienna to Laxenburg. His assurances of friendship are assuredly sincere: his
+                        interests are more tied to ours than ever under the present circumstances
+                        and under those that one can foresee. I am truly glad of the Archduchess's
+                        happy union. She seems to have married the one suitor who could make her
+                        happy.</p>
+                    <closer><signed rend="inline">I embrace you both with all my
+                                heart.</signed><dateline><date from="1789-05" to="1789-07"
+                                >Sunday, at 9 o'clock in the morning.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

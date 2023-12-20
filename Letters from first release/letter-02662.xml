@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02662</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02662</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#england"/>
+                    <term target="kw.xml#austria"/>
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-18">18 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02662">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1770-09-28">ce 28 de Septembre
+                            1770</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> En recevant les nouvelles dont Votre Majesté m'a fait part dans Sa lettre du
+                        14 de ce mois n. st. j'ai vu avec une vraie satisfaction que le moment
+                        approche de mettre fin aux malheurs de cette guerre. Mes dispositions sont
+                        trop connues de Votre Majesté, pour que depuis longtemps Elle ne se soit
+                        répondue pour moi à Elle même, que j'embrasserai avec empressement ou même
+                        ferai naître la première occasion descente d'une réconciliation. Une
+                        nouvelle preuve de ces sentiments je viens de la donner, elle démontre et ma
+                        modération et mon désir pour la paix, dont j'espère que Votre Majesté est
+                        persuadée depuis longtemps. J'ai fait écrire par mon maréchal <persName
+                            ref="people.xml#rum01">le comte Roumianzoff</persName> une lettre au
+                        Vizir pour demander l'élargissement de mon ministre <persName
+                            ref="people.xml#obr01">le sieur Obrescoff</persName>, comme le préalable
+                        d'une négociation. J'ai fait remettre la traduction de cette lettre au
+                            <persName ref="people.xml#sol01">comte de Solms</persName> pour qu'il la
+                        fasse parvenir à Votre Majesté. Je suis fâchée de trouver que <placeName
+                            ref="places.xml#ott01">la Porte</placeName>, dans la forme qu'elle
+                        voudrait donner à la négociation de la paix, s'éloigne trop de mes idées et
+                        de ce que j'ai toujours demandé par rapport à <rs ref="people.xml#obr01">mon
+                            ministre</rs>. Je me fais une conscience de laisser à la disposition
+                        d'un ennemi barbare <rs ref="people.xml#obr01">un ministre</rs>, la victime
+                        de sa fidélité, de son service et de son zèle pour mon empire et pour moi,
+                        et qui par là même demande la plus grande considération de ma part.
+                        L'honneur même me défend de penser autrement. L'humanité et la dignité
+                        s'oppossent à une telle complaisance à laquelle répugnent outre cela des
+                        considérations d'état prises de la conduite même que les Turcs tinrent avec
+                        les ministres<note type="editorial"><ref target="people.xml#sha01">Petr
+                                Shafirov</ref> and <ref target="people.xml#tol01">Petr
+                            Tolstoy</ref>.</note> de <placeName ref="places.xml#rus01"
+                            >Russie</placeName>, qui étaient entre leurs mains, tandis qu'ils
+                        négociaient avec <persName ref="people.xml#pet01">Pierre le
+                        Grand</persName>. Ils les firent entrer et sortir des sept tours une demi
+                        douzaine de fois. Je ne puis ni ne veux m'exposer à de nouveaux affronts,
+                        qui ne feraient que prolonger la guerre, et éloigueraient la fin de la
+                        négociation. Je renouvelle donc près de Votre Majesté mes vives instances
+                        pour qu'Elle emploie ses bons offices, dans lesquels mon amitié pour Votre
+                        Majesté me porte à avoir toute la confiance possible, afin que <rs
+                            ref="people.xml#obr01">mon ministre</rs> soit renvoyé dans mes états et
+                        remis entre mes mains, avant que de rien commencer. Ce point m'en est un de
+                        la plus grande considération duquel je ne puis me départir. Mais aussi dès
+                        qu'il sera accordé, je suis prête à entamer la négociation. Je sais qu'il
+                        n'y a point de nation avec laquelle il soit plus utile d'avoir des
+                        médiateurs qu'avec les Turcs, pour leur faire entendre raison souvent. Je
+                        sais bien aussi que je ne puis en souhaiter de meilleur que Votre Majesté,
+                        la connexion intime de nos intérêts, la réciprocité de l'amitié, j'ose dire
+                        celle des sentiments, m'auraient porté à demander à Votre Majesté Elle-même
+                        ce que mon ennemi lui propose. Mais il arrive souvent, que c'est sur les
+                        choses qu'on a le plus à coeur qu'on est aussi le plus gêné. Je me trouve
+                        cette fois ci dans un embarras extrême vis-à-vis de <placeName
+                            ref="places.xml#eng01">l'Angleterre</placeName>, soit pour l'exclure
+                        d'une méditation s'il y en a une, soit pour l'y admettre. Dès le
+                        commencement de la guerre cette cour avait formellement et sans cesse
+                        demandé la médiation. Je ne la lui ai promise que conjointement avec Votre
+                        Majesté, mais toujours c'est une promesse, et une promesse d'autant plus
+                        forte, que j'ai beaucoup d'obligations aux Anglais dans cette guerre pour
+                        tous les bons procédés qu'ils ont eus envers la <placeName
+                            ref="places.xml#rus01">Russie</placeName>. Je suis donc liée vis-à-vis
+                        des Anglais dès qu'il y aura une médiation. Je prévois, ainsi que Votre
+                        Majesté, l'embarras qu'il y aura à se débarrasser de la <placeName
+                            ref="places.xml#fra01">France</placeName>, qui ne voudra pas céder à sa
+                        rivale, et qui se mettra aussi sur les rangs. Je ne sentirai point à
+                        beaucoup près la même répugnance pour la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName> que naturellement j'en dois
+                        avoir pour celle de <placeName ref="places.xml#fra01">France</placeName> en
+                        la voyant se mêler de mes affaires, que je ne puis en aucune manière donner
+                        à diriger à <persName ref="people.xml#cho03">Mr. Choiseul</persName>,
+                        l'ennemi juré de mon état et de ma personne. La cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName> au contraire, toute liée
+                        qu'elle est avec la <placeName ref="places.xml#fra01">France</placeName>,
+                        regardera toujours les Turcs sur le pied qu'ils le doivent être à son égard.
+                        Mais ce sentiment que j'ai ne remédie point à l'obstacle de <placeName
+                            ref="places.xml#eng01">l'Angleterre</placeName>. J'ai chargé mon <rs
+                            ref="people.xml#pan01">ministre</rs> de rédiger un mémoire,<note
+                            type="editorial">Presumably the 'Note remise par le ministère de Sa
+                            Majesté Impériale de toutes les Russies à Mr le comte de Solms, ministre
+                            plénipotentiaire de Sa Majesté le Roi de Prusse le 29 septembre 1770',
+                            published in <bibl><title ref="works.xml#sborni01">SIRIO</title>,
+                                    <biblScope unit="vol">vol. 97</biblScope>, <biblScope unit="pp"
+                                    >pp. 150-57</biblScope></bibl>.</note> où mes dispositions et
+                        l'embarras des circonstances sont exposés au vrai, et la partie de ce
+                        mémoire qui regarde la médiation y est mise dans une telle forme que je
+                        remets avec toute confiance au bon plaisir de Votre Majesté de le
+                        communiquer, si Elle le juge à propos, à la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName>, pour que celle-là voie ma
+                        droiture, ma bonne foi, mes vrais sentiments sur la médiation. Me remettant
+                        au reste à l'intérêt sincère que Votre Majesté prend à mes affaires et dont
+                        j'ai tant de preuves, et à son amitié, qu'Elle voudra bien donner à toute
+                        chose la tournure la plus favorable. Je ne vois d'autres remède à ce
+                        confluant de circonstances embarrassantes, que celui d'éviter le nom et les
+                        formalités d'une médiation; je suis prête à accepter l'interposition des
+                        bons offices de la cour de <placeName ref="places.xml#vie01"
+                            >Vienne</placeName>. Ceux de Votre Majesté je les demande, et je m'en
+                        crois assurée, en conséquence de cette amitié constante tant éprouvée qui
+                        subsiste heureusement entre nous. Pour ce qui regarde les affaires de
+                            <placeName ref="places.xml#pol01">Pologne</placeName>, je ne me
+                        refuserai point à tout ce qui se pourra faire avec décence et modération
+                        pour les pacifier. Votre Majesté me rendra justice qu'il n'a pas tenu à moi
+                        que cette œuvre salutaire ne soit faite, puisque j'ai déjà donné une
+                        déclaration qui y aurait indubitablement conduit, si les intrigues et les
+                        oppositions des <rs type="orgs" ref="org.xml#czart01">Czartorisky</rs> n'y
+                        avait nuit, je m'en-vais donner de nouveaux ordres à <rs
+                            ref="people.xml#vol02">mon ambassadeur</rs> sur cet objet, et je prie
+                        Votre Majesté d'autoriser son <rs ref="people.xml#ben01">ministre</rs> à
+                            <placeName ref="places.xml#war01">Varsovie</placeName> à coopérer aux
+                        démarches que le mien fera en conséquence pour la réconciliation des
+                        esprits, et la pacification de <rs ref="places.xml#pol01">ce pays là</rs>. </p>
+                    <closer>
+                        <signed>J'ai l'honneur d'être avec la plus haute considération et l'amitié
+                            la plus invariable, Monsieur mon Frère, de Votre Majesté la bonne Soeur
+                            et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

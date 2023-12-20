@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00017</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00017</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-03">03 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some further tagging.</p>
+            </change>
+            <change>
+                <date when="2015-06-18">18 June 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00017">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#pet02">Peterhof</placeName>
+                        <date when-custom="1774-07-08">ce 8 juillet v.st. 1774</date></dateline>
+                    <salute>Monsieur mon Frère et Cousin,</salute></opener>
+                    <p>La lettre de Votre Majesté en date du 7 juillet n.st. vient de m'instruire
+                        des circonstances qui L'ont engagée à différer Son voyage de <placeName
+                            ref="places.xml#fin01">Finlande</placeName> jusqu'à l'année prochaine,
+                        et que ce ne sera qu'alors que j'aurai le plaisir et l'honneur de La voir
+                        dans mes États. Ne pouvant douter de la sincérité des sentiments de Votre
+                        Majesté à mon égard, qu'Elle a trouvé bon de me réitérer tant de fois et en
+                        toute occasion, je ne peux, en vivant dans l'attente de voir remplir la
+                        promesse que Votre Majesté veut bien me faire, que fermer mon ouïe et mon
+                        entendement aux interprétations sinistres de gens mal instruits des
+                        intentions de Votre Majesté.</p>
+                    <closer> Me réjouissant au reste avec Elle de l'heureuse arrivée de <rs
+                            ref="people.xml#hed01">la Princesse</rs> et de l'accomplissement du
+                        mariage de M<hi rend="sup">r</hi> le <rs ref="people.xml#cha01">Duc de
+                            Sudermanie</rs>, quoiqu'il m'ait privé de la satisfaction d'assurer
+                        Votre Majesté de bouche que je serai toujours avec la plus haute
+                        considération et une amitié très sincère, <signed rend="below">Monsieur mon Frère et
+                            Cousin, de Votre Majesté, la bonne Sœur, Cousine et Voisine,
+                        <persName rend="below" ref="people.xml#cat01"> Caterine</persName></signed>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#pet02">Peterhof</placeName>
+                        <date when-custom="1774-07-08">this 8 July o.s. 1774</date></dateline>
+                    <salute>My dear Brother and Cousin,</salute></opener>
+                    <p>I was just informed by Your Majesty's letter dated 7 July n.s. of the
+                        circumstances which have bound You to defer Your voyage to Finland until
+                        next year, and that I will not before then have the pleasure and the honour
+                        of seeing You in my Realms. Since I cannot doubt the sincerity of Your
+                        Majesty's sentiments towards me, which You have found good to reiterate to
+                        me so many times and on all occasions, while I live in expectation of seeing
+                        the fulfilment of the promise that Your Majesty is pleased to make to me, I
+                        cannot but close my ears and my understanding to the sinister
+                        interpretations given by people ill-informed of Your Majesty's intentions. </p>
+
+                    <closer> Besides, I rejoice with You at the fortunate arrival of the Princess
+                        and the conclusion of the Duke of Sudermanland's marriage, even though it
+                        has deprived me of the satisfaction of assuring You orally that I will
+                        always be with the highest regard and most sincere friendship, <signed
+                            rend="below">My dear Brother and Cousin, Your Majesty's good Sister,
+                            Cousin and Neighbour,
+                        <persName rend="below"> Caterine</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

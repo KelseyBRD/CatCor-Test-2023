@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08236</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08236</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+  
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:23:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08236">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1774-09-26">26 septembre 1774</date>.</dateline></opener>
+   <p>Je me hâte de répondre à la lettre de V. A. R. du 23 de septembre n. st., je m’en vais Lui
+    exposer la plus exacte vérité et Lui faire naïvement le récit des raisons qui m'ont porté à Lui
+    écrire ma précédente qui a eu le malheur à troubler, à ce qu'Elle me dit, Sa tranquillité à mon
+    très grand regret. Après quoi je m'en remettrai à la décision et au bon plaisir de V. A. R.,
+    supposant avant tout qu'Elle est parfaitement convaincue du plaisir que j'aurais en tout temps
+    de La revoir, de la sincérité de mon amitié pour Elle, de mon estime distinguée pour Ses hautes
+    qualités et de ma reconnaissance pour tous les témoignages d'affection qu'Elle ne discontinue de
+    me marquer. Je m'en vais à <placeName ref="places.xml#mos01">Moscou</placeName> entre le 15
+    décembre et le 15 janvier, et par conséquent pendant le plus grand froid et vers le grand
+    carême, temps le plus ennuyeux et le plus retiré de l'année. Je n'ai dans cette ville jusqu'ici
+    ni feu ni lieu, les meilleurs quartiers de la ville sont brûlés, ma maison a eu le même sort
+    pendant la peste. J'occuperai trois maisons de particuliers qui seront jointes ensemble par une
+    quatrième baraque de bois qu’on bâtit, ce qui, le tout considéré, fera à peine une habitation
+    décente, tout mon monde sera dispersé à l’entour comme ils pourront. Pendant l'été je n'ai
+    qu'une seule maison à <placeName ref="places.xml#kol01"> Kolomensky</placeName>, sans
+    promenades, sans aucun agrément que la vue qui est très belle, et ce sera un chagrin constant de
+    ne pouvoir non seulement La recevoir comme je le désirerais, mais même d'être privée de la
+    possibilité de Lui procurer tous les amusements et en ville et à la campagne que je
+    souhaiterais. Je ne suis pas même sûre si j'y aurais un spectacle, je serais donc réduite
+    uniquement à La promener de couvent à couvent et d'églises en églises. Ce voyage, par lui même
+    déjà et dans ces circonstances, m'obligera à quantité de tournées pareilles qui ne pourraient
+    qu'excéder V. A. R. d'ennui et de fatigues. Mais lors de mon retour ici et vers la belle saison
+    j'oserai me flatter de Lui rendre Son séjour plus supportable et par la variété des endroits et
+    par leurs commodités et agréments, et je n’aurai pas à appréhender, outre tout cela, que ce
+    voyage, et dans une telle saison, nuisît à Sa précieuse santé.</p>
+   <p>Après avoir exposé à V. A. R., le plus ingénûment que j'ai pu, les raisons que j'ai eues lors
+    de l'envoi de ma dernière, je les remets à la décision de V. A. R. et, quel-quelle soit, je La
+    prie d'être assurée de la haute consideration. . .</p>
+  </body>
+ </text>
+</TEI>

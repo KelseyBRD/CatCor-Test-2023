@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02732</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02732</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greece"/>
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of ‘Berdoni’</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change>
+    <date when="2021-04-15">15-04-2021</date>
+    <persName>Gabriel O'Regan</persName>
+    <label>Initial markup</label>
+   </change>
+   <change>
+    <date>2021-05-10T11:21:41Z</date>
+    <name>Microsoft Office User</name>
+   </change>
+   <change>
+    <date when="2021-05-10">10-05-2021</date>
+    <persName>HD|DH</persName>
+    <label>Conversion to xml and checking</label>
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02732">
+  <body>
+
+   <p>Monsieur, Un Courier parti de devant <placeName ref="places.xml#kor01"> Coron</placeName> en
+     <placeName ref="places.xml#mor01"> Morée</placeName> de la part du Cte: Feodor <persName ref="people.xml#orl05">
+     Orlow</persName> m'a apporté l'agréable nouvelle qu'après que m'a Flotte eut abordé le 17
+    Février à <placeName ref="places.xml#por03"> Porto Vitello</placeName>, mes trouppes se joignirent aux Grecs
+    qui désiroit de recouvrer leur liberté. Ils se partagèrent en deux Corps dont l'un prit le nom
+    de Légion orientale de <placeName ref="places.xml#spa03"> Sparte</placeName> et le second celui de Légion du
+    Nord de <placeName ref="places.xml#spa03"> Sparte</placeName>; La première s'empara en peu de jours de
+     <placeName ref="places.xml#las01"> Passava</placeName>, de Berdoni et de <placeName ref="places.xml#mys01">
+     Misistra</placeName> qui est l'ancienne <placeName ref="places.xml#spa03"> Sparte</placeName>. La seconde
+    s'en alla prendre <placeName ref="places.xml#kal02"> Calamata</placeName>, <placeName ref="places.xml#leo01">
+     Leontari</placeName>, et <placeName ref="places.xml#arc02"> Arcadie</placeName>. Ils firent quatre mille
+    prisonier Turks dans ses différentes places qui se rendirent après quelque deffense, surtout
+    celle de <placeName ref="places.xml#mys01"> Misistra</placeName> fut plus sérieuses que les autres; La
+    plupart des Villes de la <placeName ref="places.xml#mor01"> Morée</placeName> sont assiégée. La Flotte
+    s'étoit porté de <placeName ref="places.xml#por03"> Porto Vitello</placeName> à <placeName ref="places.xml#kor01">
+     Coron</placeName>, mais cette dernière Ville n'étoit point prise encore le 29 mars, jour du
+    départ du Courier. Cependant on en attendoit si bien dans peu la réduction qu'on avoit déjà
+    dépêché trois vaisseaux pour s'emparer de <placeName ref="places.xml#nav01"> Navarin</placeName>. Le vingt
+    huit on avoit reçu la Nouvelle devant <placeName ref="places.xml#kor01"> Coron</placeName> d'une affaire qui
+    s'étoit passé entre les Grecs et les Turks au passage de <placeName ref="places.xml#cor01"> l'Istme de
+     Corinthe</placeName>. Le comandant Turk a été fait prisonier à cette occasion mais on n'en avoit
+    point encore de détail, et Je me hâte de Vous doner ses bonnes nouvelles monsieur parce que je
+    sai qu'elles Vous feront plaisir et que cela est bien autentiques puisque cela me vient
+    directement. Je m'acquite aussi par là de la promesse que je Vous ai faite de Vous comuniquer
+    les nouvelles que j'aurai. Soyéz assuré monsieur de l'invariabilité de mes sentimens.</p>
+   <closer><signed>
+     <persName ref="people.xml#cat01"> Caterine</persName>
+    </signed></closer>
+   <postscript>
+    <opener><dateline> ce <date when-custom="1770-05-27">27 May 1770</date></dateline></opener>
+    <p>Voilà la <placeName ref="places.xml#gre02"> Grece</placeName> au point de redevenir libre
+     mais elle est bien loin encore d'être ce qu'elle a été; cependant on entend avec plaisir nomer
+     le lieu dont on nous a tant battu les oreilles dans notre enfance.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

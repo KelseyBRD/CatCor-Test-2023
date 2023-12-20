@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03014</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03014</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-13">13/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:37:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03014">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1778-09-1">1 septembre 1778</date>, à <placeName
+     ref="places.xml#pet01"> St Pétersbourg</placeName>.</dateline></opener>
+   <p>Je mourrai, je mourrai pour sûr: il fait un très grand vent de la mer, le pire de tout pour
+    l’imagination; j’ai été ce matin au bain, cela m’a fait monter le sang à la tête, et cet
+    après-midi les plafonds des <title ref="works.xml#logera01"> loges de Raphael</title> me
+    sont tombés entre les mains. Il n’y a absolument que l’espérance qui me soutient; je vous prie
+    de me sauver: écrivez tout de suite à <persName ref="people.xml#rei01"> Reiffenstein</persName>,
+    je vous en prie, de faire copier ces voûtes en grandeur naturelle, de même que les murs, et je
+    fais voeu à saint-Raphaël de faire construire ses loges coûte que coûte et d’y placer les
+    copies, car il faut absolument que je les voie comme elles sont. J’ai une telle vénération pour
+    ces loges, ces plafonds, que je leur voue la dépense de ce bâtiment et que je n’aurai ni paix ni
+    repos jusqu’à ce que cela soit sur pied. Hélas, si on me faisait un petit modèle du bâtiment,
+    les dimensions prises avec exactitude dans la ville des modèles, dans <placeName ref="places.xml#rom03"> Rome</placeName>, on
+    m’approcherait du but. Or, c’est encore le divin <persName ref="people.xml#rei03">
+     Reiffenstein</persName> qui pourrait avoir cette belle commission, si M. le baron
+    de <persName ref="people.xml#gri01"> Grimm</persName> le voulait bien; je vous avoue que j’aime mieux vous en charger que
+     <persName ref="people.xml#shu02"> M. de Schouvalof</persName>, parce que celui-là est toujours
+    à mettre des incertitudes partout, et que les incertitudes sont de toutes les choses du monde
+    celles qui font pâtir le plus les gens conformés comme moi. Vous nommerez tout cela du
+    raisonnement ou du déraisonnement, comme il vous plaira, mais tant il y a que chacun raisonne ou
+    déraisonne comme il peut. </p>
+   <closer><signed rend="inline">Adieu, monsieur, que le ciel vous tienne en joie et en santé. Dites-moi
+    un jour, pourquoi les Autrichiens, vont comme les écrévisses, à reculons? et d’où vient que le
+    seigneur tondu a donné son dos à tondre <seg xml:lang="de"> ohne zu mucken</seg>? voilà pourtant
+    qui est bien incompréhensible, <seg xml:lang="de"> wie man die Leute bereden kann zu derlei
+     Schererei</seg> !</signed></closer>
+  </body>
+ </text>
+</TEI>

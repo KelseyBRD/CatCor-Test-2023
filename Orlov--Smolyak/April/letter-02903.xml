@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02903</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02903</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>added reference to Catherine’s letter from 25 February 1773 (letter-02902) </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-30">30-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-06-28T10:01:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-06-28">28-06-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02903">
+  <body>
+   <div>
+    <p>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+     Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.</p>
+    <p rend="Salute">Нашему генералу аншефу графу <persName ref="people.xml#orl03"> Алексею
+      Орлову</persName>.</p>
+    <p>Из последняго , <persName ref="people.xml#cat01"> Нашего</persName> к <persName
+      ref="people.xml#orl03"> вам</persName> рескрипта, от <ref target="#letter-02902">25
+      Февраля</ref>, <persName ref="people.xml#orl03"> вы</persName> уже видели, что <persName
+      ref="people.xml#cat01"> Мы</persName> малую надежду полагали на успех <name
+      ref="events.xml#bucha01"> Нашей мирной негоциации</name> и считали тот рескрипт нашедшим
+      <persName ref="people.xml#orl03"> вас</persName>, по истечении срока <name
+      ref="events.xml#giurg01"> перемирия</name>, в полном уже действии против <placeName
+      ref="places.xml#ott01"> неприятеля</placeName>. Теперь за нужно находим присовокупить к оному,
+     что <name ref="events.xml#giurg01"> перемирие</name> , <persName ref="people.xml#cat01">
+      Наше</persName> совершенно с сроком своим пресеклось и <persName ref="people.xml#obr01">
+      обоюдные </persName><persName ref="people.xml#rez02">послы</persName>, не возмогши совершить
+     желанным образом порученнаго им великаго дела, разъехались из <placeName
+      ref="places.xml#buc01"> Бухареста</placeName>, яко из такого города, в близости котораго
+     военныя действия начаться имеют и в котором, следственно, в разсуждении их характеров,
+     невозможно им оставаться. Для усмотрения же <persName ref="people.xml#orl03">
+     вашего</persName>, каким образом послы разсталися, включается здесь копия с конвенции, между
+     ими постановленной.</p>
+    <p>Таким образом всеместная , <persName ref="people.xml#cat01"> Наша</persName> с <placeName
+      ref="places.xml#ott01"> Турками </placeName><name ref="events.xml#turki01">война</name> опять
+     воспламенилась, и <persName ref="people.xml#cat01"> Мы</persName>, с внутренним удостоверением,
+     уповаем, что <persName ref="people.xml#orl03"> вы</persName>, доказав толикими опытами
+      <persName ref="people.xml#orl03"> вашу</persName> в службе ревность, верность и мужество,
+     употребите все, что токмо в человеческих силах возможно, к поражению и нанесению вреда
+      <placeName ref="places.xml#ott01"> неприятелю</placeName>; а потому <persName
+      ref="people.xml#orl03"> вам</persName>, как искусством своим прославившемуся предводителю,
+     никаких точных предписаний операциям <persName ref="people.xml#orl03"> вашим</persName> делать
+     и тем <persName ref="people.xml#orl03"> вам</persName> руки связывать, в таковом отсюда
+     отдаления, не хотим, но отдаем все оное наилучшему <persName ref="people.xml#orl03">
+      вашему</persName> на месте усмотрению в совершенной и справедливой к <persName
+      ref="people.xml#orl03"> вам</persName> доверенности. Буде же <persName ref="people.xml#orl03">
+      вы</persName> имеете нужду в подкреплении <persName ref="people.xml#orl03"> вас</persName>
+     отсюда новыми силами, то рекомендуем <persName ref="people.xml#orl03"> вам</persName> об оном
+     немедленно <persName ref="people.xml#cat01"> Нам</persName> представить, дабы <persName
+      ref="people.xml#cat01"> Мы</persName>, без потеряния времени, могли нынешним еще летом
+     отправить к <persName ref="people.xml#orl03"> вам</persName> некоторую часть <orgName
+      ref="orgs.xml#russ02"> флота Нашего</orgName> для подкрепления. Впрочем, препоручая вас
+     защищению Всевышняго, пребываем навсегда Императорскою Нашею милостию благосклонны. </p>
+    <closer><dateline rend="inline"> Дан в <placeName ref="places.xml#pet01">
+       Санктпетербурге</placeName>, <date when-custom="1773-04-09">9 апреля 1773
+      года</date>.</dateline>
+     <signed><persName ref="people.xml#cat01" type="signature">
+     Екатерина</persName></signed></closer>
+   </div>
+   <div>
+    <opener>
+     <dateline>Приложение к рескрипту <date when-custom="1773-04-09">9 апреля 1773
+      года</date></dateline>
+     <salute>Конвенция,</salute></opener>
+    <p>постановленная 10 марта 1773 года, между чрезвычайными и полномочными послами, с стороны
+      <placeName ref="places.xml#rus01"> Российской империи</placeName> тайным советником,
+     государственной коллегии иностранных дел членом и орденов святаго Александра и святыя Анны
+     кавалером, <persName ref="people.xml#obr01"> Алексеем Обрезковым</persName>, а с стороны
+     блистательной <placeName ref="places.xml#ott01"> Порты </placeName><persName
+      ref="people.xml#rez02">Эльхаджи Абдур Резак</persName>, действительным рейс эффендием.</p>
+    <p>Божиим предопределением, воля и намерения обеих <placeName ref="places.xml#rus01"> высочайших
+      </placeName><placeName ref="places.xml#ott01">империй</placeName>, не будучи поныне
+     споспешествуемы, видя <name ref="events.xml#giurg01">перемирие</name> истекшим, почитая <name
+      ref="events.xml#bucha01"> дальнейшее наше пребывание</name> в городе <placeName
+      ref="places.xml#buc01"> Бухаресте</placeName> непристойным, по причине военных в близости
+     онаго операций, и не находя за нужное разрушить цепь <name ref="events.xml#bucha01"> Нашей
+      негоциации</name>, по самопроизволению нашему, и в силу полных наших мочей, согласились мы,
+     без прерывания, продолжать вверенную нам от высочайших <placeName ref="places.xml#rus01"> наших</placeName><placeName ref="places.xml#ott01">
+     дворов</placeName> мирную негоциацию следующим образом:</p>
+    <p>1.</p>
+    <p>Выехав из <placeName ref="places.xml#buc01"> Бухареста</placeName>, мы, послы, поудержимся:
+      <persName ref="people.xml#obr01"> я</persName>, российский посол, в каком нибудь месте<note
+      place="foot" xml:id="ftn1" n="1"><p rend="footnote text"> Obreskov chose <placeName
+        ref="places.xml#rom04"> Roman</placeName>, a city in West Moldavia, where he arrived on 4th
+       April 1773.</p></note> в <placeName ref="places.xml#mol01"> Молдавии</placeName>, а его
+     превосходительство, <persName ref="people.xml#rez02"> оттоманский посол</persName>, в каком
+     нибудь месте<note place="foot" xml:id="ftn2" n="2"><p rend="footnote text"> Reis-effendi Abdur
+       Rezak went to <placeName ref="places.xml#sum01"> Shumen</placeName>. </p></note>, по ту
+     сторону <placeName ref="places.xml#dan01"> Дуная</placeName>, каждый по своему
+     благоизобретению.</p>
+    <p>2.</p>
+    <p>Каждый, по избрании для себя места, имеет взаимно повестить.</p>
+    <p>3.</p>
+    <p>Обещаемся иметь переписку всякой раз, когда дела онаго востребуют.</p>
+    <p>4.</p>
+    <p>Помянутая переписка должна происходить посредством <placeName ref="places.xml#giu01">
+      журжевскаго</placeName> коменданта и паши <placeName ref="places.xml#rus02">
+      рущукскаго</placeName>. <persName ref="people.xml#obr01"> Мои </persName>письма будут всегда
+     от <placeName ref="places.xml#giu01"> журжевскаго</placeName> коменданта отправляемы с нарочным
+     к <placeName ref="places.xml#rus02"> рущукскому</placeName> паше; а письма <persName
+      ref="people.xml#rez02"> его превосходительства</persName> — от <placeName
+      ref="places.xml#rus02"> рущукскаго</placeName> паши, равномерно с нарочным, к <placeName
+      ref="places.xml#giu01"> журжевскому</placeName> коменданту. Сии же посылаемые не имеют быть ни
+     обижаемы, ниже притесняемы.</p>
+    <p>5.</p>
+    <p>Если который из нас будет к <placeName ref="places.xml#rus01"> двору </placeName><placeName ref="places.xml#ott01">
+      своему</placeName> отозван, то сей отзыв для переписки нашей не должен быть предосудителен,
+     ниже негоциация наша должна быть сочтена разорванною; но где ни будем, должны, однакож,
+     переписываться, с тем только, чтоб о подобном отъезде было повещено.</p>
+    <p>6.</p>
+    <p>Ежели, с Божиею помощию, таковою нашею министериальною перепискою достигнем мы в мирном деле
+     благополучного окончания, тогда, повестя друг друга, съедемся на острове, между от <placeName
+      ref="places.xml#rus02"> Рущуком</placeName> и <placeName ref="places.xml#giu01">
+      Журжею</placeName> лежащем, или в какое нибудь другое место, в котором тогда условимся, для
+     размена трактатов.</p>
+    <p>7.</p>
+    <p>В случае же, когда не возможем согласиться и когда лишимся всей надежды и впредь видеть
+     благополучный успех нашей негоциации, должны, без потеряния времени, взаимно друг друга
+     повестить и с того только времени считать негоциацию совершенно разрушенною.</p>
+    <p>8.</p>
+    <p>В сем последнем случае, чего да не благоволит Господь, обязуемся возвратить взаимно все
+     письма, между нами подписанныя и размененныя. : <persName ref="people.xml#obr01"> Я</persName>,
+     запечатав все его превосходительства письма, имею послать к <placeName ref="places.xml#giu01">
+      журжевскому</placeName> коменданту, для вручения оных в собственныя руки паши <placeName
+      ref="places.xml#rus02"> рущукскаго</placeName>; а <persName ref="people.xml#rez02"> его
+      превосходительство</persName>, запечатав все мои, имеет, равным образом, послать оныя к
+     помянутому паше, для вручения оных в собственныя руки помянутаго коменданта.</p>
+    <p>9.</p>
+    <p>Все то, в чем мы согласимся и что учредим, касательно сего блаженнаго дела, посредством сей
+     нашей министериальной переписки, имеет быть столь же действительно, как бы то персонально и в
+     учрежденном для конгресса <placeName ref="places.xml#buc01"> месте</placeName> учинено
+     было.</p>
+    <p>К сему прибавлено <persName ref="people.xml#rez02"> турецким послом</persName> следующее:</p>
+    <p>«Таким образом, чтоб было сходственно с прежнею нашею коммиссиею, вверенною нам от <placeName
+      ref="places.xml#rus01"> дворов </placeName><placeName ref="places.xml#ott01">наших</placeName>, относительно наших полных
+     мочей и посольства с подлинными инструментами, с тою только переменою, что близкие наши
+     изустные переговоры, по некоторой необходимости, переменились в отдаленное сношение, которое да
+     будет столько же сильно и действительно, как бы никакой перемены в нашей полной мочи не
+     происходило».</p>
+    <p>Сей нашей конвенции, сделаны два равнаго содержания экземпляры, нами собственноручно
+     подписанные, печатьми нашими закрепленные и размененные между нами. </p>
+    <closer><dateline rend="inline">В <placeName ref="places.xml#buc01">
+      Бухаресте</placeName>, <date when-custom="1773-03-10">10 марта 1773 года</date>.</dateline></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

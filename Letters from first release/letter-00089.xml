@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00089</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00089</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-21">21 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00089">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный Князь Григорий
+                            Александрович.</salute></opener>
+                    <p> Письмы твои от 5 декабря я сегодня получила и спешу на оные ответствовать с
+                        едущим к тебе курьером. Ты дивишься моему совету, чтоб ты не заспесивел –
+                        вот какого писать за тысячи верст. Естьли б я с тобою говорила в ту минуту
+                        на словах, то б ты, поцаловав руку у меня, разстался бы со мною со слезами
+                        радости. Как мне тебе не сказать – не заспесивься, видя тебя покрытым
+                        успехами, коими тебя Бог благословил? <seg xml:lang="fr">Mon âme,
+                            remplie de joye, n’a rien fait autre chose que de Vous avertir un
+                            instant, qu’elle souhaitait que Vous évitiés la seule chose qui pouvoit
+                            nuire à toute la grandeur de la Vôtre, lisés y mon amitié vraiment
+                            maternelle pour Vous, et puis c’est tout; qui a mieux mérité cette
+                            couronne de Lauriers que je Vous envoye aujourd’hui que Vous? La voilà;
+                            puissiés-Vous la porter cent ans. De mitre Episcopale assurément Vous
+                            n’en aurés jamais de moi; et un couvent ne sauroit être habite par celui
+                            dont de nom retentit dans l’<placeName ref="places.xml#asi01"
+                                >Asie</placeName> et dans l’<placeName ref="places.xml#eur01"
+                                >Europe</placeName>, il est trop petit pour lui.</seg></p>
+                    <p>По твоим <rs ref="places.xml#ist01">цареградским</rs> известиям видно, что
+                        тамо унынья великие. <persName ref="people.xml#bul01">Булгакова</persName>
+                        они заподлинно выпустили, и он, как ты уже о том ведаешь, я чаю, из
+                            <placeName ref="places.xml#vie01">Вены</placeName>, приехал 3 дек[абря]
+                        в <placeName ref="places.xml#tri02">Триест</placeName>. Я писала, кой час
+                        сведала о сем, к нему, чтоб ехал к тебе, а в <placeName
+                            ref="places.xml#vie01">Вену</placeName>, чтоб укротили ему карантин.
+                        Странно, что поныне неизвестно, кто визирем? О <placeName
+                            ref="places.xml#pol01">Польше</placeName> я писала к тебе чрез <persName
+                            ref="people.xml#pop01">Попова</persName> и жду твои ответные письмы о
+                        сем. О Кубанских и Кавказских войсках также чрез него к тебе писано. Дай
+                        Бог, чтоб на мир враги наши податливы были, но естьли мира не будет, то,
+                        конечно, стараться должно о будущей кампании. Что из <placeName
+                            ref="places.xml#swe01">Швеции</placeName> польский министр пишет, будто
+                        здесь революция вскоре будет, сия весть и к нам пришла из <placeName
+                            ref="places.xml#fin01">Финляндии</placeName>, где <rs
+                            ref="people.xml#gus01">Король Шведский</rs> оную основал на том, будто
+                        для того и боясь оной, я сюда велела идти шести баталионам гвардии зимовать,
+                        из чего он заключил, что сие страха ради революции, и сказал, что шести
+                        полкам велено уже для того идти к <placeName ref="places.xml#pet01"
+                            >Петербургу</placeName>. Однако, слава Богу, мы здесь в добром
+                        здоровье.</p>
+                    <p>Дамы венские умнее выдумывают поясы и перстни, нежели наши барыни.
+                        Благодарствую за присланный перстень <persName ref="people.xml#est01"
+                            >Княгини Эстергази</persName>, <seg xml:lang="fr">je fais de bon
+                            coeur chorus avec elle.</seg></p>
+                    <closer><signed rend="inline" xml:lang="fr">Adieu, mon cher Ami, portés
+                                Vous bien.</signed><dateline><date
+                                when-custom="1789-12-20">Декабря 20, 1789
+                        г.</date></dateline></closer>
+                    <postscript>
+                        <p>Князь <persName ref="people.xml#dol02">Василий Вас[ильевич]
+                                Долгорукой</persName> довез ко мне твое письмо от 27 ноября.</p>
+                    </postscript>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear friend Prince Grigory
+                            Aleksandrovich.</salute></opener>
+                    <p>I received today your letters of 5 December and hasten to reply to them by
+                        the courier who is going to you. You marvel at my advice not to grow proud:
+                        that's what it's like to write from a thousand versts away. If I had been
+                        speaking to you at that moment verbally, then you would have kissed my hand
+                        parted with me with tears of joy. How could I not say to you, 'Do not grow
+                        proud', when I see you covered in the successes with which God has blessed
+                        you? My soul, full of joy, did nothing other than warn you for a moment that
+                        I hoped you would avoid the one thing that could detract from all the
+                        greatness of your soul. Read this as my truly maternal friendship for you,
+                        and then that's it. Who has better earned the crown of laurels that I am
+                        sending to you today than you have? Here it is. May you wear it a hundred
+                        years. You will certainly never have a bishop's mitre from me, and a convent
+                        could not be inhabited by him whose name resounds in Asia and in Europe. It
+                        is too small for him.</p>
+                    <p>It is evident from your news from Constantinople that there is great
+                        dejection there. They really have released Bulgakov, and he, as you know, I
+                        believe, arrived in Trieste from Vienna on 3 Dec. As soon as I learned of
+                        this I wrote to him that he should go to you, and [I wrote] to Vienna so
+                        that they would shorten his quarantine. It is strange that we still do not
+                        know who has been made vizir. I wrote to you about Poland via Popov and
+                        await your replies on this count. You will hear through him also about the
+                        troops in the Kuban and the Caucasus. God grant that our enemies will be
+                        amenable to peace, but if there is no peace, then of course we will have to
+                        concern ourselves with the next campaign. As for the Polish minister writing
+                        that there will be a revolution here soon, we too heard that news from
+                        Finland. There the King of Sweden based it on the fact that I supposedly,
+                        for that reason and fearing it, ordered six Guards battalions to winter
+                        here. From that he concluded that I did this for fear of revolution and said
+                        that six regiments have already been ordered to march toward Petersburg.
+                        However, thank God, we are in good health here.</p>
+                    <p>The ladies of Vienna think up belts and rings more clevely than our
+                        gentlewomen. I thank you for Princess Esterhazy's ring, which you sent. I
+                        gladly agree with her.</p>
+                    <closer><signed rend="inline">Farewell, my dear friend, be
+                                well.</signed><dateline><date when-custom="1789-12-20">December 20,
+                                1789.</date></dateline></closer>
+                    <postscript>
+                        <p>Prince Vasily Vas[ilevich] Dolgorukoy brought me your letter of 27
+                            November.</p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

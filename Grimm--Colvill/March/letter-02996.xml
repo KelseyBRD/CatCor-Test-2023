@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02996</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02996</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#legislation"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:06:04Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02996">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> À St Pétersbourg</placeName>, ce <date
+      when-custom="1777-10-05">5 d’octobre 1777</date>.</dateline></opener>
+   <p>Je viens de recevoir votre No 5 de <placeName ref="places.xml#neu01"> Neustadt et
+     Eberswald</placeName>, au sortir de la <rs ref="places.xml#ste02"> nouvelle casa santa</rs>. Je
+    m’imagine que c’est à peu près comme cela qu’ont commencé tons les pèlerinages: la curiosité on
+    bien aussi la bienveillance pour l’homme ou la chose y ont mené, et peu à peu c’est devenu
+    devoir. Je sais bien que vous vous récrierez et direz que ce n’est pas cela, mais je veux avoir
+    mon avis; tel est mon bon plaisir.</p>
+   <p>Ecoutez, vous vous rapprochez du pays où ces derniers mots sont en usage; quand vous y serez,
+    je vous prie de trouver une occasion pour dire à monsieur <persName ref="people.xml#nec01">
+     Necker</persName> que monsieur de <persName ref="people.xml#shu02"> Schouvalof</persName> m’a
+    remis son <title ref="works.xml#commer01">livre sur le commerce des grains</title> et que je lui
+    en ai mille obligations: c’est un excellent livre. Voilà pour lui, et voici qui est pour vous:
+     <rs ref="people.xml#nec01"> l’auteur de ce livre</rs>, que je lis moi-même, est une tête
+    profonde; ce n’est pas un livre qui est fait pour tout le monde, et il n’y a qu’une certaine
+    trempe de gens qui le comprendront; je l’ai admis parmi mes livres classiques à moi: pour cette
+    partie-là c’est un <rs ref="works.xml#commen01"> Blackstone</rs>. Quand je nomme <persName
+     ref="people.xml#bla01"> Blackstone</persName>, il me vient tout de suite dans la mémoire les
+     <title ref="works.xml#logera01"> loges de Raphaël</title> et le <title ref="works.xml#archit01"
+     >livre de <persName ref="people.xml#bib03">Bibiena</persName></title>; par conséquent donc le
+    livre de monsieur <persName ref="people.xml#nec01"> Necker</persName> est admis aussi à
+    l’honneur du crayon rouge; j’aime beaucoup le chapitre qui commence à la 136 page: surtout ce
+    qu’il dit du Nord; je ne puis me ranger de son avis: n’y ayant jamais été, il n’en connaît pas
+    assez le local, et tranche et généralise trop vaguement. Si je le connaissais, j’entrerais
+    par-ci par-là en dispute avec lui. Par exemple, je lui dirais: les pays du nord ont des
+    provinces vers le midi, les plus fertiles du monde, qui ne ressemblent en rien au rives de la
+    mer Glaciale. Si ces rives sont peu peuplées, sachez que le terrain manque dans d’autres
+    contrées etc. Patience: dans quelques années vous verrez des cartes de la <placeName
+     ref="places.xml#rus01"> Russie</placeName> qui en donneront une idée juste; beaucoup de ces
+    méprises viennent de ce que les capitales sont placées sous des points de cieux disgracieux.</p>
+   <p>Je reviens à la casa santa, qui commence aussi à se donner les airs de faire des contes, par
+    exemple celui du réchaud et celui du tilleul planté; je le réclame pour imaginé, parce qu’il n’y
+    en a aucune trace dans ma mémoire. Pour ce qui regarde mon portrait, je l’y enverrais bien, si
+    cela n’a vaut pas<hi rend="superscript">- </hi>trop l’air d’une prétention; je connais celui d’
+     <persName ref="people.xml#eri01"> Erikson</persName>; le <persName ref="people.xml#orl01">
+     prince Orlof</persName> s’est donné mille peines pour l’avoir et y a échoué; j’ordonne &amp;
+     à <placeName ref="places.xml#cop01"> Copenhague</placeName>, si je ne l’oublie, de l’acheter un
+    jour.</p>
+   <p>Je suis bien aise que vous soyez content de mon coadjuteur; c’est un <rs
+     ref="people.xml#pet02"> enfant de famille</rs> qui promet. Je vous autorise à faire les deux
+    munificences, de cent roubles chacune, que vous vous proposez. Si par l <persName
+     ref="people.xml#gal05"> ’abbé Galiani</persName> ou tel autre vous pouviez me faire avoir le
+    mont Vésuve et Pompeïes et Herculanum en estampes et tout ce que la cour de <placeName
+     ref="places.xml#nap01"> Naples</placeName> a fait publier de cela, ce serait une grande
+    félicité pour moi. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien et souvenez vous quelquefois de moi;
+     j’avais mille choses à vous dire, mais je les ai oubliées. Imaginez-vous que la dernière
+     inondation a gâté plus de deux cents toises du quai; depuis ce jour j’ai de l’humeur contre la
+     ville de St Pierre; dans plusieurs maisons on a mangé du poisson pris dans les coeurs.
+      Le <persName ref="people.xml#pan01"> comte Panine</persName> avait une pêche dans son manège;
+     presque toutes les fenêtres de mon <placeName ref="places.xml#her01"> hermitage</placeName> ont
+     été cassées. Cent quarante bâtiments sont péris sur la <placeName ref="places.xml#nev01">
+      Néva</placeName> et sous mes fenêtres. La multiplicité des objets d’horreur en diminuait
+     l’horrible, parce qu’à force d’en voir, la distraction diminuait la sensibilité. La ville s’en
+     ressent honnêtement. Dites-moi, à quoi cela est-il bon?</signed></closer>
+  </body>
+ </text>
+</TEI>

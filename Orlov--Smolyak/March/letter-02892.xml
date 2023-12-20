@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02892</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02892</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter demonstrated continuous correspondence about the preparation of the so-called
+     ‘Archipelago’ navy expedition (1769-1774) (<rs>#event-orlov01</rs>), which was part of the
+     First Russo-Turkish war (<rs>#event-turki01</rs>). Emma: kept orlov. Kelsey: changed to turki01
+     because this letter refers more generally to Orlov's Mediterranean expedition.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-29">29/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:48:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-04-23">23/04/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Modified markup and keywords in response to coder
+    query.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02892">
+  <body>
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей
+      Григорьевич</persName>. </salute></opener>
+   <p>Вручителю сего, контр-адмиралу <persName ref="people.xml#chi01"> Чичагову</persName> от Меня
+    сказано, что более не может Мне сделать угодность и службе Нашей оказать услугу, доведя, как
+    возможно, без остановок ему порученную <rs ref="events.xml#turki01">эскадру</rs> в самом
+    коротком времени до вас, когда и в сколько времени он сие исполнит, о том вы имеете ко Мне
+    рапортовать. Впрочем, остаюсь, как всегда, к вам доброжелательна.</p>
+   <closer><signed><persName type="signature" ref="people.xml#cat01">Екатерина</persName></signed>
+    <dateline>
+     <date when-custom="1772-04-22">Апреля 22 ч. 1772 г.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

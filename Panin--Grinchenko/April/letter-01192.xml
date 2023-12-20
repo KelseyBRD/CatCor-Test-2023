@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01192</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01192</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-01"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01192">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Сей час получила Ваше сегоднишнее письмо, из котораго усмотрела с удовольствием, что
+                    <persName ref="people.xml#pau01">сын</persName> мой здоров, и что <orgName
+                    ref="orgs.xml#angl01">Аглинской Двор</orgName> в разсуждении эскадры нашей все
+                делает по нашему желанию.</p>
+            <closer> <signed rend="inline">Прощайте, желаю Вам здравствовать; я здорова.<lb/>
+               <persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1769-09-09">Сен. 9 ч., 1769.
+                г.</date></dateline></closer>
+            <postscript>
+                <p><persName ref="people.xml#kam03">Лукиян Иванович</persName> навез сюда пироги с
+                    грибами, от которых три человека, имянно, <persName ref="people.xml#rum05"
+                        >Графиня Румянцева</persName>, <persName ref="people.xml#che06"
+                        >Черкасов</persName> и <persName ref="people.xml#stu01">Ступишин</persName>,
+                    такую получили индижестию, что лежат на боку, и мы его сегодня много дразнили
+                    пирогами.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

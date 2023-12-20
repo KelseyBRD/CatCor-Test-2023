@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09008</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09008</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#crimea"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#southernprovinces"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09008"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1785-04-26">1785 г. 26 апреля.</date>
+                </dateline>
+            </opener>
+            <p>Бронзовыя медали на <name type="event" ref="events.xml#crime02">соединение <placeName ref="place.xml#cri01">Крыма</placeName></name> и на <name type="event" ref="events.xml#monum01">монумент <persName ref="people.xml#pet01">Петра перваго</persName></name>, да золотая медаль о <name type="event" ref="events.xml#crime02">соединении <placeName ref="place.xml#cri01">Крыма</placeName></name>, да золотая четыре-угольная, при мире данная солдатам.
+                <!--I assume that it must be the medal for the treaty of Kuchuk Kainardzhi, but in all descriptions it is described as a silver medal and Catherine writes about a golden one--> 
+            </p>
+        </body>
+    </text>
+</TEI>
+
+

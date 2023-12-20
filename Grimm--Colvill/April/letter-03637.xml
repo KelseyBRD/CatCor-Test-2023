@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03637</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03637</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:50:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03637">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1786-09-17">17 septembre 1786</date>.</dateline></opener>
+   <p>Je suis malade, j’ai mal à la joue, et toute application augmente cette fluxion, et voilà
+    pourquoi je me sers de la main d’un autre. <seg hand="people.xml#dmi01">
+    Nous venons de lire, moi et compagnie, que ces médailles du duc <persName ref="people.xml#orl07"
+     > d’Orléans</persName> se vendent à l’encan. Monsieur le <rs ref="people.xml#gri01">
+     souffre-douleur</rs> impérial aura la bonté de se mêler de cette vente et d’acheter en bloc le
+    cabinet de médailles, comme celui des pierres gravées. Je me réserve de répondre à toutes vos
+    lettres par un courrier. J’ai dicté bien autre chose, mais <rs ref="people.xml#dmi01"> l’habit
+     en question</rs> n’a pas voulu l’écrire; vous saurez avec le temps ce que c’est que cet habit
+    rouge, si vous ne le savez pas déjà. </seg></p>
+   <closer><signed rend="inline" hand="people.xml#dmi01">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

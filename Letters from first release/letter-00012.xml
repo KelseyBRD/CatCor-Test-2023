@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00012</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00012</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-18">18 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata.</p>
+            </change>
+            <change>
+                <date when="2015-07-17">17 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00012">
+                <body>             
+                    <opener><salute>Monsieur mon frère.<note type="editorial">See the parallel <ref
+                                target="letter-00008.xml">letter</ref> that Catherine sent to
+                            Frederick II of Prussia on 28 May. This letter was presumably composed
+                            by or under the supervision of <ref target="people.xml#pan01">Nikita
+                                Panin</ref> and then approved and signed by
+                        Catherine.</note></salute></opener>
+                    <p>L'intérêt permanent qui subsiste entre mes Etats et ceux de la maison de
+                        Votre Majesté Impériale, ne souffre point que l'une des deux monarchies voie
+                        d'un oeil jaloux les avantages et prenne ombrage de la prospérité de
+                        l'autre. Je me crois à l'abri d'un tel soupçon, lorsque je porte à la
+                        considération de V. M. les inquiétudes et les alarmes de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName> à la fixation définitive des
+                        nouvelles limites autrichiennes au <placeName ref="places.xml#zbr01"
+                            >Sbrutz</placeName>, après s'être cru assurée par un traité, qu'elles ne
+                        s'étendraient que jusqu'au <placeName ref="places.xml#pod01"
+                            >Seret</placeName>, de même qu'à la nouvelle démarcation des
+                        acquisitions du roi de <placeName ref="places.xml#pru01">Prusse</placeName>
+                        notre allié. Si j'écoute dans cette démarche un attendrissement naturel sur
+                        les malheurs d'une nation qui a avec mon empire des relations si immédiates,
+                        je ne suis pas moins déterminée par le motif du bien essentiel de l'union et
+                        du concert des trois Cours, qui ont pris en main l'arrangement de ses
+                        affaires, en se faisant un système pour elles-mêmes tant sur son
+                        gouvernement que sur l'étendue de ses possessions. Pour remplir ce plan, il
+                        a fallu triompher de la répugnance d'un Etat à céder des provinces entières.
+                        On a eu à contenir la jalousie de toute <placeName ref="places.xml#eur01"
+                            >l'Europe</placeName> sur des acquisitions de cette importance, mais
+                        l'intimité qui a régné dans l'entreprise, en a procuré le succès jusqu'au
+                        point où on était parvenu. Je n'ai pas besoin d'avancer, que la même
+                        intimité peut seule conduire l'ouvrage à sa fin et le maintenir à
+                        perpétuité, et que par cette raison elle fait l'objet de la vive sollicitude
+                        des trois Cours. Comme les principes sur lesquels a été fondé tout le
+                        concert, et qui même ont été trouvés et proposés par la Cour de V. M., ont
+                        été l'égalité du partage et l'équilibre de puissance entre elles, et
+                        l'existence de la république comme puissance intermédiaire, les trois Cours
+                        ne sauraient les perdre de vue, sans altérer, soit entre elles, soit au
+                        dehors, une union qui n'en impose aux puissances jalouses que par l'opinion
+                        de sa solidité. On aura su que les limites autrichiennes n'étaient pas
+                        claires, on a vu ensuite une variation à celles de la Cour de <placeName
+                            ref="places.xml#ber01">Berlin</placeName>, et d'abord on en influera que
+                        la jalousie joue son jeu entre deux Cours qui paraissent unies vers un même
+                        objet, et on supposera d'autre part la <placeName ref="places.xml#rus01"
+                            >Russie</placeName> d'autant plus mécontente qu'on la juge la moins bien
+                        partagée. Que de ressorts on fera mouvoir pour étendre ces sources de
+                        division! S'il n'était question que d'un moment donné, pendant lequel on les
+                        ferait agir, en y opposant une résistance proportionnée, on pourrait se
+                        répondre de les rendre vains, mais le champ peut rester ouvert pour bien du
+                        temps. La <placeName ref="places.xml#pol01">Pologne</placeName>, poussée a
+                        l'extrémité, ne cherchera de ressource que dans sa faiblesse, et protestera
+                        en dissolvant le corps qui représente la nation. Toute la négociation reste
+                        au point où elle est, et les engagements respectifs des trois puissances se
+                        réduisent à une garantie préalable à l'arrangement avec la <placeName
+                            ref="places.xml#pol01">Pologne</placeName>, mais non-appréciée sur des
+                        cessions effectives de sa part. Tout invite les trois Cours à ne pas laisser
+                        imparfait un lien qui doit subsister à perpétuité entre leurs monarchies, et
+                        leur présenter à défendre un nouvel intérêt que leur prudence et leur
+                        modération leur ont suggéré.</p>
+                    <p>V. M. pèsera dans Sa sagesse et avec Son équité naturelle, si toutes ces
+                        considérations sont égales ou supérieures au sacrifice que ferait Sa maison
+                        de restreindre ses frontières au <placeName ref="places.xml#pod01"
+                            >Seret</placeName>. Pour moi, ma confiance en Ses lumières et les
+                        sentiments aussi vrais que désintéressés d'estime et d'amitié que je porte
+                        tant à Elle qu'à l'Impératrice Reine Sa mère, ne me permettront jamais
+                        d'appréhender qu'Elle regarde comme de vaines inquiétudes que je chercherais
+                        à faire naître en Son esprit, une vérité que je ne Lui dis que parce que je
+                        la sens et la connais. C'est que, si les trois Cours veulent prouver que
+                        dans le concert qu'elles ont formé sur la <placeName ref="places.xml#pol01"
+                            >Pologne</placeName>, et les opérations communes qui en ont dérivé,
+                        elles se sont déterminées moins par le désir d'acquérir que par les vues
+                        grandes et politiques, de fixer dans un état de bon ordre et de
+                        tranquillité, tel que l'exige le bien-être et la sûreté de leurs frontières,
+                        un royaume voisin souvent livré aux troubles et à l'anarchie, et dans le
+                        partage qu'a dicté un tel dessein, de se balancer elles-mêmes toutes les
+                        trois par un accroissement égal à la puissance de chacune, idée la plus
+                        noble et la plus imposante qui puisse être donnée à <placeName
+                            ref="places.xml#eur01">l'Europe</placeName> d'une pareille entreprise,
+                        ce ne peut être en comptant pour tout la faiblesse de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName> et regardant cet Etat comme
+                        non-existant, qu'on pourra se flatter d'y réussir. Le désespoir sera sa
+                        ressource contre l'aggravation de ses maux, ou au moins celle à laquelle
+                        elle s'abandonnera. J'ose l'avancer, et le ministre de V. M. à <placeName
+                            ref="places.xml#war01">Varsovie</placeName> ne saurait Lui laisser
+                        ignorer, jusqu'à quel degré cette disposition à rompre toute négociation et
+                        à protester, est parvenue, et l'éclat n'en est peut-être retenu que par
+                        l’attente de quelques semaines, pour voir ce que l'envoi des trois ministres
+                        à nos trois Cours aura effectué. S'il n'est point d'adoucissement à ses
+                        pertes, il sera immanquablement un terme où il ne sera plus possible de
+                        contenir la nation, et on y est d'autant plus préparé, qu'à mesure que la
+                        diète se prolonge, on voit les dispositions s'altérer graduellement et
+                        approcher plus d'une dislocation générale des esprits. C'eût été manquer de
+                        ma part à ce qu'exige l'intérêt de l'union et de la cause commune, que de
+                        garder le silence sur un état des choses marqué à de tels caractères, et ma
+                        réserve ne se serait pas mieux conciliée avec les sentiments de haute
+                        considération et d'amitié sincère avec lesquels je suis</p>
+                    <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur et
+                            amie
+                        <persName ref="people.xml#cat01">CATERINE.</persName></signed>
+                        
+                        <dateline><placeName ref="places.xml#tsa01">Zarskoe-Selo </placeName><date when-custom="1774-05-26">le 26 mai
+                        1774</date></dateline>.</closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <salute>My dear Brother.</salute>
+                    <p>The permanent interest that binds my States and those of Your Imperial
+                        Majesty will not suffer one of these two monarchies to view with jealousy
+                        the advantages of the other or to take offence at the other's propserity. I
+                        think myself above such a suspicion when I bring to the attention of Your
+                        Majesty Poland's concerns and fears concerning the definitive fixation of
+                        the new Austrian borders at the Sbrutz, when they had thought themselves
+                        assured by treaty that these borders would go no farther than the Seret,
+                        like the demarcation of the acquisitions of the king of Prussia, our ally.
+                        If I heed in this my natural compassion for the misfortunation of a nation
+                        with such close ties to my empire, I am no less motivated by the essential
+                        good of the union and entente between the three Courts, who have taken it in
+                        hand to arrange Polish affairs by creating a system for themselves regarding
+                        both its government and the extent of its possessions. To fulfil this plan,
+                        it was necessary to overcome a State's reluctance to cede whole provinces.
+                        It was necessary to restrain the jealousy of all of Europe regarding such
+                        sizeable acquisitions, but the intimacy that prevailed throughout the
+                        undertaking ensured its success up to the point that we had reached. I do
+                        not have to assert that only that same intimacy can bring the work to its
+                        end and maintain it in perpetuity, and that for this reason it elicits the
+                        sollicitude of the three Courts. Since the principles on which this entire
+                        entente was founded, and which Your Majesty's Court even discovered and
+                        proposed, were the equality of the partition and the balance of power
+                        between them, and the existence of the republic as an intermediate power,
+                        the three Courts cannot lose sight of them without altering the union
+                        between them or with external powers, a union which intimidates jealouse
+                        powers only when it is believed to be solid. It will be known that the
+                        Austrian borders were not clear; a change to those of the Court of Berlin
+                        was then seen; and immediately it will be inferred that jealousy is at play
+                        between two Courts that seem to be united in a single object; and on the
+                        other hand Russia will be assumed to be all the more dissatisfied because it
+                        it deemed to have received the smallest share. How many mechanisms will be
+                        put in motion to expand these sources of division! If it were merely a
+                        question of a single moment at which they would be put in action, we could
+                        assure one another that we could render them futile by proportionate
+                        opposition, but we could be exposed for quite some time. Driven to extremes,
+                        Poland will seek salvation only in its weekness and will protest by
+                        dissolving the body that represents the nation. All negociations remain
+                        where there were, and the respective engagements of the three powers are
+                        reduced to an advance guarantee of the arrangement made with Poland, but not
+                        accepted with regard to transfers on its part. Everything urges the three
+                        Courts not to leave imperfect the ties that ought to remain in perpetuity
+                        between their monarchies and offer for their defence a new shared interest
+                        that their prudence and moderation suggested to them.</p>
+                    <p>Your Majesty will weigh in Your wisdom and with Your natural equity whether
+                        these considerations are equal or superior to the sacrifice that Your house
+                        would make in restricting its borders to the Seret. For myself, my
+                        confidence in Your perspicuity and the true and disinterested sentiments of
+                        esteem and friendship that I have for You and for the Queen Empress, Your
+                        Mother, will never permit me to fear that You shall regard these as vain
+                        worries that I seek to elicit in Your mind, when they are a truth that I
+                        tell You only because I feel it and know it. The three Courts want to prove
+                        that, in the entente they have come to regarding Poland and the joint
+                        operations that resulted from it, they were motivated less by the desire for
+                        acquisitions than by grand and astute aims: to secure in a state of a good
+                        order and tranquility, such as the welfare and security of their borders
+                        require, a neighbouring kingdom that has often succumbed to discord and
+                        anarchy. In the partition that such an aim required, they were motivated by
+                        the desire to maintain a balance between all three of them by enlargements
+                        that equal each one's power, which is the most noble and most imposing
+                        notion that one can give to Europe regarding such an undertaking. If they
+                        hope to succeed in proving these things, they can do so only by counting
+                        Poland's weakness as all-important and by viewing that State as
+                        non-existent. Despair will be its salvation in face of the aggravation of
+                        its woes, or at least its recourse. I dare to assert it, and Your Majesty's
+                        minister in Warsaw could not fail to inform You how extreme this disposition
+                        to break off all negotiations and to protest has grown. It will perhaps be
+                        kept from breaking loose for a few weeks, to see what the sending of three
+                        ministers to our three Courts will achieve. If their losses are not eased,
+                        there will inevitably be a point at which it will no longer be possible to
+                        restrain the nation. People are all the better prepared for it, for, as the
+                        diet drags on, dispositions can be seen to change gradually and to move
+                        towards a general transformation in people's minds. It would have been a
+                        failure on my part to do what the interests of union and of the common cause
+                        require, if I had remained silent about a state of affairs stamped with such
+                        an imprint. My reticence could no better have been reconciled with the
+                        sentiments of high esteem and of sincere friendship with which I am</p>
+                    <closer><signed>My dear Brother, Your Imperial Majesty's good sister and
+                            friend
+                        <persName>CATERINE.</persName></signed>
+                        
+                        <dateline><placeName ref="places.xml#tsa01">Tsarskoe Selo </placeName><date when-custom="1774-05-26">the 26 May
+                        1774</date></dateline>.</closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

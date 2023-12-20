@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02636</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02636</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-14">14 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02636">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#mos01">à Moscou</placeName>, <date
+                                when-custom="1762-11-17">ce 17 Novembre v. st.
+                            1762</date>.</dateline>
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>La lettre que Votre Majesté a écrite au <persName ref="people.xml#rep01"
+                            >prince de Repnin</persName>, mon envoyé auprès de Vous, me prouve la
+                        part que Votre Majesté prend à ce qui me regarde et m'engage à prendre la
+                        plume, en premier lieu, pour Vous remercier de la communication amicale
+                        qu'il Vous a plu de me faire, secondement pour parler à Votre Majesté à
+                        coeur ouvert plus directement et dans la dernière confiance, je conviens
+                        bonnement que le système que je viens d'embrasser ne peut plaire également à
+                        tous mes amis et l'affaire de <placeName ref="places.xml#cou01">
+                            Courlande</placeName> peut tenir à coeur à quelques uns, mais j'y ai
+                        suivi la justice, l'intérêt de mon empire et mon amour pour la vérité. En
+                        conséquence de ces trois principes lors de <rs type="event"
+                            ref="events.xml#ascen02">mon avènement au trône</rs>, une des premières
+                        choses que je fis, fut de confirmer la paix et la bonne intelligence
+                        établies entre nos états. Cette action parlait d'elle même et prouvait à
+                        Votre Majesté le désir que j'avais de cultiver son amitié, Votre Majesté y
+                        répondit et <persName ref="people.xml#che01">le comte Czernichew</persName>
+                        crut entrevoir en Elle les désirs de paix et que mes bons offices lui
+                        seraient agréables. Depuis ce temps je n'ai rien négligé de part et d'autres
+                        pour la prouver: je vois cependant avec peine que cet heureux moment loin de
+                        s'approcher, s'éloigne de plus en plus, on me dit de toute part que Votre
+                        Majesté y répugne, et il est vrai que tout ce que j'ai pu lui proposer, n'a
+                        pas atteint le but dont je m'étais flatté, par amour pour l'humanité et pour
+                        ne pas me trouver dans la nécessité de sortir de mon système; j'avoue que la
+                        différence de nos intentions donne beau jeu à ceux qui ne demandent pas
+                        mieux que de nous en voir, je serai bien aise d'écarter ce qui pourrait
+                        nuire à la bonne harmonie entre nous, mais je n'en vois pas de moyens tant
+                        que Votre Majesté ne sera pas sorti de la guerre présente; je Vous dirai
+                        tout simplement, n'y aurait-il donc pas de voies pour faire la paix? Mes
+                        intentions sont nettes, je parle à un prince éclairé, que j'estime, et que
+                        je ne puis croire, malgré tout ce qu'on me dit être enclin à ne vouloir que
+                        le carnage, la ruine de son propre pays et le malheur de tant de milliers
+                        d'hommes. Ce n'est point pour briller des lieux communs à Vos yeux que je
+                        Vous parle, ou que je crois Vous persuader par éloquence, ce n'est que la
+                        grande opinion que j'ai de Vous et l'envie de cultiver Votre amitié qui m'y
+                        portent. Je crois Vous y avoir préparé par mes actions, j'aurais pu agir
+                        autrement, j'en avais les moyens en mains et je les ai encore, Votre Majesté
+                        a trop de pénétration pour ne pas voir ce qui me porte à lui parler ainsi:
+                        ce n'est, et ne peut être, que le désir de ne point me brouiller avec Vous.
+                        J'ai sacrifié les avantages réels de la guerre à l'amour pour la paix, il
+                        faut espérer que les autres se conformeront à cet exemple d'autant plus
+                        aisément que jusqu'à présent ils ne peuvent aspirer qu'à des avantages
+                        encore idéaux, il n'y a donc des difficultés à applanir que relatives à la
+                        cour de <placeName ref="places.xml#sax01">Saxe</placeName>, encore y
+                        pourra-t-on, j'espère, en partie des termes (sic) qui accommoderont
+                        peut-être les uns et ne nuiront point aux autres et pourront même faire du
+                        bien à <placeName ref="places.xml#ger01">l'Allemagne</placeName> en général,
+                        en formant quelque nouvel établissement pour un de ses princes. Je sais que
+                        la cour de <placeName ref="places.xml#vie01">Vienne</placeName> est portée à
+                        la paix. Je pourrais Vous communiquer des ouvertures, si du côté de Votre
+                        Majesté je pouvais en attendre, mais malheureusement Vous Vous y êtes
+                        refusés, et je crains bien qu'enfin mes meilleures intentions n'échouent et
+                        que je ne sois entraînée dans des vues très contraires à mes souhaits et
+                        inclinations </p>
+                    <closer>
+                        <signed>ainsi qu'aux sentiments de l'amitié très sincère avec lesquels je
+                            suis, Monsieur mon Frère, de Votre Majesté la bonne Soeur,
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

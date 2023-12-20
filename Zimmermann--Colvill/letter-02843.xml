@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02843</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02843</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:33:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02843">
+  <body>
+   <opener><dateline> ce <date when-custom="1789-10-06">6. d’Octobre
+    1789</date>. </dateline></opener>
+   <p>Ayant toujours attendue, Monsieur, l’occasion d’un courier pour vous envoyer la ci jointe qui
+    est de fort ancienne date, je m’en acquite aujourd’huy. J’ai reçue vos lettres du 8. et 18.
+    Sept. Le Général <persName ref="people.xml#mik02">Michelson</persName>, dont vous me parlés,
+    n’est pas natif du pays d’<placeName ref="places.xml#han01"> Hanover</placeName> ; son père
+    étoit à notre service ; lui même est né en <placeName ref="places.xml#rus01"
+    >Russie</placeName> et de notre religion. Soyés assuré, que vos lettres me font toujours un égal
+    plaisir de même que les voeux que vous faites pour la justice de ma cause. L’oppression en tout
+    genre n’a pas de plus grand ennemi que moi. C’est de quoi je vous prie d’être bien persuadé.
+     <persName ref="people.xml#bea01"> Beaumarchais</persName> dit que <orgName
+     ref="orgs.xml#nati01"> l’assemblée nationale</orgName> a puisée sa nouvelle constitution dans
+     son opera <title ref="works.xml#tarare01">„Tarare</title>“, qui assurément n’est pas
+    une pièce merveilleuse, mais dont l’intention fait frémir. Vous êtes présentement informé de
+    tous nos succès <rs ref="events.xml#swedi02"> au nord</rs> et <rs ref="events.xml#turki02"> au
+     sud</rs>. Le capitaine de marine que vous regrettés ne s’appelloit pas Molinowsky, mais
+     <persName ref="people.xml#mul01"> Moulowsky</persName> et il appartenoit au Comte <persName
+     ref="people.xml#cze01"> Czernischef</persName> de fort près. Le <persName ref="people.xml#nas01"
+     > Prince de Nassau</persName> vient de publier la réfutation ci jointe de la relation du
+     <persName ref="people.xml#gus01"> Roy de <placeName ref="places.xml#swe01"
+     >Suède</placeName></persName>, signé „Gustave“. Les mensonges de <persName ref="people.xml#gus01"> S. M.
+     Suédois</persName> sont sans nombre. Je vous prie d’excuser le peu d’ordre que vous trouverés
+    dans cette lettre que je me hate de vous faire à fin que ce courrier ne parte pas sans vous
+    apporter de réponse à vos lettres; je vois que cela vous inquiète. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

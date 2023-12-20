@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02784</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02784</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Reference in online edition to Traduction Russe –
+     title and author in Russian, Google Translate didn’t help either</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:35:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02784">
+  <body>
+   <opener><dateline>à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date when-custom="1777-02-08">8 Févreier 1777</date></dateline></opener>
+   <p>Monsieur, J'ai employé cet hiver à lire deux Traduction Russe
+     nouvellement faite, l'une du <persName ref="people.xml#tas02"> Tasse</persName>,
+     l'autre d'<persName ref="people.xml#hom01"> Homere</persName> qu'on dit être bone, mais j'avouë que
+     Votre lettre du 24 Janvier que je vient de reçevoir m'a fait plus de plaisir que le
+      <persName ref="people.xml#tas02"> Tasse</persName> et <persName ref="people.xml#hom01">
+      Homere</persName>. La guayeté
+    et la vivaçité qui y règne me font espérer que Votre maladie n'aura aucune suite et que Vous
+    passeré très lestement au delà des cent ans. Votre souvenir m'est toujour aussi flatteur
+    qu'agréable mes sentimens pour Vous étant invariable</p>
+  </body>
+ </text>
+</TEI>

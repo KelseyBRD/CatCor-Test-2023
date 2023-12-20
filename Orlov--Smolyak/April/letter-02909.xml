@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02909</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02909</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-12">12-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:23:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02909">
+  <body>
+
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.
+   <salute>Нашему генералу графу <persName ref="people.xml#orl03"> Алексею
+     Орлову</persName>.</salute></opener>
+   <p>Последним Нашим рескриптом от «_» сего месяца объявили Мы вам Наши намерения, касающияся до
+    военных действий ввереннаго вам <orgName ref="orgs.xml#russ02"> флота</orgName> Нашего. Сим же
+    всемилостивейше жалуем вам, как главному начальнику морских и сухопутных Наших сил в <placeName
+     ref="places.xml#aeg01"> Архипелаге</placeName>, столовых денег по тысяче рублей на месяц,
+    которые и имеете вы брать себе с начала нынешняго года из имеющейся у вас на чрезвычайные
+    расходы суммы. Впрочем, пребываем вам Нашею Императорскою милостию благосклонны. </p>
+   <closer><dateline rend="inline">Дан в <placeName ref="places.xml#tsa01">
+     Царском Селе</placeName>, <date when-custom="1774-05-17">мая 17 дня 1774 года</date>.</dateline>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

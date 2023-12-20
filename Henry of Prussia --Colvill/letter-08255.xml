@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08255</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08255</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:29:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08255">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet02">Péterhof</placeName>, ce <date
+      when-custom="1778-07-13">13 juillet 1778</date>.</dateline></opener>
+   <p>Les vœux d'une grande partie de l'<placeName ref="places.xml#eur01"
+    >Europe</placeName> accompagnent V. A. R. dans la carrière glorieuse qu'Elle vient de nouveau
+    d'entreprendre pour la défense de la patrie, et que Sa lettre du 30 juin m'annonce. Les
+    indifférents mêmes s'intéressent aux actions des héros, les amis prennent part à toutes les
+    situations. Je vois avec plaisir que V. A. R. depuis longtemps me compte au nombre des Siens et
+    de ceux de Son pays, et qu'Elle ne doute point du désir que j'ai de voir rétablie la paix; mes
+    démarches en toutes occasions ne démentiront point ces sentiments. Quoique mes affaires avec les
+     <orgName ref="orgs.xml#turk01"> Turcs</orgName> soient encore en suspens, cependant j'attends
+    d'instant en instant la nouvelle du commencement des hostilités turques; ces gens-la m'en
+    veulent terriblement.</p>
+   <p>Mon autre voisin, au contraire, le <persName ref="people.xml#gus01"> roi
+     de <placeName ref="places.xml#swe01">Suède</placeName></persName> depuis son <name
+     ref="events.xml#gusta01"> séjour</name> à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName> me témoigne toutes sortes d'amitié et de confiance, jusqu'à me confier
+    ses chagrins domestiques. Dans les premiers moments il m'avait même prié le lui rendre dans
+    cette malheureuse affaire des bons offices près du <persName ref="people.xml#fre01"> Roi, son
+     oncle</persName>. Je lui ai répondu que l'oubli parfait serait le meilleur parti à prendre, et
+    je suis convenue avec lui que sa position personelle devait être très désagréable; il paraît
+    plus tranquille depuis la réponse du <persName ref="people.xml#fre01"> Roi</persName>. C'est
+    dans la plus intime confiance dans l'amitié de V. A. R., et connaissant Son équité, que j'ai
+    hasardé ce récit, La priant d'être assurée ...</p>
+  </body>
+ </text>
+</TEI>

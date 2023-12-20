@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02700</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02700</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:14:21Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02700">
+  <body>
+
+
+   <opener><dateline><placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName> ce <date
+     when-custom="1764-04-12">12/23 avril 1764</date></dateline></opener>
+   <p>Non, Monsieur, votre lettre du 15 d’octobre n’est point perdue; elle m’a été remise; il est
+    vrai qu’elle n’était pas de fraîche date. Deux raisons m’ont empêchée d’y répondre jusqu’ici; la
+    première c’est qu’encore tout étonnée de votre refus, je n’y pensais qu’avec chagrin; la seconde
+    c’est la lâche au-dessus de mes forces que vous me donnez dans cette lettre de vous dire mon
+    avis sur vos ouvrages. Je suis comme <persName ref="people.xml#phi05"> Philinte</persName> dans
+    la <rs ref="works.xml#misant01"> comédie</rs>: j’admire et je me tais. Cependant comme depuis
+    deux ans j’ai eu des embarras immenses qui m’ont presque privée du temps nécessaire pour une
+    lecture suivie, dès que je reçus votre lettre, je me mis à relire vos ouvrages, mais je trouvai
+    alors que chacun se ressent de l’esprit de son métier et qu’au lieu de sentir les vraies et
+    différentes beautés de vos écrits, j’étais comme l’abeille qui ne tire des plantes que les sucs
+    dont elle a besoin pour son miel; je m’arrêtai aussi sur tout ce qui pouvait être utile au mien
+    et je me trouvai très incapable de vous donner des conseils. J’ai toujours admiré dans vos
+    ouvrages la <hi rend="italic">vasticité</hi> et la <hi rend="italic">solidité</hi> en même temps
+    de votre génie qui, sans faire tort à personne n’a point d’égal; je m’étonne comment avec la
+    sagesse qui règne dans tout ce qui est sorti de vos mains, il est possible qu’on ait osé
+    attaquer votre philosophie. On devrait faire dans tout gouvernement éclairé, une loi qui défende
+    aux citoyens de s’entre persécuter de quelque façon que ce soit; les guerres civiles sont
+    reconnues pernicieuses, et celles de la plume qui, en décourageant le talent, détruisent le
+    repos de ces mêmes citoyens Sous le misérable prétexte de quelques différences d’opinion sont
+    aussi détestables que minutieuses. La réputation de <persName ref="people.xml#loc01">
+     Locke</persName> et de <persName ref="people.xml#new01"> Newton</persName> ne souffriront pas
+    d’atteinte de la picqure d’une guêpe (1) ; quiconque leur refuse le nom de grand homme n’aime
+    pas la vérité et celuy qui leur donne l’épitète d’impie n’a pas de jugement. J’en reviens à
+    votre seconde lettre, Monsieur, qui m’a fait beaucoup de plaisir; je ne l’aurais pas eu si je
+    vous avais répondue (sic) plus tôt; je vous en fais mes excuses, mais je m’en sais gré;
+    permettez-moi de vous dire que vous vous contredisez; vous me donnez beaucoup de louanges et
+    vous n’avez pas voulu me connaître; ou peut-être vous êtes de l’avis de ceux qui disent, que les
+    Grands valent mieux à être connus de loin que de près? Vous me dites encore que je brille dans
+    les gazettes et que le Nord donne des leçons au Midi; mais d’où vient donc que vous autres
+    peuples du Midi passez pour si éclairés, si les règles les plus simples n’ont pas
+    prises (sic) racine chez vous, ou est-ce qu’à force de raffinement, elles vous ont échappé? Je
+    crois cependant que quand vos parlements vous auront défait de la puissance ultramontaine, vous
+    reviendrez à vos intérêts naturels; mais c’est un dur esclavage que de régler les siens d’après
+    les finesses et les caprices de ceux qui en ont de très différents. Enfin, je crois que la grâce
+    efficace ramènera les choses à la longue dans leur assiette naturelle. Chez nous on a trop de
+    respect pour les choses spirituelles pour les mêler au temporel et celui-ci se prêle à soulager
+    l’autre des vanités qui lui sont étrangères (1). Chacun reste dans l’étendue de sa domination
+    sans qu’il s’avise seulement d’empiéter sur ce qui n’est pas de sa compétence; si les hérétiques
+    n’étaient point soufferts, les fidèles désespéreraient de les ramener dans le giron de l’Église
+    ; les articles de foi était inébranlables, il n’y a pas de quoi disputer ; les philosophes
+    ni (sic) donnent assurément pas d’atteinte; et sur les opinions de ce monde on pense ce qu’on
+    veut; voilà l’état des choses, auquel je ne souffrirai pas aisément qu’on déroge. Ne me dites
+    jamais que vos lettres sont longues; je ne les trouve point telles, je les lis avec autant de
+    plaisir que d’estime pour l’auteur, c’est de quoi je vous prie d’être persuadé. Excusez, s’il
+    vous plaît, les fautes de langage. J’ai toute occasion d’oublier le français et sauvez moi de
+    l’imprimerie.</p>
+  </body>
+ </text>
+</TEI>

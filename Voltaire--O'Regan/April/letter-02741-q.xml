@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02741</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02741</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Orlov taken to be Aleksey. Unsure of reference to
+     ‘Pays des fables’, if it needs encoding. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:23:52Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02741">
+  <body>
+
+   <p>
+    Monsieur, L’arrivée du <persName ref="people.xml#hen02"> Prince Henri</persName> de
+      <placeName ref="places.xml#pru01"> Prusse</placeName> à <placeName ref="places.xml#pet01">
+      Petersbourg</placeName> a été suivi de la prise de <placeName ref="places.xml#ben01">
+      Bender</placeName> que je Vous annonce, l’un et l’autre m’a empêché de
+     répondre à Vos trois lettres que j’ai reçue consécutivement. Les nouvelles publiques assurent ainsi que le
+     <persName ref="people.xml#orl03"> Comte Orlof</persName> s’est emparés de <placeName ref="places.xml#lem01">
+     Lemnos</placeName>. Nous voilà parfaitement dans le Pays des fables. Je craint qu’avec le tems
+    cette guerre ne paraisse fabuleuse elle même. Si le mamamouchi ne fait pas la paix cet hiver je
+    ne répond point de ce qui lui arrivera l’année qui vient. Un peu de ce bonheur encore dont nous
+    avons vu des essais et l’Histoire des Turks pourra fournir un sujet nouveaux de Tragédie pour
+    les siècles futurs. Vous dirés Monsieur que depuis les succès de cette Campagne je suis dans les
+    grands air, mais c’est que depuis que j’ai du bonheur l’<placeName ref="places.xml#eur01">
+     Europe</placeName> me trouve beaucoup d’esprit. Cependant à quarante ans on n’augmente guère
+    devant le seigneur en esprit et en beautée. Je pense effectivement avec Vous que bientôt il sera
+    tems que j’aille étudier le Grecs dans quelque Université, en attendant on traduit
+     <persName ref="people.xml#hom01"> Homere</persName> en Russe. S’est toujour quelque chose pour le
+    comencement, nous verrons d’après les circonstance s’il sera nécessaire d’aller plus loin.
+    L’Esprit du peuple Turk ce range de notre côté; Ils disent que leurs sultan est insensé
+    d’exposer son <placeName ref="places.xml#ott01"> Empire</placeName> à tant de revers et que le conseil de
+    ses amis deviendra funeste aux Musulmans. </p>
+   <closer><signed rend="inline">Adieu Monsieur, porté Vous bien et priés Dieu pour Nous.
+   <persName ref="people.xml#cat01"> Caterine</persName></signed>
+   <dateline> ce <date when-custom="1770-10-07">7/18 d’Oct: 1770</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08230</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08230</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#marriagenotification"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:22:02Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08230">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1773-10-02">2 d'octobre 1773</date>.</dateline></opener>
+   <p>Je ne saurais laisser partir le colonel prince <persName ref="people.xml#dol02">
+     Dolgorouki</persName> pour <placeName ref="places.xml#ber01">Berlin</placeName>, où il va
+    annoncer le <name ref="events.xml#marri01"> mariage</name> de <rs ref="people.xml#pau01"> mon
+     fils</rs>, célébré le 29 septembre, au <rs ref="people.xml#fre01"> Roi, Votre frère</rs>, sans
+    le charger de ces lignes pour V. A. R. Sachant la part sincère qu'Elle prend à tout ce qui me
+    regarde, je me flatte qu'Elle partage mes sentiments aussi en cette occasion. Je dois mille
+    remercîments à V. A. R. pour tout ce qu'Elle me dit d'obligéant et de flatteur dans Sa lettre
+    que j'ai reçue des mains du <persName ref="people.xml#lud02"> prince de Darmstadt</persName> que
+    je trouve tel que V. A. R. me le dépeint.</p>
+   <p><rs ref="people.xml#kar01"> Madame sa mère</rs> va nous quitter le 15 de ce mois. Je me flatte
+    que cette <rs ref="people.xml#kar01"> digne princesse</rs> ne laissera point ignorer à V. A. R.
+    l'amitié et l'estime jointe à la haute considération ...</p>
+  </body>
+ </text>
+</TEI>

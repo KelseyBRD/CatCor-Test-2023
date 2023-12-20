@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00037</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00037</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-25">25 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-05-13">13 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    
+                    <p>При сем прилагаю письмо <persName ref="people.xml#ela01">Елагина</persName>,
+                        а по сему делу сего утра <rs ref="people.xml#pau01">В. К.</rs>, пришед ко
+                        мне, сказывал, что <persName ref="people.xml#raz02">Разумовский</persName> к
+                        нему вечер приезжал и сказывал, что не он, но <persName
+                            ref="people.xml#lan01">Ланжак</persName> увез <rs ref="people.xml#dor01"
+                            >комед.</rs>, что он, <persName ref="people.xml#raz02"
+                            >Разумовский</persName>, был тут по несчастью зрителем и что он ее паки
+                        отдал под караул, а оборонял ее от караульных, кои перстень у нея с руки
+                        тащили. Я молча слушала, но вздумалось мне молвить, что по городу слухи сему
+                        не сходственно, на что с горячностию мне сказано, что все то ложь, окроме
+                        то, что <persName ref="people.xml#raz02">Раз.</persName> говорит; а
+                            <persName ref="people.xml#raz02">Разумовский</persName> по письму
+                            <persName ref="people.xml#ela01">Елагина</persName> говорил сему одно,
+                        здесь разсказывал другое, а в самом деле делал третье, и я, видя троякое его
+                        поведенье и слова, должна его терпеть по сю пору в моем доме и так близко
+                        возле ослепленнаго им <rs ref="people.xml#pau01">моего сына</rs>. Признаюсь,
+                        что сердце ноет. Я не скрывала печаль мою, но не выговорила ея, и я думаю
+                        сие продолжить сегодня, и буду ждать завтрашняго приезда по условлению
+                            вчерашнему.<note type="editorial">On this episode, see
+                                    <bibl><author>Alexandre Stroev</author>, <title level="a"
+                                    ref="works.xml#vivant01">'Vivant Denon en
+                            Russie</title>.</bibl></note></p>
+                   
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>I attach Elagin's letter. This morning the G[rand] D[uke] came to see me
+                        about this affair and said that Razumovsky came to see him in the evening;
+                        that not he, but rather Langeac abducted the act[ress]; that he, Razumovsky,
+                        was an unfortunate spectator of all this; and that he gave her back to be
+                        guarded and protected her from the guards who tried to tear the ring off her
+                        finger. I listened in silence, but it occurred to me to say that this does
+                        not match the rumours about town. Thereupon I was told with some vehemence
+                        that it is all lies except what Raz[umovsky] says. But Razumovsky said one
+                        thing in reply to Elagin's letter, said another thing here, and in fact did
+                        yet a third thing, and I, seeing his triple behaviour and words, am obliged
+                        to endure his presence up to now in my house and so close to my son, whom he
+                        has blinded. I must confess that my heart aches. I did not hide my sorrow,
+                        but did not express it either. I think that I shall continue thus today and
+                        shall await tomorrow's arrival in accordance with yesterday's agreement.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

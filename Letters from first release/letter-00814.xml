@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00814</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00814</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-05">05 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00814">
+                <body>
+                    <p>Поздравляю тебя, мой друг <persName ref="people.xml#pot01">Князь Григорий
+                            Александрович,</persName> с доброю обороною фрегата "Скорого" и бота
+                        "Битюга". Естли по сему сметь судить, то о успехе <persName
+                            ref="people.xml#voi01">Марка Войновича</persName> за верно полагать
+                        можно.</p>
+                    <p>Бога прошу, да поможет тебе и всем.</p>
+                    <closer><signed rend="inline" xml:lang="fr">Adieu, mon Ami.</signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03010</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03010</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-11">11/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:36:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03010">
+  <body>
+
+   <opener><dateline>A <placeName ref="places.xml#tsa01"> Tsarskoé-Sélo</placeName>, ce <date when-custom="1778-06-21">21 juin 1778</date>.</dateline></opener>
+   <p>Helas! Je n’ai que faire de vous détailler les regrets que j’ai sentis à la lecture de votre
+    No 19. Jusque là j’espérais que la nouvelle de la mort de <persName ref="people.xml#vol01"> Voltaire</persName> était fausse,
+    mais vous m’en avez donné la certitude, et tout de suite je me suis senti un mouvement de
+    découragement universel et d’un très grand mépris pour toutes les choses de ce monde. Le mois de
+    mai m’a été très fatal: j’ai perdu deux hommes que je n’ai jamais vus, qui m’aimaient et que
+    j’honorais — <persName ref="people.xml#vol01"> Voltaire</persName> et <seg xml:lang="en"> milord</seg>
+    <persName ref="people.xml#pit02"> Chatam</persName>; longtemps, longtemps et peut-être jamais,
+    surtout le premier, ne seront-ils remplacés par des égaux, et jamais par des supérieurs, et pour
+    moi ils sont irréparablement perdus; je voudrais crier. Mais est-il possible qu’on honore et
+    déshonore, qu’on raisonne et déraisonne aussi supérieurement quelque part que là où vous êtes?
+    On a honoré publiquement, il y a peu de semaines, un homme qu’aujourd’hui on n’ose y enterrer,
+    et quel homme! Le premier de la nation et dont ils ont à se glorifier bien et dûment. Pourquoi
+    ne vous êtes-vous point emparé, vous, de son corps, et cela en mon nom? Vous auriez
+    dû me l’envoyer, et morgué, vous avez manqué de tête pour la première fois dans votre vie en ce
+    moment; je vous promets bien qu’il aurait eu la tombe la plus précieuse possible; mais si je
+    n’ai point son corps, au moins ne manquera-t-il pas de monument chez moi. Quand je viendrai en
+    ville cet automne, je rassemblerai les lettres que ce grand homme m’a écrites, et je vous les
+    enverrai. J’en ai un grand nombre, mais s’il est possible, faites l’achat de sa bibliothèque et
+    de tout ce qui reste de ses papiers, inclusivement mes lettres. Pour moi, volontiers je paierai
+    largement ses héritiers, qui, je pense, ne connaissent le prix de rien de tout cela.</p>
+   <p>Vous me feriez encore un grand plaisir de me faire avoir de <persName ref="people.xml#cra01">
+     Cramer</persName> non seulement l’édition la plus complète de ses oeuvres, mais
+    encore jusqu’au dernier des <seg xml:lang="en"> pamphlets</seg> sortis de sa plume. Je ferai un
+    salon où ses livres trouveront leur place. Il est vrai que l’<rs ref="people.xml#abd03">
+     ambassadeur marocain</rs> est parti ? Livourne sur une de mes frégates marchandes. Votre
+    post-scriptum à coche d’eau hollandais m’est parvenu; je n’ai pas grand goût pour les projets et
+    entreprises de cette nature ; les ports de la <placeName ref="places.xml#rus01"> Russie</placeName> sont ouverts à qui veut y
+    commercer, et puis c’est tout. Je crains les monopoles à cent lieues, je n’aime pas à tout
+    régler, encore moins à gêner; les entreprises de cette nature sont risqueuses; il y a toujours
+    du tracas avec dépareilles compagnies. Je suis comme <persName ref="people.xml#bas02">
+     Basile</persName> dans le <title ref="works.xml#barbie01">Barbier de Séville</title>; j’ai
+    comme ça de petites maximes auxquelles je m’en tiens et que dans l’application j’emploie avec
+    variation. La purée du levant lèvera incessament le masque, ou jamais; pour la <name ref="events.xml#bavar01">bavaroise</name>, je la crois indigeste. Non, non,
+    monsieur le baron, ce n’est point seulement dans son intérieur, mais même dans la façade du côté
+    de l’<title ref="works.xml#kagoul01">obélisque de Kagoul</title> que le château
+    de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> va être culbuté de fond en comble; elle deviendra agréable, cette
+    façade-là, et rien de plus. Je n’ai d’autres prétentions que celle-là depuis que j’ai entendu la
+    décision de mademoiselle <persName ref="people.xml#ber04"> Bertin</persName> qu’il n’y a que le
+    joli qui mène à l’immortalité; c’est une famille très distinguée que celle de cette dem.
+     <persName ref="people.xml#ber04"> Bertin</persName>. Son frère est cuisinier du <persName ref="people.xml#pot01">
+    pr. Potemkine,</persName> et je lui dis en m’inclinant chaque fois que je le vois: M. <persName
+     ref="people.xml#ber05"> Bertin</persName>, mes cuisiniers, tous tant qu’ils sont, ne sont que
+    des marmitons vis-à-vis de vous, et M. <persName ref="people.xml#ber05"> Bertin</persName>
+    m’aime comme pain. Je lis présentement ce que dit le baron Dalberg, et sa tête va avec la
+    mienne.</p>
+   <p>Mais à propos, la fameuse écritoire est arrivée; je l’ai vue, et par acclamation elle a reçu
+    l’épithète de charmante: il n’y a que le mât servant d’ombracle qui n’y va pas; il la cache, la
+    surcharge et la gâte; je l’ai fiait ôter; tout le reste, chacun à part et tout ensemble, est
+    charmant: <seg xml:lang="de"> Gott segne unser Tintenfaß und diejenige so es bestellt gemacht
+     und da zu behülflich gewesen sind.</seg> J’ai reçu aussi le médaillon de <persName
+     ref="people.xml#fra01"> Franklin</persName>; voilà une grosse tête; je vous enverrai celui de
+     <rs ref="people.xml#kor02"> Pyrrhus, roi d’Epire</rs>, et vous direz: voilà une belle tête,
+    physionomie grecque, proportions grecques. Voilà de ces figures que nos sculpteurs ignorent; je
+    démontrerai que bien des attitudes que <persName ref="people.xml#fal01"> Falconet</persName> et
+    autres ne croient point dans la nature, y sont pourtant quand la nature est parfaite à un tel
+    point-; ah! monsieur, la belle chose que cette chose-là, vous m’en remercierez un jour. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

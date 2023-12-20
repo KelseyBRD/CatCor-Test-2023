@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03575</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03575</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:54:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03575">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St
+     Pétersbourg</placeName>, ce <date when-custom="1780-01-12">12 janvier 1780</date>.</dateline></opener>
+   <p>Comme vous aimez à savoir ce qui se passe ici, je prends la liberté de vous faire parvenir un
+    pamphlet qui n’a pas le sens commun, mais comme de telles choses ont grand droit sur l’espèce
+    humaine, c’est apparemment aussi qu’à ces causes celle-ci a acquis une sorte de célébrité
+    ici.</p>
+   <q>Mémoire pour son excellence monsieur le vice-chancelier.</q>
+   <p>Le <rs ref="people.xml#lec01"> ministre de <placeName ref="places.xml#fra01"> France</placeName></rs> se voit avec douleur
+    obligé de représenter à S. E. M. le vice-chancelier qu’on a violé en sa personne le droit des
+    gens de la manière la plus grave, et que toute l’<placeName ref="places.xml#eur01"> Europe</placeName> doit être aussi indignée
+    qu’ alarmée d’un pareil attentat dans un siècle éclairé comme le nôtre. Il se voit contraint de
+    demander à la nation qu’il représente une vengeance éclatante des indignes traitements qu’il a
+    éprouyés depuis deux mois, des dangers qu’on lui a fait courir, des pièges affreux qu’on lui à
+    tendue et de la liberté qu’on lui a ravie. Avant de périr dans une cour où l’on se fait un jeu
+    de violer les droits de l’hospitalité et de n’avoir aucun égard au caractère dont il est revêtu,
+    il veut exposer sommairement ses griefs, dont le simple tableau fera frémir toute âme sensible.
+    Ce fut le quatre de juin que par ordre de l’impératrice l’ambassadeur de l’empereur et les
+    ministres de <placeName ref="places.xml#fra01"> France</placeName> et d’ <rs ref="people.xml#har01"><placeName ref="places.xml#eng01"> Angleterre</placeName></rs>
+    se virent enlevés de leurs hôtels et transportés rapidement à <persName ref="people.xml#nov01">
+     Novogorod</persName> ; de là on les transféra à <placeName ref="places.xml#vys01"> Vichney
+     Volotchok</placeName>, ou ils crurent pendant quelque temps que leurs plaintes seraient
+    écoutées et qu’on les ramènerait à <placeName ref="places.xml#pet01"> Petersbourg</placeName>. Mais leurs espérances furent
+    trompées et sans égard à leurs protestations, on les fit partir à <placeName ref="places.xml#mos01"> Moscou</placeName>. Pendant
+    ce long voyage ils pensèrent plusieurs fois perdre la vie dans des emeutes et des révoltes
+    qu’occasionnaient partout les lois tyranniques qu’on avait va promulguer depuis peu, la famine
+    affreuse que le défaut de magasins et les monopoles publics avaient amenée et l’injustice de
+    l’impératrice relativement à trois ministres de souverains dont l’amitié pour elle se voyait si
+    cruellement trahie. Cependant cet excès d’injustice ayant poussé à bout les esprits, qu’on avait
+    en vain voulu séduire par de grandes largesses, les attroupements et les séditions se
+    renouvelant à chaque pas, la santé de la souveraine devenant de jour en jour plus chancelante,
+    on résolut, pour appaiser la nation, de retourner à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>. On répandit le bruit d’un changement total dans notre sort ; on laissa
+    entendre qu’on nous rendrait la liberté et que nous obtiendrions une satisfaction proportionnée
+    à nos souffrances; mais tandis qu’on affectait des dispositions si pacifiques, on conçut le
+    projet perfide de nous faire périr en secret, et ce n’est sûrement qu’à un secours miraculeux du
+    ciel que nous devons le bonheur d’être échappés à d’aussi grands périls. Le S<hi
+     rend="superscript">r</hi> <persName ref="people.xml#ber05"> Bertin</persName> fut le premier
+    qui se chargea d’exécuter cet affreux projet : il serait trop long de détailler combien de
+    victimes furent égorgées pendant la route par les ordres de cet homme cruel : il essaya contre
+    nous toutes les ruses empoisonnées que lui fournissait son art; mais la bonté de nos
+    constitutions nous fit résister à l’effet des mets dangereux qu’il nous forçait de prendre. Le
+    grand écuyer, le plus noir des hommes, se vanta d’être plus heureux et de nous faire expirer par
+    un supplice nouveau dont il se glorifiait d’être l’auteur. Il eut l’inhumanité de promettre
+    qu’il nous ferait mourir dans des convulsions affreuses; en effet, s’étant habillé en sorcière,
+    il ne nous eut pas plutôt fixés et prononcé certaines paroles, que des éclats de rire convulsifs
+    s’emparèrent de nous, et auraient bientôt terminé nos jours, si un danger imminent de se noyer
+    n’eût éxcité tout &amp; coup Sa frayeur et ne nous eût donné le temps de nous dérober à ses
+    regards. Nous tentâmes plusieurs fois de nous échapper, mais on nous enferma dans un bâteau,
+    sous la garde d’esclaves noirs, qui ne nous perdaient pas un instant de vue. On crut enfin avoir
+    trouvé le moyen de nous donner la mort : l’ambassadeur de l’empereur qui voulait obtenir sa
+    grâce et qui cependant partage heureusement encore nos chaînes, suggéra l’idée de faire
+    embarquer le <persName ref="people.xml#har01"> ministre d’<placeName ref="places.xml#eng01"> Angleterre</placeName></persName> et
+    moi sur la Msta dans un bâteau arrangé pour s’ouvrir au milieu dès cataractes. En effet, nous
+    vîmes bientôt notre bâtiment se séparer, les flots y entrer de toutes parts, mais de généreux
+    matelots se jetant à la nage, fermèrent, au péril de leur vie, la voie d’eau qui s’était faite,
+    et nous tirèrent de danger. Il semblait qu’on ne pouvait rien ajouter à l’horreur de notre
+    situation, mais je frémis d’être obligé d’avouer que l’impératrice, à son retour, nous ayant
+    fait renfermer dans le château de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, nos persécuteurs, après nous avoir
+    tentés par des présents et intimidés par des menaces, viennent de nous forcer à étrangler de
+    notre propre main un ambassadeur turc au milieu d’une audience publique que l’impératrice lui
+    avait accordée: faiblesse honteuse que je me reprocherais éternellement, si je n’avais une
+    excuse dans la ressemblence que ce Turc avait avec le grand écuyer, notre plus cruel ennemi. Je
+    croyais au moins, en prêtant ma main à ce crime, racheter ma liberté, mais je n’ai que la honte
+    de mon forfait : c’est du fond de ma prison que je vous adresse cette plainte qui ne fera
+    peut-être qu’aggraver mon sort. Je n’ai point d’espoir d’être délivré; je n’ai que celui d’être
+    vengé, et je sais que nous sommes non seulement prisonniers, mais même <hi rend="italic"
+     >attachés</hi> pour toute notre vie.</p>
+  </body>
+ </text>
+</TEI>

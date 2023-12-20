@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03710</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03710</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify Kalischkine, though it seems likely to be a courier, and I also could not
+     find enough info to confirm Robert Pierre</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:03:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03710">
+  <body>
+
+   <opener><dateline>Ce <date when-custom="1795-04-06">6 d’avril 1795</date></dateline></opener>
+   <p>Kalischkine est arrivé depuis trois jours, et il m’a remis, selon la facture, tout votre
+    envoi. Ne m’envoyez plus les cahiers des figures de la mythologie: elles sont si grossièrement
+    gravées qu’on n’y apprend rien; c’est se former au mauvais goût, et puis ce ne sont presque que
+    des pâtes. Vous savez peut-être que dans mon immense cabinet de pierres gravées il n’y a que
+    très peu de pâtes, et que tous les cabinets de <placeName ref="places.xml#eur01">
+     l’Euroре</placeName> ne sont que des enfantillages, vis-à-vis du nôtre et qu’en fait de pâtes
+    nous avons un autre cabinet qui contient trente-quatre mille pâtes. Que tout cela est rangé
+    systématiquement en commençant par les Egyptiens et passant par toutes les mythologies,
+    histoires fabuleuses et non fabuleuses jusqu’aujourd’hui! Il n’y a que la guerre présente qui ne
+    s’y trouve pas; peut-être la prise de <placeName ref="places.xml#pra01"> Prague</placeName> y
+    sera-t-elle avec le temps, et les héros <persName ref="people.xml#suv01"> Souvorof</persName>,
+     <persName ref="people.xml#fer01"> Fersen</persName> et <persName ref="people.xml#der01">
+     Derfelden</persName>. <persName ref="people.xml#zub01"> Valérion</persName> y est déjà. Aucun
+    des négociateurs de la honteuse et désastreuse <name ref="events.xml#basel01"> paix de
+     Bâle</name> n’y entrera, pas même le marquis <persName ref="people.xml#luc01">
+     Lucchesini</persName>, le grand faiseur et dictateur, ni <persName ref="people.xml#her02">
+     Hertzberg</persName>, qui a osé, sous les yeux du <persName ref="people.xml#fri03"> roi de
+      <placeName ref="places.xml#pru01"> Prusse</placeName></persName> et dans sa capitale, tenir en
+    pleine Académie un discours, qui est imprimé dans les mémoires de cette Académie et que j’ai,
+    dans lequel discours il range et pomme dans la même ligne le <persName ref="people.xml#fre01">
+     feu roi de <placeName ref="places.xml#pru01"> Prusse</placeName></persName> et Robert Pierre
+    comme deux grands hommes dignes d’admiration. Quand j’ai dit cela au <persName
+     ref="people.xml#anh01"> feu comte d’Anhalt</persName>, il ne voulut pas le croire, et il voulut
+    le voir de ses yeux; alors je lui produisis l’imprimé, qu’il ne put voir sans indignation. Voilà
+    donc les grands faiseurs dont on adopte aveuglément très souvent les mesures; cela fait frémir
+    poux l’avenir, surtout quand on voit qu’aucun traité n’est rempli, que les armées, au lieu
+    d’aller en avant, rétrogradent, que des vues et jalousies mesquines sont préférées aux grandes
+    et salutaires, et que ce sont des cuistres italiens qui mènent tout cela; alors on devient
+    bilieux malgré soi. Signer cette <name ref="events.xml#basel01"> paix de Bâle</name>, c’est
+    dire: vivent les régicides; or je vous demande si aucun roi peut dire cela avec honneur et
+    vérité. Et s’il le dit, il souscrit tacitement sa propre sentence. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

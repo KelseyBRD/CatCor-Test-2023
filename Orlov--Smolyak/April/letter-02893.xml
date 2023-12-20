@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02893</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02893</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:21:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup revised; query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02893">
+  <body>
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей
+      Григорьѳвич</persName>! </salute></opener>
+   <p>Вы из рескрипта Мною подписаннаго, усмотрите, что контр-адмиралъ <persName
+     ref="people.xml#chi01"> Чичагов</persName> поехал отселе с тремя <orgName ref="orgs.xml#russ02"
+     > кораблями</orgName>, а именно: «Чудо Иоанна Крестителя, иже бе в Чесмы, «Победа» и «Граф
+    Орлов», в <placeName ref="places.xml#aeg01"> Архипелаг</placeName>. Братец ваш граф <persName
+     ref="people.xml#orl01"> Григорий Григорьевич</persName> с господином <persName
+     ref="people.xml#obr01"> Обресковым</persName>, 25 мая отселе также отправились на <name
+     ref="events.xml#focsa01"> мирный конгресс</name>; а господин <persName ref="people.xml#sim01">
+     Симолин</persName> в <placeName ref="places.xml#giu01"> Журже</placeName> действительно
+    трактует с <rs ref="people.xml#abd04"> турецким коммисаром</rs> о перемирии во время <name
+     ref="events.xml#focsa01"> конгресса</name>, и Я жду с часа на час известие о подписании онаго.
+    Сего утра Я получила от фельдмаршала <persName ref="people.xml#rum01"> Румянцева</persName>
+    курьера, с которым, между прочим, пишет, что он чрез турецкаго <persName ref="people.xml#mus04">
+     визиря</persName> послал к вам письмо с известием, что <placeName ref="places.xml#giu01">
+     перемирие</placeName> трактуется. <placeName ref="places.xml#ott01"> Турки</placeName>, кажется
+    Нам, что податливы. И так надеемся, что хотя Наши враги <orgName ref="orgs.xml#bour01">
+     французы</orgName> теперь мечутся, как угорелыя кошки, что, однако, в противность их желанья,
+    Бог благословит Наше мирное дело счастливым и скорым окончаньем. Я считаю <rs
+     ref="people.xml#orl01"> братца вашего</rs> уже в <placeName ref="places.xml#ias01">
+     Яссах</placeName>; он из <placeName ref="places.xml#kie01"> Киева</placeName> выехал 10 мая, и
+    Нам пишет, что он надеется быть 20 мая в <placeName ref="places.xml#ias01"> Яссах</placeName>, и
+    так тому сегодня пятый день, как он у <persName ref="people.xml#rum01"> фельдмаршала</persName>
+    в главной квартире, откудова он имеет переслаться с <rs ref="people.xml#osm01 people.xml#yas01">
+     турецкими полномоченными</rs>, кои, чаю, или уже суть, или скоро приедутъ в <placeName
+     ref="places.xml#sum01"> Шумлу</placeName> к верховному <persName ref="people.xml#mus04">
+     визирю.</persName> Место <name ref="events.xml#focsa01"> конгресса</name> они сами между собою
+    изберут, где ловчее, лишь бы то было по сю сторону <placeName ref="places.xml#dan01">
+     Дуная</placeName>. Желая вам во всем счастливаго успеха, остаюсь, как всегда, с крайним
+    доброжелательством благосклонна.</p>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline>Из <placeName ref="places.xml#tsa01"> Села Царскаго</placeName>. <date
+     when-custom="1772-05-25"> Мая 25 ч. 1772 г.</date></dateline>
+   <postscript>
+    <p><placeName ref="places.xml#hol01"> Цесарцы</placeName> дали своему посланнику в <placeName
+      ref="places.xml#ist01"> Царьграде</placeName> инструкцию, чтоб он при <name
+      ref="events.xml#focsa01"> конгрессе</name> поступал по наставлениям <rs
+      ref="people.xml#orl01 people.xml#obr01"> Наших послов</rs>; дружелюбнее поступать нельзя.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00764</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00764</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-29">29 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00764">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Села Царского. </placeName><date
+                            when-custom="1784-04-25">Апреля 25 ч., 1784</date></dateline></opener>
+                    
+                    <p>Носится слух по здешнему народу, будто язва в <placeName
+                            ref="places.xml#khe01">Херсоне</placeName> попрежнему свирепствует и
+                        будто пожрала большую часть адмиралтейских работников. Зделай милость, друг
+                        мой сердечный, приймись сильной рукой за истребление херсонской язвы.
+                        Употребляй взятые меры при московском нещастии. Они столь действительны
+                        были, что от сентября по декабрь истребили смертоносную болезнь. Прикажи
+                            <placeName ref="places.xml#khe01">Херсон</placeName> расписать на части,
+                        части на кварталы; к каждому кварталу приставь надзирателей, кои за
+                        истребление язвы бы ответствовали. Одним словом, возьмись за дело то, как
+                        берешься за те дела, коим неослабный успех дать хочешь. Ты умеешь вить
+                        взяться за дело. Установи карантины и не упусти ни единой меры, кои к тому
+                        способствовать могут. Пиши, пожалуй, здоров ли ты сам? И для чего давно от
+                        тебя писем нет, а из губернии твоей репортов?</p>
+                    <p>Штат <placeName ref="places.xml#cri01">Тавриды</placeName> я
+                        конфирмовала.</p>
+                    <p><persName ref="people.xml#arc01">Папский посол</persName> получил обещание,
+                        что вскоре наименован будет кардиналом. <persName ref="people.xml#cob02"
+                            >Кобенцель</persName> получил посольский кредитив.</p>
+                    <closer><signed rend="inline" xml:lang="fr">Adieu, mon cher Ami, portes-Vous
+                            bien et aimes-moi.</signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

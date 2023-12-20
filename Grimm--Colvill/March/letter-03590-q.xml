@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03590</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03590</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Could not identify chevalier Miller, who Catherine II used to call M. or Chevalier
+     Müller. (2) Ribeaupierre – unclear if it’s a family, the castle, etc. so I did not code it
+    </p><p>Emma: Mistake in this code (only two letters)
+     <rs
+      ref="people.xml#geo02"> de frère G. et de lui même</rs>  Also added an editorial note to identify two people as "les gens". Didn't put text, just the codes.
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-29">29/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:52:02Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03590">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-01-26"
+      >26 janvier 1782</date>.</dateline></opener>
+   <p>Réponse au No 33, intitulé <seg xml:lang="de"> Römischer, auch ollapotridischer oder
+     vermischter Vortrag</seg></p>
+   <p>J’espère que vous avez depuis longtemps ma pancarte qui sert de réponse aux affaires de
+    Ваr-le-Duc etc., et que la résolution est prise défaire faire le tour de
+     l’<placeName ref="places.xml#ita01">Italie</placeName>, afin de donner de l’aplomb aux imaginations trop
+    éveillées de <rs ref="people.xml#lan03"> votre enfant perdu.</rs></p>
+   <p>Comment faire le <rs ref="people.xml#rei03"> divin</rs>, comme tout autre homme, a été trompé,
+    et il est très avéré qu’excepté une demi-douzaine de pièces, tout le reste de son envoi est
+    croûte très fieffée et très avérée; sur les croûtes, d’ailleurs, la réputation de <persName
+     ref="people.xml#jen01"> Jenkins</persName> est faite depuis longtemps.</p>
+   <p>Les trois camées que vous m’avez envoyés par le suisse Ribeaupierre, je les ai reçus presque
+    en compagnie de votre lettre, et ils nous ont fait une très agréable sensation; je vous en
+    remercie, de même que pour le dixième cahier du <title ref="works.xml#voyage03"> Voyage
+     pittoresque de la <placeName ref="places.xml#gre02">Grèce</placeName></title> et pour <title
+     ref="works.xml#couche01">l’ estampe nouvelle de <persName ref="people.xml#por02">     Porporati</persName></title> d’après <rs ref="people.xml#van02"> un des Vanloo.</rs></p>
+   <p>Lorsque monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs> recevra de <rs ref="people.xml#bez01"> M. le factotum</rs>
+    un crédit de trente mille roubles, alors M. le <rs ref="people.xml#gri01">souffre-douleur</rs> s’emparera des <persName
+     ref="people.xml#hou02"> Houel</persName> et des camées <persName ref="people.xml#bre03">
+     Breteuil</persName>, et alors nous lui dépêcherons un ange ou archange de ceux qu’on appelle
+    messagers ou archimessagers, qui prendra sous son bras tous les tiroirs, et malgré les
+    cahotements de la chaise de poste, les portera sains et saufs ici.</p>
+   <p>Cela est-il clair, monsieur le <rs ref="people.xml#gri01">souffre-douleur</rs>? Pour le cabinet <persName
+     ref="people.xml#bau04"> Baudouin</persName>, je le trouve cher, et volontiers je dirais: je
+    n’ai point d’argent, mais ce mot devient si vieux qu’il vous ennuierait; je ferai mieux, je ne
+    vous enverrai point d’argent pour l’acheter; ce sera le meilleur moyen pour cette fois-ci, à
+    moins qu’il ne nous vienne une nouvelle attaque de fièvre aux tableaux.</p>
+   <p>La kyrielle d’ouvrages romains gravés et illuminés, demandés avec une faim alarmante, n’est
+    point du tout arrivée, quoique l’on m’en demande des nouvelles tous les jours, et si elle a été
+    expédiée de <placeName ref="places.xml#rom03">Rome</placeName>, il faudrait savoir par qui et comment. Il
+    parait que le <rs ref="people.xml#rei03"> divin</rs> les fait aller par terre.</p>
+   <p>Je suis bien fâchée que vous ayez été malade et que vous ayez perdu <persName
+     ref="people.xml#tro02"> M. Tronchin</persName>, le médecin, et celui avec lequel je confondais
+    tous les Tronchin possibles, est-ce qu’il n’a point laissé à <persName ref="people.xml#epi01">
+     Mme d’Epinay</persName> les recettes des remèdes qu’il lui donnait? Mais d’où vient que vous
+    faites de la bile, vous qui riez de si bon coeur sur le compte de votre prochain et qui ne vous
+    fâchez jamais? Ma ne vous chagrinez surtout point de mes affaires.</p>
+   <p>Tous les employés et envoyés du <persName ref="people.xml#unknown"> chevalier
+     Miller</persName> sont arrivés en bonne santé; ils sont à Sophie où ils filent tant qu’ils
+    peuvent, et j’en suis très contente, c’est-à-dire que je n’en entends point parler et que je
+    sais qu’ils ont tout ce qu’il leur faut. Pour le chevalier Miller, qui ne sait pas un mot de
+    russe, je ne sais ce qu’il pourrait représenter ici.</p>
+   <p>Pour avec vos carmes, je n’ai rien à faire, parce qu’il est défendu aux miens d’avoir
+    communication avec d’autres carmes que ceux de mon pays, et point de général hors de mon pays.
+     <seg xml:lang="de"> Wir werden sehr eigenfinnig und wollen unsere Ménage für uns haben, und
+     fremde Rasen haben darin gar nichts zu thun.</seg> Vous pouvez dire à la <persName
+     ref="people.xml#oli01"> Corilla</persName> que j’ai craint que la rigueur du climat ne nuisît à
+    sa santé. Au vrai, je vous dirai que je n’entends pas l’italien et que j’ai vu deux <seg
+     xml:lang="it"> improvisatori</seg> ici qui m’ont paru être fous à lier. Je veux croire que cela
+    est admirable en italien, mais chez nous c’est peine perdue. Mais puisque vous me dites que cent
+    ducats de pension lui feraient grand bien, je m’en vais les lui donner.</p>
+   <p>Je suis bien fâchée que le médaillier de <persName ref="people.xml#buf02"> M. de
+     Buffon</persName> soit arrivé en mauvais état; si je savais quelles médailles ont souffert,
+    j’en enverrais les doubles. Vous trouverez ci-jointe ma réponse à la lettre de cet homme
+    illustre, si elle est bien selon vous. Le buste sera le bienvenu, et <rs ref="people.xml#buf01">
+     le fils</rs> de <persName ref="people.xml#buf02"> M. de Buffon</persName> aussi.</p>
+   <p>Puisque les <persName ref="people.xml#hou02"> Houel</persName> sont achetés, vous avez donc de
+    l’argent pour les acheter et ne faudra que <rs ref="people.xml#bez01"> factotum</rs> en envoie
+    pour cela, mais bien encore pour <persName ref="people.xml#gil01"> Gillet</persName>. Eh bien,
+    quel mal vous font les vaisseaux de guerre que je construis? ne faut-il pas en avoir comme des
+    ongles aux doigts?</p>
+   <p>Allez, allez; votre <persName ref="people.xml#dul01"> Dulcinée</persName>
+    <persName ref="people.xml#len02"> Lenchen</persName> vous reste: en ferez ce que bon vous
+    semblera.</p>
+   <p>Ici tout le monde tousse, éternue et à la fièvre; votre lettre m’a trouvée au lit, mais je
+    suis mieux. </p>
+   <p>Si vous saviez toutes les pauvretés auxquelles je m’occupe présentement, vous mourriez de
+    rire; oh! je deviendrai fort habile sur mes vieux jours!</p>
+   <p>Lorsque j’ai voulu fermer cette lettre, j’ai reçu votre No 34, daté du 12 (1) janvier 1782.
+    Elle commence par un cantique sur le renouvellement de l’année; je le passe, celui-là, mais ce
+    que je ne saurais voir sans le plus sensible chagrin, c’est le dérangement de votre santé ; en
+    vérité, Madame de <placeName ref="places.xml#kaz01">Kazan</placeName>, si fertile en miracles jadis, me
+    doit à moi un miracle en votre faveur, car je lui ai procuré toute sorte d’agréments dont je lui
+    ferai la récapitulation, afin qu’elle exauce mes voeux et vous rétablisse au plus tôt. Mais
+    aussi de quoi vous avisez-vous d’aller prendre les eaux de <placeName ref="places.xml#spa02">
+     Spa</placeName> sans raison? Сеs eaux ont pensé me faire mourir &amp; <placeName ref="places.xml#mos01">     Moscou</placeName> lors de la fête de la paix; je n’en avais cependant bu que quatre verres
+    pour chasser une colique. Ne m’écrivez point, si cela vous fait du mal; dictez à quelqu’un et
+    promenez-vous par la chambré en chantant une chanson; c’est un remède contre la bile.</p>
+   <p>Ecoutez: plutôt que de vous mettre en faux frais avec des gens qui ne peuvent ou ne veulent
+    pas accorder une chose qui est juste et qui, outre cette justice, est encore grande bagatelle
+    pour tout trésor de roi, vous qui me dépensez de l’argent tous les jours de l’année pour des
+    inutilités, prenez de cet argent jusqu’à deux fois huit mille livres, donnez-les à <rs
+     ref="people.xml#epi01"> l’auteur</rs> des <title ref="works.xml#conver01"> Conversations
+     d’Emilie</title>; en cas qu’elle ne voulût pas les accepter, prêtez-les lui pour cinquante ans,
+    et surtout ne m’en parlez plus, ni à personne, mais dites-moi tout simplement: j’ai donné ou
+    j’ai prêté les deux fois huit mille livrés.</p>
+   <p>Pour <title ref="works.xml#conver01"> Emilie</title>, faites lui faire une prétention ou
+    quelque chose de pareil avec mon nom en diamants et nouez-le à son coup, afin qu’elle se
+    souvienne de moi.</p>
+   <p>Je ne me souviens point de ce que je vous ai mandé de <persName ref="people.xml#nec01"> M.
+     Necker</persName>, mais si cela peut lui faire plaisir, donnez-le lui en copie: il y verra
+    l’estime que j’ai pour lui et pour ses hottes fortes.</p>
+   <p>Je vous défends très expressément de me parler jamais des galvaudeurs <rs
+     ref="people.xml#geo02"> de frère G. et de lui même</rs> aussi.</p>
+   <p>Pour <persName ref="people.xml#cle01">Clérisseau</persName>, le premier architecte, je me flatte de
+    voir sa porte No 2. <persName ref="people.xml#bau01"> Le g. Bauer</persName> m’a montré votre
+    lettre; faites-nous deux portes cochères à cette porte. Je suis bien aise que <title
+     ref="works.xml#trista01"> Tristram Shandy</title> l’allemand vous ait fait rire; lisez-moi un
+    peu <title ref="works.xml#wilhel01" xml:lang="de"> Wilhelmine</title> et puis <title
+     ref="works.xml#lebenu01" xml:lang="de"> Magister Sebaldus Nothanker</title> et puis <title
+     ref="works.xml#spitzba01" xml:lang="de">Spitzbart</title>, et si votre bile ne rentre pas dans
+    son devoir, ce ne sera pas ma faute. Je vous recommande encore <seg xml:lang="de"> die
+     allgemeine deutsche Bibliothek</seg>; mais comme elle contient 46 volumes jusqu’ici, vous ferez
+    bien de la feuilleter seulement; morgué, si tout cela n’est pas une archive de génie, de raison,
+    d’ironie et de tout ce qu’il y a de plus égayant pour l’esprit et la raison, je ne m’y connais
+    point, ma vous y trouverez de certaines gens tapés d’importance, et vous y trouverez de tout,
+    excepté de l’ennui. Cette littérature tudesque laisse tout le reste du monde grandement derrière
+    elle, et va à pas de géant; morgué, l’on dirait que se sont ceux des premiers temps de
+     la <placeName ref="places.xml#sib01">Sibérie</placeName>.</p>
+   <p>Nous nous écrivons de belles lettres avec <persName ref="people.xml#pop03"> Pie VI</persName>,
+    avec lequel nous sommes très d’accord, à cela près qu’il veut une chose, et moi une autre. Mes
+    dernières lettres du <rs ref="people.xml#pau01"> comte</rs> et <persName ref="people.xml#mar02">comtesse
+     du Nord</persName> étaient de <placeName ref="places.xml#bol01"> Bologne</placeName>; ils
+    allaient à <placeName ref="places.xml#rom03">Rome</placeName> et de là à <placeName
+     ref="places.xml#nap01"> Naples</placeName>. Voyez un peu où les  gens du
+     Nord<note type="editorial"><persName ref="people.xml#pau01"/> and <persName
+      ref="people.xml#mar02"/></note> vont se fourrer; je crois que c’est pour leur commodité qu’ils
+    ne dînent ni ne soupent nulle part: de race nous n’aimons point les longs repas et les veilles;
+    en revanche nous sommes matinaux.</p>
+   <p>Suffit pour aujourd’hui, 15 février 1782; ne faut trop fatiguer les yeux de ton
+    <rs ref="people.xml#gri01">souffre-douleur</rs>, qui fera, je pense, plus d’une contorsion en lisant cette belle épître. </p>
+   <closer><signed rend="inline">Adieu jusqu’au revoir dans ce monde ou dans l’antre.</signed></closer>
+  </body>
+ </text>
+</TEI>

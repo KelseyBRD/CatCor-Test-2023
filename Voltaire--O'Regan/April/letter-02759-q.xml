@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02759</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02759</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Quite a few unknowns here, gone beyond allotted
+     research time – the forts ‘Matchina et de Ginova’, the Turkish commander ‘Moursou Ouglou’, a
+     ‘Mr de Vieuxmenil’, the place ‘Tourton’ and the name ‘Bauer’ (possibly #bau01?). </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:29:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02759">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St: Petersb</placeName> : ce <date when-custom="1771-11-18">18/29 Novembre 1771</date></dateline></opener>
+   <p>Monsieur, Pour faire tenir Votre lettre au seigneur
+      <persName ref="people.xml#mus01"> Moustapha</persName>, le Maréchal
+      <persName ref="people.xml#rum01"> Roumenzof</persName> a envoyé vers la moitié du
+     mois passé le Gén: <persName ref="people.xml#wei03"> Major Weissmann</persName>, au
+     delà du <placeName ref="places.xml#dan01"> Danube</placeName>, où après avoir fait
+     sauter en l’air deux petit forts qui barroit son chemin, il a marché vers
+      <placeName ref="places.xml#bab02"> Babada</placeName> où le grand Visir était
+     campé. Il a pris cette place, a battu les troupes du
+    Visir, s’est emparé du Canon fondu par M<hi rend="superscript">r</hi> <persName ref="people.xml#tot01"> Thot</persName>
+    l’année passée à <placeName ref="places.xml#ist01"> Constantinople</placeName>, après quoi poliment il est
+    entré dans le Camp pour parler au Visir, mais il ne l’y a plus trouvé. Nos troupes légères se
+    sont portés jusqu’au <placeName ref="places.xml#hae01"> mont Hemus</placeName> sans rencontrer à qui
+    s’addresser. Alors M<hi rend="superscript">r</hi> <persName ref="people.xml#wei03"> Weisman</persName> croyant sa comission
+    achevée retourna vers <placeName ref="places.xml#isa02"> Isakchi</placeName> qu’il rasa. Pendant ce tems là,
+    un autre général major a pris les forts de Matchina et de Ginova tandis que le Lieuttenant
+    général <persName ref="people.xml#ess01"> Essen</persName> s’amusa à battre quarante mille Turks comandés
+    par Moursou Ouglou, çi devant Visir, qui s’étoit avancé en <placeName ref="places.xml#wal01">
+     Valachie</placeName>. Aprés la défaite de celui ci <placeName ref="places.xml#giu01"> Giurgeva</placeName>
+    fut réoccupé. Les deux rives du <placeName ref="places.xml#dan01"> Danûbe</placeName> depuis cet endroit
+    jusqu’à la <placeName ref="places.xml#bla01"> mer Noire</placeName>, sont présentement netoyé des Turks come
+    une maison Hollandoise pourroit l’être de la poussière. Tout ceçi s’est passé du 20 au 27
+    d’Octobre v. st.</p>
+   <p>Consolés Vous Monsieur Votre cher <persName ref="people.xml#kab01"> Aly bey</persName> est maitre de
+     <placeName ref="places.xml#dam02"> Damas</placeName>. Mais quelle honte pour Vos compatriotes, pour cette
+    noblesse françaises, si remplie d’honeur, de courage et de générosité de se trouver parmi ses
+    bandits de <placeName ref="places.xml#pol01"> Pologne</placeName> qui font serment devant des images
+    miraculeuses d’assassiner leur Roy, quand ils ne savent pas combattre. Si après ce coup M<hi
+     rend="superscript">r</hi> de Vieuxmenil et ses Compagnons ne quitent point ses
+    gens là que faudra t’il penser? Nous avons içi présentement le kalga sultan, frère du khan
+    indépendant par la grâce de Dieu et les Armes de <placeName ref="places.xml#rus01"> Russie</placeName>, de
+    la <placeName ref="places.xml#cri01"> Crimée</placeName>, s’est un jeune home de 25 ans, rempli d’esprit et
+    du désir de s’instruire. Je Vous remercie bien sincèrement de l’envoy du six et septième volume
+    des <rs ref="works.xml#questi02"> Questions</rs> . Mais vos fabriquants ont ils reçu mon argent pour leurs
+    montres? Vous ne m’en dites pas un mot dans Vos lettre du 2, et du 10, d’Octobre, ni dans celle
+    du 2, de Novembre, cependant cet argent a été envoyé depuis très longtems par le Banquier
+     <persName ref="people.xml#fre03"> Fridrichs</persName> et Compagnie à Tourton et Bauer à
+     <placeName ref="places.xml#par01"> Paris</placeName>, pour Vous être payé.</p>
+   <p>J’ai encore à Vous dire que les maladies de <placeName ref="places.xml#mos01"> Moscow</placeName>, sont
+    réduites par les soins infatiguables du <persName ref="people.xml#orl01"> Cte: Orlof</persName> à un
+    dixième de ce qu’elles était. Ses frères ont fait le Diable à quatre dans l’Archipel, ils ont
+    partagé en deux leurs flotte, le <persName ref="people.xml#orl05"> frère</persName> ainé,
+    depuis le <placeName ref="places.xml#mat01"> Cap Matapan</placeName> jusqu’à <placeName ref="places.xml#lem01">
+     Lemnos</placeName> a fait plusieurs descente, a enlevé à l’enemi des Magasins et des Bâtimens et
+    a détruit ce qu’il n’a put emporter; le <persName ref="people.xml#orl05">
+     cadet</persName> en a fait autant sur les côtes
+     d’<placeName ref="places.xml#asi01"> Asie</placeName> et d’<placeName ref="places.xml#afr01"> Afrique</placeName>, mais
+    sa maladies très sérieuse l’a obligé de revenir à <placeName ref="places.xml#liv01">
+    Livourne</placeName>.</p>
+   <p>Si ses nouvelles Monsieur peuvent Vous rendre la santé, elles auront un nouveaux mérite à mes
+    yeux, parcequ’on ne sauroit s’intéresser plus sincèrement à ce qui Vous regarde que je le
+    fais.</p>
+   <p>Dites moi je Vous prie si l’Edition de <rs ref="works.xml#encycl01">
+       l’Encyclopédie</rs> qui ce fait à <placeName ref="places.xml#gen01">
+      Geneve</placeName> est avoué par les Auteurs? Les Editeurs m’ont demandé
+     des mémoires sur la <placeName ref="places.xml#rus01"> Russie</placeName> pour les y
+     insérer.</p>
+  </body>
+ </text>
+</TEI>

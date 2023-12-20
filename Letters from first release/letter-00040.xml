@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00040</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00040</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-25">1 September 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-07-09">9 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr">
+                <body>
+                    <opener><dateline><placeName ref="places.xml#pet01">à St: Petersb:</placeName>
+                            <date when-custom="1774-01-19">ce 19 Janvier 1774</date></dateline>
+                        <salute rend="inline">Monsieur,</salute></opener>
+                    <p> Je pense que les nouvelles que <rs ref="people.xml#fre01">le Roy de
+                            Prusse</rs> Vous a doné de la défaite du <rs>Visir</rs> et de la prise
+                        de <placeName ref="places.xml#sil01">Silistrie</placeName> lui sont venuë de
+                            <placeName ref="places.xml#pol01">Pologne</placeName>, le Pays après la
+                            <placeName ref="places.xml#fra01">France</placeName> où on en mande de
+                        plus fausse. Je m'attend à y voir les oisifs fort occupé d'un <rs
+                            ref="people.xml#pug01">voleur de grand chemin</rs> qui pille le
+                        gouvernement d'<placeName ref="places.xml#ore01">Orembourg</placeName>, et
+                        qui tantôt pour effrayer les paysans prend le nom de Pierre trois et tantôt
+                        celui de son employé.<note type="editorial">This is the first letter in
+                            which Catherine mentions Pugachev to Voltaire. Well aware of the rumours
+                            circulating in Europe about the rebellion, despite Catherine's previous
+                            official silence on the matter, she decided hereby to announce her own
+                            authorised version of the current situation.</note> Cette très grande
+                            <rs ref="places.xml#ore02">Province</rs> n'est pas peuplée à proportion
+                        de sa grandeur, la partie montagneuse est occupé par des Tartares nomé
+                            <orgName ref="orgs.xml#bash01">Baschkir</orgName>, pilliard depuis la
+                        création du monde, le pays plat est occupé par tout les vauriens dont depuis
+                        quarante ans la <placeName ref="places.xml#rus01">Russie</placeName> a jugé
+                        à propos de se défaire, àpeuprès dans le goût que les Colonies de
+                            l'<placeName ref="places.xml#ame01">Amérique</placeName> ont été pourvu
+                        d'homes.</p>
+                    <p>Le <persName ref="people.xml#bib01">général Bibikof</persName> est allé avec
+                        un corps de troupes pour remettre la tranquillité là où elle est troublé; a
+                        son arrivé à <placeName ref="places.xml#kaz01">Casan</placeName> qui est à
+                        sept cens Werstes ou cent lieuës d'Allemagne d'<placeName
+                            ref="places.xml#ore01">Orembourg</placeName>, la noblesse de ce royaume
+                        lui offrit de joindre à ses troupes dans le besoin quatre mille homes bien
+                        armé, bien monté et entretenu à leurs dépens. Il accepta leurs offre; cette
+                        troupe seule est plus qu'en état de rétablir l'ordre dans le gouvernement
+                        limitrophe.</p>
+                    <p>Vous jugé bien que cette incartade de l'espèce humaine ne dérange en rien le
+                        plaisir que j'ai de m'entretenir avec <persName ref="people.xml#did01"
+                            >Diderot</persName>, c'est une tête bien extraordinaire que la siene. La
+                        trempe de son cœur devrait être celle de tous les homes, mais enfin come
+                        tout est au mieux dans le meilleur des monde possible, et que les choses ne
+                        saurait changer il faut les laisser aller leur train et ne pas se garnir le
+                        cervaux de prétentions inutile.</p>
+                    <closer><signed rend="inline">La miene sera toujours de Vous témoigner ma
+                            reconnoissance pour toutes les amitiés que Vous me
+                            marqués.<persName ref="people.xml#cat01">Caterine</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline><placeName ref="places.xml#pet01">at St. Petersb.</placeName>
+                            <date when-custom="1774-01-19">this 19 January 1774</date></dateline>
+                        <salute rend="inline">Sir,</salute></opener>
+                    <p>I think that king of Prussia's news of the Vizier's defeat and the taking of
+                        Silistria came to him from Poland, which is second only to France as the
+                        nation from which comes the most false news. I expect to see the idlers
+                        there exceedingly occupied with a highway robber who is pillaging the
+                        province of Orenburg and who, to scare the peasants, sometimes assumes the
+                        name of Peter III and sometimes that of his employee. This very large
+                        province is not peopled in proportion to its size; the mountainous part is
+                        occupied by Tartars called Bashkirs and who have been pillagers since the
+                        creation of the world; the flatlands are occupied by all the
+                        good-for-nothings of which Russia has found it appropriate to rid herself in
+                        the past forty years, more or less in the fashion by which the American
+                        colonies have been provided with men.</p>
+                    <p>General Bibikov has gone with a body of troops to restore the peace wherever
+                        it has been disturbed. Upon his arival in Kazan, which is about seven
+                        hundred versts or a hundred German miles from Orenburg, the nobility of the
+                        kingdom offered to add to his troops, if necessary, four thousand well
+                        armed, well mounted men, which they would maintain at their own expense. He
+                        accepted their offer. These troops are alone more than sufficient to restore
+                        order in the border province.</p>
+                    <p>You can well judge that this human escape has in no way detracted from the
+                        pleasure I take in conversing with Diderot. He has a most extraordinary
+                        mind. The fibre of his heart ought to be that of all men, but since, after
+                        all, all is for the best in this best of all possible worlds, and things
+                        cannot be changed, they must be left to go their way, and one ought not fill
+                        people's minds with useless pretensions.</p>
+                    <closer><signed rend="inline">Mine will always be to prove to you my gratitude
+                            for all your marks of
+                        friendship. <persName>Caterine</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

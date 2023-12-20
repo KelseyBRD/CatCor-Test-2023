@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01180</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01180</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-28"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01180">
+        <body>
+
+            <opener>
+                <dateline><date when-custom="1768-02-11">Се 11 Février,<lb/> 1768.</date></dateline><lb/>
+                <salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Прочтя все депеши, кои Вы ко мне прислали, оставила я оныя у себя до вашего приезда.
+                Мне очень полюбился Ваш ответ к <persName ref="people.xml#rep01">Князю
+                    Репнину</persName> на <persName ref="people.xml#cle03">Папския</persName>
+                лаяния, <seg xml:lang="fr">si ce Pape n’avoit pas été si bête, il n’auroit pas fait
+                    des balourdises pareilles Je vous envoyé un gros paquet de relations et de
+                    perlustration pour vous amuser pendant le chemin. Je suis charmée que vous soyez
+                    donc enfin en chemin. <persName ref="people.xml#ass01">Monsieur
+                        d’Assebourg</persName> m’a remis le jour qu’il a soupé chez moi, une lettre
+                    de la main propre du Roi de <placeName ref="places.xml#den01"
+                        >Danemark</placeName>; j’ai donné hier ma réponse au Vice-Chancellier p.our
+                    l’envoyer à Filosophow; l'une et l’autre ne contiennent que compliments et
+                    assurances d’amitié; il m’annonce la naissance de son fils, moi, je l’en
+                    félicite; il me dit, qu’il lui inspirera ses sentiments pour moi et qu’il me
+                    demande dès à présent mon amitié pour cet enfant; moi, je lui ai répondu, que
+                    l’époque même de la naissance du nouveau né étoit heureuse, vû qu’il ne
+                    connoîtroit plus les dissensions du nord, et que je ne doutois point, que Sire
+                    Roi ne fortifièroit dans M-r son fils les dispositions, dont une partie du genre
+                    humain, attendoit sa tranquillité. Voilà à peu près le contenu de ces deu
+                    lettres.</seg></p>
+            <closer rend="inline"><seg xml:lang="fr">Adieu, <persName ref="people.xml#pan01"
+                        >Monsieur</persName>: portez vous bien; mes compliments au Grand-Duc, et
+                    sqrtput soyez bien en santé pendant le chemin.</seg><lb/>
+                <signed><seg xml:lang="fr"><persName ref="people.xml#cat01"
+                        >Catherine.</persName></seg></signed></closer>
+        </body>
+    </text>
+</TEI>

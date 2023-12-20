@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02902</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02902</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-03">03-05-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-06-28T10:01:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-06-28">28-06-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02902">
+  <body>
+
+   <p>Вожиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.</p>
+   <p rend="Salute">Нашему генералу графу <persName ref="people.xml#orl03"> Алексею
+     Орлову</persName>.</p>
+   <p>Реляции <persName ref="people.xml#orl03"> ваши</persName> от 3-го, 7-го, 25-го й 27-го чисел
+    прошедшаго ноября, оригинальныя с отправленными от <persName ref="people.xml#orl03">
+     вас</persName> самих курьерами, a дубликаты чрез <placeName ref="places.xml#ist01">
+     Царьград</placeName>, <persName ref="people.xml#cat01"> Мы</persName> почти единовременно
+    получили. Из оных, к особливому <persName ref="people.xml#cat01"> Нашему</persName>
+    удовольствию, усмотрели <persName ref="people.xml#cat01"> Мы</persName>, с какою рачительною
+    прозорливостью предуспели <persName ref="people.xml#orl03"> вы</persName> опровергнуть
+    вероломный <placeName ref="places.xml#ott01"> неприятеля Нашего</placeName> против <orgName
+     ref="orgs.xml#russ02"> вас</orgName> умысел, и тем самым нанесли ему, конечно, великий удар,
+    прославя себя <name ref="events.xml#patra01"> новою #events-damie01 победою</name>, истреблением
+    всех, с таким отличным старанием, собранных разных на вас морских <placeName
+     ref="places.xml#ott01"> неприятеля</placeName> Нашего сил. Такая вновь заслуга <persName
+     ref="people.xml#orl03"> ваша</persName> пред <persName ref="people.xml#cat01"> Нами</persName>
+    и <placeName ref="places.xml#rus01"> отечеством</placeName> достойна, без сумнения, особливаго
+     <persName ref="people.xml#cat01"> Нашего</persName> признания, которое <persName
+     ref="people.xml#cat01"> Мы</persName> чрез сие вам засвидетельствуя, всемилостивейше <persName
+     ref="people.xml#orl03"> вам</persName> препоручаем от имени <persName ref="people.xml#cat01">
+     Нашего</persName> всем<note place="foot" xml:id="ftn1" n="1"><p> Captain <persName
+       ref="people.xml#kon01"> Mikhail Konyaev</persName> commanded <name ref="events.xml#patra01">
+       the battle of Patras</name> and lieutenant <persName ref="people.xml#ale05"> Panaioti
+       Aleksiano</persName> commanded <name ref="events.xml#damie01"> the battle at the Diametta
+       Castle</name>.</p></note>, под предводительством <persName ref="people.xml#orl03">
+     вашим</persName> принявшим участие в оном славном происшествии, объявить <persName
+     ref="people.xml#cat01"> монаршее Наше</persName> удовольствие и благоволение.</p>
+   <p>Как <name ref="events.xml#bucha01"> мирное Наше дело</name> состоит теперь в самом последнем
+    кризисе, ибо <orgName ref="orgs.xml#bour01"> завиствующие нам </orgName><orgName ref="orgs.xml#habs01">дворы</orgName>,
+    конечно, нашли способ подкрепить <placeName ref="places.xml#ott01"> турецкое</placeName>
+    упорство к <persName ref="people.xml#cat01"> Нашим</persName> кондициям, ослепляя их надеждою,
+    что при продолжении времени заботы <persName ref="people.xml#cat01"> Наши</persName> с <orgName
+     ref="orgs.xml#hols01"> шведской</orgName> стороны возмогут извлещи от <persName
+     ref="people.xml#cat01"> Нас</persName> новое в требованиях <persName ref="people.xml#cat01">
+     Наших</persName> снисхождение; с другой же стороны, срок последняго <name
+     ref="events.xml#giurg01"> перемирия</name> приближается, таки что, без сумнения, по прошествии
+    уже онаго <persName ref="people.xml#orl03"> вы</persName> сей <persName ref="people.xml#cat01">
+     Наш</persName> рескрипт получите, то и полагаем <persName ref="people.xml#cat01">
+    Мы</persName>, что оный застанет вас в полном уже действии против <placeName
+     ref="places.xml#ott01"> неприятеля</placeName>. <persName ref="people.xml#cat01"> Мы</persName>
+    надеемся, что ревность и усердие к <persName ref="people.xml#cat01"> Нам</persName> и <placeName
+     ref="places.xml#rus01"> отечеству</placeName> всех, составляющих в <persName
+     ref="people.xml#orl03"> вашем</persName> месте <orgName ref="orgs.xml#russ02"> морския силы
+     Наши</orgName>, будут непременным залогом новых <persName ref="people.xml#cat01">
+     Нам</persName> побед и приобретения новой славы, к достижению которой знатно способствовать
+    будет последнее истребление остававшегося <placeName ref="places.xml#ott01">
+     турецкаго</placeName> флота. Впрочем, препоручая <persName ref="people.xml#orl03">
+     вас</persName> и предводительствуемый вами <orgName ref="orgs.xml#russ02"> флот Наш</orgName>
+    покровительству Всевышняго, пребываем к вам навсегда Императорскою Нашею милостию благосклонны. </p>
+   <closer><dateline rend="inline"><date when-custom="1773-02-25"> Дан в <placeName ref="places.xml#pet01">
+     Санктпетербурге</placeName>, 25-го февраля 1773 года.</date></dateline>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

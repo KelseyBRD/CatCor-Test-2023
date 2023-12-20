@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02916</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02916</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Emma:  This coding doesn't look right: Моим и <persName ref="people.xml#ale01"> внуков </persName><persName ref="people.xml#kon01">
+     Моих</persName>.  It also occurs in 02915.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-05">05/04/2021</date><persName>Olga Smolyak</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:29:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02916">
+  <body>
+
+   <opener><salute rend="inline"><persName ref="people.xml#orl03">Граф Алексей
+    Григорьевич</persName>. </salute></opener>
+   <p>Два письма ваши, от 4 и 15 октября, Я получила и сегодня лошадей, присланных для <persName
+     ref="people.xml#ale01"> внуков </persName><persName ref="people.xml#kon01">Моих</persName>, смотрела; оне прекрасныя и за
+    оных благодарю именем Моим и <persName ref="people.xml#ale01"> внуков </persName><persName ref="people.xml#kon01">
+     Моих</persName>. Они оба ими веселиться будут, как ваше желание есть. Пребываю навсегда к вам
+    доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName></signed>
+   <dateline> <date when-custom="1795-10-23">Октября 23 ч. 1795 года</date>.</dateline></closer>
+   <postscript><p>Книги и планы коннаго рыска Я получила и вижу, что все происходило в лучшем
+    порядке.</p></postscript>
+  </body>
+ </text>
+</TEI>

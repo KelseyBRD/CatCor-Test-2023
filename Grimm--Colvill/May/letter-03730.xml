@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03730</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03730</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:07:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03730">
+  <body>
+   <opener><dateline> Ce <date when-custom="1796-06-25">25 juin 1796</date>.</dateline></opener>
+   <p>Monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs> est averti que <rs
+     ref="people.xml#mar02"> Maman</rs> est accouchée ce matin à trois heures d’un énorme garçon,
+    auquel on a conféré le nom de <persName ref="people.xml#nic04"> Nicolas</persName>. Il a une
+    voix de basse avec laquelle il crie d’une manière étonnante; il est de la longueur d’une archine
+    moins deux verchoks, et ses mains sont presque aussi grandes que les miennes; de ma vie je n’ai
+    vu un chevalier pareil. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien. S’il continue comme il débute, <rs
+    ref="people.xml#ale01 people.xml#kon01">ses frères</rs> seront des nains à côté de ce
+    colosse.</signed></closer>
+  </body>
+ </text>
+</TEI>

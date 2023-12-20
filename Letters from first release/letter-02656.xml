@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02656</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02656</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#turley"/>
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="person">
+                    <term target="kw.xml#children"/>
+                    <term target="kw.xml#health"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-17">17 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02656">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1769-01-16">ce 16 Janvier 1769</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>Chaque ligne de la lettre de Votre Majesté du 15 Décembre est un trait
+                        d'amitié. La part qu'Elle a prise à mon rétablissement, celle qu'Elle a
+                        marqué pour la reconvalescence de <rs ref="people.xml#pau01">mon Fils</rs>,
+                        dont le <persName ref="people.xml#sol01">comte de Solms</persName> m'a
+                        encore informé séparément, les comparaisons qu'il Lui plait de faire de mon
+                        inoculation, de la guerre et des intrigues de la <placeName
+                            ref="places.xml#fra01">France</placeName>, la bonne opinion qu'Elle me
+                        témoigne avoir de la valeur de mes troupes, les voeux qu'Elle fait sur les
+                        succès futurs de mes armes, il n'y a point de prophéties auxquelles
+                        j'ajouterai plus volontiers foi, qu'à celle de Votre Majesté, et je crois
+                        fermement que si quelqu'un a droit de prévoir l'avenir c'est assurément
+                        Elle. Mais à tout cela je ne puis répondre à Votre Majesté, qu'en Lui
+                        faisant les remercîments les plus sincères, La priant d'être assurée de la
+                        réciprocité de mes sentiments, et que mon désir est de Lui en donner les
+                        preuves les moins équivoques. Je juge de même par ma propre disposition
+                        invariable à donner à Votre Majesté les preuves les plus convaincantes de
+                        l'utilité de l'alliance qui subsiste entre nous, et je n'ai jamais douté de
+                        l'empressement que Votre Majesté veut bien me témoigner dans Sa lettre à
+                        remplir Ses engagements. J'accepte avec un égal empressement la proposition
+                        de Votre Majesté, de renouveler notre alliance, laquelle en appréciant
+                        toutes les suites des conjonctures d'à présent, peut être rendue encore plus
+                        utile à Nos états et plus importante pour toute <placeName
+                            ref="places.xml#eur01">l'Europe</placeName>. J'ai ordonné au <persName
+                            ref="people.xml#pan01">comte Panin</persName> de s'expliquer à ce sujet
+                        avec <persName ref="people.xml#sol01">le comte de Solms</persName>. Je
+                        conviens qu'un homme délié à la cour de <placeName ref="places.xml#fra01"
+                            >France</placeName> aurait pu découvrir à temps la trame ourdie contre
+                        la <placeName ref="places.xml#rus01">Russie</placeName> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName>, mais m'attendant à
+                        voir bientôt arriver le <rs ref="people.xml#gol02">ministre</rs> de Votre
+                        Majesté à <placeName ref="places.xml#par01">Paris</placeName>, je suis à
+                        présent sans souci sur ce point. Votre Majesté sera déjà informée sans
+                        doute, de l'effet des nouvelles intrigues de la <placeName
+                            ref="places.xml#fra01">France</placeName> à <placeName
+                            ref="places.xml#sto01">Stockholm</placeName>; en vraie et bonne parente,
+                        je ne puis m'empêcher de plaindre la famille royale qui se laisse ainsi
+                        jouer par cette cour intriguante au risque de tout. J'espère que Votre
+                        Majesté voudra bien faire cause commune avec moi, pour étouffer dans sa
+                        naissance ce nouvel embarras, et conjurer par là un orage qui pourrait
+                        décider le malheureux sort des pauvres Suédois. Quant<note type="editorial"
+                            >Corrected from source text, which reads "Quand".</note> à la <placeName
+                            ref="places.xml#pol01">Pologne</placeName> je confie à Votre Majesté,
+                        comme à mon allié le plus fidèle, que je crois laisser pour un temps ce
+                        royaume dans son assompissement politique et de veiller seulement que les
+                        brigandages qui continuent dans le pays ne se forment en une révolte
+                        générale. J'avoue que la neutralité de la cour de <placeName
+                            ref="places.xml#vie01">Vienne</placeName> me paraît étrange; les Turcs
+                        invoquent publiquement une nation voisine à détrôner son roi, et lui en
+                        offrent un autre, en renversant le principal fondement de la liberté des
+                        Polonais, dans les déclarations qu'ils ont faites, sans parler de l'accord
+                        secret conclu avec les rebelles; (mais qui n'en est pas moins connu pour
+                        cela), de rendre une quatrième partie de la <placeName
+                            ref="places.xml#pol01">Pologne</placeName> tributaire des Turcs. Tout
+                        ceci est très difficile à pouvoir être accordé avec cette indifférence
+                        d'intérêts de l'état, qui naturellement doit déterminer l'exacte neutralité,
+                        et s'il n'est pas ainsi, ne serait-ce pas plutôt la partialité qui encourage
+                        mes ennemis. Au moment de finir cette lettre, je viens de recevoir celle de
+                        Votre Majesté du 6 Janvier. J'y ai vu avec plaisir qu'Elle a bien voulu se
+                        rendre à mes raisons et justifier ma résolution de me mettre à l'abri d'une
+                        maladie horrible. Je suis très sensible aux ordres que Votre Majesté a
+                        donnés à son <rs ref="people.xml#zeg01">ministre</rs> à <placeName
+                            ref="places.xml#ist01">Constantinople</placeName>, je suis persuadée
+                        qu'ils me seront d'une utilité essentielle, vis-à-vis de ces gens là, par
+                        plus d'une raison j'ai cru que les dispositions pacifiques du ministère de
+                            <placeName ref="places.xml#ott01">la Porte</placeName> pourraient
+                        réconcilier mes affaires avec eux, si seulement l'espoir de la rapine du
+                        peuple, l'envie de l'agrandissement du <rs ref="people.xml#mus01"
+                            >Sultan</rs> fomentée par les promesses des rebelles de <placeName
+                            ref="places.xml#pol01"> Pologne</placeName> et le caractère violent du
+                        Chan de <placeName ref="places.xml#cri01"> Crimée</placeName> ne rendaient
+                        ces apparences douteuses. Aussi ne pourrais-je m'assurer du retour sincère
+                        des Turcs à leurs vrais intérêts, que lorsque cette puissance fera voir
+                        publiquement son indignation contre la cabale qui a su séduire et corrompre
+                        le conseil du <rs ref="people.xml#mus01">Sultan</rs>. Après cela il ne sera
+                        plus difficile de les convaincre de l'égalité d'intérêts avec tous les
+                        voisins dans tout ce qui a été fait en <placeName ref="places.xml#pol01">
+                            Pologne</placeName>. Mais je vois que ma lettre devient trop longue, et
+                        que j'abuse de la patience de Votre Majesté. </p>
+                    <closer>
+                        <signed>Je finis en la priant d'être assurée de la haute considération avec
+                            laquelle je suis, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            fidèle Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00744</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00744</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-29">29 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00744">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Царского Села.</placeName> <date
+                            when-custom="1783-08-31">Августа 31 дня 1783</date></dateline></opener>
+                    
+                    <p>Когда я получала от тебя не иные известия, как радостные о твоих успехах и,
+                        веселясь о том, на сих днях приказала отпустить на достройку петербургского
+                        твоего нового дома на Литейной улице сто тысяч рублей из кабинета, ожидала
+                        ли я, чтоб ты всекрайне опечалил меня известием о твоей опасной болезни,
+                        которое усмотрела из письма твоего из <placeName ref="places.xml#kre01"
+                            >Кременчуга.</placeName> Просила я тебя, да и прошу, ради самого Бога и
+                        естьли меня любишь, приложи более прежняго старание о сбережении
+                        драгоценного твоего для меня здоровья.</p>
+                    <p><persName ref="people.xml#ige01">Игельстрома</persName> оставь у себя, буде
+                        тебе надо, а <persName ref="people.xml#sha02">Хану</persName> вели сам
+                        ехать, куда разсудишь. Лишь будь здоров. Браниться с тобою и за то хочу, для
+                        чего в лихорадке и в горячке скачешь повсюду? Теперь крайне буду безпокойна,
+                        пока отпишешь, что каков.</p>
+                    <p><persName ref="people.xml#elp02">Сына</persName>
+                        <persName ref="people.xml#elp01">Эльфинстона</persName> я взяла в службу, а
+                        с ним никто не уладит.</p>
+                    <p>Дай Бог скорее услышать о твоем выздоровлении. Тогда станем паки веселиться о
+                        твоих успехах.</p>
+                    <closer><signed rend="inline" xml:lang="fr">Adieu, mon cher et bien aime
+                            Ami.</signed>
+                        </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

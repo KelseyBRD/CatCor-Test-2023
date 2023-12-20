@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03022</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03022</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Is die Irthümer der Nacht  a "work" Emma</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-15">15/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:39:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03022">
+  <body>
+
+   <opener><dateline> A St Pétersbourg, ce <date when-custom="1788-12-17">17 décembre 1778</date>.</dateline></opener>
+   <p><seg xml:lang="de"> Ja, das ist eine Arbeit, knapp, knapp ist ein Pancarten Antwort expedirt,
+     so kommt die andre angekrochen; ich sage angekrochen, den einige gehen krichend sehr langsam
+     wie die Schildkröten. Nun liegt klar und offenbar für meine Augen nicht minder als herzog
+     Albrechts zu Osterreich Renuncitation-Acte für des Kopisten Augen gelegen hat einstmal, als
+     eine Abschrift davon auf Befehl des Geheimrahts zu München gezogen würde, Ihr wohlerwürdiges,
+     wohlstaffiertes 28-tes Nummerchen.</seg> Vous ressemblez, avec vos craintes sur la perte des
+    lettres, à feu <persName ref="people.xml#rou01"> Jean-Jacques</persName> de douteuse mémoire,
+    qui croyait que toute l'<placeName ref="places.xml#eur01"> Europe</placeName> s’occupait à imaginer des persécutions contre lui,
+    tandis que personne n’y pensait. N’ayez pas peur: mademoiselle <persName ref="people.xml#ber04">
+     Bertin</persName> ayant introduit les faussée boucles et l’échaffaudage du joli, les maîtresses
+    de poste d’<placeName ref="places.xml#ger01"> Allemagne</placeName> n’ont plus tant besoin de papillotes qu’autrefois; que
+    voudriez-vous qu’elles fissent de nos lettres, qu’elles ne comprennent pas? Comme nous ne
+    traitons point la politique, les maris n’en voudront pas non plus. <seg xml:lang="de"> Unsere
+     Briefe sind nicht spitznasig genug für dergleichen politische Nachtwächter</seg>. Vous pourrez
+    intituler cette première page, pour votre commodité, la page aux comparaisons, car en commençant
+    par celle de la tortue et finissant par le <seg xml:lang="de"> Nachtwächter</seg>, il y en a six
+    ou sept dans vingt lignes. <seg xml:lang="de"> Das war nun wieder eine wagnerische Prüfung, und
+     so regieren sich die Reiche</seg>. N’épanouissez pas trop votre rate en cet endroit, afin de
+    ménager vos forces.</p>
+   <p>Présentement allons à <placeName ref="places.xml#rom03"> Rome</placeName>, où le cher divin <persName ref="people.xml#rei03">
+     Reiffenstein</persName>, sur la pancarte du céleste baron, a mis en l’air toutes les têtes et a
+    commencé déjà les échafaudages pour la copie des loges. Moi, voyant cela et aimant à seconder
+    les bonnes et nobles entreprises, je n’ai eu rien de plus pressé que d’ordonner au très ample
+     <persName ref="people.xml#fre03"> baron Friedrichs</persName> d’envoyer à <persName
+     ref="people.xml#san03"> Gaspard Santini,</persName> banquier à <placeName ref="places.xml#rom03"> Rome</placeName>, une lettre de
+    crédit pour qu’il tire sur lui, Friedrichs, à mesure que le divin <persName
+     ref="people.xml#rei03"> Reiffenstein</persName> prendra chez lui, <persName
+     ref="people.xml#san03"> Gaspard Santini</persName>, jusqu’à l’occurence de 23,126 scudi romani.
+    Outre cela, je dispense le cher divin Reiffenstein de toute construction de châteaux
+    en <placeName ref="places.xml#spa01"> Espagne</placeName> ultérieurs jusqu’à nouvel ordre, et le conjure d’éviter tout ce qui
+    pourrait nuire au rétablissement de la santé de <persName ref="people.xml#men01">
+     Mengs</persName> malade, ou bien ralentir le travail de mes deux tableaux de <persName
+     ref="people.xml#men01"> Mengs</persName> en santé. Je ne sais pas trop encore où ses logea
+    seront placées; le modèle que j’en attends me décidera. Ma, sauf tout avis ultérieur, nous avons
+    dans l’idée de joindre les bâtiments de <placeName ref="places.xml#her01">
+    hermitage</placeName>, <hi rend="italic">par les loges placées le long du canal vis-à-vis du
+     corpus, à la maison Schépélef</hi>, que nous élèverons, comme de raison, et tout cela fera
+    bâtiments inutiles pour tons, excepté pour les artistes. <seg xml:lang="de"> Was meinen Sie
+     davon</seg> ? Si je change d’avis, nous les placerons, comme de raison, encore autre part, ma
+     <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> n’en tâtera pas. <seg xml:lang="de"
+     > Aber warum raisonieren Sie so viel von meinem Credite, und warum wollen Sie mir zur hexe
+     machen, absonderlich jetzt da mit zwei catholischen höfen zu thun habe: man muß sie nicht scheu
+     machen</seg>.</p>
+   <p>Envoyez-moi donc аu plus tôt <title ref="works.xml#journa01">lа comédie
+    de <persName ref="people.xml#sed01"> Sedaine</persName></title>, car je sois si ennuyée des comédies françaises que J’ai déjà été
+    trois fois à la comédie allemande et deux fois à l’opéra comique italien. J’ai vu <seg
+     xml:lang="de"> die Irthümer der Nacht und <title ref="works.xml#diesch01">die
+     schöne Wienerin</title></seg>, et je ne sais quelle pièce j’ai dit: rire vaut mieux que dormir. Or, le
+    dormir me vient à la plupart to pièces françaises, parce que cela est froid comme glace et
+    maniéré à périr. Il n’y a point de nerf ni de sel à tout cela, je ne sais, mais il semble que le
+    nerf en compagnie du goût vif pour le beau et le grand quitte de plus en plus ce monde; c’est le
+     <seg xml:lang="de"> raisoniren</seg> qui tient lieu de tout. O <persName ref="people.xml#vol01"> Voltaire</persName>! c’est
+    vous qui saviez rallumer les étincelles qui en restaient dans la cendre. Viendra le siècle
+    minutieux des de <persName ref="people.xml#har02"> Laharpe</persName> et compagnie jusqu’au
+    temps eû s’élèvera l’étoile du <placeName ref="places.xml#lev01"> Levant</placeName>; oui, oui, c’est de ce côté-là que doit
+    revenir la lumière, cm* il y a plus d’esprit et de nerf là dans la cendre que nulle part. Oh!
+    pour le coup, si ce n’est pas là du trépied, je ne sais où il y en a eu jamais, et tout cela à
+    propos de la comédie de <persName ref="people.xml#sed01"> Sedaine</persName>.</p>
+   <p>Ecoutez, vous m’avez dit un jour que vous souhaiteriez d’avoir un bon traité sur l’analogie
+    des idées; on dit qu’il y en a un aussi profond qu’excellent en anglais. Je puis bien vous faire
+    parvenir en cire le profil de Pyrrhus, roi d’Epire, mais pour la traduction des <seg xml:lang="de">sechzehnjährige Prüfung</seg>, cela m’est impossible
+    pour le moment, <seg xml:lang="de"> denn Salomon sagt: alles hat seine Zeit</seg>. Cette lettre
+    pourra aussi être rangée parmi celles qui, selon l’abbé <persName ref="people.xml#gal05">
+     Galiani</persName>, sont admirables, parce qu’on n’y entend rien. C’est de l’abbé qu’on peut
+    dire que sa patrie le méconnut.</p>
+   <p>Il est venu s’établir ici une troupe de mauvais <rs ref="orgs.xml#oper01"> bouffons
+     italiens</rs> qui ont donné la <title ref="works.xml#frasca01"> Frascatana</title>, et on
+    l’a courue tout comme à <placeName ref="places.xml#nap01"> Naples</placeName> et à <placeName ref="places.xml#par01">
+    Paris</placeName>. J’ai négocié avec M. <persName ref="people.xml#ela01"> Yélagoine</persName> pour
+     <persName ref="people.xml#pai01"> Paîsiello</persName> selon vos désirs, et il n'est point
+    éloigné d’augmenter son entretien; outre cela vous savez que <persName ref="people.xml#pai01"> Paîsiello</persName> a un avantage sur tous ses confrères, maîtres de chapelle; c’est
+    l'appartement pour quatre mois de l’année à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, et cela ne laisse pas
+    que d’avoir ses agréments. Il faut avouer que vous autres Parisiens vous êtes discrets comme un
+    coup de canon: ne voilà-t-il pas que j’ai lu hier dans les gazettes la lettre et jusqu’à
+    l’adresse de la lettre que j’ai écrite à <persName ref="people.xml#den02"> madame
+     Denis</persName> répondez moi, pourquoi avez-vous permis qu’on me fît ce tort? <persName ref="people.xml#vol01">
+    Voltaire</persName> n’imprimait pas mes lettres: il savait bien qu’elles n’en valaient pas la peine, et que
+    je craignais l’impression comme le feu; je vous prie, empêchez que <persName
+     ref="people.xml#den02"> Mme Denis</persName> ne fasse imprimer mes lettres à son oncle; je vous
+    en prie très serieusement.</p>
+   <p>Dites-moi encore, avez-vous lu les <title ref="works.xml#memoir05">mémoires sur la
+     <placeName ref="places.xml#chi02"> Chine</placeName></title>, 3 vol. in-quarte, publiés l’année passée ou avant-passée?
+    Connaissez-vous Ouen Ouang? C’était un grand petit prince, tributaire de la <placeName
+     ref="places.xml#chi02"> Chine</placeName>, dont <persName ref="people.xml#con02">
+     Confutzée</persName> était fort engoué et dont il dit à tout moment: O Ouen-Ouang! vos sublimes
+    vertus…..Or, de tout ce premier tome in-quarto, qui renferme des choses admirables, il ne s’est
+    fourré dans ma mémoire que l’exclamation de <persName ref="people.xml#con02">
+     Confutzée</persName>, et en lisant dans les gazettes ma lettre imprimée, je vous l’ai appliquée
+    et j’ai dit: O Ouen-Ouang! malgré votre attachement pour moi, vous avez abandonné ma lettre à
+    l’impression; que ne disiez-vous à <persName ref="people.xml#den02"> Mad. Denis</persName> que
+     <rs ref="people.xml#vol01"> son oncle</rs> ne faisait jamais pareille chose? Si l’on en croira
+    le premier paragraphe de la divine lettre du 17 d’octobre du divin <persName
+     ref="people.xml#rei03"> Reiffenstein</persName>, on s’imaginera qu’il n’y a qu’à commander, et
+    que le goût et les arts et les artistes naîtront comme le persil qu’on aura semé; ma il a beau
+    dire, on a beau commander, cela ne vient pas comme cela; mus pour que cela vienne, il faut
+    rouloir et vivre longtemps, et alors vous aurez, avec temps et patience, tout ce que vous
+    voudrez.</p>
+   <p>Mais, céleste baron, qu’est-ce que c’est que ces airs que vous vous donnez? Je vois par
+    l’énorme pancarte du divin <persName ref="people.xml#rei03"> Reiffenstein</persName> que vous
+    distribuez des lambeaux de mes lettres à tout <placeName ref="places.xml#rom03"> Rome</placeName>. Je vois le moment où le santo
+    padre et tout le sacré collège s’en empareront pour les jeter au feu, et pour le coup, j’en
+    serais charmée, pourvu qu’on n’en tirât pas copie pour les vendre sous le manteau. Savez-vous
+    bien qu’avec ces belles menées voua risquez de les livrer aux Pasquin et Morforio or, je vous ai
+    dit, je vous le répète, et vous-même en êtes convenu, que mes lettres ne sont bonnes que pour
+    vous. Savez-vous bien, baron éternel, que si je me fache, je flanquerai ces <title ref="works.xml#logera01"> loges de Raphaël</title> depuis la fenêtre da milieu de la
+    galerie de l’ <placeName ref="places.xml#her01"> hermitage</placeName> jusqu’au balcon et
+    par-dessus ce balcon jusqu’à la chambre bleue, dont la porte donne dans la galerie où se tient
+    la cour les dimanches et fêtes et qui sera de marbre dans deux ans. C’est le divin <persName
+     ref="people.xml#rei03"> Reiffenstein</persName> et consorts qui ont fait éclore cette belle
+    idée, et je la crois asses propre à satisfaire tontes leurs vues et intentions; apparemment
+    qu’ils s’imaginent que je vivrai cent ans, jusqu’après la copie des loges, qui durera plasmas
+    aimées, ils projettent de copier encore tontes les salles du <placeName ref="places.xml#vat01">
+     Vatican</placeName>, la galerie Farnese et Dieu sait quoi encore. Ô Ouen-Ouang! qu’il est aisé
+    de mettre en l'air les têtes qui s’occupent du grand et du beau et celles qui voient à tonte
+    heure ces choses-là. Je vous prie, ne méprisez point Ouen-Ouang: c'est aussi un seigneur qu’on
+    peut mettre à bien des sauces. Je suis seulement fâchée que ce soient mes amis les <orgName
+     ref="orgs.xml#jesu01"> jésuites</orgName> qui soient chargés de la besogne de cette littérature
+    chinoise; ils avaleront tout ce qui ne sera pas conforme à la Genèse, et la besogne sera à
+    refaire; outre cela, tous ces mémoires passent par les mains de la <placeName
+     ref="places.xml#sor01"> Sorbonne</placeName>, qui ne laisse pas que d’avoir sa gueule.</p>
+   <p>Tout le bien que le divin <persName ref="people.xml#rei03"> Reiffenstein</persName> dit
+    de <persName ref="people.xml#cle01"> Clérisseau</persName> m’oblige de vous adresser un compliment de remerciment dans toutes
+    les formes sur la visite que vous lui avez faite, et je vous avoue que je serais très curieuse
+    de voir de lui quelque autre chose que le plan de la maison d’un empereur romain avec tous ses
+    dégagements, et que si ses portefeuilles étaient à vendre ou bien gravés, volontiers j’en ferais
+    l’acquisition. J’espère de voir, au retour de mes frégates, les ouvrages de <persName
+     ref="people.xml#hac01"> Hackert</persName>. Enfin, enfin me voilà à bout du No 28 et de ses
+    accompagnements; tout cela ressemble fort à <seg xml:lang="en"> one explosion</seg> de mont
+    Vésuve, et ma réponse aussi en tient; elle devait commencer par où elle va finir, c’est-à-dise
+    par vous remercier et vous témoigner ma reconnaissance pour toutes les peines que vous vous
+    donnez à satisfaire jusqu’à la moindre de mes fantaisies, et pour tout l’attachement que vous ne
+    discontinuez de me marquer. Faites un peu jaser <persName ref="people.xml#cle01"> Clérisseau</persName>; qu’est-ce qui plaisait
+    le plus du portefeuille de <persName ref="people.xml#cle01"> Clérisseau</persName> à <persName ref="people.xml#jos01"> Joseph
+     second</persName>? Je serais curieuse de savoir cela.</p>
+  </body>
+ </text>
+</TEI>

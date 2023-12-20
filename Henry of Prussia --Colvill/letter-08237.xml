@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08237</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08237</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#moscow"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:23:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08237">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1775-01-07">7 janvier 1775</date>.</dateline></opener>
+   <p>Je ne saurais passer ce jour qui a vu naître V. A. R. sans Lui renouveler les voeux que tous
+    ceux qui ont l'honneur de La connaître font pour Sa santé, Sa propérité et Son bonheur. Elle
+    voudra bien distinguer les miens, ils partent des sentiments de l'amitié la plus vraie et de
+    l'estime la mieux fondée. J'invoque jusqu'à ma patronne, dont V. A. R. veut bien faire mention
+    tous les ans, pour Sa précieuse conservation, et je prie V. A. R. d'être persuadée que
+    l'éloignement ni le temps ne peuvent apporter aucun changement à ma façon de penser à Son
+    égard.</p>
+   <p>Je pars pour <name ref="events.xml#mosco02"><placeName ref="places.xml#mos01"
+     >Moscou</placeName></name> dans peu de jours, mon séjour y sera d'une année qui me paraîtra longue. La
+    perspective de mon retour ne cessera de m'occuper; il me rapprochera du moment où je pourrai
+    renouveler de bouche à V. A. R. les expressions de tous les sentiments qu’inspirent les qualités
+    supérieures dont il a plu au ciel de La douer. C'est en attendant ce temps désiré que je ne
+    cesserai d'être…</p>
+  </body>
+ </text>
+</TEI>

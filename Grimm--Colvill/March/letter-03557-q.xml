@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03557</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03557</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I could not identify Gavaudan</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-17">17/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:51:04Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03557">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1779-03-28">28 mars 1779</date>.</dateline></opener>
+   <p>J’ai un prodigieux nombre de choses à vous dire. <seg xml:lang="it"> Primo</seg>, je commence
+    par vous gronder de tous ces <seg xml:lang="de"> Nachtrag</seg> : ils m’ont tant ennuyée après
+    la mort de <persName ref="people.xml#max01"> Maximilien Joseph</persName>, électeur de
+     <placeName ref="places.xml#bav01"> Bavière</placeName>, que je ne voudrais plus en voir de ma
+    vie. Vous avez beau dire, c’est un mauvais régal que celui de donner aux gens ce qu’ils n’aiment
+    pas, et cela encore par le principe: parce qu’ils ne l’aiment pas. Voilà par où commence ma
+    réponse au post-scriptum du 34 No, lequel accompagnait l' <title ref="works.xml#epreuv01">Epreuve inutile</title> de <persName ref="people.xml#sed01"> Sedaine</persName>, dont vous et lui voulez que je
+    vous dise tout le bien et tout le mal que j’en penserai. Allons, soit: ce fut <persName
+     ref="people.xml#bet01"> Betski</persName> qui m’en fit la lecture; il ne savait ni d’où elle
+    venait; ni de qui elle était; il en lut très indifféremment le premier acte, après quoi il
+    trouva que <persName ref="people.xml#ray01"> Raimond</persName> avait peu de ressources dans
+    l’esprit, qu’il aurait pu dire qu’il avait reçu la pièce par la poste; je le laissai dire;
+    maître Gavaudan lui plut, mais, dit-il, c’est faire la leçon aux princes: qui est-ce qui a à
+    faire de cela! Je me taisais; il continua et ne lut que trois actes ce jour-là; il grommelait
+    entre ses dents: cela est choquant pour bien des gens. Je fis semblant de ne pas prendre garde à
+    ce qu’il disait; il prenait un intérêt vif à ce qu’il lisait: pas un mot ne lui échappait, chose
+    qui ne lui arrive pas quand il fait une lecture qui l’ennuie. Le lendemain il n’eut rien de plus
+    pressé que de recommencer ou plutôt de finir sa lecture; par-ci, par-là il se fâchait en lisant,
+    et lecture finie, il dit que cette pièce était irreprésentable, parce qu’elle choquerait trop de
+    monde. Je lui dis qu’elle était écrite avec force, que la pièce était excellente; il me répondit
+    que la comédie devait amuser et divertir les spectateurs, que celle-ci représentée au milieu
+    d’une cour peinerait les assistants et que le maître y faisait un rôle peu imposant. Je lui
+    répondis: j’aurais envie de la faire représenter, ne serait-ce que pour montrer que j’ai plus de
+    crédit chez moi que Raymond. Il me répartit:</p>
+   <q> «Soit, mais vous plairez-vous dans un cercle où tout le monde sera
+    blessé?»</q>
+   <p> Ici je fus obligée de me taire, parce que la comtesse de <placeName ref="places.xml#bol01">
+     Boulogne</placeName> ne m’avait rien promis. C’est une pièce qui fait rêver. <seg xml:lang="de"
+     > Die säsiert : Prüfung gen sind hier eben so wenig wie anderswo ausgeblieben</seg>. Je la
+    crois très comique, mais elle ne fera guère rire, je crois. Tout ce que dit Gavaudan,
+    et surtout dans la 6me scène du 5me acte, est digne de <persName ref="people.xml#mon03"> Montesquieu</persName>, et toute
+    la pièce est écrite avec force: il parait que la tête de l’auteur est une machine nerveuse, ce
+    que sa comédie démontre. Je lui dois bien des remercîments de la complaisance qu’il ma marquée
+    en s’occupant, selon mes désirs, à composer une comédie pour moi; instruisez-moi avec quoi je
+    pourrais lui faire plaisir à mon tour.</p>
+   <p>Il n’y a pas un mot de vrai au voyage de <persName ref="people.xml#har02"> Laharpe</persName>:
+    il a fait insérer cela lui-même dans les gazettes de <placeName ref="places.xml#ham01">
+     Hambourg</placeName>; bien loin de vouloir le faire venir ici, on en est si las qu’on regrette
+    et l’argent qu’on dépense pour ses feuilles dont on est très ennuyé, et la pension qu’on lui a
+    accordée il y a quelques années. Pour ce qui regarde l’éducation du porteur de couronne en
+    herbe, je ne m’en tiendrai à point d’autre plan qu’à celai de le faire élever autant que
+    possible <seg xml:lang="de"> schlecht und recht</seg>; à présent on soigne son corps, en ne
+    gênant point ce corps ni par des ligatures, ni par le chaud, ni par le froid, ni par rien de
+    guindé; il fait tout ce qu’il veut, mais on lui ôte sa poupée s’il la maltraite. En revanche,
+    comme il est toujours gai, il fait aussi tout ce qu’on veut; il se porte très bien et est fort
+    et robuste et presque nu; il commence à marcher et à parler. Après sept ans nous irons plus
+    loin; mais avant ce temps j’aurai grand soin d’empêcher qu’on n’en fasse une jolie poupée, car
+    je ne les aime pas; dans huit ou quinze jours je voue parlerai de sou frère ou de sa soeur. </p>
+   <closer><signed rend="inline">Adieu pour aujourd’hui. Je vous dirai le reste des choses que j’avais à
+    vous dire, une autre fois.</signed></closer>
+  </body>
+ </text>
+</TEI>

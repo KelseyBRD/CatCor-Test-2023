@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01130</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01130</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#Paul"/>
+                </keywords>
+                <keywords n="internationalrelations">
+                    <term target="kw.xml#military"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-04"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-08"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01130">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p><persName ref="people.xml#pau01">Сыну</persName> моему прошу кланяться. Из
+                сегоднишняго Вашего письма усмотрела, что он здоров. Церемониальную повестку
+                апробую. Брат Ваш очень весел, и деньги мои выигрывает в ломбер. Желаю Вам
+                здравствовать.</p>
+            <p>Вспомните, что из последних <placeName ref="places.xml#kiz01">Кизлярских</placeName>
+                репортов мы сведали, что тамошние Казаки сказывали, будто <placeName
+                    ref="places.xml#kub01">Кубанской</placeName> Сераскер приезжал с той партией,
+                которая их перепугала, а из последних <placeName ref="places.xml#ist01"
+                    >Цареградских</placeName> писем видно, что действительно <placeName
+                    ref="places.xml#ott01">Порта</placeName> послала туда осмотреть мнимых наших
+                крепостей; <seg xml:lang="fr">ainsi tous nos Cosaques n'avancent ils pas vis-à-vis
+                    d'un fantôme.</seg></p>
+            <closer>
+                <signed><seg xml:lang="fr"><persName ref="people.xml#cat01"
+                        >Catherine</persName></seg></signed><lb/>
+                <dateline><date when-custom="1765-09-06">6 числа Сентября,<lb/>
+                    1765.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

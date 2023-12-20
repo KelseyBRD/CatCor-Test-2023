@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04783</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04783</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>M. B - assumed as Mr Betzkoi . Unsure which Marcillac (one of comtes de La Rochefoucauld?)
+     this refers to exactly. Kelsey: Identified and corrected in spreadsheet.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-24">24/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:07:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-26">26/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected and query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04783">
+  <body>
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,</salute></opener>
+   <p rend="inline"> j’ai lu l’incluse de M-r le comte de <persName ref="people.xml#mar07"> Marcillac</persName>:
+    je la juge adressée à M-r <persName ref="people.xml#did01">Diderot</persName>. Les Français sont
+    de plaisantes gens; les uns veulent absolument me nuire et c’est un plus grand nombre; les
+    autres veulent me servir, et de ceux-là il n’y en a pas beaucoup. Cet honnête protestant ne
+    sachant point le Russe, ne saurait être employé dans les affaires pour le militaire et paraît
+    âgé; je ne connais point ses ouvrages ni ne puis décider de son mérite; s’il en avait beaucoup,
+    l’acquisition en serait je crois faisable, mais s’il n’en avait pas ou qu’il était médiocre, il
+    pourrait être chez lui tout aussi bien qu’ici et mieux encore, vu qu’il se dit seigneur suzerain
+    de biens fonds, tandis qu’en <placeName ref="places.xml#rus01">Russie</placeName> il n’aurait
+    pas un pouce de terre.</p>
+   <p> Je n’ai point le <rs ref="works.xml#antido01"> livre</rs> que vous me demandez: je vous l’ai
+    dit et je n’en ai point trouvé à acheter; j’ai ordonné d’en faire venir de <placeName
+     ref="places.xml#hol02">Hollande</placeName>.</p>
+   <p>M-r <rs ref="people.xml#bet01"> B</rs>. a ordre de ma part et ordre très exprès de ne point
+    inquiéter avec ses nouveaux bâtiments votre logement ni votre atelier, ni rien de ce qui est de
+    la dépendance de votre ouvrage; ainsi vous aurez la bonté de m’expliquer s’il y a quelque
+    survenance à mes ordres et qu’est ce qui vous inquiète. Alors j’y remédierai tout de suite. J’ai
+    augmenté (et signé hier l’ordre) de 800 roubles les appointements de <persName
+     ref="people.xml#vil01"> de Villiers</persName> qui n’a rien à démêler avec M-r <rs
+     ref="people.xml#bet01"> B</rs>. Le C-te <persName ref="people.xml#orl01"> Orloff</persName>
+    saura soutenir son <rs ref="people.xml#san05">horloger</rs> quoiqu’il ait été refusé à l’<rs
+     ref="orgs.xml#impe03"> Académie</rs> avec humeur; l’on dit que quand on devient vieux l’on en
+    prend; le ciel veuille nous en préserver et vous et moi sur nos vieux jours.</p>
+  </body>
+ </text>
+</TEI>

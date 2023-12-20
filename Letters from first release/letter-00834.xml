@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00834</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00834</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-12">12 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00834">
+                <body>
+                    <opener><salute rend="inline">Друг мой <persName ref="people.xml#pot01">Князь
+                                Григорий Александрович.</persName></salute></opener>
+                    <p> Письмы твои от 25 декабря и от 3 января до моих рук доставлены. Из первого с
+                        удовольствием усматриваю, что ты с оскорблением принял мысли, будто бы в
+                        твоих мыслях колебленность место иметь могла, чего и я не полагала.
+                            <placeName ref="places.#pru01xml">Прусский двор</placeName> менажируем,
+                        но на его вражеское поведение при разрывае в <placeName
+                            ref="places.xml#ist01">Цареграде</placeName> смотря, немного доброго от
+                        него ожидать нам. При сем посылаю тебе примечания о польском плане. Что ты
+                        был болен, возвратясь из <placeName ref="places.xml#khe01"
+                            >Херсона,</placeName> о том весьма жалею; и я несколько похворала, но
+                        теперь оправилась. Здесь в один день и оттепель, и от двадцати до двадцати
+                        пяти градусов мороза.</p>
+                    <p>Что твои заботы велики, о том нимало не сумневаюсь, но тебя, мой свет, станет
+                        на все большие и малые заботы. Я дух и душевные силы моего ученика знаю и
+                        ведаю, что его на все достанет. Однако будь уверен, что я тебя весьма
+                        благодарю за твои многочисленные труды и попечения. Я знаю, что они истекают
+                        из горячей твоей любви и усердия ко мне и к общему делу.</p>
+                    <p>Пожалуй, отпиши ко мне, что у тебя пропало судов в прошедшую осень, чтоб я
+                        могла различить всеместное вранье от истины, и в каком состоянии теперь
+                        эскадра <placeName ref="places.xml#sev01">Севастопольская</placeName> и
+                            <placeName ref="places.xml#dni03">Днепровская?</placeName> Дай Бог тебе
+                        здоровья в таких трудных забот[ах]. Будь уверен, что хотя заочно, но
+                        мысленно всегда с тобою и вхожу во все твои безпокойства по чистосердечной
+                        моей к тебе дружбе. И то весьма понимаю, что будущие успехи много зависят от
+                        нынешних приуготовлений и попечений. Помоги тебе Всевышний во всем и
+                        везде.</p>
+                    <p>Естьли тебе удастся переманить запорожцев, то зделаешь еще дело доброе,
+                        естьли их поселишь в <placeName ref="places.xmltam01">Тамане,</placeName>
+                        <seg xml:lang="fr">je crois que c'est vraiment leur place.</seg>
+                        Пугают меня больные и болезни. Я во флот <persName ref="people.xml#mik02"
+                            >Михельсона</persName> не пошлю, а думаю уговаривать <persName
+                            ref="people.xml#zab01">Заборовского.</persName> Он сюда будет. <persName
+                            ref="people.xml#mik02">Михельсон</persName> в подагре, да он же и здесь
+                        нужен, буде шведы зашалили.</p>
+                    <p>Что предприятие <persName ref="people.xml#jos01">цесарское</persName>
+                        неудачно было на <placeName ref="places.xml#bel01">Белград,</placeName> то
+                        хотя для них не очень хорошо, но для нас добро, понеже заведет дело далее, и
+                        сие сумнение решилось. Авось-либо решатся, как ты предлагал. О <placeName
+                            ref="places.xml#pol01">Польше</placeName> и казаках приказания
+                        заготовлены будут. О покупке же деревень по <placeName
+                            ref="places.xml#bug01">Бугу,</placeName> спора нет, понеже сам ты сыскал
+                        денег.</p>
+                    <p>
+                        <persName ref="people.xml#kin01">Кингсберг[ен],</persName> чаю уже
+                        ангажирован. Давно курьер в <placeName ref="places.xml#hol02"
+                            >Голландию</placeName> поехал с сим приказанием, а что будет, то к Вам
+                        отправлю. Что пишешь о окончании укрепления <placeName
+                            ref="places.xml#kin01">Кинбурна, </placeName>о оборонительном состоянии
+                            <placeName ref="places.xml#khe01">Херсона</placeName> и о заготовлении
+                        осады <placeName ref="places.xml#och01">Очаковской,</placeName> - все сие
+                        служит к моему успокоению и удовольствию. Предприятия татарские авось-либо
+                        противу прежних нынешний раз послабее будут, а естьли где и чего напакостят,
+                        то и сие вероятно, что будет немногозначущее и им дорого станет. Двух
+                        обещанных приложений я не нашла в моем пакете. Разве находятся в других, а
+                        имянно - какие ты отметки зделал в требовании <persName
+                            ref="people.xml#rum01">Графа Петра Александровича,</persName> а другое о
+                            <placeName ref="places.xml#bel01">Белграде;</placeName> разве под сим ты
+                        разумел французский перевод?</p>
+                    <p><persName ref="people.xml#zor01">Зорич</persName> под чужим имянем уехал из
+                            <placeName ref="places.xml#hol01">Империи,</placeName> был в <placeName
+                            ref="places.xml#vie01">Вене</placeName> и оттудова уехал же, сказав, что
+                        вскоре возвратится из <placeName ref="places.xml#hun01">Венгрии,</placeName>
+                        но не бывал. Прикажи спросить у <persName ref="people.xml#ner01"
+                            >Неранчича,</persName> куда брат его поехал?</p>
+                    <closer><signed>Прощай, мой друг сердечный, будь здоров. Я молю Бога, чтоб
+                            укрепил твои силы душевные и телесные.</signed></closer>
+                        <postscript><p><persName ref="people.xml#pau01">Вел[икий] Кн[язь]</persName> сбирается
+                            теперь ехать в армию, а как надежда есть, что она беременна, то
+                            авось-либо сие его остановит. Только за верно ничего еще сказать
+                            нельзя.</p>
+                        </postscript>
+                       <closer><signed xml:lang="fr">Adiue, mon Ami voila un embarras de plus pour
+                                Vous que je serais enchantee de Vous epargner.</signed> <dateline rend="below"><date when-custom="1788-01-11">Января 11 ч., 1788
+                                г.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

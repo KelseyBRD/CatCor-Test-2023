@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00712</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00712</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-07">07 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00712">
+                <body>
+                    
+                    <p>Сожалею, батинька, о неприятных спутниках, худой погоде, дурных дорог[ах] и
+                        нехороших лошадях, кои тебя до <placeName ref="places.xml#psk01"
+                            >Пскова</placeName> проводили. Что же <placeName ref="places.xml#gdo01"
+                            >Гдов</placeName> поукрасился, то добрые вести, но лучшия имею ожидать
+                        от тебя. Вчерашний день, то есть 11 числа, я приехала в город. В сенях
+                        встретила <persName ref="people.xml#som01">Соммерса</persName> и спросила у
+                        него, какова графиня <persName ref="people.xml#ska01"
+                            >Скавронская.</persName> Он мне сказал то, что после и <persName
+                            ref="people.xml#rog01">Рожерсон</persName> мне подтвердил, что ей есть
+                        гораздо луче и что сегодня ее перевезут в город.</p>
+                    <p>При сем прилагаю письмо к тебе <persName ref="people.xml#lan02">Ал[ександра]
+                            Дми[триевича] Лан[ского],</persName> который чуть что не плачет, что к
+                        нему нет ни строки от тебя. Прощай, любезный друг, будь здоров и возвратись
+                        к нам скорее веселехонько.</p>
+                    <p> У агличан пропал, сказывают, стопушечный корабль на рейде в <placeName
+                            ref="places.xml#spi01">Спитеге</placeName> от неосторожности, и на оном
+                        утонул искусный адмирал <persName ref="people.xml#kem01"
+                            >Кемпенфельд</persName> и из 900 человек лишь триста спаслось. Хотели
+                        что-то чинить и перевезли пушки на одну сторону, а в самое то время ветр
+                        опрокинул и потопил того корабля.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03017</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03017</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-14">14/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:38:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03017">
+  <body>
+
+   <opener><dateline>Ce <date when-custom="1778-10-30">30 d’octobre 1778</date>.</dateline></opener>
+   <p>C’est l’arrivée de votre No 24 qui vous attire cette troisième ondée depuis un mois que vous
+    avez la bonté d’appeler rosée. Je vous ai déjà mandé l’arrivée des bustes de Houdon, et comme
+    quoi je ne cessais de regarder celai sans perruque, tandis que celai en perruque ne
+    m’intéressait nullement; pour la réprimande d’avoir payé, celle-là elle est nouvelle, je ne m’y
+    attendais pas. Pour des caisses et ballots de monsieur <persName ref="people.xml#rei03">
+     Reiffenstein</persName>, nous n’en savons rien, quoique depuis trois jours la <placeName
+     ref="places.xml#nev01"> Néva</placeName> charrie des glaçons et qu’ergo il faudra y renoncer
+    cette année. L’ointe du Seigneur ne saurait remplacer <persName ref="people.xml#vol01"> Voltaire</persName>, quoi que vous
+    disiez, parce que l’ointe n’a ni le génie, ni les connaissances, ni la facilité de ce grand
+    homme. Mais quelle folie, s’il vous plait! pourquoi mandez-vous à <persName
+     ref="people.xml#rei03"> Reiffenstein</persName> ce que j’ai fait de sa lettre? frère Jacquier
+    embrassé par mon ordre ne saura qu’imaginer, et tous les monsignori de <placeName ref="places.xml#rom03"> Rome</placeName> seront
+    scandalisés du peu de politique qui règne dans mes démarches.</p>
+   <p>Il y a longtemps que je vous ai dit que vous possédez au suprême degré le talent des
+    développements. Quand vous m’avez parlé la première fois des explosions volcaniques, moi qui
+    suis un esprit tardif et auquel il faut beaucoup de bout avant que je comprenne avec conviction
+    une chose, je me suis senti une très grande répugnance pour la ressemblance, et qui ne penserait
+    comme moi et qui ne serait scandalisé d’une <seg xml:lang="de"> Vergleichung mit einem
+     feuerspeienden Berge</seg>? Tenez, demandez à tout le monde, personne n’en voudra et puis <seg
+     xml:lang="de"> nach mancherlei Prüfungen</seg> j’ai trouvé qu’il y avait par-ci par-là quelque
+    petite trace de lava.</p>
+   <p>Pour le titre de Frère et de Cousin, il se donne aux majestés selon leur affinité. <seg
+     xml:lang="de"> Was aber anbelangt die ehrwürdige liebe Frau Betschwesterin, so kann ich von ihr
+     anders nichts sagen als daß sie große Anfechtungen der hab und herrschsucht liedt. Das heulen
+     ist ein Beweis der Reue, aber da sie immer behält und gantz vergist das nicht mehr thun die
+     beste Büße ist, so muss doch wohl was Verstockts in ihrer Brust ruhen; ich befürchte das es das
+     alten Adams Erbsünde sein muße die so eine verruchte</seg> Comédie <seg xml:lang="de"> spiele,
+     aber was fordert man mehr von einer Frau ? Wenn sie ihrem Mann getreu ist, so hat sie ja alle
+     Tugend und im Übrigen nichts zu schaffen. Von Herr Janus kann mann wohl, ohne zu fehlen,
+     mutmaßen das wenn er nicht zum großen Mann wird, so wird er sehr böße werden, und seine
+     Bedürfnisse an Leib, Seele und Verstand auf Anderen rächnen. Was soll das gewißensgericht
+     ausrichten da wo in Worten und Geschäften beständige Bockssprünge hervorkommen?</seg> Tenez, ce
+    fricassé est un paroli au vôtre. Ne me parlez plus de comédie; je n’ai aucun talent pour le
+    théâtre et la musique. Quoique je vous eusse dit que je ne voulais point des livres légués à
+     <persName ref="people.xml#rie02"> M. Rieu</persName>, je me rétracte; faites en le marché, s’il
+    vous plait. Vous aurez dans peu tout ce qu’il faut pour <persName ref="people.xml#den02"> Mme
+     Denis</persName> et Panckoucke. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

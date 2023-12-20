@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00034</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00034</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#holstein"/>
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-18">18 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr">
+                <body>
+                    <opener><salute rend="inline">Monsieur mon frère et
+                        cousin.</salute></opener>
+                    <p> En recevant la lettre de Votre Majesté, dans laquelle il lui a plu de me
+                        faire part que tout ce qui concernait l’échange du <placeName
+                            ref="places.xml#hol03">Holstein</placeName> venait d'être définitivement
+                        terminé, la joie dont elle se montre pénétrée de la conclusion de ce grand
+                        ouvrage m'a fait ressentir à moi même la satisfaction la plus pure. Conduite
+                        à cette négociation par amour de l'humanité et par la considération de
+                        l'intérêt essentiel de nos monarchies, je l'ai été aussi par le motif de
+                        l'amitié personnelle et de l'estime la plus décidée. L'état des sentiments
+                        de Votre Majesté ne me laisse rien à désirer sur le degré d'assurance, où
+                        tous ces objets se trouvent conjointement amenés. Je suis dans la plus ferme
+                        confiance que votre règne, en jouissant d'un bien préparé pour la postérité,
+                        le lui transmettra fortifié et constaté par des preuves multipliées de son
+                        importance. Toute source de mésintelligence est heureusement tarie et tout
+                        prétexte ôté à l'envie à tenter d'affaiblir cette activité et ce concours
+                        mutuel qui décide du succès d'une alliance. Je me flatte que le but de la
+                        notre sera parfaitement rempli et que notre prépondérance dans le Nord,
+                        fruit de notre intimité de vues et de sentiments, y assurera la paix et la
+                        tranquillité.</p>
+                    <closer>
+                        <signed><seg rend="inline">C'est dans cette attente et avec la considération
+                                et l'estime la plus parfaite que je suis,</seg>
+                            <lb/><seg rend="right">Monsieur mon frère et
+                                cousin,<lb/>
+                            votre bonne soeur et
+                            cousine</seg>
+                        <persName ref="people.xml#cat01" rend="right">Catherine.</persName></signed>
+                        <dateline rend="left"><placeName ref="places.xml#pet01">A
+                                St.-Pétersbourg</placeName>
+                            <date when-custom="1774-02-28">ce 28 Février 1774.</date></dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear Brother and
+                        Cousin.</salute></opener>
+                    <p>When I received Your Majesty's letter, in which you are pleased to share with
+                        me that all concerning the exchange of Holstein had been definitively
+                        finished, the joy with which the conclusion of this great work appears to
+                        have filled you made me likewise feel the purest satisfaction. I was led
+                        into this negotiation by my love of humanity and by the essential interests
+                        of our monarchies, but I was also motived by personal friendship and by the
+                        most decided esteem. The state of Your Majesty's sentiments leave nothing to
+                        be desired in the degree of confidence with which all these objects have
+                        been conjointly brought about. I am most firmly of the belief that your
+                        reign, enjoying a good prepared for posterity, will pass it on to them
+                        fortified and certified by numerous proofs of its importance. All sources of
+                        misunderstanding have happily dried up, and all pretext removed for the
+                        desire to attempt to weaken this activity and this mutual cooperation, which
+                        determine the success of an alliance. I flatter myself that the aim of ours
+                        will be perfectly fulfilled and that our preponderance in the North, the
+                        fruit of our intimacy in designs and sentiments, will ensure peace and
+                        tranquillity there.</p>
+                    <closer>
+                        <signed><seg rend="inline">It is with this expectation and the highest regard
+                                and most perfect esteem that I am,</seg><lb/>
+                            <seg rend="right">My dear brother and cousin,
+                                sir,<lb/>
+                            your good sister and
+                            cousin</seg>
+                        <persName rend="right">Catherine.</persName></signed>
+                        <dateline rend="left"><placeName ref="places.xml#pet01">At St
+                                Petersburg</placeName>
+                            <date when-custom="1774-02-28">this 28 February 1774.</date></dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

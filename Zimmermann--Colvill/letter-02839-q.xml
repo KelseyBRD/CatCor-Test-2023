@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02839</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02839</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#sweden"/>
+
+     <term target="kw.xml#finland"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify the location “Jokas” or “Gen Major Knosing” (who is mentioned in the last
+     paragraph).</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:32:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02839">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01">Czarskoçelo</placeName> ce <date
+      when-custom="1789-06-12">12. Juin 1789</date>.</dateline></opener>
+   <p hand="people.xml#unknown">Le Lieut. Général <persName ref="people.xml#mik02"
+     >Michelson</persName> étant entré par <placeName ref="places.xml#wek01">
+    Wekera</placeName> dans la <placeName ref="places.xml#fin01">Finlande</placeName> Suédoise et
+    s’étant emparé près de <placeName ref="places.xml#kis01"> Kico</placeName> des retranchemens
+    Suédois, du canon, des magasins, et y ayant fait un bon nombre de prisonniers, au nombre
+    desquels deux majors et six officiers, s’avança vers <placeName ref="places.xml#ris01">
+     Christine</placeName> qu’il occupa, de là il tenta de s’emparer de <placeName
+     ref="places.xml#mik01"> St. Michel</placeName>, où se trouvoient les plus grands dépôts d’armes
+    et de magasins des Suédois. Cette première tentative ne réussit pas; d’un autre côté de la
+     <placeName ref="places.xml#kar01"> Karelie</placeName> le Général Major Baron <persName
+     ref="people.xml#sch02">Schultz</persName> après avoir renversé le détachement Suédois, qui se
+    trouvoit à son passage devant <placeName ref="places.xml#sul01"> Soulkowa</placeName>, s’avança
+    aussi dans la <placeName ref="places.xml#fin01">Finlande</placeName> Suédoise. Le 8. Juin à midi
+    le Lieut. Général <persName ref="people.xml#mik02">Michelson</persName> attaqua les
+    retranchemens Suédois de <placeName ref="places.xml#por01"> Parassalma</placeName>, renversa les
+    batteries ennemies. Les Suédois se voyants forçés dans cet endroit s’enfuirent à <placeName
+     ref="places.xml#mik01"> St. Michel</placeName>, poursuivis par les troupes Russes, qui
+    s’emparèrent de cet endroit et des magasins qui s’y trouvèrent. L’ennemi s’est retiré vers
+    Jokas, où il rencontrera probablement le Général Major Baron <persName ref="people.xml#sch02"
+     >Schultz</persName>, qui devoit s’y rendre de <placeName ref="places.xml#sul01">
+     Soulkova</placeName>. Le Lieut. Général <persName ref="people.xml#mik02"
+    >Michelson</persName> est allé déloger les Suédois de <placeName ref="places.xml#pum01">
+     Poumelasund</placeName>.</p>
+   <p hand="people.xml#cat01">Ce que le Gén. Maj. Knosing
+    (Livonien) a déjà exécuté après que ceci a été écrit, on y a pris seize canons et quantité
+    d’amunition et beaucoup de prisonniers; cet endroit est un chantier sur le <placeName
+     ref="places.xml#sai01"> lac Saima</placeName>.</p>
+  </body>
+ </text>
+</TEI>

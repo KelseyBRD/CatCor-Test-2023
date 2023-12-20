@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02963</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02963</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-17">17/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-20T17:29:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02963">
+  <body>
+ 
+   
+   <opener><salute>De <placeName ref="places.xml#tve01"> Tver</placeName> qui, après <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>, est la plus jolie ville de l'empire, au beau
+    milieu du palais archiépiscopal de l’évêque <persName ref="people.xml#pla01"> Platon</persName>,
+    qui dans deux jours d’ici va perdre sou évêché pour passer au siège de <placeName ref="places.xml#mos01">Moscou</placeName>. </salute><dateline><date when-custom="1775-01-21">21
+    janvier 1775.</date></dateline></opener>
+   <p>C’est à <rs ref="places.xml#sts01"> Novogrod</rs>, dimanche passé, en sortant de la messe, que
+    j’ai reçu votre numéro 10, et comme c’est aujourd’hui mercredi, si vous savez encore compter,
+    vous devinerez que par conséquent elle (votre lettre) a été ballottée dans ma poche sur ce
+    chemin de <placeName ref="places.xml#mos01">Moscou</placeName> pendant trois jours. Je serai rendue ce soir ou pendant la nuit
+    dans une maison d’un <rs ref="people.xml#gro04"> prince de Géorgie</rs> à sept verstes de cette
+    ancienne et décrépite capitale. Là j’attendrai les Altesses Impériales, qui sont parties vingt
+    quatre heures après moi de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, c’est à
+    dire le 17, et moi le 16, à onze heures du soir, et puis je ferai mon entrée de cérémonie, comme
+    il est d’usage après une paix ou pour telle autre cérémonie publique, et par conséquent sachez
+    que je n’ai pas le temps de donner beaucoup d’attention à toutes les grogneries dont votre très
+    belle lettre d’ailleurs est remplie, et d’autant plus je passerai avec légèreté sur ces
+    points-là, que vous me dites que je suis née pardonnée et qu’outre cela votre lettre est longue
+    et que j’ai mal à la tête des vapeurs du palais archiépiscopal, qui a été, je crois, mal aéré et
+    pendant l’été et pendant l’hiver.</p>
+   <p><persName ref="people.xml#tho01">M. Thomas</persName> n’est pas du voyage; il me suivra en famille sous la conduite de
+     <persName ref="people.xml#fun01"> M. Funck</persName>, mon chasseur, mais j’ai avec moi
+    mademoiselle Mimi, nouvelle débarquée, très mignonne, de race anglaise aussi, mais d’humeur plus
+    accommodante et moins exigeante que les Thomas. Pendant ce voyage vous saurez que nous courons
+    comme des diables et que nous rions comme des fous. Or, vous savez qu’outre moi il y a dans ma
+    suite un autre moi, ou bien, si vous voulez, mon représentant, qui ira à <placeName ref="places.xml#ist01">Constantinople</placeName> dire de ma part tout plein de douceurs et de belles choses à mon très bon ami
+    sultan  <persName ref="people.xml#abd01">Abdul-Hamet</persName>; en un mot, c’est le prince
+     <persName ref="people.xml#rep01"> Repnine</persName>, ambassadeur très gai et excellent
+    compagnon de voyage, que je mène à <placeName ref="places.xml#mos01">Moscou</placeName> sans cérémonie et qui prendra la gravité
+    nécessaire à sa mission où il pourra, mais pas avec moi. Or, à propos de cela, sachez que mon
+    tendre pour le <persName ref="people.xml#abd01">sultan</persName> va jusque là que j’ai déjà
+    son portrait sur ma tabatière. J’ai eu plus de patience que vous, car j’ai achevé <title ref="works.xml#romanc01"> «Le roman comique»</title>, dont j’ai souhaité cent fois la
+    fin avant qu’elle ne vînt, tant je l’ai trouvé insipide, et quoique je rie aisément, je vous
+    jure que ce livre ne m’a pas tiré un seul souris, même du corps : c’est en vérité une mauvaise
+    rapsodie, où peut-être il y a beaucoup d’imagination. Si je pouvais en souffrir quelque chose,
+    ce serait peut-être les contes espagnols, mais je hais <rs ref="works.xml#romanc01">
+     Ragotin</rs> et tout le reste, et je trouve tout cela d’un ennui à mourir.</p>
+   <p>Par rapport à votre voyage à la suite du prince <persName ref="people.xml#hen02">
+     Henri</persName>, je vous ai déjà envoyé <seg xml:lang="de">mein
+     Gutachten</seg> tout au long dans une dissertation aussi longue que pourrait l’être un avis d’un
+    conseiller aulique. Je ferai dire au prince <persName ref="people.xml#bar02">
+     Bariatinski</persName> de vous avertir lorsqu’il aura une occasion de faire partir vos
+    bienfaits, les pruneaux de Tours. Les discours parlementaires que vous m’avez envoyés sont très
+    beaux; il est à souhaiter pour le bonheur de la nation que cette belle harmonie entre la cour et
+    les parlements puisse être durable. J’ai beaucoup d’obligations aux <orgName ref="orgs.xml#lant01"> lanturelus</orgName> de la mention honorable qu’ils on faite de
+    moi dans leurs couplets en l’honneur de <rs ref="people.xml#gri01"> monsieur le doyen de
+     l’ordre</rs>. Morbleu, voilà de ces choses dont on ne se douterait jamais. Ces cardinaux
+    doivent avoir une très grande satisfaction à se morfondre dans ces halles où sont leurs niches
+    au <placeName ref="places.xml#vat01">Vatican</placeName>, puisque jusqu’ici ils ne peuvent se
+    résoudre à élire un pape; je crois presque que ces cours opposantes veulent se délivrer du sacré collège entier et à la fois, tout comme des jésuites, puisqu’ils
+    les retiennent si longtemps dans cet endroit-là.</p>
+   <p>J’ai l’honneur de vous annoncer que me voilà arrivée à sept verstes de <placeName ref="places.xml#mos01">Moscou</placeName> ce
+    jeudi à 6 heures du matin. Dimanche je ferai mon entrée. L’on dirait qu’on n’est pas mal aise de
+    me voir; aussi je vous promets que mon portefeuille n’est pas mal garni pour réjouir plus d’un
+    lanturelu. </p>
+   <closer><signed rend="inline">Adieu, seigneur, portez-vous bien et tenez vous en joie.</signed></closer>
+  </body>
+ </text>
+</TEI>

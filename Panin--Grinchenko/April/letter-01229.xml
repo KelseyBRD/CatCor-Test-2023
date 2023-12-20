@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01229</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01229</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#crimea"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-14"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01229">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Граф Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Благодарствую за добрыя вести о состоянии <persName ref="people.xml#pau01"
+                    >сына</persName> моего; но Вы об себе не пишете, каковы Вы, и есть ли Вам легче.
+                    <persName ref="people.xml#dol04"> Князя Долгорукова</persName> реляцию при сем
+                возвращаю к Вам. Естьли <orgName ref="orgs.xml#tata01">Татары</orgName> на
+                    <placeName ref="places.xml#mos01">Москве</placeName> не были одеты <persName
+                    ref="people.xml#sob01">Сабакиным</persName>, а их одеть надобно, то велите им
+                всего дать, так чтоб ни в чем им не было недостатка; вить, чаю, это не те, коих
+                более недели <persName ref="people.xml#dol04">Князь Долгорукой</persName> обещал,
+                что здесь не проживут.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1771-09-14">Сентября 14 числа, 1771
+                    года.</date></dateline></closer>
+            <postscript>
+                <p>Естьли нужно домы нанять, то нанимайте, колико нужно; сказывают, что и Сераскер
+                    тесно живет, и так прикажите смотреть, чтоб болен от того не был.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

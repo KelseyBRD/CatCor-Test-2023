@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00856</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00856</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2017-06-26">26 June 2017</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00856">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный и любезный <persName
+                                ref="people.xml#pot01">Князь Григорий
+                            Александрович.</persName></salute>
+                    </opener>
+                    <p> Во ожидании твоего курьера с подробным известием об одержанной победе на
+                            <placeName ref="places.xml#lym01">Лимане</placeName>
+                        <placeName ref="places.xml#och01">Очаковском</placeName> 17 июня я к тебе
+                        отправляю сего курьера, чтоб тебя уведомить о здешних неприятных
+                        происшествиях. По двудневной стрельбе на <placeName ref="places.xml#sav01"
+                            >Нейшлот</placeName> шведы пошли грабить <placeName
+                            ref="places.xml#sav01">Нейшлотский уезд.</placeName> Я у тебя спрашиваю,
+                        что тут грабить можно? Потом шведский секретарь требовал у Вице-канцлера час
+                        и, пришед к нему, подал ноту, подписанную им по королевскому повелению, в
+                        которой, по многим оскорбительным мне самой и Государству речам, Его
+                        Вел[ичество] предлагает мне мирные кондиции. Копия сей сумашедшей ноты к
+                        тебе послана будет с сим же курьером. В ответ я приказала выслать подателя
+                        оной. Сказывают, шведы и финны равно недовольны королевским поведением
+                        противу нас. Он сказывал и уверял всех, что идет действовать оборонительно,
+                        а вместо того начал наступательно. Сегодня пришла весть, что он от Аберфорса
+                        вошел в <placeName ref="places.xml#fin01">Финляндию</placeName> 15 верст,
+                        идет к <placeName ref="places.xml#fre01">Фридрихсгаму.</placeName></p>
+                    <p>Полки наши, сколько можно было, пошли, <persName ref="people.xml#mus02"
+                            >Пушкин</persName> поехал, а <persName ref="xml#mik02"
+                            >Михельсон</persName> давно тамо и взял позицию от <placeName
+                            ref="places.xml#lap01">Вильманстранда</placeName> к <placeName
+                            ref="places.xml#vyb01">Выборгу.</placeName>
+                        <placeName ref="places.xml#fre01">Фридрихсгам</placeName> может держаться
+                        несколько недель, как сказывают. <persName ref="people.xml#gre01"
+                            >Грейг</persName> со флотом, чаю, сегодня или завтра съедется; дай Боже
+                        удачу. О сем прошу Всесильного Бога, который ни в каком случае меня и
+                        Государство не оставлял.</p>
+                    <p><persName ref="people.xml#gus01">Король Шведский</persName> себе сковал латы,
+                        кирасу, брассары и квиссары и шишак с преужасными перьями. Выехавши из
+                            <placeName ref="places.xml#sto01">Стокгольма,</placeName> говорил дамам,
+                        что он надеется им дать завтрак в <placeName ref="places.xml#pet02"
+                            >Петергофе,</placeName> а садясь на галеры, сказал, <seg
+                            xml:lang="fr">qu'il s'embarque dans un pas scabreux.</seg> Своим
+                        войскам в <placeName ref="places.xml#fin01">Финляндии</placeName> и шведам
+                        велел сказать, что он намерен превосходить делами и помрачать <persName
+                            ref="people.xml#gus03">Густава Адольфа</persName> и окончать предприятия
+                            <persName ref="people.xml#kar04">Карла XII.</persName> Последнее сбыться
+                        может, понеже сей начал разорение <placeName ref="places.xml#swe01"
+                            >Швеции.</placeName> Также уверял он шведов, что он меня принудит
+                        сложить корону. Сего вероломного государя поступки похожи на
+                        сумасшествие.</p>
+                    <p> С сим курьером получишь манифест мой о объявлении войны; оскорбления наши
+                        многочисленны, мы отроду не слыхали жалобы от него, и теперь не ведаю, за
+                        что раззлился. Теперь Бог будет между нами судьею. Буде нам Бог поможет, то
+                        его намерение есть уехать в <placeName ref="places.xml#rom03"
+                            >Рим,</placeName> принять римский закон и жить, как жила <persName
+                            ref="people.xml#chr02">Королева Христина.</persName></p>
+                    <p>Здесь жары преужасные и духота, я переехала жить в город. У нас в народе
+                        великая злоба противу <persName ref="people.xml#gus02">Шведского
+                            Короля</persName> зделалась и нет рода брани, которым его не бранили
+                        большие и малые. Солдаты идут с жадностию, говорят: вероломца за усы
+                        приведем. Другие говорят, что войну окончат в три недели, просят идти без
+                        отдыха, чтоб скорее дойти до шведов; одним словом, диспозиция духов у нас и
+                        в его войске - в мою пользу. Трудно сие время для меня, это правда, но что
+                        делать? Надеюсь в короткое время получить великое умножение, понеже отовсюду
+                        ведут людей и вещей.</p>
+                    <closer><signed rend="below">Прощай, мой любезный. Что делает
+                            <placeName ref="places.xml#och01">Очаковская</placeName> осада? Будь
+                        здоров и благополучен. </signed><dateline rend="below"><placeName ref="places.xml#pet01"
+                                >Санкт-Пет[ербург].</placeName>
+                            <date when-custom="1788-07-03">Июля 3 ч., 1788</date></dateline></closer>
+                        <postscript><p rend="below">При сем следует манифест и копия с сумашедшей ноты.</p></postscript>
+                        
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

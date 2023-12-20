@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00101</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00101</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#navy"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2014-05-04">4 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Created document. Added text, tagging, annotation, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00101">
+                <body>
+                    <div type="letter">
+                        <opener hand="people.xml#cat01"><dateline><placeName ref="places.xml#pet01">В С.П.бурге</placeName>
+                                <date when-custom="1789-08-12">Августа 12 1789 года</date><note
+                                    type="editorial">Place and date in Catherine's own
+                                hand.</note></dateline></opener><opener hand="people.xml#unknown">
+                        <salute rend="inline">Граф Валентин
+                            Платонович.</salute></opener>
+                        <p>После уведомлений учиненных приходящими к порту <placeName
+                                ref="places.xml#kro01">Кронштатскому</placeName> шкиперами
+                            купеческих судов о <rs ref="events.xml#oland01">бывшем деле</rs> между
+                                <orgName ref="orgs.xml#russ02">Нашим</orgName> и <orgName
+                                ref="orgs.xml#swed01">Шведским флотами</orgName>, об уходе
+                            последняго к <placeName ref="places.xml#kar02">Карлскрону</placeName> и
+                            о соединении нашего с эскадрою вице-Адмирала <persName
+                                ref="people.xml#koz01">Козлянинова</persName> в <placeName
+                                ref="places.xml#den01">Дании</placeName> остававшегося, получили Мы
+                            донесения в копиях при сем сообщаемыя от Адмирала <persName
+                                ref="people.xml#chi01">Чичагова</persName>, который между тем к
+                                <placeName ref="places.xml#dag01">Дагер Орту</placeName>
+                            возвратился.</p>
+                        <p>Хотя по содержанию оных, да и по существу всех произшествий поверхность
+                            несумнительным образом остается на стороне Нашей, ибо неприятель прежде
+                            соединения <orgName ref="orgs.xml#russ02">флота Нашего</orgName> не
+                            предъуспев ни мало в неважной канонаде 15-го Июля случившейся отступил,
+                            и будучи преследован морскими силами Нашими уклонялся от боя не один раз
+                            ему представленнаго, а наконец и в порт свой скрылся, дав Нашим
+                            соединиться на виду его и остаться пред <placeName
+                                ref="places.xml#kar02">Карлскроною</placeName> несколько дней ожидая
+                            его выходу; не скроем однакож от вас, что скоропостижное Адмирала
+                                <persName ref="people.xml#chi01">Чичагова</persName> возвращение к
+                                <placeName ref="places.xml#dag01">Дагер-Орту</placeName>, тем более
+                            нам неприятно было, что действия <orgName ref="orgs.xml#russ02">флота
+                                Нашего</orgName> в нынешнюю компанию не соразмерны были с
+                            превосходными его силами и не соответствовали Нашим заботам и великому
+                            иждивению на них употребленному; а потому и повелели Мы <orgName
+                                ref="orgs.xml#coun01">совету Нашему</orgName> сличить поведение <rs
+                                ref="people.xml#chi01">означеннаго Адмирала</rs> с наставлениями от
+                            нас ему данными, как то вы усмотрите пространно из копии
+                            собственноручной нашей записки, у сего прилагаемой.</p>
+                        <p>Мы желаем, чтоб по разным частям Нашего вооружения с большим трудом и
+                            знатными издержками учиненнаго, всемерное приложено было старание, дабы
+                            короткое время уже остающееся не втуне изчезло, но чтоб всякий главный
+                            начальник обратил рвение и внимание его, дабы живыми и усильными
+                            действиями преломить упорство <rs ref="places.xml#swe01">врага
+                                Нашего</rs> и споспешествовать доставлению вожделеннаго мира.<note
+                                type="editorial">As Catherine's letters to Potemkin demonstrate, at
+                                this time she was also dissatisfied with the progress being made (or
+                                not made) by Musin-Pushkin on land. This letter thus served not just
+                                for Musin-Pushkin's information, but also as a warning that he
+                                should undertake more decisive action against the Swedes.
+                                Musin-Pushkin was indeed soon relieved of his command.</note></p>
+                        <closer><signed rend="inline">Пребываем впрочем вам
+                                благосклонны <persName ref="people.xml#cat01" type="signature">Екатерина</persName></signed></closer>
+                    </div>
+                    <div type="attachment">
+                        <opener>
+                        <salute><orgName ref="orgs.xml#coun01">Совету</orgName> на примечание.<note
+                                type="editorial">The original document, in Catherine's own hand, was
+                                presented to the Council by <ref target="people.xml#bez01">Count
+                                    Bezborodko</ref> on 6 August 1789. <ref target="mus02"
+                                    >Musin-Pushkin</ref> received a copy.</note></salute></opener>
+                        <p>Из вчера полученных реляций Адмирала <persName ref="people.xml#chi01"
+                                >Чичагова</persName> видно, что Шведы аттаковали его а не он их; что
+                            он с ними имел перестрелку; что на оной потерен <rs
+                                ref="people.xml#mul01">капитан бригадирнаго ранга</rs> и несколько
+                            сот протчих воинов без всякой пользы <rs ref="places.xml#rus01"
+                                >Империи</rs>; что наконец он возвратился к здешним водам будто ради
+                            прикрытия <placeName ref="places.xml#gul01">залива Финскаго</placeName>.
+                            Я требую что поведение Адмирала <persName ref="people.xml#chi01"
+                                >Чичагова</persName> в <orgName ref="orgs.xml#coun01"
+                                >Совете</orgName> сличено было с данною ему инструкциею и мне
+                            репортовано было за подписанием совета, выполнял-ли <rs
+                                ref="people.xml#chi01">вышеупомянутый Адмирал</rs> инструкцию ему
+                            данную за моим подписанием или нет? дабы я по сему могла взять
+                            надлежащия меры, ибо примечательно становится по <name type="event"
+                                ref="events.xml#swedi02">Шведской войне</name>: что не действия аки
+                            бы предмет был всех начальников, тогда когда живое и согласное действие
+                            везде над врагом, им поверхность дать могло, а <rs
+                                ref="places.xml#rus01">Империи</rs> доставило б всем желаемой мир, а
+                            теперь родится от всего сего тройной <rs ref="places.xml#rus01"
+                                >Империи</rs> вред: первый, непослушание и неисполнение данных
+                            предписаний, чрез что ныне <placeName ref="places.xml#fra01"
+                                >Франция</placeName>
+                            <rs ref="events.xml#frenc01">погибает</rs>; второе, великие издержки по
+                            пустому употребленныя и умножающияся медлением; третье, потеря по
+                            пустому людей и времени.</p>
+                    </div>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <div type="letter">
+                        <opener><dateline><placeName ref="places.xml#pet01">In S.P.burg</placeName>
+                                <date when-custom="1789-08-12">August 12
+                            1789</date></dateline>
+                        <salute rend="inline">Count Valentin
+                            Platonovich.</salute></opener>
+                        <p>After the reports, made by the skippers of merchant ships arriving at the
+                            port of Kronstadt, about the action that had taken place between Our
+                            navy and the Swedish one, about the latter's retreat to Karlskrona, and
+                            about the joining of Ours with Vice-Admiral Kozlyaninov's squadron that
+                            had remained in Denmark, we received the reports, copies of which are
+                            here attached, from Admiral Chichagov, who in the meantime returned to
+                            Dager Ort.</p>
+                        <p>Although according to their contents and the essence of all the events
+                            the advantage undoubtedly is on Our side--for, the enemy retreated,
+                            without the least success in the minor cannonade of 15 July, before the
+                            joining of Our navy, and, pursued by Our naval forces repeatedly evaded
+                            the battle offered to them, and finally even hid in their port, allowing
+                            Us to join up in their sight and remain before Karlskrona waiting for
+                            them to emerge--We, however, will not hide from you that Admiral
+                            Chichagov's sudden return to Dager Ort was all the more disagreeable to
+                            us, in that the actions of Our navy in the present campaign have not
+                            been in proportion to its superior forces and have not corresponded to
+                            Our cares and the great expenditures made on them. Therefore We have
+                            ordered Our council to compare the said General's conduct with the
+                            instructions given to him from us, as you will see at length from the
+                            copy of the note in our hand here attached.</p>
+                        <p>We desire, that across the various parts of Our arms, formed with great
+                            effort and significant expenses, all possible endeavours be made, so
+                            that the already short remaining time not be lost in vain. Rather, every
+                            senior commander turn his zeal and attention to breaking the resistance
+                            of Our enemy with quick and vigorous actions, and to contribute to
+                            achieving a longed-for peace.</p>
+                        <closer><signed rend="inline">We remain meanwhile well-disposed toward
+                                you<persName>Ekaterina</persName></signed></closer>
+                    </div>
+                    <div type="attachment">
+                        <opener>
+                        <salute>To the council for note</salute></opener>
+                        <p>From Admiral Chichagov's communiqués, received yesterday, it is clear
+                            that the Swedes attacked him and not he them; that he had an exchange of
+                            fire with them; that in it a captain with the rank of brigadier and a
+                            few hundred other warrios were lost without any use to the Empire; that
+                            finally he returned to the waters near here, supposedly to cover the
+                            Gulf of Finland. I demand that Admiral Chichagov's conduct be compared
+                            in the Council with the instruction given to him and that a report be
+                            made to me, signed by the council. Did the aforementioned Admiral fulfil
+                            the instruction given to him with my signature or not? Thereby I can
+                            take appropriate measures on this matter, for it is becoming notable in
+                            the Swedish war that action is not the object of all commanders, at a
+                            time when quick and coordinated action in all places against the enemy
+                            could give them the advantage and achieved for the Empire a peace
+                            desired by all. But now from all this a threefold harm is born to the
+                            Empire: first, disobedience and the non-fulfilment of orders given, as a
+                            result of which France is today perishing; second, great expenses used
+                            to no purpose and multiplying as a result of delays; third, loss of
+                            people and time to no purpose.</p>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

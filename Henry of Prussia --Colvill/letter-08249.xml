@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08249</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08249</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#paulsmarriages"/>
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:27:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08249">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1776-08-19">19 août 1776</date>.</dateline></opener>
+   <p>J'ai reçu les deux lettres que V. A. R. a bien voulu m'écrire, l'une de <placeName
+     ref="places.xml#sch03"> Schwedt</placeName> du 8 et l’autre de <placeName
+     ref="places.xml#rhe01"> Rheinsberg</placeName> du 16 d'avoût. Je Lui ai mille obligations pour
+    toutes les amitiés qu'Elle m’y marque, pour tous les soins et peines qu'Elle a donnés au
+     <persName ref="people.xml#pau01"> grand-duc</persName>. Il est revenu enchanté de son voyage,
+    rempli de respect et de reconnaissance pour le <rs ref="people.xml#fre01"> Roi</rs> et pour la
+    famille royale, outre ces sentiments, plus particulièrement encore pénétré d'une sincère amitié
+    envers V. A. R., et très épris de sa <rs ref="people.xml#mar02"> princesse</rs>. Nous attendons
+    celle-ci vers la fin de ce mois, elle est arrivée à <placeName ref="places.xml#kla02">
+     Memel</placeName> le 13 v. st; tout le monde qui est allé à sa rencontre en dit mille bien et
+    nommément la <rs ref="people.xml#rum01"> maréchale</rs>. Nous l'attendons avec impatience, et
+    dès que nous l'aurons, je me flatte que nous parviendrons à la conclusion avec la même célérité
+    avec laquelle toute cette affaire a été menée, grâce en partie aux soins de V. A. R.</p>
+   <p>En Lui répétant mes regrets sur le court espace de <rs ref="events.xml#henry02"> temps</rs>
+    qu'Elle a passé çéans, je La prie d'être persuadée que ce me sera toujours un vrai plaisir que
+    de Lui témoigner en toute occasion ...</p>
+  </body>
+ </text>
+</TEI>

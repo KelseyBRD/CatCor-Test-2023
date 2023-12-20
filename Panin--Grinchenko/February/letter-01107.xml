@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01107</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01107</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>            
+             <keywords n="letterType">
+                 <term target="kw.xml#note"/>
+             </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#health"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#peter"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>           
+            <editorialDecl>
+                <p>Don't know who is the Grand Prince Catherine is referring to at the end of the letter.</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-02-20">2021-02-20</date>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-06">2021-03-06</date>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01107">
+        <body>
+            <p>Уведомление ваше из <placeName ref="places.xml#yed01">Едрова,</placeName> от <date when-custom="1762-09-07">7 числа,</date> меня несколько обезпокоило, что
+                лихорадошной припадок, как пишете, еще оказался у <persName ref="people.xml#pet04">Его Высочества.</persName> Однако
+                ж, я думаю сама, что Ёдровские покои, и людство, которое в переезд мой
+                его обезпокоило, тому причиною. Дай Бог, чтоб сие миновалося. А я о Вашем
+                попечении ни мало не сумневаюся.</p>
+            <p>По видимому, мне уже <persName ref="people.xml#pet04">Его Высочества</persName> не дождаться къ въезду моему в <placeName ref="places.xml#mos01">Москву,</placeName> и
+                для того Вы не спешите ездою, а, смотря по обстоятельстваме пароксисма,
+                продолжайте путь Ваш. До четверга я, однако ж, дожидать буду, и в
+                пятницу, конечно, въеду въ город, потому что мне ни как дале дожидать не
+                возможно. Пребываю к Вам всегда благосклонна.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript><p><persName ref="people.xml#pan04">Сестра Ваша</persName> сегодня по утру у меня была, и я не нашла нимало в ней
+                перемены. <placeName ref="places.xml#med03">В Медном,</placeName> у старухи <persName ref="people.xml#shi01">Шишковой,</persName> хоромы не в пример лучше дворца,
+                а во <placeName ref="places.xml#tve01">Твери</placeName> Архиерейской дом очень хорош и каменной; и того для советую
+                Вам к ним с Великим Князем заехать.</p>
+                <closer><placeName ref="places.xml#pet03">Село Петровское.</placeName><lb/>
+           <dateline><date when-custom="1762-09-10">1762 года. Сентября 10-го дня</date></dateline></closer></postscript></body>
+    </text>
+</TEI>
+

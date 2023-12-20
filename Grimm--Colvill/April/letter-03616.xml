@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03616</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03616</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#deathnotification"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-09">09/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:55:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03616">
+  <body><div>
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date
+      when-custom="1784-06-07">7 juin 1784</date>.</dateline>
+   </opener>
+   <p>Je me suis levée à six heures et demie, et j’ai écrit dans certain mémoire que je fais et que
+    nous appelons matériaux, ce qui suit: «NB. les couvents et les communautés sont de mauvais
+    héritiers: ou ils régissent mal, ou ils régissent si excessivement bien qu’ils deviennent
+    injustes.» Cette belle réflexion m’a fait naître tout de suite l’idée de vous écrire pour vous
+    dire que j’ai entendu chanter hier l’étonnante <persName ref="people.xml#tod02"> Todi</persName>
+    pour la seconde fois, et que <rs ref="people.xml#tod02"> cette cantatrice</rs>, unique selon moi
+    dans son genre, a fait dans ma tête un remue-ménage extraordinaire: elle me prouve que la
+    perfection a ses droits incontestables et que les droits de la perfection sont tels qu’ils
+    enlèvent les âmes des savants et des ignorants. Après vous avoir dit cela, je vous prie de me
+    dire comment et pourquoi la première et la seconde idée ont pu se tenir par la main et se sont
+    succédé dans ma tête, car je n’y vois aucune analogie, à moins que l’envie de vous les
+    communiquer l’une et l’autre ne les ait unies.</p></div><div>
+  <opener> <dateline>Ce <date when-custom="1784-07-02">2 juillet</date>. </dateline></opener>
+   <p>Lorsque je commençais cette lettre, j’étais dans le bonheur et la joie, et mes journées se
+    passaient si rapidement que je ne savais ce qu’elles devenaient. Il n’en est plus de même: je
+    suis plongée dans la douleur la plus vive, et mon bonheur n’est plus: j’ai pensé moi-même mourir
+    de la perte irréparable que je viens de faire, il y a huit jours, de <rs ref="people.xml#lan02">
+     mon meilleur ami</rs>. J’espérais qu’il deviendrait l’appui de ma vieillesse: il s’appliquait,
+    il profitait, il avait pris tous mes goûts; c’était un jeune homme que j’élevais, qui était
+    reconnaissant, doux et honnête, qui partageait mes peines quand j’en avais et qui se réjouissait
+    de mes joies; en un mot, en sanglotant j’ai le malheur de vous dire que le <rs
+     ref="people.xml#lan02"> g-l Lanskoï</rs> n’est plus: une fièvre maligne accompagnée
+    d’esquinancie l’a emporté dans cinq jours au tombeau, et ma chambre, si agréable pour moi
+    ci-devant, est devenue un antre vide, dans lequel je me traîne à peine comme une ombre: un mal
+    de gorge m’a gagnée la veille de sa mort avec une fièvre de cheval; cependant depuis hier je
+    suis hors du lit, mais faible et si douloureusement affectée qu’à l’heure qu’il est je ne puis
+    voir face humaine sans que les sanglots ne m’ôtent la parole ; je ne puis ni dormir ni manger;
+    la lecture m’ennuie, et l’écriture excède mes forces; je ne sais ce qu’il deviendra de moi, mais
+    ce que je sais, c’est que de ma vie je n’ai été si malheureuse que depuis que <rs
+     ref="people.xml#lan02"> mon meilleur et aimable ami</rs> m’a ainsi abandonnée. J’ai ouvert mon
+    tiroir; j’ai trouvé cette feuille commencée, j’ai tracé ces lignes, mais aussi je n’en puis
+    plus.</p>
+  </div>
+  </body>
+ </text>
+</TEI>

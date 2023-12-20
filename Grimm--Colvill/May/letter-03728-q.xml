@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03728</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03728</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#europe"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find “Regentelet” but I think this might be a word Catherine made up to mean
+     #people-cha01, the regent?. (2) Voelkersam (3) There is another mention of the La dame de La
+     Roche Lambert that I still can’t identify</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:07:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03728">
+  <body>
+   <div>
+    <opener><dateline> Au <placeName ref="places.xml#tau01"> palais Taurique</placeName>, à 5 heures
+      après midi, ce <date when-custom="1796-05-11">11 mai 1796</date>.</dateline></opener>
+    <p>(Pendant un temps très chaud, un grand vent et des nuages d’orage, les fenêtres ouvertes et
+     une verdure charmante devant les fenêtres.)</p>
+    <p>Je commence à répondre à votre lettre commencée le 20 décembre 1795. D’abord, je vous avertis
+     que je ne suis pas contente du tout de votre santé et que sur ce point je serais charmée que
+     vous vous corrigiez au plus tôt; par là vous voyez que je vous dis tout net ce qui me déplaît,
+     sans que vous me donniez des leçons là-dessus; entendez-vous, souffre-douleur? Ma lettre
+     commence donc par une réprimande drue, que. vous voudrez bien prendre en bonne part, comme je
+     l’espère cependant.</p>
+    <p>Vous faites fort bien de garder votre prétendu trésor pour vous; voilà pourtant que malheur
+     est bon à quelque chose: <rs ref="people.xml#gri01"> souffre-douleur</rs> n’est pas tenté d’en
+     confier la moindre chose à race vivante; elle a perdu crédit chez lui; je me souviens du temps
+     où il disait qu’il n’avait qu’à se louer des hommes. Je ne sais si les femmes étaient comprises
+     dans la même phrase; je ne m’avisai pas de le demander. Bien loin, monsieur, d’aller à l’école
+     où vous les envoyez, les beaux faiseurs de ce temps-ci croient bonnement qu’il n’y a rien à y
+     apprendre; de ce nombre sont les <persName ref="people.xml#thu02"> Thugut</persName>, les
+     frères <persName ref="people.xml#geo02"> George</persName>, les faiseurs du frère gros, les
+      <persName ref="people.xml#reu01"> Reuterholm</persName> et Regentelet, les Bernstorff, les
+     princes de la paix etc. etc. etc., les St <persName ref="people.xml#pri01"> Priest</persName>,
+     les <persName ref="people.xml#bom01"> Bombelles</persName>, les <persName
+      ref="people.xml#bre03"> Breteuil</persName> et quantité d’autres grands sages et grands
+     politiques, tels que le citoyen <persName ref="people.xml#hen02"> Henri</persName> de
+      <placeName ref="places.xml#rhe01"> Rheinsberg</placeName> et son concitoyen <persName
+      ref="people.xml#bou04"> Bouffiers</persName>, qui vient de quitter les croix de St Louis et
+      de <placeName ref="places.xml#mal01"> Malte</placeName> au milieu de <placeName
+      ref="places.xml#ber01"> Berlin</placeName>, afin de rentrer en <placeName
+      ref="places.xml#fra01"> France</placeName>, pour y être pendu apparemment. <seg xml:lang="de">
+      Wie kann man den Leuten in den Kopf was hin-einbuchstabiren, wenn sie keinen Kopf nicht haben,
+      der um Buchstabiren geaptiert ist? Herr <persName ref="people.xml#gri01">
+       Scherzdulder</persName>, es ist mir wahrlich leid das Sie so viel in Ihrem Leben von mir
+      gelitten haben. Was soll thun? Der Herr wird doch aushalten müßen wie lang es währt</seg>.</p>
+    <p>L’on dit que dans les provinces réunies à l’empire il n’y a point de bénéfice à donner, et
+     surtout pour les cherchants midi à 14 heures. Au nom de Dieu, délivrez-moi de Madame de
+      <persName ref="people.xml#boi03"> Boisgelin</persName>, chanoinesse qui vivait à la cour ;
+     c’est la plus mauvaise recommandation possible.</p>
+    <p>Votre très réclamante princesse vient de mourir avant son cher époux; par conséquent elle a
+     échappé au danger qu’elle craignait le plus, celui de devenir veuve.</p>
+    <p>Grand merci pour l’épître que vous avez adressée tout seul au comte de <persName
+      ref="people.xml#los02"> Loss</persName>; elle a eu tout l’effet possible, car ce gueux de
+      <persName ref="people.xml#hel03"> Helbig</persName> a été retiré d’ici tout de suite. Le <rs
+      ref="people.xml#gri01"> souffre-douleur</rs> a eu plus de crédit en cette occasion que tout le
+     ministère russe, inclusivement <persName ref="people.xml#mes01"> Mestmacher</persName> et
+     Voelkersam, ministre de <placeName ref="places.xml#sax01"> Saxe</placeName>, résidant ici, qui
+     savait très bien la conduite de son secrétaire de légation, qui en soupirait phlégmatiquement
+     et en avait écrit à sa cour. Ce <persName ref="people.xml#hel03"> Helbig</persName> était un
+     grand favori du <persName ref="people.xml#goe01"> comte Goertz</persName>, le boutonné; c’est
+     lui qui l’avait dressé ici pour l’emploi de ses talents.</p>
+    <p>Que le ciel vous aide à lire cette dernière ligne!</p>
+    <p>L’histoire de <persName ref="people.xml#mei02"> Meilhan</persName> à <placeName
+      ref="places.xml#rhe01"> Rheinsberg</placeName> et par conséquent l’historique de la cour du
+     citoyen <persName ref="people.xml#hen02"> Henri</persName> de <placeName ref="places.xml#rhe01"
+      > Rheinsberg</placeName> m’a beaucoup amusée; ce citoyen est toujours monté sur des
+     échasses.</p>
+    <p>Je souscris volontiers et j’accède à votre jugement sur <persName ref="people.xml#tur02">
+      Turgot</persName>, <persName ref="people.xml#cal01" rend="italic"> Calonne</persName> et
+      <persName ref="people.xml#nec01"> Necker</persName>. Jamais je n’ai vu une plus mauvaise et
+     plus creuse tête que ce <persName ref="people.xml#cal01"> Calonne</persName>, qui a été ici
+     très longtemps méprisé et ennuyant tout le monde avec des projets verbeux qui n’avaient ni
+     queue ni tête.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-05-13">13 mai</date>.</dateline></opener>
+    <p>J’ai passé toute la journée d’hier chez le grand écuyer <persName ref="people.xml#nar02">
+      Narichkine.</persName> Je me suis mise en chemin vers les 2 heures après midi; j’avais dans
+     mon carrosse <persName ref="people.xml#ale02"> Alexandrine</persName> et <persName
+      ref="people.xml#ele01"> Hélène</persName>. <persName ref="people.xml#ale01">
+      Alexandre</persName> et <rs ref="people.xml#eli04"> son épouse</rs>, <persName
+      ref="people.xml#kon01"> Constantin</persName> et <rs ref="people.xml#ann02"> la sienne</rs> me
+     suivaient. Partis du <placeName ref="places.xml#tau01"> palais Taurique</placeName>, nous
+     sommes arrivés au bout de la <placeName ref="places.xml#moi01"> Moïka</placeName> dans la
+     nouvelle maison du grand écuyer, qui lui sert de <placeName ref="places.xml#tau01"> palais
+      Taurique</placeName> au printemps, ayant été une heure au moins en chemin, car c’était aller
+     d’un bout de la ville à l’autre. Arrivés là, nous y avons trouvé une maison charmante, un dîner
+     splendide et un jardin délicieux, rempli d’une quantité de fleurs prodigieuses. A table tout le
+     monde était d’une grande gaîté; au sortir de table toute la jeunesse s’est mise à danser et
+     sauter, le vent étant devenu trop fort pour se promener. A mesure que la journée avançait, le
+     bal devenait plus nombreux, et l’on a dansé, dansé jusqu’à neuf heures. Alors j’ai emmené mes
+      <rs ref="people.xml#ale02 people.xml#ele01">deux demoiselles</rs> dans mon carrosse et suis
+     revenue ici à dix heures un quart, fatiguées, moi sans avoir dansé, et elles d’avoir dansé
+     jusque là que tout le monde s’est couché tout de suite; c’est-à-dire, moi et <rs
+      ref="people.xml#ale02 people.xml#ele01">mes deux beautés</rs>.</p>
+    <p>A l’histoire de Memnon II. Voici ce qu’il y a d’essentiel à répondre. Je vous ai dit par
+      <persName ref="people.xml#bac01"> Bacchus</persName> ou plutôt par ses héritiers, il y a
+     quatre jours à peu près, qu’après une maladie comme celle que vous avez faite, vous ferez mieux
+     d’aller aux eaux que d’entreprendre, pendant une réconvalescence, un énorme voyage pour venir
+     vers l’automne dans un climat rigoureux dont les eaux ne vous ont pas convenu, même il y a
+     vingt ans. Je vous ai mandé par cette lettre partie par les <persName ref="people.xml#bac01">
+      Bacchus</persName> qu’on vous remettrait dix mille roubles que je vous devais, et je vous les
+     dois effectivement: ils sont à vous, et vous en disposerez comme il vous plaira. Soignez votre
+     santé, c’est le principal; le reste doit y être subordonné, et j’espère que vous ne manquerez
+     de rien.</p>
+    <p>Mon Dieu, mon Dieu! si vous saviez quelle aversion j’ai pour les agronomes et tous ces
+     cultivateurs qui n’ont jamais eu la charrue en mains, vous ne me parleriez point de Mr.
+      <persName ref="people.xml#iae01"> Iaenisch</persName>, ni <seg xml:lang="en"> milord</seg>
+     <persName ref="people.xml#ogi02"> Findlater</persName> non plus; outre cela, les paysans russes
+     les haïssent encore plus que moi, et avec raison. Ce qui peut être bon pour un terrain grand
+     comme ma chambre, ne saurait être praticable pour des terrains immenses: les nôtres sont
+     accoutumés à avoir avec moins de peines tout ce dont ils ont besoin, et ils fournissent bien
+     des pays de chevaux et de bétail. Nous en avons vu de ces cultivateurs anglais, mais on a eu
+     garde de les imiter: ni les circonstances, ni le climat n’est le même. Savez-vous ce qui
+     arriverait du prétendu cultivateur <persName ref="people.xml#iae01"> Iaenisch</persName>,
+     régisseur d’une terre de la couronne? les paysans le tueraient avec sa fichue agriculture, et
+     puis c’est tout. Laissez-nous à nous-mêmes: nous exploitons plus de blés et nous en vendons
+     plus que toute l’<placeName ref="places.xml#eur01"> Europe</placeName> ensemble, et comment
+     voulez-vous que l’agriculture de la petite <placeName ref="places.xml#eng01">
+      Angleterre</placeName> nous puisse convenir? C’est mettre l’habit d’un nain à un géant. Outre
+     cela nulle part la population n’augmente dans les campagnes et dans les villes comme chez nous;
+     je n’ose le dire, mais c’est vrai qu’elle a doublé de mon règne; on y meurt d’indigestion, mais
+     jamais de faim; on n’y voit guère de gens maigres et pas un déguenillé, et s’il y en a qui
+     demandent l’aumône, c’est en vérité par fainéantise; c’est ce que disent les paysans eux-mêmes,
+     qui sont d’ailleurs d’une hospitalité qu’on ne connaît nulle part que chez nous.</p>
+    <p>Je souhaite au <persName ref="people.xml#ogi02"> pair d’Ecosse</persName> une chasse
+     heureuse; la mienne jusqu’ici n’a rien produit du tout digne d’attention.</p>
+    <p>Le <persName ref="people.xml#bue02"> comte de Bueil</persName> n’a qu’à reprendre son
+     uniforme, comme vous le désiriez.</p>
+    <p>Voici la pancarte marquée 8 qui se présente. Elle est datée du 16 (27) d’avril.</p>
+    <p>La cour de <placeName ref="places.xml#cob01"> Cobourg</placeName> n’approuve nullement que
+     vous reteniez si longtemps les courriers qui y sont dépêchés. Ainsi vous ferez bien de les
+     expédier plus vite à l’avenir, sauf une indisposition qui vous empêche de les expédier avec
+     plus de célérité. La description de la dernière fait dresser les cheveux, parce que vous
+     paraissiez plus proche de l’autre monde que de celui-ci.</p>
+    <p>La dame de La Roche Lambert que nous cherchons par l’intercession de la <persName
+      ref="people.xml#clo01"> princesse de Piémont</persName>, a été attachée à la maison de Condé,
+     dont la <persName ref="people.xml#lou20"> princesse Louise</persName> s’est faite religieuse à
+      <placeName ref="places.xml#tur01"> Turin.</placeName></p>
+    <p>Je suis bien fâchée que mon dernier courrier ait redoublé votre mal; ce n’était pas là mon
+     intention.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-05-14">14 mai</date>.</dateline></opener>
+    <p>Pour de pardon, vous n’en avez pas besoin, parce que vous vous portez mieux.</p>
+    <p>C’est avec plaisir qu’après le décès du comte de <persName ref="people.xml#sch03">
+      Schomberg</persName> je vois mon portrait par lui délaissé entre les mains de M. le maréchal
+     de <persName ref="people.xml#cas01"> Castries</persName>.</p>
+    <p>Vous faites bien de ne pas croire à toutes les nouvelles auxquelles <rs
+      ref="people.xml#cha01"> Sidor Yermalaïtch</rs>, pour lequel vous vous sentez grande aversion,
+     fait courir en <placeName ref="places.xml#ger01"> Allemagne</placeName>, car cet homme-là et
+     son régisseur <persName ref="people.xml#reu01"> Reuterholm</persName> sont le mensonge incarné;
+     mais ce qu’il y a de vrai et de sûr, c’est que le jeune <persName ref="people.xml#gus02">
+      roi</persName> est très décidé à ne jamais épouser la <persName ref="people.xml#lou12">
+      princesse rousse, laide et bossue de Mecklembourg</persName>. Elle lui a écrit quatre lettres,
+     auxquelles il n’a jamais répondu; elle lui a envoyé de ses cheveux roux, qui n’ont produit
+     aucun effet, sinon qu’ils ont été mis dans une armoire de la garde-robe, dont ils n’ont point
+     été retirés jusqu’ici; le mariage est différé jusqu’à la majorité. Pour des subsides des
+     brigands, le citoyen <persName ref="people.xml#hoc01"> Le Hoc</persName> a beau crier, on n’en
+     enverra pas, car ils ne peuvent pas même payer les livraisons qu’on leur fait; <persName
+      ref="people.xml#hoc01"> Le Hoc</persName> est parti, et la mission de <persName
+      ref="people.xml#pic02"> Pichegru</persName> est problématique. Pour les préparatifs de guerre
+     du côté de la <placeName ref="places.xml#swe01"> Suède</placeName>, quoiqu’ils brillent dans
+     les gazettes par l’expression de «par terre et par mer», réellement ils ne brillent aussi que
+     là, car la disette d’argent est trop grande pour en faire de signifiants sur la soi-disant
+     déclaration du chargé d’affaires <persName ref="people.xml#bud02"> Budberg</persName>, qu’il ne
+     faut pas confondre avec le général de ce nom. Je vous ai mandé déjà qu’il ne l’a jamais donné
+     par écrit, mais que de bouche il a pu dire tout cela, parce que cela lui a été écrit d’ici et
+     on aura recueilli sur papier ses dits.</p>
+    <p>M. <persName ref="people.xml#ale01"> Alexandre</persName> s’est emparé de tous les livres
+     anglais à son choix du <rs ref="people.xml#ogi02"> pair d’Ecosse</rs> emballés dans deux
+     caisses que vous m’avez envoyées. Le sieur <persName ref="people.xml#kon01">
+      Constantin</persName> a eu aussi fouille libre à son choix et a emporté une bonne pacotille;
+     ces deux messieurs ne haïssent pas du tout les livres, et il paraît que leurs lectures
+     prospèrent en eux: ces drôles sont assez instruits pour leur âge, et il ne manquent ni
+     d’esprit, ni de connaissances, ni d’aménité.</p>
+    <p>Réponse au 9, arrivé après le courrier et daté du 21 avril (2 mai) 1796.</p>
+    <p>Ce jour-là, celui de ma naissance, au <placeName ref="places.xml#tau01"> palais
+      Taurique</placeName> il n’y avait que la grande-duchesse <persName ref="people.xml#eli04">
+      Elisabeth</persName>, qui avait mal au pied d’une entorse qu’elle s’était donnée. La fête fut
+     chômée au palais d’hiver le lendemain de Pâques. Or au <placeName ref="places.xml#tau01">
+      palais Taurique</placeName> les fêtes ne sont pas chômées, parce qu’il est sensé se trouver
+     hors de la ville; ceci dit une fois pour toutes pour la commodité souffre-douleurienne.</p>
+    <p>La cour de <placeName ref="places.xml#vie01"> Vienne</placeName> grogne contre la résolution
+     prise par <persName ref="people.xml#lou09"> Louis XVIII</persName> d’aller à l’armée du
+      <persName ref="people.xml#lou10"> prince de Condé</persName>; outre qu’elle grogne toujours et
+     que <persName ref="people.xml#thu02"> Thugut</persName>, en grand politique qu’il est, voit
+     toujours noir et par conséquent midi à 14 heures, on le soupçonne dans ce moment de traitailler
+     avec les régicides; raison de plus donc de grogner. S’il travaille et fait la paix, ce qui est
+     très douteux, car les scélérats pour leur intérêt ne peuvent ni la faire, ni la tenir, ce
+     citoyen <persName ref="people.xml#thu02"> Thug</persName>, ne pourra pas dire, comme <persName
+      ref="people.xml#fra05"> François I</persName>: «Tout est perdu, excepté l’honneur»; la moitié
+     de la phrase leur restera pour récompense. Je vous envoie ci-joint un billet pour le maréchal
+     de <persName ref="people.xml#cas01"> Castries</persName>; si vous le trouvez bon, envoyez-le
+     lui. Adieu, portez-vous bien ; je n’ai pour le moment plus rien à vous dire.</p>
+   </div>
+   <div>
+    <opener><dateline> Се <date when-custom="1796-05-17">17 mai</date> à <placeName
+       ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>.</dateline></opener>
+    <p>Je suis venue ici hier après dîner, et depuis que j’y suis, je ne fais qu’éternuer.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-05-19">19 mai 1796</date>.</dateline></opener>
+    <p>Je trouve une charmante occasion pour vous envoyer cette pancarte. Faites un couvert à ma
+     lettre au maréchal de <persName ref="people.xml#cas01"> Castries</persName>.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

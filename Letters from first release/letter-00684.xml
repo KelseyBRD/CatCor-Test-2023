@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00685</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00684</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-03">03 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00684">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#nov01"
+                                >Новгорода</placeName> <date when-custom="1780-06-11">11
+                            ч. июня 1780,</date>то есть, в четверг</dateline> </opener>
+                    <p>Сюда мы приехали благополучно сего утра в четыре часа, и после обеда уеду
+                        прямо в <placeName ref="places.xml#tsa01">Царское Село</placeName>. Я
+                        здорова и все при мне находящиеся, начав с детей, от тебя мне вверенных.
+                        Весьма желаю знать, батинька, каков ты. Спешу я, чтоб вы меня не упредили в
+                        дороге. Теперь, чаю, я выиграла скоростью. <seg xml:lang="fr">Mon bon
+                            Ami</seg>, пусто без тебя. <seg xml:lang="fr">Je suis charmee de
+                            Vous revoir et je m'en vais ordonner Vos quartiers a Czarsko</seg>
+                        село.</p>
+                    <closer>
+                        <signed rend="inline">Прощай, батинька. Архиерей меня принял без речи, что приписывать
+                            должно его скромности, что безпокоить не хотел посреди ночи. Как-то тамо
+                            Вы поживаете, а ко мне никто о том не пишет.</signed>
+                        </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

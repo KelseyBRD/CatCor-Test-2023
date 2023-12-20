@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02667</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02667</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02667">
+                <body>
+                    <opener rend="right">
+                        <dateline>
+                            <date when-custom="1771-11-25">ce 25 Novembre (6 Décembre)
+                            1771</date>.</dateline>
+                   
+                    <salute rend="inline">Monsieur mon Frère,</salute> </opener>
+                    <p> En répondant à la lettre de Votre Majesté du 30 Septembre, remplie des
+                        témoignages les plus flatteurs de son amitié, je ne puis que Lui exprimer ma
+                        plus vive reconnaissance et mes remercîments très sincères. Je n'y ajouterai
+                        ici que les sentiments qui ne sont point de nature à être traités par nos
+                        ministres. Mon attachement au système de l'intimité de mon union avec Votre
+                        Majesté est aussi vrai que mon amitié pour sa personne est invariable, je
+                        sens une joie sensible toutes les fois que j'ai l'occasion d'en rendre les
+                        intérêts plus importants, plus favorables et plus avantageux à nos deux
+                        états. C'est avec ces sentiments que je fais remettre aujourd'hui au
+                            <persName ref="people.xml#sol01">comte de Solms</persName> les réponses
+                        et les éclaircissements nécessaires pour la <rs ref="events.xml#parti01"
+                            >négociation</rs> qui existe actuellement entre nous; persuadée comme je
+                        le suis de la bonté de la chose, avec satisfaction je regarde déjà cette
+                        affaire comme réglée. Votre Majesté doit être persuadée, qu'il n'y a qu'une
+                        nécessité absolue en conséquence des intérêts fondamentaux de mon empire qui
+                        m'ait empêché de répondre aux désirs de Votre Majesté. </p>
+                    <closer>
+                        <signed>C'est au temps et aux évènements à m'en dédommager, en me mettant en
+                            état de prouver à Votre Majesté que c'est autant sans réserve que
+                            sincèrement et avec la plus haute considération que je suis, Monsieur
+                            mon Frère, de Votre Majesté la bonne Soeur et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

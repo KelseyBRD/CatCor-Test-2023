@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09101</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09101</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-29">2023-06-29</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09101"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-02-08">1789 г. февраля 8.</date>
+                </dateline>
+            </opener>
+            <p>Изготовьте увольнение <persName ref="people.xml#str01">Стрекалова</persName> от <orgName ref="orgs.xml#cabi01">кабинета</orgName> ради возстановления кредита
+                <note type="editorial">
+                    Strekalov's case is described in details in a note on <ref target="letter-00065">the letter from Catherine to A.V. Khrapovitskii from <date when-custom="1789-02-06">February 6 1789</date></ref>
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        , <biblScope unit="pp">pp. 230.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                и запрещение <persName ref="people.xml#kar08">Карадикину</persName>
+                <note type="editorial">
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        (<biblScope unit="pp">pp. 45</biblScope>)
+                    </bibl>
+                    suggests that Karadikin might be the predecessor of <orgName ref="orgs.xml#kara01">actors Karatyginy</orgName> and that Catherine underlines an eastern origin of this name in her spelling. 
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskogo 1782-1793</title>
+                        (<biblScope unit="pp">pp. 515</biblScope>)
+                    </bibl>
+                    refers to him as to Nikolai Matveevich Karadygin, a member of <orgName ref="orgs.xml#cabi01">the Imperial Cabinet</orgName> of Catherine.
+                </note>
+                , чтоб неокладных выдач не производил отнюдь без моего собственнаго подписания, и прикажите, чтоб <rs ref="people.xml#kar08">он</rs> ко мне принес сам счеты долгам и по числам, которые старые, чтоб я могла видеть и приказать, как их платить.</p>
+        </body>
+    </text>
+</TEI>

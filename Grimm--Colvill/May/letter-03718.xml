@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03718</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03718</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:05:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03718">
+  <body>
+
+   <opener><dateline> Се <date when-custom="1795-10-27">27 octobre</date></dateline></opener>
+   <p>Hier arriva le bulletin No 34 et la lettre pour la <persName ref="people.xml#aug07"> princ.
+     héréd. de S.- Cobourg</persName>; elle lui a été remise tout de suite ce matin; elle est partie
+    d’ici pour <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, où elle couchera, et
+    demain elle dine à <placeName ref="places.xml#gat01"> Gatchina</placeName>, d’où elle gagnera la
+    grand route pour l’<placeName ref="places.xml#ger01"> Allemagne</placeName>; elle nous a laissé
+    sa <rs ref="people.xml#ann02"> fille cadette</rs>.</p>
+   <p>Celle-ci a été remise à la <persName ref="people.xml#lie01"> générale Lieven</persName>,
+    gouvernante des grandes-duchesses; elle aura les mêmes maîtres et dînera, soupera et passera la
+    journée avec elles. <seg xml:lang="de"> Also ist alles dieses so gut und häuslich eingerichtet,
+     als nur möglich war. Die Hochzeit wird zu Ende des Winters oder im Frühjahr sein</seg>. Les
+    progrès des Autrichiens nous réjouissent. </p>
+   <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>: le bon
+     Dieu vous bénisse; nous nous portons comme le Pont-Neuf.</signed></closer>
+  </body>
+ </text>
+</TEI>

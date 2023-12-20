@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02713</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02713</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure of reference to Dmitri or Alexis.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-08">08/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:27:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02713">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01">St:Petersb</placeName>. ce <date when-custom="1765-11-28">28 Nov 1765</date>
+   </dateline></opener>
+   <p>Monsieur, ma tête est aussi dure que mon nom
+      est peu harmonieux. Je répondrai par de la mauvaise prose à Vos joli vers.
+     Je n'en ai jamais fait. Je n'en admire pas moins pour cela les Vôtres. Ils m'ont si bien gâté
+     que je ne puis presque en souffrir d'autres; je me renferme dans ma grande ruche, on ne sauroit
+     faire différent métiers à la fois, le mien prend beaucoup de tems, et je trouve ma tête malgré
+     ce que Vous me dites de mon beau nom, si peu docile, si peu flexible, que le nom de Catherine
+     m'est très justement doné. Il harmonie avec l'harmonie de mon génie. S'est feu l'Imp:
+    <persName ref="people.xml#eli02">Elisabeth</persName> à laquelle je dois beaucoup qui m'apella ainsi par tendresse et par respect pour sa
+     Mère.
+   </p>
+   <p>Jamais je n'aurais crue que l'achat d'une Bibliotèque m'attirerait
+     tant de complimens. Tout le monde m'en fait sur celle de M<hi
+     rend="superscript">r</hi> <persName ref="people.xml#did01"> Diderot</persName>,
+     mais avoué, Vous à qui l'humanité en doit pour le soutien que Vous avés doné à l'innocence et à
+     la Vertu dans la persone des <persName ref="people.xml#cal02">Calas</persName>, qu'il aurait été cruel et injuste de séparer un savant
+     d'avec ses livres, et empêche je Vous prie M<hi rend="superscript">r</hi><persName ref="people.xml#ale06">d'alembert</persName> d'être aussi
+     sensible au refus de la pension qui lui est due. S'est une inconséquence qu'il doit mépriser,
+     il a fait des sacrifices bien au delà de cette très modique pension. L'effet de ce refus
+     retombe sur ceux qui le persécutent, ils en souffrent plus que lui.</p>
+   <p>Dmitri, Métropolite de <placeName ref="places.xml#nov01">Novogrod</placeName>,
+     n'est ni persécuteur ni fanatique, il n'y a pas un principe dans le <rs ref="works.xml#pastor01">mandement d'Alexis</rs> qu'il n'avouerait, ne prêcherait et ne publierait dès que cela serai
+     utile ou nécessaire. Il abhore la proposition des deux puissances, plus d'une fois il en a
+     donné des exemples, que je pourrai Vous citer, si je ne craignait de Vous ennuyer. Je les
+     mettrai sur une feuille séparé afin que Vous la brûliés si Vous ne voulés pas la lire.</p>
+   <p>La tolérance est établie chés Nous, elle fait loi de l'Etat, et il
+     est défendu de persécuter. Nous avons il est vrai des fanatiques qui faute de persécution se
+     brûlent eux mêmes, mais si ceux des autres pays en faisait autant, il n'y aurait pas grand mal,
+     le monde n'en serait que plus tranquile et <persName ref="people.xml#cal02">Calas</persName> n'aurait pas été roué. Voilà monsieur les
+     sentimens que nous devons au fondateur de cette Ville, que Nous admirons tous deux.</p>
+   <p>Je suis bien fâchée que Votre santé ne soit pas aussi brillante que
+     Votre esprit, celui çi en donne aux autres. Ne Vous plaignés point de Votre âge, et vivés les
+     anées de Metusalem, dussiés Vous tenir dans le Calendrier la place que Vous trouvés àpropos de
+     me refuser. Come je ne me croi point en droit d'être chantée, je ne changerai pas mon nom
+     contre celui de l'envieuse et jalouse Junon. Je n'ai pas assés de présomption pour prendre
+     celui de Minerve, je ne veux point du nom de Venus, il y a trop sur le compte de cette bonne
+     Dame. Je ne suis pas Ceres non plus, la récolte a été très mauvaise en <placeName ref="places.xml#rus01">Russie</placeName>
+     cette année. Le mien au moins me fait espérer l'intercession de ma <rs ref="people.xml#cat02">Patrone</rs> là
+     où elle est et à tout prendre je le croi le meilleur pour moi, mais en Vous assurant de la part
+     que je prend à ce qui Vous regarde, je Vous en éviteré l'inutile répétition.</p>
+   <p>Le mandement m'a fait ressouvenir de
+      l'honête
+     <rs ref="works.xml#contes02">Antoine Vadé</rs> et de
+      son <rs ref="works.xml#discou01"> discours</rs>.
+   </p>
+  </body>
+ </text>
+</TEI>

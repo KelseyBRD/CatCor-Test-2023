@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02755</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02755</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="lettrerType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Query Achai as Aksay.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:28:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02755">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-07-22">22 Juillet/3 Auguste 1771</date></dateline></opener>
+   <p>Monsieur, je ne saurai mieux répondre à Vos deux lettres du 19 Juin et 6
+     Juillet qu'en Vous mandant que <placeName ref="places.xml#tam01"> Taman</placeName> et
+     trois autres petites Villes, savoir <placeName ref="places.xml#tem01">
+      Temruk</placeName>, <placeName ref="places.xml#aks01">
+      Achai</placeName> et
+      <placeName ref="places.xml#ach01">
+      Atchou</placeName>, situé sur <placeName ref="places.xml#ker01">
+      une grande Isle</placeName> qui forme l'autre côté du détroit de la <placeName ref="places.xml#azo02">
+      Mer d'Asof</placeName> dans la <placeName ref="places.xml#bla01">
+      mer Noire</placeName>, ce sont renduë à mes troupes dans les premiers
+     jours de Juillet. Cet exemple a été suivi par plus
+    de deux cent milles Tartares qui demeurent sur les Isles et sur la Terre ferme.</p>
+   <p>L'Amiral <persName ref="people.xml#sen01"> Sinèvin</persName> qui est sorti avec sa flottille du Canal a
+    donné la charge à quatorze bâtimens enemis pour s'amuser, un brouïllard cependant les a sauvé de
+    ses griffes. N'est-il pas vrai que, voilà bien des matériaux pour corriger les Cartes
+    géographiques? On a entendu nomer dans cette guerre des endroits dont on n'avoit jamais oui le
+    nom çi devant et que les géografes disoit déserts. N'est il pas vrai aussi que je fait des
+    enquêtes come quatres? Vous dirés qu'il ne faut pas beaucoup d'esprit pour s'emparer de Villes
+    abandonées, voilà aussi peut être la raison qui m'empêche d'être come Vous dite d'une fierté
+    insuportable. Apropos de fierté, j'ai envie de Vous faire sur ce point ma confession pleinière.
+    J'ai euë des grands succès durant cette guerre, je m'en suis réjouië très naturellement, j'ai
+    dit, la <placeName ref="places.xml#rus01"> Russie</placeName> sera bien connue par cette guerre, on verra
+    que cette nation est courageuse, infatiguable, qu'elle possède des homes d'un mérite éminent et
+    qui ont toutes les qualités qui forment les Héros, on verra qu'elle ne manque point de
+    ressources, que ses ressources ne sont point usés, mais qu'elle peut ce défendre et faire la
+    guerre avec aisance et vigueur lors qu'elle est attaquée injustement; toute pleine de ses idées,
+    je n'ai jamais fait réflexion à <persName ref="people.xml#cat01"> Caterine</persName> qui à quarante deux
+    ans ne sauroit croitre ni de Corps ni d'esprit, mais qui par l'ordre naturel des choses doit
+    rester et restera come elle est. Par conséquend dont d'où la fierté lui viendroit elle? Ses
+    affaires vont elles bien? Elle dit, tant mieux! Si elles alloit moins bien, J'employerait
+    touttes mes facultées à les remettre dans la meilleure des lisières possible selon mon
+    entendement. Voilà mon ambition et je n'en ai point d'autre. Ce que je Vous dit est vrai. J'irai
+    plus loin, je Vous dirai que pour épargner le sang humain, je souhaite sincèrement la paix, mais
+    cette paix est très éloigné encore quoique les Turks par d'autre motifs la souhaitent ardament.
+    Ses gens là ne savent pas la faire. Je désire également la pacification des querelles
+    déraisonables de la <placeName ref="places.xml#pol01"> Pologne</placeName>, j'ai à faire là à des têtes
+    écervelées dont chaqu'une au lieu de contribuer à la paix comune, bien au contraire y nuit par
+    caprice et par légèreté.</p>
+   <p><rs ref="people.xml#sal02"> Mon Ambassadeur</rs> a publié une déclaration qui devrait leur ouvrir les
+    yeux et les ramener à la raison si ils en sont susceptible, mais il est à parier qu'ils
+    laisseront venir les dernières extrêmités avant que de ce porter à choisir un parti sage et
+    convenable. Les tourbillons de <persName ref="people.xml#des02"> Descartes</persName> n'existèrent jamais
+    qu'en <placeName ref="places.xml#pol01"> Pologne</placeName>, là chaque tête est un tourbillon qui tourne
+    continuellement autour d'elle même et qui n'est arrêté quelquefois que par hazard, mais jamais
+    par la raison ou le jugement.</p>
+   <p>Je n'ai point encore reçues ni Vos<rs ref="works.xml#questi02">
+     questions</rs>, ni Vos montres de
+     <placeName ref="places.xml#fer01"> Ferney</placeName>. Je ne doute point que l'ouvrage de Vos fabriquant ne
+    devienent parfait puisqu'ils ce font sous Vos yeux Monsieur. Je me flate que le Carillon qu'ils
+    feront pour <placeName ref="places.xml#sop01"> Ste: Sophie</placeName> lorsque nous l'aurons sera leur chef
+    d'œuvre, seulement je ne voudroit pas qu'ils y plaçassent <persName ref="people.xml#con03">
+     Constantin</persName> et <persName ref="people.xml#hel01"> Ste: Helene</persName> sa mère, parce que come
+    chef de <rs ref="orgs.xml#gree01">l'Eglise grecque</rs> je n'aimerait pas à voir des persones come celle
+    là occuper les mêmes plaçes qu'on done souvent aux coqs et au coucou, Il est vrai que les uns y
+    sont à peu près aussi déplaçées que les autres, mais au moins ses derniers indiquent t'ils
+    l'heure tandis que je ne sai pas trop ce qu'on pourroit prétendre des autres dans un Carrillon.
+    Ne grondés point Vos Colons de m'avoir envoyé un surplus de montres, cette dépense ne me ruinera
+    pas, il serait bien malheureux pour moi, si j'étois réduite à n'avoir pas à point nomée d'aussi
+    petite somes chaque fois qu'il me les faudra. Je Vous prie de ne pas juger de mes finançes
+    d'après celles des Etats ruinés de l'<placeName ref="places.xml#eur01"> Europe</placeName>, Vous me feriés
+    tort; quoique nous ayons la guerre depuis trois ans, nous bâtissons et tout le reste va come en
+    pleine paix, et il y a deux ans qu'aucun nouvel impôt n'a été imposé. La guerre présentement a
+    son état fixé une fois réglé qui ne dérange en rien les autres parties; si nous prenons encore
+    un ou deux <placeName ref="places.xml#feo01"> Kafa</placeName> la guerre est payé. Je serai contente de moi
+    chaque fois que j'aurai Votre aprobation.</p>
+   <p>J'ai aussi reçuë mon <rs ref="works.xml#nakazk01">instruction</rs> pour
+    le Code il y a quelque semaines, parceque je croyois alors la paix plus proche qu'elle ne l'est,
+    et j'ai trouvé que j'avais raison en l'écrivant. J'aouë que le Code pour lequel beaucoup de
+    matériaux ce préparent et d'autres le sont déjà, me donera encore bien de la tablature avant
+    qu'il parviene au degré de perfection où je souhaite de le voir, mais n'importe, il faut qu'il
+    soit fait.</p>
+   <p>Quoique <placeName ref="places.xml#tag01"> Taganrok</placeName> aye la mer au midi et des hauteurs au
+    nord, cependant Vos projets sur cette plaçe ne pourront avoir lieu avant que la paix n'aye
+    assuré ses environs contre toute apréhension du côté de la terre et de la Mer, car jusqu'à la
+    prise de la <placeName ref="places.xml#cri01"> Crimée</placeName> s'étoit la place frontière Vis à Vis des
+    Tartares. Peut être m'a mènera t'on ici dans peu le Chan de <placeName ref="places.xml#cri01">
+     Crimée</placeName> en persone, dans ce moment j'aprend qu'il n'a pas passé la mer avec les Turks
+    mais qu'il erre encore dans les montagnes de la <placeName ref="places.xml#cri01"> Crimée</placeName> avec
+    une très petite suite, à peu près come le prétendant en <placeName ref="places.xml#sco01">
+     Ecosse</placeName> après la défaite de <rs ref="works.xml#cullod01">Culloden</rs>. S'il me vient nous
+    travaillerons à le dégourdir cet hiver et pour me vanger de lui je le ferai danser et il ira à
+    la Comédie Française. Adieu Monsieur, continués moi Votre amitié et soyés assurés des sentimens
+    que j'ai pour Vous.</p>
+   <p>J'allai fermer cette lettre lorsque je reçois la Vôtre du 10 Juillet dans laquelle Vous me
+    mandé l'avanture arrivé à mon instruction en <placeName ref="places.xml#fra01"> France</placeName>. Je
+    savais cette anecdote, mais avec l'apendix que s'étoit en conséquence de l'ordre du
+     <persName ref="people.xml#cho03"> Duc de Choiseuil</persName>. J'avouë que j'en ai ris quand je l'ai luë
+    dans les gazettes, et j'ai trouvée que j'étois assés vangée.</p>
+   <p>L'incendie arrivée à <placeName ref="places.xml#pet01"> St:
+      Petersbourg</placeName> a consumées en tout 140 maisons selon les raports de la police parmi
+     lesquelles il y avoit une vingtaine bâti en pierre, tout le reste n'étois que des baraques de
+     bois. Le grand vent avoit l'incendie le lendemain et lui donna un air surnaturel, mais il n'est
+     pas douteux que le vent et l'exeçive chaleur ont causé tout le mal, qui sera bientôt réparé.
+     Chés nous on construit avec plus de célérité que dans aucun pays de l'<placeName ref="places.xml#eur01">
+      Europe</placeName>. L'anée 1762 il y eut une incendie deux fois aussi
+     considérable qui consuma un grand quartier bâti en bois, il fut reconstruit en briques en moins
+     de trois ans. Vous voudréz bien que je Vous réitère mes remercimens pour toutes les amitiés que
+     Vous me témoignée.</p>
+  </body>
+ </text>
+</TEI>

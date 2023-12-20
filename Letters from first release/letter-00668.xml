@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00668</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00668</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00668">
+                <body>
+                    
+                    <p>Le petit <persName ref="people.xml#bob01">Bo[brinski]</persName> dit que
+                            <seg xml:lang="ru">Катенька</seg> a plus d'esprit que toutes les
+                        autres femmes et filles de la ville. On a voulu savoir sur quoi il fondoit
+                        cette opinion, il a dit que cela seul le prouvoit a son avis qu'elle mettoit
+                        moins de plumes, de rouge et de bijou que les autres. А l'opera il a pense
+                        casser la grille de sa loge parce qu'elle l'empechoit de voir <seg
+                            xml:lang="ru">Катенька</seg> et d'en etre vu; enfin il a reussi je
+                        ne sais comment a agrandir un des carreaux de la grille et alors -- adieu
+                        l'opera, il ne faisoit plus d'attention; il s'est defendu comme un lion hier
+                        contre le <persName ref="people.xml#orl01">Pr[ince] Or[loff]</persName> qui
+                        vouloit le turlupiner sur la passion; il lui a repondu a la fin avec tant
+                        d'esprit qu'il l'а fait taire, car il lui a dit que <seg xml:lang="ru"
+                            >Катенька</seg> n'etoit point la cousine germaine.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

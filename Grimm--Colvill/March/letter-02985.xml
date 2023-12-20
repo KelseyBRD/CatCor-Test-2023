@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02985</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02985</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:03:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02985">
+  <body>
+ 
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarskoé-sélo</placeName>, ce <date when-custom="1776-06-02">2 juin 1776</date>.</dateline></opener>
+   <p>Votre No 29 est arrivé deux jours après vos gants, qui depuis le moment de leur déposition
+    dans ma chambre traînaient sur un grand sopha turc où ils amusaient infiniment les petits-fils
+    de sir <persName ref="people.xml#tho01"> Tom Anderson</persName> et surtout lady Anderson, qui
+    est une jeune merveille de cinq mois, et à cet âge elle réunit en elle toutes les vertus et les
+    vices de toute son illustre race. Déjà à l’heure qu’il est elle déchire tout ce qu’elle trouve,
+    s’élance et mord les jambes de ceux qui entrent dans ma chambre, chasse oiseaux, mouches, cerfs
+    et tel autre animal quatre fois plus grand qu’elle, et fait à elle seule plus de bruit que ses
+    frères, soeurs, tante, père, mère, aïeul et bisaïeul: c’est un meuble utile et nécessaire dans
+    une chambre, car elle s’empare de toutes les inutilités qu’on aurait pu emporter sans déranger
+    le train ordinaire de ma vie.</p>
+   <p>Grand merci pour ces gants: comme vous voyez, ils ne serviront point pour les grandes
+    cérémonies. Lady Anderson jusqu’ici n’est pas parvenue à dépaqueter les gants de couleur
+    destinas pour les déjeûners, car ils ne se sont point encore présentés à mes yeux; je m’en vais
+    les soustraire à ses amusements, et je m’en parerai demain pour le retour de <placeName ref="places.xml#pet02">
+    Péterhof</placeName> et d’ <placeName ref="places.xml#ora01"> Oranienbaum</placeName> du <persName ref="people.xml#hen02">prince Henri</persName>: depuis lundi il y est allé en
+    compagnie du <persName ref="people.xml#pau01"> grand-duc</persName>.</p>
+   <p>Si vous arrivez à <placeName ref="places.xml#ber01">Berlin</placeName> à la fin de juillet, vous pourrez y trouver des gens
+    qui vous amèneront ici le plus commodément du monde. Le <persName ref="people.xml#hen02"> prince
+     Henri</persName> part d’ici le 15 de ce mois ; vous saurez dans peu le pourquoi de tout cela.
+    L’homme propose et Dieu dispose; vous verrez que cette année sera surnommée l’année des faux
+    calculs par la volonté du Tout-Puissant.</p>
+   <p>Je sais bien pourquoi vous avez tant pensé à moi pendant votre séjour à <placeName ref="places.xml#rom03">Rome</placeName>:
+    c’est parce que vous avez trouvé si peu d’anciens Romains là-bas; cela vous a retracé le
+    souvenir de l’âme la plus républicaine que vous connaissiez, et par hasard c’est moi. Je ne
+    réponds jamais aux jérémiades; il ne faut guère penser aux choses auxquelles il n’y a pas à
+    remédier, et voilà pourquoi je passe sous silence deux immenses pages de votre dépêche. Il est
+    vrai que vous m’accommodez aussi joliment quelquefois. La dernière fois vous m’avez comparé au
+    mont Vésuve; présentement je suis un phénomène; du moins n’est-il pas grand, car Mimi et moi,
+    nous ne tenons dans ce moment que sur un espace d’une archine. Allons donc, ne criez pas si fort
+    sur ma santé: je me porte à merveille, je me baigne dans l’eau froide, et vous savez qu’avec ce
+    remède universel, aussi longtemps qu’on se baigne, on n’est pas mort.</p>
+   <p>Pour mes nouveaux règlements, je puis vous en donner; car depuis huit jours je les possède
+    imprimés en allemand. Je m’en vais les adresser à <placeName ref="places.xml#vie01">Vienne</placeName> au <persName
+     ref="people.xml#gol03">prince Galitzine</persName>; vous pourrez vous en réjouir là-bas. <seg xml:lang="de">Ist der Herr ein Herrnhuter geworden, das er so viel zu
+     thun hat mit dem neuen Jerusalem</seg> ? Le <persName ref="people.xml#hen02"> prince
+     Henri</persName>, je crois, s’ennuie ici à mourir pour cette fois, quoique par politesse il ne
+    veuille pas en convenir, car <rs ref="events.xml#natal01">la catastrophe</rs>
+    dont je vous ai parlé dans ma précédente nous a rendus tous on mornes ou fort occupés. Or donc,
+    on pense peu aux amusements, et tout se borne à des promenades dans mon éternel jardin (dont je
+    raffolle, car la plantomanie me tient plus fortement que jamais), à quelque comédie, concert, et
+    pas une fête; nous jasons quelquefois, mais je ne sais, je ne me sens pas en fond pour le
+    présent pour l’amuser. Adressez par un marchand à <persName ref="people.xml#fre03"> M. le baron
+     Fredriks</persName> la fameuse écritoire et qu’elle vienne à la nage, si elle peut, à
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, quand elle pourra, ou bien aussi
+    donnez-la au <persName ref="people.xml#bar02"> prince Bariatinski</persName>, qui saura bien
+    comment l’envoyer: n’y a-t-il pas assez de nos gens à <placeName ref="places.xml#par01">Paris</placeName> qui auraient besoin de
+    venir chez eux mettre ordre à leurs affaires? </p>
+   <closer><signed rend="inline">Adieu, seigneur ministre plénipotentiaire. Portez-vous bien. J’ai vu <title ref="works.xml#barbie01">le barbier de Séville</title>, j’ai ri à me tenir les côtés,
+    cela est…</signed></closer>
+  </body>
+ </text>
+</TEI>

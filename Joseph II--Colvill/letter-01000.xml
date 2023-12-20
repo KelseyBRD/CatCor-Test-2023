@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01000</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01000</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-24">24-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:30:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01000">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pol02">
+     Polotzk</placeName>, ce <date when-custom="1780-05-19">19 mai 1780</date>.</dateline></opener>
+   <p>J’éprouve en ce moment qu’il n’y a rien de plus difficile que de dissimuler les sentiments de
+    la joie. Le nom seul de Monsieur le <rs ref="people.xml#jos01"> comte de Falkenstein</rs>
+    inspire une telle confiance que j’ose espérer que ce ne sera point lui manquer que de rompre un
+    instant un silence trop rigoureux pour moi. Je l’avoue, il m’est impossible de savoir son
+    heureuse arrivée dans mes Etats, et de ne pas lui témoigner la reconnaissance et l’allégresse
+    que je ressens du bonheur qu’il me procure. Le prince <persName ref="people.xml#pot01">Potemkin</persName> que je charge de
+    ces lignes, pourra l’assurer que plus j’approche de <placeName ref="places.xml#mog01">
+     Mohilew</placeName>, et plus mon impatience augmenterait sans doute de pouvoir lui prouver les
+    sentiments qui lui sont dûs à tant d’égards, et ceux dont mon âme est remplie. Mais je les
+    renfermerai en moi et ne serai occupée qu’à me conformer aux volontés de celui .... qu’il m’est
+    défendu de nommer. Puissé-je du moins par là le convaincre de ma déférence, de la très-haut
+    considération et de l’amitié sincère de</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

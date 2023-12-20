@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08210</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08210</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-31">31-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:16:53Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08210">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, ce <date
+      when-custom="1771-03-12">12/23 mars 1771</date>.</dateline></opener>
+   <p>J'ai reçu de la part de V. A. R. deux cadeaux à la fois, Sa lettre du 1 de mars et l'incluse
+    qu'elle contenait. L'une et l'autre m'ont fait un très grand plaisir, j'y ai reconnu les traits
+    de cette amitié qu'Elle a bien voulu me marquer pendant le court séjour qu’il Lui a plu de faire
+    ici. Je La prie d’être persuadée que j'en connais le prix, la mienne Lui est toute acquise. J'y
+    ajoute des obligations bien réelles pour tous les soins que V. A. R. a donnés à mes affaires, en
+    un mot, <rs ref="events.xml#henry01"> Son séjour</rs> en ce pays ne s'effacera jamais de mon
+    esprit. J’ai partagé les fatigues du terrible voyage qu'Elle a fait, je félicite très
+    sincèrement V. A. R. de Son heureux retour à <placeName ref="places.xml#ber01"
+     >Berlin</placeName> et me réjouis d'apprendre que Sa santé n’a point été dérangée par la saison
+    et les mauvais chemins.</p>
+   <p>La réponse du <title ref="works.xml#epitre03"> roi de la <placeName ref="places.xml#chi02"
+      >Chine</placeName></title> est charmante. Que ce <title ref="works.xml#epitre03"
+     > roi roi de la <placeName ref="places.xml#chi02">Chine</placeName></title> est heureux de ce que les <rs
+     ref="people.xml#vol01"> plus grands écrivains de notre siècle</rs> lui donnent autant d'esprit,
+    je dois convenir aussi que personne n'en avait plus besoin que lui. J'ai l'honneur d'être sa
+    plus proche voisine, j'ai eu celui de traiter des affaires avec lui, où <persName
+     ref="people.xml#qia01"> S. M. Manchou-Chinoise</persName> montrait beaucoup moins d’esprit et
+    de connaissance de l’intérêt de son état, que d'entêtement, de tyrannie et d'impolitesse. V. A.
+    R. dira que je suis ingrate de parler aussi librement d'un empereur de la <placeName
+     ref="places.xml#chi02"> Chine</placeName> qui dans ses beaux vers me dit autant de choses
+    flatteuses. J'avoue que les éloges seuls me feraient beaucoup soupçonner que mon voisin
+     du <placeName ref="places.xml#lev01">Levant</placeName> n'y a aucune part, tout honnête Chinois
+    méprise ce qui n'est pas de son pays. J'adresse donc ma gratitude vers le Couchant à l'illustre
+    auteur qui a fait parler l'empereur de la Chine comme celui-ci n'a jamais eu l'idée de penser.
+    Je l'adresse encore à V. A. R. de ce qu'Elle m'a communiqué cette pièce.</p>
+   <p>Dans peu j'espère pouvoir Lui tenir ma parole. Elle a souhaité de voir le comte <persName
+     ref="people.xml#orl03"> Alexis Orlof</persName>. Il est venu ici de <placeName
+     ref="places.xml#liv01"> Livourne</placeName>, il va repartir et fera sa cour à V. A. R. en
+    repassant par <placeName ref="places.xml#ber01">Berlin</placeName> où, si Elle le lui permet, il
+    ira La trouver à <placeName ref="places.xml#rhe01"> Rheinsberg</placeName>.</p>
+   <p>V. A. R. sait que j'évite volontiers de parler d'événements tristes. Cependant je ne peux
+    m'empêcher de Lui dire la peine infinie que j’ai sentie de la mort inopinée du <persName
+     ref="people.xml#ado01"> Roi</persName> de <placeName ref="places.xml#swe01">Suède</placeName>.
+    L'état de la <rs ref="people.xml#lou05"> Reine</rs> m'inquiète beaucoup, on m'écrit que cette
+    princesse est inconsolable; je partage vivement sa douleur et je n'ai pu m'empêcher de mêler ma
+    sensibilité à celle de V. A. R., je connais la bonté de Son cœur.</p>
+   <p>C'est avec bien de la satisfaction, que je recevrai toujours Ses lettres, mon exactitude à y
+    répondre Lui témoignera que je suis ...</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01175</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01175</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Испаган - Isfahan in Iran?</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-23"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01175">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>При сем посылаю к Вам ответное мое письмо к <persName ref="people.xml#chr01">Королю
+                    Датскому</persName>; естьли Вы думаете, что оное письмо над его поведением не
+                сделает импрессии и оно не нужное, то лутче изволь изодрать оное, ибо я сама
+                недовольна сим письмом. Вчерашний день я сюда приехала к обеду со всею свитою в
+                добром здоровье и думала найти, или получить от Вас, известие о состоянии <persName
+                    ref="people.xml#pau01">сына</persName> моего, ибо от Вас окроме одного письма не
+                имею; однако <persName ref="people.xml#che03">Гр. Ив. Чернышев</persName> сказал
+                мне, что во вторник у Вас все здорово было, и так надеюсь на Бога, что все
+                благополучно. <placeName ref="places.xml#pet01">Петербург</placeName> раем кажется в
+                разсуждении Испагана, а особливо дворец. <persName ref="people.xml#pau01"
+                    >Сыну</persName> моему прошу кланяться.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+            <dateline>Из <placeName ref="places.xml#pet01">С.-Петербурга.</placeName><lb/>
+                <date when-custom="1768-01-27">27 числа Генваря, 1768.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

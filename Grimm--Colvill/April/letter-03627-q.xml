@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03627</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03627</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) I could not find the name of Euler’s youngest son
+     – it might be Daniel, but I could not find any specific information (2) I could not find any
+     reliable info on the mad. de Seckendorf née Gronsfeld mentioned (3) I coded M Romme as Charles
+     Gilbert Romme, as he seemed to fit the timeframe, but there isn’t a lot of other evidence to
+     support this</p><p>Emma - not sure if datelines are openers or closers</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-14">14-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:50:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03627">
+  <body>
+<div>
+   <opener><dateline>Ce <date when-custom="1785-10-28">28 octobre 1785</date>.</dateline></opener>
+   <p>Votre No 86 m’est parvenu aujourd’hui à 9 heures du matin; grâce à vos soins, j’apprends à
+    connaître les noms de tous mes courriers, que j’aurais très parfaitement ignorés sans vous; or
+    donc, celui qui vous arriva de nuit nous est arrivé à la pointe du jour. Mais il n’a qu’à aller
+    se reposer, et moi je m’en vais commencer à répondre au seigneur <rs ref="people.xml#gri01">
+     souffre-douleur</rs>, après avoir eu une longue conférence au sortir de l’ <placeName
+     ref="places.xml#her01"> hermitage</placeName> avec le Sr <persName ref="people.xml#qua01">
+     Quarengi</persName>, qui a été chargé par moi ce jour d’hui à quatre heures de l’après-midi de
+    faire faire, pour être placées dans les jardins de <placeName ref="places.xml#pel01">
+     Pella</placeName>, les trois colonnes de marbre blanc, seul et remarquable reste du temple de
+    Jupiter tonnant; voilà une fantaisie qui m’a prise depuis trois jours, où j’ai comme une espèce
+    de fièvre pour ces trois colonnes que je veux voir exécutées dans toute leur grandeur et beauté.
+     <seg xml:lang="de"> Was sagen Sie davon? Wenn ich höfe werde, so könnten wohl aus diesen drei
+     mehrere werden, aber drei zur Probe ist genung</seg>. Ce <persName ref="people.xml#qua01">
+     Quarenghi</persName> nous fait des choses charmantes: toute la ville déjà est farcie de ses
+    bâtiments; il bâtit la banque, la bourse, des magasins eu quantité, des boutiques et des maisons
+    particulières, et ses bâtiments sont ce qu’il y a de mieux. Il m’a fait un théâtre à l’
+     <placeName ref="places.xml#her01"> hermitage</placeName>, qui sera fini en quinze jours, qui
+    intérieurement est charmant à l’oeil; il peut y tenir deux à trois cents personnes, ma pas plus:
+    c’est aussi le bout du monde pour l’ <placeName ref="places.xml#her01"> hermitage.</placeName></p>
+   <p>Mais voyez un peu comme je réponds à votre lettre qui traite du voyage de <placeName ref="places.xml#mos01">
+    Moscou</placeName>. Eh bien, monsier le pleureur de profession, vous auriez donc pleuré, et moi je regarde
+    cela d’un oeil sec? mais pour qu’il reste tel, savez- vous ce que je fais dans ces occasions? Je
+    n’y pense pas, et comme de mon naturel je suis mouton, je rêve à la moutonne, et cela me tire
+    d’affaire; faites comme cela en pareil cas, entendez-vous? et vous ne pleurerez pas.</p>
+   <p>Pour monsieur le <rs ref="people.xml#vya01"> procur.-général</rs>, il ne se plaint plus
+    d’aucune donnerie: il y est si accoutumé que présentement il donne de la meilleure grâce du
+    monde, et projette souvent lui-même des moyens de vider ses caisses; mais il y a de petites
+    raisons à cela, car, comme ses moyens sont augmentés d’un tantinet, ses difficultés ont diminué,
+    car nous nous piquons d’être infiniment raisonnable, et toutes les égratignures de la plume
+    médisante du <rs ref="people.xml#gri01"> souffre-douleur</rs> ne nous causent ni chagrin ni
+    peine; il faut le laisser dire et lui accorder son franc-parler, comme à la ville
+    de <placeName ref="places.xml#mos01"> Moscou</placeName>, et aller son train. Jamais, au grand jamais nous n’avons prêté à usure.
+    Dites-moi, je vous prie, le <rs ref="people.xml#lou01"> roi très chrétien</rs> prête-t-il à
+    usure aux Hollandais quand il se charge de la moitié de la dette de ce que ceux-ci doivent payer
+    à l’<rs ref="people.xml#jos01"> empereur</rs>? <seg xml:lang="de"> Das unparteiische Publikum
+     raisonnirt viel ungekautes Zeug.</seg></p>
+   <p>Qu’est-ce que vous trouvez à redire à mes lettres au <persName ref="people.xml#bru02"> comte
+     de Bruce</persName>? Ne fallait-il pas lui dire quelque chose sur le comment des choses, et
+    vouliez- vous faire de moi un monstre muet? Ce n’est pas ma faute s’il a plu à M.
+    de <persName ref="people.xml#seg01"> Ségur</persName> de faire gazouiller vos belles dames; mais ce dont je suis bien aise,
+    c’est qu’il ne s’est pas ennuyé pendant un mois qu’il a été avec nous.</p>
+   <p>Cette fabrique de <placeName ref="places.xml#ses02"> Systerbäck</placeName> est une
+    manufacture d’armes et d’autres ferrailleries, comme des grilles, des lits de fer etc. ; elle
+    est située sur le nouveau chemin de <placeName ref="places.xml#wib01"> Wibourg</placeName>, en
+    delà de la rivière; pour rapprocher <placeName ref="places.xml#wib01"> Wibourg</placeName> de
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName> nous faisons un second pont de
+    bâteaux par dessus la <placeName ref="places.xml#nev01"> Néva</placeName> plus haut que la
+    fonderie; le <persName ref="people.xml#mol01"> général Müller</persName>, commandant
+    l’artillerie, a l’inspection de cette manufacture, qui jusqu’ici a toujours été dépendante du
+    département de l’artillerie; le fils cadet de feu <persName ref="people.xml#eul01">
+     Euler</persName> en a la direction. Vous voilà bien an fait de ce qui ne peut vous servir de
+    rien.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-10-29">29 octobre</date>. </dateline></opener>
+   <p>Par les lettres que M. de <persName ref="people.xml#seg01"> Ségur</persName> à écrites à <rs ref="people.xml#seg02"> sa
+     femme</rs> et dont vous m’envoyez des extraits, je vois qu’il ne s’est point ennuyé et qu’il a
+    vu les choses sans bile ni humeur. Je ne sais pas si ses deux camarades ont fait des gazettes
+    aussi, mais ce que je sais, c’est qu’ils étaient très gais. Dieu merci que je n’ai jamais été
+    dans le cas d’avoir à faire à un cardinal mystifié; à présent j’ai un exemple devant moi comment
+    m’y prendre, si pareil cas m’arrive; mais ce pauvre diable mystifié pourtant n’a pas volé, et
+    même s’il était coupable, comme la punition a précédé le procès, je le tiens quitte de toute
+    autre, car cette correction d’être enfermé à la bastille et d’essuyer un jugement, en est une
+    bien forte. <seg xml:lang="it"> Ma</seg> s’il est dupe seulement? Est-ce chez vous un crime que
+    d’être dupe? Oh! qu’il y aura de criminels, si les dupes le sont. Pardonnez-le moi, si je
+    soupçonne le <persName ref="people.xml#bre02"> baron de Breteuil</persName> d’avoir conseillé
+    cet arrêt; je connais mon homme, mais sur ce point on fait bien de ne jamais conseiller aux rois
+    de se hâter: <seg xml:lang="de"> Das kommt immer früh genug und man könnte die Zeit nehman wenn
+     alle Leute geschrieen hatten, daß es so sehn müßte und sollte</seg>. J’ai souvent fait en
+    pareil cas le nigaud; je n’y comprends rien, et alors le meilleur avis des autres et qui mettait
+    le plus la justice et la raison de mon côté, était celui qui me déterminait, et pourtant, cette
+    égide devant moi, je marchais à travers les ronces et les épines du métier. Je n’ai jamais
+    entendu parler du collier de <persName ref="people.xml#boe01"> Boehmer</persName>, et quand même
+    je ne l’aurais pas acheté, il y a dix ans qu’il avait envoyé ici des pendants d’oreilles que
+    j’ai refusés tout net. A la lettre, il y a très longtemps que je n’achète plus des diamants.
+    J’ai dit sur l’ <name ref="events.xml#neckl01"> affaire du <persName ref="people.xml#roh02"> cardinal de
+     Rohan</persName></name> précisément ce que vous dites; on le croit généralement dupe, et non fripon; il
+    n’y a que la friponnerie des <persName ref="people.xml#roh01"> Guimené</persName> qui lui donne
+    un air louche aussi.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-10-30">30 d’octobre</date>. </dateline></opener>
+   <p>L’on dit que le <persName ref="people.xml#roh02"> cardinal</persName> voyait toute sa vie
+    mauvaise compagnie, qu’il en était toujours entouré, par conséquent il lui était plus aisé d’en
+    être trompé. La <persName ref="people.xml#ele01"> belle Hélène</persName> au lieu d’avoir un
+    collier, a été sevrée ces jours passés, et malgré cela elle est gaie comme un pinson et très
+    bien portante, et avec cela belle comme le jour. Si <persName ref="people.xml#roh02"> M. le
+     cardinal de Rohan</persName> croit et voit tout ce que <persName ref="people.xml#cag01">
+     Cagliostro</persName>, prétendu fils d’Enoch, lui fait accroire, on fera bien de le faire
+    saigner, et je ne m’étonne plus du tout qu’il ait été la dupe de <persName
+     ref="people.xml#mot01"> Mad. de la Moche</persName> et consorts, car cet homme est né dupe et
+    fou à lier, tout archevêque de Strasbourg et prince du Saint-Empire qu’il est.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-01">1 novembre</date>. </dateline></opener>
+   <p>Votre comparaison du moucheron et de l’aigle ne peut aller: nous sommes hommes, et puis c’est
+    tout, et entre nous il n’y a que de l’hommerie; au lieu de me dire ce que vous pensez sur toutes
+    paperasses que mon voyage a produites, vous me régalez de cette comparaison, mais comparaison
+    n’est pas raison, à ce que disait <persName ref="people.xml#car01"> mademoiselle
+     Cardel</persName> de glorieuse mémoire. Je commence à croire, d’après ce que vous me dites, que
+    l’on ne sait jamais où l’on en est avec vous, que vous pleurez quand on veut vous faire rire, et
+    que vous riez de ce qu’on vous dit avec le plus grand sérieux. Ma santé est bonne, et je n’ai
+    jamais consulté ni médecins ni charlatans. <seg xml:lang="de"> Krippenbeißer</seg>, traduit en
+    français, pourrait être gruge-crêche ou ronge-crêche; il y a un mois à peu près que ce <seg
+     xml:lang="de"> Krippenbeißer</seg> est parti: en vérité, cet homme-là était la bile incarnée;
+    il servait son maître non pas avec zèle, mais avec rage; cela s’étudie à être méchant; si c’est
+    là faire sa cour, en vérité il n’y a sorte de récompense qu’il ne mérite; ne m’a-t-il pas dit à
+    moi-même des horreurs de la pauvre <persName ref="people.xml#aug01"> Zelmire</persName>? Il faut que sa femme soit aussi
+    méchante que lui, car elle a tâché par tous les moyens possibles de la desservir près de sa
+    belle-mère, et c’est <rs ref="people.xml#pau01"> mon fils </rs>et ma <rs ref="people.xml#mar02">
+     belle-fille </rs>qui ont démasqué cette vilaine femme et l’on fait renvoyer de
+    chez <persName ref="people.xml#aug01"> Zelmire</persName>.</p>
+   <p>Vous aurez pour sûr un exemplaire du vocabulaire dans toutes les langues.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-02">2 novembre</date>. </dateline></opener>
+   <p>Je vous suis bien obligée et à M. de <persName ref="people.xml#seg01"> Ségur</persName> aussi, si vous me donnez la
+    préférence sur mon cher voisin <persName ref="people.xml#abd01"> Abdoul Hamet</persName>, le
+    coupeur de têtes; morgué, le soutiendra qui voudra, en temps et lieu nous verrons. Je vous prie
+    instamment, encore une fois, de laisser mon ignorance intacte. Le <persName
+     ref="people.xml#nar02"> gr. écuyer Narichkine</persName> et moi, nous sommes des ignorante de
+    profession, et nous faisons enrager avec notre ignorance le <persName ref="people.xml#shu02">
+     gr. chambellan Schouvalof</persName> et le <persName ref="people.xml#str01"> comte
+     Stroganof</persName>, qui tous les deux sont membres de 24 académies au moins, et nommément de l’
+     <orgName ref="orgs.xml#acad02"> Académie Russe</orgName>; or, en partie pour les faire endever
+    et leur montrer qu’ils sont obligés de régler leur dictionnaire russe d’après l’avis des
+    ignorants, nous avons rassemblé le vocabulaire en Dieu sait combien de langues, et cet ouvrage
+    est l’ouvrage des <seg xml:lang="it"> ignorantissimi bambinelli</seg>.</p>
+   <p>Si j’ai été beaucoup par voie et par chemin cet été, je suis très ambulante encore cet
+    automne, car depuis le jour que je suis revenue en ville, je me lève tous les matins à six
+    heures, je bois une tasse de café, et puis je m’enfuis à l’ <placeName ref="places.xml#her01">
+     hermitage</placeName>, et là, depuis six jusqu’à neuf, je suis à tourner et retourner un
+    salmigondis que j’ai nommé extrait; puis vient <rs ref="people.xml#bez01"> sire factotum</rs> et
+    tous les factotums; à onze je reviens dans mes chambres pour m’habiller et jouer avec la cohorte
+    des petits-fils et filles; quand je suis habillée, je retourne diner à l’ <placeName
+     ref="places.xml#her01"> hermitage</placeName>. Après dîner je retourne dans mes appartements,
+    et de là de rechef à l’ <placeName ref="places.xml#her01"> hermitage</placeName>, où je commence
+    par donner des noisettes à un écureuil blanc que j’ai apprivoisé moi-même; ensuite je joue
+    plusieurs parties au billard; puis je vais voir mes pierres gravées ou bien des estampes, ou je
+    rôde entre les tableaux, après quoi je vais rendre visite à un singe charmant que 'j’ai et que
+    je ne vois jamais sans qu’il ne me fasse rire, tant il est fou. A quatre heures je reviens dans
+    mes chambres; je lis on j’écris jusqu’à six; à six heures je sors dans mon antichambre, avec
+    laquelle je suis raccommodée; à huit je monte dans mon entre-sol où me vient compagnie plus
+    choisie; à onze je me couche. A présent vous pouvez me suivre pas à pas tout l’hiver, si l’envie
+    vous en prend.</p>
+   <p>Si messieurs les ministres de poche ont été tirés de leur remise pour venir à <placeName ref="places.xml#tsa01">
+    Tsarsko-Sélo</placeName>, c’était afin de leur tenir parole, donnée chemin faisant, non seulement de leur
+    montrer <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> dans le plus grand détail, mais encore de les mener avec moi
+    voir la belle et agréable situation de <placeName ref="places.xml#pel01"> Pella</placeName>, et
+    les dîners et les soupers chez les <persName ref="people.xml#nar02"> Narischkine</persName>
+    étaient inévitables aussi; ainsi tout cela est très fort en règle, malgré toutes les clameurs de
+    ronge-crêche. Je vous jure qu’à la lettre je ne sais ce que le <persName ref="people.xml#anh01">
+     comte d’Anhalt</persName> est devenu; <rs ref="people.xml#bez01"> factotum</rs> a votre lettre
+    pour lui, mais il ne sait pas plus que moi où l’adresser. Il pourrait fort bien avoir passé le
+     <placeName ref="places.xml#cau02"> Caucase</placeName> et se trouver en <placeName
+     ref="places.xml#geo01"> Géorgie</placeName> à la cour du roi <persName ref="people.xml#her03">
+     Héraclius</persName>; je ne jure pas pour lui que l’aventure ne l’ait tenté et qu’à l’heure
+    qu’il est il ne soit entouré des plus belles Géorgiennes possibles. <persName ref="people.xml#aug01"> Zelmire</persName> et <rs
+     ref="people.xml#fri06"> son bourru</rs> sont revenus de <placeName ref="places.xml#wib01">
+     Wibourg</placeName>; elle prétend que cet été elle n’a pas eu à se plaindre de lui; il
+    y a trois semaines qu’ils sont de retour ici. Ce midi elle a dîné chez moi. Je n’ai pas remis
+    à <persName ref="people.xml#aug01"> Zelmire</persName> les lettres de <rs ref="people.xml#kar03 people.xml#aug02">ses
+     parents</rs>, et ne les remettrai que lorsque je les croirai nécessaires. <persName ref="people.xml#aug01">
+    Zelmire</persName> est jeune, sans expérience et, il me parait, d’un caractère faible, moins timide
+    cependant qu’oppressée, et puisqu’ils paraissent être bien, je ne veux pas réveiller le chat qui
+    dort; mais si la mésintelligence se réveille, je lâcherai les lettres, et ses parents peuvent
+    être sûrs que je ne l’abandonnerai pas aussi longtemps qu’elle sera dans mes états. Elle a été
+    à <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> cet été sans <rs ref="people.xml#fri06"> son mari</rs>, et cet
+    automne elle a été avec lui six semaines à <placeName ref="places.xml#wib01">
+     Wibourg</placeName> de son propre gré, pour faire inoculer <rs ref="people.xml#fri12 people.xml#cat04 people.xml#pau03">
+    ses enfants.</rs></p>
+   <p>Il y a un passage touchant dans votre lettre, auquel je ne puis répondre. Je ne veux pas
+    sangloter. Mais pourquoi les empereurs romains, l’anniversaire de leur avènement au trône,
+    ennuyaient-ils <placeName ref="places.xml#rom01"> Rome</placeName> ou leur cour de ont ce qu’ils
+    avaient fait? Savez-vous bien qu’il n’y a rien de si ennuyeux que pareille récapitulation et que
+    de tous les éloges éloquents de <persName ref="people.xml#tho01"> M. Thomas</persName> je n’ai jamais pu venir à bout d’en lire
+    un seul; c’est du genre ennuyeux, et mon maitre <persName ref="people.xml#vol01"> Voltaire</persName> disait que de tous les
+    genres le pire était le genre ennuyeux; or donc, ce genre-là n’est pas bon; vous me permettrez
+    de conserver celui que j’ai adopté et de ne point imiter ceux des autres. Je serai bien aise de
+    voir ce <persName ref="people.xml#fay01"> marquis de La Fayette</persName>, s’il a le ton de son
+    cousin <persName ref="people.xml#seg01"> Ségur</persName>, qui n’est gauche à rien, mais dont la santé est fort dérangée depuis
+    qu’il est de retour ici.</p>
+   <p>Ces coquins de la <placeName ref="places.xml#whi01"> Russie Blanche</placeName> sont des
+    bêtes: ils viennent d’en perdre une grosse, mais ils ont assez de pécores de la même trempe pour
+    le remplacer.</p>
+   <p>Je suis très contente du bon attestât que m’a donné le valet de chambre de M. de <persName ref="people.xml#seg01">
+    Ségur</persName> à <placeName ref="places.xml#par01"> Paris</placeName>, à <placeName ref="places.xml#ver01"> Versailles</placeName> et à St Cloud; je ne sais de lui rien
+    autre chose, sinon qu’il fait des flageolets de roseau que le grand écuyer nous a produits; s’il
+    était bien pendant le voyage, vraiment j’en suis bien aise. La traduction allemande des cahiers
+    de l’histoire de <placeName ref="places.xml#rus01"> Russie</placeName> a été livrée à <rs ref="people.xml#seg01"> son
+    maître</rs>, qui veut la traduire lui-même en français.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-03">3 novembre</date>. </dateline></opener>
+   <p>Placez l’argent d’ <persName ref="people.xml#bue01"> Emilie</persName> sans engager le fonds
+    et que l’intérêt reste au profit de votre pupille. Je vous parlerai un autre jour de son
+    mariage, qui va se traiter entre sire <persName ref="people.xml#bez01"> factotum</persName> et
+    le comte de <persName ref="people.xml#seg01"> Ségur</persName>; nous irons en ligne droite sans détours, et quand j’aurai la
+    réponse de celui-ci, je vous l’enverrai par la poste, puisque vous êtes si pressé de l’avoir.
+    Les ordres au sujet de Falquier sont déjà partis. Mais est-il possible que le prince Kaunitz
+    soit aussi singulièrement servi qu’il l’a été par celui qui a fait l’adresse pour vous à son
+    paquet; vous feriez bien de lui en demander raison. J’ai été enchantée d’apprendre par la lettre
+    du ministre du <rs ref="people.xml#kar03"> père</rs> de <persName ref="people.xml#aug01"> Zelmire</persName> que la bastonnade
+    soit innée dans la race du mari; ceci m’a confirmé ce dont je me doutais; c’est qu’ils sont tous
+    excessivement mal élevés; par ce goût de la bastonnade ils veulent s’annoncer comme excellents
+    militaires ; aussi je les crois tous corporaux fieffés. Si le <rs ref="people.xml#lou13"> frère
+     Louis</rs> ne cesse de rosser <rs ref="people.xml#cza01"> la sienne</rs>, je pense que <rs
+     ref="people.xml#cza01"> sa polonaise</rs> ne durera pas longtemps avec lui; les femmes de ce
+    pays-là ne sont pas endurantes, et il se trouvera sans femme ni richesse, comme son frère le
+    danois sans domestiques après la bastonnade de <persName ref="people.xml#fra03">
+     Francfort</persName>. Ce n’est pas le <seg xml:lang="de"> Krippenbeißer</seg> qui
+    desservit <persName ref="people.xml#aug01"> Zelmire</persName> près de son père: c’est la <seg xml:lang="de">
+     Krippenbeißerin</seg>, car cette méchante femme à étoupes ne faisait que dire pis que pendre à
+    tout le monde à l’oreille de la pauvre <persName ref="people.xml#aug01"> Zelmire</persName>, de façon, comme je vous l’ai dit
+    plus haut, que le beau- frère et la belle-soeur en furent si scandalisés qu’ils se rangeront
+    avec la belle-mère du côté de <persName ref="people.xml#aug01"> Zelmire</persName>.</p></div><div>
+   <opener><dateline> Се <date when-custom="1785-11-05">5 novembre</date>. </dateline></opener>
+   <p>Dimanche encore <persName ref="people.xml#aug01"> Zelmire</persName> assurait tout le monde que sa situation était devenue au
+    mieux; <seg xml:lang="it"> ma</seg> lundi ils se sont chamaillés et battus de nouveau; puis
+    raccommodés c’est-à-dire convenus amiablement de se séparer après les couches de la <persName
+     ref="people.xml#mar02"> gr.-duch</persName>.; c’est ce que <persName ref="people.xml#aug01"> Zelmire</persName> m’a écrit, et
+    hier elle m’a priée de garder le secret sur tout ceci; à dire le vrai, elle ne sait pas trop ce
+    qu’elle veut elle-même, et cela n’est pas étonnant; je voudrais que l’un et l’autre fussent hors
+    d’ici, car il n’y a pas de plâisir à entendre tout ce train; je lui ai envoyé les lettres de ses
+    parents. — Vous aurez la <title ref="works.xml#florar01"> Flora Russica</title>.</p>
+   <p>Je lis présentement l’ouvrage de <persName ref="people.xml#nec01"> M. Necker</persName>, et
+    quand je l’aurai lu, je vous en dirai un mot. Je suis bien fâchée de l’état de <persName
+     ref="people.xml#buf02"> M. de Buffon</persName>, dont je fais le cas dû à son mérite.</p>
+   <p>Tout le monde dit que la <persName ref="people.xml#sta04"> fille</persName> de <persName ref="people.xml#nec01">M.
+     Necker</persName> fait un très mauvais parti, et qu’on la marie mal. J’ai envoyé au comte
+    de <persName ref="people.xml#seg01"> Ségur</persName> la lettre que la <rs ref="people.xml#seg02"> comtesse sa femme</rs> vous
+    a envoyée pour lui. L’ami <persName ref="people.xml#qua01"> Quarenghi</persName> a eu la sienne
+    le même jour, comme aussi <persName ref="people.xml#tod01"> madame Todi</persName>. <persName
+     ref="people.xml#mar12"> Marchesini</persName> est ici, et tous les deux chantent &amp;
+    tue-tête. Vous savez déjà que le courrier Yermolof a tout apporté. Pour la <title
+     ref="works.xml#dianah01"> Diane</title>, à force d’en avoir soin, je ne l’ai pas vue encore. La
+    bibliothèque de <persName ref="people.xml#did01"> Diderot</persName> est arrivée. Je suis très fâchée de la mort de l’étalon de
+    la compagnie. Le ronge-crêche est décampé. En vérité, si <rs ref="people.xml#gus01"> monsieur de
+     Haga</rs> a pêché dans quelques bourses les frais de ses voyages, ce n’est pas dans la mienne,
+    et s’il a dit cela, dites-lui que je dis moi qu’il ment comme un arracheur de dents, et ce ne
+    serait pas la première fois que je l’aurais attrapé sur le fait.</p>
+   <p>Pour à <placeName ref="places.xml#khe01"> Kherson</placeName>, j’espère d’aller à la fin de 1786, mais à celui de <placeName ref="places.xml#ist01">
+    Constantinople</placeName> comment penser? Il faudrait y aller en bonne et nombreuse compagnie; l’idée
+    seule, toute chimérique qu’elle est, émeut la bile de vos politiques, amoureux éperdument et
+    amis protecteurs des marabouts; ces marabouts leur sont si intimement chers qu’il n’y a pas
+    occasion où ils ne me fassent savoir de bouche et par écrit qu’ils soutiendront du tout pour le
+    tout leurs charmants marabouts. Que le bon Dieu les leur donne un jour pour voisins, afin qu’ils
+    changent de langage; mais à quoi leur sert ce langage avec moi? Croient-ils par là m’en imposer,
+    croient-ils m’empêcher de faire ce que le bien de mon empire pourrait demander? Qu’est-ce qu’ils
+    font par là? ils éloignent mon esprit d’eux par là, et il n’en sera que ce qui se pourra. C’est
+    jeter l’huile dans le feu que de tenir des propos irritants aux gens. Et que puis-je attendre
+    des gens qui viennent me dire continuellement: les ennemis naturels de votre État sont nos pins
+    chers, nos plus favorisés amis, que nous aimons, chérissons, soutenons. Moi, je n’ai à repondre
+    à cela autre chose, sinon: l’ami de mes ennemis naturels n’est guère le mien, et je leur tire ma
+    révérence. Adieu.</p>
+   <p>Quand je verrai clair dans les affaires de <persName ref="people.xml#aug01"> Zelmire</persName>, j’enverrai peut être un
+    courrier à <rs ref="people.xml#kar03"> son père,</rs> ou bien je vous écrirai, puisqu’il préfère
+    cette voie.</p>
+   <p>Le <persName ref="people.xml#str03"> comte Stroganof</persName> jure qu’il a envoyé a
+     <persName ref="people.xml#aud01"> Mad. d’Audet</persName> nouvellement une somme considérable
+    et qu’il lui fait une pension.</p>
+   <p>Faites-moi avoir une dizaine d’exemplaires de l’ouvrage de <persName ref="people.xml#rom03">
+     M. Romme</persName>.</p>
+   <p>Je n’ai pas besoin de plafond.</p>
+   <p>Je suis fâchée de la mort du <persName ref="people.xml#bre03"> bailli de
+    Breteuil</persName>.</p>
+   <p>Si vous avez de l’argent à moi de reste, achetez pour moi la chocolatière d’or; sinon, ne
+    l’achetez pas.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-06">6 nov</date>. </dateline></opener>
+   <p>Jamais de la vie je n’ai connu cette mad. de Seckendorf née Gronsfeld, il y a par-ci par-là
+    des gens qui, comme celle-ci, veulent faire accroire qu’ils m’ont connue dans mon enfance; notez
+    que je n’ai été qu’une seule fois à <placeName ref="places.xml#sch02"> Schönhausen</placeName>,
+    et que tout ce qu’elle dit, est un tissu de faussetés. J’espère que vous aurez arrangé l’affaire
+    de <persName ref="people.xml#gil01"> Gillet</persName> et que vous aurez payé les péchés
+    d’autrui.</p>
+   <p>Je suis dans la disgrâce du <persName ref="people.xml#leo02"> pr. de Dessau</persName> à cause
+    de <persName ref="people.xml#cle01"> Clérisseau</persName>; je vous ai écrit cela déjà par la poste; je n’ai jamais eu de
+    lettre de <rs ref="people.xml#leo02"> S. A. S.</rs> que celle-ci où il m’exorte à payer ce que
+    je lui dois. J’ai mandé à <rs ref="people.xml#leo02"> S. A. S.</rs> la joie que m’avait donnée
+    cette occasion qui m’avait procuré une lettre de sa part, qu’au reste je pouvais l’assurer que
+    je payais assez exactement, et que si le compte de <persName ref="people.xml#cle01">
+     Clériss</persName>. n’était pas tout liquidé par vous, il fallait s’en prendre au <persName
+     ref="people.xml#cle01"> Sr Cléris</persName>. lui-même, qui m’envoyait continuellement ce que
+    je ne lui demandais pas.</p>
+   <p>J’ai envoyé a la <persName ref="people.xml#mar02"> Gr. Duchesse</persName> la lettre de
+     <persName ref="people.xml#cru01"> mad. de La Vallière</persName> et à la <persName
+     ref="people.xml#das01"> pr. Dachkof</persName> celle de son confrère l’académicien. <seg
+     xml:lang="de"> Unterthänigste Dienerin; vor heute habe ich nichts mehr zu sagen.</seg></p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-08">8 nov</date>. </dateline></opener>
+   <p>Il y а huit à dix jours que <persName ref="people.xml#shc02"> Chedrine</persName> a commencé
+    <rs ref="works.xml#cather07">mon buste</rs> pour vous.</p>
+   <p>J’ai lu l’introduction du livre de <persName ref="people.xml#nec01"> M. Necker</persName>; je
+    viens de l’achever. Puisqu’il est sensible à l’estime, assurez-le de toute la mienne; on voit
+    qu’il était à sa place et qu’il la remplissait avec passion, et il en convient lui-même. J’aime
+    ces mots: <hi rend="italic">ce que j’ai fait, je le ferais encore</hi>. On ne parle point comme
+    cela sans être bon; il faut l’être éperdument, pour n’en avoir rien perdu après beaucoup de
+    traverses. Je m’en vais lire le reste, et je vous en parlerai encore avant que cette missive
+    soit terminée.</p>
+   <p><seg xml:lang="de"> Arme Leute. Ohngestiefelte Leute können die gestiefelten nicht vertragen,
+     sind zu stark, zu dick, zu schwer, zu raisonirt, zu beweisend, zu voll; alles das ist
+     beschwerlich; mehr gethan, weniger geschmatzt, war auch eine Art die einigemal mehr
+     eingeschlagen hat als alles das hochtrabende Geplapper von sich selbst, das sind in der Welt ja
+     mehr Leute die nicht immer Luft haben ihr Geschöpfe im Spiegel zu sehen. Nu sitzt er da und hat
+     Langeweile und deswegen schreibt er, aber was hilft das, wer wird nach dem Gemählde Leute
+     suchen? Und wo finden? Die Kunst ist mit allerlei Leuten die Sachen gehen zu machen so gut wie
+     möglich, und all Tage besser.</seg>
+   </p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-10">10 de nov</date>. </dateline></opener>
+   <p>Le frais de recouvrement m’ont ennuyée mortellement; en général les finances de <persName
+     ref="people.xml#lou01"> S. M. très chrétienne</persName> sont une chose tout à fait dégoûtante.
+    C’est là que je dis à chaque ligne: <seg xml:lang="de"> Gott sei Dank, so weit ist es bei uns
+     nicht getrieben</seg>. De ce pas je m’en vais à la comédie allemande pour me refaire; on y
+    donnera <seg xml:lang="de"> Die große Toilette und die Perücken.</seg>
+   </p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-11">11 de nov</date>. </dateline></opener>
+   <p>Quelle commission que d’être réduit et condamné à lire ce qui ne vous regarde pas, ce qui vous
+    ennuie, et une matière aussi dégoûtante que le sont les finances du <persName
+     ref="people.xml#lou01"> roi très chrétien</persName>! Je ne le féliciterai pas d’avoir 48
+    receveurs au lieu de douze. Je crois que bientôt S.M. saura lequel de ses échantillons de
+    finances était le plus de son gôut, car il a tâté des <persName ref="people.xml#tur02">
+     Turgot</persName>, des <persName ref="people.xml#nec01"> Necker</persName> et du Salmigondis
+    présent: <seg xml:lang="de"> Alle hatten andere Art zu denken, Economisten, Philosophen,
+     Beuteldrücker, Gott sei Dank, ich bin mit Allen sehr wohl zufrieden</seg>, et tout est au mieux
+    dans le meilleur des mondes possible, <seg xml:lang="de"> Die Beutelpurganz ist auch
+    gut.</seg></p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-20">20 nov</date>.</dateline></opener>
+   <p>En lisant toujours le livre de <persName ref="people.xml#nec01"> M. Necker</persName>, il
+    m’est venu dans l’esprit qu’il est indispensablement nécessaire que je vous dise, en cas que
+    vous l’ignorez, que je n’aime point dutout les friseurs de projets, que sur cent rarement on en
+    trouve un qui soit bon ou applicable. A propos de cela, il faut que je vous dise encore que
+     <persName ref="people.xml#qua01"> Quarenghi</persName> est venu m’interrompre au milieu de ma
+    phrase pour me parler du charmant théâtre qu’il a construit au bout de l’ <placeName
+     ref="places.xml#her01"> hermitage</placeName>, qui présentement passe le canal par un arc et se
+    perd dans le vieux palais de <persName ref="people.xml#pet01"> Pierre I</persName>, autrement
+    dit le corpus, où demeure tout ce qui appartient au théâtre russe. Je ressemble donc à <persName
+     ref="people.xml#gus01"> Gustave III</persName> de ce côté-là, à cela près qu’il raffole de
+    spectacles et que je ne m’en soucie point du tout; mais vous savez que je ressemblais aussi à
+     <persName ref="people.xml#lou15"> Louis XV</persName>, comme deux gouttes d’eau.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-23">23 novembre</date>. </dateline></opener>
+   <p>J’ai trouvé dans le catalogue de la bibliothèque de <persName ref="people.xml#did01"> Diderot</persName> un cahier intitulé:
+     <title ref="works.xml#observ01">«Observations sur l’instruction de S. M. I. aux
+     députés pour la confection de lois.»</title> Cette pièce est un vrai babil dans lequel on ne
+    trouve ni connaissance de choses, ni prudence, ni prévoyance; si mon instruction avait été du
+    gôut de <persName ref="people.xml#did01"> Diderot</persName>, elle aurait été propre à mettre toutes les choses sens
+    dessus-dessous. Or, je soutiens que mon instruction а été non seulement bonne, mais même
+    excellente et bien appréciée aux circonstances, parce que depuis 18 ans qu’elle existe, non
+    seulement en aucun point elle n’a fait aucun mal, mais encore que tout le bien qui s’est fait et
+    dont tout le monde convient est parti des principes établis par cette instruction. La critique
+    est aisée, mais l’art est difficile; voilà ce qu’on peut dire en lisant ces observations du
+    philosophe qui toute sa vie, à ce qu’il parait, était d’une prudence à vivre sous tutelle; il
+    faut qu’il ait composé cela après son retour d’ici, car jamais il ne m’en a parlé.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1785-11-06">6 novembre 1785</date>.</dateline></opener>
+   <p>J’ai ordonné à <rs ref="people.xml#bez01"> sire factotum</rs> de laisser prendre copie au
+    comte de <persName ref="people.xml#seg01"> Ségur</persName> des lignes suivantes:</p>
+   <q><persName ref="people.xml#cat01">«  L’Imp. de <placeName ref="places.xml#rus01"> Russie</placeName></persName> prie M. le c-te de <persName ref="people.xml#seg01"> Ség</persName>.
+    d’intéresser au sort d’<persName ref="people.xml#bue01"> Emilie de Belsunce</persName> M.
+    le Maal de Ség., son père, et de lui recommander cette jeune personne; <persName
+     ref="people.xml#cat01"> l’Imp</persName>. souhaiterait encore que le <persName
+     ref="people.xml#lou01"> roi de Fr</persName>. voulût bien marier <persName
+     ref="people.xml#bue01"> Emilie</persName> et qu’à cet effet S. M. ordonnât au bar.
+    de <persName ref="people.xml#gri01"> Grimm</persName> de lui présenter un sujet digne d’être l’époux d’<persName
+     ref="people.xml#bue01"> Emilie de Belsunce</persName> que <persName ref="people.xml#cat01">
+     l’Imp</persName>. a dotée. Et que, ce sujet trouvé et approuvé par le roi, S. M. voulût bien y
+    ajouter quelques grâces, soit pour la jeune personne, soit pour celui qu’elle épouserait. »</q>
+   <p><persName ref="people.xml#seg01"> M. de Ség</persName>. s’est chargé avec plaisir de cette
+    commission; voilà de quoi j’ai l’honneur de vous avertir tout de suite, étant comme toujours
+    tout ce qu’on met au bas d’une lettre.</p></div>
+  </body>
+ </text>
+</TEI>

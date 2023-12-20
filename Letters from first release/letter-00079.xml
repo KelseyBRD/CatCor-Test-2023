@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00079</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00079</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#finland"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-05">5 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00079">
+                <body>
+                    <opener>
+                    <salute rend="inline">Voici, mon cher fils,</salute></opener>
+                    <p>l'avis que Vous me demandez au sujet de la <rs ref="events.xml#swedi02"
+                            >campagne prochaine</rs>; elle sera défensive, guerre de postes, et un
+                        peu plus ennuyeuse encore que celle de l'année passée; c'est pourquoi je ne
+                        puis en conscience Vous conseiller autrement, qu'au lieu d'exciter des
+                        pleurs et des regrets amers, de partager au sein de Votre chère et charmante
+                            famille<note type="editorial">Paul's wife, <ref
+                                target="people.xml#mar02">Mariya Fedorovna</ref>, and his many
+                            children, <ref target="people.xml#ale01">Alexander</ref>, <ref
+                                target="people.xml#kon01">Konstantin</ref>, <ref
+                                target="people.xml#ale02">Aleksandra</ref>, <ref
+                                target="people.xml#ele01">Elena</ref>, <ref
+                                target="people.xml#mar03">Mariya</ref>, and <ref
+                                target="people.xml#eka01">Ekaterina</ref>.</note> la joie des succès
+                        dont il plaira au Tout-Puissant, comme j'ose l'espérer, de bénir la justice
+                        de notre cause.</p>
+                    <closer><signed rend="inline">Adieu! je Vous embrasse de tout mon coeur et suis
+                            très-sensible à vos procédés.</signed><dateline><date
+                                rend="below" when-custom="1789-04-11">Ce 11 d'avril
+                            1789.</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <p>Here, my dear son, is my opinion, which you requested as regards the
+                        impending campaign. It will be defensive, a war of posts<note
+                            type="editorial">This phrase, meaning a war of attrition, was used by
+                            George Washington for the strategy of the American Revolutionaries (see
+                            http://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/timeline/amrev/north/posts.html).</note>,
+                        and a bit more boring still than last year's. That is why I cannot in good
+                        conscience give you any other advice than that, rather than causing tears
+                        and bitter regrets, you share with your dear and charming family our joy at
+                        the successes with which I dare to hope the Almighty will be pleased to
+                        bless the justice of our cause.</p>
+                    <closer><signed rend="inline">Farewell! I embrace you with all my heart and very
+                            much appreciate your actions.</signed><dateline><date
+                                rend="below" when-custom="1789-04-11">11 April
+                            1789.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

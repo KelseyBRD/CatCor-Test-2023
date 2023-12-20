@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04736</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04736</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-11">11/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:00:12Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-06-15">15/06/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Letter number and markup
+                corrected.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04736">
+        <body>
+
+            <dateline> A <placeName ref="places.xml#mos01"> Moscou</placeName>, ce <date
+                    when-custom="1767-08-03">3 d’Août 1767</date>.</dateline>
+            <opener>
+                <salute rend="inline"><persName ref="people.xml#fal01">M-r Falconet</persName>, j’ai
+                    tant remis d’un jour à un autre à Vous faire ma réponse, j’ai tant changé de
+                    gîtes ce printemps qu’il n’y a que ce matin que j’ai déterré d’entre mes papiers
+                    Votre dernière lettre. </salute></opener>
+            <p>Mais, avant toute chose, sachez et ne doutez plus que je retournerai à l’entour de
+                Noël à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, et il n’y a eu
+                aucun doute réel sur ce retour, mais il y a ici des nouvellistes, tout comme
+                    à <placeName ref="places.xml#par01">Paris</placeName> qui voient, ou peu s’en
+                faut, la lune en plein jour et qui raisonnent d’après ce qu’ils prétendent voir.
+                Dites-moi, je Vous prie, n’y a-t-il point de réponse de <persName
+                    ref="people.xml#did01">M-r Diderot</persName>? Je renonce, non pas à la
+                postérité, mais à la dispute sur la postérité, puisque Vous y courez sans dire mot.
+                Vos désirs muets seront, je crois, remplis, et <title ref="works.xml#pierre01">
+                    Pierre I<hi rend="superscript">er</hi></title> Vous y mènera lui-même. Votre
+                Majesté, dites-Vous, et ma conscience, - voilà ma postérité, et <hi rend="italic"
+                    >l’autre viendra quand elle voudra</hi>. Je crois que Vous avez fait de Votre
+                mieux, mais comment pouvez-Vous Vous en remettre à mon suffrage? Je ne sais pas même
+                dessiner; ce sera peut-être la première bonne statue que je verrai de ma vie.
+                Comment pouvez-Vous Vous contenter d’un suffrage si mince? Le moindre écolier en
+                sait plus que moi sur Votre art. D’un côté Vous êtes bien difficile, de l’autre bien
+                peu, ou bien Vous Vous suffirez donc tout seul, puisque <hi rend="italic"
+                    >l'autre</hi> est en ligne de compte avec l’eau de la <placeName
+                    ref="places.xml#nev01">Néva</placeName> qui passe sous le pont.</p>
+            <closer>
+                <signed rend="inline">Adieu, <persName ref="people.xml#fal01">M-r
+                        Falconet</persName>, portez-Vous bien, je suis si occupée que ces jours-ci
+                    j’ai allégé mes épaules d’<rs ref="orgs.xml#comm01">un grand fardeau</rs> que
+                    j’ai à peine le temps de Vous dire ces mots.</signed></closer>
+        </body>
+    </text>
+</TEI>

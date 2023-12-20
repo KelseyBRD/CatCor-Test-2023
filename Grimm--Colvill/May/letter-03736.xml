@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03736</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03736</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:09:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03736">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1786-08-13">13 d’auguste</date>.</dateline></opener>
+   <p>Le baron de <persName ref="people.xml#gri01"> Grimm</persName>, chevalier de l’<orgName ref="orgs.xml#vlad01"> ordre de St
+     Vladimir</orgName>, vient d’être nommé pour le poste de <placeName ref="places.xml#ham01">
+     Hambourg</placeName>, à la place de feu <persName ref="people.xml#gro02"> Gross</persName>.</p>
+   <p>Les comtes de <persName ref="people.xml#gus02"> Haga </persName>et de <persName
+     ref="people.xml#cha01"> Wasa</persName> sont attendus ce soir ici; l’on dit qu’ils s’y
+    arrêteront quinze jours. L’on dit que soixante mille Russes sont en marche pour se rendre sur le
+    bord de l’<placeName ref="places.xml#elb01"> Elbe</placeName> et mettre fin aux désastres de
+     l'<placeName ref="places.xml#ger01"> Allemangne</placeName>. L’on dit que le maréchal <persName
+     ref="people.xml#suv01"> Souvorof</persName> est à leur tête.</p>
+   <p>L’on dit encore beaucoup de choses, et l’on en verra encore beaucoup plus; c’est la lanterne
+    magique dans laquelle nous verrons ce que nous verrons. </p>
+   <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>. Attendez-vous à
+    des tours de griffe. Le temps en est venu.</signed></closer>
+  </body>
+ </text>
+</TEI>

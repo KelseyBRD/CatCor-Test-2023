@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04776</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04776</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Jakowlew is mentioned in passing in Falconet's previous letter, but only referred to as 'Un
+     M-r Jacovleff', unable to find further contextual information. Kelsey: leave for further
+     research</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:05:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-20">20/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected, annotation added. Unable to resolve
+     query.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04776">
+  <body>
+
+   <p> Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je crois que si vous
+    conseilliez à M-rs <persName ref="people.xml#roe01"> Roitiers</persName> d’ôter le maigre des
+    chandeliers que j’ai choisis, vous feriez une bonne chose.</p>
+   <p> Ce <persName ref="people.xml#jak01"> Jakowlew</persName> qui a dit tant de pauvretés, est un
+    homme tout-à-fait décrié de toutes les façons, jusque-là qu’il a été exclu du service. Il ne se
+    passe jamais deux mois, sans qu’il n’ait quelque vilaine affaire sur les bras. Il n’y a pas
+    longtemps encore qu’il a friponné deux juifs et qui plus est, il n’est pas même gentilhomme,
+    quoiqu’il prétende que cinq cents de ceux-ci pensent comme lui.</p>
+   <p> Les bavardises du <rs ref="people.xml#che04"> procureur</rs> sont risibles,<note
+     type="editorial">Source edition contains typo of "visibles." See Réau, <ref
+      target="works.xml#corres04">Correspondance de Falconet avec Catherine II</ref>, p. xx.</note>
+    et rien de plus. Moquez-vous des sots et allez votre train, voilà aussi le mien. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

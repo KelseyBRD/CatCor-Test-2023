@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02977</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02977</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:04:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02977">
+  <body>
+   
+   <opener><dateline> A <placeName ref="places.xml#mos01">Moscou</placeName>, ce <date when-custom="1775-09-20">20 septembre 1775</date>.</dateline></opener>
+   <p>Vous ne serez point ravi jusqu’au troisième ciel en recevant cette lettre, car vous n’aurez
+    point la tête lavée aujourd’hui dans cette réponse au No 23 que je viens d’entamer, mais Dieu
+    sait comme elle ira et comme elle finira, car le fils et la fille bien-aimés de sir <persName
+     ref="people.xml#tho01"> Tom me</persName> tiraillent, l’un d’un côté, l’autre de l’autre, et
+    monsieur a pensé m’emporter la plume; s’ils parviennent à déchirer le papier, ne vous affligez
+    point: je vous enverrai les lambeaux, la résolution en est prise. Je ne comprends rien aux
+    oscillations et au passe-temps de Dieu le Père, et par conséquent je passe cette phrase sous
+    silence, de même que toute l’affaire du feu chevalier de St George.</p>
+   <p>Vous n’aurez plus de <hi rend="italic">Monsieur</hi>, puisque vous n’en voulez point; cela est
+    très commode pour moi, et mademoiselle <persName ref="people.xml#car01"> Cardel</persName> est
+    morte.—Mais voilà encore mes chiens qui viennent se coucher auprès de moi: nous sommes tous les
+    trois sur un espace d’une archine et demie et assez à notre aise; cependant on me heurte; l’un
+    se gratte, et l’autre cherche des puces... non, non, il prend des mouches.</p>
+   <p>Le seigneur ministre s’en va donc aux noces du <rs ref="people.xml#cha05"> seigneur duc</rs>;
+    je ne savais pas que vous étiez un pilier de fêtes: si j’avais su cela, je vous aurais invité à
+    celles de la paix. Vous n’aurez pas manqué sans doute de danser аu bal en masques de <persName ref="people.xml#vir02">l’ambassadeur de <placeName ref="places.xml#sar02">Sardaigne</placeName></persName> lors
+     des <name ref="events.xml#marri04">noces de <persName ref="people.xml#clo01">madame Clotilde</persName></name>,
+    et puis l’ascension de Venise. Cela vous fera manquer, le débotter à <placeName
+     ref="places.xml#pet01"> Petersbourg</placeName>, car ce débotter sera sur les confins de 1775,
+     <seg xml:lang="de">und im übrigen dausend mal wie niemals; der Herr wird
+     thun was ihm beliebt und kann schaffen wie er es versteht.</seg> Voilà de l’allemand comme on
+    pourrait en produire à <placeName ref="places.xml#vie01">Vienne</placeName>; j’ai un goût décidé pour ce mot <seg xml:lang="de">,,schaffen"</seg>: il me semble qu’en droite ligne il tient
+    à la création; j’ai toujours trouvé cette création une jolie chose.</p>
+   <p>Le <persName ref="people.xml#orl01"> prince Orlof</persName>, en vous quittant, a pensé se
+    noyer sons Cologne dans le Rhin; la description seule de cette aventure fait frémir. Mon Dieu!
+    que vous devenez pointilleux sur le compte des princes d’<placeName ref="places.xml#ger01">Allemagne</placeName>: on voit bien
+    que vous êtes tout prêt à devenir <seg xml:lang="la">delegatus</seg>, et
+    que vous frisez déjà l’étiquette. Mais enfin, je me tais, crainte d’essuyer une corvée nouvelle
+    d’explications sur des phrases que j’ai prises ou entendues avec gaucherie. Votre <rs
+     ref="people.xml#lud02"> enfant perdu</rs> est parti. Je pense que si <persName
+     ref="people.xml#tro02"> Tronchin</persName> n’était pas à <placeName ref="places.xml#par01"> Paris</placeName>, le <persName ref="people.xml#bel01">
+    prince Bélosselski</persName> ne serait pas venu de si loin pour le consulter; s’il le guérit des crampes,
+    vous pourrez employer le crédit du susdit prince et son habileté près de <orgName
+     ref="orgs.xml#acad01"> l’Académie de Pétersbourg</orgName> pour y introduire <persName
+     ref="people.xml#tro02"> Tronchin</persName> comme membre.</p>
+   <p>Le grand chambellan vous fera passer non pas trois cent soixante roubles, mais sept cent vingt
+    roubles pour <rs ref="works.xml#corres03"> les années 1774 et 1775</rs>, et pourquoi ne
+    resterait-il pas chargé de la boutique? Mais monsieur <seg xml:lang="de">
+     Meister</seg> n’est pas M. <persName ref="people.xml#gri01">Grimm</persName>: il est plus sérieux, et le talent du
+    développement est plus faible en lui. Je salue la divine écritoire de loin et vous prie de ne
+    pas vous tracasser aucunement à son sujet. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien; il me pleut des livres économiques, mais je les
+    jette tous au feu sans les lire; cela est pécore, je l’avoue, mais je ne puis les souffrir, et
+    je mange et mangerai du pain sans vous, les braillards.</signed></closer>
+  </body>
+ </text>
+</TEI>

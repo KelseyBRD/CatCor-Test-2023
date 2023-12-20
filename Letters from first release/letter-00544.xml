@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00544</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00544</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-02-07">07 February 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00544">
+                <body>
+                    <p>Естьли Вы удовольствия не находите в беспрестанной со мною быть ссоре, естьли
+                        есть в Вас искра малейшей любви, то прошу Вас убавить несколько спыльчивости
+                        Ваши, выслушав иногда и мои речи, не горячась. Я от самой пятницы, выключая
+                        вчерашний день, несказанное терплю безпокойствие. Естьли покой мой Вам
+                        дорог, зделайте милость, перестаньте ворчать и дайте место чувствам,
+                        спокойствием и тишиной совокупленные, и кои, следовательно, приятнее быть
+                        могут, нежели теперешнее состоянье.</p>
+                    <p>Я, право, человек такой, который не токмо ласковые слова и обхожденье любит,
+                        но и лицо ласковое. А из пасмурности часто сему противное выходит. В
+                        ожиданьи действия сего письма по воле Вашей, однако же, пребываю в надежде
+                        доброй, без которой и я, как и прочие люди, жить не могла.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

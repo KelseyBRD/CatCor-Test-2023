@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03613</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03613</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Letter from AD Lanskoy to Grimm but written by the
+     hand of Catherine (save for Lanskoy’s signature.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-09">09-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:20:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03613">
+  <body>
+   
+   <opener><salute>Monsieur,</salute></opener>
+   <p>Je viens de recevoir la lettre que vous m’avez fait l’honneur de m’écrire en date du 8 (19)
+    mars, que l’épouse de <persName ref="people.xml#ber05"> Sr Bertin</persName> m’a fait remettre,
+    et voilà que <rs ref="people.xml#cat01"> mon secrétaire</rs> s’en est emparé, sans
+    que je l’en aie prié, et voilà qu’il vous répond, parce qu’il a encre, plume et papier sur sa
+    table. Or donc, mon secrétaire dit comme cela: il est vrai comme vous le dites, Monsieur, que ma
+    douceur et ma bonté d’âme fait que je suis un être très importuné par d’autres êtres; je l’ai
+    été prodigieusement la semaine passée par un <persName ref="people.xml#esc01"> M.
+     Escherny</persName> venu pour mes péchés en droiture de <placeName ref="places.xml#par01"> Paris</placeName>, armé d’un livre
+    très ennuyeux qu’il a intitulé <title ref="works.xml#lacune01"> Lacunes philosophiques</title>;
+    or, <rs ref="people.xml#cat01"> mon secrétaire</rs> et moi nous trouvons que ce sont les lacunes
+    qui enfantent l’ennui, et nous n’avons point lu son livre; mais nous l’avons seulement
+    feuilleté, et comme ce <persName ref="people.xml#esc01"> M. Escherny</persName>, neuchâtellois,
+    chambellan du <persName ref="people.xml#fri05"> duc de Würtemberg</persName> et conseiller
+    d’état du <persName ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01"> Prusse</placeName></persName>, s’en
+    retourne en droiture à <placeName ref="places.xml#par01"> Paris</placeName>, nous prions Dieu en compagnie qu’il vous préserve,
+    Monsieur, de ce <persName ref="people.xml#esc01"> monsieur d’Escherny</persName> et de ses
+    lacunes. Voilà tout ce que nous pouvons faire de mieux pour votre santé présente et future, à
+    laquelle nous nous intéressons infiniment, moi sous-signé et mon secrétariat dont la tête ne vа
+    jamais comme il veut, et qui croit toujours avoir répondu à une lettre lorsqu’il a laissé aller
+    sa plume à toutes les balivernes qui lui ont passé par la tête. </p>
+   <closer><signed rend="inline">C’est avec autant d’estime que de considération que j’ai l’honneur
+    d’être, Monsieur, votre très humble et très obéissant serviteur <persName ref="people.xml#lan02" type="signature"> Lanskoï</persName>.</signed>
+   <dateline> A <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, ce <date when-custom="1784-05-20">20 mai 1784</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

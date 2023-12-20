@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00545</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00545</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-02-07">07 February 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00545">
+                <body>
+                    
+                        <opener><salute>Всемилостивейшая Государыня!</salute></opener>
+                        <p>Вашему Императорскому Величеству известны все дерзновенные поступки
+                            бывшего <placeName ref="places.xml#zap01">сечи Запорожской</placeName>
+                            кошевого <persName ref="people.xml#kal02">Петра Калнишевского</persName>
+                            и его сообщников судьи <persName ref="people.xml#gol07">Павла
+                                Головатого</persName> и писаря <persName ref="people.xml#glo01"
+                                >Ивана Глобы</persName>, коих вероломное буйство столь велико, что
+                            не дерзаю уже я, Всемилостивейшая Государыня, исчислением онаго трогать
+                            нежное и человеколюбивое Ваше сердце, а притом и не нахожу ни малой
+                            надобности приступать к каковым--либо изследованиям, имея явственным
+                            доводом оригинальные к старшинам ордера, изъявляющие великость
+                            преступления их пред освященным Вашего Императорского Величества
+                            престолом, которою по всем гражданским и политическим законам заслужили
+                            по всей справедливости смертную казнь.</p>
+                        <p>Но как всегдашняя блистательной души Вашей спутница добродетель побеждает
+                            суровость злобы кротким и матерним исправлением, то и осмеливаюсь я
+                            всеподданнейше представить, не соизволите ли высочайше указать
+                            помянутым, преданным праведному суду Вашему узникам, почувствовавшим
+                            тягость своего преступления, объявить милосердное избавление их от
+                            заслуживаемого ими наказания, а вместо того по изведанной уже опасности
+                            от ближнего пребывания их к бывшим запорожским местам повелеть отправить
+                            на вечное содержание в монастыри; из коих кошевого в <placeName
+                                ref="places.xml#sol01">Соловецкий</placeName>, а протчих в состоящие
+                            в <placeName ref="places.xml#sib01">Сибири</placeName> монастыри с
+                            произвождением из вступающего в секвестр бывшего запорожского имения --
+                            кошевому по рублю, а протчим по полуполтин на день.</p>
+                        <p>Остающееся же за тем обратить по всей справедливости на удовлетворение
+                            раззоренных ими верноподданых Ваших рабов, кои, повинуясь божественному
+                            Вашему предписанию, сносили буйства бывших запорожцев без наималейшего
+                            сопротивления, ожидая избавления своего от десницы Вашей и претерпев
+                            убытков более, нежели на 200 000 рублей, коим и не оставлю я соразмерное
+                            делать удовлетворение.</p>
+                        <closer><signed>Всемилостивейшая Государыня! Вашего Императорского
+                                Величества всеподданнейший раб
+                            <persName ref="people.xml#pot01">Князь
+                                Потемкин</persName></signed>
+                            <dateline><date when-custom="1776-04-21">Апреля 21--го дня 1776--го
+                                    года</date></dateline>
+                        </closer>
+                    
+                    <postscript>
+                        <p hand="people.xml#cat01">
+                            Быть по сему.</p>
+                        <closer rend="inline"><dateline><date when-custom="1776-05-14">14 майя
+                                    1776</date><placeName ref="places.xml#tsa01">Царское
+                                    Село</placeName></dateline></closer>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

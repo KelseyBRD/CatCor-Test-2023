@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02890</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02890</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p><hi rend="background(green)">Green mark</hi>: the self-reference of Catherine
+     II to her letter to Orlov from 31 December 1771 (letter 02889) Emma: - I have changed this to <ref/>  If we can identify the letter id we could potentially include a cross-reference</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:20:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02890">
+  <body>
+
+   <opener>Божиею милостию, Мы, <persName ref="people.xml#cat01"> Екатерина Вторая</persName>,
+    Императрица и Самодержица Всероссийская, и прочая, и прочая, и прочая.
+   <salute>Нашему генералу графу <persName ref="people.xml#orl03"> Орлову</persName>.</salute></opener>
+   <p>Наш действительный тайный советник граф <persName ref="people.xml#pan01"> Панин</persName>
+    сообщает вам в полном пространстве те важные бумаги, кои им, на сих днях, получены из <placeName
+     ref="places.xml#vie01"> Вены</placeName> от Нашего там министра князя <persName
+     ref="people.xml#gol04"> Голицына</persName>, о полезном обороте в мыслях <orgName
+     ref="orgs.xml#habs01"> римскаго императорского двора</orgName>, по случаю войны <placeName
+     ref="places.xml#rus01"> Нашей</placeName> с <placeName ref="places.xml#ott01">
+    Портою</placeName> и мирных ей Наших <name ref="events.xml#turki01"> предложений</name>. В самом содержании
+    сих бумаг, найдете вы достаточное для себя руководство учреждению будущих ваших поступков. Но
+    тем не меньше, восхотели Мы еще, сославшись на предъидущий <ref target="letter-xxxxx">Наш
+     рескрипт, от 31-го декабря</ref>, предписать вам некоторыя, настоящим полезным обстоятельствам,
+    больше приличествующия правила.</p>
+   <p>По всей вероятности полагать можно, что праведная <placeName ref="places.xml#rus01">
+     Наша</placeName> против <placeName ref="places.xml#ott01"> турков</placeName> <name ref="events.xml#turki01">
+     война</name> восприемлет скоро счастливый и успехам ея совершенно соответствующий конец, коему
+    вы, с своей стороны, весьма много до ныне способствовали. По сей причине, заключение <placeName
+     ref="places.xml#nao01"> временнаго перемирия</placeName> может, при всех прежних, в пользу его,
+    настоявших резонах и для того еще полезно быть, чтоб вам с вверенным от Нас <orgName
+     ref="orgs.xml#russ02"> флотом</orgName> выиграть свободу к приведению его, между тем, во
+    всевозможную исправность и готовность к обратному и безпечному возвращению в <placeName
+     ref="places.xml#rus01"> отечество</placeName>, сколь скоро формальный <name ref="events.xml#kuchu01">мир</name> постановлен и подписан будет. Поручая бдению и
+    попечению вашему сей новый пункт, желаем Мы, однакож, чтоб оный отныне и обратил уже на себя
+    один все ваши меры и распоряжения, потому что и сами Мы здесь до времени не переменяем ни мало
+    Наших, прежде устроенных, военных диспозиций и приготовлений, почитая, напротив, явное и
+    безпрерывное их продолжение лучшим средством к совершению начинающегося дела и к сохранению до
+    конца, приобретенной до ныне, повсеместно поверхности; почему и вы, с своей стороны,
+    соответствуя сему Нашему поведению не оставите, как внутренно, так и внешно устроивать у себя в
+    команде все части оной таким образом, дабы <orgName ref="orgs.xml#russ02"> морския Наши
+     силы</orgName>, в случае мира, скорее сюда назад отправиться, в случае замедления мирной
+    негоциации, неприятелю присутствием своим вкорененный страх продолжительно нагонять, а в случае
+    безплоднаго ея пресечения, военныя свои операции, с большею силою, возобновить могли, быв, между
+    темъ, во время <placeName ref="places.xml#nao01"> перемирия</placeName> исправлены и снабжены
+    всеми к тому нуждами. Зная ваше усердие и вашу прозорливость, отнюдь не сомневаемся Мы, что вы
+    будете уметь, коим образом сии разныя степени и положения везде вообще и частно, в вашей
+    стороне, быть, могущия, наилучше между собою согласовать в один конец службы и славы Нашей и
+     <placeName ref="places.xml#rus01"> отечества</placeName>, дабы одни другим, по разному их
+    свойству, не прекословя, взаимное, напротив того, друг другу подкрепление и способствование
+    преподавать могли. Мы пребываем вам, впрочем, Императорскою Нашею милостию благосклонны. </p>
+   <closer><dateline rend="inline">Дан в <placeName ref="places.xml#pet01">
+     С.-Петербурге</placeName>, <date when-custom="1772-02-13">13-го Февраля, 1772 года</date>.</dateline>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

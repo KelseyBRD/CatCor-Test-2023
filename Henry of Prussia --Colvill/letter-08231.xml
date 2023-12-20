@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08231</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08231</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="letterType">
+     <term target="kw.xml#letterofthanks"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-02">02-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:22:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08231">
+  <body>
+   <opener><dateline> ce <date when-custom="1773-10-13">13 d’octobre 1773</date></dateline></opener>
+   <p>Je trouve que c'est une terrible chose que de faire la connaissance de gens qui vous inspirent
+    de l'amitié et de l’estime, lorsqu'on n'est pas destiné de vivre avec eux; quand ils vous
+    quittent, vous en voilà réduit aux regrets, et ceux-ci vous restent longtemps. J'ai fait depuis
+    trois ans deux fois cette terrible expérience. Le <name ref="events.xml#henry01"> séjour de V.
+     A. R.</name> et Son départ est bien présent encore à mon esprit, et présentement <persName
+     ref="people.xml#kar01"> Mad. la landgrave</persName>, votre ancienne amie et j'ose espérer la
+    mienne, me joue le même tour. Mais je ne dois point m'en plaindre, car vous êtes gens trop bons
+    à connaître; aussi je m'en prends uniquement à mon sort qui ne m'a point destinée à pouvoir
+    vivre et voir journellement les personnes que j'estime et pour lesquelles je me sens l'amitié la
+    plus sincère. Je partage d'avance avec V. A. R. le plaisir qu'Elle aura de revoir <persName
+     ref="people.xml#kar01"> Mad. la landgrave</persName>, qui a été témoin pendant quatre mois du
+    plaisir que j'ai de m'entretenir des belles qualités de V. A. R. et de me glorifier de Son
+    amitié; la mienne ne finira qu'avec ma vie.</p>
+   <closer><signed>C'est avec la plus haute considération...</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03657</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03657</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:23:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03657">
+  <body>
+
+   <p>Monsieur le baron de <persName ref="people.xml#gri01"> Grimm</persName>! Pleinement satisfaite de l’exactitude avec laquelle
+    vous avez exécuté toutes les commissions qui vous ont été données de ma part, et de l’emploi que
+    vous avez fait des sommes qui vous ont été remises pour mon service, je vous écris cette lettre
+    pour vous servir de quittance générale de toutes les dites sommes que vous avez tirées jusqu’au
+    17 (28) septembre de l’année courante 1787. Sur ce je prie Dieu, monsieur le baron
+    de <persName ref="people.xml#gri01"> Grimm</persName>, qu’il vous ait en sa sainte et digne garde.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Catherine</persName>.</signed>
+   <dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1787-12-13">13 (24) décembre 1787</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

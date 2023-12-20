@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00016</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00016</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#holstein"/>
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-03">03 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some further tagging and annotation.</p>
+            </change>
+            <change>
+                <date when="2015-02-25">25 February 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00016">
+                <body>
+                    <opener>
+                    <salute>Monsieur mon Frère et Cousin,<note type="editorial">This letter is
+                            published from the draft held in Moscow, AVPRI F. 96, opis 96/6, no. 26.
+                            The editor of the print edition, Gunnar von Proschwitz, points out that
+                            the large number of changes and corrections made to the draft show how
+                            much care was taken to achieve the appropriate wording and tone
+                                    (<bibl><title ref="works.xml#cather01">Catherine II et Gustave
+                                    III: une correspondance retrouvée</title>, <biblScope unit="pp"
+                                    >p. 52</biblScope></bibl>).</note></salute></opener>
+                    <p>Le ton de franchise avec lequel Votre Majesté me parle pour la seconde fois
+                        dans sa lettre sur mes arrangements et ceux de mon fils tant avec la Cour de
+                            <placeName ref="places.xml#den01">Dannemarc</placeName> qu'en faveur de
+                        la branche cadette de la <orgName ref="orgs.xml#hols01">maison
+                            d'Holstein</orgName> ne saurait que m'être extrêmement agréable. C'est
+                        aussi celui que j'aime le plus à voir dans un Roi mon proche parent et le
+                        seul qui convienne à mes sentiments, parce qu'il m'est naturel.</p>
+                    <p>Je ne saurais donc en avoir d'autre dans ma réponse à la communication de
+                        Votre Majesté. C'est un fait qui Lui est connu que l'échange éventuel du
+                            <placeName ref="places.xml#hol03">Holstein</placeName> que j'ai arrêté
+                        avec le <rs ref="people.xml#chr01">Roi de Dannemarc</rs>, n'est autre chose
+                        que ce que <rs ref="people.xml#ado01">le feu Roi Son père</rs> avait fait
+                        avec la même Cour. Le motif qui l'aura animé probablement était le même que
+                        celui que j'ai eu, et qui est d'arracher une pomme de discorde dans le
+                        Nord.</p>
+                    <p><rs ref="people.xml#pau01">Mon fils</rs>, parvenu à un âge mûr et réfléchi, a
+                        senti la solidité de ces vues politiques et a consommé l'ouvrage. Ses
+                        sentiments de tendresse pour sa famille que je voyais avec contentement
+                        s'accroître, ont porté à la même époque son attention sur la branche cadette
+                        de notre maison, et il n'a pu qu'être touché en la voyant beaucoup moins
+                        favorisée de la Providence que les trois branches aînées appelées à remplir
+                        les trois trônes du Nord. C'est par un pur mouvement d'affection et de son
+                        propre gré qu'il a voulu diminuer ce désavantage en lui transportant les
+                        biens qui lui revenaient à titre d'échange d'États héréditaires.</p>
+                    <p>Comme je n'ai pu qu'approuver l'acte de générosité que faisait mon fils et
+                        applaudir au sentiment qui le lui dictait; je ne saurais de même trouver à
+                        redire à la réserve que Votre Majesté se propose de faire faire de ses
+                        droits et de ceux de Sa branche auprès du chef de <placeName
+                            ref="places.xml#hol01">l'Empire Romain</placeName>. Il est bien éloigné
+                        de ma pensée qu'Elle puisse attaquer en quoi que ce soit le droit éminent de
+                        souveraineté dont mon fils a fait un si noble usage; elle n'est à mes yeux
+                        qu'une attention aux intérêts de Votre famille qui, à moi-même, ont tant de
+                        droits de m'être chers.</p>
+                    <p>C'est dans cet esprit que j'aime à m'expliquer avec Votre Majesté sur ce qui
+                        peut les concerner, et dans cette occurrence, je ne satisfais pas moins à
+                        mon désir sincère d'entretenir la plus parfaite harmonie entre nous et dans
+                        notre maison qu'à celui de prouver les sentiments de la haute considération
+                        et de l'amitié avec lequels je suis,</p>
+                    <closer>
+                        <signed>Monsieur mon Frère et Cousin, de Votre Majesté, la bonne Sœur,
+                            Cousine et Voisine,
+                        <persName ref="people.xml#cat01">[Catherine]</persName></signed>
+                        <dateline><placeName ref="places.xml#tsa01">Czarskoe Selo</placeName>
+                        <date when-custom="1774-02-10">ce 10 février 1774</date></dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <opener><salute>My dear Brother and Cousin,</salute></opener>
+                    <p>The frank tone with which Your Majesty speaks to me for the second time in
+                        his letter about my arrangements and those of my son, both with the Court of
+                        Denmark and in favour of the younger branch of the house of Holstein, cannot
+                        but be extremely agreeable to me. It is also the one that I most like to see
+                        in a King who is my close relative, and the only one that matches my
+                        sentiments, for it is natural to me.</p>
+                    <p>I therefore cannot adopt any other in my reply to Your Majesty’s
+                        communication. It is a fact known to You that the possible exchange of
+                        Holstein, which I have settled upon with the King of Denmark, is nothing
+                        other than what the late King Your father had agreed with the same Court.
+                        The motive that drove him was probably the same which I had, and that is to
+                        remove an apple of discord from the North.</p>
+                    <p>My son, upon reaching the age of maturity and reflection, felt the solidity
+                        of these political views and consummated the task. His feelings of
+                        tenderness for his family, which I happily saw growing, brought at the same
+                        time the younger branch of our house to his attention, and he could not but
+                        be moved upon seeing it much less favoured by Providence than the three
+                        elder branches, which had been called to fill the three Northern thrones. It
+                        was out of a pure impulse of affection and of his own free will that he
+                        wished to diminish this disadvantage by transferring to it the possession
+                        that he was to inherit as an exchange of hereditary States.</p>
+                    <p>As I could not but approve of my son’s act of generosity and applaud the
+                        sentiment which dictated it, I similarly cannot find anything objectionable
+                        in the restriction that Your Majesty proposes to make in his rights and
+                        those of Your branch with regard to the head of the Roman Empire. It is far
+                        from my thoughts that You might in any way attack the eminent right of
+                        sovereignty which my son has so nobly used; it is in my eyes but
+                        thoughtfulness for the interests of Your family which have so many claims to
+                        be dear to me as well.</p>
+                    <p>It is in this spirit that I like to discuss with Your Majesty that which
+                        might concern them, and, on this occasion, I am satisfying my sincere desire
+                        no less to maintain the most perfect harmony between us and within our house
+                        than to prove the sentiments of high regard and friendship with which I
+                        am,</p>
+                    <closer>
+                        <signed>My dear Brother and Cousin, Your Majesty's good Sister, Cousin and
+                            Neighbour,
+                        <persName>[Catherine]</persName></signed>
+                        <dateline><placeName ref="places.xml#tsa01">Tsarskoe Selo</placeName>
+                        <date when-custom="1774-02-10">this 10 February 1774</date></dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

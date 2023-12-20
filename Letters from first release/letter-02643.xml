@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02643</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02643</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-24">24 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02643">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#mos01">à Saint Pétersbourg</placeName>,
+                                <date when-custom="1763-10-09">ce 9 d'Octobre
+                            1763</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère</salute></opener>
+                    <p>Je reçois en ce moment la lettre de Votre Majesté du 7 d'Octobre. Je sens
+                        beaucoup de satisfaction d'avoir, au moment que j'ai appris <rs type="event"
+                            ref="events.xml#augus01">la mort</rs> du <rs ref="people.xml#aug03">roi
+                            de Pologne</rs>, prévenu les désirs de Votre Majesté. Elle aura vu par
+                        ma lettre du 6 v. st. avec quelle ouverture de coeur, je me suis expliquée à
+                        Elle. Les mêmes idées, les mêmes arrangements que Votre Majesté me conseille
+                        avec tant d'amitié et de sincérité me sont venus dans l'esprit et ont été
+                        mis en exécution. Mes lettres en réponse à celles de l'<rs
+                            ref="people.xml#fri08">électeur</rs> et l'<rs ref="people.xml#mar06"
+                            >électrice</rs> de <placeName ref="places.xml#sax01">Saxe</placeName>
+                        leur en diront assez pour leur expliquer mes intentions. On ne peut nier
+                        qu'il ne soit nuisible d'accoutumer les Polonais à l'hérédité de leurs rois
+                        de père en fils. Je souhaite, je désire la paix, mon <rs
+                            ref="people.xml#vor03">chancelier</rs> m'écrit qu'il trouve Votre
+                        Majesté dans les mêmes sentiments; c'est ce qui augmente mon envie de
+                        cultiver son amitié. J'espère que tout se passera avec tranquillité. Je ne
+                        saurais assez témoigner de reconnaissance à Votre Majesté des intentions
+                        favorables qu'Elle me montre de vouloir agir unanimement avec moi, </p>
+                    <closer>
+                        <signed>étant au reste avec la plus haute considération, Monsieur mon Frère,
+                            de Votre Majesté, la très bonne Soeur,
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03640</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03640</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-16">16-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:21:43Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03640">
+  <body>
+   <opener><dateline> Ce <date when-custom="1786-10-15">15 d’octobre 1786</date>.</dateline></opener>
+   <p>Je viens de recevoir votre missive du 19 (30) septembre avec le catalogue des pierres d’
+     <persName ref="people.xml#enn01"> Ennery</persName>; il me paraît que ceci ou cette emplette
+    est plus conforme à l’argent que vous avez, mais je la trouve furieusement chère; j’ai eu pour
+    mille livres sterling la belle collection du lord <persName ref="people.xml#per02"> Algernon
+     Percy</persName>, où il n’y a pas une pièce médiocre. En général, je trouve que ce que j’achète
+    en <placeName ref="places.xml#eng01"> Angleterre</placeName> est à meilleur marché présentement que ce que j’achète
+    en <placeName ref="places.xml#fra01"> France</placeName>. Achetez, n’achetez pas: pour le moment cela m’est indifférent, parce
+    que le raisin est vert. </p>
+   <closer><signed rend="inline">Adieu. Je souhaite que vos courses vous guérissent de votre barre, et
+    sourtout le pieux de la ligue que vous trouverez chemin faisant.</signed></closer>
+  </body>
+ </text>
+</TEI>

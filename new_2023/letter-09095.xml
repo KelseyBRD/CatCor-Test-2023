@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09095</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09095</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-28">2023-06-28</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09095"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-12-26">1788 г. декабря 26.</date>
+                </dateline>
+            </opener>
+            <p>Чтоб казенныя палаты прислали, за кем по городам, селениям и уездам отданы кабашные откупа, и за кем целыя губернии?</p>
+                <p>Чтоб при отдаче наблюдалась 94, 95, 96 статьи <rs ref="works.xml#uovine01">устава</rs>.</p>
+                <p>Каких причин ради казна подряжает вино, а не откупщик кабашной,—мне теперь на память не приходит; а помнится, что тем обузданы откупщики в верном откупа платеже; а народ получает вино лучше, чище и без примеси.</p>
+        </body>
+    </text>
+</TEI>

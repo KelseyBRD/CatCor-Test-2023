@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02701</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02701</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#reading"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:14:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02701">
+  <body>
+
+  
+   <p>Monsieur, au retour de mon petit voyage le long des côtes de la <placeName
+     ref="places.xml#bal01">Baltique</placeName> j’ai reçue (sic) vos deux lettres, l’une en réponse
+    à la mienne et l’autre sur la médaille, qui m’ont fait beaucoup de plaisir ; si je ne craignais
+    de nouveau vos remercîments, je serai (sic) tentée de vous envoyer celle que j’ai imaginée, et
+    qui a été frappée sur l’érection de la maison des Enfants-Trouvés ; elle n’en est peut-être pas
+    meilleure pour cela, mais elle me plaît parce qu’il y a peu de raffinement et que je liais celle
+    où il faut se casser la tête pour deviner ce qu’elle signifie et ordinairement c’est ce dont on
+    se doutait le moins. Vous savez depuis longtemps que les grands seigneurs savent tout sans avoir
+    rien appris. Voilà mon cas. Cessez donc de prétendre que je vous dise mon avis sur vos ouvrages.
+    Je ne puis vous dire ce qui y manque mais bien ce que j’y ai trouvé. Une profondeur de
+    raisonnement jointe à une vaste étendue de génie, l’agrément du style et une grande aisance à
+    manier et à rendre claire pour les ignorants (comme moi), mettez telle matière qu’il vous plaît.
+    Ne vous découragez pas, donnez-nous ce catéchisme tel que votre jugement vous le dictera et
+    moquez-vous des clameurs des sots. Tant pis pour eux. S’ils s’exposent à glaner sur ce qui est
+    utile au genre humain, ils n’en seront que plus méprisés. Que pouvez-vous craindre des
+    fanatiques quand vous me dites <hi rend="italic">la partie moyenne de la nation c’est-à-dire la
+     partie qui ne peut rien et qui ne fait que voir sans agir est plus éclairée que jamais</hi>
+    ? Voilà donc le plus grand nombre, il serait honteux aux autres do n’être de leur avis. Mais
+    cessons ce badinage; il y a des fanatiques partout, je viens d’en faire la triste expérience et
+    je suis persuadée que c’est un degré de maladie de cerveau à laquelle une certaine sorte
+    d’éducation contribue comme un corps d’habit mal fait rend bossues les petites filles. C’est
+    votre catéchisme qui doit prévenir à l’avenir ces maux ; voyez donc si désormais vous pourrez
+    vous dispenser de ce travail sans vous faire des reproches. Il est déjà assez affligeant
+     qu’<persName ref="people.xml#cha12"> Abraam Chaumaix</persName> aie arrêté l'<title
+     ref="works.xml#encycl01"> Encyclopédie</title> et qu’ensuite il soit venu à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> où il m’écrit des panégyriques; sa flatterie
+    est fine comme vous voyez. Quand vous en aurez le temps, je vous prie de me dire si tout de bon
+    vous ne travaillez plus à ce dictionnaire? la défense de l’imprimerie existe-t-elle encore?
+    toutes les facilités vous les auriez...</p>
+   <p>Je fais travailler aux règlements de mon <orgName ref="orgs.xml#acad01"> Académie des
+     sciences</orgName>. Vous aimez trop l’encouragement et l’augmentation des connaissances
+    humaines pour me refuser, j’espère, vos avis sur cet article, quand je vous prierai de me
+    guider. Vous voudriez pour l’instruction de ceux qui ont le pouvoir en main publier ma lettre,
+    je vous supplie, n’en faites rien ; si, selon l’évangile, ils n’écoutent ni <persName
+     ref="people.xml#mos02"> Moïse</persName> ni les prophètes, ils écouteront encore moins les
+    vivants. Soyez bien persuadé que vos lettres, monsieur, ne sont jamais trop longues pour moi qui
+    suis remplie de la plus parfaite estime pour vous.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed>
+   <dateline><placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, ce<date
+     when-custom="1764-09-20"> 20 septembre 1764</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02898</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02898</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-13">13-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:22:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02898">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Чрез сие даю в ваше благоусмотрение приехать нынешнею зимою в <placeName
+     ref="places.xml#ita01"> Италию</placeName> или остаться в <placeName ref="places.xml#aeg01">
+     Архипелагии</placeName>, в чем наипаче прошу вас смотреть на состояние вашего здоровья и быть
+    уверенным, что Я, как всегда, к вам с отменным доброжелательством пребываю благосклонна.</p>
+   <signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline><date when-custom="1772-12-17"> Дек. 17 ч. 1772 г.</date></dateline>
+   <postscript><p>Пришлите ко мне пожалуста в копии, при письме, <placeName
+     ref="places.xml#nao01"> перемирие</placeName><note type="editorial" place="foot" xml:id="ftn1" n="1"><p
+      rend="footnote text"> Meant the Truce of Naousa (2(14) July 1772)</p></note>, заключенное
+    между адмиралом <persName ref="people.xml#spi01"> Спиридовым</persName> и <persName
+     ref="people.xml#mus06"> турецким коммисаром</persName>.</p></postscript>
+  </body>
+ </text>
+</TEI>

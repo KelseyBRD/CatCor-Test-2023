@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01041</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01041</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+   
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-18">11-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:15:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01041">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1782-09-12">12 de septembre 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Qu’il me soit permis aujourd’hui d'adresser ces lignes à V. M. I., où <rs
+    ref="people.xml#pau01 people.xml#mar02">mes enfants</rs>, qui auront l’honneur de les Lui
+    remettre, jouissent du bonheur de se trouver à Sa Cour et Lui ont amené le gage précieux de
+    l’amitié, cette <persName ref="people.xml#eli06"> Princesse Elisabeth de Württemberg</persName>
+    choisie par V. M. I. pour cimenter les liens de l’union que V. M. I. de même que moi souhaitons
+    ardemment de voir établie à perpétuité entre nos deux maisons, et qui doit contribuer à assurer,
+    à établir le bonheur futur do bien de peuples. Remplie toujours de la même confiance envers V.
+    M. I., je ne puis douter aucunement de l’accueil gracieux dont ils ont à se flatter de Sa part,
+    ni du sort heureux que V. M. I. prépare à une Princesse qui aura l’honneur de Lui appartenir
+    d’aussi près, et dont Elle se plaira à prendre un soin vraiment paternel. </p>
+   <closer><signed rend="inline">Ce m’est une occasion favorable pour renouveler à les sentiments remplis
+    de la plus haute considération, de l’estime sans bornes et de la sincère amitié avec laquelle je
+    suis</signed></closer>
+  </body>
+ </text>
+</TEI>

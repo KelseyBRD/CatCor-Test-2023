@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09088</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09088</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-23">2023-06-23</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09088"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-09-21">1788 г. сентября 21.</date>
+                </dateline>
+            </opener>
+            <p>С сих бумаг прикажите копии списать
+                <note type="editorial">
+                    Apparently, Catherine mentions Swedish notes about the war that were issued to <persName ref="people.xml#raz02">Count Razumovskii</persName> and to the ministers of other courts (
+                    <bibl>
+                        <title ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskago 1782-1793</title>
+                        , <biblScope unit="pp">pp. 157.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                . Также надлежит требовать ноту <persName ref="people.xml#raz02">гр. Разумовскаго</persName>, поданную <date when-custom="1788-06-18">18 июня</date> <placeName ref="places.xml#swe01">шведскому</placeName> министерству и, списав копию, возвратить <persName ref="people.xml#ost05">гр. Остерману</persName>.
+                <note type="editorial">
+                    This note caused offence in <persName ref="people.xml#gus01">Gustav III</persName>, as it distinguished between the king of Sweden and the Swedish nation. <persName ref="people.xml#raz02">Razumovskii</persName> was ordered to leave <placeName ref="places.xml#sto01">Stockholm</placeName> in 8 days after delivering this note (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 54.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

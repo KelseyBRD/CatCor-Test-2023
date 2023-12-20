@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01037</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01037</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:14:17Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01037">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet02">Péterhof</placeName>, ce <date
+      when-custom="1782-07-02">2 juillet 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Les deux lettres que V. M. I. m’a fait l’honneur de m’écrire du 1 et 11
+    juin ont fait sur moi l’impression que je ressens à chaque fois que j’en reçois de Sa part.
+    D’abord je les parcours des yeux et puis j’en fais une lecture aussi rapide qu’avide qui met mes
+    esprits en fermentation. Que ne dois-je pas à V. M. I. pour toutes les marques d’amitié et
+    d’affection qu’Elle me donne et dont Ses lettres sont remplies. La fluxion des yeux que V. M. I.
+    a ressentie, je la regarde comme le fruit d’une fort grande application. J’en ai été d’autant
+    plus vivement frappée, qu’il y a dix ans que j’ai eu une douleur approchante aux yeux et à la
+    tête dès que je lisais la moindre chose à la lumière. C’était dans le plus fort de la guerre, il
+    m’arrivait des gros paquets à toute heure, j’avais la coutume de lire tout moi-même le jour
+    comme la nuit, et mon sang agité par divers chagrins se (godait à la tête. C’est aux bains
+    froids et aux lunettes de conserve quel j’attribue ma guérison; de ces dernières j’ai commencé à
+    me servir à la lumière, et peu à peu je les ai trouvées si utiles pour mes yeux que je m’en sers
+    par habitude présentement. Que V. M. I. me pardonne ce récit produit par l’amitié la plus
+    sincère et l’intérêt le plus vif que m’inspire Son auguste personne.</p>
+   <p>Les Anglais depuis une vingtaine d’années paraissaient aussi avoir contracté l’habitude des
+    mesures qui ont accéléré l’état présent de la situation dont ils souhaitent ardemment de sortir
+    dans ce moment. Conformément aux désirs de V. M. I. je leur ai fait insinuer réitérativement
+    qu’ayant accepté en commun avec V. M. I. la médiation à nous déférée de toutes les parties
+    intéressées, je ne saurais supposer que l’envoi de M. <persName ref="people.xml#gre03">
+     Grenville</persName> et consort à <placeName ref="places.xml#par01">Paris</placeName> eût été
+    fait dans d’autres vues que d’accélérer la paix, en avançant la médiation au point qu’elle
+    puisse être conclue au congrès de <placeName ref="places.xml#vie01">Vienne</placeName> par
+    l’entremise des <rs ref="people.xml#jos01 people.xml#cat01">deux Cours Impériales</rs> ; que je
+    ne pouvais imaginer qu’après tant de soins impartiaux employés de la part des médiateurs, on pût
+    les laisser dans une profonde ignorance à l’égard de cette négociation, et que <rs
+     ref="events.xml#ameri01"> la paix</rs> pût être conclue à leur insu; que sur la communication
+    amicale, faite préalablement de la part de la Cour de <placeName ref="places.xml#lon01"
+     >Londres</placeName>, je n’avais point balancé de confirmer V. M. I. dans cette opinion, et que
+    je ne pouvais m’empêcher de remarquer qu’un événement qui démentirait cette supposition, serait
+    aussi peu analogue à la bonne intelligence qui existe entre la <placeName ref="places.xml#rus01"
+     >Russie</placeName> et la <placeName ref="places.xml#gre01"> Grande-Brétagne</placeName>,
+    qu’elle répondrait peu aux sentiments de considération dûs aux médiateurs. J’ose espérer que
+    cette insinuation sera suffisante, et que V. M. I. y verra mon désir et mon empressement à
+    coopérer a tout ce qui peut se rapporter à l’office commun dont nous nous sommes chargés. Le
+    ministère anglais ayant toujours averti mes ministres des envois qu’ils ont fait en <placeName
+     ref="places.xml#fra01">France</placeName>, une paix secrète sans la participation des
+    médiateurs ne pourrait avoir lieu que d’un consentement commun des belligérants, en quel cas les
+    Cours de Bourbon, ayant une fois accepté la médiation, ne montreraient pas moins
+    d’inconsidération pour nos offices. D’après ce raisonnement je me flatte que V. M. I. conviendra
+    de l’utilité qu’une insinuation pareille il ces Cours et dans le même sens de Sa part pourrait
+    produire.</p>
+   <p>Que V. M. I. me permette de réserver à une occasion prochaine ce qui a rapport à l’esquisse du
+    code maritime, ouvrage aussi utile qu’il paraît difficile. Le sort que V. M. I. destine au port
+    de <placeName ref="places.xml#gib01"> Gibraltar</placeName>, est d’une utilité si universelle
+    qu’il est impossible de n’y pas applaudir, et par conséquent en temps et lieu y donner toute
+    l’attention que la matière exige, pour la porter au point désiré, quoiqu'il arrive de la
+    place.</p>
+   <closer><signed>C’est avec la plus liante considération et tous les sentiments de l’amitié et de
+     l’attachement le plus sincère que j’ai l’honneur d’être……</signed></closer>
+   <postscript>
+    <p>J’ai mille remercîments encore à faire à V. M. I. pour les avis qu’Elle a la bonté de me
+     donner au sujet de <rs ref="people.xml#pau01 people.xml#mar02">mes enfants</rs>. Je sais aussi
+     qu’eux et moi nous devons à V. M. I. l’accueil dont ils ont joui aux <placeName
+      ref="places.xml#nap01"> Cours de Naples</placeName>, <placeName ref="places.xml#flo01">
+      Florence</placeName>, <placeName ref="places.xml#par03"> Parme</placeName>, <placeName
+      ref="places.xml#mil01"> Milan</placeName> et <placeName ref="places.xml#par01"
+      >Paris</placeName>.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

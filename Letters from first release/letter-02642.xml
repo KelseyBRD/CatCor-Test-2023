@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02642</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02642</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="poland">
+                    <term target="kw.xml#throne"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-16">16 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Markup and metadata.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02642">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1763-10-06">ce 6 d'Octobre
+                            1763</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p>En apprenant <rs type="event" ref="events.xml#augus01">la mort</rs> du <rs
+                            ref="people.xml#aug03">roi de Pologne</rs>, mon esprit se tourne
+                        naturellement vers Votre Majesté; j'ai devant moi sa lettre du 15 Février de
+                        cette année où Elle me dit qu'il nous conviendrait mieux à tous les deux
+                        qu'un Piaste<note type="editorial">A native-born Pole, rather than a foreign
+                            ruler.</note> remplît le trône vacant, je veux apprécier cette
+                        convenance commune, encore à une considération particulière, que la prudence
+                        peut suggérer, et qui est, qu'une prescription d'élection non interrompue
+                        dans la même maison ne puisse dégénérer en droit d'héritage, en intimidant
+                        l'esprit de liberté dans la nation. Le cas de notre concert existant, il ne
+                        s'agit plus que de nous expliquer et pour éviter toute longueur je propose à
+                        Votre Majesté entre les Piastes celui que je trouve pouvoir être le plus
+                        redevable à Votre Majesté et à moi de ce que nous allons faire pour lui. Si
+                        Votre Majesté y consent, c'est le stolnik<note type="editorial">An honorary
+                            title at the Polish-Lithuanian court.</note> de <placeName
+                            ref="places.xml#lit01">Lithuanie</placeName> conte <persName
+                            ref="people.xml#pon01">Stanislas Poniatowski</persName>; et voici mes
+                        raisons: il est de tous les prétendants à la couronne de <placeName
+                            ref="places.xml#pol01">Pologne</placeName>, celui qui a le moins de
+                        moyens pour y parvenir et celui qui parait en être par là le plus éloigné et
+                        par conséquent qui en sera le plus redevable à ceux, des mains de qui il
+                        tiendra la couronne. Il ne sera pas de même des chefs de notre parti: celui
+                        d'entre eux qui y parviendra partagera de beaucoup sa reconnaissance entre
+                        nous et son savoir faire dans la conduite et la direction systématique de
+                        ses vues de longue main. Votre Majesté me dira qu'il n'aura pas de quoi
+                        vivre, mais je crois que <rs type="org" ref="orgs.xml#czar01">les
+                            Czartorysky</rs> fort intéressés qu'un de leur maison préférablement à
+                        tout autre occupe le trône, pourront être portés eux-mêmes à rendre son état
+                        convenable à sa dignité. Il me semble que nous ne pourrions trouver un sujet
+                        plus convenable à nos intérêts réciproques; je ne sépare point, ceux de
+                        Votre Majesté des miens, j'aime au contraire à les considérer sous ce point
+                        de vue étant intentionnée d'entretenir et de cultiver l'amitié de Votre
+                        Majesté et espérant que de son côté Elle instruira son ministre à <placeName
+                            ref="places.xml#war01">Varsovie</placeName> d'agir unanimement avec le
+                        mien le tout pour le bien de la paix, que je tiens pour inaltérable aussi
+                        longtemps que je jugerai des sentiments de Votre Majesté par les miens, </p>
+                    <closer>
+                        <signed>c'est tout dire, étant avec la plus haute<note type="editorial">The
+                                source edition has a comma after 'haute'.</note> considération,
+                            Monsieur mon Frère, de Votre Majesté la bonne Soeur
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                    <postscript>
+                        <p>Que Votre Majesté n'apprenne point avec quelque surprise les dispositions
+                            militaires qu'on fera dans mes frontières. Elles sont combinées, sans
+                            doute avec mes principes et maximes d'état, contenues dans ma lettre,
+                            tout trouble m'est odieux et je désire ardemment que ce grand objet
+                            s'arrange tranquillement, à cette fin je ne négligerai rien de tout ce
+                            qui peut être relatif à <placeName ref="places.xml#ott01">la Porte
+                                Ottomane</placeName>, et j'attends de la droiture des sentiments de
+                            Votre Majesté que son <rs ref="people.xml#ben01">ministre</rs> y soit
+                            incessamment instruit en conséquence, pour qu'il puisse agir d'un
+                            concert parfait avec <rs ref="people.xml#key03">le mien</rs>. </p>
+                    </postscript>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

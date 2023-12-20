@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02904</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02904</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-30">30/03/2021</date><persName>Olga Smolyak</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:28:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02904">
+  <body>
+   <salute>Граф <persName ref="people.xml#orl03">Алексей Григорьевич</persName>!</salute>
+   <p>Всемилостивейше пожаловали Мы вашего генералс-адъютанта <persName ref="people.xml#apr04">
+     Тимофея Апрелева</persName> в подполковники, да флигель-адъютантов: <persName
+     ref="people.xml#mas01"> Александра Маса</persName> и <persName ref="people.xml#riz01"> Георгия
+     Ризо</persName> в секунд-майоры.</p>
+   <signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName>.</signed>
+   <dateline><placeName ref="places.xml#pet01"> С.-Петербург</placeName> 
+   <date when-custom="1773-12-06"> 6 декабря, 1773 г.</date></dateline>
+  </body>
+ </text>
+</TEI>

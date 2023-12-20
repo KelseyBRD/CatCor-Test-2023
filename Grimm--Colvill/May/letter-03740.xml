@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03740</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03740</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#england"/>
+     <term target="kw.xml#prussia"/>
+     <term target="kw.xml#europe"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-12">12-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:09:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03740">
+  <body>
+
+   <opener>
+    <dateline> Ce <date when-custom="1796-10-20">20 d’octobre 1796</date>.</dateline></opener>
+   <p>J’ai reçu hier et avant-hier par <persName ref="people.xml#kol01"> Kolitchef</persName> et
+    Jakovlef les lettres que vous m’avez adressées; je n’ai pas le temps d’y répondre, parce que
+    j’en ai reçu aussi d’<placeName ref="places.xml#eng01"> Angleterre</placeName> et de <placeName
+     ref="places.xml#per02"> Perse</placeName>, qui, quoique très satisfaisantes en tout point, ne
+    laissent pas de donner de l’occupation. Le <persName ref="people.xml#fri03"> roi de <placeName
+      ref="places.xml#pru01"> Prusse</placeName></persName> arme; qu’en pensez-vous? Contre qui?
+    Contre moi. Pour faire plaisir à qui? Aux régicides, ses amis, sur lesquels il ne peut compter
+    pas un moment. Il faut convenir qu’on compromet singulièrement l’honneur et la gloire de ce
+    prince, en lui donnant d’aussi perfides conseils. L’honneur et la gloire n’ont qu’un chemin.
+    J’ai pris la liberté de le lui proposer; on l’en détourne pour l’engager dans un dédale
+    au-dessous de sa puissance; on va le rendre le très humble serviteur des scélérats arrogants
+    qui, au bout du compte, ne visent qu’à sa destruction. Si par ces armements on croit me
+    détourner de la marche de mes troupes aux ordres du maréchal <persName ref="people.xml#suv01">
+     Souvorof</persName>, on se trompe très fort, car malgré cela je resterai ferrée de tous les
+    côtés possibles, sans exception aucune. Je prêche et prêcherai cause commune à tous les rois
+    contre les destructeurs des trônes et de la société, malgré tous les adhérants du misérable
+    système contraire, et nous verrons qui prendra le dessus: la raison ou le déraisonnement des
+    perfides partisans d’un système exécrable, qui par lui-même exclut et foule aux pieds tout
+    sentiment de religion, d’honneur et de gloire. En voilà bien assez pour vous dire que j’ai reçu
+    vos lettres. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien, je vous ai dit ce qui est venu se placer
+     au bout de ma plume. Il est bon que vous sachiez ma manière de penser et d’envisager les
+     choses.</signed></closer>
+  </body>
+ </text>
+</TEI>

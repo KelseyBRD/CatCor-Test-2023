@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00018</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00018</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#holstein"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#deathnotification"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-03">03 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some correction of markup/tagging.</p>
+            </change>
+            <change>
+                <date when="2015-03-04">4 March 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00018">
+                <body>
+                    <opener><dateline rend="right">à <placeName ref="places.xml#pet02"
+                                >Peterhof</placeName>
+                            <date when-custom="1774-07-14">ce 14 juillet
+                        1774</date></dateline>
+                    <salute>Monsieur mon Frère et Cousin,</salute></opener>
+                    <p>Je suis persuadée d'avance que Votre Majesté partagera avec moi le chagrin et
+                        la peine que me cause la mort inattendue du <persName ref="people.xml#wil02"
+                            >Prince Guillaume Auguste d'Holstein</persName>, l'aîné des fils du feu
+                            <persName ref="people.xml#geo01">Prince George Louis</persName>, notre
+                        Oncle, dont je lui fais part à mon grand regret par celle-ci. Cette perte,
+                        singulièrement malheureuse dans ses circonstances, m'est d'autant plus
+                        sensible que depuis le décès du feu <rs ref="people.xml#geo01">Duc</rs>, mon
+                        Oncle, j'avais fais prendre, comme Votre Majesté ne l'ignore pas, les plus
+                        grands soins de l'éducation des deux Princes qu'il avait délaissés. Je leur
+                        dois rendre la justice qu'ils répondaient parfaitement à mon attente. C'est
+                        avec la plus grande satisfaction que nous les avons vu revenir l'automne
+                        passé d'<placeName ref="places.xml#ita01">Italie</placeName>, où ils avaient
+                        fini leurs études. Leurs succès répondaient à leur naissance.</p>
+                    <p><rs ref="people.xml#wil02">Le Prince aîné</rs>, par goût et par inclination,
+                        souhaitait d'apprendre la science du service de la Marine, et pour essayer
+                        si sa santé Lui permettrait de suivre son penchant, il m'avait demandé,
+                        tandis que <rs ref="people.xml#pet02">son frère cadet</rs> ferait sa
+                        première campagne dans la <placeName ref="places.xml#bul01"
+                            >Bulgarie</placeName>, de passer la belle saison sur mes escadres qui
+                        exercent dans la <placeName ref="places.xml#bal01">Baltique</placeName>, sur
+                        l'une desquelles j'ai consenti qu'il s'embarque effectivement vers la fin de
+                        juin. C'est là qu'il a plu à la Providence, dont les vues sont
+                        impénétrables, de permettre que la carrière de ce Prince finisse d'une façon
+                        bien déplorable, puisque, malgré toutes les précautions dont on usait chaque
+                        fois qu'il désirait de monter sur les mâts et cordages où il était
+                        accompagné d'officiers et de matelots, il s'est laissé choir dans la mer le
+                        3 de ce mois à la vue du port de <placeName ref="places.xml#tal01"
+                            >Revel</placeName>, et malgré les nageurs du vaisseau <hi rend="italic"
+                            >l'Ezechiel</hi> et les soins que tout l'équipage s'est donnés, non
+                        seulement on n'a pas pu sauver la vie du Prince, ni même retrouver son corps
+                        jusqu'ici.</p>
+                    <closer>Le cœur saisi de ce triste événement qui fait le sujet de cette lettre,
+                        je fais des vœux pour la prospérité et la conservation de Votre Majesté,
+                        étant toujours avec une très haute considération et l'amitié la plus
+                        particulière, <signed rend="below">Monsieur mon Frère et Cousin, de Votre
+                            Majesté, la bonne Sœur, Cousine et Voisine,
+                        <persName rend="below" ref="people.xml#cat01">Caterine</persName></signed>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">At Peterhof, this 14 July
+                        1774</dateline>
+                    <salute>My dear Brother and Cousin,</salute></opener>
+                    <p>I am convinced in advance that Your Majesty shall share with me the grief and
+                        pain caused me by the unexpected death of Prince William August of Holstein,
+                        the elder of the sons of the late Prince George Louis, our Uncle, of which I
+                        inform You to my great regret by the present letter. This loss,
+                        extraordinarily unfortunate in its circumstances, is all the more
+                        distressing to me in that, since the death of the late Duke my Uncle, I had
+                        had, as Your Majesty is not unaware, the greatest care taken in the
+                        education of the two Princes that he had left behind. I must say to their
+                        credit that they met my expectations perfectly. It was with the greatest
+                        satisfaction that we saw their return last autumn from Italy, where they had
+                        completed their studies. Their successes matched their birth.</p>
+                    <p>The elder Prince, according to his tastes and inclination, desired to learn
+                        the science of naval service, and, to test whether his health would permit
+                        Him to follow his preference, he had asked me whether he might, while his
+                        younger brother went on his first campaign in Bulgaria, spend the fine
+                        season on my squadrons exercising in the Baltic, on one of which I consented
+                        that he indeed embark towards the end of June. It was there that it pleased
+                        Providence, whose workings are inscrutable, to allow that Prince’s career to
+                        end in a most deplorable manner, for, despite all the precautions that were
+                        taken each time he wished to climb on the masts and rigging, where he was
+                        accompanied by officers and sailors, he fell into the sea on the 3rd of this
+                        month within sight of the port of Revel. Despite the swimmers of the vessel
+                        Ezechiel and the efforts made by the entire crew, not only could the
+                        Prince’s life not be saved, but even his body has not yet been found.</p>
+                    <closer>With a heavy heart over this sad event that is the subject of this
+                        letter, I wish for Your Majesty’s prosperity and preservation, remaining
+                        always with highest regards and most particular friendship, <signed
+                            rend="below">My dear Brother and Cousin, Your Majesty's, good Sister,
+                            Cousin, and Neighbour,
+                        <persName rend="below">Caterine</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02857</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02857</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>In this letter, Catherine II specified the navy expedition (<rs ref="events.xml#orlov01"/>),
+     which, at the same time, was part of the First Russo-Turkish war (<rs ref="events.xml#turki01"
+     />) Emma: I kept the orlov code, as it already exists, and didn't use turki01</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-27">27/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:47:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02857">
+  <body>
+
+   <opener><salute>Указ нашему генерал-поручику графу <persName ref="people.xml#orl03"> Алексею
+      Орлову</persName>.</salute></opener>
+   <p>Жалуя вас генералом-аншефом от Нашей армии, восхотели Мы чрез сие показать вам сколь приятна и
+    в памяти у Нас усерднейшая ваша к Нам и отечеству служба; вы имеете сим вам пожалованным чином
+    объявить себя не только в потребном вам сообщении с адмиралом Нашим <persName
+     ref="people.xml#spi01"> Спиридовым</persName>, но и когда в действительную известную <rs
+     ref="events.xml#orlov01">вашу экспедицию</rs> вступите. О даче же вам на сей чин патента с сего
+    числа указ Нашей <orgName ref="orgs.xml#coll04"> военной коллегии</orgName> дан.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Екатерина</persName></signed>
+    <dateline>
+     <date when-custom="1769-06-03">Июня 3, 1769 г.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

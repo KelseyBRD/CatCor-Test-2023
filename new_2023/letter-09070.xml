@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09070</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09070</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#navy"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09070"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-07-11">1788 г. июля 11.</date>
+                </dateline>
+            </opener>
+            <p>С сей реляции 
+                <note type="editorial">
+                    In this note Catherine orders to A.V. Khrapovitskii to make for <persName ref="people.xml#gre01">Greig</persName> a copy of a report to <persName ref="people.xml#pot01">A.G. Potemkin-Tavricheckii</persName> from <date when-custom="1788-07-01">July 1 1788</date>, that informed on the victory on <placeName ref="places.xml#dni02">Liman</placeName> and on Turkish ships that were captured or burned down during the battles on <date when-custom="1788-06-07 1788-06-17 1788-06-18">June 7, 17 and 18 1788</date>
+                    (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 61.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                копию спишите и (напишите) письмо к <persName ref="people.xml#gre01">адмиралу Грейгу</persName> с тем, что я ему сообщаю вести <placeName ref="places.xml#bla01">черноморския</placeName>, и что еще четвертое было сражение
+                <note type="editorial">
+                    The forth battle on <placeName ref="places.xml#dni02">Liman</placeName> was also won on <date when-custom="1788-07-01">July 1 1788</date> and reportedly no enemy ships were left in this area
+                    (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 61.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+                , и что курьер с сим едет и везет трофеи, а что было, не знаю. А происходило оно в виду стана <persName ref="people.xml#pot01">генерал-фельдмаршала кн. Потемкина-Таврическаго</persName> под <placeName ref="places.xml#och01">Очаковым</placeName>, где пятый день как траншеи уже открыты. Также напишите, что <persName ref="people.xml#mus02">Пушкин</persName> и <persName ref="people.xml#mik02">Михельсон</persName> начали <placeName ref="places.xml#swe01">Шведов</placeName> щелкать в <placeName ref="places.xml#fin01">Финляндии</placeName>, и что надеюсь, что Бог нас повсюду не оставит.</p>
+        </body>
+    </text>
+</TEI>

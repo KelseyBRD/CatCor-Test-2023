@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02703</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02703</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:15:15Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02703">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, <date
+      when-custom="1765-11-21">21 novembre 1765</date>.</dateline>
+   <salute>Monsieur,</salute></opener>
+   <p>J’ai su votre maladie ; j’ai tremblé pour vos jours ; votre rétablissement a calmé mon
+    inquiétude ; je n’ai pu croire que le chagrin d’une injustice y ait eu part; vous avez refusé
+    bien au-delà de ce qu’on vous retient aujourd’hui. Je plains ceux que le fanatisme et la
+    persécution engagent à se discréditer ainsi. Vous devez avoir en <placeName
+     ref="places.xml#fra01">France</placeName> une profusion de grands hommes puisque le
+    gouvernement ne se croit pas plus obligé à encourager ceux dont le génie est admiré dans les
+    pays les plus lointains. Il est, dites-vous, consolant pour vous que votre souverain l’ignore ;
+    je trouve qu’il ne l’est nullement pour lui ; c’est apparemment la délicatesse de ceux qui
+    l’entourent qui lui en ôtent la connaissance. Au Nord le climat en est sans doute la cause. L’on
+    a des sentiments moins raffinés ; l’on ne permet pas aux souverains d’ignorer quels sont les
+    esprits distingués qui ont droit à leurs bienfaits ; ils sont obligés d’encourager les talents
+    ou bien on les soupçonnerait de n'en point avoir eux-mêmes ; il est douloureux pour tous ceux
+    qui sont avides de s’instruire de ce que ces malaises vous ôtent l’envie d’achever le catéchisme
+    de morale que vous aviez entrepris. Il y aurait cependant des moyens sur lesquels la persécution
+    ni le fanatisme n’aurait pas de prise. La vérité, la raison, le génie humain vous le demande.
+    Mon cahier n’ose casi (sic) paraître sans ce catéchisme tant désiré; c’est l’ouvrage d’un
+    écolier ; il devient volumineux, il y a déjà plus de cent pages. Je les trouve tantôt bonnes,
+    tantôt insuffisantes ; ce que j'y vois de meilleur, c’est qu'il y règne une bonhomie parfaite ;
+    nous verrons ce que les fanatiques y opposeront.</p>
+   <p>Nous en avons qui se brûlent pour se sauver; (si le vôtre (sic) en faisait autant, il ne
+    persécuterait plus).</p>
+   <p>Je ne prévoyais pas que l’achat de la bibliothèque de M. <persName ref="people.xml#did01"
+     >Diderot</persName> dût m’attirer tant de compliments. Je suis bien aise, Monsieur, de vous
+    avoir fait plaisir par là, il aurait été cruel de séparer un savant d’avec ses livres. J’аі
+    souvent été dans le cas d’appréhender qu’on ne m’ôtat les miens; aussi avais-je autrefois pour
+    règle de ne jamais parler de mes lectures. Ma propre expérience m’a empêché de faire cette peine
+    à un autre; soyez assuré de la continuation de mon affection et de l’intérêt que je prends à ce
+    qui vous regarde.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

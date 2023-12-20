@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03645</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03645</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-18">18-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:21:55Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03645">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#kie01">
+     Kiov</placeName>, ce <date when-custom="1787-02-16">16 février 1787</date>.</dateline></opener>
+   <p>J’ai reçu ici deux lettres de <persName ref="people.xml#bet01"> M. Betski</persName>,
+    auxquelles étaient jointes deux autres du jeune <persName ref="people.xml#bob01">
+     Bobr</persName>: datées de <placeName ref="places.xml#par01"> Paris</placeName>, l’une du 28 décembre, l’autre du 11 janvier, où
+    celui-ci se plaint de manque d’argent et en demande à l’autre, tandis que le premier prétend que
+    la somme annuelle a été remise à <persName ref="people.xml#sut01"> Southerland</persName>,
+    banquier. Je vous prie d’abord de ne point laisser manquer d’argent le jeune <persName
+     ref="people.xml#bob01"> Bobr</persName>: et de faire en sorte qu’il compte ou fasse compter ce
+    qu’il a reçu ou non reçu, ou ce qu’il a à recevoir; il doit compter sur trente-sept à
+    trente-huit mille roubles par an, qui lui appartiennent et sont son bien, et que personne ne
+    peut ni ne doit disposer que lui. Je vous prépare une longue pancarte, que j’enverrai par
+    courrier; je suis ici depuis quinze jours; il y a un monde infini ici, et tout le monde se porte
+    bien; entre autres le <persName ref="people.xml#nas01"> prince de Nassau</persName>, qui a fait
+    le tour du monde. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

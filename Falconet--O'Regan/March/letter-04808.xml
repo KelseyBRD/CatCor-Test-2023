@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04808</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04808</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Inclusion. </note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Double check reference to a M. de la Vallière (bau03) in spreadsheet. Kelsey: Yes, this is
+     the most likely identification.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:07:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-02">02/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Query resolved; additional markup.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04808">
+  <body>
+
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.
+    </salute></opener>
+   <p rend="inline">Vous m’apporterez le <rs ref="works.xml#collot01">portrait</rs> de M-lle
+     <persName ref="people.xml#col02"> Collot</persName> après-demain; on le dit très-ressemblant.
+    Si le brocanteur veut prendre des tableaux marqués ainsi + dans la liste ci-jointe cinq à six
+    mille roubles, je les ferai payer. Il est d’une cherté horrible; le misérable <rs
+     ref="works.xml#vallie01">portrait</rs> de M. <persName ref="people.xml#bau03"> de la
+     Vallière</persName>, il en demande cent roubles et il n’a aucun mérite que celui du caprice ou
+    de la fantaisie.</p>
+  </body>
+ </text>
+</TEI>

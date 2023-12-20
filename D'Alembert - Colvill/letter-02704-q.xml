@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02704</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02704</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>I was only able to identify one son of Euler who went
+     with him to St. Petersburg in 1766.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-22">22-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:15:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02704">
+  <body>
+
+  
+   <p>Monsieur, mes principales occupations depuis deux ans se réduisent à copier et à apprécier les
+    principes du président de <persName ref="people.xml#mon03">Montesquieu</persName>. Je m’applique
+    à l’entendre et j’efface aujourd’hui ce que je trouvais bien hier. Vos lettres bien loin de
+    m’interrompre me font toujours un égal plaisir. J’ai reçu le petit écrit par lequel vous avez
+    répondu à une question vague. Je m’attendais presque à cette réponse. Je la trouve très juste;
+    il est impossible de parler par lettre et à une aussi grande distance comme l’on ferait dans une
+    conversation.</p>
+   <p>Je n’ai apprise (sic) le voyage de Madame <persName ref="people.xml#geo04">
+     Geoffrin</persName> qu’après son départ de <placeName ref="places.xml#par01">Paris</placeName>. Je ne lui ai proposé ni ne lui
+    proposerai jamais de venir ici pour deux raisons : l’une, la rigueur du climat; la seconde,
+    c’est que je savais bien d’avance que cette raison l’en empêcherait.</p>
+   <p>Il est vrai, monsieur, que M. <persName ref="people.xml#eul01"> Euler</persName> et ses <rs
+     ref="people.xml#eul02"> fils</rs> ne se sont point effrayés de ce climat si rude; ils viennent
+    d’arriver, j’espère qu’ils ne se glaceront point; leur génie et leur zèle pour les sciences
+    réchaufferont mon <orgName ref="orgs.xml#acad01"> Académie</orgName> et leurs noms
+    restera (sic) à jamais chers à tous nos concitoyens qui aimeront et profiteront de
+    ses (sic) arrangements utiles à l’instruction du genre humain.</p>
+   <p>Votre gouvernement n’aime donc point la philosophie? j’ai, outre cela, entendu dire
+     qu'en <placeName ref="places.xml#fra01">France</placeName>, pour se donner un air d’importance,
+    il fallait dire bien du mal des philosophes; vos climats doux et bénis délient l’esprit; le
+    nôtre rigoureux et engourdi ne saurait pousser si loin la pénétration ; nous laissons les
+    savants tout doucement s’occuper de leurs sciences et l’on ne brûle personne ; aussi ne
+    sommes-nous point aussi heureux ni aussi habiles que vous, ce qui fait que peu de gens
+    s’établissent ici tandis que d’autres pays fourmillent de beaux esprits et que l’abondance est
+    répandue jusque dans les campagnes.</p>
+   <p>Je crains d’abuser de votre patience, c’est pour cela que je finis, en vous assurant de la
+    continuation de l’estime que je vous ai toujours portée.</p>
+   <closer><dateline>Ce <date when-custom="1766-08-31">31 aout 1766</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

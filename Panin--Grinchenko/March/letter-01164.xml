@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01164</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01164</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-20"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01164">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#uly01">Синбирска</placeName>.<lb/>
+                <date when-custom="1767-06-06">Июня 6 ч., 1767 г.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Вчерась я получила почти вдруг два Ваши письма с куриерами от 1 и 2 Июня. Из перваго
+                усмотрела вид, которой Вы надеетеся дать <persName ref="people.xml#gom01"
+                    >Гомову</persName> делу; дай, Боже, чтоб мы могли с честию из сих хлопот вытти.
+                Вы более похвалы письму моему к <persName ref="people.xml#fre01">Королю
+                    Прусскому</persName> даете, нежели я ожидала, сочиня оное, и для того
+                кондиционально к Вам послала. Читала я Ваше письмо к <persName
+                    ref="people.xml#bel01">Белосельскому</persName>, и вижу, что Вы почти держалися
+                моего о сей материи конфузнаго письма. <persName ref="people.xml#ush01"
+                    >Ушаково</persName> письмо не стоит ответа, естьли он, как я почти не
+                сумневаюсь, автор <rs ref="events.xml#leipz01">Лейпцигских конфузий</rs>. <persName
+                    ref="people.xml#tep01">Теплов</persName> всю свою Канцелярию избаловал сам; сей
+                есть третий человек, которой от него с такими начертаниями отошел; у других острецов
+                нет, но все дела делают и порядочно живут. <persName ref="people.xml#pau01"
+                    >Сыну</persName> моему прошу кланяться. Мы все здоровы и приготовляемся к
+                отъезду, которой, однако ж, более суток еще не воспоследует, ибо много разных
+                распоряжений требуют разные команды в разных путях.</p>
+            <closer rend="inline"><signed>Прощайте, желаю Вам скорее выздороветь.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

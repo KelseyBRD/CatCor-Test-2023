@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03691</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03691</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-04">04-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:59:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03691">
+  <body>
+
+   <div>
+    <p>Je ne sais pas qui était ce <seg xml:lang="de"> vielbedeutender Mann</seg> qui а assisté au
+     bal de l’ambassadeur <persName ref="people.xml#kut01"> Koutouzof</persName>; il n’en a jamais
+     fait menton, ou il ne m’en souvient pas; mais l’on dit que dans son sérail sultan <persName
+      ref="people.xml#sel01"> Sélim</persName> a donné, n’y a pas longtemps, un bal soi-disant à
+     l’européenne. J’ignore s’il était tout en hommes ou tout en femmes, mais ce qu’il y a de sûr,
+     c’est qu’il n’a pu être en hommes et en femmes, parce que cela serait d’un scandale sans pareil
+     chez les musulmans. Vous avez bien raison de dire que l’enfantillage des Français perce malgré
+     leur atrocité. <seg xml:lang="de"> Die Nöthereien helfen die unsinnigen weil die Nöther selbst
+      unsinnig sind</seg>. Présentement, comme dès le commencement, il faut que tout ce qu’il y a de
+     bon à faire se fasse par les mains françaises et que celles-ci soient soutenues et appuyées par
+     les puissances, mais pour cela il ne faudrait pas annoncer des projets de démembrement, de
+     conquêtes etc. Les villes se rendraient aux Français et ne se rendront qu’à l’extrémité aux
+     conquérants, aux ennemis déclarés de l’état. On pourrait faire des volumes sur les bêtises qui
+     ont été faites par les <seg xml:lang="de"> Nöthereien-macher</seg>, et tous sont dans le même
+     cas.</p>
+   </div>
+   <div>
+    <opener><dateline> Du <placeName ref="places.xml#tau01"> palais Taurique</placeName>, ce <date
+       when-custom="1794-04-03">3 d’avril</date>.</dateline></opener>
+    <p>Je suis ici depuis avant-hier; je m’y suis campée avec mes petits-fils et petites-filles, et
+     nous y ferons nos dévotions; nous y resterons jusqu’au samedi, que nous irons célébrer la fête
+     de Pâques au palais d’hiver; puis nous reviendrons ici. <rs ref="people.xml#pau01"> Papa</rs>
+     et <rs ref="people.xml#mar02"> Maman</rs> ont été à <placeName ref="places.xml#gat01">
+      Gatchina</placeName> depuis la seconde semaine du carême.</p>
+    <p>Mais écoutez donc: je me suis souvenue hier que vous m’avez dit plus d’une fois: que ce
+     siècle était un siècle de préparation. Or donc, j’ajoute que cette préparation n’était que pour
+     préparer des ordures et des <seg xml:lang="de"> Nöther</seg> de toute espèce, qui font, ont
+     fait et feront des malheurs sans fin et des malheureux innombrables. Ces émigrés dont vous me
+     parlez, s’ils avaient pu faire corps en <placeName ref="places.xml#fra01"> France</placeName>,
+     ils seraient bien mieux que partout ailleurs, et voilà pourquoi il y a deux ans que je prêchais
+     aux princes de la maison de Bourbon de se saisir, comme ils pourraient, de se saisir, dis-je,
+     de la première bicoque qui tomberait sous leurs mains, parce que cette bicoque aurait servi de
+     noyau, mais eux à <placeName ref="places.xml#kob01"> Coblence</placeName> visaient à <placeName
+      ref="places.xml#str01"> Strasbourg</placeName>; or ce morceau était trop gros pour leurs
+     forces, et d’ailleurs ne valait rien: aussi ne l’ont-ils pas eu. Il est vrai que je ne me suis
+     pas pressée de répondre à beaucoup d’émigrés, parce que des premiers que j’ai reçus, excepté
+     quelques jeunes gens qui servent, pas un n’est resté; j’ai supposé qu’ils allaient rentrer dans
+     leur patrie, et que plus le nombre en serait grand, et mieux ce serait. Le marquis de <persName
+      ref="people.xml#lec01"> Juigné</persName> m’a écrit pour entrer à mon service; je sais que
+     c’est un homme estimable, mais ses qualités militaires ne me sont pas connues, et il doit être
+     très vieux, et vous lui avez très bien répondu. Le <persName ref="people.xml#kar03"> duc de
+      Brunswick</persName> aurait dû quitter le service prussien avant la campagne de la <placeName
+      ref="places.xml#pic01"> Picardie</placeName> et les négociations de la Lune, sur lesquelles le
+     secret est toujours impénétrable, quoique le marquis de <persName ref="people.xml#bom01">
+      Bombelles</persName> et monsieur de <persName ref="people.xml#bre02"> Breteuil</persName> y
+     composaient déjà un nouveau ministère, et que madame de <persName ref="people.xml#mat03">
+      Matignon</persName> à <placeName ref="places.xml#bru01"> Bruxelles</placeName> montrait les
+     lettres de son père, qui nageait dans la joie sur les belles suites de cette trop fameuse
+     négociation qui, dit-on, produisit la retraite connue du <persName ref="people.xml#kar03"> duc
+      de Brunswick</persName>. Mais qu’est devenu <persName ref="people.xml#dum05">
+      Dumouriez</persName>? Je sais l’esclandre des trois couleurs arrachées et replantées à
+      <placeName ref="places.xml#fra03"> Francfort</placeName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1794-04-03">3 d’avril</date>.</dateline></opener>
+    <p>Eh bien, tandis que <persName ref="people.xml#fri03"> S. M. prussienne</persName> protège à
+      <placeName ref="places.xml#fra03"> Francfort</placeName> les tricolores et négocie
+     publiquement avec eux, quatre commissaires, dit-on, de la Convention sont entrés dans
+      <placeName ref="places.xml#kra01"> Cracovie</placeName> pour aider les conjurés de <placeName
+      ref="places.xml#pol01"> Pologne</placeName> à déposséder le roi de <placeName
+      ref="places.xml#pru01"> Prusse</placeName> des provinces qu’il en a acquises. Son cordon a été
+     renversé et les aigles abattues. Le général <persName ref="people.xml#ige01">
+      Igelstrom</persName>, mon ministre à <placeName ref="places.xml#war01"> Varsovie</placeName>,
+     ayant eu avis de cette levée de boucliers du Sr <persName ref="people.xml#mad01">
+      Madalinski</persName> et de son compagnon M. <persName ref="people.xml#kos01">
+      Kostiouchka</persName> à <placeName ref="places.xml#war01"> Varsovie</placeName>, a envoyé
+     quelques centaines de <orgName ref="orgs.xml#coss01"> cosaques</orgName> contre le premier.
+     Ceux-ci leur ont appliqué <seg xml:lang="de"> eine derbe russische Schlappe</seg>, et ils
+     courent présentement à la débondade par-ci par-là: nous verrons un peu comment on les
+     soutiendra de <placeName ref="places.xml#kra01"> Cracovie </placeName>et dans <placeName
+      ref="places.xml#kra01"> Cracovie</placeName>. Or il est à croire que les commissaires
+     conventionnels s’en iront avec leurs 30 millions de livres, qu’ils annoncent être destinés an
+     soulevement de la <placeName ref="places.xml#pol01"> Pologne</placeName>, aussi vite qu’ils
+     sont venus, crainte d’être pendus par nos <orgName ref="orgs.xml#coss01"> cosaques</orgName>,
+     ce qui arrivera sans faute s’ils sont pris.</p>
+    <p>Je savais que la conduite du <rs ref="works.xml#lingen01"> Huron</rs> en guerre avait été
+     très bonne, mais je doute qu’il soit le confident du duc de <persName ref="people.xml#kar03">
+      Brunswickz</persName>; la lettre de celui-ci à l’autre a été écrite dans l’intention d’être
+     insérée dans les gazettes, où effectivement je l’ai lue pour la première fois en allemand.</p>
+    <p>Je vous envoie ci-jointe la médaille du général <persName ref="people.xml#lan02">
+      Lanskoï</persName>, que vous regrettez d’avoir perdue avec vos autres meubles.</p>
+    <p>J’admire vos belles réflexions sur le <persName ref="people.xml#kar03"> duc de
+      Brunswick</persName>, mais le g-l <persName ref="people.xml#bau01"> Bauer</persName> m’a dit
+     plus d’une fois que quand ce héros du siècle se retrouverait à la tête d’une grande armée, on
+     verrait qu’il s’en faudrait de beaucoup, qu’il n’est pas l’homme qu’on l’avait cru.</p>
+    <p><persName ref="people.xml#mei02"> Meilhan</persName> m’a envoyé ce beau discours préliminaire
+     sur l’histoire de <placeName ref="places.xml#rus01"> Russie</placeName> dont il a été chercher
+     les matériaux dans la bibliothèque du <persName ref="people.xml#hen02"> prince Henri</persName>
+     et que celui-ci taxe de savant; or moi je le nomme ignorant, parce que cet homme se tue de
+     vouloir écrire l’histoire d’un pays duquel il ne sait point du tout la langue, et que par là il
+     bronche à chaque ligne qu’il écrit. Je me suis tuée de mon côté à le lui dire à lui-même avec
+     toute la politesse possible, mais cela tranche du génie, et cela n’en a pas. Quand il ouvre la
+     bouche, l’on dirait qu’il va dire les plus belles choses du monde, mais cette attente est en
+     vain: il n’en sort aucune, et à la place il ne sort que des choses fort ordinaires ou bien qui
+     sont à côté du sujet; avec cela, à la longue il est très ennuyeux et avec des prétentions sans
+     fin ni cesse, mettant des points sur les i, se croyant le premier sujet du siècle. Il a voulu
+     être ici ministre des finances, auxquelles il croit entendre beaucoup en <placeName
+      ref="places.xml#rus01"> Russie</placeName>, parce qu’il était intendant en <placeName
+      ref="places.xml#fra01"> France</placeName>; puis il a demandé la place d’ambassadeur
+      à <placeName ref="places.xml#ist01"> Constantinople</placeName> parce, disait-il, qu’il aimait
+     les sophas et la façon de vivre des <orgName ref="orgs.xml#turk01"> Turcs</orgName>; à cela
+     j’ai répondu que je ne pouvais employer qu’un Russe de la religion grecque dans ce pays-là.
+     Messieurs ses fils encore croient que tout est au-dessous d’eux. Ensuite il s’en est allé chez
+     le prince <persName ref="people.xml#pot01"> Potemkine</persName> à l’armée, où il voulait lui
+     donner des conseils sur la guerre, dont l’autre bâillait beaucoup. Pour notre guerre avec les
+      <orgName ref="orgs.xml#turk01"> Turcs</orgName>, elle n’aura pas lieu, à ce qu’il parait,
+     avant l’échange des ambassadeurs, qui se fera en juin, je pense, à moins que les nouvelles
+     fredaines de l’égrillarde n’y donnent lieu, et n’engagent les <orgName ref="orgs.xml#turk01">
+      Turcs</orgName> à la commencer. Remerciez donc <seg xml:lang="en"> milord</seg>
+     <persName ref="people.xml#ogi02"> Findlater</persName> de tous ses plans. Quand on commence
+     chez nous une ville, avant sa fondation on en trace le plan, et il y a une commission expresse,
+     érigée sous le sénat ou dépendante de lui, qui n’a point d’autre ouvrage que celui-là depuis
+     trente ans au moins; le gouverneur fournit le plan topographique; il y a un programme général
+     d’après lequel le plan adapté au local se fait, et puis le sénat, ayant de rechef consulté ceux
+     qui doivent veiller à l’exécution, m’envoie le plan de la ville à signer. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

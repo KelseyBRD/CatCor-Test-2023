@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03591</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03591</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) I was unable to find information on the « demoiselle Saintval l’aînée” Catherine mentions
+     (2) I could not find any information about the cousin Bertrand mentioned</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-29">29/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:52:13Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03591">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-02-25"
+      >25 février 1782</date>.</dateline></opener>
+   <p>Votre No 35 du 21 janvier (1 février) 1782 m’est parvenu. C’est une belle chose sans doute que
+    l’étude de l’évangile et des apôtres; cela fournit à point nommé d’excellentes consolations aux
+    <rs ref="people.xml#gri01">souffre-douleur</rs>. Voilà ce que j’ai dit en voyant comment vous avez pris votre parti dans
+    l’affaire de <persName ref="people.xml#len02">Lenchen</persName>, où tous les moyens ont été
+    adoptés hors les beaux projets que vous aviez proposés avec connaissance de cause; <seg
+     xml:lang="it"> ma</seg> il faut que tout le monde soit content, et une famille nombreuse ne
+    saurait être contentée avec des tournures d’affaire de la force de celle que sire
+    <rs ref="people.xml#gri01">souffre-douleur</rs> regardait comme la plus raisonnable.  </p>
+   <p>Ayant écrit ceci, votre très humble servante est tombée malade d’un gros rhume, d’un mal de
+    gorge etc., et je ne reprends la plume que le 4 mars, à onze heures et demie du matin. Mais,
+    n’en déplaise à mon <rs ref="people.xml#gri01">souffre-douleur</rs>, l’événement a montré que nous sommes dociles lorsque nous
+    sommes dociles et soumis à ceux à qui nous nous soumettons, et sur cette docilité et soumission
+    nous avons compté, nous autres qui sommes accoutumés à ordonner et à décider, et voilà pourquoi
+    nous n’avons point donné de prescriptions ni d’instructions pour le cas de désobéissance, parce
+    que ce cas ne pouvait ni ne devait être prévu, tout comme l’on ne prescrit point à un général
+    d’armée, lorsqu’on lui ordonne de se battre, de lieu pour le ralliement de son armée, mais tout
+    simplement, ce qui est aussi plus court, on suppose que c’est lui qui battra, et cela parce
+    qu’en fait de coups il vaut infiniment mieux d’en donner que d’en recevoir. Il est vrai que ce
+    grand principe peut-être a augmenté les embarras de l’ami <persName ref="people.xml#har03">
+     Laharpe</persName> et du <persName ref="people.xml#unknown"> cousin Bertrand</persName>, qui,
+    prévoyant tout, comme font ceux qui voient le local, trouvaient qu’en certains cas, comme celui
+    de la fuite par exemple, ils n’étaient pas munis de guidons, <seg xml:lang="it"> ma</seg> il
+    leur restait le grand chemin que suivent tous ceux qui se trouvent en pareil cas, qui est de
+    courir après le fuyard.</p>
+   <p>Mais trêve de grands principes. La bonne conduite, la sagesse et le bon esprit du Sr <persName
+     ref="people.xml#har03"> Laharpe</persName> a si bien captivé les présents et les absents, il a
+    contenu si bien toutes choses qu’elles sont allées selon nos souhaits, et il s’est acquis du
+    renom et la reconnaissance des intérressés. Aussi non seulement approuvons-nous que l’ami
+     <persName ref="people.xml#har03"> Laharpe</persName> ait pris le chemin d’<placeName
+     ref="places.xml#ita01"> Italie</placeName> en compagnie des cousins, mais nos désirs sont
+    qu’après la tournée d’<placeName ref="places.xml#ita01"> Italie</placeName>, au lieu d’aller à
+     <placeName ref="places.xml#stu01">Stuttgard</placeName>, dont les descriptions détaillées nous
+    ont tout à fait dégoûtée, ils passent tous les trois par <placeName ref="places.xml#tri02"
+     >Trieste</placeName>, de <placeName ref="places.xml#tri02">Trieste</placeName> à <placeName
+     ref="places.xml#vie01">Vienne</placeName>, devienne par la <placeName ref="places.xml#pod01">
+     Podolie</placeName> à <placeName ref="places.xml#kie01"> Kiof</placeName>, et qu’ainsi ils
+    enfilent tout doucement la route de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>.
+    Vous aurez la bonté de leur fournir de mon argent, au-delà de ce que j’ai déjà prescrit, encore
+    un millier de ducats jusqu’à <placeName ref="places.xml#vie01"> Vienne</placeName>. Là, s’ils
+    manquaient d’argent, le <rs ref="people.xml#gol04"> prince Galitsine</rs> les pourvoira. Voilà
+    qui est clair et net comme le jour.</p>
+   <p>Les bons offices de <persName ref="people.xml#len02">Lenchen</persName> méritent sans doute
+    récompense et égards. Ici d’abord vous devez vous mettre en possession des remercîments qui
+    vous sont dûs pour tous les soins que vous vous êtes donnée pour tous les intéressés dans cette
+    affaire. Nous laissons à votre confesseur à vous pardonner ce qui est de son département et ce
+    que nous ignorons, comme par exemple les tentations que vous avez excitées.</p>
+   <p>Et comme, en attendant que ceci a été griffonné, le No 36 est arrivé, nous statuons, en
+    connaissance de cause et d’après amples informations par vous données, que le Sr de <persName
+     ref="people.xml#har03"> Laharpe</persName> accompagnera en <placeName ref="places.xml#rus01"
+     >Russie</placeName> les deux cousins, comme il est dit ci-dessus, et volontiers on lui fera un
+    sort convenable. Je prends sur moi les 13 mille cinq cents livres que vous leur avez données en
+    crédit, et vous pouvez leur donner les mille ducats ci-dessus mentionnés au delà, s’ils vous les
+    demandent. Sur l’article <persName ref="people.xml#len02">Lenchen</persName>, nous statuons
+    toutes les choses considérables; considérez qu’elle aille se promener, et que <rs ref="people.xml#gri01">souffre-douleur</rs>
+    ouvre son coffre-fort, qu’il en tire vingt mille livres de <placeName ref="places.xml#fra01"
+     >France</placeName>; qu’il les mette dans les coffres du <persName ref="people.xml#lou01"> roi
+      de <placeName ref="places.xml#fra01">France</placeName></persName> sur la tête de <persName
+     ref="people.xml#len02">Lenchen</persName>, qu’elle en retire deux mille livres par an de rente
+    viagère, et qu’on n’entende plus parler ni d’elle, ni de M. son père surtout, et au bout du
+    compte que pourraient-ils vouloir? Mad. s’est sauvée de son plein gré; elle a une rente viagère
+    que le général <persName ref="people.xml#lan02"> Lanskoï</persName> lui donne (NB n’oubliez pas
+    cet article, moi je ne me mêle jamais de rien) pour retirer un sien frère des griffes de cette
+    sorcière. Si j’avais du temps, je vous enverrais un commentaire entier sur le brouillon de la
+    lettre de l’abbé <persName ref="people.xml#gal05"> Galiani.</persName> D’abord, apparemment
+    qu’il avait de la réputation avant que je le connusse, puisque son nom du fin fond de
+     l’<placeName ref="places.xml#ita01">Italie</placeName> est parvenu jusqu’en <placeName
+     ref="places.xml#rus01">Russie</placeName>; ce n’est donc pas moi, mais lui-même qui s’est fait
+    une renommée; puis, puis, mais je n’ai pas le temps: il me faut commenter <persName
+     ref="people.xml#rei03"> Reiffenstein</persName>; en revanche le diplôme de <orgName
+     ref="orgs.xml#acad01"> l’Académie des sciences de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName></orgName> qui l’agrège va tomber comme une bombe sur sa tête.</p>
+   <p>Je vous prie de faire mes remercîments à M. de <persName ref="people.xml#buf02">
+     Buffon</persName> de ce qui sert à compléter ses ouvrages, et des graines que vous avez
+    envoyées en <placeName ref="places.xml#hol02">Hollande</placeName> et que j’attends avec le
+    premier courrier. J’espère que vous aurez reçu déjà la lettre que j’ai écrite à M. de <persName
+     ref="people.xml#buf02"> Buffon</persName>.</p>
+   <p>Mais prenez donc garde que le <rs ref="people.xml#fle02"> successeur de</rs>
+    <persName ref="people.xml#nec01"> M. Necker</persName> ne retranche rien à <persName
+     ref="people.xml#len02">Lenchen</persName> de ce qu’il ne lui a pas donné. La demoiselle
+    Saintval l’aînée et toute sa troupe ou ceux qu’elle protège n’auraient qu’à m’envoyer tout droit
+    ses conditions, et alors je verrais ce qu’il-y aurait à faire avec ou sans <persName
+     ref="people.xml#bib01">M. Bibikof</persName>.</p>
+   <p>Le général <persName ref="people.xml#lan02"> Lanskoï</persName> vendrait savoir si vous avez
+    reçu une belle lettre qu’il vous a écrite; il sait qu’il y a à la <placeName
+     ref="places.xml#lah01"> Haye</placeName> un paquet à son adresse, et comme il croit y trouver
+    votre réponse, il est d’une très grande impatience.</p>
+   <p>J’ai donné à <persName ref="people.xml#bet01"> M. Betski</persName> la lettre de maître
+    Bedaine pour <orgName ref="orgs.xml#acad02"> l’Académie des arts</orgName>, et je lui parlerai
+    d’agréer maître <persName ref="people.xml#sed01">Sedaine</persName>; donnez-lui les huit mille
+    livres que vous me proposez. Les fêtes de <placeName ref="places.xml#ven01"> Venise</placeName>
+    données au <rs ref="people.xml#pau01"> comte du Nord</rs> étaient de toute beauté. Les voilà six
+    mois dehors; mais ils seront bien étonnés, quand ils reviendront, des singuliers progrès d'
+     <persName ref="people.xml#ale01"> Alexandre</persName>: soir excessive curiosité fait que sa
+    bonne le gronde pour quitter son livre comme les autres enfants sont grondés pour le prendre, et
+    comme il n’a que quatre ans et que sa compréhension est de son âge, on a été obligé de lui faire
+    un livre à sa portée, et ce livre fait ses délices; à présent nous sommes déjà à lui en composer
+    un troisième, car voilà un glouton né. Vous direz que bon chien chasse de race: non <seg
+     xml:lang="de"> von allen die Bücher kriegst du nichts.</seg> Nous n’en faisons que quelques
+    dizaines d’exemplaires.</p>
+  </body>
+ </text>
+</TEI>

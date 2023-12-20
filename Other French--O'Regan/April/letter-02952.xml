@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02952</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02952</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#greece"/>
+    </keywords>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-01">01/04/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:31:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-13">13/08/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup revised, queries resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02952">
+  <body>
+   <p>Extrait du rescrit de <persName ref="people.xml#cat01"> S. M-té l’Impératrice</persName> de
+    toutes les Russies au Feld-Maréchal Général <persName ref="people.xml#che01"> Zacharie
+     Grzegorzewicz Comte de Czerniezew</persName>, en date du 2 Juillet 1780.</p>
+   <p>Sur le rapport d’une nouvelle demande, que le Métropolitain du rit grec-uni en <placeName
+     ref="places.xml#pol01">Pologne</placeName> <persName ref="people.xml#smo01"> Jasou
+     Smogorzewski</persName> vient de vous faire de lui laisser la régie des Eglises Gréques Unies
+    dans le gouvernement de <persName ref="places.xml#plo02"> Polock</persName> et de <placeName
+     ref="places.xml#mog01"> Mohylow</placeName>, si ce n’est pour toujours, du moins jusqu’à la
+    nomination d’un nouvel Archevêque, nous avons reconnu pour nécessaire, que vous lui fassiez
+    parvenir, en réponse, l’éclaircissement suivant: savoir, qu’en vertu d’un arrangement pris entre
+    nous et <rs ref="people.xml#pon01"> Sa M-té le roi</rs> de <placeName ref="places.xml#pol01"
+     >Pologne</placeName>, ayant consenti, que le dit <persName ref="people.xml#smo01"> Jasou
+     Smogorzewski</persName> se trouvant revêtu de la dignité Métropolitaine en <placeName
+     ref="places.xml#pol01">Pologne</placeName> fût affranchi à notre égard de toute obéissance et
+    dépendance d’un sujet; nous avons nommé en conséquence à sa place, un autre archevêque grec-uni
+    pour nos nouveaux Etats. Mais ce dernier ayant préféré de se fixer dans les Etats de <rs
+     ref="people.xml#mar01">Sa M-té l’Impératrice Reine</rs>, le Diocèse qu’il allait régir s’est
+    trouvé sans pasteur. Or, comme le droit d’en régler l’administration et d’y nommer un archevêque
+    est inhérent à notre Souveraineté, il s’ensuit qu’aucune Jurisdiction Ecclésiastique étrangère
+    ne saurait s’immiscer dans la régie du dit Diocèse, pour ce qui concerne le sacre des prêtres,
+    ou tels autres actes d’autorité spirituelle; que par conséquent, ni les exemples allégués par le
+    Métropolitain <persName ref="people.xml#smo01"> Smogorzewski</persName>, ni le droit qu’il
+    prétend faire résulter des prérogatives attacheés à la Jurisdiction Métropolitaine en général,
+    ne peuvent l’autoriser à s’arroger une supériorité quelconque sur le Diocèse en question. Sa
+    prétention à cet égard pouvait avoir quelque fondement, lorsque les provinces susmentionnées
+    faisaient corps avec les Etats de la <rs ref="places.xml#pol01">République</rs>; mais
+    aujourd’hui qu’il est citoyen et prélat dans un autre état, comment peut-il servir à la fois
+    deux maîtres égaux.</p>
+   <p>Il en résulte évidemment, que le dit Métropolitain doit s’abstenir désormais de se mêler de
+    tout ce qui concerne la personne et les fonctions de l’Archevêque résidant à <placeName
+     ref="places.xml#pol02"> Polock</placeName>, notre sujet, et de s’en tenir à la jurisdiction qui
+    lui compète eu <placeName ref="places.xml#pol01">Pologne</placeName>, sans s'ingérer dans les
+    affaires ecclésiastiques de nos Etats. </p>
+   <p>Pour ce qui concerne ses propres biens, on doit conformément aux Traités lui en laisser pleine
+    et entière jouissance, comme à tous autres, qui nous ont prêté le serment de fidélité.</p>
+   <p>Or, pour régler l’administration des affaires ecclésiastiques dans nos gouvernemens de
+     <placeName ref="places.xml#pol02"> Polock</placeName> et de <placeName ref="places.xml#mog01">
+     Mohylow</placeName>, nous voulons qu’en attendant nos nouveaux ordres, on établisse un
+    Consistoire composé de trois ou quatre écclésiastiques du rit grec-uni, nos sujets, et reconnus
+    pour hommes de bonnes moeurs.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Catherine</persName></signed>
+    <dateline> à <placeName ref="places.xml#pet02">Péterhof</placeName>, ce <date
+      when-custom="1780-08-02">2 Juillet 1780</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

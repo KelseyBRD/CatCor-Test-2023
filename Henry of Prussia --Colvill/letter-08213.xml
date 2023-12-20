@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08213</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08213</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#summer"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-01">01-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:17:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08213">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1771-06-06">6 juin 1771</date>.</dateline></opener>
+   <p>J’ai lu quelque part que l’amitié est un don que le ciel fit aux hommes seuls. Depuis que je
+    reçois les lettres de V. A. R., je sens le prix de cette vérité. Je compte si bien sur la Sienne
+    que j'ai deviné qu’Elle se réjouirait avec moi de la sortie de prison de mon résident <persName
+     ref="people.xml#obr01"> Obrescof</persName>; je la dois aux bons offices du <rs
+     ref="people.xml#fre01"> Roi, Son frère</rs>, près de la <placeName ref="places.xml#ott01"
+     >Porte</placeName>, et je ne me suis pas trompée. L'intérêt que l'âme sensible de V. A. R.
+    prend au bien de l'humanité Lui fait voir avec plaisir ce débouché pour une paix. Il faut
+    espérer que <persName ref="people.xml#pop02"> Clément XIV</persName> et le <persName
+     ref="people.xml#mir03"> Mufti</persName> se rangeront à la raison. Je prends la liberté
+    d'envoyer à V. A. R. la réponse de ce dernier au <persName ref="people.xml#pop02">
+     Pape</persName>; elle a été trouvée, dit-on, en <placeName ref="places.xml#ita01"
+     >Italie</placeName> dans la poche d’un corsaire qu’on a mis aux fers sur ma flotte, parce qu'il
+    se servait du pavillon russe pour piller les vaisseaux français. Je la livre à V. A. R. avec
+    autant de confiance qu'Elle a bien voulu m'en témoigner en m'envoyant le très respectable Bref
+    du <persName ref="people.xml#pop02"> Pape</persName>, persuadée d'avance qu'Elle n'en fera point
+    d'autre usage que celui que Son amitié Lui dictera.</p>
+   <p>Il y a neuf semaines que je suis à la campagne, où je m'occupe de faire des collines
+    artificielles, à prendre les eaux de <placeName ref="places.xml#spa02"> Spa</placeName> et à
+    planter des arbres. V. A. R. dira, que me voilà bien oisive. J'en conviens; Salomon disait qu'il
+    n'y a rien de si bon que de manger, boire et se divertir; il est vrai qu'il disait aussi que
+    chaque chose a son temps. J'avoue que beau temps et l'aspect d'une paix prochaine réjouissent
+    mon imagination, mais ce qui contribue parfaitement à ma satisfaction, c'est le souvenir de
+    l'amitié de V. A. R. Je La prie d'être persuadée que la mienne ne négligéra aucune occasion de
+    Lui prouver la haute considération...</p>
+  </body>
+ </text>
+</TEI>

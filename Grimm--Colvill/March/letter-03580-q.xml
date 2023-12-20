@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03580</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03580</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) I had some trouble identifying two German words in the letter “Vor und Nebentrabern“
+     These are the words I came up with based on looking at the OCR, but I really don’t know whether
+     they are correct </p>
+    <p>(2) I could not identify “prince Aldobrandini” to any degree of certainty.</p>
+    <p>(3) Belemany – could not identify and he was not mentioned in Grimm’s correspondence </p>
+   
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-24">24/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:50:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03580">
+  <body>
+   <div>
+    <opener>
+     <dateline> A <placeName ref="places.xml#pet01"> St Pétersbourg</placeName>, ce <date
+       when-custom="1780-09-07">7 septembre 1780</date>, à minuit sonné.</dateline></opener>
+    <p><seg xml:lang="de"> Nun, von Alters Weiß ich und Mehrere daß Herr ein Grübler ist: jetzt ist
+      auch was zu grüblen; der Herr gehe sich nur ein wenig Mühe, so wird er es leicht den die Ihren
+      faßen</seg>. Le monde va comme il va, il ira comme il allait, et il allait comme il va; dans
+     ce monde il y a bien des images de Vierge miraculeuse; il y en a aussi de Dieu, dans le ciel et
+     sur la terre, des pères, des fils, des saints-esprits; tout cela ne se ressemble pas: le fils
+     ne ressemble point à la mère; le fils, le fils, s’il a fait du bruit! Il en fera bien plus,
+     mais nos neveux qu’en diront-ils, et comment s’y trouveront-ils? Qu’en pensez-vous, vous qui
+     aimez comme pain tout ce qui tient à ces génies dont vous en ayez guidé plus d’une douzaine,
+     quoique vous vous défendiez comme meurtre de ce tendre amour; dites, confessez votre foi;
+     hélas, <seg xml:lang="de"> das ist pure Unmöglichkeit, das fleht nicht nach meinem Sinn,</seg>
+     voilà du cadet, du très cadet, système de cadet et tête cadette. Que Dieu veuille bénir
+      <persName ref="people.xml#ale01"> M. Alexandre</persName>; cela est et sera aîné, nourri à
+     l’aîné, dans le système des aînés, et pâte d’aîné et pâtissier aîné; <seg xml:lang="de"> ja,
+      das hat Willen und Gemüth und frägt jetzt beständig schon warum? Weswegen wozu? Der Junge will
+      wissen alles aus dem Grunde, und Gott weiß was er schon nicht weiß.</seg> Cela n’aime pas même
+     à jouer avec qui en sait moins que lui, parce que qui en sait moins ne peut satisfaire à nos
+     questions; or, le dire de grand’maman est notre dire le plus cher et le dire le plus accrédité;
+     nous avons avec cela une aménité et une gaîté ironique qui est née avec nous et qui est
+     enchanteresse: pardi, si sti-là ne réussit pas, je ne sais ce qui peut réussir dans ce monde;
+     cela aura corps et âme, ou je n’y entends rien du tout, ou bien aussi cela changera de blanc en
+     noir, et alors cela ne sera pas ce que cela est. Tout ceci est très mystique, énergumène,
+     prophétique, et tout propre à faire rêver les cervelles <persName ref="people.xml#wag01"
+      >Wagnériques</persName> accoutumées à se tourmenter l’esprit avec des explications de textes
+     des prophètes. Je suis persuadée que plus vous y rêverez, et plus vous y trouverez un grand
+     sens <seg xml:lang="de"> und eine groß Einbildung mit eine gewirkte Confusions Kraft die denen
+      packenfrämern ungewohnt ist, denen Post-Kommissaren aber sehr wunderlich vorkommen wird, weil
+      sie den <persName ref="people.xml#sha04">Schah Baham</persName> nicht gelesen noch gehört
+      haben, dieser sich aber unvergleichlich selbst verstand, den Andern aber dunkel schien.</seg>
+     Tout cela n’est pas monosyllabe, mais jaserie toute pure sur le passé, le présent et le futur,
+     mais j’oublie que je vous parle pour répondre à trois de vos lettres, que ce galimatias
+     pindarique, physico-politico-pbilosophico, est là commencé sur ma table depuis dix jours, et
+     que cela ne saurait se finir de soi-même, mais qu’il faut que je quitte pendant quelques jours
+     un gros volume in-folio dont je me fais un extrait depuis trois mois, extrait, ne vous en
+     déplaise, qui contient déjà quatre-vingt pages. N’allez pas demander à quoi bon cet extrait,
+     car alors je serais obligée de vous dire que c’est pour en extraire, après de quoi faire un
+     autre grand travail. Oh, pour cela je travaille comme un âne et il y a trois, quatre, cinq, six
+     ans que cela dure, <seg xml:lang="de"> aber was braus werden wird, das weiß der Teufel</seg> ;
+     c’est lui qui m’envoie aussi les distractions, car outre mon voyage etc. à présent nous avons
+     ici <persName ref="people.xml#fri03">S. A. R. le prince de <placeName ref="places.xml#pru01"
+       >Prusse</placeName></persName>. Il y a encore ici <persName ref="people.xml#lig01"> le prince
+      de Ligne</persName>, qui est des êtres les plus plaisants et les plus aisés à vivre que j’aie
+     jamais vus; voilà bien une tête originale qui pense profondément et fait des folies comme un
+     enfant. Je m’accommoderais bien de cette compagnie-là; il est ami de mon <persName
+      ref="people.xml#bra05"> duc de Bragance.</persName></p>
+    <p>Si vous avez vu <title ref="works.xml#androm01"> Andromède</title>, comme vous me le marquez
+     par votre No 19, intitulé <seg xml:lang="de">Allerunterthänigster Vortrag</seg>, je l’ai bien
+     vue aussi moi, car elle est là depuis quinze jours dans la salle de mon <placeName
+      ref="places.xml#her01"> hermitage</placeName>, étalée aux yeux de tous ceux qui ont de la vue
+     et à ceux qui voient dans un quart d’heure tout ce qui est à voir dans cet endroit. Les grands
+     seigneurs savent tout sans avoir rien appris, dit le proverbe; morgué, il y a bien des gens
+     aussi qui voient tout sans rien voir ou qui voient tout en un instant : <seg xml:lang="de">nun
+      das ist eine Kunst die der Herr <persName ref="people.xml#ale01">Alexander</persName> und
+      seine Großmama nicht besitzen; wir sind nicht so schleunig, auch nicht so eilfertig, wir sind
+      nur einige Mal <seg xml:lang="it">sissima</seg> genannt von <persName ref="people.xml#pai01"
+       >Païsiello</persName>, denen Leuten von <placeName ref="places.xml#rig01">Riga</placeName>,
+       <placeName ref="places.xml#nar01">Narva</placeName> und <placeName ref="places.xml#gri01"
+       >Grimma</placeName>; nun das fen denn so, wir wollen weiter gehen.</seg>
+     <title ref="works.xml#androm01"> Andromède</title> donc, puisqu’elle est là, elle ne saurait
+     plus être à <placeName ref="places.xml#lub01"> Lübeck</placeName>, d’où elle est venue ici sur
+     un paquebot ou frégate, ou tout ce qu’il vous plaira. Mais en développant. <title
+      ref="works.xml#androm01"> Andromède</title>, j’y ai trouvé un sac de fourrures appartenant à
+      <persName ref="people.xml#duv01"> Mad. de Vergennes</persName>. Tenez, vous ne pouvez en
+     douter: son adresse y est, la voilà; vous l’aurez par le premier courrier, et je vous prie de
+     lui remettre ce qui lui appartient, parce que mon concierge ne saurait garder ce qui s’est
+     égaré dans la caisse donnée par <persName ref="people.xml#gra01"> M. de Vergennes</persName> à
+      M. <persName ref="people.xml#gri01">Grimm</persName> et que M. <persName
+      ref="people.xml#gri01">Grimm</persName>, ayant payé 24copeks, a envoyée où bon lui a semblé;
+     mon concierge est honnête homme et ne prend point pour lui ce qu’il trouve égaré dans une
+     caisse. Ni moi ni le <persName ref="people.xml#lou01"> R. d. Fr.</persName> (roi de <placeName
+      ref="places.xml#fra01">France</placeName>) ne nous mêlons ni des affaires des concierges, ni
+     de celles de M. <persName ref="people.xml#gri01">Grimm</persName>, ni de celles de <persName
+      ref="people.xml#duv01"> Mad. de Vergennes</persName>, ni des négligences, ni des 24 copeks,
+     mais bonne bête retourne à son mâitre; les fourrures de zibeline doivent donc ergo retourner
+     dans le garde-meuble de <persName ref="people.xml#duv01"> Mad. de Vergennes</persName>.</p>
+    <p>Les enfants de <persName ref="people.xml#cle01">Clérisseau</persName> sont venus en compagnie
+     d’ <title ref="works.xml#androm01"> Andromède</title> sains et saufs, mais vu les extraits et
+     les distractions je n’ai pas eu encore le temps de les voir tous à mon aise. Ainsi dormez
+     tranquillement; le tout se porte au mieux, et c’est du beau, du bon, du très très bon beau.
+      <seg xml:lang="de"> Gott segne die mittelmäßigen Paßgänger, ihre Seele ist ruhig zwischen und
+      unter allen Herrlichkeiten dieser Welt, ja sie sind glücklich, sie gehen sehr <seg
+       xml:lang="en"> indifferent</seg>, so ganz gelassen herum; gut ist gut und schlecht ist
+      schlecht, immer einerlei und alles nehmen sie vorlich und lassen sich gefallen, alles ist
+      gesehn und gethan in wenig Zeit, denn an nichts verliert man sie. Oh, weltschöne <seg
+       xml:lang="en">disposition</seg>, ja da wird’s kommen, absonderlich nach Vor und Nebentrabern
+      mit vier, zehn, und zwölf Jahren.</seg> Vous voyez qu’avec des raisonnements mystiques de
+     telle force la réponse &amp; vos trois lettres avance; elle y gagne du moins du papier, mais
+     mon extrait et votre poche y perdront. Allons, ma tête, ne faites plus d’écarts, allez <seg
+      xml:lang="de"> ganz ordentlich wie ein Paßgänger und das noch von der mittelmäßigen Art.</seg>
+     Si votre rate n’est pas secouée par celle-ci dans plus d’un sens, ce n’est pas ma faute.</p>
+    <p>Je lirai les pancartes du cher <rs ref="people.xml#rei03"> divin</rs> quand j’aurai fini de
+     parcourir, les vôtres. <persName ref="people.xml#bez01">M. Bezborodka</persName> est donc
+     engagé pour 1780 pour cinq cents sequins et est dégagé des 500 d’octobre 1779; je m’en réjouis:
+      <seg xml:lang="de"> er läßt sich es gefallen, und ich auch, denn ich will freimütige mich
+      bemühen den Paßgänger ganz zu erlernen um klug zu werden und klüger</seg>. J’ai trouvé des
+      <persName ref="people.xml#met01"> Metastasio</persName> emballés avec <title
+      ref="works.xml#androm01"> Andromède</title> et les <persName ref="people.xml#cle01"
+      >Clérisseau</persName>, et j’en ai donné à tort et à travers (notez que je réponds à l’ <seg
+      xml:lang="de"> eilfertiger Vortrag</seg> No 21), et je suis bien fâchée des déboires que vous
+     avez eus par le mésentendu des 40 exemplaires et des 80 qu’on a voulu mettre sur mon compte;
+     pour les douze plus que les quarante il faudra les payer, parce qu’ils ne sont plus à avoir; je
+     les ai éparpillés. <title ref="works.xml#lamort01"> La mort de Germanicus</title> d’après le
+      <persName ref="people.xml#pou01"> Poussin</persName> en émail; si cela est bon, ne regrettez
+     pas de faire cette modique dépense de plus. <persName ref="people.xml#tey01"> M. de la
+      Teissonnière</persName> a eu sa lettre que vous m’avez envoyée. <persName
+      ref="people.xml#buf02"> M. de Buffon</persName> n’aurait pu me faire un plus grand plaisir que
+     celui de m’envoyer tous ses ouvrages. Je vous prie de lui en faire bien des remercîments. Je
+     révérai son génie et ses ouvrages.</p>
+    <p>Le vaisseau l’Expédition n’est pas encore arrivé. Laissez là ma soeur Marie et les bêtises
+     des surnoms dont quelques morveux voulaient orner ma tête grise et pour laquelle étourderie ils
+     ont été retapés, vu qu’ils n’étaient pas nés encore que toutes ces bêtises-là ont été
+     solennellement refutées à une assemblée de plénipotentiaires des cercles qui depuis le
+      <placeName ref="places.xml#kam01"> Kamtchatka</placeName> jusqu’à <placeName
+      ref="places.xml#rig01">Riga</placeName> composent le vaste terrain de la <placeName
+      ref="places.xml#rus01">Russie</placeName>. Hélas, si vous saviez ce que je sais du tapage
+      de <placeName ref="places.xml#lon01">Londres</placeName>, vous seriez bien étonné. Eh bien,
+     sachez que le plus criminel de tous est en prison à <persName ref="people.xml#pet01">
+      Pétersbourg</persName> et que d’infiniment moins ont été pendus; ce sont des écervelés, et
+     puis c’est tout. <seg xml:lang="de"> Aber, aber, das aber bleibt</seg>. Quatre mille écoles
+     gratis ne rendent pas les hommes plus sages, ni les prêches de morale, voilà tout ce qu’on peut
+     dire. La belle nature reparaît tout partout, c’est à <persName ref="people.xml#buf02"> M. de
+      Buffon</persName> à la décrire. <seg xml:lang="de"> Nun kommt No 22 höchst eilfertiger
+      Vortrag</seg>, troisième du nom de <seg xml:lang="de"> eilfertiger</seg>; combien en
+     viendra-t-il encore? Quelle singulière destinée que celle de faire des réponses à trois <seg
+      xml:lang="de"> eilfertiger Vortrag</seg> presque dans un jour, ou onze ou douze, cela revient
+     au même.</p>
+    <p>Le <title ref="works.xml#carmen01"> Carmen saeculare</title> de <persName
+      ref="people.xml#phi02"> Philidor</persName>, est arrivé, partition en deux volumes. <seg
+      xml:lang="it">Ma</seg> comment faire exécuter quoi que ce soit de cela sans le faire copier,
+     et comment voulez-vous que tout un orchestre mette le nez dans un ou deux livres? Comme vous me
+     parlez de secret à garder à <persName ref="people.xml#phi02"> Philidor</persName>, j’ai pris
+     mes deux livres et les ai enfermés dans une armoire; c’est plus court, et en attendant vous et
+     l’ <persName ref="people.xml#gal05"> abbé Galiani</persName> m’indiquerez comment en agir. Le
+     planisphère accompagnait le <title ref="works.xml#carmen01"> Carmen</title> enfermé sous clef;
+     celui-ci a été remis à <persName ref="people.xml#dom01"> M. Domachnef</persName>) pour le
+     garder jusqu’au temps où mon écolier en aura besoin. Vous donnerez au capucin tout ce que vous
+     voudrez; je ne m’en mêle point, car je n’ai rien demandé au voisin de <persName
+      ref="people.xml#geo04"> mad. Geoffrin</persName>. Ne voila t-il pas une décision digne de
+      <persName ref="people.xml#lou15"> Louis xv</persName>? La pacotille dont est chargé le prince
+      <persName ref="people.xml#bar02"> Bariatinski</persName>, je l’aurai, je pense, demain, parce
+     que son frère l’attend demain.</p>
+    <p>J’ai bien des remercîments à faire encore à <persName ref="people.xml#buf02"> M. de
+      Buffon</persName> de ses réponses à mes questions. La quatrième me donne à rêver; je voudrais
+     savoir la cause du mouvement des comètes. Je suis comme <persName ref="people.xml#ale01"> M.
+      Alexandre</persName>: le pourquoi du pourquoi serait fort agréable à savoir, mais le pire de
+     tous les genres selon <persName ref="people.xml#vol01">Voltaire</persName> étant le genre
+     ennuyeux, je n’ai garde de vous ennuyer de nouvelles propositions. Il sera plus utile pour
+     votre poche que j’entreprenne tout de suite les commentaires sur les lettres du <rs
+      ref="people.xml#rei03"> divin</rs>. Sa très honorée du 15 juin contient son excursion utile et
+     instructive dans l’ <placeName ref="places.xml#her01"> hermitage</placeName> d’ <persName
+      ref="people.xml#hor01"> Horace</persName>, le livre à la main; si le résultat en est imprimé,
+     j’espère d’avoir l’honneur d’être au nombre des possesseurs des dix estampes gravées d’après
+     les dessins de <persName ref="people.xml#hac01"> Hackert</persName>, et cela par votre grâce
+     future, qui me les procurera à coup sûr. Ne voilà-t-il pas une tournure de phrases que le <rs
+      ref="people.xml#rei03">divin</rs> lui-même ne désavouerait pas, tant elles sont bien. Le camée
+     d’ <title ref="works.xml#apollo01"> Apollon</title> sera le bienvenu, quand il arrivera,
+     s’entend; il ne manquera pas de vaisseaux à <placeName ref="places.xml#liv01">
+      Livourne</placeName> (n’ayez pas peur, nos officiers y sont trop bien reçus) et par conséquent
+     de voitures aux <rs ref="works.xml#logera01">loges copiées du <placeName ref="places.xml#vat01"
+       > Vatican</placeName></rs>, de quoi le <rs ref="people.xml#rei03"> divin</rs> sera déjà
+     parfaitement instruit par les papiers publics.</p>
+    <p>Je tire ma révérence au prince Aldobrandini et aux créanciers <persName
+      ref="people.xml#chi03"> Chigi</persName>, et je passe subitement à la pancarte divine du 21
+     juin. Je suis enchantée que <persName ref="people.xml#rim01"> M. Riminaldi</persName> soit payé
+     du camée. J’allais oublier de vous dire, mais le <rs ref="people.xml#rei03"> divin</rs> me
+     rappelle que je suis on ne peut être plus contente des miniatures de <persName
+      ref="people.xml#mar12"> Mad. de Maron</persName>; il est fâcheux que les moules soient
+     détruits. <persName ref="people.xml#men01"> Mengs</persName> et <rs ref="people.xml#mar12"> sa
+      soeur</rs> sont des gens de grand mérite; tout ce que <rs ref="people.xml#mar12"> sa
+      soeur</rs> fera ou plutôt peindra, volontiers je m’en pourvoirai. Après les tableaux achetés
+     chez <persName ref="people.xml#jen01"> M. Jenkins</persName> je n’achèterai plus de tableaux,
+     et défense à toutes mes connaissances de m’envoyer des catalogues ou de me proposer plus
+     d’achats, car je n’ai plus d’argent. </p>
+    <closer><signed rend="inline">Adieu, bon soir, ce <date when-custom="1780-09-20">20 sept.
+       1780</date> à 5 h. l’après dîner.</signed></closer>
+    <postscript>
+     <p>Pour mon honneur et gloire il faut que je vous avertisse que tout ce qui a été écrit
+      ci-dessus le 20 septembre entre dinêr et bal, est style divin et inspiration et promulgation
+      de pancarte divine, agissant sur tête mortelle pendant un jour moitié nébuleux, moitié
+      pluvieux. Vous voyez bien que pour l’intelligence de l’histoire il est extrêmement nécessaire
+      que vous sachiez tout cela. Si-jamais cette lettre est commentairisée, il y aura une
+      augmentation de prix de papier, je pense.</p>
+    </postscript>
+   </div>
+   <div>
+    <opener>
+     <dateline> Ce <date when-custom="1780-09-23">23 sept</date>. </dateline></opener>
+    <p>Après lecture faite de tout ce qui se trouve ci-dessus, la cour de tous mes esprits
+     rassemblés un matin mercredi, lendemain de fêtes, a été résolue de non envoyer par poste, vu
+     l’importance de la matière par elle-même, mais plus encore parce qu’il y a gens avec lesquels
+     on n’a jamais fini, de quoi fait preuve l’arrivée du prince <persName ref="people.xml#bar02">
+      Bariatinski</persName> sur ces entrefaites, savoir le 21 sept, à huit heures du matin, lequel
+     ouï, a dit à porte de la chambre close, avoir avec lui dans son carrosse, lequel carrosse se
+     trouve présentement à la douane, tout plein de paquets, pacotilles etc., sur quoi a
+     préalablement remis en mains propres un volume énorme d’écriture passablement menue, sur quoi
+     résolu de différer l’envoi jusqu’à ultérieure réponse sur paquet, pacotille et volume, laquelle
+     réponse pourra à vue de pays partir par courrier exprès tout en compagnie cheminant du sac à
+     fourrure de <persName ref="people.xml#duv01"> Mad. de Vergennes</persName>. Or, à ces causes
+     dès ce moment mis main à l’oeuvre pour répondre à onze feuilles écrites sur tous les côtés,
+     faisant en tout 43 pages et demie d’écriture diverse.</p>
+    <p>Si jusqu’ici encore votre patience s’est soutenue, je vous conseille d’en faire ample
+     provision pour tout ce qui va suivre. Les voleurs de temps, je vous conseille de les dénoncer
+     au commissaire du quartier, pour que le parlement de <placeName ref="places.xml#par01"
+      >Paris</placeName> puisse promulguer sur ce cas nouveau. Je suis fâchée que vous en soyez
+     incommodé et que très innocemment j’y aie donné lieu. Les Français se seront engoués de moi
+     comme d’une plume à la coiffure, mais patience, cela ne durera pas plus que toute mode chez
+     eux. Ci-dessus vous trouverez réponse à tous les articles récapitulés, pour l’ordre, dans votre
+     No 23, dont était chargé le courrier <persName ref="people.xml#ola01"> Olaüs</persName>.</p>
+    <p>Il est bon que vous sachiez qu’aujourd’hui c’est le 2 d’octobre, que <persName
+      ref="people.xml#fri03"> S. A. R. le prince</persName> de <placeName ref="places.xml#pru01"
+      >Prusse</placeName> a pris congé hier, qu’il est parti ce matin, que le <persName
+      ref="people.xml#lig01"> prince de Ligne</persName> l’a devancé de quelques jours et que S.M.I
+     a la fièvre de rhume depuis trois jours, qu’elle a passé la journée d’hier au lit et qu’elle
+     s’est levée aujourd’hui. J’ai le <title ref="works.xml#voyage03"> cahier du voyage
+       de <placeName ref="places.xml#gre02">Grèce</placeName></title> dans ma chambre depuis qu’il
+     est retiré de la douane; je ne veux point des gravures fourrées sous la couverture de ce
+     cahier, ni des dessins originaux. Le camée de <title ref="works.xml#persee01"> Persée et
+      Andromède</title> a été solennellement déposé au <seg xml:lang="en"> museum</seg> de
+     l’entre-sol impérial, que vous ne connaissez pas plus que votre coude; l’ <title
+      ref="works.xml#apollo01"> Apollon</title> va trouver sa place aussi: le <rs
+      ref="people.xml#rei03"> divin</rs> a parfaitement saisi l’esprit de cette commission. S’il
+     avait la bonté de faire graver parla même main et à peu près de même grandeur le profil de
+     votre très humble servante, ce serait une chose qui ferait plaisir à plus d’un. Vous et le <rs
+      ref="people.xml#rei03"> divin</rs> avez arrangé les affaires divines au mieux, et puisque vous
+     êtes contents, je suis contente aussi; toutes les patentes possibles vous les aurez par ce
+     courrier-ci.</p>
+    <p>Les deux diamants sont fort bons dans leur espèce. J’ai si bonne opinion de <persName
+      ref="people.xml#lou01"> Louis xvi</persName> et de ses ministres que je crois que s’ils
+     apprennent la situation de <persName ref="people.xml#epi01"> Mad. d’Epinay</persName>, ils ne
+     manqueront pas d’y remédier. Ne manquez pas de m’envoyer quelques exemplaires des <title
+      ref="works.xml#conver01"> Conversations d’Emilie</title>: peut- être trouverai-je moyen de lui
+     faire ravoir sa pension. Il est vrai qu’Olympe ressemble à l’ <title ref="works.xml#apollo01">
+      Apollon</title>; grand merci pour ce profil en plâtre; il est charmant. Il y a des gens qui
+     brouillent tout le monde; vous, au contraire, vous me mettez bien avec tout le monde, témoins
+      <persName ref="people.xml#gil01"> Gillet</persName> et <persName ref="people.xml#wag02">
+      Wagnière</persName>. Monsieur, allez bride en main avec le bailli de <persName
+      ref="people.xml#bre03"> Breteuil</persName> jusqu’à ce que vous ayez de quoi le payer, car je
+     n’ai point d’argent, quoi que vous en disiez.</p>
+    <p>L’a b c de <persName ref="people.xml#ale01"> M. Alexandre</persName> repose; chut, vous ne
+     l’aurez de sitôt. Il n’est qu’en russe. Personne n’en a tâté. Je n’ai point de leçon à faire à
+      <rs ref="people.xml#jos01"> M. de Falkenstein</rs>: <seg xml:lang="de"> er ist ganz
+      ausgekehrte und das wird einen sehr tüchtigen Meister abgeben, aber de hochehrerbietige
+      Lehrjunge so von hier gewandert, der muss noch stark wandern und dass der Geselle aus ihm
+      kommt; der arme Mann, man weiß ja gar nicht was in ihm fitzt, er</seg> bredouillirt <seg
+      xml:lang="de"> sehr stark oder auch er ist so kurz angebunden dass da niemals waß heraus
+      kommt; er hat eine starke Verhaltungstraft in sich, so sehr unverdaulich ist für denen so mit
+      ihm zu thun, zu schaffen oder umzugehen haben; man sagt, er denkt gut; das kann sehn, aber das
+      kann man auch sagen von einem</seg> dindon, <seg xml:lang="de"> und</seg> dindon <seg
+      xml:lang="de"> zu sehn oder abzugeben, das ist nun wieder nicht jeder Zeit füglich.</seg>
+     <seg xml:lang="it">Basta</seg>
+    </p>
+    <p>La revue de <placeName ref="places.xml#mog01"> Mohilef</placeName> a été non seulement
+     complète, mais même complétissime, et un jour que nous étions cinq heures à jaser et à rire à
+     gorge déployée, je lui dis: </p>
+    <q>«tandis que toute l’<placeName ref="places.xml#eur01">Europe</placeName> est intriguée à
+     savoir ce qui se dit céans, voyez un peu de quoi nous rions». </q>
+    <p>Il a paru se plaire ici. Au commencement je suais, et à la fin j’étais accoutumée; il nous a
+     quittés à regret et a laissé ici beaucoup d’estime pour lui. <seg xml:lang="it"> Ma</seg> cet
+     autre est complètement pesant: mon Dieu, mon Dieu! quelle différence avec ses oncles. Celui ci
+     ressemble comme deux gouttes d’eau à ces anciens <rs ref="people.xml#bru05"> ducs de
+      Bevern</rs> qui étaient tous des figures colossales. Le <rs ref="people.xml#goe01"> ministre à
+      la glace</rs> est resté glacé, et je crois qu’ils ont glacé votre protégé aussi ; si vous en
+     savez sur son compte plus que je ne vous en dis, ayez la bonté de me l’apprendre, car j’ai
+     prise de travers sur tout ceci. Depuis les esclandres de <persName ref="people.xml#gor01">
+      George Gordon</persName> le silence m’est venu sur tout ce qui regarde ce pays-là, qui était
+     un de mes dadas, comme disait feu <title ref="works.xml#trista01"> Tristram Shandy</title>; ces
+     fous-là ont pensé me faire faire un bel esclandre à mon tour; qui se serait jamais avisé que
+     chez ces profonds rêvasseurs il y avait aussi des choses qui n’avaient ni queue ni tête?</p>
+    <p>Portia et son baiser envoyé par <persName ref="people.xml#bue01">Emilie de
+      Belsunce</persName> sont arrivés en bonne santé, de même que le dessin de la <title
+      ref="works.xml#trajan01"> colonne Trajane</title>; mon poids et ma mesure sur le point du
+     pape, de l’antechrist et du diable est: <hi rend="italic">vivez en paix et souvenez-vous des
+      pauvres</hi>. Vos opéras, quand ils seront copiés, vous les aurez. C’est un conte bleu quand
+     on vous a dit que le feu avait été mis à <placeName ref="places.xml#kro01">
+      Cronstadt</placeName>; c’est un accident tout pur. Moi je crois qu’il ne faut pas donner aux
+     choses plus de valeur qu’elles n’ont: pourquoi empêcher cet archiduc de devenir électeur, comme
+     si la cour de <placeName ref="places.xml#vie01">Vienne</placeName> n’avait pas toujours eu ces
+     électeurs-là dans sa manche; encore vaut-il mieux les établir là qu'ailleurs. J’ai beaucoup ri
+     du trait de dévotion de <persName ref="people.xml#lou15"> Louis xv</persName>; <seg
+      xml:lang="de"> das ist zu fett.</seg>
+    </p>
+    <p>Viennent les pancartes divines: celle du 2 d’août avec le préne des camées. En voyant l’
+      <title ref="works.xml#androm01"> Andromède</title>, j’ai fait une exclamation, il est vrai,
+     selon la prophétie du <rs ref="people.xml#rei03"> divin</rs>, mais elle était gauche; j’ai dit:
+     Voyez un peu de quelle pauvreté les amateurs sont engoués; voyons cela de plus près;
+     donnez-nous verres et lunettes. Cet examen a tourné au profit du camée, car réellement il est
+     d’une grande perfection; pour l’ <title ref="works.xml#apollo01"> Apollon</title> duquel on
+     demandait l’air et la contenance d’ <title ref="works.xml#apollo01"> Apollon</title>, céans,
+     dès sa venue, il a été envoyé à l’orfèvre pour le placer sur une botte commode à porter. Je
+     laisse là toutes les autres belles choses dont traite le bienheureux, et je passe de propos
+     délibéré à sa pancarte du 9 d’août, qui contient son audience papale, dont je suis très
+     édifiée; elle tourne cependant plus à l’avantage des dieux du paganisme qu’à celui de l’église
+     chrétienne, vu que les premiers ont pins d’affiliation aux beaux-arts que la dernière, qui dit
+     pauvreté est charité. L’abbé <persName ref="people.xml#gal05"> Galiani</persName> a raison: il
+     faut la paix; il la faut non seulement à M. <persName ref="people.xml#nec01">Necker</persName>,
+     mais à tout le monde; cette guerre est la plus sotte guerre qu’un ait jamais vue. C’est une
+     guerre qui se fait pour des sottises et par des sottises. </p>
+    <closer>
+     <signed rend="inline">Adieu, portez-vous bien. J’achève ceci le <date when-custom="1780-10-04"
+       >4 d’octobre</date>.</signed></closer>
+   </div>
+   <div>
+    <p>Le vaisseau l’Expédition vient d’arriver, et Dieu sait ce qui arrivera encore avant que ceci
+     parte. Par exemple, hier 8 d’octobre, m’est arrivé votre No 50 contenant trente pages
+     d’écriture; si cela continue, je n’écrirai plus qu’à vous, mais comme je ne vous donne mes
+     idées que par extraits et mes phrases en raccourci, j’espère bâcler cette réponse comme bien
+     d’autres. Pour cela vous pouvez vous vanter d’avoir de moi le recueil de lettres le
+     moins taché qu’il y ait au monde. Je vous écris tout ce qui me passe par la tête sans ordre ni
+     règle, sans style ni orthographe; vous avez nommé cela admirablement bien Ollapotrida
+     Impériale, car vraiment mes lettres ressemblent au plat espagnol. Je n’ai point cité St Paul à
+     votre sujet à <rs ref="people.xml#jos01"> M. de Falkenstein</rs>, <seg xml:lang="de"> weil ich
+      nicht bin so bibelfest, wie der Herr</seg> <rs ref="people.xml#gri01">souffre-douleur</rs>, et parce que je n’ai point trouvé
+     votre comparaison de l’argile juste; mais je suis foncièrement persuadée que si une fois vous
+     lui tombez sous la patte, vous aurez de la peine à sortir de ses griffes. Vous voudrez bien,
+     une bonne fois pour toutes, que je vous remercie sur tout ce que vous me dites de votre amitié
+     et attachement pour moi; vous voyez que j’y compte par toutes les pauvretés que je vous dis
+     journellement.</p>
+    <p>Je n’ai point parlé de vos prophéties au dit <rs ref="people.xml#jos01"> comte</rs>, vu qu’on
+     ne parle pas pourtant à ces-gens-là tout à fait comme à son <rs ref="people.xml#gri01">souffre-douleur</rs>. S’il est possible,
+     qu’il ne m’en vienne plus de ces gens-là après <rs ref="people.xml#jos01"> M. de
+      Falkenstein</rs>: il m’a gâté le timpan, et votre protégé m’a dégoûtée de pareilles visites;
+     je vous jure qu’il a considérablement augmenté, par l’ennui qu’il m’a fait essuyer, une douleur
+     rhumatique que j’avais au bras et qui commence à diminuer depuis qu’il est hors d’ici. Quand on
+     a des neveux de ce poids, il ne faut jamais les envoyer après des personnages comme ceux dont
+     nous avons été faire la connaissance à <placeName ref="places.xml#mog01"> Mohilef</placeName>:
+     imaginez, s’il vous plaît, que nous sommes en correspondance et que j’ai reçu une lettre douce
+     comme miel de <rs ref="people.xml#mar01"> maman aussi</rs>. Les politiques de la <placeName
+      ref="places.xml#whi01">Russie Blanche</placeName> disaient, nous voyant toujours côté à côté
+     et pendus à l’oreille l’un de l’autre, que nous allions nous épouser. Vous me feriez fuir de
+     mon <rs ref="places.xml#her01"> hermitage</rs> si vous y mettiez l’enseigne aux Trois Rois;
+     votre qualité d’ <seg xml:lang="de"> Oberkellner</seg> de cette auberge même ne dorerait pas la
+     pillule. Comme les arcs de triomphe du <persName ref="people.xml#gol17"> maréchal
+      Galitzine</persName> et le service pour l’âme de <persName ref="people.xml#vol01"
+      >Voltaire</persName> ne voulaient rien dire, j’ai renoncé à l’un comme à l’autre, et depuis
+     que je sais d’où vient l’idée du service de mort, je me félicite d’avoir eu du nez.</p>
+    <p>Ecoutez, ne raffolez pas tant de ce siècle, auquel vous croyez faire un si grand tort en lui
+     cachant mes lettres : ce siècle est aussi fou que bien d’autres, et le siècle futur sera
+     imbécile, si le bon Dieu n’y met ordre, car qu’est-ce que les lumières qui vont briller dans
+     tous les genres chez vous et dans tout le Midi de l’<placeName ref="places.xml#eur01"
+      >Europe</placeName>? tout cela sont des frères <rs ref="people.xml#geo02"> George</rs> dans
+     leur espèce. Ô mon Dieu, mon Dieu! que de frères <rs ref="people.xml#geo02">George</rs>
+     partout, partout! que le bon Dieu bénisse les frères <rs ref="people.xml#geo02">George</rs>,
+     les bons citoyens et les <seg xml:lang="de"> mittelmäßige Paßgänger</seg>, et puis raffolez du
+     siècle et de ses productions! Dans ce siècle il s’est trouvé encore des gredins qui sans génie
+     ont voulu écrire comme <persName ref="people.xml#vol01">Voltaire</persName>; ils ont cru que
+     pour cela il ne fallait que tortiller élégamment des phrases ou bien aussi parler à tort et à
+     travers hardiment de toute chose; quand je vois cela, je dis: Ô mon Dieu! ce n’est pas cela, ce
+     n’est pas cela. N’écrivez point fortement si vous n’avez l’âme forte, n’écrivez point hardiment
+     si vous n’avez ni génie ni agrément. Oh! qu’ils sont bêtes, vos gredins et tous les gredins de
+     toutes les sortes.</p>
+    <p>Je vous dis et je vous ai dit que je n’ai point d’argent et que quand j’en aurai, je vous en
+     enverrai pour les pierres gravées du bailli de <persName ref="people.xml#bre03">
+      Breteuil</persName>, dont l’eau nous vient à la bouche par les belles choses que vous en
+     dites, de même que votre amateur, qui m’aime, parce qu’il me croit amatrice, moi qui ne suis
+     qu’un glouton. Ecoutez : vous dites autant et tant de bien de moi que d’autres en disent du
+     mal; à qui de vous faut-il croire? Je prendrai une route moyenne: je croirai que je ne suis ni
+     la première, ni la dernière personne d’aucun siècle, mais que celui-ci est le siècle précurseur
+     de celui qu’auront formé les frères <rs ref="people.xml#geo02">George</rs>. Je n’ai point vu
+     encore les dessins de M. Auguste; quand je les aurai vus, je dirai ce qu’il faudra faire.
+     Viendra le tour de M. le <persName ref="people.xml#dal01"> baron de Dalberg</persName>;
+     j’attends son avis sur les <seg xml:lang="de"> Normalschulen</seg>. Jamais on ne me fera
+     craindre les peuples instruits, mais quand le seront- ils, et quand est-ce que parmi les gens
+     instruits il cessera d’y avoir des gredins avec faux esprit et fausse visière, et des frères
+      <persName ref="people.xml#geo02"> George</persName>, et des <seg xml:lang="de"> mittelmäßige
+      Paßgänger</seg>, et des gens plus propres à gâter qu’à bien faire? <persName
+      ref="people.xml#pai01"> Païsiello</persName> a musiqué tout son soûl devant les <rs ref="people.xml#jos01 people.xml#fri03">illustres
+      voyageurs</rs>; c’est la saison pluvieuse et l’humidité de <placeName
+      ref="places.xml#pet02">Péterhof</placeName> qui avait gâté et mes plumes et mon papier, <seg
+      xml:lang="de"> und das hat gemacht dass in meinem letzten Briefe die Tinte durchgeschlagen
+      hat</seg>. <persName ref="people.xml#orl01"> Orlof</persName> à <placeName
+      ref="places.xml#par01">Paris</placeName>, saluez-le de ma part et dites-lui que la charmante
+     tabatière qu’il m’a envoyée de <placeName ref="places.xml#spa02"> Spa</placeName> est toujours,
+     avec ses bas-reliefs antiques, sur ma table. Le <rs ref="people.xml#gus01"> comte de Haga</rs>
+     a gagné à <placeName ref="places.xml#spa02"> Spa</placeName> de quoi payer son voyage: voilà la
+     première fois que pareil gain a tourné au profit d’un état. </p>
+    <closer><signed rend="inline">Adieu. Portez-vous bien, <seg xml:lang="it"> basta per
+      lei</seg>.</signed></closer>
+   </div>
+   <div>
+    <p>J’ai reçu hier, 15 octobre, votre No 24 du 18 (29) septembre,<seg xml:lang="de"> parisischer
+      und römischer Rechnung-Vortrag</seg>; mais avant que d’y répondre, il faut que je vous dise
+     que j’ai eu ce matin les dessins de M. Auguste, et que ces dessins sont précisément comme je
+     n’en veux pas: ils sont chargés de figures d’animaux et de figures humaines et d’ornements,
+     comme l’on en voit partout, et tout cela ensemble fait que j’ai ordonné de les renvoyer. Outre
+     cela M. Auguste est d’une cherté épouvantable: je crois qu’il prendra pour la façon autant
+     qu’il y aura de poids; je lui tire ma révérence. Eh bien, monsieur, comptons, puisqu’il faut
+     compter: cent louis destinés à payer à <persName ref="people.xml#hou01"> Houdon</persName> le
+      petit <title ref="works.xml#voltai02">
+      <persName ref="people.xml#vol01">Voltaire</persName></title> en bronze doré; mille cinq cents
+     roubles destinés au <persName ref="people.xml#tro03"> Tronchin des Délices qui n’est pas
+      médecin</persName>, vingt mille livres pour payer la statue de marbre de <persName
+      ref="people.xml#vol01">Voltaire</persName> assis qu’ <persName ref="people.xml#hou01">
+      Houdon</persName> fera, onze mille livres partagées entre <persName ref="people.xml#phi02">
+      Philidor</persName> et <persName ref="people.xml#gil01"> Gillet</persName>, 5000 au premier,
+     6000 au second, des affaires académiques duquel il m’est défendu de me mêler, vu que le crédit
+     de <persName ref="people.xml#mar10"> Martinelli</persName> seul en doit avoir la gloire; ainsi
+     soit-il, et j’approuve tous ces emplois vu qu’il sont tels que je vous les avais indiqués. Pour
+     l’argent, et nommément les 22,200 livres pour payer les <persName ref="people.xml#rob01">
+      Robinet</persName> et puis les <persName ref="people.xml#pac01"> Zuckmantel</persName>, je
+     m’en vais m’en informer chez <persName ref="people.xml#bez01"> M. Bezborodka</persName>.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1780-10-20">20 d’octobre</date>. </dateline></opener>
+    <p>Il faudra écrire à <persName ref="people.xml#san03"> Santini</persName> qu’il adresse tout
+     droit au procureur-général prince <persName ref="people.xml#vya01"> Viazemski</persName> ou
+     bien à M. <persName ref="people.xml#bez01"> Bezborodka</persName> le compte de ce qu’il paie
+     pour moi, tandis que je n’ai pas de banquier-encore: ces messieurs sont les meilleurs payeurs
+     que je connaisse.</p>
+    <p>J’ordonnerai outre cela que le procureur-général ordonne en <placeName ref="places.xml#hol02"
+      >Hollande</placeName> à qui il lui plaira et dont je vous enverrai le nom, qu’il paie ce que
+     vous ordonnerez de payer. Je m’en vais ordonner de payer <persName ref="people.xml#san03">
+      Santini</persName> de trois mille dix-sept scudi soixante baiocchi, qui lui sont dûs; l’argent
+     pour les feuilles de deux ans de <persName ref="people.xml#mei01"> M. Meister</persName>, pour
+     chacune 360 roubles, vous sera envoyé. <persName ref="people.xml#hay01">Monsieur Hay</persName>
+     est une bête intéressée qui est la cause d’une forte perte, et le fils de l’ <rs
+      ref="people.xml#fre03"> ample baron</rs> ne veut point commercer, mais faire le petit
+     seigneur, ergo nous n’avons encore personne. M. le <persName ref="people.xml#vya01"> pr.
+      g-I</persName> tâtonne; vous savez qu’il est tigrelet pour notre argent, et que pendant toute
+     la guerre et le temps difficile il n’a jamais fait de perte.</p>
+    <p>Je suis bien aise d’apprendre que mon ancien allié approuve la neutralité armée; <rs
+      ref="people.xml#mar09"> ma soeur donna Maria</rs> commence à se raviser; l’amiral <persName
+      ref="people.xml#bor02"> Borissof</persName> a eu pour elle des charmes séduisants ou plutôt
+     ses dix vaisseaux; encore notre neutralité n’est-elle qu’à la lisière, ma bientôt elle marchera
+     en grande et jolie fillette. Renoncez à vos 12 exemplaires de <persName ref="people.xml#met01">
+      Métastase</persName>: ils ne sont plus à moi.</p>
+    <p>Je passe aux pancartes divines. D’abord se présente celle du 16 d’aôut, qui commence par la
+     fièvre de monseigneur <persName ref="people.xml#rim01"> Riminaldi</persName>, auquel j’espère
+     qu’après quelques accès on aura fait prendre le quinquina. Pour ce qui regarde le comte
+      <persName ref="people.xml#che03"> Tchernichef</persName> et son digne ami <persName
+      ref="people.xml#unknown"> Belemany</persName>, je conseille de les laisser promener
+      par <placeName ref="places.xml#rom03">Rome</placeName>, l’<placeName ref="places.xml#ita01"
+      >Italie</placeName> et autres lieux. La traduction en français du livre de <persName
+      ref="people.xml#unknown">M. Müller</persName> je l’attendrai très patiemment, vu que j’ai
+     quasi oublié de quoi il s’agit. Je me réjouis en attendant avec lui de ce qu’il perfectionne
+     ses rouets et apprend à filer avec toute la réussite, comme les fileurs de <placeName
+      ref="places.xml#sar02"> S. M. sarde</placeName>. S’il était possible, je serais bien aise de
+     n’en plus savoir des nouvelles jusqu’au moment de la plus parfaite parfilation, mais cependant
+     comme ceci n’est qu’un commentaire et que tout auteur doit aller son train sans s’en soucier,
+     vous ferez bien de ne rien communiquer sur ce point au <rs ref="people.xml#rei03"> divin</rs>,
+     afin que sa caboche puisse librement aller son trot en paix et sans empêchement quelconque.
+     Diable, cet article est trop fort, et malgré toute la gloutonnerie imaginable, je ne veux point
+     de la <title ref="works.xml#trajan01"> colonne Trajane</title>: en argent qu’en ferais-je et à
+     quoi bon cela? le reste, je laisse à la postérité à y répondre et à en décider.</p>
+    <p><seg xml:lang="de"> Nun kommt </seg> Pancarte <seg xml:lang="de"> vom </seg> 30 d’août <seg
+      xml:lang="de"> aus Rom. Gott segne unser Strandrecht, sagen die Rur- und Tiefländer, wenn’s
+      gleich verboten ist.</seg> J’opine que le <persName ref="people.xml#pop03"> pape</persName>
+     fasse une procession dans <placeName ref="places.xml#rom03">Rome</placeName> pour faire finir
+     ces fièvres maudites, ou que le <rs ref="people.xml#rei03"> divin</rs> sorte de <placeName
+      ref="places.xml#rom03">Rome</placeName> avec <persName ref="people.xml#hor01">
+      Horace</persName> à la main, et qu’il emmène tous les peintres et artistes, même M. <persName
+      ref="people.xml#rim01">Riminaldi</persName>, avec lui, afin de les en préserver, surtout qu’il
+     ne nous les envoie point, ces maladies-là, dans les ballots qu’il a fait faire pendant ce
+     temps. Mon Dieu ! la peur me prend: où est-ce que je mettrai tout ce qu’il va m’envoyer?
+     Attendons donc le courrier prochain, puisque la fièvre n’a point épargné <persName
+      ref="people.xml#unknown"> M. Müller</persName> et ses filarets. Que le ciel bénisse la
+     tapisserie de M. <persName ref="people.xml#one01"> Onesti</persName>, neveu du <persName
+      ref="people.xml#pop03"> pape</persName>, et l’homme machiniste et dessinateur qui veut venir
+     ici. N’oubliez pas de rendre à <persName ref="people.xml#san03"> M. Santini</persName> les
+     compliments qu’il vous a fait faire; ma pour les projets, je n’y donne guère. Je joins mes
+     voeux à ceux du <rs ref="people.xml#rei03"> divin</rs> pour que la fièvre maligne vous
+     épargne.</p>
+    <p>Commentaire sur la pancarte du 6 de septembre. Déduction divine sur le plus de dépenses à
+     faire au sujet des loges, vues, les châssis, dorures etc. Ci-dessus vous aurez vu que nous
+     sommes très disposée à élargir le crédit du susdit Sr <persName ref="people.xml#san03">
+      Santini</persName>, et ci-dessous je vous déclare que voici la fin de cette énorme pancarte,
+     que vous aurez assez de peine à déchiffrer et à comprendre, mais qu’est-ce que cela me fait? </p>
+    <closer><signed rend="inline"> A bon entendeur salut. Ce <date when-custom="1780-10-21">21
+       d’octobre 1780</date>.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

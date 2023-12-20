@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08245</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08245</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#henry"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:26:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08245">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1776-06-15">15 juin 1776</date>.</dateline></opener>
+   <p>S'il n’y avait longtemps que je suis intimement persuadée que les sentiments de V. A. R. et Sa
+    façon de penser ne se démentent jamais, la lettre qu’Elle vient de m’écrire de <placeName
+     ref="places.xml#kra02"> Krasno-Sélo</placeName> m’en serait une nouvelle preuve. Je La prie
+    d’être assurée que ma reconnaissance, mon amitié et la haute estime que j’ai conçue pour Ses
+    vertus ne finira qu’avec ma vie. Je suis bien fâchée que dans le temps où j’aurais voulu n’être
+    occupée qu'à témoigner à V. A. R. mes attentions et à Lui procurer tous les agréments qu’il
+    m’aurait été possible, je ne L'aie entretenu, pour ainsi dire, que de mes propres affaires, de
+    ce qui m'affligeait ou m’affectait; mais aussi que n’a-t-Elle pas fait pour me soulager, et
+    quelles preuves ne m'a-t-Elle données et de Son amitié et de la bonté de Son cœur et même de Sa
+    patience? Le moyen après cela que je ne Lui parlasse à cœur ouvert et avec toute confiance! Si
+    avec cela j’ai pu L’amuser, je me croirais du bonheur, j'avoue humblement que je me trouvais
+    plus occupée qu’aimable ou amusante, et que j’y ressemblais un instantinet à la plaideuse de la
+    comédie, qui n’ayant en tête qu'un seul et unique sujet, son éternel procès, en parle le plus
+    qu’elle peut, au détriment de la patience de ceux qui l'écoutent En recommandant de nouveau <rs
+     ref="people.xml#pau01"> mon jeune voyageur</rs> et ses petites affaires à l'amitié de V. A. R.
+    je La prie de croire qu’on ne saurait rien ajouter aux sentiments avec lesquels ...</p>
+  </body>
+ </text>
+</TEI>

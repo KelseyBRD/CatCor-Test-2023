@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00007</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00007</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-17">17 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and some annotation.</p>
+            </change>
+            <change>
+                <date when="2015-03-30">30 March 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00007">
+                <body>
+                    <opener><dateline rend="right"><placeName ref="places.xml#pet01">à
+                                St.-Pétersbourg</placeName>, <date when-custom="1774-03-03">ce 3 de
+                                Mars 1774.</date></dateline>
+                    <salute>Monsieur mon Frère,<note type="editorial">Frederick received this letter
+                            via his ambassador in St. Petersburg, <ref target="people.xml#sol01"
+                                >Count Solms</ref>, to whom he wrote from Potsdam on 29 March 1774:
+                            'La lettre de la propre main de S.M. l'Impératrice que vous m'avez
+                            adressée à la suite de votre rapport du 15 de ce mois, m'a fait un
+                            plaisir infini. Elle m'est un nouveau gage bien précieux de son amitié,
+                            et ce n'est que par pure discrétion et afin de ne pas l'importuner par
+                            mes lettres, que je n'y réponds pas tout de suite. Je sens cependant que
+                            je ne pourrai résister longtemps au plaisir que je trouve dans sa
+                            correspondance immédiate; de sorte que vous pourriez très bien recevoir
+                            dans peu ma réponse' ('The letter in H.M. the Empress's own hand, which
+                            you sent me with your report of the 15th of this month, pleased me
+                            infinitely. It is another most precious token of her friendship, and I
+                            shall not reply immediately only out of pure discretion and so as not to
+                            annoy her with my letters. I sense, however, that I will not be able to
+                            resist for long the pleasure of corresponding with her directly, such
+                            that you may very well receive my reply shortly') <bibl><title
+                                    ref="works.xml#politi01">Politische Correspondenz Friedrich's
+                                    des Großen</title>, <biblScope unit="vol">xxxv</biblScope>,
+                                    <biblScope unit="pp">p. 211</biblScope> (<idno>Letter
+                                    22908</idno>)</bibl>.</note></salute></opener>
+                    <p>Ce n'est point avec un ami et un allié tel que Votre Majesté que je suis en
+                        droit de me restreindre aux simples formalités d'usage. Sa lettre du 23
+                        Février est trop intéressante pour que je puisse me dispenser d'y répondre.
+                        D'abord c'est la goutte que Votre Majesté a ressentie aux deux mains qui
+                        m'inquiète, je désire de tout mon coeur que cet accès soit passé entièrement
+                        et qu'il ne revienne jamais, ce voeu est si naturel à l'amitié que j'espère
+                        que Votre Majesté voudra le recevoir comme une suite des sentiments qu'Elle
+                        me connait pour sa personne et sur lesquels le <persName
+                            ref="people.xml#goe01">comte Goertz</persName> n'en peut avoir trop dit
+                        à Votre Majesté. Je vois avec la plus grande satisfaction ceux de Votre
+                        Majesté correspondre parfaitement aux miens, et qu'il n'y a pas d'occasion
+                        où Votre Majesté ne veuille bien faire cause commune avec moi. Elle daigne
+                        même descendre jusqu'à faire mention de cette troupe de brigands qui s'est
+                        élevée contre moi, beaucoup plus méchante et méprisable qu'elle n'est
+                        dangereuse, et dont il y a apparence que les complots mal conçus, mal
+                        digérés, auxquels les désordres, la licence et l'inhumanité servent de
+                        règles finiront comme les farces Italiennes, par des punitions inflictives.
+                        Si cette desagréable incartade a donné du contentement à mes ennemis, j'ai
+                        tout lieu d'espérer que ce ne sera pas pour longtemps, le <persName
+                            ref="people.xml#mus01">Sultan</persName> aurait eu tort d'en mourir de
+                        joie. Je me flatte que Votre Majesté dans cette occurrence comme dans tant
+                        d'antres, voudra bien employer ses bons offices de nouveau pour acheminer la
+                        pacification dès qu'Elle en trouvera à <placeName ref="places.xml#ist01"
+                            >Constantinople</placeName> le moment favorable. C'est sur Elle comme
+                        sur mon meilleur ami et allié que Je mets aussi ma principale espérance.
+                        Très flattée au reste de l'approbation de Votre Majesté au sujet de ma
+                        conduite vis-à-vis de <persName ref="people.xml#kar01">Madame la
+                            Landgrave</persName>, pour laquelle mes sentiments sont tout à fait
+                        conformes à ceux de Votre Majesté.</p>
+                    <closer><signed>C'est avec la plus haute considération que je ne cesserai
+                            d'être, Monsieur, mon Frère, de Votre Majesté, la bonne Soeur, Amie et
+                            Alliée.
+                        <persName ref="people.xml#cat01" rend="below">Catherine.</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right">at St. Petersburg, this 3rd of March
+                            1774.</dateline>
+                    <salute>My dear Brother,</salute></opener>
+                    <p>With a friend and ally like Your Majesty I have not the right to restrict
+                        myself to the mere formalities of custom. Your letter of 23 February is too
+                        interesting for me to be excused from replying to it. First of all, I am
+                        concerned by the gout that Your Majesty suffered in both hands: I hope with
+                        all my heart that this attack is completely gone and that it shall never
+                        return. This wish is so natural to friendship that I hope that Your Majesty
+                        will deign to receive it as a consequence of the sentiments which You know
+                        me to have for Your person and about which Count Goertz cannot have told
+                        Your Majesty too much. I see with the greatest satisfaction that Your
+                        Majesty's perfectly correspond with mine, and that there is no occasion on
+                        which Your Majesty is not willing to make common cause with me. You have
+                        even condescended to mention that troop of brigands that has arisen against
+                        me, which is much baser and more contemptible than it is dangerous. It
+                        appears that their poorly conceived and poorly digested plots, governed by
+                        disorders, licentiousness, and inhumanity, will end like Italian farces,
+                        with inflicted punishments. If that disagreeable escapade has given pleasure
+                        to my enemies, I have every cause to hope that it will not be for long: the
+                        Sultan will have been wrong to die of joy at it. I flatter myself that Your
+                        Majesty, in these circumstances as in so many others, will be willing to
+                        employ Your good offices once again to move towards pacification as soon as
+                        You find a favourable moment at Constantinople. I therefore place my primary
+                        hope in You as in my best friend and ally. I am, besides, very flattered by
+                        Your Majesty's approbation of my conduct regarding the Landgravine, for whom
+                        my sentiments match in all respects those of Your Majesty.</p>
+                    <closer><signed>It is with the highest regard that I will never cease to be, my
+                            dear Brother, Your Majesty's good Sister, Friend, and Ally.
+                        <persName rend="below">Catherine.</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00734</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00734</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-24">24 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00734">
+                <body>
+                    <opener><dateline>Из <placeName ref="places.xml#tsa01">Царского Села.</placeName> <date
+                            when-custom="1783-06-05">Июня 5 числа 1783
+                        года</date></dateline></opener>
+                    
+                    <p>Третьего дня получила я от Кор[оля] Шведского извещение с нарочным, что он
+                        приехал в <placeName ref="places.xml#abo01">Або</placeName> благополучно,
+                        быв 22 часа на море; а вчера прислал он другого с тем, что он, смотря войски
+                        при <placeName ref="places.xml#tav01">Тавастгусе,</placeName> стоя на одном
+                        месте верхом - лошадь его, испугавшись от пушечного выстрела, бросилась в
+                        сторону, и <persName ref="people.xml#gus01">Его Вел[ичество],</persName>
+                        упав с ней, левую руку меж плеча и локтя переломил наискось. Присланный
+                        сказывает, что с места Короля понесли на кресле до <placeName
+                            ref="places.xml#tav01">Тавастгуса.</placeName> Он же сам правою рукою
+                        написал ко мне, чтоб я согласилась отсрочить свидание до двадцатого июня и
+                        что тогда лекарь обнадеживает, что с перевязанной рукой ко мне быть может. Я
+                        писала к нему с сожалением, послала камер-юнкера для осведомления о его
+                        здоровье и согласилась на отсрочение. <seg xml:lang="fr">Pardi, mon Ami,
+                            voila un heros bien maladroit, que de tomber comme cela dans une
+                            manoeuvre devant ses troupes.</seg></p>
+                    <p>Письмо твое, мой милый друг, от 18 мая я получила. Чтоб Ханское желание в
+                        рассуждении голубой ленты удовлетворить и притом сохранить все то, что мне и
+                        ему сохранить надлежит, то приказала я изготовить голубую ленту чрез плечо с
+                        медальоном овальным, на котором посреди алмазов слово из надписи ордена
+                        Святаго Андрея: "Верность". Звезда же бриллиантовая и с тою же надписью. А
+                        ему при том сказать надлежит, что креста ни он носить не может, ни я дать не
+                        могу ему, потому что он не христианин, а даю ему голубую ленту с надписью
+                        ордена Святаго Андрея и с преимуществом того ордена - с Генерал-Поруческим
+                        чином. Нетерпеливо жду от тебя известия о окончании Крымского дела. Пожалуй,
+                        займи прежде, нежели турки успеют тебе навернуть сопротивление. К <persName
+                            ref="people.xml#pot02">Павлу Сергеевичу</persName> и к тебе приказала
+                        отправить подарок: мехи и вещи, которые ты требовал.</p>
+                    <p>Путь на <placeName ref="places.xml#rig01">Ригу</placeName> и вверх по
+                            <placeName ref="places.xml#dvi01">Двине,</placeName> а там по <placeName
+                            ref="places.xml#dni03">Днепру,</placeName> который ты желаешь, чтоб
+                        единороги взяли, дабы Ахтиярской гавани доставить против неприятельских
+                        судов оборону, не есть ближний. Конечно, ты имеешь тем путем иное намерение.
+                        Буде тебе скорее куда надобно, то везти в Смоленск -- кратчайший отселе
+                        путь. Отселе в <placeName ref="places.xml#rig01">Ригу</placeName> будут три
+                        недели в пути, а там вверх по <placeName ref="places.xml#dvi01"
+                            >Двине</placeName> проедут ли, Бог еще знает, а там переволок до
+                            <placeName ref="places.xml#dni03">Днепра.</placeName> Однако ж отправить
+                        велела.</p>
+                    <p>Фельдмаршал <persName ref="people.xml#rum01">Румянцев</persName> пишет ко
+                        мне, требует генерального штаба, инженеры и экстраординарной суммы. Я
+                        приказала к тебе сообщить его письмы. Он же опасается, чтоб турки его не
+                        упредили. Как война не объявлена, то, кажется, все ко времени еще поспеть
+                        может.</p>
+                    <p><seg xml:lang="fr">Adieu, mon Ami, portes-Vous bien.</seg> После
+                        похода моего переменю Ген[ерал]-кригскомиссара.</p>
+                    <p><persName ref="people.xml#zor01">Зорич</persName> ехал было сюда, но я
+                        послала ему сказать, чтоб он до решения дела Зановича не казался мне на
+                        глаза. И так просил, чтоб ехать в Сесвеген, чего я ему дозволила.</p>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

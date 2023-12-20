@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09076</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09076</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#navy"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-10">2023-07-10</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09076"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-08-10">1788 г. августа 10.</date>
+                </dateline>
+            </opener>
+            <p>Имеет ли суд свое течение и до чего уже дошол,— который наряжен в изследовании непослушания, индисциплины, и чрез то общее дело гибели в такой отважной <name type="event" ref="events.xml#hogla01">битве</name>, как была оборона самой, так-то сказать, <rs ref="places.xml#pet01">столицы</rs> в <date when-custom="1788-07-06">6 д. июля 1788 г</date>. Ибо кто тут не делал свою должность и не боролся всеми силами, тот уже к чему может быть способен, и какую от него в каком деле ожидать можно ревность и усердие?
+                <note type="editorial">
+                    A.v. Khrapovitskii noted in his diary on <date when-custom="1788-07-11">July 11 1788</date> that <persName ref="people.xml#che03">Count Chernyshev</persName> showed him the letter from <persName ref="people.xml#gre01">admiral Greig</persName>, in which he writes that not all of Russian ships participated in the battle and some of the captains did not execute the orders well, what was the reason for the ship <title>"Vladislav"</title> to get captured by Swedish navy. Greig accused captains of other ships: <title>"Deris'"</title> commanded by <persName ref="people.xml#kok01">Savva Grigor'evich Kokovtsev</persName>, <title>"Ioann Bogoslov"</title> commanded by <persName ref="people.xml#val02">Stepan Aleksandrovich Val'ront</persName>, and <title>"Pamiat' Evstafiia"</title> commanded by <persName ref="people.xml#bar09">Andrei Baranov</persName>. All three were dismissed and put on trial by Greig. Following the trial, A.V. Khrapovitskii remarked on <date when-custom="1788-07-18">July 18 1788</date> that the evidence of the guilt of three captains is growing stronger and that <persName ref="people.xml#dez02">rear-admiral Martyn Petrovich von Dezin</persName> might get involved in this case, as he didn't signal to the ships to return back to the battle as they were leaving. On <date when-custom="1788-08-10">August 10 1788</date> in response to Catherine's request about the trial on three accused captains Khrapovitskii confirmed that it will soon be brought to a close. (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 61, 64, 73.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

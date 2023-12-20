@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03650</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03650</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+     <term target="kw.xml#acquisitions"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-19">19-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:22:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03650">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#mos01"> Moscou</placeName>, ce <date
+       when-custom="1787-06-29">29 juin 1787</date>.</dateline></opener>
+    <p>Je suis arrivée ici avant-hier, et hier est arrivé le courrier qui a apporté le No 92 et les
+      <seg xml:lang="de"> Vortrag</seg> 87 et 88. Je me hâte d’y répondre, parce que le cas est
+     pressant; je m’en vais donc y répondre malgré les fêtes et la bagarre de ces fêtes à <placeName
+      ref="places.xml#mos01"> Moscou</placeName>, ce qui double la bagarre et ne me donne ni temps
+     ni repos pas une minute dans la journée.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1787-06-30">30 juin</date>. </dateline></opener>
+    <p>D’abord la lettre de la <persName ref="people.xml#bue01"> comtesse de Bueil</persName> est la
+     très bienvenue: je suis très fâchée de ce qu’elle a été malade. Pour celle de M. <persName
+      ref="people.xml#roe04"> David Roentgen</persName>, comme ce n’est qu’une fantaisie de votre
+     part et que j’ignore absolument à quoi elle doit servir, je la mets de côté jusqu’à ce que j’en
+     sois mieux informée, faute de temps. Les armoires à cent tiroirs sont destinées aux <hi
+      rend="italic">brasses</hi> de pierres gravées que nous avons et que vous allez augmenter par
+     celles du <persName ref="people.xml#orl07"> duc d’Orléans</persName>, mais prenez bien garde
+     qu’on ne vous en change en nourrice et qu’on ne retienne ce qu’il y a de meilleur; ceci nous
+     est arrivé déjà et nommément avec celle d’ <persName ref="people.xml#per02"> Algernoon
+      Percy</persName>. Nous avons certain cabinet de pâtes de <persName ref="people.xml#tas01">
+      Tassié</persName> qui nous dévoilent d’abord ces fraudes-là. Chemin faisant nous avons ramassé
+     quelques centaines de pierres qui ne se mouchent pas du pied.</p>
+    <p>Dieu merci, <rs ref="events.xml#crime01"> ce voyage</rs> est terminé jusqu’ici et les
+     vingt-cinq ans de règne aussi. Sur l’élection du <persName ref="people.xml#dal01"> baron de
+      Dalberg</persName> à la coadjutorerie de <placeName ref="places.xml#mai03">
+      Mayence</placeName> je vous ai déjà adressé mes compliments; ainsi vous n’aurez point
+     d’ambassade expresse. Je ne sais si le Te Deum aura lieu là où vous le proposez, mais il est
+     sûr que si cela arrive, <persName ref="people.xml#pla01"> Platon</persName> le chantera avec
+     grand plaisir; il me l’a dit hier lui-même. M. <rs ref="people.xml#dmi01"> l’habit rouge</rs>,
+     en attendant qu’il soit nommé ambassadeur près de vous, s’est avisé de vous écrire la pancarte
+     ci-jointe, et il m’a dit, en me la remettant, qu’il était tenté d’y ajouter mille folies, mais
+     qu’il s’est trouvé dans le cas où nous sommes tous ici de se hâter et de n’avoir du temps pour
+     rien.</p>
+    <p>Vous pouvez être persuadé que selon mes nouvelles il n’y a rien de plus vrai que le projet de
+     faire élire le <rs ref="people.xml#lou04"> second fils</rs> du <rs ref="people.xml#fri03">roi
+       de <placeName ref="places.xml#pru01"> Prusse</placeName></rs> à la coadjutorerie de
+      <placeName ref="places.xml#mai03"> Mayence</placeName>; le <persName ref="people.xml#cha05">
+      duc de Weimar</persName> doit y avoir engagé le <persName ref="people.xml#fri03">
+      roi</persName>; un certain baron Stein y a été employé ; <persName ref="people.xml#her02">
+      Hertzberg</persName> et les grands faiseurs ont désavoué cela: aussi cela se négociait-il à
+     leur insu, mais <rs ref="people.xml#gus01"> Fr. Gust</rs>, y avait consenti à peu près dans le
+     goût de l’ami <persName ref="people.xml#lou15"> Louis XV</persName> à l’insu des faiseurs. NB.
+     Tenez, cette abréviation est claire et vous voyez qui vous avez à saluer: à présent vous devez
+     avoir depuis longtemps la relation des entrevues et du voyage; je ne sais pourquoi on fait tant
+     de bruit de <rs ref="events.xml#crime01"> mon voyage</rs>: en vérité, il n’y a pas là de
+     quoi.</p>
+    <p>Allez-vous en avec vos notables: on ne sait plus sur quoi compter chez vous. Votre <persName
+      ref="people.xml#cal01"> M. de Calonne</persName> ni aucun autre de chez vous ne me tente;
+     gardez-les pour vous; cela en sait dix fois plus que moi, et fait dix fois plus mal que moi et
+     mes employés, qui avons moins de belles phrases. Ne croyez point ce que les gazettes disent sur
+     mes dépenses de <rs ref="events.xml#crime01"> voyage</rs>: ils ont fait de la <persName
+      ref="people.xml#bra02"> comtesse Branitska</persName> ma pourvoyeuse et ont dit qu’elle
+     recevait à <placeName ref="places.xml#kie01"> Kiov</placeName> 5000 roubles par jour pour ma
+     table, et me vendait les oeufs à un demi-rouble la pièce; tout cela est pur et plat mensonge,
+     mais nous a servi à turlupiner beaucoup la susdite comtesse, qui en riait avec nous.</p>
+    <p>Je suis bien fâchée de ce que vous avez été malade l’hiver passé. <seg xml:lang="de"> Die
+      tolle Leute sind gesund hier angekommen</seg>. Prenez-vous en à <rs ref="people.xml#dmi01">
+      l’habit rouge</rs>, si vous voulez, qui a aidé à me persuader de ne pas laisser échapper
+     l’achat peut être unique des pierres gravées du cabinet <persName ref="people.xml#orl07">
+      d’Orléans</persName>. Les ordres sont donnés à <persName ref="people.xml#sut01">
+      Southerland</persName> par <persName ref="people.xml#str01"> Strékalof</persName> pour le
+     paiement de ce cabinet, et nous nous hâtons de vous envoyer d’ici une personne sûre pour
+     emporter la pacotille. J’espère qu’il arrivera au commencement d’août, parce qu’il part au
+     commencement de notre juillet. Vous avez beau me faire la guerre, il n’en sera ni plus ni
+     moins, et ce qui est dit, est dit. J’ai craint de voir monter le prix à mesure qu’on trouverait
+     des facilités à la vente. Celui que j’envoie pour prendre les pierres gravées, est un officier
+     aux gardes nommé <persName ref="people.xml#tou01"> Toutolmine</persName>. Le reste, vous le
+     ferez comme vous l’entendez. Je souhaite que vous gagniez de la santé en <placeName
+      ref="places.xml#swi01"> Suisse</placeName>. Qu’est-ce que la maladie de la <persName
+      ref="people.xml#car06"> duchesse de <placeName ref="places.xml#got01">
+      Gotha</placeName></persName>? j’ai cru que le <seg xml:lang="de"> Fürstenbund</seg> guérissait
+     de tous les maux. J’ai jeté à la tête de <persName ref="people.xml#qua01"> Quarenghi</persName>
+     ce matin les plans de <placeName ref="places.xml#bak01"> Baktchi-saraï</placeName>, ancienne
+     résidence du kan; le voilà en possession de l’intérieur curieux d’un sérail à la turque et
+     d’appartements misérablement ornés par le <persName ref="people.xml#tot01"> baron
+      Tott</persName>; il est singulier que les ouvrages de cet homme-là tombent tous entre mes
+     mains, les uns après les autres. Grand merci à M. de <persName ref="people.xml#mon02">
+      Montmorin</persName> du beau repos qu’il prétend établir pour moi; qu’on me laisse faire:
+     chacun y trouvera son profit, et un profit plus réel que leurs idées chimériques, tandis qu’ils
+     n’ont pas le sou, et alors nous serons grands et bons amis plus que jamais; <seg xml:lang="de">
+      wo nicht, so wird geschehen was Gott will</seg>.</p>
+    <p>J’ai écrit ces jours-ci une belle missive au <rs ref="people.xml#kar03"> père de
+     Zelmire</rs> pour lui dire de rassurer <rs ref="people.xml#aug01"> sa fille</rs>, qui, dans les
+     arrangements qu’on fait, dit qu’il n’y a ni sûreté, ni subsistance, ni repos à attendre pour
+     elle; je verrai ce qu’il me répondra. J’ai fait rendre au <persName ref="people.xml#anh01">
+      comte d’Anhalt</persName>, au prince de Ligne et au comte de <persName ref="people.xml#seg01">
+      Ségur</persName> les paquets qui étaient à leurs adresses. Je n’ai jamais eu de goût pour
+      <persName ref="people.xml#cal01"> M. de Calonne</persName>, mais ses emprunts doivent le faire
+     détester.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1787-06-30">30 juin</date> après dîner.
+     </dateline></opener>
+    <p>Votre ami <rs ref="people.xml#dal01"> le coadjuteur de Mayence</rs> s’immortalisera sans
+     doute s’il travaillera à faire tomber dans le néant toutes ces détestables animosités que tant
+     de brouillons tâchent d’entretenir pour leur propre petit intérêt. La divine lettre du <rs
+      ref="people.xml#rei03"> divin</rs> je l’ai lue par vos bontés, je la trouve admirable à être
+     commentée, mais pour le pouvoir, il faudrait en avoir le temps, ce que je n’ai pas. Le signor
+      <persName ref="people.xml#qua01"> Quarenghi</persName> s’en va d’ici au-devant de ces divines
+     loges que je serai divinement enchantée de revoir. Le <persName ref="people.xml#pot01"> prince
+      Potemkine</persName>, NB. qui est resté dans ses gouvernements, jusqu’à ce qu’il lui prendra
+     fantaisie de nous rejoindre, s’est emparé encore à <placeName ref="places.xml#kie01">
+      Kiov</placeName> des essais encaustiques, mais je ne jurerai pas que je n’en demande quelques
+     essais pour <placeName ref="places.xml#pel01"> Pella</placeName>. J’ai reçu tout ce que
+     contenait la facture des paquets du mulet Komarofski, et nommément je vous remercie des six
+     pierres gravées, et du sardonyx et des émaux de <persName ref="people.xml#hur01">
+      Hurter</persName>; je les crois très beaux, mais je les ai envoyés tout emballés à <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>, où je les verrai.</p>
+    <p>Le fragment des mémoires de M. de <persName ref="people.xml#gri01"> Grimm</persName> est très
+     bien fait, et la lettre de l’<persName ref="people.xml#gal05"> abbé Galiani</persName> bien
+     originale. J’espère que le <rs ref="people.xml#bob01"> jeune homme</rs> sera tiré d’affaire,
+     car, outre les 23.000 roubles qui lui ont été envoyés, j’ai ordonné par une lettre à <persName
+      ref="people.xml#bet01"> M. Betski</persName> d’envoyer au <rs ref="people.xml#bob01"> jeune
+      homme</rs> les 51.426 roubles qu’il demande et dont il avait augmenté son capital. Le voilà
+     donc avec 51.426 + 23.000 = 74.426 roubles; outre son tertial il fera fort bien, s’il ne veut
+     pas se ruiner, de ne pas faire souvent des esclandres pareils, qui ne sauraient lui faire ni
+     honneur ni plaisir. Amen.</p>
+    <p>Les oeuvres de <persName ref="people.xml#buf02"> M. de Buffon</persName> seront les
+     bienvenues, comme vous le verrez vous-même par la lettre de <rs ref="people.xml#dmi01"> l’habit
+      rouge</rs>, auquel vous devez savoir gré d’avoir vaincu sa paresse pour vous au milieu de la
+     bagarre de <placeName ref="places.xml#mos01"> Moscou</placeName> où il a tous ses amis et
+     parents qui lui emportent le peu de temps qui lui reste, et qui n’est pas mangé par ce qui
+     m’entoure et moi-même. J’espère d’être à <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName> vers le 10 juillet v. st. Si vous avez de l’argent de reste,
+     payez-vous de la reliure rouge pour <rs ref="people.xml#dmi01"> l’habit rouge</rs>; sinon,
+     tirez sur <persName ref="people.xml#str01"> Strékalof</persName> ou <rs ref="people.xml#bez01">
+      factotum</rs>. Je me passerai des camées Morel, à moins qu’ils ne soient en égal de ceux du
+     Palais Royal; 24.000 livres de plus ne consommeront pas ma ruine. Le présent de <persName
+      ref="people.xml#ogi02"> milord Findlater</persName> nous viendrait à temps si réellement il
+     remédie à la disette: on la craint dans plusieurs de nos provinces; je n’ai pas eu le temps
+     d’ouvrir encore son livre. Si <persName ref="people.xml#fal01"> Falconet</persName> vient à
+     mourir, faites-moi ravoir mon portrait qu’il possède, ou bien gardez-le chez vous. </p>
+    <closer><signed rend="inline">Adieu, j’ai coulé à fond toutes vos dépêches, et vous souhaite
+      santé et plus de repos que je n’en ai à <placeName ref="places.xml#mos01"> Moscou</placeName>,
+      d’où je partirai le 4 juillet v. -st.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

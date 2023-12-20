@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02668</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02668</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#austria"/>
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02668">
+                <body>
+                    <opener rend="right">
+                        <dateline>
+                            <date when-custom="1772-02-08">Ce 8 Février 1772</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Après la <rs ref="events.xml#parti01">signature des engagements</rs> qui
+                        mettent le dernier sceau à l'intimité et l'étroite connexion des intérêts de
+                        nos deux monarchies, je ne puis laisser retourner le courrier chargé d'en
+                        porter les instruments à Votre Majesté, sans lui témoigner toute la
+                        satisfaction que me donne le succès d'une négociation aussi importante.
+                            <placeName ref="places.xml#eur01">L'Europe</placeName> va voir combien
+                        deux puissances aussi étroitement unies peuvent marcher avec confiance dans
+                        les mesures que la prévoyance et l'avantage de leurs états leur dictent, et
+                        que si la prudence les a dirigés, la bonne foi et la fermeté sont prêtes à
+                        les soutenir. Aussi ne citera-t-on guère d'exemple d'une alliance, dont la
+                        durée égale celle qui subsiste heureusement entre Votre Majesté et moi, que
+                        malgré l'importance et la variété des évènements, ni les liens entre les
+                        deux états n'ont jamais subi la moindre altération, ni, j'ose le dire avec
+                        confiance, l'expérience m'y autorise, les sentiments personnels entre Votre
+                        Majesté et moi n'ont jamais différé: tout a contribué à fortifier les uns et
+                        à affermir les autres, et enfin les a conduits au degrès de perfection où je
+                        me réjouis de les voir en ce jour. Après avoir dit tout ceci à Votre
+                        Majesté, je n'ai pas besoin, je crois, de La prier d'être persuadée de la
+                        parfaite conformité de mes sentiments et opinions à ceux de Votre Majesté,
+                        exprimés dans Sa lettre du 4 Janvier de cette année. Votre Majesté a été
+                        informée du changement arrivé dans la politique, ou dans le langage de la
+                        cour de <placeName ref="places.xml#vie01">Vienne </placeName> relativement à
+                        la bonne cause. J'attribue avec justice cette révolution à la fermeté et à
+                        la droiture avec laquelle Votre Majesté a soutenu mes intérêts, Elle a
+                        montré que rien ne la déterminait<note type="editorial">In the sent
+                            manuscript letter, Catherine originally wrote 'determinoit', but half
+                            the 'm' and the first 'i' have been scratched out, presumably to change
+                            the word to the more logical 'détournait'.</note> de Son allié. Je me
+                        retrace avec contentement tous les traits qui me caractérisent le plus les
+                        obligations que je me sens envers Votre Majesté. Je souhaite ardemment que
+                        de ce retour de la cour de <placeName ref="places.xml#vie01"
+                            >Vienne</placeName> il puisse naître cet effet que j'ai toujours eu à
+                        coeur et en vue, qui est, d'établir dans un système d'union entre les trois
+                        puissances, qui devient probable aujourd'hui, un intérêt tel que son
+                        importance pût à jamais absorber tout souvenir et toute vue politique
+                        quelconque de cette cour sur la <placeName ref="places.xml#sil02"
+                            >Silésie</placeName>. Tels sont mes désirs, parce que mes sentiments
+                        embrassent sans réserve tout ce qui tend à assurer de plus en plus la
+                        prospérité et l'avantage de la monarchie prussienne, </p>
+                    <closer>
+                        <signed>et à ces vues et à ces intérêts d'état se joignent l'amitié la plus
+                            inviolable et la considération la plus parfaite, avec laquelle je ne
+                            cesserai d'être, Monsieur mon Frère, de Votre Majesté la bonne Soeur,
+                            Alliée et Amie 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

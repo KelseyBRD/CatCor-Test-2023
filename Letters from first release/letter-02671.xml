@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02671</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02671</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#germany"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords>
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-05">05 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02671">
+                <body>
+                    <opener rend="right">
+                        <dateline>
+                            <date when-custom="1773-06-18">Ce 18 Juin 1773</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> J'ai reçu des mains de <persName ref="people.xml#kar01">Madame la
+                            Landgrave</persName> de <placeName ref="places.xml#dar01"
+                            >Darmstadt</placeName> la lettre qu'il a plu à Votre Majesté de m'écrire
+                        le 23 Mai. Cette princesse mérite bien d'être l'amie d'un grand Roi. Je me
+                        flatte qu'Elle deviendra la mienne. Je l'ai trouvée précisément telle que
+                        Votre Majesté me l'a dépeinte, Elle et ses enfants sont destinés à resserrer
+                        les liens qui unissent déjà nos états. Mon fils vient de se déterminer à
+                        offrir sa main à <persName ref="people.xml#wil01">la princesse
+                            Wilhelmine</persName>. J'ai approuvé son choix, et je n'ai rien de plus
+                        pressé que d'orner ma réponse à Votre Majesté de cette nouvelle. Elle verra
+                        par là que les inquiétudes de <persName ref="people.xml#kar01">Madame la
+                            Landgrave</persName> se sont évanouies bien vite, et j'espère qu'Elle ne
+                        regrettera pas la confiance qu'Elle m'a marquée en venant à ma cour. Rien ne
+                        saurait être plus flatteur que les réflexions que Votre Majesté veut bien
+                        faire au sujet de la <placeName ref="places.xml#rus01">Russie </placeName>.
+                        J'en reconnais la source. Elles partent de son amitié personnelle pour moi.
+                        Je voudrais l'en pouvoir remercier de vive voix. C'est un souhait intéressé
+                        de ma part. Je m'instruirai près de Votre Majesté et mettrai à profit toutes
+                        les leçons qu'Elle donne continuellement aux hommes. </p>
+                    <closer>
+                        <signed>Je suis avec la plus haute considération et l'amitié la plus
+                            sincère, Monsieur mon Frère, de Votre Majesté la bonne Soeur et fidèle
+                            Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

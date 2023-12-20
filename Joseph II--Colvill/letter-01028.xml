@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01028</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01028</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#children"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-03">03-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:12:19Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01028">
+  <body>
+
+   <opener><dateline>
+     <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1781-12-01">1
+      décembre 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Que d’actions de grâces n’ai-je pas à rendre de nouveau à V. M. I. pour
+    toutes les bontés dont Elle a comblé le <rs ref="people.xml#pau01"> comte</rs> et <rs
+     ref="people.xml#mar02">la comtesse du Nord</rs>! Leurs lettres, auxquelles j’ai trouvé incluse
+    celle que V. M. I. a trouvé bon de confier à <rs ref="people.xml#pau01"> mon fils</rs>, sont
+    remplies d’allégresse et de reconnaissance envers V. M. I. D’abord c’est la surprise qu’ils
+    eurent de rencontrer à <placeName ref="places.xml#opa01"> Troppau</placeName>, à la descente du
+    carrosse M. le <rs ref="people.xml#jos01">comte de Falkenstein</rs>, celle d’avoir
+    fait de <placeName ref="places.xml#opa01"> Troppau</placeName> à <placeName
+     ref="places.xml#vie01">Vienne</placeName> le voyage dans un même carrosse. Toutes les
+    conversations tenues pendant cе trajet se sont bien profondément gravées dans leur mémoire. A
+    leur arrivée à <placeName ref="places.xml#vie01">Vienne</placeName> ils ont vu les yeux de leur
+    hôte charmant (pardonnez les termes, ce sont les leurs) se remplir de pleurs d’attendrissement
+    sur l’entrevue de la <rs ref="people.xml#mar02"> comtesse du Nord</rs> avec ses parents. Ils
+    m’apprennent pour nouvelle, comme si j’en doutais, que V. M. I. est adorée de tout le monde, et
+    que cela se lit dans tous les yeux. Ils me disent que cе spectacle est attendrissant
+    pour eux, et que V. M. I. fait tout pour l'être, qu’Elle est d’une bonté et popularité
+    ravissante, qu’Elle suffit à tout, et qu’il est inconcevable comment Elle sait joindre la plus
+    grande activité à une égalité de caractère étonnante. Le <rs ref="people.xml#pau01"> comte du
+     Nord</rs> se vante de la confiance avec, laquelle V. M. I. lui a montré Son cabinet et
+    l’arrangement de Ses papiers et lui a parlé sur Son administration; il dit en avoir été attendri
+    de satisfaction. Que V. M. I. me pardonne de Lui avoir rendu avec toute la naïveté l’effusion du
+    coeur des lettres que je viens de recevoir; je l’ai cru nécessaire afin qu’Elle puisse voir au
+    vrai les effets produits par Ses bontés. J’espère qu’Elle voudra bien être persuadée de ma
+    sensibilité parfaite, et que la plus glorieuse époque de ma vie sera celle où je pourrai La
+    remercier de bouche de toute l’amitié qu’Elle se plaît à me témoigner. V. M. I. signale tous les
+    moments de Son règne par des actes de bienfaisance envers le public en général et chaque
+    individu en particulier; le succès rapide de Ses entreprises captive tous les esprits ; le mien
+    est de ce nombre. Qu’il Lui plaise d’ajouter foi à la haute considération, à l’amitié sincère et
+    à la reconnaissance avec laquelle je suis ....</p>
+  </body>
+ </text>
+</TEI>

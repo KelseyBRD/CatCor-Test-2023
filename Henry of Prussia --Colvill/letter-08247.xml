@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08247</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08247</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#navy"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#paul"/>
+     <term target="kw.xml#henry"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:26:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08247">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#pet02">Péterhof</placeName>, ce <date
+      when-custom="1776-07-08">8 juillet 1776</date>.</dateline></opener>
+   <p>Au moment où j’allais partir d’<placeName ref="places.xml#ora01">Oranienbaum</placeName> pour
+    aller voir ma flotte revenue de l’archipel l'année passée, j’ai reçu la lettre qu’il a plu à V.
+    A. R. de m’écrire de <placeName ref="places.xml#kon01"> Kœnigsberg</placeName>, par laquelle
+    Elle veut bien m’instruire de l’état de la santé de <rs ref="people.xml#pau01">
+     mon fils</rs>, attention dont je Lui rends mille grâces. Je suis très touchée de ce qu’il
+    m'écrit sur la réception qu'on lui fait. L’explication que V. A. R. y ajoute rélève encore
+    infiniment à mes yeux les marques d'attention qu’on lui témoigne. Je suis persuadée que sa santé
+    se soutiendra par le contentement qu’il ressentira de se trouver près du <rs
+     ref="people.xml#fre01"> Roi</rs> et par la continuation de l’amitié tendre de V. A. R.; je sais
+    qu'il y est très sensible. Je me flatte qu'après-demain son contentement sera parfait. Viendra
+    mon tour d’impatience.</p>
+   <p>Mais dans quelque situation que je me trouve, je prie V. A. R. d’être assurée que je serai
+    toujours . . .</p>
+  </body>
+ </text>
+</TEI>

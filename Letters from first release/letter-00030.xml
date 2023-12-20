@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00030</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00030</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-07">7 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-18">18 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, additional markup, some annotation.</p>
+            </change>
+            <change>
+                <date when="2015-07-23">23 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00030">
+                <body>
+                    <opener><dateline><placeName ref="places.xml#pet01">à St. Petersb.</placeName>
+                            <date when-custom="1774-08-05">ce 5 d’Aout.
+                            1774</date>.</dateline><salute rend="inline">Monsieur le Baron de
+                            Stakelberg.</salute></opener>
+                    <p> Par Votre lettre du 22 Juillet je vois qu’en bon et zélé patriote Vous
+                        partagé mon contentement Sur la paix, et celui de <persName
+                            ref="people.xml#gro01">M-r le Baron de Grosbleu</persName> (voila Son
+                        vrai nom:) Votre ancien Ami et Compagnon, qui cependant malgré les liaisons
+                        et analogies intime avec Vous ne mourra jamais que d'une appoplexie
+                        d'indigestion, tandis que Vous Vous en irés comme Vous le savés pour Sur de
+                        la jaunisse,<note type="editorial">See the humorous list of causes of death,
+                            written in Catherine's own hand, published in <bibl><title
+                                    ref="works.xml#sochin01">Sochineniya imperatritsy Ekateriny II
+                                    na osnovanii podlinykh rukopisei</title>, ed. by
+                                    <editor>Aleksandr Nikolaevich Pypin</editor>, <biblScope unit="vol">xii</biblScope>, <biblScope unit="pp">pp.
+                                    653-54</biblScope></bibl>. Stackelberg is indeed listed as dying
+                            of jaundice, Stepan Vasilevich Perfilev of indigestion, and General
+                            Aleksandr Aleksandrovich Naryshkin of apoplexy. The term 'gros bleu' can
+                            signify a colour used on porcelain or bad wine.</note> non pas tout a
+                        fait de celle que la prospérité de nos Voisins, Vous donera, mais bien de
+                        celle dont Vous étiés menaçés certain Printems a <placeName
+                            ref="places.xml#tsa01">Czarskojé çelo</placeName> lorsque Vous Vous
+                        trouviés entre les preches Lutheriens et le tracasseries agréables et
+                        touchantes d'un Roman mi parti Espagnol. Votre confrere malgre Son esprit de
+                        contradiction n'a pas Souffle le mot Sur la paix, je Suppose qu'il enrage de
+                        ne pouvoir rien y trouver a redire, cela nous prouve a nous autres gens a
+                        grandes combinaisons, que la Paix est bonne, il est vrai quelle ferme la
+                        bouche un tantinet a tout plein de gens Sur plus d'un article et
+                        particulièrement Sur ceux ou on Se tuoit de persuader au Genre humain le
+                        contraire de la realité. J'ai vuë quelques jours après l’arrivé du jeune
+                            <persName ref="people.xml#rum02">Cte Romenzow</persName> avec cette
+                        nouvelle tout le corps Diplomatique a <placeName ref="places.xml#ora01"
+                            >Oranienbaum</placeName>, je n'ai trouvée de vraiment guai que les
+                        Envoyés de <placeName ref="places.xml#den01">Danemark</placeName> et
+                            d'<placeName ref="places.xml#eng01">Angleterre</placeName>, celui de
+                            <placeName ref="places.xml#pru01">Prusse</placeName> et d'<placeName
+                            ref="places.xml#aus01">Autriche</placeName> avoit une nuance de moins,
+                        Votre Ami <persName ref="people.xml#bra01">Branitzki</persName> avoit la
+                        façe un peu allongé. L'<placeName ref="places.xml#spa01">Espagne</placeName>
+                        étoit consternée, la <placeName ref="places.xml#fra01">france</placeName>
+                        triste, morne, ce promenant tout Seul les bras croisé. La <placeName
+                            ref="places.xml#swe01">Suéde</placeName> avait perdu l'apetit et le
+                        Someil, de la Saxe Vous savés qu'il n'est jamais question, ainsi je ne
+                        parlerai point de Ses Sensations imperceptibles. Au reste nous avons été
+                        très modestes vis a vis d'eux, et casi ils n'ont pas entendu parler de la
+                        paix; Elle parle Si bien bien d'elle même que je n'ai que faire d'en parler
+                        beaucoup. Que le Ciel Vous bénisse Monsieur le Baron que cette bénédiction
+                        S'etende meme jusque Sur la Meute de Madame Votre épouse, puissiés Vous voir
+                        et carresser autant de rejettons de Ses favoris que j'ai le plaisir d'en
+                        voir de l'Ami <rs ref="people.xml#tho01">Tom</rs>, qui ce promene lui
+                        quatorzieme dans les jardins de <placeName ref="places.xml#tsa01"
+                            >Czarskoçelo</placeName>. Vous ne reconnoitreïés point ceux çi, Soit dit
+                        par parenthese, Si Vous les voyés, tant j'ai fait faire de changemens et
+                        d'embellissemens.</p>
+                    <closer><signed rend="inline">Adieu Baron portés Vous bien et continués a me
+                            Servir comme Vous avés fait jusqu'ici 
+                        <persName ref="people.xml#cat01" rend="inline">Caterine.</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline><placeName ref="places.xml#pet01">at St. Petersb.</placeName>
+                            <date when-custom="1774-08-05">this 5 of August
+                            1774</date>.</dateline><salute rend="inline">Baron de Stakelberg,
+                            sir,</salute></opener>
+                    <p>By your letter of the 22 of July I see that, as a good and zealous patriot,
+                        you share my satisfation with the peace and that of the Baron de Grosbleau
+                        (that is his real name), your former friend and companion. Despite the
+                        intimate liaisons and anologies between you, he shall dies of nothing but
+                        apoplexy from indigestion, whereas you shall surely pass on, as you know,
+                        from jaundice, not exactly from that which the prosperity of our neighbours
+                        shall give you, but rather from that which threatened you a certain
+                        springtime at Tsarskoe Selo, when you were caught between Lutheran sermons
+                        and the agreeable and touching annoyances of a half-Spanish novel. Despite
+                        his contradictory humour, your comrade has not breathed a word about the
+                        peace: I imagine that he finds it maddening to have nothing with which to
+                        find fault. This proves to those of us who put things together grandly that
+                        the peace treaty is good: it is true that it stops up a smidgeon the mouths
+                        of all sorts of people on more than one count, and espeically on those on
+                        which they were killing themselves to convince the human race of something
+                        quite contrary to reality. I saw the young Count Rumyantsev arrive at
+                        Oranienbaum with the news a few days afterwards: of the entire diplomatic
+                        corps only the envoys from Denmark and England were truly glad; that of
+                        Prussia and of Austria were a shade paler; your friend Branitsky's face was
+                        a bit longer than usual. Spain was in consternation; France was sad, gloomy,
+                        walking all alone with his arms crossed. Sweden had lost his appetite and
+                        could not sleep; Saxony never matters, so I will not speak of his
+                        imperceptible feelings. Besides, we were very modest before them, and they
+                        hardly heard a word about the peace. It speaks so well for itself that I
+                        have no need to speak much of it. May Heaven bless You, Baron, and may that
+                        blessing fall also on Your wife's pack of puppies: may You see and pet as
+                        many offspring of Her favourites as I have the pleasure of seeing my friend
+                        Tom having. He walks fourteenth in line in the gardens of Tsarskoe Selo. May
+                        it be said by way of parenthesis that You would not recognise them if you
+                        saw them, for I have made so many changes and improvements.</p>
+                    <closer><signed rend="inline">Farewell, Baron, be well and continue to serve me
+                            has You have up til now
+                        <persName rend="inline">Caterine.</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

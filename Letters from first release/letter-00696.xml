@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00696</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00696</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-03">03 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00696">
+                <body>
+                    
+                    <p>Сравнивать прилично не ради трусости, но ради честности, что имея
+                        обязательства, нарушить оные безчестно. Трактат же равной дружбы не есть
+                        безчестное дело по тому правилу, что всякая держава старается со всякой
+                        державой жить дружно, когда не в войне. Войну же не вчинять без причин и без
+                        нужды. Я ни от кого из держав зависима быть не желаю. <placeName
+                            ref="places.xml#vie01">Венский двор</placeName> весьма может хвалиться,
+                        что я сравниваю с двадцатилетним союзником тогда, когда десять лет назад
+                        оный двор отказался ото всякой связи с нами в нужное для нас время и всякую
+                        пакость чинил во время оное.</p>
+                    <p>Что слабеешь, о том от сердца жалею и не знаю, чему приписать. Ужо сама
+                        посмотрю тебя.</p>
+                    <closer><signed rend="inline">Прощай, мой любезный друг. Проект трактата,
+                            который ты читал, представлен <persName ref="people.xml#cob02"
+                                >Кобенцелем</persName>. Наш контр-трактат заготовляется.</signed>
+                        </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

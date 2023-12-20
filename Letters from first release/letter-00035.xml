@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00035</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00035</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-25">25 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2015-05-17">17 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <opener><salute rend="inline">Граф Петр
+                        Александрович.</salute></opener>
+                    <p>Хотя мать, когда детей своих сечет, тому радоватися не может, но однакоже,
+                        дабы вы в нынешних обстоятельствах в состоянии нашлись опровергнуть все
+                        вашим предстоящим военным и мирным делам вредные о <rs
+                            ref="events.xml#pugac01">Оренбургском бунте</rs> слухи, того для за
+                        нужно нахожу вам сказать, что вчерашний день я от г. <persName
+                            ref="people.xml#bib01">генерала Бибикова</persName> получила известие,
+                        что 26 числа Марта ген.-м. <persName ref="people.xml#gol06">князь
+                            Голицын</persName> в сорока верстах от <placeName ref="places.xml#ore01"
+                            >Оренбурга</placeName> атаковал так называемую <placeName
+                            ref="places.xml#tat01">Татицева крепость</placeName>, в которой <rs
+                            ref="people.xml#pug01">главный вор</rs> заперся было с нарочитым числом
+                        ему подобных, оную занял, а вор сам-пят ушел паки к <placeName
+                            ref="places.xml#ore01">Оренбургу</placeName>, где взяв из своего <rs
+                            ref="places.xml#ber03">Бердинскаго гнезда</rs> остаточных ему преданных,
+                        побежал в степь, <persName ref="people.xml#gol06">князь же
+                            Голицын</persName> продолжал свой марш и совершенно <placeName
+                            ref="places.xml#ore01">Оренбург</placeName> не токмо освободил от
+                        утеснения, но возстановил в оном привезенным им же провиантом во всем
+                        изобилие, о чем Оренбургский губернатор <persName ref="people.xml#rei01">гдн
+                            Рейнсдорп</persName> сам письмом отзывается. <persName
+                            ref="people.xml#bib01">Гдн Бибиков</persName> к сему прибавляет, что
+                        посланными партиями к <placeName ref="places.xml#ufa01">Уфе</placeName> и к
+                            <placeName ref="places.xml#ura01">Яику</placeName> он надеется очистить
+                        весь сей край от дальняго разбоя и на всех дорогах возобновить тишину и
+                        покой. Хотя не малое число что несущих воров переловлено, но нигде ни
+                        малейший след не найдено, чтоб между ими шатались какие ни есть
+                        чужестранные, подобные тем, кои руководствовали возмущеньем нашей соседней
+                        земли, да и из наших не токмо чтоб чиновный единый, но ниже ни одного
+                        порядочнаго человека нету, а сущая сволочь, в невежестве, глупости и
+                        необузданном пьянстве погруженных людей. Ко времени и кстати разрушается
+                        потеха сия, произведя несколько месяцев сряду некоторый род новой гордости в
+                        ненавистниках славы <placeName ref="places.xml#rus01">Империи</placeName>
+                        нашей. Сей день отправляются к вам решительныя на мирное дело повеления; дай
+                        Боже, чтоб вы предуспели доставить отечеству своему дар толь драгоценный
+                        пером или оружием, в чем теперь всю мою надежду на ваше искусство и
+                        испытанное благоразумие и полагаю.</p>
+                    <closer><signed rend="inline">Остаюсь, как всегда, к вам
+                            доброжелательна.
+                        <persName ref="people.xml#cat01" rend="right">Екатерина.</persName></signed>
+                        <dateline rend="left"><date when-custom="1774-04-09">Апр. 9-го ч. 1774
+                                г.</date>
+                            <placeName ref="places.xml#tsa01">из Села
+                            Царскаго.</placeName></dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Count Petr
+                        Aleksandrovich.</salute></opener>
+                    <p>Although a mother cannot be glad when whipping her children, nonetheless in
+                        the present circumstances you might be in a position to refute all rumours
+                        about the rebellion in Orenburg which might be harmful to your upcoming
+                        affairs in war and peace. Therefore I find it necessary to tell you that
+                        yesterday I received news from General Bibikov that on the 26th day of
+                        March, Major General Prince Golitsyn attacked at forty versts from Orenburg
+                        the so-called Tatishchev Fortress, in which the main thief had tried to lock
+                        him self with a certain number of his fellows. Prince Golitsyn took it, but
+                        the thief with four others went away again towards Orenburg, where he
+                        collected his remaining followers from his nest on the Berdyanka and fled
+                        into the steppe. As for Prince Golitsyn, he continued his march and
+                        completely freed Orenburg not only from oppression, but also restored
+                        everything to abundance with the provisions he had brought with him. The
+                        governor of Orenburg, Mr. Reinsdorf, himself reports this in a letter. Mr.
+                        Bibikov adds to this that, with the help of parties sent to Ufa and to the
+                        Yaik, he hopes to clear the entire region of further brigandage and to
+                        restore peace and quiet on all the roads. Although not a small number of the
+                        supporting thieves have been caught, nowhere has the least trace been found
+                        of any foreigners roaming amongst them, like those who were leading the
+                        disturbances in our neighbouring land. And there is not a single man of rank
+                        from among our people, nor even a single decent man, among them, but only
+                        downright riffraff, people sunken in ignorance, stupidity, and unrestrained
+                        drunkenness. This lark shall be destroyed in due time and opportunely,
+                        having produced for several months in a row a new sort of pride amongst the
+                        bitter enemies of our Empire's glory. On this day definite orders are being
+                        sent to you regarding the matter of peace: may God grant that you succeed in
+                        procuring such a precious gift for your fatherland either by the pen or by
+                        the sword. All my hope for this now lies in your skill and experienced
+                        discretion.</p>
+                    <closer><signed rend="inline">I remain, as ever, well-wishing towards
+                            you.
+                        <persName rend="right">Catherine.</persName></signed>
+                        <dateline rend="left"><date when-custom="1774-04-09">Apr. 9th 1774.</date>
+                            <placeName ref="places.xml#tsa01">from Tsarskoe
+                            Selo.</placeName></dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

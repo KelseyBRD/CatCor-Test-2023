@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02879</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02879</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The letter demonstrated continuous correspondence about the preparation of the so-called
+     ‘Archipelago’ navy expedition (1769-1774) (<rs>#event-orlov01</rs>), which was part of the
+     First Russo-Turkish war (<rs>#event-turki01</rs>). Emma: kept the id as orlov01</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-27">27/03/2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-04-06T11:47:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-08">08-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Kelsey
+    Rubin-Detlev</persName><label>Checked for queries; keywords modified (letter type: note removed
+     as inappropriate)</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02879">
+  <body>
+
+   <opener>
+    <salute rend="inline"><persName ref="people.xml#orl03"> Граф Алексей Григорьевич</persName>.
+    </salute></opener>
+   <p>За нужное Я нашла вам сказать, что <persName ref="people.xml#sen01"> Сенявин</persName>,
+    неусыпно стараясь построить свои суда, не мог, однако, чрез полтора года более успеть, как
+    только в том, что он будущую весну будет в состоянии сделать <rs ref="events.xml#orlov01"
+     >предприятия</rs> на <placeName ref="places.xml#ker01">Керчь</placeName> и стараться будет при
+    вскрытии воды пройти в <placeName ref="places.xml#bla01">Черное море</placeName>. Впрочем
+    остаюсь к вам доброжелательна.</p>
+   <closer>
+    <signed><persName ref="people.xml#cat01" type="signature">Екатерина.</persName></signed>
+    <dateline>
+     <date when-custom="1770-10-05">Окт. 5 ч., 1770 г.</date></dateline></closer>
+   <postscript>
+    <p>Поздравляю вас с именинами. Где то вы сей день празднуете?</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

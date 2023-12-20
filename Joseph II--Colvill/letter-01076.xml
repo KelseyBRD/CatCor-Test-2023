@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01076</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01076</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:24:26Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01076">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#kie01">
+     Kiow</placeName>, ce <date when-custom="1787-04-12">12 d’avril v. st. 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. La lettre que V. M. I. m’a fait l’honneur de m’écrire à son arrivée à
+     <placeName ref="places.xml#lvi01"> Léopol</placeName> m’a été rendue aujourd’hui par Son
+     <persName ref="people.xml#cob02"> ambassadeur comte de Cobenzl</persName>. Il pourra témoigner
+    de la joie que j’ai de me savoir rapprochée du lieu de Sa résidence actuelle, du vif désir, de
+    l’impatience que j’ai de me rendre à <placeName ref="places.xml#khe01"> Cherson</placeName> pour
+    y jouir au plutôt du bonheur de revoir V. M. I., et de Lui exprimer de bouche la reconnaissance
+    dont mon coeur est rempli pour toutes les marques d’amitié et de bonté qu’Elle se plaît à me
+    donner en toutes occasions. Je suis retenue ici jusqu’à présent uniquement par les vents froids
+    du nord et les gelées qui ne discontinuent pas, qui retardent le printemps de cette contrée qui
+    passe pour méridionale, et qui ont si bien empêché la débâcle des glaces du <rs
+     ref="places.xml#dni03"> Borysthène</rs>, que celles du <placeName ref="places.xml#lad01"> lac
+     Ladoga</placeName> ont commencé cette année à se rompre deux jours avant ce fleuve-ci. Je
+    compte cependant <rs ref="events.xml#crime01"> m’embarquer</rs> le 22 d’avril/3 mai. Comme je ne
+    connais ni <rs ref="places.xml#dni03"> cette rivière</rs> ni tout le local du pays où je vais,
+    je n’ose bazarder de dire au juste le jour où je pourrai être rendue à <placeName
+     ref="places.xml#khe01"> Cherson</placeName>, mais j’ose espérer que de celui de mon
+    embarquement en quinze je pourrai jouir du bonheur qui m’attend dans cе port. Le comte <persName
+     ref="people.xml#cob02"> Cobenzl</persName> sera témoin oculaire de ma course, et à portée d’en
+    faire un rapport fidèle à V. M. I. Qu’il Lui plaise d’agréer les assurances de la plus haute
+    considération avec laquelle je suis ....</p>
+  </body>
+ </text>
+</TEI>

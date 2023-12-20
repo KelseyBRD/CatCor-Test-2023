@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09021</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pcchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09021</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords> 
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#religion"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#russianorthodoxchurch"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pcchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09021">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-02-18">1787 г. 18 февраля.</date>
+                </dateline>
+            </opener>
+            <p>1. Золотой лампад с кистью брилиантовой и с жемчужиной. О сем написать к <persName ref="people.xml#soi01">Соймонову</persName>. Величина лампада например, как пред царскими дверьми в <placeName ref="places.xml#win01">зимнем дворце</placeName>, в <placeName ref="places.xml#grc01">большой церкви</placeName>, а кисть да будет вершка в полтора длины, а внизу шириной вершок. Сие <persName ref="people.xml#vla01">св. великому князю Владимиру</persName>.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02934</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02934</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#visualarts"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Query date. Taken ‘général’ to refer to General
+     Betzkoi</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-05">05/03/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:32:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02934">
+  <body>
+   
+   <opener><dateline> <date when-custom="1763-02-01">1-ère 1763</date>.</dateline></opener>
+   <p>Le cher <rs ref="people.xml#bet01"> général</rs> dira à Mad. <persName
+     ref="people.xml#geo04"> Geoffrin</persName> que persone ne vouloit plus me faire l’honneur
+     de me nommer son amie que je trouvais cela affreux, et de n’avoir point d’egal insuportable,
+     mais que j’ai depuis sa lettre une très grande joye de voir que du moins de loin l’on me parle
+     d'amitié, que j'entrevoie par la encore de la possibilité d’en trouver pour moi dans ce monde.
+     Je repondrai avec plaisir a cette lettre charmante, mais ja meurs de peur d'ecrire après la
+     lettre enregistré, je crains qu’on ne prenne cette facilité pour une envie déterminé de
+     griffonner à tort et à travers pour mendier des louanges et faire admirer mes chef d’oeuvre, je
+     me tait donc, mais je n’en suis pas moins sensible du plus profond de mon coeur pour les
+     amitiés qu’on me montre.
+   </p>
+  </body>
+ </text>
+</TEI>

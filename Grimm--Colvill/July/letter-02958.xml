@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02958</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02958</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-11">11-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-07-13T11:25:06Z</date><name>Kelsey B Rubin-Detlev</name></change>
+   <change><date when="2021-07-13">13-07-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-08-04">04-08-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup revised, query resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02958">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">St Pétersbourg</placeName>, ce <date
+      when-custom="1774-08-03">3 d’août</date>, jour destiné à un Te Deum, ne tous en déplaise, pour
+     la <rs ref="events.xml#kuchu01"> paix</rs>.</dateline></opener>
+   <p>Voilà le second pour cette occasion, et j’en ai encore deux à écouter, après que les <rs
+     ref="people.xml#mus04 people.xml#rum01">deux ambassades</rs> auront échangé les ratifications,
+    celle de mon bon ami monsieur <persName ref="people.xml#abd01"> Abdul-Hamet</persName> et <rs
+     ref="people.xml#rum01"> la mienne</rs>. Or, cette <rs ref="events.xml#kuchu01"> paix</rs> nous
+    est venue à l’improviste; elle est bonne et honnête, et tout le monde en est content, et moi
+    aussi; et vous aussi, n’est-ce pas?</p>
+   <p>J’ai eu l’honneur de recevoir votre No 4 ce matin, qui n’a que huit pages. Je vous en
+    remercie: il est, sauf respect, le plus fou de tous vos griffonnages, mais quelques longs qu’ils
+    soient, je les lis volontiers deux à trois fois, car ils sont très plaisants, quoique peu sages.
+    J’ai une quantité prodigieuse de choses à vous dire, et voilà pourquoi je ne vous dirai pas une
+    d’un bout jusqu’à l’autre. Je ne suis pas <persName ref="people.xml#did01"> Diderot</persName>:
+    je ne saurais à la fois embrasser autant de matières que lui, ni griffonner aussi vite; il me
+    faudrait cahier énorme de papier et du temps, et j’ai un Te Deum sur les bras et trois quarts
+    d’heure, sauf les empêchements qui me viendront, à vous donner seulement, outre <persName
+     ref="people.xml#tho01"> M. Thomas</persName> et sa fille chérie, qui se trouvent dans ma
+    chambre et qui exigent de moi mille attentions.</p>
+   <p>Or donc, pour commencer en règle, je vous dirai que je n’ai point les torts que vous me
+    donnez, parce que je ne me trouve point les qualités que vous me prêtez. Je suis peut-être
+    bonne, je suis ordinairement douce, mais par état je suis obligée de vouloir terriblement ce que
+    je veux, et voilà à peu près tout ce que je vaux et pas plus, mais trêve sur mon compte.</p>
+   <p>Ce <rs ref="people.xml#fre01">médecin</rs> de <placeName ref="places.xml#san02">
+     Sans-Souci</placeName> qui vous a envoyé à <placeName ref="places.xml#kar04">
+     Carlsbad</placeName> m’a fait grand plaisir avec sa cure. Mon courage ne va pas encore jusqu’à
+    guérir les autres: jusqu’ici je ne guéris et ne traite que mes propres maladies; je n’entends
+    rien aux boyaux fêlés, et je veux parier que les médecins font tort à la réputation de vos
+    boyaux et qu’un jour, que le bon Dieu veuille éloigner le plus que possible, l’on trouvera vos
+    boyaux entiers. Sur ce retour et non retour dont, vous me parlez tant, je vous ai fait une
+    missive expresse, à laquelle je me rapporte.</p>
+   <p>Lorsque j’en étais ici, il m’est venu une très grosse dépêche, qu’il a fallu lire et qui me
+    disait que le marquis <persName ref="people.xml#pug01"> Pougatschef</persName>, comme le
+     nomme <persName ref="people.xml#vol01"> Voltaire</persName>, a été battu, je crois au moins
+    pour la huitième ou neuvième fois: il n’a pas gardé un canon. Cela m’a fait quitter ma lettre,
+    et puis est venu le Te Deum, et puis la journée comme à l’ordinaire, et puis un jour de cour et
+    onze heures d’intervalle, de façon que vous verrez qu’à neuf heures du soir j’aurai moins
+    d’esprit et la tête moins brouillonne que ce matin, où elle était plaisamment montée. Cependant,
+    il ne faut pas tout à fait désespérer de votre bon génie, qui tire des gens ordinairement plus
+    qu’il ne réussit à d’autres : vous avez le talent du développement et la faculté de faire sortir
+    en dehors ce qui est dans l’intérieur de la tête de celui à qui vous avez affaire. Vous allez
+    vous récrier, mais cela est vrai et très vrai.</p>
+   <p>A propos de ceci, qu’est-ce que vous allez faire près du <persName ref="people.xml#orl07"> duc
+     d’Orléans</persName>? vous n’y brillerez pas, car il est exilé, amen. Je ne me meurtris plus
+    les doigts; depuis que vous êtes parti je n’ai pas fait un noeud; je tricote présentement une
+    couverture de lit pour <persName ref="people.xml#tho01"> Thomas</persName>, mon ami, que le
+    général <persName ref="people.xml#pot01"> Potemkine</persName> prétend lui voler. Ah! que c’est
+    une bonne tête que cet homme-là! il a plus de part que personne à cette <rs
+     ref="events.xml#kuchu01"> paix</rs>, et cette bonne tête est amusante comme un diable. Monsieur
+    l'hérétique, quand vous irez les trouver vous verrez s’ils le sont, vous en prenez le chemin en
+    écrivant huit pages avec les eaux de <placeName ref="places.xml#kar04"> Carlsbad</placeName>;
+    cela est très mal fait à vous, et je devrais vous en gronder au moins comme <persName
+     ref="people.xml#geo04"> Mad. Geoffrin</persName> gronde <persName ref="people.xml#bur02">
+     Burigny</persName>; mais je laisse ces soins à votre <rs ref="people.xml#fre01">archiatre</rs>
+    de <placeName ref="places.xml#san02"> Sans-Souci</placeName>. Or, si pouviez ignorer ce que
+    c’est qu’un archiatre, je vous dirais que c’est le titre ici auquel aspirent tous les Esculapes
+    et que je n’ai donné jusqu’à présent à aucun, non pas pourtant parce .que je les compte tout à
+    fait pour des mazettes, mais peut-être pour quelque chose d’approchant.</p>
+   <p>Je veux fais mes compliments sur la lettre du <persName ref="people.xml#hen02"> prince
+     Henri</persName>, et je souhaite que celle-ci, mal construite et mal griffonnée qu’elle est,
+    puisse contribuer à votre santé. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

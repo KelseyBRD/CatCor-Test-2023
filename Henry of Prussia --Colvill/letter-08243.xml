@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08243</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08243</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-03">03-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:24:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08243">
+  <body>
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+      when-custom="1776-06-01">1 juin 1776</date>.</dateline></opener>
+   <p>Je commence par faire mes remercîments à V. A. R. de Sa lettre datée d'<placeName
+     ref="places.xml#ora01">Oranienbaum</placeName> qui accompagnait les deux incluses du <rs
+     ref="people.xml#fre01"> Roi, Son frère</rs>; elle m'est parvenue ce matin au retour de ma
+    course ordinaire. Les preuves de l'amitié que V. A. R. veut bien me témoigner se retracent en
+    toute occasion, je La prie d'être persuadée et de ma sensibilité et de la réciprocité de la
+    mienne.</p>
+   <p><placeName ref="places.xml#pet02"> Péterhof</placeName> et <placeName ref="places.xml#ora01"
+     >Oranienbaum</placeName> augmenteront en beauté à mes yeux depuis que je sais que ces endroits
+    ont mérité Son approbation. Je sais gré au <persName ref="people.xml#pau01">
+     grand-duc</persName> de ce que son amitié pour V. A. R. égale la mienne, et je suis enchantée
+    de ce que V. A. R. prétend ne pas s’ennuyer à <placeName ref="places.xml#tsa01">
+     Tsarskoe-Sélo</placeName>. (Si je ne craignais d'être grondée, j'aurais envie de dire pour la
+    dernière fois qu'Elle est déterminée à ne pas s’y ennuyer.) Je n’incommoderai point le <rs
+     ref="people.xml#fre01"> Roi</rs> pour le présent d’une réponse, je me réserve cet honneur dans
+    quelque temps d’ici. En attendant, j'espère de l’amitié de V. A. R. qu'Elle voudra bien
+    préalablement lui faire parvenir l'expression de toute ma reconnaisance et sensibilité, et pour
+    la lettre de S. M. et pour le sujet qu’elle contient et pour les conseils qu’elle m’y donne en
+    bon ami et parent Je renvoie à V. A. R. la lettre qu’Elle m’a communiquée du <rs
+     ref="people.xml#fre01"> Roi, Son frère</rs>; j'y ai trouvé les mêmes sentiments à mon égard que
+    renferme la mienne.</p>
+   <p>Le premier courier qui nous arrivera de <placeName ref="places.xml#ist01"
+     >Constantinople</placeName> nous développera les circonstances dans lesquelles se trouvent les
+    conjonctures, et c’est alors que nous ferons des conjectures sur ce que le Divan souhaite. Sur
+    cette belle idée d'alliance j'ai des scrupules, comme disait cet allemand catholique qui voulait
+    se faire calviniste à <placeName ref="places.xml#gen01"> Genève</placeName>.  </p>
+   <p>Je suis charmée du déplacement de <persName ref="people.xml#tur02"> Mr. Turgot</persName> et
+    compagnie, parceque j’espère que ces maudits économistes ne m'accablent plus de mauvais livres
+    sur leur pauvre système, qui ont outre-là contribué, soit dit par parenthèse, à donner des yeux
+    de perdrix au comte <persName ref="people.xml#che03">I. Czernichef</persName>, car, pour
+    m'en défaire, je les lui envoyés tous, et scrupuleusement il les lisait d'un bout à l'autre.
+    L'on m'écrit que <persName ref="people.xml#ger01"> Mr. de St. Germain</persName> suivra dans peu
+     <persName ref="people.xml#tur02"> Turgot</persName>.</p>
+   <closer><signed>C'est avec la plus haute considération ...</signed></closer>
+  </body>
+ </text>
+</TEI>

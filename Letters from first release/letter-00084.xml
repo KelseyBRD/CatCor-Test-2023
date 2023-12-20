@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00084</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00084</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-11">13 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation, annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00084">
+                <body>
+                    <opener><salute rend="inline">Друг мой сердечный Князь Григорий
+                            Александрович.</salute></opener>
+                    <p> Письмы твои от 25 июня из <placeName ref="places.xml#olv01"
+                            >Олвиополя</placeName> я получила, и касательно дел сей курьер везет к
+                        тебе мои ответы и резолюции. Что ты польского или, лутче сказать, прусского
+                        либела пренебрегаешь, о сем нимало не сумневаюсь.<note type="editorial">In
+                            his letter of 25 June 1789, Potemkin wrote to Catherine: 'Пруссаки
+                            обратились пакостить лично мне, столь их испугало учтивое мое охождение
+                            с поляками. <ref target="people.xml#luc">Луккезини</ref> тайно составил
+                            сам либель, которую здесь прилагаю, а я смеюсь' ('My polite behaviour
+                            towards the Poles scared the Prussians so badly that they have turned to
+                            smearing me personally. Lucchesini secretly composed the attached libel
+                            himself, but I'm laughing') (<bibl><title ref="works.xml#ekater01"
+                                    >Ekaterina II i G.A. Potemkin. Lichnaia perepiska
+                                    1769-1791</title>, <biblScope unit="pp">p.
+                                353</biblScope></bibl>). </note>
+                        <persName ref="people.xml#gol02">Гольцу</persName> я зделала прием ласковый,
+                        и он скромнее <rs ref="people.xml#goe01">предместника</rs> своего. <persName
+                            ref="people.xml#sal04">Гр[аф] Салтыков</persName> приехал к <placeName
+                            ref="places.xml#mos01">Москве</placeName>, я его оттудова пошлю
+                            понукать.<note type="editorial">In his letter of 25 June, Potemkin
+                            wrote: 'Не знаю, отправился ли Граф Салтыков, а нужно им взять движение'
+                            ('I do not know if Count Saltykov has set out yet, but they need to get
+                            a move on') (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin. Lichnaia perepiska 1769-1791</title>, <biblScope
+                                    unit="pp">p. 353</biblScope></bibl>). As the editor of the
+                            Potemkin correspondence in Russian, Vyacheslav Sergeevich Lopatin,
+                            notes, on 5 June 1789, Catherine's secretary Khrapovitsky wrote in his
+                            journal: 'Дан указ Гр. Ив. П. Салтыкову о скорейшем отьезде в Кавказ',
+                            along with Catherine's words, 'Все взял и не едет; буде идет в отставку,
+                            то на его место сыщется другой. У меня 40 т[ысяч] там без действия и не
+                            делают диверсии' ('An ukaz was issued to Count Iv. P. Saltykov about
+                            immediate departure for the Caucasus. He has taken everything and has
+                            not left. If he retires, we can find another to take his place. I have
+                            40 thousand [troops] there who are inactive and are not creating a
+                            diversion' (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin. Lichnaia perepiska 1769-1791</title>, <biblScope
+                                    unit="pp">p. 869</biblScope></bibl>; <bibl><title
+                                    ref="works.xml#dnevni01">Dnevnik A.V. Khrapovitskago</title>,
+                                    <biblScope unit="pp">p. 287</biblScope></bibl>).</note> По мере
+                        как <persName ref="people.xml#nas01">Нассау</persName> с галерным флотом
+                        вперед едет, шведы назад отступают. Дней чрез шесть, думаю, что и флоты
+                        съедутся. <persName ref="people.xml#mik02">Михельсон</persName>, поссорясь с
+                            <persName ref="people.xml#den01">Денисовым</persName>, сказался болен, а
+                            <rs ref="orgs.xml#gren01">мой гранадерский полк</rs> так зол на
+                            <persName ref="people.xml#mik02">Михельсона</persName>, что его называют
+                        изменником.</p>
+                    <p><persName ref="people.xml#dmi01">Гр[аф] Алек[сандр] Матв[еевич]
+                            Дми[триев]-Мамо[нов]</persName>, женясь [в] воскресенье на <persName
+                            ref="people.xml#shc01">Княжне Щербатовой</persName>, отъехал в
+                        понедельник с своей супругою к своим родителям, и естьли б тебе рассказать
+                        все, что было и происходило чрез две недели, то ты скажешь, что он
+                        совершенно с ума сошел; даже и друг его и конфидент <persName
+                            ref="people.xml#rib02">Рибопьер</persName> и тот говорит, что он аки
+                        сумашедший: <seg xml:lang="fr">imaginés Vous qu'il y avait des traces,
+                            qu'il avait envie de rester avec sa femme à la cour comme ci-devant,
+                            enfin mille contradictions et idées contradictives</seg>, и
+                        несообразимое поведение, так что самые его ближние его не оправдают. При сем
+                        прилагаю к тебе письмо рекомендательное <rs ref="people.xml#zub03">самой
+                            невинной души</rs>, которая в возможно лутчем расположении, с добрым
+                        сердцем и приятным умоначертанием. Я знаю, что ты меня любишь и ничем меня
+                        не оскорбишь. А без сего человека, вздумай сам, в каком бы я могла быть для
+                        здоровья моем фатальном положении. <seg xml:lang="fr">Adieu, mon
+                            Ami</seg>. - Приласкай нас, чтоб мы совершенно были веселы.<note
+                            type="editorial">Potemkin replied in his letter of 30 June 1789:
+                            'Матушка моя родная, могу ли я не любить искренно человека, который тебе
+                            угождает. Вы можете быть уверены, что я к нему нелестную буду иметь
+                            дружбу за его к Вам привязанность' ('My dearest little mother, how can I
+                            not love sincerely a person who pleases you? You can be certain that I
+                            will be his friend, without flattery, because of his affection for you')
+                                    (<bibl><title ref="works.xml#ekater01">Ekaterina II i G.A.
+                                    Potemkin. Lichnaia perepiska 1769-1791</title>, <biblScope
+                                    unit="pp">pp. 362-63</biblScope>, <idno>Letter
+                            979</idno></bibl>).</note>
+                        <persName ref="people.xml#nar01">Анна Никитишна</persName> дружески со мною
+                        очень поступила и до вчерашнего дня не покинула.</p>
+                    <closer><dateline><date when-custom="1789-07-06">6 июля
+                                1789</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">My dear friend Prince Grigory
+                            Aleksandrovich.</salute></opener>
+                    <p>I received your letters of 25 June from Olviopol, and this courier is bearing
+                        to you my answers and resolutions regarding affairs. I have no doubt that
+                        you regard the Polish, or rather Prussian, libel with scorn. I received
+                        Goltz warmly, and he is less pretentious than his predecessor. Saltykov has
+                        arrived in Moscow, and I will send for him to be hurried on from there. As
+                        Nassau and the flotilla of galleys advance, the Swedes are retreating. In
+                        about six days, I think, the navies too will come together. Mikhelson
+                        quarreled with Denisov and said he was ill. My grenadier regiment,
+                        meanwhile, is so angry with Mikhelson that they are calling him a
+                        traitor.</p>
+                    <p>Count Aleksandr Matveevich Dmitriev-Mamonov married Princess Shcherbatova on
+                        Sunday and departed on Monday with his wife for his parents' house. If I
+                        told you all that happened and occurred in the past two weeks, you would say
+                        that he has gone completely mad. Even his friend and confidant Ribaupierre
+                        says that he is like a madman: just imagine, there were signs that he wanted
+                        to remain at court with his wife as before. In sum, a thousand
+                        contradictions, contradictory ideas, and incomprehensible behaviour, such
+                        that even those closest to him cannot defend him. I hereby attach a
+                        recommendation letter for the most innocent soul, with the best
+                        dispositions, a kind heart, and a pleasant mind. I know that you love me and
+                        in no way would offend me. But without this man, just think in what a fatal
+                        state I would have been for my health. Farewell, my friend. Show us
+                        affection, so that we will be completely gay. Anna Nikitishna behaved in a
+                        most friendly manner towards me and did not leave me until yesterday.</p>
+                    <closer><dateline><date when-custom="1789-07-06">6 July
+                                1789</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

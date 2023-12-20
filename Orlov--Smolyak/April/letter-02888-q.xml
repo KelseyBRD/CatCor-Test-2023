@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02888</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02888</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>There is no date in the original document, but it is said it was written on 7
+     June 1771.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-17">17-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:20:36Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02888">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Из газет и писем <persName ref="people.xml#orl01"> братца</persName> вашего и ваших, усмотрела
+    Я с удовольствием, что вы приехали в добром здоровьи из <placeName ref="places.xml#vie01">
+     Вены</placeName> в <placeName ref="places.xml#liv01"> Ливорну</placeName>. Ныне отправляем к
+    вам курьера с теми известиями, кои к Нам пришли, т. е., что <placeName ref="places.xml#ott01">
+     турки</placeName> Нашего <persName ref="people.xml#obr01"> резидента</persName> по
+    домогательствам <orgName ref="orgs.xml#habs01"> венскаго</orgName> и <orgName
+     ref="orgs.xml#hohe01"> прусскаго</orgName> двора, наконец, выпустили; Наши ответы и все то, что
+    у Нас с теми дворами происходит, вы усмотрите из тех бумаг, кои с сим курьером к вам посылаются.
+    И так, не имею уже ничего прибавить, а ласкаюсь надеждою, после скораго и, дай Боже,
+    благополучнаго <name ref="events.xml#kuchu01"> мира</name>, видеть вас в добром здоровьи и
+    покрытым славою, в <placeName ref="places.xml#rus01"> отечестве</placeName>. Прощайте, будьте
+    здоровы, счастливы и веселы.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина.</persName></signed></closer>
+   <postscript><p>Князю <persName ref="people.xml#dol03"> Юрию</persName> скажите поклон; все
+    полки <orgName ref="orgs.xml#russ03"> гвардии</orgName> в лагере.</p></postscript>
+  </body>
+ </text>
+</TEI>

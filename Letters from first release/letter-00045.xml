@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00045</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00045</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#grandchildren"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-03-22">22 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Markup of text - including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-06-09">9 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, annotation, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru">
+                <body>
+                    <opener rend="right"><dateline><date when-custom="1789-09-12">Сентября 12-го
+                                числа 1789 г.</date></dateline><salute rend="inline">Любезная
+                            внучка!</salute></opener>
+                    <p>По выздоровления <rs ref="people.xml#mar03">сестрицы вашей</rs><note
+                            type="editorial">In September 1789, <ref target="people.xml#mar03"
+                                >Mariya Pavlovna</ref> was inoculated for smallpox just like her
+                            elder siblings had been, but she suffered a worse case of the disease
+                            than the others did. (See Catherine's letters to little '<ref
+                                target="people.xml#mar03">Machoutka</ref>''s mother, <ref
+                                target="people.xml#mar02">Mariya Fedorovna</ref>, <bibl><title
+                                    ref="works.xml#sborni01">SIRIO</title>, <biblScope unit="vol"
+                                    >xv</biblScope>, <biblScope unit="pp">pp.
+                                160-66</biblScope></bibl>.) According to Catherine, the inoculation
+                            had deleterious effects on the young girl's looks: a year later, on 18
+                            September 1790, Catherine wrote to <ref target="people.xml#gri01"
+                                >Grimm</ref> about <ref target="people.xml#mar03">Mariya</ref>:
+                            'celle-ci devait être un garçon: la petite-vérole inoculée l'a gâtée
+                            totalement; elle a tous les traits grossis; elle est comme un dragon'
+                            ('this one should have been a boy. The smallpox inoculation ruined her
+                            completely; all her features are swollen. She is like a dragon')
+                                    (<bibl><title ref="works.xml#sborni01">SIRIO</title>, <biblScope
+                                    unit="vol">xxiii</biblScope>, <biblScope unit="pp"
+                                    >499</biblScope></bibl>).</note>, надеюсь вас увидеть в добром
+                        здоровье. Мне приятно слышать, что вы учитесь хорошо. Заочно обнимаю вас
+                        всех.</p>
+                    <closer><signed rend="inline">Прощайте, Бог с вами.
+                        <persName ref="people.xml#cat01" rend="inline">Екатерина.</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener rend="right"><dateline><date when-custom="1789-09-12">September 12th
+                                1789.</date></dateline><salute rend="inline">Dearest
+                            granddaughter!</salute></opener>
+                    <p>When your little sister recovers, I hope to see you in good health. I am
+                        pleased to hear that you are studying well. I embrace you all from afar.</p>
+                    <closer><signed rend="inline">Farewell, God be with you.
+                        <persName rend="inline">Catherine.</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

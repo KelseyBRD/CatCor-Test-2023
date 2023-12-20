@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02724</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02724</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#military"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-12">12-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:19:46Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02724">
+  <body>
+
+   <opener><dateline> <placeName ref="places.xml#pet01">
+     St: Petersb</placeName>. ce <date when-custom="1769-11-25">25
+     Sept: 1769</date></dateline></opener>
+   <p>Monsieur, Je Vous ai contée l'autre jour la prise de <placeName ref="places.xml#cho02">
+       Chotzin</placeName> et coment l'Armée du victorieux et spirituel
+      <rs ref="people.xml#mus01"> Moustapha</rs> a été anéantie. Celle çi ne sera point remplie de fait meurtrier, que Vous n'aimés pas plus que moi. Je
+    Vous dirai seulement avant que de répondre à Vos deux lettres Monsieur, que les nouvelles
+     d'<placeName ref="places.xml#azo01"> Azoph</placeName> et de <placeName ref="places.xml#tag01"> Taganrok</placeName> ne
+    parlent que de bals, de diner et de soupers donées par les généraux et Comandans; depuis que ses
+    forteresse sont occupée on n'y entend pas parler d'enemis. Cependant les Turks avait envoyé au
+    mois de Juin des bâtimens avec des Troupes pour faire une desçente sur cette côte; ses Vaisseaux
+    relâchèrent en <placeName ref="places.xml#cri01"> Crimée</placeName> à <placeName ref="places.xml#feo01">
+     Kafa</placeName> et là les trouppes ce révoltèrent contre leur Bacha le tuèrent de même que le
+    Comissaire des Vivres, ce jettèrent dans les barques et s'en allèrent Dieu sait où. Si mes
+    enemis ont eu des grands desseins je les en féliçite, mais il ce pourroit qu'ils ont compté sans
+    leur hôte. J'aurais vécu cent ans, et je n'aurais jamais començée de guerre, mais puisque grâce
+    au soins de mes enemis et de mes envieux, je suis obligée de la faire, je ne négligerai
+    assurément rien pour m'en bien tirer. Les farçes Italiene la plupart finissent par des coup,
+    celle des Turques en croisade avec le Nonce et ses
+    adhérent pourroit bien finir de mêmes.</p>
+   <p>Il n'y a rien de plus flatteur pour moi que le voyage que Vous voulés entreprendre pour me
+    venir trouver, Monsieur. Je répondrai mal à l'amitié que Vous me témoignés, si je n'oubliais en
+    ce moment la satisfaction personelle que j'aurais à Vous voir, pour ne m'occuper que de
+    l'inquiétude que je sens en pensant à quoi Vous expose un voyage aussi long et pénible. La
+    délicatesse de Votre santée m'est connuë. J'admire Votre courage, mais je serais inconsolable si
+    par malheur Votre santée étoit affoiblie par ce Voyage, et ni moi ni toutte
+     l'<placeName ref="places.xml#eur01"> Europe</placeName> ne me le pardonerais pas si jamais l'on faisait
+    usage de l'Epitaphe qu'il Vous a plut de composer, et que
+    Vous me mandé si gayement, on me reprocherais de Vous y avoir exposé. Outre cela Monsieur il ce
+    pourroit aisément que si les choses restent dans l'Etat où elles sont, le bien de mes affaires
+    demandera ma présence dans les Provinces méridionales de mon <placeName ref="places.xml#rus01">
+     Empire</placeName>, ce qui doublera Votre chemin et les incomodité inséparables d'une telle
+    distances.</p>
+   <signed>Au reste Monsieur soyés assuré de la parfaite considération
+     avec laquelle je suis
+   <persName ref="people.xml#cat01"> Caterine</persName></signed>
+  </body>
+ </text>
+</TEI>

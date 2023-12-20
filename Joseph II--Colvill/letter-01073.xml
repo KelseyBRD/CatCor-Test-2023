@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01073</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01073</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+   
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-18">11-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:23:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01073">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1786-12-26">26 décembre 1786</date>.</dateline></opener>
+   <p>Monsieur mon frère. Mon âme tressaillit de joie de l’espérance que V. M. I. me permet
+    d’entrevoir par Sa lettre du 22 décembre, d’oser me flatter de revoir Monsieur le <rs
+     ref="people.xml#jos01"> comte de Falkenstein</rs>. Tout ce qu’Elle veut bien me dire à ce
+    sujet, me pénètre de gratitude. Je prie le ciel qu’il bénisse les entreprises, le voyage, mais
+    surtout la santé de mon ami le plus précieux et de mon allié le plus fidèle. Puissé-je trouver
+    l’occasion de Lui prouver la sincérité de mes sentiments envers Elle, étant avec la plus haute
+    considération et un attachement aussi vrai qu’inaltérable ....</p>
+  </body>
+ </text>
+</TEI>

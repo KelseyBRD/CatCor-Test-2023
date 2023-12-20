@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01061</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01061</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Based on the text, I wasn’t sure whether the “Sophie” mentions refers to Sofia, or the Hagia
+     Sophia, or what the reference is</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:20:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01061">
+  <body>
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1784-10-18">18
+     octobre 1784</date>.</dateline></opener>
+   <p>Monsieur mon frère. Par la lettre que V. M. I. m’a fait l’honneur de m’écrire en date du 4
+    d’octobre, je vois que Sa négociation avec <persName ref="people.xml#cha06"> l’électeur de
+     Bavière</persName> n’avance pas à cause des irrésolutions qui paraissent être un mal de famille
+    dans la maison palatine; il y en a qui n’osent écrire une lettre de politesse sans consulte une
+    partie de l’<placeName ref="places.xml#eur01">Europe</placeName>. De telles précautions me
+    paraissent avoir pour mobile celui qui agit sur <placeName ref="places.xml#esc02">
+     l’Escaut</placeName>, qui empêche les barques de V. M. I. d’aller à la mer, qui envoie
+     à <placeName ref="places.xml#ist01">Constantinople</placeName> des ingénieurs, des
+    disciplinateurs, des faiseurs, qui engage les <orgName ref="orgs.xml#turk01"> Turcs</orgName> à
+    entretenir un gros corps de troupes proche de Sophie, et qui se donne beaucoup de peine
+    sourdement partout pour mettre nos ennemis naturels du midi et du nord dans un état d’activité,
+    tandis que M. de <persName ref="people.xml#gra01"> Vergennes</persName> ménage au <rs
+     ref="people.xml#lou01"> Roi</rs> son maître pour le moment le rôle de médiateur
+    pacificateur.</p>
+   <p>Les affaires de la ville de <placeName ref="places.xml#gda01"> Dantzig</placeName> paraissent
+    bien mesquines vis-à-vis de celles commencées par V. M. I, et que je souhaite de voir finir à Sa
+    satisfaction; mais quelqu’en soit l’issue, en paix comme en guerre, qu’il plaise à V. M. I.
+    d'être persuadée de l’amitié sincère et inaltérable et de la très-haute considération avec
+    laquelle je serai toujours</p>
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur, sincère
+    amie et alliée à toute épreuve <persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

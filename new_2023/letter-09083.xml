@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09083</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09083</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-23">2023-06-23</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09083"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-08-27">1788 г. августа 27.</date>
+                </dateline>
+            </opener>
+            <p>Пожалуй прикажи <rs ref="works.xml#voyage07">переписать</rs>, и когда переписано будет, то отдайте актерам, чтоб выучили, буде можно, к <date when-custom="1788-08-30">Александрову дню</date>, чтоб <seg xml:lang="fr">surpris</seg>-ою играть у <persName ref="people.xml#dmi01">гр. Мамонова</persName> в комнатах. Буде же не могут выучить к <date when-custom="1788-08-30">тому времени</date>, то лучше отдать самому <persName ref="people.xml#dmi01">Александру Матвеевичу</persName>.
+                <note type="editorial">
+                    Catherine writes about her proverb play <title ref="works.xml#voyage07">"Les voyages de M. Bontems"</title> that alluded to the <name type="event" ref="events.xml#swedi02">war with Sweden</name>. As A.V. Khrapovitskii notes in his diary under <date when-custom="1788-08-30">August 30 1788</date> the play wasn't staged as planned at the end due to the illness of <persName ref="people.xml#dmi01">Dmitriev-Mamonov</persName> (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 78, 81.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

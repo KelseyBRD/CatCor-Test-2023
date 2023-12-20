@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01055</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01055</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-06">06-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:18:49Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01055">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date
+      when-custom="1783-12-01">1 décembre 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. Les lettres de V. M. I. ne sauraient jamais produire aucune sorte
+    d’importunité. Ce qui La regarde, tient chez moi le premier rang; Son amitié est un don du ciel
+    que je tâcherai de mériter, de cultiver et d’entretenir, non seulement par la réciprocité de mes
+    sentiments, mais encore par l’attachement le plus vrai et le plus sincère. Son alliance, suite
+    de cette amitié, m’est chère et précieuse, ces liens étant aussi naturels qu’utiles aux deux
+    monarchies. Je regarde cette union, fille de l’amitié, comme le traité le plus stable qui ait
+    jamais été conclu; j’en vois déjà les fruits de plus d’une manière. Telles sont encore les
+    dernières communications faites par le comte de <persName ref="people.xml#cob02">
+     Cobenzl</persName> à mon ministère par ordre de V. M. I. Qu’il Lui plaise d’être assurée que je
+    ne négligerai point les occasions où je pourrai Lui donner des preuves efficaces de l’envie que
+    j’ai de Lui témoigner ma reconnaissance, de m’acquitter envers Elle avec autant de succès que de
+    zèle, et d’être aussi utile au bien de Ses affaires qu’Elle l’a été aux miennes. V. M. I. qui
+    connaît si bien le prix des serviteurs et services fidèles (témoin ce qu’Elle veut bien me dire
+    sur le rétablissement du prince <persName ref="people.xml#pot01">Potemkin</persName>), par là
+    même mérite plus qu’aucun Souverain de trouver des serviteurs dignes de La servir.</p>
+   <p>J’apprends que V. M. I. se propose de faire un tour en <placeName ref="places.xml#ita01"
+     >Italie</placeName>. Je suppose qu’Elle y rencontrera le <persName ref="people.xml#gus01">
+     Roi</persName> de <placeName ref="places.xml#swe01">Suède</placeName>, qui se loue infiniment
+    de son séjour en <placeName ref="places.xml#tus01"> Toscane</placeName>, et de l’amitié et
+    attention de <persName ref="people.xml#leo01"> S. A. R. le Grand-Duc</persName>. <persName
+     ref="people.xml#mar26"> Madame la Duchesse de Parme</persName> a fait sa conquête, à ce qu’il
+    me dit. Il m’a marqué un grand désir de faire la connaissance de V. M. I.; en bonne parente je
+    ne puis que désirer cette entrevue pour le bien de <persName ref="people.xml#gus01">S. M.
+     Suédoise</persName>; il ne peut que gagner à voir de près <persName ref="people.xml#jos01">
+     Joseph II</persName>.</p>
+   <closer><signed>C’est avec tous les sentiments de la plus haute estime et considération, de l’amitié et de
+    l’attachement le plus inviolable que j’ai l’honneur d'être ....</signed></closer>
+  </body>
+ </text>
+</TEI>

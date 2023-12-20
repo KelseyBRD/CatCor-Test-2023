@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00019</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00019</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#holstein"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#selfportraits"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-03">03 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup/tagging.</p>
+            </change>
+            <change>
+                <date when="2015-07-09">9 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00019">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-01-05">Ce 5 janvier
+                        1774</date>.</dateline></opener>
+                    
+                    <p>Madame, Je vous remercie bien sincèrement de ce que vous me dites au sujet du
+                        renouvellement de l'année; je vous la souhaite bonne. Nos succès au-delà du
+                            <placeName ref="places.xml#dan01">Danube</placeName> n'ont pas été aussi
+                        grands qu'on l'a débité. Un corps turc a été battu, mais ni <placeName
+                            ref="places.xml#var01">Varna</placeName> ni <placeName
+                            ref="places.xml#sil01">Silistria</placeName> ni <placeName
+                            ref="places.xml#shu01">Choumla</placeName> n'ont été prises; et
+                            <persName ref="people.xml#mus04">M. le vizir</persName> ne s'est point
+                        montré nulle part.</p>
+                    <p>Je suis très fâchée de la mauvaise santé de <persName ref="people.xml#sal02"
+                            >M. de Saldern</persName>. Est-ce sa fille ou sa pupille qu'il a perdue?
+                        Si le jeune <persName ref="people.xml#pet03">prince d'Eutin</persName> n'a
+                        pas fait votre conquête, à en juger d'après ce qu'on m'en a dit, <rs
+                            ref="people.xml#hed01">la princesse sa soeur</rs> vous plairait. <rs
+                            ref="people.xml#wil01">La grande-duchesse</rs> et <rs
+                            ref="people.xml#kar01">la landgrave</rs> l'ont trouvée très gentille;
+                        nous saurons bientôt ce qui en est; son mariage se fera au mois de mai;
+                        après quoi <rs ref="people.xml#gus01">sa majesté suédoise</rs> ira voyager
+                        par les provinces de son royaume. Il y a des bruits qui disent qu'il viendra
+                        en <placeName ref="places.xml#fin01">Finlande</placeName>, mais voilà la
+                        troisième fois que ce bruit court, et au lieu de cela, la première, il fit
+                        la <rs ref="events.xml#gusta02">révolution</rs>, la seconde, il s'en alla en
+                            <placeName ref="places.xml#nor01">Norvège</placeName>. Je ne sais ce
+                        qu'il en sera de la troisième; mais toujours, s'il vient me voir, vu la
+                        grande disproportion d'âge qu'il y a entre nous, je prévois qu'il s'ennuiera
+                        horriblement avec moi. Outre cela il est Français jusqu'au bout de ses
+                        ongles, imitant en tout les Français et ayant adopté jusqu'à la très
+                        ennuyante étiquette de la cour de <placeName ref="places.xml#fra01"
+                            >France</placeName>; or, moi je suis précisément, à peu de chose près,
+                        l'opposé de tout cela: de ma vie je n'ai pu souffrir l'imitation, et
+                        puisqu'il faut trancher le mot, je suis un aussi franc original que
+                        l'Anglais le plus déterminé. Il m'est impossible de m'occuper de vers et de
+                        chansons et de faire de l'esprit toute l'année; chacun a sa marotte, comme
+                        vous le voyez; ni l'un ni l'autre nous ne changerons, mais de tout cela il
+                        résulte qu'assurément <persName ref="people.xml#gus01">le roi de
+                            Suède</persName> s'ennuiera avec moi.</p>
+                    <closer><signed rend="inline">Adieu, madame, conservez-moi votre amitié et soyez
+                            assurée du cas que j'en
+                        fais. <persName ref="people.xml#cat01">Catherine.</persName></signed></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-01-05">This 5 January
+                        1774</date>.</dateline></opener>
+                    
+                    <p>Madam, I thank you most sincerely for what you have said to me about the new
+                        year; I wish you a good one. Our successes beyond the Danube were not as
+                        great as people made them out to be. A Turkish corps was beaten, but neither
+                        Varna, nor Silistria, nor Shumla were taken, and the vizier did not show
+                        himself anywhere.</p>
+                    <p>I am very sorry to hear about M. Saldern's poor health. Was it his daughter
+                        or his ward that he lost? If, as I have been told, the young prince of Eutin
+                        did not win you over, you would like his sister the princess. The grand
+                        duchess and the landgravine found her very nice; we will soon know what to
+                        make of it. She will be married in the month of may, after with His Swedish
+                        Majesty will go traveling through the provinces of his kingdom. There are
+                        rumours that say he will come to Finland, but this is the third time that
+                        such a rumour has been spread. Instead, the first time he brought about the
+                        revolution, and the second time he went to Norway. I do not know what will
+                        come of the third, but, irrespective, if he comes to see me, I can foresee
+                        that he will be horribly bored with me, given the great disproportion in our
+                        ages. Besides, he is French to the tip of his fingernails; he imitates the
+                        French in everything and has adopted even France's very boring court
+                        etiquette. But I am precisely, or very nearly, the opposite of all that: in
+                        my life I could never endure imitation and, since I must be blunt, I am as
+                        much an outright original as the most resolute Englishman. I cannot be kept
+                        busy with verses and songs and witticisms all year. Everyone has his
+                        hobby-horse, as you can see. Neither one of us will change, but the result
+                        of all that is most assuredly that the king of Sweden will be bored with
+                        me.</p>
+                    <closer><signed rend="inline">Farewell, madam, continue your friendship for me
+                            and rest assured of its value for
+                            me. <persName>Catherine.</persName></signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

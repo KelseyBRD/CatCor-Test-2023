@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03000</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03000</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#culture"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-06">06/03/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:07:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03000">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St Pétersbourg</placeName>, ce <date
+      when-custom="1777-12-14">14 décembre 1777</date>.</dateline></opener>
+   <p>Connaissez-vous monsieur Alexandre? Allez-vous souvent à <placeName ref="places.xml#ver01">
+     Versailles</placeName>? Vous connaissez ou vous ne connaissez pas les commis des commis de
+    monsieur Alexandre? Du moins de ce monsieur <persName ref="people.xml#ale07">
+     Alexandre</persName> dont il est tant question dans <title ref="works.xml#lingen01"
+     >l’Ingénu</title>.<note type="editorial">See the opening of Chapter 9 of Voltaire's
+     "L'Ingénu."</note> Mais je parle que vous ne connaissez point du tout monsieur Alexandre, du
+    moins celui dont je m’en vais vous parler. Ce n’est point du tout d’ <persName
+     ref="people.xml#ale04"> Alexandre-le Grand</persName>, mais d’un tout petit <persName
+     ref="people.xml#ale01"> Alexandre</persName> qui vient de nâitre le 12 de ce mois à dix heures
+    trois quarts du matin. Tout cela veut dire que la <persName ref="people.xml#mar02">
+     grande-duchesse</persName> vient d’accoucher d’un <persName ref="people.xml#ale01">
+     fils</persName> qui, à l’honneur de <persName ref="people.xml#nev01"> St Alexandre
+     Nevski</persName>, a reçu le nom pompeux d’Alexandre, et que j’appelle, moi, monsieur
+    Alexandre, parce que s’il se mêle de vivre, sans faute avec le temps ses commis auront des
+    commis. Voyez un peu ce que c’est que les prophéties prévoyantes et les commèreries des
+    grand’mères. Ne voilà-t-il pas une preuve de perspicacité étonnante et éclatante? <seg
+     xml:lang="de">Aber, mein Gott, was wird den aus den jungen werden</seg>? Je me console avec
+    Bayle et le père de <title ref="works.xml#trista01">Tristram Shandy</title>, qui était d’avis
+    qu’un nom influait sur la chose; morgué, celui-ci est illustre; il y a eu des' matadors qui le
+    portaient, pourvu que les as ne soient pas passés à cette bande-là. Les exemples de famille y
+    font-ils quelque chose, qu’en pensez-vous? Le choix embarrasse quelquefois. Les exemples n’y
+    font rien; au dire de l’évangile du vénérable pasteur <persName ref="people.xml#wag01">
+     Wagner</persName>, c’est le naturel qui fait tout; mais où le chercher, celui-là? est-ce au
+    fond du sac de la bonne constitution? Celle-ci y paraît, pourvu que la masse n’absorbe point le
+    volatile, les chairs, les os; cela tiraille l’esprit à droite, à gauche; j’enverrai à débattre
+    tout cela à la <persName ref="people.xml#lou05"> reine douairière de <placeName
+      ref="places.xml#swe01"> Suède</placeName></persName>: elle s’en tirera mieux que moi. C’est
+    dommage que les fées ont passé de mode; elles vous douaient un enfant de tout ce qu’on
+    voulait; moi je leur aurais fait de beaux présents et je leur aurais chuchoté à l’oreille:
+    mesdames, du naturel, un tantinet de naturel, et l’expérience fera à peu près, le reste. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+   <postscript>
+    <p>J’ai reçu votre post-scriptum aux belles choses que m’apporte Thier, mais celui-ci n’est
+     point arrivé encore. Etes-vous content de l’éloge de <persName ref="people.xml#geo04"> madame
+      Geoffrin</persName>? Je trouve que cela est bien dit, mais qu’il n’en reste rien dans la tête.
+     Je sais bien ce qui y manque; cet auteur n’est pas le mien, nos têtes ne vont point ensemble,
+      <seg xml:lang="de">Gott weiß, alle die jungen Leute wollen mehr wie si können, und ich liebe
+      die Roste die da ohne Wollen von selbsten laufen ohne ich aufzuziehen</seg>. Quand on devient
+     vieux, je crois qu’on devient trop difficile et que c’est là mon cas.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

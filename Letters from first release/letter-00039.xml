@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00039</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00039</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-09">9 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-25">25 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some additional markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr">
+        <body>
+            <opener><salute rend="inline">Monsieur mon frère.</salute></opener>
+            <p>Votre Majesté ne doutera point que je ne sois sensiblement affectée, en voyant par sa
+                lettre et par les représentations qui me sont faites de sa part, combien elle se
+                fait de peine du maintien des dissidents dans la législation.<note type="editorial"
+                    >Catherine approved this letter on 21 June 1774; it was handed over to <ref
+                        target="people.xml#bra01">Count Branitsky</ref> on 12 July 1774 for delivery
+                    to Stanislas August.</note> Je désirerais qu'il fût en mon pouvoir de changer
+                ces inquiétudes en un état de paix et de parfaite tranquillité: mais ma position à
+                moi dans cette affaire n'est pas telle à beaucoup près, que je puisse disposer des
+                choses à mon gré. Je ne rappellerai point à Votre Majesté tout ce que j'ai déjà
+                tacitement consenti, qu'il fût apporté de modifications au rétablissement plein et
+                entier des dissidents tel que je l'avais obtenu. Il suffit que ce soit une vérité
+                évidente, que dès qu'on y joindrait encore leur exclusion de la législation
+                prononcée de l'aveu de la puissance garante et protectrice de leurs droits, leur
+                condition serait pire que celle d'où j'ai tâché de les arracher. La force et la
+                violence les tenaient à la vérité dans l'oppression, mais l'espérance et le droit de
+                s'y soustraire subsistaient toujours, et ce dernier souffle de vie va leur être ravi
+                si leur exclusion est érigée en droit. J'en appelle aux lumières de Votre Majesté et
+                à la justice de l'<placeName ref="places.xml#eur01">Europe</placeName> entière, si
+                faisant taire pour un moment toutes les raisons de dignité et d'intérêt de ma
+                couronne, l'humanité même ne serait pas révoltée, que la main qui a soutenu les
+                dissidents fût l'instrument qu'on ferait servir à leur entière destruction; et c'est
+                cependant là le sacrifice qu'on exige de moi. Je demande avec assurance, si, quelque
+                soit en moi le désir de voir la paix intérieure rendue à la <placeName
+                    ref="places.xml#pol01">Pologne</placeName>, si, quelque intérêt que je prenne à
+                l'affermissement et à la sûreté de Votre Majesté sur son trône, il m'est permis de
+                me porter à une démarche, je ne dirai pas—dont ma gloire est blessée, mais que
+                l'honnêteté désavoue. Telle est donc la nécessite des circonstances, que je ne dois
+                ni ne puis donner à Votre Majesté la preuve d'amitié qu'elle me demande avec tant
+                d'instances.</p>
+            <closer>
+                <signed>C'est une peine et un désagrément pour moi même, mais qui ne doit laisser
+                    aucune impression à Votre Majesté contre la vérité et l'étendue des sentiments
+                    d’estime et de considération, avec lesquels je suis, <hi rend="below">Monsieur
+                        mon frère,</hi> de Votre Majesté etc.</signed>
+                <dateline><placeName ref="places.xml#pet02">Péterhof</placeName>, <date
+                        when-custom="1774-06-27">ce 27 Juin 1774</date>.</dateline>
+                </closer>
+        </body>
+    </text>
+</TEI>

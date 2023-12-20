@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01237</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01237</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#health"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-04-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label>
+            </change>
+            <change>
+                <date when="2021-05-18"/>
+                <persName>HD|DH</persName>
+                <label>QA</label>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01237">
+        <body>
+            <opener>
+                <salute rend="inline">
+                    <persName ref="people.xml#pan01">Никита Иванович!</persName>
+                </salute>
+            </opener>
+            <p>Из вчерашняго Вашего письма уведомилась я о здоровье <persName ref="people.xml#pau01"
+                    >сына</persName> моего; я очень немогу, спина так болит, как от роду не
+                чувствовала; нынешнюю ночь у меня от боли немного жару было, и не знаю, чему
+                приписать, глотаю и делаю все, что хотят; вчерась я приняла порошок, котораго так
+                мало было, что, конечно, его во все составы не станет по пылинке; и того ради мало
+                от него и пользы ожидать можно, чему самым делом и показалось. Приписывали оному
+                порошку силу произведения пота, однако, к крайнему моему сожалению хотя я искусно
+                составленную пыль и приняла, но испарина ей послушна не оказалась.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

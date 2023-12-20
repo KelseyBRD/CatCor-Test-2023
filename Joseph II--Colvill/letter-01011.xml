@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01011</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01011</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#poland"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-28">28-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:32:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01011">
+  <body>
+  <opener> <dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, cc <date when-custom="1781-01-28">28 janvier 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Encouragée par V. M. I. à Lui parler non seulement avec confiance, mais
+    même à Lui communiquer jusqu’aux faux bruits que Ses envieux voudraient répandre, qu’il me soit
+    permis aujourd’hui de prendre la plume pour L’entretenir d’une matière sur laquelle pendant deux
+    mois j’ai remis d’un jour à l’autre à rompre le silence, tant le sujet m’en paraissait
+    désagréable. Je m’explique; c’est de l’affaire de <persName ref="people.xml#jul02">
+     Julius</persName> dont je m’en vais parler. Il a plu à V. M. I., à feue S. M. I. <rs
+     ref="people.xml#mar01"> Son auguste mère</rs> de glorieuse mémoire, de me communiquer par le
+    comte de <persName ref="people.xml#cob02"> Cobenzl</persName> au printemps passé un précis de
+    cette affaire. Je ne saurais jamais oublier la confiance qu’Elles ont bien voulu me témoigner en
+    cette occasion, en s’en rapportant à ma décision.</p>
+   <p>Pour pouvoir d'autant mieux répondre à cette confiance flatteuse pour moi, avant que de partir
+    pour <placeName ref="places.xml#mog01"> Mohilew</placeName> j’avais ordonné à mon Ambassadeur
+    à <placeName ref="places.xml#war01">Varsovie</placeName> de se mettre parfaitement au fait de cette affaire, que je ne
+    connaissais jusque-là que par des ouï-dire. Le mémoire que le comte de <persName
+     ref="people.xml#sta02"> Stackelberg</persName> a envoyé ici, je l’ai fait remettre au comte de
+     <persName ref="people.xml#cob02"> Cobenzl</persName>, et je m’en suis parfaitement rapportée à
+    l’équité de V. M. I. J’ose La prier aujourd’hui, qu’en lisant ce mémoire, Elle ne consulte que
+    la grandeur et la magnanimité de Son âme. Que cette affaire, une des premières d’un règne sur
+    lequel le monde entier a les yeux fixés dans ce moment-ci, tourne entièrement à Sa gloire, tels
+    sont mes voeux et mes désirs sincères. Que V. M. I. fasse de nouveau taire Ses envieux qui
+    s’efforcent à débiter que cette affaire ne sert qu’à persécuter les amis de la <placeName
+     ref="places.xml#rus01">Russie</placeName> par la confiscation de leurs biens, et nommément le
+     <persName ref="people.xml#pon01"> Roi</persName> de <placeName ref="places.xml#pol01"
+     >Pologne</placeName> et sa famille, que ce n’est qu’un prélude de certains projets dont M. de
+     <persName ref="people.xml#thu02"> Thugut</persName> et le Sr de <persName
+     ref="people.xml#cac01"> Caché</persName> se trouvent chargés et dont on leur prête qu’ils ne se
+    cachent pas. On les charge encore de beaucoup de chaleur dans leurs discours, et de propos assez
+    indiscrets analogues à d’anciennes préventions. Je n’ai garde d’ajouter foi à des avis qui
+    paraissent aussi exagérés qu’ils sont contradictoires à tous les témoignages d’amitié et de
+    confiance ininterrompue dont il a plu à V. M. I. de m’honorer depuis le moment que j’ai eu le
+    bonheur de faire Sa connaissance.</p>
+   <p>C’est pour y répondre avec la plus grande Intimité, que j’ai cru nécessaire de porter à la
+    connaissance de V. M. I. tout ce qui me revient sur cette affaire, et qui probablement ne finira
+    pas jusqu’à l’entier arrangement de cette affaire, sur laquelle, pour y contribuer de mon mieux,
+    j’ai ordonné au <persName ref="people.xml#ost05"> Vice-Chancelier comte d'Ostermann</persName>
+    de faire une lettre à mon <rs ref="people.xml#sta02"> Ambassadeur</rs> à <placeName ref="places.xml#war01">Varsovie</placeName>,
+    afin que de son côté il contribue à la finir, s’il plaisait à V. M. I. d’ordonner à Son ministre
+    plénipotentiaire là-bas de se concerter avec lui.</p>
+   <closer><signed>J’ai l’honneur d’etre ....</signed></closer>
+  </body>
+ </text>
+</TEI>

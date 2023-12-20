@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02709</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02709</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unsure whether St Cat. refers to St Cat. of
+     Alexandria.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-07">07/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:27:00Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02709">
+  <body>
+   <opener><dateline> [c. <date when-custom="1763-05-15">May 1763</date>]</dateline></opener>
+   <p>Le <rs ref="people.xml#pic01">Géant</rs> mandera à m<hi rend="superscript"
+     >r</hi> de <persName ref="people.xml#vol01">Voltaire</persName> que les Puissances du Nord sont très
+     découragées d'avoir à faire à des Philosophes; qu'au Nord on a l'esprit assez bouché pour ne
+     pas comprendre que faire le plus de bien possible, ne soit pas un Principe qui puisse
+     l'emporter sur toutes les autres Raisons humaines: Que si ces Puissances ne craignoient
+     d'abuser du tems &amp; de la vue de m<hi rend="superscript">r</hi> de <persName ref="people.xml#vol01">Voltaire</persName>, elles en appelleroient comme d'abus à lui pour un
+     factum bien digéré, plus long que ceux pour &amp; contre les Jesuites, où il seroit démontré
+     très conséquemment que la Loi salique n'a plus rien à craindre, parceque la culture des Lettres
+     va tomber totalement parmi les Princesses &amp; dans leurs Païs, des chefs d'oeuvres
+     enregistrés, &amp; mis au Rang de ceux des <persName ref="people.xml#cat02"
+     >S<hi rend="superscript">te</hi> Catherine</persName> des cieux, ne
+     pouvans persuader des savants à venir habiter un autre coin de terre pour instruire &amp;
+     éclairer, que celui où ils ont pris Racine.</p>
+   <p>Le <rs ref="people.xml#pic01">Géant</rs> dira tout cela avec un peu moins d'emportement &amp;
+     d'humeur, &amp; surtout me sauvera le dégoût de relire cet admirable morceau à deux mois d'ici
+     dans les Gazettes.</p>
+   <p>Je souscrirai avec plaisir pour cinquante exemplaires des Oeuvres du
+     grand <persName ref="people.xml#cor02">Corneille</persName>, &amp; au lieu de mon Nom, j'envoierai la Lettre de change au <rs ref="people.xml#pic01">Géant</rs> pour
+     la faire parvenir.</p>
+   <p>J'en ferai volontiers autant pour la Nouvelle Edition de <rs ref="works.xml#histoi03">l'histoire universelle</rs>. Je la lirai alternativement avec de beaux manuscrits de quatre vingt
+     pages d'extraits, sur des choses qu'on pourroit régler dans dix Lignes tout au plus.</p>
+  </body>
+ </text>
+</TEI>

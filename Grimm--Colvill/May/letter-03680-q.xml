@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03680</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03680</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find any information on d’Ormesson, Schaper, or Forster</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-02">02-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:57:01Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03680">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1792-10-31">31 d’octobre
+     1792</date>.</dateline></opener>
+    <p>Nous attendons ce soir les <rs ref="people.xml#eli04 people.xml#fre06">deux princesses</rs>
+     de <placeName ref="places.xml#bad01"> Bade</placeName>; <rs ref="people.xml#eli04"> l’une</rs>
+     a 13 ans, <rs ref="people.xml#fre06"> l’autre 11</rs>. Vous jugez bien qu’on ne marie pas si
+     jeune chez nous; ce n’est pas cela aussi pour le présent, mais provision pour l’avenir; en
+     attendant elles s’accoutumeront à nous et se feront à nos uses et coutumes. Pour notre homme,
+     il n’y pense pas; il est dans l’innocence de son coeur, et c’est un tour diabolique que je lui
+     joue, car je l’induis en tentation. Or ce préambule que vous venez de lire est l’introduction
+     d’une réponse que je vous dois à vos deux lettres du 13 (24) auguste et 17 (28) septembre, la
+     première écrite au bord d’un yacht sur le <placeName ref="places.xml#rhi01"> Rhin</placeName>,
+     et la seconde d’<placeName ref="places.xml#aix01"> Aix-la-Chapelle</placeName>.  </p>
+    <p>Prenez garde que <persName ref="people.xml#cus01"> Custine</persName> ne vous en chasse, car
+     depuis hier nous savons qu’il est à <placeName ref="places.xml#fra03">
+     Francfort</placeName>.</p>
+    <p>Mais quelle horreur, et quelle cacade que ce <persName ref="people.xml#kar03"> duc de
+      Brunswick</persName> est allé faire! cette Champagne pouilleuse va devenir fertile par le
+     fumier qu’ils y ont laissé. Ah, mon Dieu, mon Dieu! que les deux cousins ont mal conduit leurs
+     affaires et celles des autres! Mais les lamentations ne mènent à rien qu’à se désespérer;
+     faites en sorte, si vous pouvez, qu’ils fassent mieux à l’avenir. Vous devez être au désespoir,
+     car voilà tous vos bien-aimés, les princes d’<placeName ref="places.xml#ger01"
+      >Allemagne</placeName> ou grand nombre d’iceux ensuite ou ruinés, ou hors de leurs foyers.
+      <seg xml:lang="de"> Aber was wird denn das werden</seg>?</p>
+    <p>Je meurs de peur pour mes lettres: jetez-les donc une bonne fois au feu; si je savais où
+     elles sont, je les enverrais brûler malgré vous. Et cette chère balle d’or, le palladium de
+      l’<placeName ref="places.xml#ger01">Allemagne</placeName> ! Ce vilain <persName
+      ref="people.xml#cus01"> Custine</persName> est allé l’enlever; encore s’il n’y avait de mal
+     que celui là, mais ces trois électorats ecclésiastiques d’envahis! Mais qu’est-ce donc que ces
+     Don-Quichotte de Germanie? Cela se ruine à tenir des troupes, cela s’égosille à les exercer, et
+     quand il s’agit d’en faire usage, leurs Altesses Sérénissimes prennent le large avec ou sans
+     leurs troupes. Mettez donc ordre à cela, vous qui êtes présentement dans votre centre, et
+     dites-leur donc qu’en fait de guerre, quand on ne bat pas, l’on est battu. Entendez-vous? je
+     veux que vous leur disiez cela, afin qu’ils voient que vous et moi nous sommes des gens
+     d’esprit. J’ai reçu les portefeuilles de M. d’Ormesson, vous l’en remercierez quand vous
+     pourrez: le <persName ref="people.xml#zub01"> g-l Zoubof</persName> et le comte <persName
+      ref="people.xml#est02"> Esterhazy</persName> les ont regardés; je ne les ai qu’entrevus
+     encore. Je ne vous parle plus du <rs ref="people.xml#lou01"> malheureux roi</rs> confiné au
+     Temple; le plus heureux serait si l’on l’y oubliait; mais je crains bien que non, à moins d’un
+     miracle. Dites à votre monsieur Schaper que je ne veux point des pauvretés du <persName
+      ref="people.xml#fer05"> duc Ferdinand</persName>, que je n’ai jamais convoitées, n’en ayant
+     jamais entendu parler. Je suis fâchée de refuser aussi M. Forster, car je n’ai point d’argent:
+     peut-être la princesse <persName ref="people.xml#das01"> Dachkof</persName> en voudra-t-elle
+     pour l’Académie; je lui en ferai la proposition. Mais ces <rs
+      ref="people.xml#lou09 people.xml#cha11">pauvres princes, frères</rs> du <persName
+      ref="people.xml#lou01"> roi de <placeName ref="places.xml#fra01"
+     >France</placeName></persName>, et ces émigrés que deviendront-ils? Je ne pense qu’à eux et
+     qu’aux moyens de réparer la honte et l’oppobre des hauts alliés ou du moins des deux cousins.
+     Or, il y a là tant de faiseurs que la raison ne sera jamais écoutée.  </p>
+   </div>
+   <div>
+    <opener><dateline> Се <date when-custom="1782-11-01">1 novembre</date>.</dateline></opener>
+    <p><rs ref="people.xml#eli04 people.xml#fre06">Les princesses</rs> de <placeName
+      ref="places.xml#bad01"> Bade</placeName> sont arrivées hier entre 8 et 9 heures du soir, et je
+     les ai trouvées comme on me les avait décrites, charmantes. M. <persName ref="people.xml#ale01"
+      > Alexandre</persName> serait bien difficile si <rs ref="people.xml#eli04"> l’aînée</rs> lui
+     échappe. </p>
+    <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>,
+      portez-vous bien, si vous pouvez, dans ce vilain siècle de fer, où cependant il y a de belles
+      princesses.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

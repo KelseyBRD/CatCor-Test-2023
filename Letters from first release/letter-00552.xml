@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00552</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00552</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#navy"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-28">28 July 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00552">
+                <body>
+                    
+                    <p>Vous m'aves grondee hier toute la journee sans aucune raison. Dieu merci
+                        aujourd'huy Vous en aves trouve une. J'ai ecrit une lettre qui Vous deplait,
+                        mais si Vous pouvies un monent envisager la chose, sans aucune sorte de
+                        passion, Vous verries que cette lettre est la lettre d'une Imperatrice
+                        elemente a un sujet qui l'а offensee par etourderie, par extravagance et par
+                        manque de jugement, que cette Imperatrice a puni comme elle le devoit, un
+                        sujet qui l'а offensee, mais qu'un meme tems elle n'a pas oublie que ce
+                        sujet a expose souvent sa vie, comme il le devoit pour son service. Voila
+                        l'examen sans passion et sans fougue de cette lettre, qui est une piece a
+                        imprimer.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

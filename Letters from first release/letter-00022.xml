@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00022</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00022</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-06">6 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata, some annotation.</p>
+            </change>
+            <change>
+                <date when="2015-05-18">18 May 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00022">
+                <body>
+                    <opener><salute rend="inline">Александр Ильич,</salute></opener>
+                    <p> Из последняго вашего письма от 5-го февраля усмотрела я удовольствительныя
+                        известия, состоящия в том, что войска, под вашего командою находящияся,
+                        повсюду разбойническия шайки прогоняют; дай Боже услышать, что и все дело
+                        окончено для благополучия империи, которая никогда злейших сих врагов не
+                        имела; весьма обрадована я при сих беспокойных обстоятельствах прямо
+                        дворянскими поступками Казанскаго дворянства, в число коих я включаю и
+                        прочих уездов сей губернии.<note type="editorial">On 2 March 1774, Bibikov
+                            thanked Catherine for letter as his 'first and main encouragement in his
+                            cares here': 'Высочайшия повеления, наполняемыя всегда ко мне Вашего
+                            Императорскаго Величества милостию и благоволением, бывают первейшим и
+                            главным моим здесь ободрением в заботах; таково было и последнее от 16
+                            Февраля, которое принять удостоился' (<bibl><author>Ya.K. Grot</author>,
+                                    <title ref="works.xml#materi01" level="a">'Materialy dlya
+                                    istorii pugachevskago bunta'</title>, <biblScope unit="pp">p.
+                                    61</biblScope></bibl>). Bibikov's report of 5 February can be
+                            found in <bibl><author>Ya.K. Grot</author>, <title
+                                    ref="works.xml#materi01" level="a">'Materialy dlya istorii
+                                    pugachevskago bunta'</title>, <biblScope unit="pp">pp.
+                                    57-59</biblScope></bibl>.</note> Соответствуя их усердию,
+                        захотела я в пользу сочленов сего дворянства обратить ваше представление,
+                        дабы прислать к вам офицеров из гвардейских унтер-офицеров, для определения
+                        к тем эскадронам, кои формируются из рекрут дворцовых деревень, и для того
+                        приказала выбрать казанских помещиков из унтер-офицеров гвардии охочих людей
+                        и, пожаловав их в обер-офицеры, как явствует из приложеннаго реестра,
+                        обмундировав и снабдя всем, <persName ref="people.xml#gol17">фельдмаршалу
+                            князю Голицыну</persName> приказала их к вам отправить наискорее;
+                        изволите видеть, чтó я делаю по простой пословице, которая говорить, что
+                        рука руку моет. Чтó вы пишете о посланных отселе двух Яицких казаках,
+                        удивительно, ибо двое здесь аманатами остались:—не кутит ли на них послушная
+                        сторона сих казаков? а если правда, то видно, что и послушные более
+                        сообщения имеют со злодеями, нежели надобно. Казак тот, который вниз по
+                            <placeName ref="places.xml#ura01">Яику</placeName> поехал, кажется,
+                        время не имел к учинению волнений в остальных; ибо в первые сутки от злодеев
+                        бит и схвачен был, а если другой в наперсниках у злодея, то еще надо
+                        посмотреть, что по их буйным нравам и образу мысли из того выйдет. За
+                        добронравных людей они и почитаемы ни на час не были, но за плутов, кои
+                        кредит имеют между плутами же. <rs ref="works.xml#pismok01">Письмо</rs>
+                        <persName ref="people.xml#man01">Мансурова</persName> к Калмыкам такого
+                        слога, что онаго конечно не напечатаю, а <rs ref="works.xml#rechbl01">речь,
+                            говоренная в собрании дворянском</rs>, прямо благородными мыслями
+                        наполнена. Я приметила, что мы всегда таковы, что возле вышней степени
+                        добродетели имеем в соседстве тому противное: знатно, человек так сотворен.
+                        Ну, барин не скажешь, что войск у тебя не довольно: кажется, всем снабден;
+                        пора кончить, чего все с нетерпением ожидаем. Друг мой <persName
+                            ref="people.xml#mus01">султан Мустафа III</persName> волею Божиею
+                        скончался. Статься может, что и сие к добру будет. Я не очень о его кончине
+                        тужу; ибо ведомо вам, что мы отчасти с ним обращались, как кошки с собаками.
+                        Султанский брат <persName ref="people.xml#abd01">Абдул-Гамет</persName> его
+                        место заступил на пятьдесят-седьмом году от рождения и после
+                        сорока-пятигодичнаго тюремнаго заключения. Прикажите Казанскаго магистрата
+                        усерднейшим членам, именем моим, дать шпагу; президенту челябинскому я тоже
+                        послала, да помнится, что и в <placeName ref="places.xml#kun01"
+                            >Кунгуре</placeName> был посадский усердный: пошлите и к нему шпагу, а в
+                        запас к вам серебряных полдюжинку посылаю.</p>
+                    <closer>
+                        <signed rend="inline">Впрочем, моля Бога да поможет вам, остаюсь к вам
+                            доброжелательна. <persName ref="people.xml#cat01" rend="right">Екатерина.</persName></signed>
+                        <dateline rend="left"><date when-custom="1774-02-16">Февраля 16-го числа
+                                1774 года</date>.</dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Aleksandr Ilich,</salute></opener>
+                    <p>In your last letter of the 5th of February I saw the satisfactory news that
+                        the troops under your command are everywhere chasing out the bands of
+                        brigands. May God grant me to hear that the whole affair has been concluded
+                        for the greater prosperity of the empire, which has never had bitterer
+                        enemies than these. In these uneasy circumstances I am most delighted by the
+                        truly noble deeds of the nobility of Kazan, amongst whose number I include
+                        the other districts of that province. To match their zeal, I have desired to
+                        turn your representations to the benefit of the members of that nobility, so
+                        as to send to you officers from amongst the non-commissioned officers of the
+                        guards, to be appointed to the squadrons being formed of the recruits from
+                        the court estates. Therefore I have ordered willing Kazan landowners from
+                        amongst the non-commissioned officers to be chosen and have promoted them to
+                        the rank of senior officers, as will be clear from the attached register.
+                        Having fitted them out and equipped them with everything, I have ordered
+                        Field Marshal Prince Golitsyn to send them to you as soon as possible. You
+                        will see that I am acting according to the simple proverb, which says: you
+                        scratch my back, I'll scratch yours. What you write about the two Yaik
+                        cossacks sent from here surprises me, for two remained here as atamans. Are
+                        the obedient side of these cossacks not stirring up trouble for them? If
+                        that is true, then it is clear that the obedient ones too have more converse
+                        with the villains than is necessary. That cossack who set off down the Yaik
+                        has not yet, it seems, had time enough to cause a disturbance amongst the
+                        rest, for within the first day he was beaten and seized by the villains. If
+                        the other is amongst the villain's confidants, that we must still watch what
+                        comes of it, given their wild dispositions and manner of thinking. They were
+                        not for a moment thought to be decent people, but only knaves: they are
+                        credited as such even amongst the knaves themselves. Mansurov's letter to
+                        the Kalmyks is in such a style that I of course cannot print it, but the
+                        speech pronounced in the assembly of nobles is full of truly noble thoughts.
+                        I have noticed that we are always thus: we have the highest degree of virtue
+                        next to its opposite. It must be that man was thus created. Well, sir, you
+                        won't say that you don't have enough troops: it seems that you have been
+                        equipped with everything. It is now time to be done with it, as we all
+                        impatiently expect. My friend Sultan Mustafa III has passed away by the will
+                        of God. It may happen that this too will be for the better. I do not grieve
+                        greatly at his death, for, as you know, we rather got along like dogs and
+                        cats. The sultan's brother Abdul Hamid has taken his place at the age of
+                        fifty seven and after fourty five years of imprisonment. Order the
+                        magistrate in Kazan to give the most zealous members a sword in my name. I
+                        have also sent one to the president in Chelyabinsk. I also recall that there
+                        was a zealous townsman in Kungur: send him a sword too. And I am sending you
+                        a half a dozen spares.</p>
+                    <closer>
+                        <signed rend="inline">In the meantime, I pray God to help you and remain
+                            well-wishing towards you. <persName ref="people.xml#cat01" rend="right"
+                            >Catherine.</persName></signed>
+                        <dateline rend="left"><date when-custom="1774-02-16">February 16th
+                                1774</date>.</dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

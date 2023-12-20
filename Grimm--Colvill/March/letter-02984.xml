@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02984</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02984</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#domesticPolicy"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-03">03/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:03:29Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02984">
+  <body>
+   
+   <opener><dateline> Ce <date when-custom="1776-04-18">18 d’avril</date>, réponse au No 28.</dateline></opener>
+   <p>Rendez grâces à Dieu: bien loin de vous lamenter de ce que vous n’êtes pas de ce voyage du
+     <persName ref="people.xml#hen02"> prince Henri</persName>, votre boyau fêlé n’aurait pas
+    résisté à cette aventure, décrite dans la feuille ci-jointe du 17 de ce mois. Nous, qui n’avons
+    pas le même honneur, à peine sommes-nous en vie. Il y avait des moments où il me semblait que je
+    sentais des déchirements d’entrailles de tout ce que je voyais souffrir, et qu’à chaque cri je
+    sentais moi-même des douleurs. Le vendredi je devins pierre, et à présent encore je ne me sens
+    pas; j’ai des heures de faiblesse et d’autres de force; cela tient de la fièvre intermittente,
+    mais elle est plutôt dans le moral que dans le physique. Personne n’a d’idée de cela, à moins
+    que de l’avoir vu ou senti. Imaginez- vous que moi, qui suis pleureuse de profession, j’ai vu
+    mourir sans répandre une larme; je me disais: «Si tu pleureras, les autres sangloteront; si tu
+    sangloteras, les autres s’évanouiront, et tout le monde perdra et tête et tramontane , <seg xml:lang="de">und alles das wird unverantwortlich werden</seg>. Mais je
+    fais trêve à tout cela et à tout ce que j’aurais à dire sur cette matière. Je m’en rapport au
+     <persName ref="people.xml#hen02"> prince Henri</persName>: il n’a qu’à parler, je n’en dirai
+    plus mot. L’homme propose et Dieu dispose.</p>
+   <p>A propos de votre cavalcade d’ânes, je vous dirai que le <persName ref="people.xml#lav01">
+     vicomte de Laval</persName> est le seul Français que j’aie connu qui ait été sensible et
+    reconnaissant des bons procédés qu’on a eus pour lui, excepté cependant <persName ref="people.xml#did01">Diderot</persName>,
+    qui en toute chose est un autre homme que les autres. J’aimais toujours les bêtes, mais ce que
+    vous me dites de vos ânes, qui n’étaient pas assez bêtes pour grimper sur les laves du mont
+    Vésuve, confirme mon opinion sur les animaux en général: ils ont beaucoup plus d’esprit qu’on ne
+    leur en suppose, et si jamais bête a droit de parler, c’est sir <persName ref="people.xml#tho01"
+     > Tom Anderson</persName>: la société déjà lui plaît, et particulièrement celle de sa propre
+    famille. Il choisit de chaque couvée les plus spirituels, il s’en amuse, il les élève, leur fait
+    adopter ses moeurs et ses coutumes; dans le mauvais temps, où tout chien est enclin de dormir,
+    il jeûne et empêche les moins expérimentés que lui à manger. Si malgré lui ils se donnent de
+    l’indigestion et qu’il les voit vomir, il grogne, il les gronde; s’il trouve de quoi les amuser,
+    il les avertit; s’il trouve quelque herbe qui convient à leur état, il les y mène. Voilà bien
+    des indices que j’ai vus cent fois de mes yeux. Un chien d’autant d’esprit n’approcherait pas du
+    volcan, ni n’y mènerait sa famille; or, quoi que vous disiez, je ne tiens rien du volcan, car
+    sir <persName ref="people.xml#tho01"> Tom</persName> me saute au con chaque fois dès qu’il
+    m’aperçoit, et m’amène sa nombreuse famille. Or, sir <persName ref="people.xml#tho01">
+     Tom</persName> est un être très prudent, tant soit peu peureux, et en fait de courage il fait
+    infiniment plus de bruit que de besogne; je le connais à fond; ne vous en déplaise, il vous
+    donne un démenti cette fois-ci. Ma démonstration vaut bien la vôtre. Les opérations non pas
+    volcaniques, mais très humaines, qui se font à <placeName ref="places.xml#tve01">
+     Tver</placeName> et <placeName ref="places.xml#smo01"> Smolensk</placeName>, vous les aurez
+    bientôt traduites en allemand, où vous pourrez lire tout à-votre aise quatre cents et quelques
+    points partagés en 28 chapitres, qui font 215 pages in-quarto en russe. Il y a dans tout cela
+    une cour d’équité qui fait des merveilles et que nos gens les plus au fait de la chicane
+    appellent déjà présentement le tombeau de la chicane; elle a fini un grand nombre de procès à
+     <placeName ref="places.xml#smo01"> Smolensk</placeName> et reconcilié des familles que la
+    discorde désunissait depuis longues années; enfin, on la trouve délicieuse; elle ne décide rien,
+    elle ne signe rien; elle ne punit personne, elle est sans appel en matière de procès, et on
+    l’adore; voilà une plaisante chose, n’est-ce pas?</p>
+   <p>Qu’est-ce, s’il vous plaît, que votre homme au colloque proche de la grotte aux chiens, qui
+    était si curieux sur la <placeName ref="places.xml#rus01">Russie</placeName>? J’ai ordonné d’envoyer à Livourne à Hannibal 5,750
+    livres de <placeName ref="places.xml#fra01">France</placeName> pour les livres de <persName ref="people.xml#gal05"> l’abbé
+     Galiani</persName>. Envoyez-les moi, je vous prie, et grand merci pour la proposition: j’ai le
+    portrait du <persName ref="people.xml#pop02"> pape Ganganelli</persName>, et il n’y a plus de
+    place à la grenouillière où je huche tous les souverains.</p>
+   <p>J’aimerais beaucoup les tableaux ou un bon tableau de <persName ref="people.xml#men01">
+     Mengs</persName>, mais il est difficile d’en avoir. </p>
+   <closer><signed rend="inline">Mille remercîments pour toutes les belles choses que vous me dites et
+    pour tout l’attachement que vous voulez bien me marquer, mais trêve pour aujourd’hui.</signed></closer>
+  </body>
+ </text>
+</TEI>

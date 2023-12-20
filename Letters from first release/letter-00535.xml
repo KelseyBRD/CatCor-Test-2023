@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00535</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00535</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2015-11-11">11 November 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Created file.</p>
+            </change>
+            <change>
+                <date when="2015-11-11">11 November 2015</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00535">
+                <body>
+                    <opener><dateline><date from-custom="1776-03-21"/></dateline>
+                    <salute rend="inline">Батинька, <seg xml:lang="fr">Ch[er]
+                        Ep[oux]</seg>,</salute></opener>
+                    <p>хандришка от купанья в холодной воде. Я тебе сказывала, что надо мною тоже
+                        бывает. Сейчас из <placeName ref="places.xml#rig01">Риги</placeName>
+                        получила известье, что <persName ref="people.xml#hen02">Принц
+                            Генрих</persName> 21ч. мар[та], то есть в прошедший понедельник, к
+                        вечеру приехать хотел в <placeName ref="places.xml#rig01">Ригу</placeName> и
+                        примахнет, чаю, на страшную неделю, в начале. Мызишку сыщем. Напишу к
+                            <persName ref="people.xml#bro01">Броуну</persName>, чтобы приискал.
+                        Батя, голубчик, друг милой, будь весел, откинь хандру.</p>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

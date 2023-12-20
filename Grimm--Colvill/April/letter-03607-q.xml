@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03607</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03607</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#health"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find Béranger.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-07">07/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:54:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03607">
+  <body>
+ 
+   <opener><dateline> Ce <date when-custom="1784-04-08">8 d’avril 1784</date>.</dateline></opener>
+   <p>Ces jours passés j’ai reçu une lettre avec l’adresse qui suit: A Sa Majesté, Sa Majesté
+    l’Impératrice de <placeName ref="places.xml#rus01"> Russie</placeName>, en son château du Louvre à <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName>. La lettre ouverte, j’ai trouvé qu’elle était
+    d’un conseiller du <persName ref="people.xml#lou01"> roi de <placeName ref="places.xml#fra01"> France</placeName></persName> ayant résidence à <placeName
+     ref="places.xml#met01"> Metz</placeName>; cet homme me dit qu’épouvanté de la nouvelle
+    généralement répandue, comme quoi j’avais un cancer au sein et qu’on allait me faire une
+    amputation, il m’envoyait un remède infaillible contre ce mal, et il a joint à son paquet un
+    livret, que je n’ai pas lu. Or, je ne sais quel singulier plaisir on a en <placeName ref="places.xml#fra01"> France</placeName> à
+    me dire toujours tour à tour morte ou attaquée de quelque vilaine maladie que je n’ai jamais
+    eue: feu <persName ref="people.xml#dur01"> Durand</persName>, l’aimable Béranger, le spirituel
+     <persName ref="people.xml#bau06"> Beausset</persName> me donnaient continuellement des maux que
+    je n’avais pas et en faisaient des détails, des énumérations avec une exactitude étonnante,
+    tandis que votre très humble servante de sa vie n’a eu aucune des vicissitudes qu’on lui
+    accordait; or donc je vous prie de désabuser vos connaissances et messieurs les conseillers du
+    roi sur mon compte: assurez-les hardiment que je suis en vie et que je n’ai ni cancer ni autre
+    maladie dont ils m’ont gratifiée gratuitement, <seg xml:lang="it">ma</seg>
+    que je me porte parfaitement bien et n’ai aucune maladie chronique, et que quoique j’aie fait
+    écrire en <placeName ref="places.xml#spa01"> Espagne</placeName> pour savoir ce que c’est que les lézards avec lesquels ils se
+    vantent de guérir les cancers, ce n’était en vérité que par pure humanité et en faveur des
+    hôpitaux établis ici et dans d’autres villes; apparemment messieurs les conseillers du roi et
+    consorts ne supposent pas qu’on peut avoir d’autres soins que pour soi-même, et voilà pourquoi
+    ils me font le don d’un cancer. Or, tout ceci dit, je me recommande à l’honneur de vos bonnes
+    grâces, et suis, sans cancer et en bonne santé votre très humble et très obéissante servante,
+    tout comme par le passé.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02720</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02720</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-12">12-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:18:24Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02720">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St:
+     Petersb:</placeName> ce <date when-custom="1768-12-19">19 Décembre 1768</date></dateline></opener>
+   <p>Monsieur, Le porteur de celle ci, Vous remettra de ma part trois paquet
+     noté N.1, N.2, et N.3. En ouvrant le premier Vous
+    saurés ce que contienent les deux autres. Je Vous fais mille excuse d'avoir tardée si longtems,
+    cent choses ensemble m'en ont empêchée. Le Prince <persName ref="people.xml#koz03"> Koslowski</persName>,
+    Lieutenant de mes gardes, a regardé come une faveur distingué d'être envoyé à
+     <placeName ref="places.xml#fer01"> Ferney</placeName>. Je lui en sais gré. Si j'étais à sa place j'en ferai
+    autant. </p>
+   <closer><signed rend="inline">Adieu Monsieur, porté Vous bien et soyés assurée que persone ne
+    s'interresse plus à tous ce qui Vous regarde que <persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  
+  </body>
+ </text>
+</TEI>

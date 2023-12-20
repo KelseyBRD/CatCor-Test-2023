@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02911</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02911</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#moldavia"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#pugachevrebellion"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-06">06-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:23:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02911">
+  <body>
+
+   <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей Григорьевич</persName>. </salute></opener>
+   <p>Письмо ваше, от 27 сентября, со всеми приложениями, до Моих рук исправно доставлено и
+    камер-юнкер <persName ref="people.xml#dom01"> Домашнев</persName>, который с сими депешами от
+    вас отправлен был, Мною достаточно награжден и скоро паки в <placeName ref="places.xml#ita01">
+     Италию</placeName> отправлен будет, по вашему желанию. На письмо же ваше, вашею рукою писанное,
+    чрез сие ответствую. Первое, с удовольствием вижу, что вы все меры берете для возвращения
+     <orgName ref="orgs.xml#russ02"> флота</orgName> в Наши воды, в чем и совершенно полагаюсь на
+    усердное и уже многократно испытанное ваше раденье. Второе, поздравления ваши о заключении <name
+     ref="events.xml#kuchu01"> мира</name> приемлю Я, как новый знак всегдашней вашей ко Мне
+    ревности и любви, которыя во всегдашней Моей памяти пребывают. Третье, желанье ваше о поимке
+    злодея <persName ref="people.xml#pug01"> Пугачева</persName> сбылось: он живой и в добром и
+    крепком содержании к <placeName ref="places.xml#mos01"> Москве</placeName> привезен, 4 числа
+    сего месяца. По сю пору не видно еще, чтобы посторонния державы или же чужестранцы в сие мерзкое
+    дело замешаны были, а каверзы раскольничьи в оном есть, чего теперь со всякой прилежностию
+    следуется. И более пятидесяти первенствующих в шайке уже к <placeName ref="places.xml#mos01">
+     Москве</placeName> везут, в числе сих и <persName ref="people.xml#per03"> Перфильев</persName>,
+    который совершенно предался замыслам <persName ref="people.xml#pug01"> злодея,</persName> ему
+    открыл с чем послан был, и сумнительно еще он ли отправил казака сюда с письмом о готовности к
+    поимке <persName ref="people.xml#pug01"> злодея,</persName> или сей казак сие всклепать на него,
+    дабы денег выманить и с деньгами уйти; по крайней мере, <persName ref="people.xml#per03">
+     Перфильев</persName> не связал <persName ref="people.xml#pug01"> злодея</persName> и пойман во
+    время драки в особой шайке, и его допрос и собственная сказка доказывают его к <persName
+     ref="people.xml#pug01"> злодею</persName> веру и привязанность. Четвертое, письмо, к вам
+    писанное от <persName ref="people.xml#tar02"> мошенницы</persName>, Я читала и нашла оное
+    сходственно с таковым же письмом, от <persName ref="people.xml#tar02"> нея</persName> писанным к
+    графу <persName ref="people.xml#pan01"> Н.И.Панину</persName>. Известно здесь, что <persName
+     ref="people.xml#tar02"> она</persName> с князем <persName ref="people.xml#rad01">
+     Радзивиллом</persName> была в июле в <placeName ref="places.xml#rag01"> Рагузе</placeName>, и Я
+    вам советую туда послать кого и разведывать о <persName ref="people.xml#tar02"> ея</persName>
+    пребывании, и куда девалась, и если возможно приманите <persName ref="people.xml#tar02">
+     ее</persName> в таком месте, гдеб вам ловко бы было ее посадить на наш корабль и отправить ее
+    за караулом сюда; буде же она в <placeName ref="places.xml#rag01"> Рагузе</placeName> гнездитъ,
+    то Я вас уполномочиваю чрез сие послать туда корабль, или несколько, с требованием о выдаче
+     <persName ref="people.xml#tar02"> сей твари</persName>, столь дерзко на себя всклепавшей имя и
+    природу, вовсе несбыточныя, и в случае непослушанья дозволяю вам употребить угрозы, а буде и
+    наказание нужно, то бомб несколько в город метать можно; а буде без шума достать способ есть, то
+    Я и на сие соглашаюсь. Статься может, что она и из <placeName ref="places.xml#rag01">
+     Рагузы</placeName> переехала в <placeName ref="places.xml#par02"> Парос</placeName> и сказывает
+    будто из <placeName ref="places.xml#ist01"> Царьграда</placeName>. Пятое, из писем <rs
+     ref="orgs.xml#shih01"> друзских князей</rs> усмотрела с удовольствием <name
+     ref="events.xml#turki01"> успехи оружия</name> под начальством вашим на город <placeName
+     ref="places.xml#bei01"> Барут</placeName> и доверенность сих <rs ref="orgs.xml#shih01">
+     князей</rs> к вам. Шестое, о сербских разоренных фамилиях касающееся апробую ваши об них мысли,
+    и вы можете их выслать на кораблях, по силе <name ref="events.xml#kuchu01"> трактата
+     мирнаго</name>, в порты наши на <placeName ref="places.xml#bla01"> Черное море</placeName>, когда к тому удобность будет.
+    Седьмое, буде у вас вести есть, что <name ref="events.xml#kuchu01"> мир</name> Наш разрывается,
+    то не верьте сему слуху; он тем меньше вероятия достоин, что <placeName ref="places.xml#ott01">
+     Туркам</placeName> готовятся новыя хлопоты, ибо <placeName ref="places.xml#hol01">
+     Цесарцы</placeName> занимают часть <placeName ref="places.xml#mol01"> Молдавии</placeName>, в
+    300 верст пространности, и их посты в шести верстах от <placeName ref="places.xml#kho01">
+     Хотина</placeName> и уже генерал <persName ref="people.xml#bar05"> Барко</persName> объявил
+     <orgName ref="orgs.xml#diva01"> молдавскому дивану</orgName>, что сии уезды его двор почитает
+    принадлежащими к <placeName ref="places.xml#pok01"> Покуцию</placeName>. Прощайте, Бог с вами,
+    будьте здоровы, а Я вечно к вам доброжелательна.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature"> Екатерина</persName>.</signed>
+   <dateline> <date when-custom="1774-11-12">Ноября 12 ч. 1774 г.</date></dateline></closer>
+  </body>
+ </text>
+</TEI>

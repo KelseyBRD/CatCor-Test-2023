@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01049</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01049</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find Messieurs les Barbons to code</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:17:16Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01049">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#tsa01"> Czarskocelo</placeName>, ce <date
+      when-custom="1783-04-26">26 avril 1783</date>.</dateline></opener>
+   <p>Monsieur mon frère. Par la lettre que V. M. I. m’a fait l’honneur de m’écrire en date du 8
+    avril n. st., j’ai appris que son voyage d’<placeName ref="places.xml#ita01"
+    >Italie</placeName> était différé. J’en ai ressenti cette satisfaction qu’on a à se savoir plus
+    proche des personnes qu’on aime et qu’on respecte, mais en quelqu’endroit que V. M. I. se
+    trouve, j’espère qu’Elle est persuadée que ni des lieux la distance, ni du temps la longueur ne
+    saurait diminuer les sentiments que je Lui ai voilés. La continuation de ceux que V. M. I. veut
+    bien me témoigner, et la part que <rs ref="people.xml#her09"> Son ministre</rs> à <placeName
+     ref="places.xml#ist01">Constantinople</placeName> a eue à la confection du traité de commerce,
+    augmentent mes obligations vis-à-vis d’Elle. Je conviens volontiers avec V. M. I. que, si
+    quelque chose peut rendre la <placeName ref="places.xml#ott01">Porte</placeName> à l’avenir plus
+    souple et plus exacte à remplir ses promesses, c’est assurément le langage uniforme et les
+    démonstrations très-positives y analogues de nos deux Cours; cependant les intrigues non
+    discontinuées de la <placeName ref="places.xml#ott01">Porte</placeName> en <placeName
+     ref="places.xml#cri01">Crimée</placeName>, dans le <placeName ref="places.xml#kub01">
+     Couban</placeName>, et la perfide prise de possession de l’île de <placeName
+     ref="places.xml#tam01">Taman</placeName> prouvent que mes doutes sur l’exactitude des <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> à remplir les engagements pris n’étaient pas sans
+    fondement. V. M. I. est informée à l’heure qu’il est de ce que pour l’intérêt et la gloire de
+     mon <placeName ref="places.xml#rus01">Empire</placeName> je me suis trouvée dans la nécessité
+    de faire en cette occasion. Mon inclination pour la paix n’en est point diminuée; je me prêterai
+    volontiers à toute voie de conciliation et d’arrangement qui pourra la faciliter.</p>
+   <p>Le voyage de V. M. I. en <placeName ref="places.xml#hun01"> Hongrie</placeName>, dont Elle
+    veut bien m’informer par Sa lettre du 23 d’avril, ne laissera pas que de donner à rêver à
+    Messieurs les Barbons, chez lesquels le dire et le faire sont choses si différentes.</p>
+   <p>V. M. I. sait déjà que le <persName ref="people.xml#gol04"> prince Galitzin</persName> a été
+    pourvu de ma part d’ordres nécessaires pour l’acceptation de la médiation. L’oubli du
+    patriotisme dans le parlement d’<placeName ref="places.xml#eng01">Angleterre</placeName>, dont
+    V. M. I. me fait l’honneur de me parler, tient à la cohue qui presque toujours est mercenaire,
+    mais ce qui est à regretter, c’est de voir tomber la considération nationale sous un Roi bon
+    citoyen. Si j’avais encore le bonheur d’être assise sur un canapé à côté de M. le <rs
+     ref="people.xml#jos01"> comte de Falkenstein</rs>, j’aurais osé lui demander: comment ma nation
+    a pu gagner en force et en considération durant mon règne, tandis que mes envieux n’ont pas
+    discontinué de m’accuser de faiblesse et d’être toujours menée par la lisière?</p>
+   <p>V. M. I. n’imitera personne; Elle donnera des exemples. Sa destinée est écrite là-haut; il y a
+    longtemps entre autres que j’y lis qu’il ne tiendra qu’à Elle de réparer les brèches causées par
+    l’ennemi du nom chrétien depuis des centaines d’années à la monarchie de Ses ancêtres.</p>
+   <p>Que V. M. I. daigne recevoir ma gratitude sur ce qu’Elle veut bien me dire au sujet de la
+     <persName ref="people.xml#eli06"> Princesse Elisabeth</persName>, sur la grossesse de ma <rs
+     ref="people.xml#mar02">belle-fille</rs> et sur les communications confidentielles du
+    comte <persName ref="people.xml#cob02"> Cobenzl</persName>; celles-ci démontrent l’envie de
+    distribuer aux autres les rôles actifs et de conserver pour soi les passifs.</p>
+   <closer><signed>C’est avec rattachement et l’amitié la plus inaltérable que j’ai l'honneur
+    d’être ....</signed></closer>
+  </body>
+ </text>
+</TEI>

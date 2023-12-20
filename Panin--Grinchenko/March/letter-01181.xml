@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01181</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01181</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#austriaholyromanempire"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#music"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-28"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01181">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Я завтра, то есть, Воскресение, к обедни приеду в город; после обедни могу дать
+                аудиенцию <persName ref="people.xml#lob01">Лобковичу</persName> и <persName
+                    ref="people.xml#ost02">Сакену</persName>, коего речь <persName
+                    ref="people.xml#gol05">Вице-Канцлер</persName> ко мне прислал, из чего я
+                заключаю, что он аудиенции требовал, хотя ни от Вас, ни от <persName
+                    ref="people.xml#gol05">Князя Голицина</persName>, я о том еще не слыхала.
+                Обедать буду я у Вас: скажите <persName ref="people.xml#pau01">Великому
+                    Князю</persName>, чтоб он готовился меня угостить, а после оперы я повернусь
+                сюда. О всем сем хотела Вас уведомить заранее.</p>
+            <closer rend="inline">Прощайте, желаю Вам здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed>
+                <dateline><date when-custom="1768-04-26">Апр. 26 дня, 1768
+                г.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

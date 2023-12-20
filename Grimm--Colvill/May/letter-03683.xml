@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03683</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03683</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-02">02-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:57:41Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03683">
+  <body>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#pet01"> St. Pétersbourg</placeName>, au palais
+      Tauride, ce <date when-custom="1793-04-22">22 d’avril</date>.</dateline></opener>
+    <p>Hier, jeudi saint et le jour de ma naissance, j’ai communié ici, où je suis depuis dimanche.
+     Cette maison est de plein pied avec le jardin; vous savez que l’un et l’autre appartenaient au
+     prince <persName ref="people.xml#pot01"> Potemkine</persName> et que cela est bâti et planté à
+     merveille. Comme le temps a été charmant toute cette semaine, nous nous sommes promenés autant
+     que la dévotion nous l’a permis; or, quand je dis nous, j’entends <rs
+      ref="people.xml#ale02 people.xml#ele01 people.xml#mar03"> trois de mes petites-filles</rs> et
+     moi; pour monsieur <persName ref="people.xml#ale01"> Alexandre</persName> et le sieur <persName
+      ref="people.xml#kon01"> Constantin</persName>, ils sont restés avec <persName
+      ref="people.xml#pau01"> papa</persName>, <persName ref="people.xml#mar02"> maman</persName>,
+     leurs <rs ref="people.xml#eka01 people.xml#olg01"> deux cadettes</rs> et les <rs
+      ref="people.xml#eli04 people.xml#fre06">princesses</rs> de <placeName ref="places.xml#bad01">
+      Bade</placeName> dans le <placeName ref="places.xml#win01"> palais d’hiver</placeName>. A ceci
+     sieur <persName ref="people.xml#kon01"> Const</persName>antin dit: «Mon frère, cela s’entend
+     qu’on l’a laissé près de sa belle, mais moi qu’est-ce que j’ai à y faire?» Et, à dire les
+     choses comme elles sont, tous les deux envient beaucoup leurs <rs
+      ref="people.xml#ale02 people.xml#ele01 people.xml#mar03">trois soeurs aînées</rs>, qui sont
+     venues avec moi pour faire leurs dévotions. Le soir de ce jeudi saint, jour de ma naissance,
+     j’ai reçu votre No 51, auquel je réponds aujourd’hui.</p>
+    <p>M. le comte <persName ref="people.xml#cha11"> d’Artois</persName> est parti d’ici
+      pour <placeName ref="places.xml#tal01">Revel</placeName>: il a huit jours pour aller
+     s’embarquer sur une belle et bonne frégate, qui le portera à <placeName ref="places.xml#hul01"
+      >Hull</placeName> en <placeName ref="places.xml#eng01">Angleterre</placeName> et dans tel
+     autre port où il jugera à propos de débarquer, soit en <placeName ref="places.xml#hol02"
+      >Hollande</placeName>, ou en <placeName ref="places.xml#eng01">Angleterre</placeName>. Il sait
+     la défection de <persName ref="people.xml#dum05"> Dumouriez</persName> et sa retraite près <rs
+      ref="people.xml#jos03"> du prince</rs>, élève du comte <persName ref="people.xml#suv01">
+      Souvorof Rimnikski</persName>, ce <persName ref="people.xml#jos03"> Josias de
+      Cobourg</persName>, qui seul fait quelque chose; sa destinée est qu’on lui facilite les
+     victoires, ce qui n’arrive pas à tout le monde, mais je n’aime point les manifestes de <rs
+      ref="people.xml#jos03"> S. A</rs>.: cela manifeste pour nous autres spectateurs des vues qui
+     ne mènent pas justement tout droit à la paix, mais à prolonger les troubles afin d’y pêcher.
+     Pour le comte <persName ref="people.xml#cha11"> d’Artois</persName>, l’<persName
+      ref="people.xml#con05"> evèque d’Arras</persName> etc., Ils ont paru très contents de leur
+     réception et séjour en <placeName ref="places.xml#rus01">Russie</placeName>. M. <persName
+      ref="people.xml#cha11"> d’Artois</persName> m’aime comme sa mère; tout le monde a été très
+     content de lui; c’est un prince qui a un coeur excellent, une compréhension très facile, un
+     sens droit; Il entend volontiers de bons conseils, et il les suivra, j’en suis sûre. Je lui
+     crois du courage et de l’intrépidité. L’<persName ref="people.xml#con05"> evêque
+      d’Arras</persName> est une bonne et sage tête; je voudrais un bon et expérimenté militaire
+     près de M. <persName ref="people.xml#cha11"> d’Artois</persName>; enfin, il faudrait être
+     singulièrement difficile si on en cherchait de meilleurs; pour la besogne de lieutenant-général
+     du royaume, je ne doute nullement qu’une fois à même, il ne fasse besogne. Le malheur est un
+     grand maître, et, en vérité, je pense que <persName ref="people.xml#hen01"> Henri IV</persName>
+     n’en savait pas plus que lui. Les grandes affaires se régissent par quatre ou cinq axiomes:
+     qu’il s’y tienne, il les fera. Les Français d’ici, purifiés par le serment, lui ont tous
+     témoigné les sentiments qu’ils devaient avoir.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1793-05-14">14 mai</date>.</dateline></opener>
+    <p>Je suis ici depuis avant-hier, et j’ai fait bien de la besogne depuis dimanche. D’abord,
+     lundi la princesse <persName ref="people.xml#eli04"> Louise</persName> de <placeName
+      ref="places.xml#bad01"> Bade</placeName> a fait sa profession de foi, et l’église grecque l’a
+     nommée <persName ref="people.xml#eli04"> Elisabeth Alexievna</persName>. Puis, mardi, elle a
+     été fiancée au grand-duc <persName ref="people.xml#ale01"> Alexandre</persName>. Tout le monde
+     disait que c’étaient deux anges qu’on fiançait; on ne saurait rien voir de plus beau que ce
+     promis de 15 ans et cette promise de 14; outre cela ils ne s’aiment pas mal. Dès que la <rs
+      ref="people.xml#eli04"> princesse</rs> a été fiancée, elle a reçu le titre de grande-duchesse.
+     Mais imaginez vous de quoi M. <persName ref="people.xml#ale01"> Alexandre</persName> est
+     soupçonné: qui l’aurait cru? Un des cavaliers attachés à son éducation s’avisa, l’été passé, de
+     traduire en russe une comédie anglaise de <persName ref="people.xml#she01"> Sheridan</persName>
+     intitulée l’<title ref="works.xml#school01"> Ecole de la médisance</title>. Elle fut jouée à
+      l’<placeName ref="places.xml#her01"> hermitage</placeName>, et on trouva la pièce très
+     au-dessus de la traduction française, qui en a été faite en <placeName ref="places.xml#fra01"
+      >France</placeName>. Comme cette traduction russe pétillait d’esprit et de tournures
+     originales, tout le monde se récriait à tout moment sur la bonté de la pièce accommodée à nos
+     moeurs et usages. M. <persName ref="people.xml#ale01"> Alexandre</persName> prenait une part
+     vive aux approbations, aux exclamations des spectateurs. Moi, bonnement, je pensais que c’était
+     son amitié pour son cavalier qui lui faisait attacher un si grand prix aux applaudissements. On
+     donna la pièce en ville: le public s’y trompa moins que moi, et tout le monde s’avisa de dire
+     que M. <persName ref="people.xml#ale01"> Alexandre</persName> devait avoir eu la plus grande
+     part à cette prétendue traduction de l’anglais, qu’il savait mieux l’anglais que son cavalier
+     et qu’il avait beau se cacher, qu’on reconnaissait que les meilleures saillies étaient de lui.
+     Ces propos me revinrent; je les lui dis: il s’en défendit, mais en rougissant, disant qu’en
+     ayant entendu la lecture par-ci par-là, il en avait dit son avis peut-être et que son cavalier
+     en avait profité pour faire, quelques légers changements. Mais voyez un peu comme les maladies
+     gagnent et ce que c’est que le mauvais exemple!</p>
+    <closer><signed>Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>, je n’ai plus de temps
+      pour rien, pas même de répondre à vos lettres. J’espère que M. de <persName
+       ref="people.xml#rol01"> Roll</persName> vous aura remis ma dernière lettre, je la lui ai
+      donnée en mains propres.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

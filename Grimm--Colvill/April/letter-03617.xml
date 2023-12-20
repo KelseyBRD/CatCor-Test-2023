@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03617</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03617</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+  
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-09">09/04/2021</date><persName>Olivia Colvill</persName><label>Initial
+    markup</label></change>
+   <change><date>2021-04-16T08:55:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03617">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>, ce <date when-custom="1784-09-08">9 septembre 1784</date>.</dateline></opener>
+   <p>J’ai à répondre à trois de vos lettres dont la dernière, datée du 11 (22) auguste, demande une
+    réponse prompte.</p>
+   <p>Je vous avoue que tout ce temps j’étais hors d’état de vous écrire, parce que je savais que
+    cela nous ferait souffrir tous les deux. Huit jours après que je vous eus écrit ma lettre du
+    mois de juillet, me sont venus le comte <persName ref="people.xml#orl05"> Fedor Orlof</persName>
+    et le <persName ref="people.xml#pot01"> prince Potemkine</persName>. Jusqu’à ce moment je
+    n’avais pu supporter face humaine; ceux-ci, s’y sont pris de la bonne manière: ils se sont mis à
+    hurler avec moi, et alors je me suis sentie à mon aise avec eux, mais il y avait bien du chemin
+    à faire, et à force de sensibilité j’étais devenue un être insensible à tout, excepté à la seule
+    douleur; celle-ci augmentait et s’alimentait à chaque pas et à chaque parole. Cependant n’allez
+    pas croire que malgré l’horreur de cette situation j’aie négligé la moindre des choses où mon
+    attention était nécessaire; dans les moments les plus affreux on me demandait des ordres pour
+    tout, et je les donnais bien, avec ordre et intelligence: choses qui ont particulièrement frappé
+    le <persName ref="people.xml#sal03"> général Soltikof</persName>. Plus de deux mois se sont
+    passés sans aucune espèce de relâche; enfin sont venus quelques intervalles, premièrement
+    d’heures plus calmes, et puis de journées. La saison avançant et devenant humide, il a fallu
+    chauffer les appartements de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>; les miens se sont mis à fumer, mais
+    avec une telle violence que le cinq de septembre au soir, n’ayant plus où donner de la tête,
+    j’ai fait venir un carrosse et suis venue à l’improviste et sans que personne s’en doute, ici en
+    ville, où j’ai débarqué à l’ <placeName ref="places.xml#her01"> hermitage</placeName>, et hier
+    pour la première fois j’ai été à la messe, et par conséquent pour la première fois aussi j’ai vu
+    tout le monde, et tout le monde m’a vue, mais, en vérité, c’est un si grand effort qu’en
+    revenant dans ma chambre j’en ai senti un tel abattement que toute autre que moi s’en serait
+    évanouie, chose qui de ma vie ne m’est arrivée.</p>
+   <p>A présent venons-en aux points principaux de votre lettre. La <title ref="works.xml#alineg01">
+     reine de Golconde</title> n’est point arrivée, que je sache; quand <persName
+     ref="people.xml#bue01"> Emilie</persName> se mariera, donnez-lui de ma part douze mille
+    roubles, et si vous n’avez point d’argent à moi, tirez sur nous une lettre de change. Mais que
+    cela ne soit point mis dans les gazettes.</p>
+   <p>Donnez à la <rs ref="people.xml#did02"> veuve</rs> de <persName ref="people.xml#did01"> Diderot</persName> mille roubles;
+    cela fera pour cinq ans de pension d’avance, à deux cents livres par an. Sur tous les autres
+    points de vos lettres je vous répondrai une autre fois; pour le présent vous m’excuserez: en
+    vérité, c’est un effort que je fais, car je suis faible de Dieu sait combien de sortes de
+    fièvres diverses que j’ai essuyées depuis deux mois et demi. En attendant j’ai lu une
+    demi-douzaine de chroniques russes et trois tomes du <title ref="works.xml#mondep01"> Monde
+     primitif</title>. Connaissez-vous ce livre? Et je me suis fait donner autant de dictionnaires
+    de langues que j’ai pu trouver, entre autres un finnois, un de la langue tchérémisse, un des
+    Votiaques, et c’est de cela que toutes mes tables sont remplies; outre cela j’ai ramassé des
+    connaissances en quantité sur les anciens <orgName ref="orgs.xml#slav01"> Slavons</orgName>, et
+    je pourrai dans peu démontrer qu’ils ont donné les noms à la plupart des rivières, montagnes,
+    vallées et cercles et contrées de la <placeName ref="places.xml#fra01"> France</placeName>, <placeName ref="places.xml#spa01"> Espagne</placeName>, <placeName
+     ref="places.xml#sco01"> Ecosse</placeName> et autres lieux.</p>
+   <closer><signed rend="inline">Adieu pour le présent; vous voilà au fait, en gros, selon vos souhaits,
+    de tout ce qui me regarde.</signed></closer>
+   <postscript><p>Je vous suis très obligée de la proposition que vous me faites de venir ici; mais je vous
+    conseille de n’en faire rien, car ou bien vous me verriez mourir, ou je vous verrais mourir, et
+    cela ne ferait que chagriner celui qui resterait. Pour des achats, ne m’en parlez plus, et
+    surtout d’une certaine espèce. Il y avait fort longtemps que je n’achetais plus pour moi.</p></postscript>
+  </body>
+ </text>
+</TEI>

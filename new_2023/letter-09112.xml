@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09112</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09112</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#id"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#id"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-29">2023-06-29</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09112"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-07-03">1789 г. июля 3.</date>
+                </dateline>
+            </opener>
+            <p>NB. Майора Бабарыкина перевесть из <orgName ref="orgs.xml#seme01">Семеновскаго</orgName> в <orgName ref="orgs.xml#hors01">Конную гвардию</orgName>.</p>
+            <p>Корсакова в <orgName ref="orgs.xml#seme01">Семеновский полк</orgName>
+            <note type="editorial">
+                This line of the note was crossed out (
+                <bibl>
+                    <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                    , <biblScope unit="pp">pp. 48.</biblScope>
+                </bibl>
+                ).
+            </note>
+            </p>
+            <p><persName ref="people.xml#fri10">Принца Гессен-Филипсдаля</persName> выпустить в армию полковником.</p>
+            <p><rs ref="people.xml#vie02"><persName ref="people.xml#vie01">Фитингофова</persName> сына</rs>, майора легкоконнаго, в камер-юнкеры.</p>
+            <p><orgName ref="orgs.xml#hors01">Конной гвардии</orgName> секунд-ротмейстера <persName ref="people.xml#zub03">Платона Зубова</persName> армии полковником и флигель-адъютантом
+                <note type="editorial">
+                    P.A. Zubov, the new and last favourite of Catherine, made his first appearance in the palace on <date when-custom="1789-06-21">June 21 1789</date> (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        , <biblScope unit="pp">pp. 49.</biblScope>
+                    </bibl>
+                    ).
+                </note>.</p>
+        </body>
+    </text>
+</TEI>

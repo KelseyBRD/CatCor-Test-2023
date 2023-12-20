@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02681</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02681</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                    <term target="kw.xml#paulsmarriages"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-10">10 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02681">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#tsa01">à Zarskoe Selo,</placeName>
+                            <date when-custom="1776-06-11">ce 11 Juin 1776</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Le regret avec lequel je vois partir, son Altesse Royale <persName
+                            ref="people.xml#hen02">le Prince Henri</persName> de ma cour égale les
+                        sentiments d'amitié, d'estime et de confiance dont je suis pénétrée et pour
+                        Votre Majesté et pour le Prince son Frère. Il fallait des motifs pas moins
+                        importants que ceux qu'a fait naître <rs type="event"
+                            ref="events.xml#natal01">la mort inattendue</rs> de <rs
+                            ref="people.xml#wil01">la Grande Duchesse</rs>, ma belle fille, pour me
+                        faire consentir à voir racourcir le séjour de son Altesse Royale à
+                            <placeName ref="places.xml#pet01">St. Pétersbourg</placeName>. Ma
+                        satisfaction personnelle a dû céder en cette occasion à l'espoir du bonheur
+                        futur de mon fils, qui j'ose l'espérer l'attend à <placeName
+                            ref="places.xml#ber01">Berlin</placeName>. C'est avec le consentement de
+                        Votre Majesté, c'est sous ses yeux et ses auspices que doit se faire cette
+                        entrevue que je désire entre <persName ref="people.xml#pau01">le Grand
+                            Duc</persName> et une <rs ref="people.xml#mar02">princesse</rs> qui
+                        appartient de si près à Votre Majesté. Des que mon fils se sera déterminé,
+                        mon consentement à son union accompagne l'agrément que Votre Majesté voudra
+                        bien y donner et que je requiers dès à présent de son amitié le cas
+                        existant. J'ai déposé mes lettres pour le <rs ref="people.xml#fri05"
+                            >prince</rs> et les princesses de Wurtemberg<note type="editorial">The
+                            future <ref target="people.xml#mar02">Mariya Fedorovna</ref> and her
+                            mother, <ref target="people.xml#fri04">Friederike Dorothea Sophia, née
+                                of Brandenburg-Schwedt</ref></note> entre les mains de son Altesse
+                        Royale <persName ref="people.xml#hen02">le Prince Henri</persName> afin
+                        qu'Elles leurs soient remises dans l'occurence. </p>
+                    <closer>
+                        <signed>J'ai l'honneur d'être avec la plus haute considération et l'amitié
+                            la plus sincère Monsieur mon Frère, de Votre Majesté la bonne Soeur,
+                            Amie et Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

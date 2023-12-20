@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01156</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01156</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-18"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01156">
+        <body>
+            <opener><dateline>Верстах в 50 от <placeName ref="places.xml#kaz01">Казани</placeName>.<lb/>
+                <date when-custom="1767-05-26">Маия 26 дня, 1767 г.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Из письма Вашего, от 22 ч., известилась я вчерась, по написании к Вам письма, что
+                    <persName ref="people.xml#pau01">сын</persName> мой, слава Богу, здоров. Я
+                надеюсь быть сего вечера в <placeName ref="places.xml#kaz01">Казани</placeName>.
+                Всего я в действительном походе до вчерашняго вечера была только 7 суток 9 1/2
+                часов, а в разных местах на якоре 15 суток 15 1/2 часов. <placeName
+                    ref="places.xml#ore01">Оренбургскую</placeName> бумагу прочту на досуге.</p>
+            <closer rend="inline"><signed>Прощайте.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01083</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01083</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austriaholyromanempire"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:25:51Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01083">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, ce <date when-custom="1787-11-16">16 novembre 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. J’ai appris avec plaisir par la lettre qu’il a plu à V. M. I. de m’écrire
+    en date du 30 octobre la résolution qu’Elle a prise de hâter le mariage de <persName
+     ref="people.xml#fra04"> S. A. R. l’Archiduc son neveu</persName> avec la <persName
+     ref="people.xml#eli06"> Princesse Elisabeth de Württemberg</persName>. Le motif qui lui en fait
+    avancer le terme, a droit de me toucher à l’égal de l’événement même auquel V. M. I. sait tout
+    l’intérêt que je prends. Cet intérêt ne saurait qu’augmenter par le témoignage qu’Elle me donne
+    de Sa propre satisfaction, ainsi que de celle à espérer pour les deux futurs époux. L’augure de
+    leur bonheur réciproque que V. M. I. tire de cette union, me paraît d’autant plus infaillible
+    que c’est Elle-même qui a pris soin de développer en eux les vertus et les qualités qui doivent
+    y concourir.</p>
+   <p>Je suis très-sensible à la part que V. M. I. a bien voulu prendre aux deux affaires qui se
+    sont passées près de <placeName ref="places.xml#kin01">Kinburn</placeName>. Je me flatte avec
+    Elle que mes ennemis ne tarderont pas à se repentir de m’avoir provoquée à la guerre, surtout
+    lorsqu’ils seront désabusés de l’illusion dont, à ce qu’il me revient, on continue à les bercer,
+    qu’ils ne deviendront pas de sitôt encore ceux de V. M. I.</p>
+   <closer><signed>Je suis pour la vie avec les sentiments de la plus haute considération, de l’attachement et de
+    l’amitié la plus inviolable ....</signed></closer>
+  </body>
+ </text>
+</TEI>

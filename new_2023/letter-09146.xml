@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09146</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09146</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p>I did not find any information that would help to identify this note. However, among Khrapovitskii's paper apperently there was a certain "Собственноручное письмо императрицы къ графу М. И. Воронцову, по поводу представленной имъ челобитной тверских граждан 3-го іюля 1766 года". This event seems to be far away in time from Khrapovitskii's office as Catherine's secretary but maybe the request was only proceeded after Khrapovitskii became Catherine's secretary</p>
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-07">2023-07-07</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09146"> 
+        <body>
+            <p>Напишите письмо к <placeName ref="places.xml#tve01">Тверскому</placeName> воеводе, или к <placeName ref="places.xml#nov01">Новгородскому</placeName> губернатору, от имени моего, содержания такого, чтоб призваны были к воеводе <placeName ref="places.xml#tve01">Тверские</placeName> жители, кои подписали челобитную сию, и оная им именем моим была возвращена с тем, что как их просьбы ни воеводским позволением, ни губернаторским о их нуждах мнением, как попечителя, не провождаема, сверх того оная незаконным образом писана и минуя порядок до моих рук дошла, я приказала, наддрав оную, им возвратить.
+                <note type="editorial">
+                     The note is not dated (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        , <biblScope unit="pp">pp. 61.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

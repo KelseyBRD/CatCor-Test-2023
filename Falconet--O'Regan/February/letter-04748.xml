@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04748</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04748</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#painting"/>
+                </keywords>
+
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Haussay mentioned once in letter 35 by Falconet, but unable to find a full name.
+                    Kelsey: likewise unable to identify. Leave query for future research</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:08:15Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-05-04">04/05/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Markup corrected. Unable to resolve
+                query.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04748">
+        <body>
+
+
+            <p>Dès que <persName ref="people.xml#hau02">M. de Haussay</persName><note
+                    type="editorial">Falconet had forwarded to Catherine a letter from M. de Haussay
+                    on 24 September 1768.</note> ne veut point de mon service ni d’aucun autre, vu
+                son serment et le peu d’envie de s’expatrier, je ne saurais lui être utile, je ne
+                connais ici aucune maison où il pourrait trouver son compte. Je vous renvoie la
+                suite du <rs ref="works.xml#zapata01"> Zapata</rs> que j’ai enfin retrouvé. Je suis
+                tentée de croire que vous me donnez vos lettres à lire pour que je ne croie pas
+                qu’elles contiennent des affaires d’Etat, n’allez pas me supposer les principes de
+                la République de <placeName ref="places.xml#ven01"> Venise</placeName>, je n’aime ni
+                    <orgName ref="orgs.xml#inqu01">l’inquisition spirituelle</orgName> ni la
+                politique. <rs ref="works.xml#bruehl01">Mes tableaux</rs> sont bien beaux; quand
+                vous plaira-t-il de les venir voir?</p>
+            <closer>
+                <dateline>Vendredi au matin. <handShift new="people.xml#fal01"/><date
+                        when-custom="1768-09-25">25 Septembre 1768</date>.<note type="editorial"
+                        >Falconet added the date in pencil.</note></dateline>
+            </closer>
+        </body>
+    </text>
+</TEI>

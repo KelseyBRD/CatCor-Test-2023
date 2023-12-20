@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04811</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04811</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-05">05/03/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:08:40Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04811">
+  <body>
+ 
+   <opener><salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>.</salute></opener><p rend="inline">
+     Enfin, à force de vider des poches, j’ai retrouvé la lettre de <persName
+     ref="people.xml#coc02"> Cochin</persName> que vous m’avez envoyée. Je suis avec lui et vous
+     de l’avis qu’il ne pouvait pas s’adresser mieux pour la maison antique qu’il ne l’a fait; ce
+     Mr. <persName ref="people.xml#cle01"> Clérissau</persName>
+    paraît avoir toutes les qualités requises pour exécuter à ravir le projet de la maison
+     antique dont j’ai la fantaisie, et pour laquelle il peut être sûr qu’il n’y aura pas de
+     concours. N’est ce pas assez que de faire une folie? Faut-il encore rendre cette folie
+     publique? Je vous recommande deux choses, Monsieur 
+    <persName ref="people.xml#fal01"> Falconet</persName>. La première de tâcher de savoir
+     environ le temps où ces dessins pourront être achevés. La seconde, à quel prix à peu près on
+     les pourra avoir; ceci, vous le traiterez, s’il vous plaît, avec toute la décence convenable.
+     Je m’en rapporte à vous, à condition que vous n’y mettrez point d’humeur, de ce que par deux
+     fois vous vous êtes heurté contre deux énormes paquets, qu’on m’avait apportés à lire, quelques
+     moments avant qu’on vous eût annoncé, on m’a dit, qu’hier encore vous vous êtes présenté, mais
+     ceci je ne l’ai appris qu’une heure après que vous vous étiez retiré, et par conséquent je m’en
+     lave les mains. Je vous prie de me dire si vous connaissez un Mr. <persName
+     ref="people.xml#dew01"> de Wailli</persName> dont je viens de recevoir un pavillon de
+     jardin qui me plaît beaucoup. A vous dire la vérité, je ne me soucie point des ouvrages de
+     <persName ref="people.xml#lou11"> Loutherbourg</persName> si cette fantaisie me prend,
+     je lui en ferai parler par mon ministre à <placeName ref="places.xml#lon01">
+      Londres</placeName>. Je pense qu’à présent, votre <rs ref="people.xml#fal02">
+     fils</rs> a tout ce qu’il lui faut pour mon portrait; </p>
+   <closer><signed rend="inline">bonjour, Monsieur, portez-vous bien. </signed>
+   <dateline>(Vendredi, à sept heures du matin).</dateline></closer>
+  </body>
+ </text>
+</TEI>

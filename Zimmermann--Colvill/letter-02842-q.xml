@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02842</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02842</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not identify Zainali Assan Beglerbey d’Anadolie</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:32:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02842">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1789-09-25">25. Septembre 1789</date> à <placeName
+      ref="places.xml#pet01">St. Petersbourg.</placeName></dateline></opener>
+   <p>Le 25. Septembre il est arrivé de la part du Maréchal Prince <persName
+     ref="people.xml#pot01">Potemkin Tawritchesky</persName> le Colonel <persName
+     ref="people.xml#zub03"> Zoubof</persName>, qui a apporté les nouvelles suivantes datées du 16.
+    Sept, du quartier Général à <placeName ref="places.xml#cau01"> Kauchan</placeName> à 20 werstes
+     de <placeName ref="places.xml#ben01">Bender</placeName>. Le 7. Sept, le Brigadier <persName
+     ref="people.xml#orl02"> Orlof</persName> a battu près de la rivière Saltcha l’avant-garde
+     d’<persName ref="people.xml#cez01"> Assan Pascha</persName> consistant en cinq mille Turcs,
+    auquel combat <persName ref="people.xml#cez01"> Assan Pacha Seraskier</persName> ci devant
+    Capitan Pacha a assisté en personne. Le 8. Sept, à l’approche des troupes Russes <persName
+     ref="people.xml#cez01"> Assan Pacha Seraskier</persName> abandonna son camp et ses canons et
+    s’enfuit à <placeName ref="places.xml#izm01"> Ismail</placeName>, et camp et canons tombèrent
+    entre les mains des troupes Russes, commandées par le Prince <persName ref="people.xml#rep01">
+     Repnin</persName>. Le 11. Sept, le Général <persName ref="people.xml#suv01">
+     Souvorow</persName> et le <persName ref="people.xml#jos03"> Prince de <placeName
+      ref="places.xml#sax01">Saxe</placeName>-Coburg</persName> près de <placeName
+     ref="places.xml#foc01"> Fokchan</placeName> battirent à plate couture l’armée Turque, commandée
+    par le <persName ref="people.xml#cen01"> Grandvisir</persName> lui même; 80 canons, 50 drapeaux,
+    tout le camp et bagage Turque tomba entre les mains des troupes combinées de <persName
+     ref="people.xml#jos01"> l’Empereur</persName> et de la <placeName ref="places.xml#rus01"
+     >Russie</placeName>; en compte la perte des Turques jusqu’à six mille hommes de tués, Le 21.
+    Sept, le <persName ref="people.xml#cez01"> Seraskier Assan Pacha</persName> s’enferma
+     dans <placeName ref="places.xml#izm01"> Ismail</placeName>, qui est fortifié par des
+    retranchements. Le 13. Sept, près de <placeName ref="places.xml#cau01"> Kauchan</placeName> le
+    Pacha à trois queues Zainali Assan Beglerbey d’Anadolie a été fait prisonnier après que le corps
+    qu’il commandoit eut été battu: son camp et ses canons pris par le corps au commandement du
+     <persName ref="people.xml#vic01"> Prince d’Anhalt Bernbourg</persName> Lieutenant Général. Le
+    14. Sept, le chateau <placeName ref="places.xml#kha01"> d’Adgibey</placeName> a été emporté par
+    le <persName ref="people.xml#rib01"> Général Major Ribas</persName>. Les détails de tout ceci
+    nous parviendront après; en attendant nous chanterons demain le Te Deum aux sons des cloches et
+    des canons.</p>
+   <p>J'ai reçue, Monsieur, votre lettre du 8. Sept. n. st. et celles du 18. Avril et 12. Juin, qui
+    bien loin de me déplaire m’ont fait grand plaisir. Je vous envoyé les nouvelles qui me viennent
+    de la guerre, parcequ’il m’a paru, que vous les désiriés. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02931</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02931</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">N.b inclusion.</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Double check encoding of Potemkin (as
+     the correct Potemkin) and that Otchakoff is referring to Ochakov as a place (re. Siege of
+     Ochakov led by Potemkin in 1788) </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-01">01/04/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-04-09T08:30:27Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-09">09-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02931">
+  <body>
+   <p>Monsieur le <persName ref="people.xml#nas01"> Vice-Amiral Prince</persName> de <placeName
+     ref="places.xml#nas01"> Nassau-Siegen</placeName>. Les petites précautions, contribuent
+    quelquefois à préserver la santé, je souhaite de tout mon coeur, que la vôtre ne souffre pas du
+    temps rigoureux de l’équinoxe, c’est pourquoi je vous envoie deux robes de chambre, semblables à
+    celles, que j’ai fait passer l’année dernière au Maréchal Prince <persName
+     ref="people.xml#pot01"> Potemkin</persName>, devant <placeName ref="places.xml#och01">
+     Otchakoff</placeName> et qui lui ont fait grand bien, à ce qu’il m’a dit lui même. </p>
+   <closer><signed rend="inline">Adieu, portez vous bien.
+   <persName ref="people.xml#cat01"> Catherine.</persName></signed>
+   <dateline>A <placeName ref="places.xml#pet01">
+     St.-Pétersbourg</placeName>, ce <date when-custom="1789-09-02">2 Sep. 1789</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

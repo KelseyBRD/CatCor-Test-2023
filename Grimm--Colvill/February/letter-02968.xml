@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02968</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02968</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:47:35Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02968">
+  <body>
+
+   <opener><dateline> Réponse au No 16 de 16 mars, ce <date when-custom="1775-04-07">7 d’avril 1775</date>,
+    à <placeName ref="places.xml#mos01">Moscou</placeName>, assise entre trois portes et trois fenêtres, un mardi <seg xml:lang="de">von der Charwoche</seg></dateline></opener>
+   <p>Ne vous en déplaise, je fais mes dévotions; je les ai commencées hier en assistant à la
+    cuisson des saintes huiles. Or, comme c’est un baume et encore un baume saint, si vous voulez je
+    vous en enverrai, monsieur, pour vous guérir de différents maux, et entre autres de celui du
+    boyau fêlé: du moins souhaiterais-je beaucoup qu’il fît ce miracle, mais il vous faudrait un
+    grain de moutarde de foi, chose que je désespère de trouver dans un hérétique que <persName
+     ref="people.xml#lut01"> Luther</persName> a défoiisé.</p>
+   <p>Eh! s’il vous plait, de quoi vous récriez-vous si fort sur ce que je vous ai écrit de la route
+    et en débarquant ici? C’était vraiment le bon temps pour des réponses; j’avais tout le temps
+    nécessaire pour vous faire de longues réponses au moins, si elles n’étaient pas bonnes. Mais, à
+    propos de cela, je vous fais mille remercîments pour vos pruneaux de Tours, dont j’ai reçu une
+    corbeille et que je mange en me promenant dans ma chambre. Vous trouverez que cela encore ne
+    ressemble à rien, mais c’est que vous autres, habitants de <placeName ref="places.xml#par01">Paris</placeName>, vous êtes
+    formalistes sur toutes les misères. Tenez, vous voilà grondé d’avance sur ce que vous pourriez
+    dire un jour. Barbouillez, barbouillez mon portrait, à la bonne heure: je ne m’en fâcherai pas
+    plus qu’à <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>. Vous ne direz pas du moins que je suis paresseuse, car
+    j’ai déjà griffonné quatre manifestes depuis que je suis ici, dont l’un, accompagné de quarante
+    sept points, en me privant d’un, million et demi de roubles de revenu, fera époque pour bien des
+    choses, dont il serait furieusement long de vous entretenir en détail. Un autre manifeste
+    fournit un million et demi à un pour cent, pour dix ans, aux familles ruinées par feu le
+    marquis). Tout cela serait trop long à vous détailler; j’aime mieux vous dire que mademoiselle
+    Mimi et <persName ref="people.xml#tho01">M. Thomas</persName> sont couchés de bonne amitié là, derrière moi sur mon lit. Cette
+    demoiselle m’est venue du <persName ref="people.xml#rep01"> pr. Repnine</persName>, qui l’aime à
+    la folie, et pour lui donner un bon gîte pendant son ambassade, il me l’a confiée. Vous
+    conviendrez qu’il sait parfaitement bien placer son monde, et cette Mimi vit dans une parfaite
+    harmonie avec les <persName ref="people.xml#tho01"> Thomas</persName>, que tout le monde
+    recherche depuis que leur multiplication en permet la distribution.</p>
+   <p>Vous vous êtes trompé, monsieur, en supposant que votre lettre ne me ferait pas rire, car j’ai
+    éclaté à différentes reprises, et l’article qui regarde Jules et son calendrier a produit cet
+    effet tout au long. Puisque vous me parlez des fêtes de la paix, écoutez un peu ce que je m’en
+    vais vous en dire, et ne croyez pas un mot de ce que les gazettes vous content de ridicule. On
+    avait fait un projet, qui ressemblait à toutes les fêtes: temple de Janus, temple de Bacchus,
+    temple du diable et de sa grand’mère et des allégories insupportables et bêtes, parce qu’elles
+    étaient gigantesques et que c’étaient des efforts de génie pour n’avoir pas le sens commun. Fort
+    en colère de tous ces grands et beaux projets, dont je ne voulais pas, un beau matin je fais
+    appeler M. Bajénof, mon architecte, et lui dis: «Mon ami, il y a à trois verstes de la ville un
+    pré; imaginez-vous que ce pré est la <placeName ref="places.xml#bla01"> Mer Noire</placeName>,
+    que de la ville on y arrive par deux chemins; eh bien, un des chemins sera le Tanaïs, l’autre le
+    Boristhène; à l’embouchure du premier vous bâtirez une salle de banquet, que vous
+    appellerez Azof ; à l’embouchure de l’autre vous bâtirez un théâtre, que vous nommerez Kinbourn.
+    Vous tracerez avec du sable la péninsule de la <placeName ref="places.xml#cri01">Crimée</placeName>, 
+    vous y placerez Kertch et Yénicalé, comme salles de bal; à la gauche du Tanaïs
+    vous placerez des buffets de vin et de viande pour le peuple; vis-à-vis de la <placeName ref="places.xml#cri01">
+    Crimée</placeName> vous ferez des illuminations, qui représenteront la joie de deux empires sur le
+    rétablissement de la paix; au delà du <placeName ref="places.xml#dan01">Danube</placeName> vous placerez le feu d’artifice, et
+    sur le terrain qui est sensé être la <placeName ref="places.xml#bla01"> Mer Noire</placeName>
+    vous placerez et vous sèmerez des barques et vaisseaux, illuminés; vous garnirez les bords des
+    rivières qui vous servent de chemins, de paysages, moulins, arbres, maisons illuminées, et voilà
+    que vous aurez une fête sans imagination, mais peut-être aussi belle que bien d’autres et
+    beaucoup plus naturelle. Mon homme, enchanté de cette idée, tout de suite la saisit, et voilà la
+    fête qui se prépare. J’ai oublié de vous dire qu’à la droite du Tanaïs il y aura une foire
+    baptisée du nom de Taganrog; voyez un peu, vous, critiqueur de profession, si cela est vilain;
+    il est vrai que la mer en terre ferme n’a pas tout à fait aussi le sens commun, mais passez-
+    nous ce défaut, et tout le reste sera très supportable, et l’espace et la nuit rendront cela,
+    j’espère, agréable, du moins autant que tous ces fichus temples de divinités qui m’ennuient et
+    m’excèdent, et au reste nous imitera qui pourra. </p>
+   <closer><signed rend="inline">Adieu, monsieur, en voilà assez pour aujourd’hui. Je n’ai pas grande
+    opinion du dessin de <persName ref="people.xml#van03"> Vanloo</persName>, et je ne l’achèterai
+    pas. J’attendrai votre description des <title ref="works.xml#tablea01"> tableaux
+     d’Huber</title>, et je vous en remercie d’avance, de même que de toutes les marques d’attachement
+    que vous voulez bien me donner. J’ai reçu de <placeName ref="places.xml#fer01">Ferney</placeName>, d’ <rs ref="people.xml#vol01"
+     > un prétendu jeune homme de dix-huit ans</rs>, la <title ref="works.xml#donped01">
+     tragédie de Pierre-le-Cruel avec des notes où les Nonnotte, les Fréron etc.</title> sont drapés
+    comme à l’ordinaire et où bien des gredins sont loués, je pense, pro forma.</signed></closer>
+  </body>
+ </text>
+</TEI>

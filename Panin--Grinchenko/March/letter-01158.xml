@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01158</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01158</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-18"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01158">
+        <body>
+
+            <opener><dateline>Из <placeName ref="places.xml#kaz01">Казани</placeName>.<lb/>
+                <date when-custom="1767-05-26">Мая 29 ч., 1764 г.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Вечеру вчерась я получила Ваше письмо, отъ 24 Маия, и упрямством Господина <persName
+                    ref="people.xml#ela01">Елагина</persName> к Вам вчера не отправлен куриер. Еще я
+                не означила дня моего отселе отъезда: нам здесь весьма хорошо, и истинно как дома.
+                Скажите <persName ref="people.xml#pan02">брату</persName> Вашему, что вчерась я была
+                в здешнем девичьем монастыре, где у ворот встретиле меня его дедушка, <persName
+                    ref="people.xml#kud01">Кудрявцев</persName>, и так мне обрадовался, что почти
+                говорить не мог; я остановилась и с ним начала говорить, и он мне сказывал, что он
+                очень слаб и почти слеп, и как он головою все подвигался, чтоб меня видеть, то и я
+                гораздо к нему подвинулась, чем он казался весьма довольным; он уже ни ходить, ни
+                одеваться не может, его водят.</p>
+            <closer rend="inline"><persName ref="people.xml#pau01">Сыну</persName> моему прошу
+                кланяться и желаю Вам обоим здравствовать.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

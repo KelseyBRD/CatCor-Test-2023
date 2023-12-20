@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02942</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02942</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-14">14/03/2021</date><persName>Gabriel O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-16T13:34:22Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-16">16-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02942">
+  <body>
+
+   <opener><dateline> 9-eme. ce <date when-custom="1765-05-17">17 May 1765</date>.</dateline></opener>
+   <p><hi rend="italic">Oui Vous avés raison il ni a rien de si bien dit et de si delicatement
+     pensé</hi> hé bien etes Vous contente, mon amie, mais savés Vous bien que Vous me traités
+     cruellement, en me faisant ainsi violence et m’obligeant a me louer, Vous me donés un ridicule
+     singulier, mais enfin j’ai passé par la, car que ne fait on pas pour ses amis; Je crains que
+     Vous ne me grondiés pour ses belles reflexions; je ne veux pas aussi que Vous me croyés indigne
+     de les avoir dites, et ceçi les louë peut être plus que touttes Vos violences. Savés Vous bien
+     que je commence a Vous croire beaucoup d’ascendant sur moi, Vous me faite faire tout ce que
+     Vous voulés et je n’ose quasi repliquer, mais treve de bavardage, je m’en vais repondre a Votre
+     charmante lettre du 17 avril commençant par le commencement apres avoir repondu a la fin qui
+     étoit le plus important; sentés un peu combien je souhaite Votre estime par cet
+     échantillon.
+   </p>
+   <p>Ma bonne Amie, jouissés de Votre titre et dites moi bien a Votre aise tout ce que Vous
+     jugerés a propos sans aucune aprehension, la Majesté ce range de coté quand il le faut, par la
+     raison que chaque chose pour etre bien, doit etre a sa place, et que hors de la ordinairement
+     elle est mal. Madame je Vous l’ai dit et je Vous le repete que le 
+    <rs ref="people.xml#bet01"> General</rs> est maitre d’aller de venir de rester et de faire
+     tout ce qu’il lui plaira, voila tout ce que je puis Vous dire sur son compte, si j’y ajoutois
+     un mot de plus je le generois, s’est ce que je ne veut pas.</p>
+   <p>Sur M-r <persName ref="people.xml#gri01"> Grimm</persName> je Vous dirai que j’aime beaucoup les feuilles qu’il m’envoye,
+     il n’a qu’a continuer comme il a fait jusqu’içi et a laisser aller librement sa plume, je suis
+     bien aise que son caractère soit tel que Vous me le dépeigné cela ne donne pas peu de relief
+     aux jugemens qu’il porte des choses et des livres, j’en aurai encore plus de plaisir a le lire,
+     il ma ecrit une lettre charmante sur l’Histoire de <persName ref="people.xml#did01"> Diderot</persName>, je vois qu’il est bon
+     de faire plaisir au gens d’esprit, la tournure qu’ils donnent aux choses souvent en fait le
+     prix, ce que j’aime le plus dans cette avanture s’est que mon amie est contente de ma conduite,
+     et par consequent 
+    <hi rend="italic">et moi aussi, ce et moi aussi </hi>n’est pas un des moins agreables
+     endroit de Votre lettre. Vous aurés Madame des <hi rend="italic">et moi
+     aussi</hi> tant et plus, s’est un tres grand plaisir pour moi de recevoir de Vos lettres et
+     d’y repondre; je dois depuis fort longtems une lettre a M-r
+    <persName ref="people.xml#ale06"> d’Alembert</persName>, je Vous prie Madame de lui dire que
+     je lui enverrés dans peu un cahier dans lequel il verra a quoi peuvent servir les ouvrages des
+     hommes de genie quand on veut bien en faire usage, et j’espere qu’il en sera content quoique la
+     plume en soit novice, mais je repond de l’execution en pratique. 
+   </p>
+   <closer><signed rend="inline">Adieu Madame quelque envie que j’aie de m’entretenir avec Vous, il faut
+    que je cesse aujourd’huy n’ayant que le tems de Vous embrasser.</signed></closer>
+  </body>
+ </text>
+</TEI>

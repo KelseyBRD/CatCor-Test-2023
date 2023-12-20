@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02648</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02648</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml.#prussia"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-06-27">27 June 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02648">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg</placeName>,
+                                <date when-custom="1764-10-04">ce 4 d'Octobre
+                            1764</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère</salute></opener>
+                    <p>La sincérité que je suis accoutumée d'avoir avec Votre Majesté, celle qu'Elle
+                        m'a témoignée en toute occasion, me fait écrire aujourd'hui à Votre Majesté.
+                        Elle ne s'est point trompée sur le voyage de <persName
+                            ref="people.xml#con01">M. de Conflans</persName>, je viens d'apprendre
+                        qu'il prend sous main à <placeName ref="places.xml#war01"
+                            >Varsovie</placeName> le ton de négociateur, qu'il vise à être
+                        médiateur, et à faire avoir au <persName ref="people.xml#jos02">prince
+                            Charles de Saxe</persName> un établissement en <placeName
+                            ref="places.xml#pol01">Pologne</placeName>, enfin qu'il fourmille de
+                        beau projets dans ce goût là, qui cependant ont un petit défaut: c'est que
+                        je ne les trouve pas du mien. Je ne relèverai point les premiers, ils
+                        tomberont j'espère d'eux mêmes, mais je me suis proposé de parler de ce
+                        dernier à Votre Majesté: hors qu'il serait fort peu convenable que la
+                            <placeName ref="places.xml#pol01">République</placeName> songeât à
+                        former un établissement au <persName ref="people.xml#jos02">prince de
+                            Saxe</persName>, tandis qu'elle n'a pas encore pensé à donner de quoi
+                        subsister à son roi; cet établissement en <placeName ref="places.xml#pol01"
+                            >Pologne</placeName> en lui même ne peut-être que nuisible à la bonne
+                        cause; ce <persName ref="people.xml#jos02">prince Charles</persName> serait
+                        toujours un point d'appui pour tout mécontent ou factieux, et l'attention
+                        serait en quelque façon partagée. Ne serait-ce aussi que l'intérêt du repos
+                        du <persName ref="people.xml#bir02">duc de Courlande</persName> et de son
+                        pays qui en souffrit, je m'y opposerai, parceque je suis obligée de soutenir
+                        ce que j'ai commencé; outre cela quand j'ai proposé au feu <persName
+                            ref="people.xml#aug03">roi de Pologne</persName> la sécularisation de
+                        quelques évêchés <placeName ref="places.xml#ger01">d'Allemagne</placeName>,
+                        pour servir de dédomagement à son fils, il ne m'a pas même répondu, et
+                        aujourd'hui je verrai négocier par la <placeName ref="places.xml#fra01"
+                            >France</placeName> et <placeName ref="places.xml#aus01"
+                            >l'Autriche</placeName> à sa suite, un établissement aussi peu
+                        convenable pour le présent que la perspective en est nuisible. Difficilement
+                        et Votre Majesté et moi pourrions à l'avenir mettre un frein aux factions,
+                        aux intrigues qui en résulteraient, et si nous y consentions nous gâterions
+                        ce que nous avons si heureusement conduit jusqu'ici. J'espère de l'amitié de
+                        Votre Majesté, et de sa façon d'agir jusqu'à présent, qu'Elle voudra bien se
+                        joindre à moi, pour empêcher ces projets, qui ne visent qu'à ramener dans la
+                        maison de <placeName ref="places.xml#sax01">Saxe</placeName> la couronne de
+                            <placeName ref="places.xml#pol01">Pologne</placeName>, et à la rendre
+                        héréditaire, ce qui serait contraire au traité qui subsiste heureusement
+                        entre Votre Majesté et moi, j'ai et j'aurai en tout temps en vue d'écarter
+                        tout ce qui pourrait<note type="editorial">Corrected from source text, which
+                            reads "pourrai".</note> porter même dans le lointain atteinte à ce
+                        traité, et c'est pour cela que je La prie de vouloir bien coopérer avec moi:
+                        qu'en cas qu'il soit reconnu aussi nécessaire, qu'il serait juste de donner
+                        un établissement au <persName ref="people.xml#jos02">prince
+                            Charles</persName>, il n'en ait d'autre, que selon ce que j'ai proposé
+                        au feu roi son père; et pour mieux détacher les esprits des insinuations de
+                        nos envieux il serait très utile pour la bonne cause que les commandants des
+                        frontières évitassent tous<note type="editorial">Corrected from source text,
+                            which reads "tout".</note> les mésentendus du voisinage au moins,
+                        jusqu'à la diète de pacification. </p>
+                    <closer>
+                        <signed>Je suis, avec la plus haute considération et l'estime la plus
+                            parfaite, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

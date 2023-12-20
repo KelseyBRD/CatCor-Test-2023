@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02749</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02749</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#philosophes"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Notes to online edition say the date is a mistake and only shows the time of day. //
+     References to Georgova and General Olitz encoded, but unknown // Information in the locked
+     CatCor codes sheet ‘people’ – see #dol01 – needs more information re. Prince George Dolgoruky.
+     // </p>
+    <p>Kelsey: Dolgorukii query resolved and recoded below accordingly.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-19">19-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:25:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02749">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1771-04-01">1/11 d'Avril 1771</date></dateline></opener>
+   <p>Monsieur, Vos bénédictions me feront prospérer, malgré le grand froid, la guerre, <persName
+     ref="people.xml#mus01"> Moustapha</persName>, et son Eunuque noir. L'on Vous a dit vrai
+    Monsieur, un détachement de l'armé du Cte: <persName ref="people.xml#rum01">
+     Roumenzof</persName> a passé le <placeName ref="places.xml#dan01"> Danube</placeName>, et a
+    causé beaucoup d'effroi sur l'autre rive. Il est vrai aussi que Vos enemis les Turks ont été
+    chassé de la <placeName ref="places.xml#wal01"> Valachie</placeName>, il ne leur reste qu'un
+    seul endroit de ce côté çi du <placeName ref="places.xml#dan01"> Danube</placeName> nomé
+     <placeName ref="places.xml#tur02"> Turno</placeName>. Il y a eu un combat très vif à <placeName
+     ref="places.xml#geo02"> Georgova</placeName>, où deux mille Musulmans ont mordu la poussière et
+    quatre mille au moins ont été noyé dans le <placeName ref="places.xml#dan01">
+    Danube</placeName>, après quoi le Château qui est situé sur une Isle dans le <placeName
+     ref="places.xml#dan01"> Danube</placeName>, s'est rendu par capitulation au <persName
+     ref="people.xml#oli03"> Gl: Olitz</persName>. Le Sultan, très fâché de ses nouvelles pertes, et
+    ne sachant aparament à qui s'en prendre, a envoyé cherché la tête du gospodar in partibus: qu'il
+    fit l'année passée. Celui çi soit dit en passant a trouvée la <placeName ref="places.xml#wal01">
+     Valachie</placeName> presque entière entre nos mains.</p>
+   <p>On me confirme de toute part le bien que Vous me dites du nouveau <persName
+     ref="people.xml#gus01"> Roy de Suede</persName>, proches parent, proche voisins, il faut
+    espérer que nous viverons en paix. Vos montres serons les bien venuë, je les attend.</p>
+   <p><rs ref="people.xml#pic01"> L'ançien géant</rs> a sur son corps depuis cinq à six ans une
+    sentence pour contrebande, qui cependant n'a pas été mise en exécution dans toute la
+    rigueur.</p>
+   <p>Tout ce prépare pour Vous satisfaire et doner de la besogne au sultan. Le <persName
+     ref="people.xml#orl03"> Cte: Orlof</persName> qui étoit venu ici pour un moment est reparti
+    pour <placeName ref="places.xml#liv01"> Livourne</placeName> avec son <persName
+     ref="people.xml#dol03"> Pr: Dolgorouki</persName>, d'où ils s'embarqueront pour <placeName
+     ref="places.xml#par02"> Pares</placeName>. Les trouppes y campent et entre autre un gros
+    détachement du Régiment des gardes Preobrajenski. On ne sauroit ajouter Monsieur au sentimens
+    d'estime et d'amitié que j'ai pour Vous.</p>
+   <closer><signed><persName ref="people.xml#cat01"> Caterine</persName></signed></closer>
+  </body>
+ </text>
+</TEI>

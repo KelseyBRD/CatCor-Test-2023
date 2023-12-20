@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04767</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04767</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-23">23/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:50:57Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04767">
+  <body>
+   
+   <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>,
+     M-r
+    <persName ref="people.xml#koz02"> Kasitzki</persName> qui a fait la traduction latine, n’est
+     rien moins qu’entêté, il est doux et honnête, si M-r
+    <persName ref="people.xml#vil01"> du Villiers</persName> voulait bien honnêtement lui faire
+     remarquer les fautes d’impression ou celles qui se sont glissées dans sa traduction, je suis
+     persuadée qu’il les corrigerait de la meilleure volonté du monde. Si M-r
+    <persName ref="people.xml#vil01"> du Villiers</persName> ne veut point cela, il peut
+     m’envoyer ce qu’il trouve à redire ou à reprendre dans cette traduction et je le donnerai à
+     <persName ref="people.xml#koz01"> Kasitzki</persName> qui assurément ne se fera point
+     une affaire de corriger ce qu’il y a de défectueux, parce-que, je le répète, il est doux et
+     honnête.</p>
+  </body>
+ </text>
+</TEI>

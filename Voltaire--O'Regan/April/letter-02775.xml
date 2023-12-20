@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02775</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02775</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:33:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02775">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet02"> Peterhof</placeName> ce <date when-custom="1773-06-30">30 juin v: st: 1773</date></dateline></opener>
+   <p>Monsieur, Je prend la plume pour Vous doner avis que le Maréchal
+      <persName ref="people.xml#rum01"> Roumenzof</persName> a passé le
+      <placeName ref="places.xml#dan01"> Danube</placeName> avec son Armée le ii Juin v.
+     st: Le Général Baron <persName ref="people.xml#wei03"> Weissmann</persName> lui
+     n’etoya le chemin le premier en culbutant un corps de douze mille Turks. Les Lieutenant généraux <persName ref="people.xml#stu01">
+     Stoupichin</persName> et <persName ref="people.xml#pot01"> Potemkin</persName> en firent autant de leurs
+    côté; ceux ci pouvoit avoir à faire à dix huit ou vingt mille Musulmans, dont ils envoyèrent bon
+    nombre dans l’autre monde, pour en porter la nouvelles, à ses Dames polies de la part desqu’elles Vous m’avés dit tant de choses
+    flatteuses après les cinquantes deux accès de fièvre dont Vous Vous êtes à mon très grand
+    contentement aussi heureusement tiré qu’un jeune home de vingt ans. Chaque corps Turk nous a
+    laissé son Camp, son Artellerie, ses bagages. Voilà dont Votre cher <persName ref="people.xml#mus01">
+     Moustapha</persName> en train d’être joliment tapé de nouveau, après avoir négoçié et rompu
+    deux Congrès consécutifs et avoir jouï de diverses Armistices pendant près d’un ans. Cet honête
+    home là selon moi, ne sait point profiter des circonstances. Il n’est pas douteux que Vous serés
+    témoin oculaire de la fin de cette guerre. J’espère que le passage du <placeName ref="places.xml#dan01">
+     Danube</placeName> y contribuera. Il Vous donera de la joye, et rendra le sultan plus traitable,
+    après quoi nous laisserons bavarder les Welches. Leurs
+    nouvelles souvent, méritent peu d’attention. Ils ont débité que j’avois demandé trente mille
+    Tartares au Chan, et que celuiçi me les avoit refusé. Je n’ai jamais pensé à pareille absurdité,
+    et je doute fort que <persName ref="people.xml#pri01"> M<hi
+     rend="superscript">r</hi> de St: Priest</persName> l’aye mandé come on l’assure,
+    parceque comunément les Ambassadeurs sont sensé avoir au moins le sens comun.</p>
+   <p>Je dois ajouter au récit que je Vous ai faite du portail voûté élevé sur la glaçe, qu’on l’a
+    abbatu ce printems par curiosité, et qu’on a trouvé la glaçe fondue, par conséquent cette
+    manière de bâtir n’est pas solide, quoique cette porte aye existée plus de trois ans et ne
+    paroissoit point être endomagée.</p>
+   <p>Le froid qu’on a senti ici cet hiver a été moindre que celui de la
+      <placeName ref="places.xml#sib01"> Siberie</placeName> qui est monté à un degré
+     fabuleux et surtout à <placeName ref="places.xml#irk01"> Irkoutzka</placeName>. Je
+     seroit tenté de n’y ajouter pas plus de fois qu’au réçit d’<persName ref="people.xml#alg01">
+      Algaroti</persName> sur le <placeName ref="places.xml#gre02">
+      Grece</placeName>. Vous m’avés tiré d’erreur en quatre mots, me voilà
+     convaincue que ce n’est point en <placeName ref="places.xml#gre02"> Grece</placeName>
+     que les Arts ont été inventés, j’en suis fâchée, car j’aime les Grecs malgré tout leurs
+     défauts. Soyés assurés de tout les sentimens que Vous me conoissés pour Vous, conservés moi
+     Votre amitié, portés Vous bien et réjouissons nous ensemble du passage du
+      <placeName ref="places.xml#dan01"> Danube</placeName> qui ne sera pas plus imortel
+     que celui du <placeName ref="places.xml#rhi01"> Rhin</placeName> par
+      <persName ref="people.xml#lou06"> Louïs XIV</persName>, mais il est plus rare, les
+     Russes ne l’ayant franchi de huit cens ans à ce que disent nos Antiquaires.</p>
+  </body>
+ </text>
+</TEI>

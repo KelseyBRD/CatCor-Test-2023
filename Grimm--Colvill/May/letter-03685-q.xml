@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03685</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03685</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>The original of this letter contained gaps which are
+     represented below by large spaces. Emma: The spaces haven't come through in the xml. Will need to add if significant.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-05">05-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:58:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03685">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1793-11-19">19 nov. 1793</date>.</dateline></opener>
+   <p>Ayant vu par votre dernière du mois d’octobre la pénurie dans laquelle vous vous trouvez, vu
+    la perte que vous ont causée les scélérats régicides qui ont usurpé le pouvoir en <placeName ref="places.xml#fra01">
+    France</placeName> et qui en font un vaste désert, habité par les animaux les plus féroces qui aient jamais
+    souillé la terre, je vous envoie les trois lettres de change ci-jointes, comme une poire pour la
+    soif: l’une de douze mille roubles, l’autre de , la troisième de , le tout faisant vingt mille
+    roubles. Si vous allez à <placeName ref="places.xml#vie01"> Vienne</placeName> et que vous achetiez maison ou maison de campagne,
+    je vous en enverrai encore cinquante mille l’année qui vient. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien, j’en fais autant. Gardez tout ceci pour
+    vous.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01150</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01150</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01150">
+        <body>
+            <opener><dateline>На галере Тверь,<lb/>
+                <date when-custom="1767-05-17">Мая 17 числа, 1767.</date> Между <placeName
+                    ref="places.xml#kos01">Костромы</placeName> и <placeName ref="places.xml#kin02"
+                    >Кинешмы</placeName>.<lb/></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p> Перед обедом сегодня у <persName ref="people.xml#bib01">Александра Ильича
+                    Бибикова</persName> в деревне, где обедню слушала и обедала, получила я Ваше
+                письмо, от 15 числа, и с приложениями; кажется, не для чего запрещать известному
+                автору дедикацию, о коей просил. Депеши, как прочту, обратно к Вам отправлю оных.
+                Посланникам <orgName ref="orgs.xml#sluc01">Диссидентских Конфедераций</orgName>
+                можете сказать, что о их приезде я осведомилась с удовольствием, и что, по моем
+                приезде, до себя их допущу. <persName ref="people.xml#pot01">Великому
+                    Князю</persName> скажите, что я его письмо получила и, слава Богу, здорова;
+                сегодня <placeName ref="places.xml#kin02">Кинешму</placeName> проедим.</p>
+            <closer rend="inline">Прощайте, желаю Вам здравствовать. Скажите мне, что Министры Вам
+                скажут о их с нами путешествии.<lb/>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+            <postscript>
+                <p>Любопытна я знать, что в перлюстрации о том будет. Так, пожалуй, прикажите скорее
+                    Коллегии на мере положить то, что я пропонировала о таможенных процентах тем из
+                        <placeName ref="places.xml#kaz03">Киргиз-Кайсацких</placeName> улусов, кои
+                    провожать будут благополучно до <placeName ref="places.xml#ore01"
+                        >Оренбурга</placeName>
+                    <placeName ref="places.xml#buk02">Бухарские</placeName> караваны, ибо <placeName
+                        ref="places.xml#ore01">Оренбургской</placeName> Губернатор ко мне будет в
+                        <placeName ref="places.xml#kaz01">Казань</placeName>, а слышно, что опять
+                    ожидают каравана вскоре.</p>
+                <signed><persName ref="people.xml#cat01">Екатерина.</persName></signed>
+            </postscript>
+
+        </body>
+    </text>
+</TEI>

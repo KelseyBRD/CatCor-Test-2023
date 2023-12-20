@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09009</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09009</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+
+                <keywords n="culture">
+                    <term target="kw.xml#reading"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#legislation"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#moscow"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09009"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1785-12-12">1785 г. 12 декабря</date>.
+                </dateline>
+            </opener>
+            <p>Вопросы: 1. Имела ли вотчина и обе юстиц-коллегии утверждение или проектированные наказы, как <orgName ref="orgs.xml#magi01">главный магистрат</orgName> имел. 2. При учреждении <orgName ref="orgs.xml#magi01">главнаго магистрата</orgName> издано было <persName ref="people.xml#pet01">Петром Первым</persName> о сем обширное <rs ref="works.xml#reglam01">издание</rs>, которое на <placeName ref="places.xml#mos01">Москве</placeName>, между моими бумагами, в 1774 и 1775 г., находилось. <rs ref="works.xml#reglam01">Оное</rs> прошу отыскать. Помнится, заглавие его: <title ref="works.xml#reglam01">Регламент <orgName ref="orgs.xml#magi01">главнаго магистрата</orgName></title>. 3. Обряд, какой наблюдается при отказе кем недвижимаго имения,— сей требовать откуда надлежит? Также требует объяснения, чего судебное место разумеет точно под словом: <hi rend="italic">справлено</hi> и под словом: <hi rend="italic">отказано</hi>, и есть ли на каждое из тех слов утвержденной или обычной обряд, и требуется точное и подробное описание утвержденнаго или обычнаго обряда того.</p>
+        </body>
+    </text>
+</TEI>

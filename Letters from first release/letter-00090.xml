@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00090</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00090</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                    <term target="kw.xml#sweden"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#frenchrevolution"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-22">22 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, annotation, translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00090">
+                <body>
+                    <opener>
+                    <salute rend="inline">Monsieur le prince de Ligne.</salute></opener>
+                    <p> Je suis enchantée, comme vous le jugez bien de vous savoir à et dans
+                            <placeName ref="places.xml#bel01">Belgrade</placeName>, vous vous
+                        souviendrez s'il vous plaît, que mon ardent désir, dès le commencement de
+                        cette guerre fut toujours, que cette place tombât entre les mains de <rs
+                            ref="people.xml#jos01">mon ami et allié</rs>, je crois vous l'avoir
+                        répété au moins vingt fois. J'aime le <persName ref="people.xml#lau01"
+                            >maréchal Laudon</persName> de tout mon cœur pour <rs
+                            ref="events.xml#belgr01">cette conquête</rs>, et je vous fais mon
+                        compliment sur la manière dont vous vous y êtes distingué, par conséquent
+                        votre lettre mon prince datée de <placeName ref="places.xml#bel01"
+                            >Belgrade</placeName> m'a fait le plus grand plaisir, je trouve cette
+                        date charmante et je n'en connais qu'une qui serait plus belle encore.<note
+                            type="editorial">Presumably <ref target="places.xml#ist01"
+                                >Constantinople</ref>.</note> Mais dites-moi un peu qu'est-ce que
+                        disait <persName ref="people.xml#boi01">Boileau</persName> et ce <rs
+                            ref="people.xml#lou06">grand roi</rs> auquel <persName
+                            ref="people.xml#boi01">Boileau</persName> disait <rs
+                            ref="works.xml#epitre01">« cesse de vaincre ou je cesserai d'écrire
+                            »</rs>[.]<note type="editorial">The Prince de Ligne opened his letter of
+                            8 October 1789 with the lines: 'Je ne dis pas, comme Boileau, <hi
+                                rend="italic">Grand Roi, cesse de vaincre ou je cesse d'écrire</hi>.
+                            Mais je dirai au contraire à Votre Majesté Impériale, <hi rend="italic"
+                                >grand roi, continuez à vaincre, et en faveur de tant de gloire, et
+                                au milieu de tant de beaux moments, grand roi, vous me permettrez de
+                                vous écrire</hi>' ('I will not say, like Boileau, <hi rend="italic"
+                                >Great King, cease winning or I will cease writing</hi>. But I will
+                            say to Your Imperial Majesty, on the contrary, <hi rend="italic">great
+                                king, continue winning and, in view of so much glory and amidst so
+                                many beautiful moments, great king, you will permit me to write to
+                                you</hi>') (<bibl><title ref="works.xml#corres02">Correspondances
+                                    russes</title>, <biblScope unit="vol">i</biblScope>, <biblScope unit="pp">p. 158</biblScope></bibl>). The quote is the first
+                            line of <ref target="people.xml#boi01">Nicolas Boileau-Despréaux</ref>'s
+                                <title ref="works.xml#epitre01">Epistle VIII</title>, 'Au roi' ('To
+                            the King'), of 1678 (published 1683).</note> S'ils ressuscitaient tous
+                        deux au milieu de <placeName ref="places.xml#par01">Paris</placeName> dans
+                        ce moment-ci et qu'ils vissent <rs ref="events.xml#frenc01">tout ce qui s'y
+                            fait</rs> et les horreurs du <rs ref="orgs.xml#nati01">règne
+                            national</rs>? Ne le voilà-t-il pas le <rs ref="works.xml#membre01"
+                            >conte des membres révoltés contre l'estomac</rs> mis en action... Les
+                        compliments de condoléances que vous me faites sur les victoires remportées
+                        par le <rs ref="people.xml#gus01">roi de Suède</rs> par mer et par terre, je
+                        les reçois volontiers, et qui plus est j'espère avec l'aide de Dieu et
+                        connaissance de cause que vous ne m'en ferez jamais d'autres pour ce qui se
+                        passera de ce côté-là. Le <rs ref="people.xml#nar02">grand écuyer</rs>,
+                        comme pendant ne figurerait pas mal à côté du <rs ref="people.xml#cha01">duc
+                            de Sudermanie</rs> sur mer et le <persName ref="people.xml#emo01"
+                            >chevalier Emo</persName> tout Italien qu'il est n'en aurait qui est
+                        plus, aucune jalousie.<note type="editorial">De Ligne in his letter of 8
+                            October suggested that Catherine could best defeat the Swedes by putting
+                                <ref target="people.xml#nar02">Lev Naryshkin</ref> to sea like the
+                            knight of Emo ('le grand écuyer, en pleine mer, comme le chevalier
+                            Emo')</note> Les farces héroïques du <rs ref="people.xml#gus01">roi de
+                            Suède</rs> sont sans nombres et elles pourraient fournir des canevas
+                        superbes pour plus d'un <rs ref="works.xml#gorebo01">opéra comique</rs>.
+                        Pour <persName ref="people.xml#pot01">mon prince Potemkin</persName> qui va
+                        de conquêtes en conquêtes, je suis très persuadée qu'il nous mettra encore à
+                        deux genoux dans un Te Deum avant que l'année finisse. La conduite du <rs
+                            ref="people.xml#suv01">comte à la fois des deux Empires</rs>, qui va à
+                        une invitation de bataille comme on va à un déjeuner,<note type="editorial"
+                            >De Ligne described <ref target="people.xml#suv01">Suvorov</ref> thus in
+                            his letter of 8 October.</note> et celle du <persName
+                            ref="people.xml#cob01">maréchal prince de Cobourg</persName>, lequel
+                        attribue tout le succès de la déconfiture du <rs ref="people.xml#cen01"
+                            >Grand Vizir</rs> et de son armée au <persName ref="people.xml#suv01"
+                            >général Souvorow</persName>, fait un égal honneur à l'intégrité de cœur
+                        de ces deux loyaux et illustres chevaliers, que le Ciel bénisse un aussi bel
+                        exemple, et fasse prospérer l'union intime en tout lieu des employés des
+                        deux empires alliés. C'est alors que vous aurez, non une bête, mais des
+                        troupeaux de bachas, ni grillés ni frits comme des anguilles, mais étrillés
+                        à votre gré pour peu que le Dieu des armées donne son appui à notre juste
+                            cause.<note type="editorial">De Ligne wrote in his letter of 8 October,
+                            'Je viens de faire la connaissance de la première bête des bashas et de
+                            1000 Turcs de sa société, que j'ai un peu grillés' ('I have just become
+                            acquainted with the first beast of the pashas and of the 1000 Turks in
+                            his society, whom I grilled a bit') (<bibl><title
+                                    ref="works.xml#corres02">Correspondances russes</title>,
+                                    <biblScope unit="vol">i</biblScope>, <biblScope unit="pp">p.
+                                    159</biblScope></bibl>).</note> Si vous aviez vu l'<rs
+                            ref="people.xml#cat01">imperturbabilité</rs> agir au moment où le <rs
+                            ref="people.xml#gus01">roi de Suède</rs> passa avec tout ce qu'il avait
+                        de troupes en <placeName ref="places.xml#fin01">Finlande</placeName> l'année
+                        passée, je me flatte que vous auriez été content de <rs
+                            ref="people.xml#cat01">votre imperturbable</rs>, cet extemposé était
+                        très propre à développer les mouvements de l'âme et le savoir faire d'un
+                        chacun qui s'y serait trouvé employé. Ce ne sont pas assurément des autels,
+                        mais l'estime de gens de mérite que je désirerais, je vous prie de me
+                        conserver la vôtre j'en connais tout le prix de même que celui du souvenir
+                        que vous me témoignez du séjour que vous avez fait <rs
+                            ref="places.xml#pet01">céans</rs>, l'<placeName ref="places.xml#her01"
+                            >ermitage</placeName> a perdu quelques-uns de ses chalands, le <persName
+                            ref="people.xml#seg01">comte de Segur</persName> est retourné dans <rs
+                            ref="places.xml#fra01">son orageuse patrie</rs>, le <persName
+                            ref="people.xml#dmi01">comte Mamonof</persName> s'est marié et est allé
+                        demeurer à <placeName ref="places.xml#mos01">Moscou</placeName>, le
+                        perroquet bleu est mort de même que le <rs ref="people.xml#sha03">prince
+                            Chekofskoy</rs>, les autres domiciliés de l'<placeName
+                            ref="places.xml#her01">ermitage</placeName> se portent bien, il y a des
+                            <rs ref="people.xml#zub03">nouveaux venus</rs>[,] des nouveaux nés, qui
+                        ne manquent ni de qualité ni de mérite. Les grands officiers de la Cour
+                        deviennent cassés et valétudinaires comme il convient à leurs charges, il y
+                        en a quelques-uns d'entre eux qui font des prétentions à la gravelle, à
+                        l'apoplexie etc. etc. etc. La chambre des diamants est peu fréquentée. Les
+                        petites colonnes grandissent et embellissent en corps et en esprit.
+                        L'Écriture ne fait plus rire, ni pleurer depuis longtemps.<note
+                            type="editorial">In his letter, de Ligne reminisced about life at
+                            Catherine's Hermitage, concluding with reference to Catherine's joint
+                            literary activities with her circle: 'Heureuse l'écriture qui fait
+                            pleurer d'admiration, ou rire, ou enfin tout ce qu'on veut qu'elle
+                            fasse' ('Oh happy writing that makes people cry with admiration or laugh
+                            or really whatever one wants them to do') (<bibl><title
+                                    ref="works.xml#corres02">Correspondances russes</title>,
+                                    <biblScope unit="vol">i</biblScope>, <biblScope unit="pp">p.
+                                    160</biblScope></bibl>).</note></p>
+                    <closer><signed rend="inline">Adieu mon cher prince tartare portez-vous bien et
+                            soyez assuré de la continuation de mes sentiments d'estime et d'amitié
+                            pour vous.<persName ref="people.xml#cat01" type="signature" rend="right">Catherine</persName></signed>
+                        <dateline><placeName ref="places.xml#pet01" rend="left">À St.
+                                Petersb:</placeName>
+                            <date when-custom="1789-11-05">ce 5 novembre
+                        1789</date></dateline></closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">Sir, prince of Ligne.</salute></opener>
+                    <p>I am, as you might imagine, delighted to know that you are at and in
+                        Belgrade. You will remember, if you please, that it has been my constant and
+                        ardent desire since the start of this war that this place would fall into
+                        the hands of my friend and ally. I believe I repeated this to you at least
+                        twenty times. I love the marshal Laudon with all my heart for this conquest,
+                        and I congratulate you on the way in which you distinguished yourself.
+                        Therefore, my prince, your letter dated from Belgrade caused me the greatest
+                        pleasure; I find that date charming, and I know of only one that would be
+                        even lovelier. But tell me a bit more about what Boileau said and about that
+                        great king to whom Boileau said, 'cease winning or I will cease writing'. If
+                        the two of them came back to life in the middle of Paris at this very moment
+                        and saw all that is being done there and the horrors of the national reign
+                        [...]? It that not the tale of the limbs in revolt against the stomach in
+                        action... I accept your condolences on the victories achieved by the king of
+                        Sweden on land and sea gladly, and, what is more, I hope that with God's
+                        help and with full knowledge of the facts you will never send me any more on
+                        what happens over there. The Grand Equerry would not make a bad showing as a
+                        pendant next to the duke of Södermanland at sea, and, moreover, the knight
+                        Emo, despite being an Italian, would not be jealous at all. The king of
+                        Sweden's heroic farces are innumerable, and they could furnish superb plots
+                        for more than one comic opera. As for my Prince Potemkn, who goes from one
+                        conquest to the next, I am quite convinced that he will bring us once more
+                        to both knees for a Te Deum before the end of the year. The conduct of the
+                        count simultaneously of two Empires, who takes up an invitation to battle as
+                        one goes to a luncheon, and that of the marshal Prince of Cobourg, who
+                        attributes all the success of the Grand Vizir's discomfiture and his army to
+                        General Suvorov, do honour to the integrity of heart of these two loyal and
+                        illustrious knights. May God bless such a fine example and render prosperous
+                        the intimate union in all places between those in the employ of the two
+                        allied empires. Then will you have not a beast, but herds of pashas, not
+                        grilled or fried like eels, but slaughtered however you like, if only the
+                        God of armies gives his support to our just cause. If you had seen
+                        imperturbability in action when the king of Sweden passed by with all his
+                        troops in Finland last year, I flatter myself that you would have been
+                        pleased with your imperturbable. This improvisation was quite good for
+                        improving the impulses of the soul and the savoir-faire of all those who
+                        happened to be employed in it. I would certainly not desire altars, but
+                        rather the esteem of people of merit. I beg you to maintain that you have
+                        for me: I know its value and that of your expressed recollection of your
+                        stay here. The Hermitage has lost some of its habitués: Count de Ségur has
+                        returned to his stormy fatherland; Count Mamonov has gotten married and gone
+                        to live in Moscow; the blue parrot has died, and so has Prince Shakovskoy.
+                        The other inhabitants of the Hermitage are doing well. There are newcomers
+                        and newborns who lack neither quality nor merit. The grand officers of the
+                        Court are getting to be broken and sickly, as befits their positions. Some
+                        of them have claims on bladder stones, on apoplexy, etc. etc. etc. There is
+                        rarely anyone in the diamond room. The little columns are growing up and
+                        becoming more attractive in mind and body. Scripture has long since stopped
+                        making people laugh or cry.</p>
+                    <closer><signed rend="inline">Farewell my dear Tatar prince, be well and rest
+                            assured that I continue in my sentiments of esteem and friendship for
+                            you.<persName type="signature" ref="people.xml#cat01" rend="right">Catherine</persName></signed>
+                        <dateline><placeName ref="places.xml#pet01" rend="left">At St.
+                                Petersb:</placeName>
+                            <date when-custom="1789-11-05">this 5 November
+                        1789</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

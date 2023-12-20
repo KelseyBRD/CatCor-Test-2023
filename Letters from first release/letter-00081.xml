@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00081</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00081</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-03-08">8 March 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup - not yet including tagging names, places etc.</p>
+            </change>
+            <change>
+                <date when="2014-04-05">5 April 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, tagging, metadata, translation.</p>
+            </change>
+            <change>
+                <date when="2014-02-05">2 May 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Themes</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00081">
+                <body>
+                    
+                    <div hand="people.xml#pot01">
+                        <p> Вас достоинства не по платью
+                                принимаются;<note type="editorial">Lopatin notes that Denisov wore a
+                                Cossack uniform (<bibl><title ref="works.xml#ekater01">Ekaterina II
+                                        i G.A. Potemkin</title>, <biblScope unit="pp">p.
+                                        858</biblScope></bibl>).</note> потому я Вас, матушка
+                            родная, прошу <unclear><hi rend="underline"><persName
+                                        ref="people.xml#den01">Денисову</persName></hi></unclear>
+                            позволить быть в <placeName ref="places.xml#her01"
+                            >Эрмитаже</placeName>.</p>
+                    </div>
+                    <div hand="people.xml#cat01">
+                        <p>икак не могу разобрать подчеркнутое
+                            слово, о ком просишь под сим. Напиши и явственнее, а естьли пишешь о
+                                <persName ref="people.xml#den01">Денисове</persName>, то с радостию
+                            соглашаюсь его призвать в <placeName ref="places.xml#her01"
+                                >Эрмитаж</placeName>, ибо он повсюду храбростию и умом себе проложил
+                            дорогу.</p>
+                    </div>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    
+                    <div hand="people.xml#pot01">
+                        <p>You receive merits not according to
+                            their dress. Therefore I ask you, little mother, to allow <unclear><hi
+                                    rend="underline">Denisov</hi></unclear> to come to the
+                            Hermitage.</p>
+                    </div>
+                    <div hand="people.xml#cat01">
+                        <p>I simply cannot make out the
+                            underlined word and about whom you are asking by it. Write again
+                            clearer, but if you are asking about Denisov, then I gladly consent to
+                            invite him to the Hermitage, for his bravery and intelligence have paved
+                            him road to anywhere.</p>
+                    </div>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00859</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00859</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2017-07-01">01 July 2017</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00859">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1788-07-17">Июля 17 ч., 1788
+                                г.</date></dateline>
+                        
+                    </opener>
+                    <p>Вчерашний вечер, друг мой сердечный <persName ref="people.xml#pot01">Князь
+                            Григорий Александрович,</persName> приехал <persName
+                            ref="people.xml#kis01">Кишенский</persName> со флагами и знаменами и
+                        привез твои письмы. Трофеи сегодня с церемониею пошлю в собор
+                        Петропавловский, и хотя у нас духи отнюдь не унылы, однако сие послужит к
+                        народному ободрению. Железо, которое требуешь в <placeName
+                            ref="places.xml#khe01">Херсон,</placeName> к тебе доставлено будет.
+                            <persName ref="people.xml#lvo01">Об[ер]-кригскомис[сару]
+                            Львову</persName> и <persName ref="people.xml#rok01"
+                            >генер[альс]-адъют[анту] Рокасовскому</persName> владимирские кресты
+                        даны будут. Касательно <persName ref="people.xml#ron01">Ранцова,</persName>
+                        хотя он и сущий разбойник и пойман был в зажигании города <placeName
+                            ref="places.xml#lon01">Лондона,</placeName> и ты ему вверять ничего не
+                        можешь, однако отпустить его к тебе велю. Я из смирительного дома
+                        арнаутского майора ныне послала противу шведа.</p>
+                    <p>Дай Боже, чтоб ты взял <placeName ref="places.xml#och01">Очаков</placeName>
+                        безо всякой потери людей. Меня сие стращает, а наши северные дела теперь
+                        взяли оборот несколько поуспокоительнее, ибо <persName
+                            ref="people.xml#gus01">Король Шведский,</persName> кроме дурачества,
+                        мало что делает. Повсюду и даже до аглинского статского министра признают,
+                        что королевское поведение есть <seg xml:lang="fr">le comble de
+                            l'extravagance.</seg> Его взятый Вице-Адмирал есть величайший
+                        вертопрах, а он у него из лутчих людей. <persName ref="people.xml#gus01"
+                            >Король,</persName> высадя войски в <placeName ref="places.xml#fin01"
+                            >Финляндии,</placeName> потерял лутчее время, да и доныне ничего не
+                        делают и, где с нашими сходятся, тут везде бегают шведы. <placeName
+                            ref="places.xml#sav01">Нейшлот</placeName> иногда атакован, а иногда
+                        нет. Пред <placeName ref="places.xml#fre01">Фридрихсгам</placeName> привели
+                        две пушки: одна 18 и одна 24 ф[унтовая], и из них издалека стреляли
+                        несколько раз и паки перестали. У нас теперь в <placeName
+                            ref="places.xml#fin01">Финляндии</placeName> 20 баталионов пехоты,
+                        казаков 800, два полка кирасир: я думаю, что сроду в <placeName
+                            ref="places.xml#fin01">Финляндии</placeName> столько не было. Усердие и
+                        охота народная противу сего нового неприятеля велики - не могут дождаться
+                        драки. Рекрут ведут и посылают отовсюду: мое одно село Рыбачья слоб[ода]
+                        прислало добровольных охотников 65, а всего их 1 300 душ. <placeName
+                            ref="places.xml#tsa01">Царское Село</placeName> возит подвижной
+                        магазейн. Сия народная диспозиция кажется такова, как желать можно. Войски
+                        роздыха не хотели. Тобольскому полку мужики давали по семи сот лошадей на
+                        станции. Здешний город дал 700 не очень хороших рекрут добровольною
+                        подпискою. Как услышали сие на <placeName ref="places.xml#mos01"
+                            >Москве,</placeName> то пошла подписка, и <persName
+                            ref="people.xml#she03">Петр Борисович</persName> первый подписал 500
+                        человек. <placeName ref="places.xml#saa01">Остров Эзель</placeName> прислал
+                        (ты скажешь: куда конь с копытом, туда рак с клешней) - дворянство и жители
+                        - что сами вооружатся противу шведов в обороне и недопущении врага общего, а
+                        просят только двести ружей и несколько пороха. Двадцать каноньер <persName
+                            ref="people.xml#ark01">Архаров</persName> строит, и они в августе готовы
+                        будут. Одним словом, кажется, паче после морской баталии, что аспекты наши
+                        гораздо обратились к лутчему, и надеюсь, что скажешь, что я довольно
+                        проворно поворотилась. Есть еще маленькая штучка, которую изготовляю на
+                        севере <persName ref="people.xml#gus01">Королю Шведскому,</persName> о
+                        которой еще говорить не смею, но, быть может, что она действительнее будет
+                        многого иного.</p>
+                    <p>Здесь жары так велики были, что на термометре на солнце было 39 1/2 +, в
+                            <placeName ref="places.xml#por02">Португалии</placeName> более 44 не
+                        помнят. В сей духоте, в городе сидя, я терпела духоту еще по шведским делам.
+                            <seg xml:lang="fr"><placeName ref="places.xml#pet01"
+                                >Petersbourg</placeName> a l'air dans се moment d'une place d'armes
+                            et moi meme je suis comme au Quartier General.</seg> В день баталии
+                        морской 6 июля дух пороха здесь в городе слышен был; <seg xml:lang="fr"
+                            >ainsi, mon Ami, j'ai aussi senti la poudre.</seg></p>
+                    <p>Вахтмейстер, шведский плененный Вице-Адмирал, сказывал нашим, что они флот
+                        наш пренебрегали и, побив его, хотели идти прямо на <placeName
+                            ref="places.xml#kro01">Кронштадт,</placeName> оный сжечь, и, между тем,
+                        армейский их флот должен был идти к Красной Горке и сюда к <placeName
+                            ref="places.xml#gal03">Галерной гавани,</placeName> но сие несообразимо,
+                        ибо сей армейский флот у <placeName ref="places.xml#hel01"
+                            >Гельзингера</placeName> войски высадил шведские, а на финнов они не
+                        очень надежны. Несколько пикетов шведских <persName ref="people.xml#mik02"
+                            >Михельсон</persName> пощелкал, и они бегут, верст по десяти не
+                        остановясь.</p>
+                    <p>Радуюсь, что <persName ref="people.xml#voi01">Войнович</persName> со флотом
+                        Севастопольским здоров. Я думаю, что капитан-паша боялся, чтоб не зделали вы
+                        какого предприятия позади его, и для того поехал назад. </p>
+                    <closer><signed rend="inline"><seg xml:lang="fr">Adieu, mon cher Ami, portes
+                                Vous bien.</seg> Будь здоров, щастлив и благополучен. А
+                        я теперь маленько поотдохнула, понеже кажется, что дела здешние берут оборот
+                        к лутчему, а с вашей стороны мы весьма спокойны. Спешу к тебе сие письмо
+                        отправить, понеже вижу из твоих писем, что безпокоишься тогда, когда мы уже
+                        поспокойнее. </signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

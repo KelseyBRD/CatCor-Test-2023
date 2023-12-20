@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03705</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03705</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#poland"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#history"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:02:23Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-07-19">19-07-2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Missing text of letter added and marked up.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03705">
+  <body>
+   <div>
+    <opener rend="inline"><dateline>Mercredi de Pâques, <date when-custom="1795-04-04">4 avril
+       1795</date></dateline>,</opener>
+    <p>de retour, depuis une heure environ, cet après-dîner au <placeName ref="places.xml#tau01"
+      >palais Taurique</placeName>, je prends la plume pour vous dire que j'ai reçu hier la charge
+     d'un mulet d'Espagne en pancartes numéros, livres, mémoires etc. J'y répondrai après lecture,
+     qui durera au moins quelques jours. J'en suis à la troisième, et quatre ne sont pas encore
+     décachetées.</p>
+   </div>
+   <div>
+    <opener><dateline><date when-custom="1795-04-05">Ce 5 d'avril</date></dateline>.</opener>
+    <p>Je vous avertis que cet après-dîner à quatre heures il me reste encore la moitié du No 89 à
+     lire et No 90 et 90 second ne sont pas ouverts, No 90 et 90 second je le répète. Pourquoi deux
+     90? Je n’en sais rien! Je suis comme frère <rs ref="people.xml#fri03"> Gu</rs>: les sots
+     s’étonnent de tout! Après lecture suivra réponse. Je vous avertis encore qu’elle sera longue,
+     car il y a de quoi. Par exemple, cette pécore de <persName ref="people.xml#her02">
+      Hertzberg</persName> seule mérite d’être tapée d’importance: il n’a pas plus de connaissances
+     en fait d’histoire que ma perruche. Il ose dire que la <placeName ref="places.xml#rus01">
+      Russie</placeName> n’avait point de titre à produire en prenant possession de <placeName
+      ref="places.xml#pol02"> Polotsk</placeName>; il pouvait dire que la <placeName
+      ref="places.xml#rus01"> Russie</placeName> ne faisait aucun cas de titres surannés. Car
+      <placeName ref="places.xml#pol02"> Polotsk</placeName> avait été donné par <persName
+      ref="people.xml#vla01"> Vladimir I</persName> à son fils aîné <persName ref="people.xml#vys01"
+      > Iziaslav</persName>; or, il était l’aîné des douze fils de <persName ref="people.xml#vla01">
+      Vladimir I</persName>, entre lesquels le <rs ref="people.xml#vla01"> père</rs> partagea ses
+     états lorsqu’il épousa <persName ref="people.xml#por03"> Anne</persName>, fille d’<rs
+      ref="people.xml#rom05"> un empereur grec</rs>, et qu’il se fit chrétien et renvoya ses six
+     femmes et leurs enfants dans les états qu’il leurs assigna. Or, de ce <rs
+      ref="people.xml#vys01"> fils ainé</rs> de <persName ref="people.xml#vla01">
+      Vladimir</persName> descendaient les princes de <placeName ref="places.xml#pol02">
+      Polotsk</placeName>; puis, grand duc de <placeName ref="places.xml#lit01">
+      Lithuanie</placeName>, <persName ref="people.xml#vla01"> Vladimir I</persName> donna la
+      <placeName ref="places.xml#lit01"> Lithuanie</placeName> à son fils <persName
+      ref="people.xml#svy01"> Sviatoslav</persName>, qui n’eut pas de postérité. Le cinquième fils
+      d’<persName ref="people.xml#alg02"> Olgerd</persName>, en 1386, <persName
+      ref="people.xml#jog01"> Jagellon</persName> ou Jacob, devint roi de <placeName
+      ref="places.xml#pol01"> Pologne</placeName> et se fit du rite latin, sous le nom de Vladislav,
+     en épousant <persName ref="people.xml#hed02"> Hedwige</persName>, reine et héritière de
+      la <placeName ref="places.xml#pol01"> Pologne</placeName>. C’est lui qui joignit donc la
+      <placeName ref="places.xml#lit01"> Lithuanie</placeName> à la <placeName
+      ref="places.xml#pol01"> Pologne</placeName>; <seg xml:lang="de"> aber der dumme unwissende
+      Staatsminister weiß das gar nicht; der Hochmuth macht ihn unwissend und dumm und grob wie ein
+      pommerischer Ochse. Der ungemästete (le feu roi le laissait mourir de faim selon son propre
+      aveu) weiß nicht das nicht allein <placeName ref="places.xml#pol02"> Polotzt</placeName>,
+      sondern auch ganz <placeName ref="places.xml#lit01"> Lithuaen</placeName> alle Sachen in allen
+      Dicasterien bis im 17. Jahrhundert in russischer Sprache abtaht, das alle lithauschen Archive
+      in russischer Sprache geschrieden sind, das die Data von Erschaffung der Welt nach unserem
+      griechischen Kirchengebrauch datirt sind und sogar das die griechischen Kirchen-Judica dabei
+      Gesetzt sind jedesmal; das dieses beweist das bis im 17-ten Jahrhundert die griechische
+      Religion nicht allein in <placeName ref="places.xml#pol02"> Polotzt</placeName>, sondern auch
+      in ganz <placeName ref="places.xml#lit01"> Lithuaen</placeName> die dominante und die Fürsten
+      und Großfürsten gewesen, das deselbst alle Kirchen, ins besondere die Hauptkirchen, alle den
+      Altar nach dem Orient gebaut haben, nach der orientalischen Kirche Gebrauch: wenn Sie mehr
+      Beweise brauchen, so können Sie fordern, die Wahrheit ist nicht schwer zu beweisen.</seg> Vous
+     voyez que dans cette dissertation la politesse a cédé à l’envie de vous faire rire; au reste,
+     les dissertations des pédants ne sont pas toujours polies quand la colère ou le zèle les
+     emporte, comme vous le savez très bien, et moi je me suis ferrée à glace sur tout cela en
+     maniant archives et chroniques, comme vous ne l’ignorez pas non plus.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1795-04-06">6 d’avril</date>.</dateline></opener>
+    <p>C’est ce matin à 8 heures que j’ai ouvert le <hi rend="italic">No 3, ou peut-être
+     4</hi>, comme vous l’intitulez dans la facture; vous voyez par là que le mauvais exemple gagne,
+     et que j’en ai agi dans cette occurrence, comme bien d’autres, qui est que j’ai fait
+     involontairement après coup ce par où j’aurais dû commencer. De là il est résulté qu’ayant
+     donné ou envoyé au comte <persName ref="people.xml#est03"> Esterhazy</persName> les imprimés,
+     afin de les lire pour moi, le camée de M. <persName ref="people.xml#san03"> Gaspar
+      Santini</persName> s’est trouvé emboîté au beau milieu d’iceux; il me l’a rapporté à dîner le
+     même jour, ce qui lui a attiré le beau compliment de ma part, comme quoi j’étais convaincue
+     qu’il avait les mains bien nettes, ce qui l’a fait rire de bon coeur. Or, n’allez pas prendre
+     ceci pour une réponse à vos pancartes: ce n’en est que le préambule, <seg xml:lang="de"> und
+      der Schaum des kochenden Triebes gewisse Sachen in der Geschwindigkeit abzuthun, ehe sie
+      gründlich oder ungründlich beantwortet werden können</seg>. Je vous ai adressé encore ce matin
+     une petite lettre farcie de ce qu’il m’a plu de fournir aux curieux de récompense pour la peine
+     qu’ils se donneront de l’ouvrir; elle va partir par la poste directement; elle vous accuse la
+     réception de la charge du mulet d’<placeName ref="places.xml#spa01"> Espagne</placeName>. Oh!
+     que c’est bon d’étriller comme cela son monde et de leur dire leur fait, sans qu’ils osent
+     seulement sans vanter.</p>
+    <p><seg xml:lang="de"> Nun kommt die Antwort oder soll kommen, aber da es Mittag ist, und das
+      erste Blatt ein Rechnungs-Vortrag ist, so soll es bis Nachmittag liegen bleiben, und ich gehe
+      um mir anzuziehen, damit ich heute Abend die einem Amateurconcert offistiren kann, da wird
+      Großfürst <persName ref="people.xml#ale01"> Alexander</persName> und der Graf <persName
+       ref="people.xml#zub03"> Platon</persName> Subow Violin spielen. Die Großfürstinnen <persName
+       ref="people.xml#eli04"> Elizabeth</persName>, <persName ref="people.xml#ale02">
+       Alexandra</persName> und <persName ref="people.xml#ele01"> Helena</persName> singen; die
+       <persName ref="people.xml#mar03"> Maria</persName> welche 9 Jahr alt ist und den General-Bass
+      schont mit <persName ref="people.xml#sar01"> Sarti </persName>geendigt hat, da sie einen
+      extraordinarien Trieb zur Musik hat, wird auf dem Klavier accompagniren. <persName
+       ref="people.xml#sar01"> Sarti</persName> sagt das sie ein Genie zu Mustik besitzt, und
+      überdem sehr klug und geschickt in allem sich zeigt und eine weise Jungser sein wird. Sie
+      liebt zu lesen und liest viele Stunden den Tag, nach dem Aussagen der Generalin Lieven; sie
+      ist auch dabei sehr lustig und aufgeräumt, und tanzt wie ein Angel. Überhaupt, es ist eine
+      ziemlich hübsche Familie. Die <rs ref="people.xml#pau01"> schwere Bagage</rs> ist nach
+       <placeName ref="places.xml#gat01"> Gatchina</placeName> seit drei Tage abgegangen. Basta.
+      Wenn die Ratze nicht zu Hause ist, so tanzen die Mause über die Tische und sind glücklich und
+      vergnügt</seg>. </p>
+    <p>Ce 6 avril, à trois heures après dîner. L’homme propose, mais Dieu dispose: je voulais vous
+     répondre cet après-dîner, mais voilà que la poste étrangère est venue, et pardon que je vous
+     quitte.</p>
+    <p>A 6 heures du soir.</p>
+    <p><seg xml:lang="de"> Da kommt der Rechnungs-Vorschlag. Ohne zu mucken</seg> j’ai ordonné de
+     vous payer ce qui vous est dû. Voilà tout ce que j’ai à répondre à vos huit pages avec annexes
+     que contient ce <seg xml:lang="de"> Vorschlag</seg>, car je vous ai dit tout ce que je pensais
+     du <rs ref="people.xml#mei02"> charmant homme</rs> qui, malgré vent et marée, veut écrire
+     l’histoire de <placeName ref="places.xml#rus01"> Russie</placeName> d’imagination,
+      comme <persName ref="people.xml#hen02"> le prince Henri,</persName> qui raffole de cet
+     homme-là, a régi sous son frère et régit sous son neuveu la <placeName ref="places.xml#pru01">
+      Prusse</placeName>.</p>
+    <p>Suit ces huit pages, bâclées en réponse de huit lignes, le No 85. J’attendrai sans murmurer
+     le moment favorable où il vous plaira de disculper dans mon esprit les philosophes et garçons
+     d’iceux d’avoir eu part à la révolution et surtout à l’<title ref="works.xml#encycl01">
+      Encyclopédie</title>, quoique <persName ref="people.xml#hel02"> Helvétius</persName> et
+      d’<persName ref="people.xml#ale06"> Alembert</persName> aient avoué tous les deux au feu roi
+      de <placeName ref="places.xml#pru01"> Prusse</placeName> que dans ce livre il n’y avait que
+     deux objets: l’un, d’abolir la religion chrétienne, l’autre la royauté! On parlait déjà de cela
+     l’an 1777: sur l’escalier de <placeName ref="places.xml#pet02"> Péterhof</placeName> les
+     masques se le disaient à l’oreille le 29 juin. J’aime mieux que vous veniez ici que M.
+      <persName ref="people.xml#roe04"> David Roentgen</persName>, quoique son bon mot sur
+      la <placeName ref="places.xml#rus01"> Russie</placeName> soit excellent, mais si vous y venez,
+     vous ne pousserez pas jusqu’à <placeName ref="places.xml#sar01"> Sarept</placeName>a, mais
+     resterez à <placeName ref="places.xml#pet01"> Pétersbourg</placeName>; voilà ce que je vous
+     prédis.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

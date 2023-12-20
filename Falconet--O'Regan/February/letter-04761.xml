@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04761</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04761</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note type="enclosure">Nb. inclusion - letter from Cochin</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#painting"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:49:25Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04761">
+  <body>
+ 
+   <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je
+     vous renvoie ci-joint la lettre de M-r
+    <persName ref="people.xml#coc02"> Cochin</persName>. Si votre libraire honnête homme a
+     affaire aux marchands de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>,
+     je le plains, car ce sont de terribles gens. Ils sont extrêmement entêtés de leurs privilèges,
+     et si votre libraire vend ses livres sans être des leurs, ils pourront bien lui jouer quelque
+     tour de leur façon. Je ne suis tentée de rien de ce qui se trouve au salon, ni même
+     des <persName ref="people.xml#gre02">
+    Greuse</persName>,  je n'ose point lâcher le mot qui a pensé se mettre an bout
+     de ma plume, à propos de <persName ref="people.xml#gre02"> Greuse</persName>; mais
+     d'où vient cette pauvreté en tableaux? car il y a pourtant tout plein de gens qui s'y
+     connaissent et qui les aiment.</p>
+  </body>
+ </text>
+</TEI>

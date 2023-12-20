@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00029</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00029</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2014-01-07">7 January 2014</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-08-04">4 August 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Replaced text with original French (rather than Russian) text. Metadata,
+                    tagging.</p>
+            </change>
+            <change>
+                <date when="2015-07-20">20 July 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00029">
+                <body>
+                    <opener><salute rend="inline">Monsieur le Gouv. de
+                        N.</salute></opener>
+                    <p>par Votre lettre du 6. Sept. de <placeName ref="places.xml#vys01">Wichni
+                            Wolotschok</placeName>, je vois avec contentement que Vous vous occupé
+                        de preparatif de mon voyage de <placeName ref="places.xml#mos01"
+                            >Moscow</placeName>. Les doubles progon resteront au Jamtschik<note
+                            type="editorial">Russian for 'coachman' ('ямщик').</note> jusqu'a nouvel
+                        ordre. Les bruits de la rupture de la Paix repandu ches Vous sont
+                        parfaitement faux, le <persName ref="people.xml#rep01">Prince
+                            Repnin</persName> qui doit aller à <placeName ref="places.xml#ist01"
+                            >Constantinople</placeName> comme Ambassadeur d'ailleur a été expedié a
+                        l'armée a cause de la maladie du <persName ref="people.xml#rum01">Marechal
+                            Roumentzof</persName> qui cepandant ce trouve selon des nouvelles
+                        posterieures au depart du <persName ref="people.xml#rep01">Prince
+                            Repnin</persName> deja retablie et il vient d'envoyer une lettre du
+                        nouveau Grand Visir (<persName ref="people.xml#mus04">Monssoun
+                            Oglou</persName> etant mort de mort naturelle entre <placeName
+                            ref="places.xml#shu01">Schumla</placeName> et <placeName
+                            ref="places.xml#edi01">Andrianople</placeName>) qui confirme la paix et
+                        meme marque beaucoup d'empressement pour la stricte execution du <rs
+                            ref="events.xml#kuchu01">Traité</rs>. Le <persName
+                            ref="people.xml#pug01">Marquis Pougatschef</persName> vient d'etre
+                        defait le 25. d'Aout a cent verste plus bas que <placeName
+                            ref="places.xml#tsa01">Czaritzin</placeName> par notre Heros <persName
+                            ref="people.xml#mik02">Micheson</persName>. Les <orgName
+                            ref="orgs.xml#donc01">Cosaques du Don</orgName> ce sont mis au trousses
+                        du <rs ref="people.xml#pug01">Scelerat</rs> et le Major <persName
+                            ref="people.xml#duv01">Douve</persName> porteur de la nouvelle ne veut
+                        point qu'on doute qu'il ne soit pris, cependant il ne faut point vendre la
+                        peaux de l'Ours avant que de l'avoir attrapé, mais ce qui est sur s'est que
+                        Canons butin hommes et betes tout est tombé entre les mains du Corps de
+                            <persName ref="people.xml#mik02">Michelson</persName>, le <rs
+                            ref="people.xml#pug01">Traitre</rs> c'est sauvé a toute bride avec la
+                        bande ordinaire d'une cinquataine de <orgName ref="orgs.xml#yaik01">Kosaks
+                            du Jaik</orgName> vers Astracan de ce coté si du <placeName
+                            ref="places.xml#vol01">Wolga</placeName>, la bas il ne fera que de l'eau
+                        clair, mais 1500 <orgName ref="orgs.xml#donc01">Kosaks du Don</orgName> a
+                        ses trousses sur des chevaux fraix donnent esperances de le voir pris. Adieu
+                        portes Vous bien</p>
+                    <closer>
+                        <signed><persName ref="people.xml#cat01">Caterine</persName></signed>
+                        <dateline><placeName ref="places.xml#pet01">a Petersb.</placeName>
+                            <date when-custom="1774-09-11">ce 11. Sept. 1774</date>.</dateline>
+                    </closer>
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><salute rend="inline">To the Gov. of N.,
+                        sir,</salute></opener>
+                    <p>By your letter of 6 Sept. from Vyshnii Volochek, I see with satisfaction that
+                        you are taking care of the preparations for my journey to Moscow. The
+                        coachmen shall receive the double travel allowance until further orders. The
+                        rumour spreading where you are that the peace has been broken is perfectly
+                        false: Prince Repnin, who is to go as ambassador to Constantinople, has
+                        moreover been sent to the army because of Field Marshal Rumyantsev's
+                        illness. However, according to the news that arrived after Prince Repnin
+                        left, he has already recovered, and he has just sent a letter to the new
+                        grand vizier (Monssoun Oglou died a natural death between Shumla and
+                        Adrianople) confirming the peace and even indicating great enthusiasm for
+                        the rigorous execution of the treaty. Marquis Pugachev has just been
+                        defeated on the 25th of August a hundred versts south of Tsaritsyn by our
+                        hero Michelson. The Don Cossacks are in hot pursuit of the rogue, and Major
+                        Douve, who brought us the news, allows no doubt that he shall be taken.
+                        However, one must not count one's chickens before they hatch. But it is
+                        certain that cannons, booty, men, and beasts, everything has fallen into the
+                        hands of Michelson's troops: the traitor took to his heels with the usual
+                        band of about fifty Yaik Cossacks, heading towards Astrakan on this side of
+                        the Volga. It is certain that he shall come to nothing there, but 1500 Don
+                        Cossacks on fresh horses at his heels give us hope of seeing him taken.
+                        Farewell, be well</p>
+                    <closer>
+                        <signed><persName>Caterine</persName></signed>
+                        <dateline><placeName ref="places.xml#pet01">at Petersb.</placeName>
+                            <date when-custom="1774-09-11">this 11 Sept. 1774</date>.</dateline>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09032</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09032</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#painting"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#selfportraits"/>
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-09032">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1787-07-13">1787 г. 13 июля.</date>
+                    <placeName ref="places.xml#tsa01">Царское село.</placeName></dateline>
+                <salute>Александр Васильевич,</salute>
+            </opener>
+            <p>из <placeName ref="places.xnl#her01">Эрмитажа</placeName> получила я записку, что портрет мой, то есть <seg xml:lang="fr">esquisse</seg> <placeName ref="places.xml#pet02">Петергофскаго</placeName>, в 1784 г. <persName ref="people.xml#vya01">князем Вяземским</persName> взят чрез <rs ref="people.xml#eri01">живописца</rs> на <orgName ref="orgs.xml#impe04">фарфоровой завод</orgName>. Я вас прошу съездить на <rs ref="orgs.xml#impe04">тот завод</rs> и мой портрет ко мне привезти; ибо подобныя вещи три года продержать слишком нахально. И потеряться может. Сей же оригинал <persName ref="people.xml#eri01">Эриксона</persName>.
+            <note type="editorial">
+                A.V. Khrapovitskii writes under <date when-custom="1787-07-13">July 13 1787</date>: "Привез с <orgName ref="orgs.xml#impe04">фарфоровых заводов</orgName> эскиз портрета, <persName ref="people.xml#eri01">Ериксоном</persName> писаннаго" (
+                <bibl>
+                    <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                    , <biblScope unit="pp">pp. 24.</biblScope>
+                </bibl>
+                ).
+            </note>
+            </p>
+        </body>
+    </text>
+</TEI>

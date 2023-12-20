@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01074</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01074</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:23:59Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01074">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#kie01">
+     Kiovie</placeName>, ce <date when-custom="1787-02-12">12 février v. st. 1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. L’ambassadeur de V. M. I. comte de <persName ref="people.xml#cob02">
+     Cobenzl</persName> m’a remis hier la lettre qu’Elle m’a fait l’honneur de m’écrire en date du
+    15 février n. st. J’y ai vu avec un sensible plaisir la flatteuse espérance de revoir en peu de
+    semaines Monsieur le <rs ref="people.xml#jos01"> comte de Falkenstein</rs>; ma joie en est
+    très-grande. J’avoue tout naturellement à V. M. I. que jusqu’ici je n’avais point entendu parler
+    des changements dont il Lui plaît de me prévenir. L’étiquette charmante établie à <placeName
+     ref="places.xml#lax01"> Laxenbourg</placeName> pendant le printemps passé paraissait prouver en
+    partie le contraire. Mais enfin quel qu’il Lui plaise d’être, que V. M. I. soit intimément
+    persuadée que je me ferai un devoir et un plaisir de donner en toutes les occasions à Monsieur
+    le <rs ref="people.xml#jos01"> comte de Falkenstein</rs> des témoignages de la plus haute estime
+    et considération, et de l’amitié la plus sincère et la plus constante avec lesquelles je suis et
+    serai toujours ....</p>
+  </body>
+ </text>
+</TEI>

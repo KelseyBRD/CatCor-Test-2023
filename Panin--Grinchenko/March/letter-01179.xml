@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01179</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01179</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#denmark"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-24"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01179">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович!</persName></salute></opener>
+            <p>Из последняго письма Вашего, отъ 2-го Февраля, сей час мною полученнаго, усмотрнла я,
+                что <persName ref="people.xml#pau01">сын</persName> мой, слава Богу, здоров, и
+                ожидаю теперь скоро извнстия о выезде Вашем из <placeName ref="places.xml#mos01"
+                    >Москвы</placeName>. Депеши, полученныя и отправленныя Вами, я третий день
+                читаю, и не могу дочитать. При сем включаю реляцию последнюю <persName
+                    ref="people.xml#kho01">Хотинскаго</persName>; Вы увидите, что сей человек детина
+                не промах, как говорят; <persName ref="people.xml#gol05">Голицын</persName> ни
+                единую реляцию подобную не писал. Вчерашной день <persName ref="people.xml#ass01"
+                    >Ассебург</persName> получил куриера от своего Двора с известием о разрешении
+                    <persName ref="people.xml#car05">Королевы Датской</persName> от бремени
+                рождением <persName ref="people.xml#fre04">Кронц-Принца</persName>, и наведывался он
+                у Вице-Канцлера, как ему доставить своеручное письмо его Короля о сем приключении ко
+                мне. Я велела ему сказать, что как после отпускной аудиенции церемонии нет, то желаю
+                его видеть партикулярно, и для того, чтоб он сегодня после обеда, в шесть часов с
+                Вице-Канцлером ко мне приехал, при котором случае вручить может мне оное письмо и
+                будет он, <persName ref="people.xml#ass01">Ассебург</persName>, у меня ужинать. Я
+                думала, что сия особливая аттенция, его персональным качествам возданная, не может
+                служить примером никому, тем более, что то все будет происходить во внутренних
+                покоях; он же завтра отправляется в путь и мое письмо ему отдано, от котораго Вы
+                бруллион видели.</p>
+            <closer rend="inline"><signed>Впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed>
+            <dateline><date when-custom="1768-02-07">Февраля 7 числа,<lb/> 1768.</date></dateline></closer>
+        </body>
+    </text>
+</TEI>

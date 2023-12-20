@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02768</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02768</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:31:32Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02768">
+  <body>
+
+   <opener><dateline><date when-custom="1772-08-01"> [August/September 1772]</date></dateline></opener>
+   <p>Monsieur, En réponse à Vôtre lettre du 1 d'Auguste je Vous envoye un
+     Mémoire sur ma guerre avec la ste: Congrégation de la propagande. Vous ne Vous doutiés pas apparament de ce petit démêlé là.
+    Ses gens voudrois me faire àcroire comme dit la chanson, <hi rend="Emphasis">que je ne suis pas le maitre dans ma maison quand ils y sont</hi>,
+    mais difficilement ils me persuaderont. Leurs argument ne valent pas même ceux de
+     <persName ref="people.xml#mus01"> Moustapha</persName> et des bandes à écharpes blanches de
+     <placeName ref="places.xml#pol01"> Pologne</placeName>. J'espère que cette vétille ne vous mettra point en
+    colère contre moi; au reste ne me boudés point, j'aime trop à être bien avec Vous. Si la Paix ce
+    fait je reviendrai à mon <rs ref="works.xml#nakazk01">Code</rs>. Cette Paix se traite à <placeName ref="places.xml#foc01">
+     Fokchani</placeName> mais jusqu'ici il n'y a rien encore de décidé. Je suis fâchée de la petite
+    mésaventure arrivée à notre Ami <persName ref="people.xml#kab01"> Aly bey</persName>.</p>
+   <p>Notre Dame de <placeName ref="places.xml#cze01"> Czenstochowa</placeName> s'est mise à coqueter avec le
+    général major <persName ref="people.xml#gol17"> Prince Gallitzin</persName>; j'ai reçuë un Courier avant
+    hier où il me mande que cette forteresse s'est renduë à discrétion. Le nonce du Pape
+     <persName ref="people.xml#dur03"> Durini</persName> part furieux de <placeName ref="places.xml#war01">
+     Warsovie</placeName> parceque l'incrédulité des Polonois a empêché les miracle de cette Image
+    fertile en pareille production.</p>
+  </body>
+ </text>
+</TEI>

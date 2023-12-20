@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09011</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09011</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="culture">
+                    <term target="kw.xml#catherineasauthor"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#theatre"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09011"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1786-02-22">1786 г. 22 февраля.</date>
+                </dateline>
+            </opener>
+            <p><rs ref="works.xml#deceiv02">Раскрывайте</rs> при самом <persName ref="people.xml#arn01">Арндте</persName>, чтоб не разронять множество заметок, кои все по листам положены для исправления.
+                <note type="editorial">
+                    Catherine writes about her comedy <title ref="works.xml#deceiv02">"Obolschennii"</title>, which was first presented on <date when-custom="1786-02-02">February 2 1786</date> (  
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 4.</biblScope>
+                    </bibl>
+                    ). <rs ref="works.xml#deceiv02">This comedy</rs> was then given to <persName ref="people.xml#arn01">Christian Gotlieb von Arndt</persName> to translate <rs ref="works.xml#deceiv02">it</rs> into German. According to A.V. Khrapovitskii's diary, the translation was initiated on <date when-custom="1786-02-08">February 8</date>, finished on <date when-custom="1786-02-22">February 22</date>, after which Catherine left 14 corrective notes, and was ordered to publish on <date when-custom="1786-02-23">February 23 1786</date> (
+                    <bibl>
+                        <title ref="works.xml#dnevni02">Dnevnik A.V. Khrapovitskago s 18 ianvaria 1782 po 17 sentiabria 1793 goda</title>
+                        , <biblScope unit="pp">pp. 4.</biblScope>
+                    </bibl>
+                    ). <persName ref="people.xml#arn01">Arndt</persName> would usually receive 300 rubles for translating one play (
+                    <bibl>
+                        <title ref="works.xml#filolz01">Filologicheskie zaniatiia Ekateriny II</title>
+                        , <biblScope unit="pp">pp. 440.</biblScope>
+                    </bibl>
+                    ).
+                </note></p>
+        </body>
+    </text>
+</TEI>

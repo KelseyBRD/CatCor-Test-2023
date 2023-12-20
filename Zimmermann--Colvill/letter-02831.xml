@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02831</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02831</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-20">20-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:30:28Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02831">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#pet01"> St.
+     Petersb</placeName>. ce. <date when-custom="1788-02-01">1. Février 1788</date>. </dateline></opener>
+   <p>J’ai à répondre, Monsieur, à deux de vos lettres, à celles du 1. et 15. de Janvier. La
+    première fait mention de l’affaire de Mr. <persName ref="people.xml#for01">
+    Forster</persName>; j’espère que celui ci sera content, car non seulement l’amirauté lui a cédé
+    la somme qu’il avoit reçu, mais j’ai chargé Mr. le <persName ref="people.xml#anh01"> Comte
+     d’Anhalt</persName> d’engager le sieur <persName ref="people.xml#for01"> Forster</persName> à
+    mon service au corps des cadets, dont le dit Comte a la direction, de là il sera facile de
+    l’employer selon la capacité ou inclination ou plutôt selon le bien des affaires. Il est fâcheux
+    sans doute, que <rs ref="events.xml#mulov01"> l’expédition</rs>, pour laquelle il avoit été
+    engagé, n’a pas eue lieu pour le présent, mais ce qui est remis à un tems plus favorable n’est
+    pas perdu encore.</p>
+   <p>Je suis très curieuse de voir <rs ref="works.xml#friedr01"> l’ouvrage interéssant</rs> que
+    vous m’annoncés, Monsieur, et vous me ferés un très grand plaisir de me l’envoyer. Je ne sais
+    pas, si cette année sera bien intéressante, ce qu’il y a de sûr, c’est que la sublime <placeName
+     ref="places.xml#ott01">Porte</placeName> fait d’immenses préperatifs et qu’elle vient d’envoyer
+    son premier commis du département des affaires étrangères pour commander l’armée. S’il y porte
+    la même prudence qu’il a fait briller dans son premier poste, nous verrons assurément des
+    merveilles, comme premier moteur de la guerre, il faut avouer qu’il est admirablement bien placé
+    là, pour payer le pot cassé de sa tête. Je me défend, je suis la partie attaquée, une partie de
+     l’<placeName ref="places.xml#eur01">Europe</placeName> s’efforce à publier que je m’envais
+    culbuter l’empire Turc, j’aurois envie de lui demander : croyés vous la chose possible? Un
+    empire immense, avec une population innombrable, qui regorge d’argent et de ressource et auquel
+    s’intéresse tant de cabinets en <placeName ref="places.xml#eur01">Europe</placeName>, ne sauroit
+    être renversé dans une couple de campagnes; vous en conviendrés.</p>
+   <p>Je vous remercie beaucoup, Monsieur, pour l’avis que vous m’avés envoyé au sujet de la
+    demoiselle malade, et comme je vois que vous lui conseillés les eaux de <placeName
+     ref="places.xml#spa02"> Spa</placeName> et de <placeName ref="places.xml#pyr01">
+     Pyrmont</placeName>, j’ai dit à son frère de faire proposer au médecin qui la traite, les
+    gouttes de Bestouchef, dont j’ai acheté le secret et que je n’ai encore jamais vu employer sans
+    le plus éminent succès et dont je puis parler par propre expérience.</p>
+   <p>J’ai ordonné d’écrire au Prince <persName ref="people.xml#pot01">Potemkin</persName> au sujet
+    de docteur <persName ref="people.xml#mey01"> Meyer</persName> pour qu’on lui donne la permission
+    de venir ici. Chaque bonne nouvelle qui me viendra je vous en ferai part ; pour la prise
+     de <placeName ref="places.xml#ist01">Constantinople</placeName> je ne vous la manderai pas,
+    parceque je ne crois pas que la possibilité en existe; et voilà pourquoi dès à présent je vous
+    envoyé le bonnet fourré que vous me demandez, de même que le thé et le caffé de Mocca. </p>
+   <closer><signed rend="inline">Adieu, soyés bien assuré de mon estime. <persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed>
+ </closer> </body>
+ </text>
+</TEI>

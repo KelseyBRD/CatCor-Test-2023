@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04747</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04747</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:07:51Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04747">
+        <body>
+            
+            <p>Monsieur <persName ref="people.xml#fal01">
+                    Falconet</persName>, je vous prie d’écrire à M. <persName ref="people.xml#did01"
+                        >Diderot</persName> que j’ai ordonné à M.
+                    <persName ref="people.xml#kho01"> Kotinski</persName> de traiter avec
+                    le S. de <persName ref="people.xml#rul01"> Rulière</persName> de son
+                    <rs ref="works.xml#gallit01"> manuscrit</rs>. Je viendrai chez vous un
+                    de ces jours. M. <persName ref="people.xml#bet01"> Betzki</persName>
+                    m’a dit que vous le désiriez.</p>
+            <closer><dateline> Le <date when-custom="1768-09-23">23 Septembre 1768</date>.</dateline></closer>
+        </body>
+    </text>
+</TEI>

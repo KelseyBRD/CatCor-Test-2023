@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02658</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02658</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#france"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-18">18 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02658">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St. Pétersbourg,</placeName>
+                            <date when-custom="1769-08-03">ce 3 Août 1769</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> La part que Votre Majesté veut bien prendre aux avantages que mes troupes
+                        ont remportés près de <placeName ref="places.xml#kho01">Chotzin</placeName>,
+                        m'est une nouvelle preuve de cette amitié, qu'Elle m'a tant de fois marquée
+                        et dont je fais un si grand cas. Je répète à Votre Majesté ce que je lui ai
+                        déjà dit, que je suis tentée d'avoir une grand foi pour ses prognostiques;
+                        je souhaiterais beaucoup que, selon ses prédictions, le Vizir<note
+                            type="editorial">Either Yaglikcizade Mehmed Emin Pasha, Grand Vizier
+                            from October 1768 until 12 August 1769 (NS), or Moldovanci Ali Pasha,
+                            Grand Vizier from 12 August 1769-12 December 1769 (NS).</note> avançât,
+                        mais je n'ose l'espérer. Je crains qu'il n'exposera pas son armée, dont le
+                        nombre est fort diminué par la désertion etc., et s'il a autant d'esprit
+                        qu'on le dit, il épargnera à son maître les désagréments et les suites que
+                        pourrait avoir la défaite d'une armée commandée par le Vizir en personne,
+                        par là il remplira aussi les voeux de <persName ref="people.xml#cho03">Mr.
+                            de Choiseul</persName> de tirer la guerre en longueur; je commence à
+                        avoir beaucoup d'obligation à ce <persName ref="people.xml#cho03">Mr. de
+                            Choiseul </persName>, il se tourmente à procurer à mes troupes des
+                        occasions de montrer leur savoir faire. </p>
+                    <closer>
+                        <signed>Je prie Votre Majesté d'être assurée que je sentirai toujours
+                            parfaitement le prix de son amitié, qu'Elle m'est précieuse, que j'y
+                            répondrai bien sincèrement, et qu'il n'y a personne qui soit avec une
+                            plus haute considération que moi, Monsieur mon Frère, de Votre Majesté
+                            la bonne Soeur et fidèle Alliée
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

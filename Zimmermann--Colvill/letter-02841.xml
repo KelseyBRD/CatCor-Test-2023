@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02841</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02841</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#sweden"/>
+
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:32:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02841">
+  <body>
+
+   <opener><dateline> St. <placeName ref="places.xml#pet01">Petersbourg</placeName> ce <date
+      when-custom="1789-08-17">17. Août 1789</date>.</dateline></opener>
+   <p>Le 15. d’Aout est arrivé en courier le Souslieutenant au <orgName ref="orgs.xml#preo01">
+     régiment des gardes Preobragensky</orgName> Comte <persName ref="people.xml#sta02">
+     Stakelberg</persName> de la part du Viceadmiral <persName ref="people.xml#nas01"> Prince de
+     Nassau-Siegen</persName> avec la nouvelle de la victoire signalée, remportée le 13. d’Aout par
+    la flotte des galères chebeks et bateaux Russes sous ses ordres sur celle du <persName
+     ref="people.xml#gus01"> Roi de <placeName ref="places.xml#swe01"
+    >Suède</placeName></persName> commandée par l’<persName ref="people.xml#ehr01"> Oberadmiral
+     Ehrenswerdt</persName> à la hauteur de l’embouchure du <placeName ref="places.xml#kym02">
+     Kimen</placeName> entre les isles <placeName ref="places.xml#kot01">Kotka</placeName> et
+     <placeName ref="places.xml#kuu01"> Koutzalmoulima</placeName>; l’action a durée 14 heures; le
+    vaisseau Admirai Suédois, six grands batimens de quarante à cinquante canons chaqu’un, une
+    galère et un cutter, au delà de 1200 prisonniers et plus de quarante officiers sont entre nos
+    mains. Ce qui n’a péri a été chassé dans le <placeName ref="places.xml#kym02">
+    Kimen</placeName> et bloqué par le <persName ref="people.xml#nas01"> Prince de
+     Nassau-Siegen</persName>. Notre perte consiste en une galère sautée en lair. Hier on a chanté
+    pour cette victoire le Te Deum; c’est la seconde depuis huit jours. Le <rs
+     ref="people.xml#nas01"> Vice-admiral</rs> enverra les détails après; il loue infiniment nos
+    gens et surtout les gardes.</p>
+   <p>Au premier jour la <persName ref="people.xml#nas01"> Prince de Nassau</persName> croyoit avoir
+    perdu deux galères, mais le lendemain il se trouva, qu’on étoit parvenu à éteindre le feu d’une
+    des deux et qu’elle étoit sauvée.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09002</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09002</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+       
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#nobility"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#request"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-20">2023-06-20</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-09002">
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1784-04-24">1784 г. 24 апреля.</date>
+                </dateline>
+                <salute>Александр Васильевич,</salute>
+            </opener>
+            <p>прикажи выписать из <title ref="works.xml#rodosl01">бархатной книги</title>
+                <note type="editorial">
+                    Catherine must have been using a 17th-century manuscript version of the book. The book was published by <persName ref="people.xml#nov01">Nikolai Ivanovich Novikov</persName> in 1787 under the title <title>"Rodoslovnaia kniga Kniazei i Dvorian rossiiskikh i vyezzhich"</title>
+                </note>, 
+                буде в <rs ref="works.xml#rodosl01">ней</rs> есть, о <orgName ref="orgs.xml#lans01">роде Ланских</orgName> и привези ко мне.
+                <note type="editorial">
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title> (
+                        <biblScope unit="pp">pp. 4-5.</biblScope>)
+                    </bibl>
+                    suggests that Catherine might have wanted to accord some title to her favourite <persName ref="people.xml#lan02">Aleksandr Dmitrievich Lanskoi</persName>, who was already sick at the moment and died later on <date when-custom="1784-06-25">June 25 1784</date>.
+                </note></p>
+        </body>
+    </text>
+</TEI>

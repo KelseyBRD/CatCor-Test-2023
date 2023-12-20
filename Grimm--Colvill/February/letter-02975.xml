@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02975</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02975</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-25">25/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:04:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02975">
+  <body>
+  
+   <opener><dateline> A <placeName ref="places.xml#tsa04">
+     Tsaritino</placeName>. ce <date when-custom="1775-08-27">27 août 1775</date>.</dateline></opener>
+   <p>J’ai eu l’honneur ce matin de recevoir votre No 22, écrit à ce que vous m’annoncez, sans
+    prétexte. Pour moi j'en ai un vous conviendrez, à vous répondre: d’abord, pour commencer avec
+    ordre, article par article, je dois vous dire que tous les Anderson, grands et petits, de même
+    que mademoiselle Mimi, se portent à ravir. J’ai eu le plaisir ce matin à six heures de les voir
+    tous à la promenade; ils y ont eu un cuisant chagrin pendant quelques moments, car tandis que je
+    passais un bac avec un radeau, ils sont arrivés dans le bois, et ne pouvant venir à moi, ils se
+    sont mis à criailler, à piailler et même à hurler, jusqu’à ce que je leur aie renvoyé le radeau
+    pour me suivre. Tenez, voilà encore un tableau qui pourra faire pendant à celui du site de
+     <placeName ref="places.xml#kol01"> Kolomenski</placeName>, et surtout si vous mettrez derrière
+    les Thomas un bord escarpé couvert de fort grand bois, S. M. et son valet de chambre sur le
+    radeau passant le bac, ayant devant elle un terrain bas avec des arbrisseaux, où vous placerez
+    une faisanerie; à main droite une grande mare d’eau terminée par une digue, sur laquelle il y a
+    de fort grands saules, entre lesquels l’on découvre un beaucoup plus grand étang encore, dont un
+    bord, très escarpé, est occupé par plusieurs petits villages, et l’autre, en pente douce, vous
+    offre à la vue des champs, des prairies, des bouquets de bois et des arbres isolés; à la gauche
+    du radeau est un ruisseau bourbeux couvert de bois, qui monte en amphithéâtre. Eh bien,
+    figurez-vous tout cela, et vous serez à <placeName ref="places.xml#tsa04">
+    Tsaritsino</placeName>, qui est bien autre chose que <placeName ref="places.xml#kol01">
+     Kolomenski</placeName>, que personne ne veut plus regarder. Voyez un peu ce que c’est que ce
+    monde: il n’y a pas longtemps que la vue de <placeName ref="places.xml#kol01">
+     Kolomenski</placeName> était ravissante, et voilà qu’on lui préfère cette terre deterrée,
+    achetée et bâtie en quinze jours, et dans laquelle on habite depuis environ six semaines. Ne
+    vous en déplaise, hier, fête de la <persName ref="people.xml#wil01"> grande-duchesse</persName>,
+    nous avons eu l’opéra comique dans le bois; <title ref="works.xml#annett01">Annette et
+     Lubin</title> y ont chanté et fait cabane, au grand étonnement des paysans des environs, je crois,
+    qui jusqu’ici vivaient dans la parfaite ignorance qu’il y eût un opéra comique au monde.
+    Aussitôt dit, aussitôt fait: vous souhaitez que mon pèlerinage de Troïtsa produise miracle, que
+    le ciel fasse pour une jeune princesse ce qu’il fit jadis pour Sara et la vieille Elisabeth vos
+    voeux sont exaucés: cette <rs ref="people.xml#wil01"> jeune princesse</rs> est dans <name ref="events.xml#pregn01">son troisième mois</name>, et sa santé paraît
+    raffermie. Cet événement bâte mon retour à <placeName ref="places.xml#pet01">
+     Pétersbourg</placeName>; je m’y rendrai avec les premiers traîneaux. L’apparition du <persName
+     ref="people.xml#orl01"> prince Orlof</persName> à <placeName ref="places.xml#par01">Paris</placeName>, je crois, vous aura fait
+    plaisir, car vous paraissez prendre intérêt aux gens qui vous viennent de chez nous. J’ai lieu
+    de croire que son séjour y durera jusqu’aux <name ref="events.xml#marri03">noces
+     de <persName ref="people.xml#clo01">Mme Clotilde</persName></name>. Toute la famille royale lui en ayant témoigné le désir, il
+    se loue infiniment de l’accueil et des distinctions qu’on lui a faits, et je vous avoue que cela
+    m’a fait plaisir; mais s’il y reste jusqu’à la fin de ses disputes avec <persName ref="people.xml#did01">Diderot</persName>,
+    il ne reverra de longtemps sa patrie. Je ne vous dis rien des fêtes de la paix, dont vous me
+    parlez, parce que j’ai vidé mon sac à cette occasion dans mes précédentes; mais vous voudrez
+    bien, monsieur, recevoir mes remercîments de la part que vous y avez prise. J’aurais voulu voir
+    vos illuminations et les fusées de votre taudis. Chantiez-vous alleluia à pleine ou à
+    demi-voix?</p>
+   <p>Si vous voyez encore le <persName ref="people.xml#orl01"> prince Orlof</persName>
+    à <placeName ref="places.xml#par01">Paris</placeName>, dites-lui, je vous prie, que le <persName ref="people.xml#bra05"> duc de
+     Bragance</persName> est allé à <placeName ref="places.xml#ist01">Constantinople</placeName> pour y voir les audiences et
+    l’entrée du <persName ref="people.xml#rep01"> prince Repnine</persName>. J’ai grande opinion de
+    l’écritoire fameuse commencée pendant un orage; ce sont surtout les orages et les grands vents
+    qui viennent le matin, tandis qu’on est à jeun, qui produisent les plus grands coups
+    d’imagination; j’aime beaucoup que vous trouvez cette idée proche de l’inspiration. Que
+    savez-vous? peut-être, un jour prophétiserai-je pendant quelque tempête ; si cela m’arrive, je
+    vous enverrai ce texte-là pour que vous le commentiez avant tout autre. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

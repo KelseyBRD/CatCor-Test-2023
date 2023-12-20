@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03659</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03659</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+    </keywords>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:53:03Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03659">
+  <body>
+
+   <p>Monsieur le <rs ref="people.xml#gri01"> souffre-douleur</rs>, je vous écris par ce courrier
+    pour vous dire que je n’ai rien du tout, ni de préparé, ni pour le présent, à vous communiquer;
+     <rs ref="events.xml#turki02"> la guerre</rs> me rend bête comme un pot quand je n’ai aucune
+    nouvelle; cependant je lis, j’écris comme un autre et je me porte parfaitement bien. <rs
+     ref="people.xml#dmi01"> L’habit rouge</rs> vous salue; il a achevé hier son camée et compte de
+    vous en envoyer une pâte au premier jour. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien; votre vue ne sera pas fatiguée de la lecture de
+    cette dépêche.</signed>
+   <dateline> Ce <date when-custom="1788-02-09">9 février 1788</date>.</dateline></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02994</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02994</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-04">04/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:05:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02994">
+  <body>
+
+   <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date when-custom="1777-08-24">24 d’aôut 1777</date>.</dateline></opener>
+   <p>Ce matin on m’a rendu votre No 3, daté <placeName ref="places.xml#sto01">Stockholm</placeName> le 19 d’août. Je l’ai reçu au
+    moment où je finissais d’imaginer une petite opération fort aisée et point dutout compliquée,
+    qui doit remplir les coffres de la banque de vingt millions de roubles sans ôter un seul sou de
+    la circulation. Or, vous saurez que je me suis levée avec un grand mal de tête et qu’il fait un
+    grand vent; aussi ma tête après ce terrible accouchement s’est-elle trouvée parfaitement
+    soulagée.</p>
+   <p>J’étais donc malade de rétention d’imagination. Mais à quoi bon vous dire cela? Vous direz que
+    c’est un tour de force ou bien que c’est une vanterie; à vous permis, mais j’irai mon train, et
+    mon opération sera lionne; permis après cela à mon très cher frère, ami, et voisin <persName
+     ref="people.xml#abd01"> Abdoul-Hamed</persName> de faire le hargneux tant qu’il voudra; moi, je
+    suis à mon aise, et je réponds à vos pancartes tout de suite, parce que je soupçonne un tantinet
+    que vous êtes de l’humeur du seigneur <persName ref="people.xml#azo01"> Azor</persName>: vous
+    voulez des réponses tout de suite. Mais à propos d’<persName ref="people.xml#azo01">
+     Azor</persName>, vous savez, je pense, qu’il a écrit à sa mère, qui est à la <placeName ref="places.xml#gua01">Guadeloupe</placeName>. Sa lettre y a été expédiée; avant-hier
+    il en a reçu la réponse; sa mère lui dit que les blancs à peine supposent que les noirs soient
+    au-dessus des bêtes; <persName ref="people.xml#azo01"> Azor</persName> veut lui répondre
+    qu’en <placeName ref="places.xml#rus01">Russie</placeName> les noirs parviennent aux grades les plus élevés et qu’il y en a qui
+    sont généraux, et il accompagne sa lettre de son coffre-fort, que vous connaissez, je pense.
+    Outre cela il prétend que madame sa mère et sa soeur Pauline viennent le trouver; je meurs de
+    peur qu’il ne prétende en faire des dames à la suite de la cour, mais ce qui le mortifie un peu,
+    c'est que dans cette lettre il est dit qu’elles sont au service d’une pauvre femme, tandis que
+    lui commençait à dire à tout le monde qu’il était un gentilhomme africain.</p>
+   <p>Savez-vous la nouvelle du jour? Tandis que vous vous amusez &amp; critiquer mes adresses de
+    lettres, qui finissent par Dieu sait où, Euler nous prédit la fin du monde pour le mois de
+    juillet de l’année qui vient; il fait venir tout exprès pour cela deux comètes, qui feront je ne
+    sais quoi à Saturne, qui à son tour viendra nous détruire; or, la <persName
+     ref="people.xml#mar02"> grande-duchesse</persName> m’a dit de n’en rien croire, parce que les
+    prophéties de l’Evangile et de l’Apocalypse ne sont point encore remplies, et nommément
+    l’Antéchrist n’est point venu, ni toutes les croyances réunies. Moi, à tout cela je réponds
+    comme le <title ref="works.xml#barbie01"> barbier de Séville</title>: je dis à l’un: Dieu
+    vous bénisse, et à l’autre: va te coucher, et je vais mon train, qu’en pensez-vous? Il faut
+    laisser jaser le monde et surtout les villes de <placeName ref="places.xml#mos01">Moscou</placeName> et de <placeName
+     ref="places.xml#pet01"> Pétersbourg</placeName> bégueuler et raisonner à tort et à travers,
+    comme les <seg xml:lang="de">politische Kannengießer</seg> et chercher des
+    raisons quintessences sur mon passage de <placeName ref="places.xml#pet02"> Péterhof</placeName>
+    ici, tandis qu’il ne s’agissait que d’un peu de bon sens pour voir qu’il aurait été bête pendant
+    un temps pluvieux de mener quelques milliers de personnes dans un grand jardin à quarante
+    verstes de la ville. Pourquoi? Pour les renvoyer quarante autres verstes tout mouillés
+    d’<placeName ref="places.xml#ora01">Oranienbaum</placeName> à la ville. Soyez gai, je vous le prêche de rechef, et tenez-vous en
+    joie; croyez-moi, rien n’est mieux que cela. L’<rs ref="works.xml#lucind01"> opéra de
+     Païsiello</rs> n’aura lieu qu’au mois de septembre; en attendant il se promène ici et l’on dit
+    qu’il raffole de mon jardin, qui s’embellit de jour en jour: on fait un chemin sur le Grand
+    Caprice qui me paraît superbe; mais seulement jusqu'ici en imagination, car les arbres n’y sont
+    pas plantés encore, et il n’y a que deux rangées de gazon.</p>
+   <p>Le <persName ref="people.xml#bel01">prince Bélosselski</persName> m’a conté toutes vos prouesses et celles du <persName
+     ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01">Suède</placeName></persName>; je suis bien aise que les
+    circonstances, les conjonctures, conjectures etc. n’aient pas été oubliées; mais quand Vous
+    citez cette kyrielle-là, n’oubliez jamais que l’escalier de la comédie est trop étroit, car j’ai
+    remarqué que c’est cela qui frappe toujours le plus les bonnes tètes.</p>
+   <p>Que de folies il y a dans ces quatres pages et demie! Â propos de folies: la <persName
+     ref="people.xml#chu01"> duchesse de Kingston</persName> est venue ici dans son propre yacht
+    avec pavillon français; c’est ça qui fait une bonne tête; ce n’est pas l’esprit qui lui manque,
+    pardi: elle me trouve fort aimable, mais comme elle est un peu sourde et que je ne puis élever
+    la voix fort haut, elle, n’en profitera guère.</p>
+   <p>Voyez un peu la liaison imperceptible des idées: ne voilà-t-il pas qu’il me prend fantaisie de
+    vous parler de la <persName ref="people.xml#lou05"> reine douairière de <placeName ref="places.xml#swe01">
+    Suède</placeName></persName> ; eh bien, eh bien, comment vous êtes-vous trouvé du dîner <placeName
+     ref="places.xml#sva01"> Svartsjö</placeName>? <persName ref="people.xml#bel01"> 
+     Bélosselski</persName> m’a dit ce que je savais de la <persName ref="people.xml#sop01">
+     reine</persName> soit-disant régnante. Comme je suis en train de parler de reine, je dois vous
+    dire que si celle de <placeName ref="places.xml#por02">Portugal</placeName> agit conséquemment, elle doit faire couper la tête
+    au <persName ref="people.xml#mel02"> marquis de Pombal</persName>; donnez- vous la peine de lire
+    le discours du procureur-général du <placeName ref="places.xml#por02">Portugal</placeName> le jour de la proclamation de la
+    reine, et vous verrez si j’ai tort. Aïe, aïe, aïe! j’en suis fâchée pour la reine, ma soeur, car
+    je m’intéresse infiniment à toute ma kyrielle de frères et de soeurs, et je voudrais qu’ils
+    eussent tous de l’esprit, de la raison et de la gloire, comme quatre.</p>
+   <p>Souvenez-vous da mot de <persName ref="people.xml#pir02"> Piron</persName>: pourquoi,
+    s'il tous plait, faites-vous comme cela le mortifié des caresses de la famille, des frères et
+    des soeurs, et pourquoi ces humiliations qui sentent <persName ref="people.xml#lut01">
+     Luther</persName>? L’hypocrite, levez la tète; je vous prescris des <seg xml:lang="de"
+     >Prüfungen</seg>, et vous verrez que la famille n’a pas tort de vous traiter au
+    mieux, et c’est ainsi que je l’entends. Vous direz que cela sent le ton auguste des rois, et moi
+    je vous soutiens que c’est la phrase la plus raisonnable de cette énorme pancarte.</p>
+   <p>Que le ciel bénisse votre voyage; mais que diable irez-vous faire à <placeName
+     ref="places.xml#ste02"> Stettin</placeName>? les croisades ne sont plus à la mode. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien. </signed></closer>
+  <postscript> <p>Voyez-vous aussi dans cette lettre de la précision et de la profondeur, de
+    la magnanimité, de la noble fierté et de la bonté sublime? Si vous dires qu’oui, je dirai que
+    vous avez joué d’imagination. Bon soir.</p></postscript>
+  </body>
+ </text>
+</TEI>

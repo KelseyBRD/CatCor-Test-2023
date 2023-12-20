@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01045</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01045</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#greatbritain"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-05">05-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:16:19Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01045">
+  <body>
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1782-12-14">14
+     décembre 1782</date>.</dateline></opener>
+   <p>Monsieur mon frère. Occupée du grand objet qui se traite entre V. M. I. et moi, travaillant à
+    la réponse qui doit être mise sous les yeux de V. M. I., je viens d’être instruite par le
+    dernier courrier de <placeName ref="places.xml#ist01">Constantinople</placeName> des démarches
+    que l’Internonce de V. M. I. vient d’y faire conformément à Ses ordres, et du premier effet que
+    les mémoires que nos ministres ont conjointement remis à la <placeName ref="places.xml#ott01"
+     >Porte</placeName>, ont paru y produire. Le ton de la réponse que le ministère ottoman y fera,
+    montrera plus au clair ce que nous avons à en attendre. Je ne saurais différer jusque là de
+    témoigner à V. M. I. l’expression de mes très-sincères remercîments de la conduite de Son
+    ministre à <placeName ref="places.xml#ist01">Constantinople</placeName> ; je me plais à y
+    reconnaître l’amitié de V. M. I. et tous les sentiments d’un allié aussi franc que fidèle. Je
+    prie le ciel de conserver la santé précieuse de V. M. I. un grand nombre d’années, et d’éloigner
+    d’Elle tous les maux tant physiques que moraux; je suis au reste très-intimément persuadée
+    qu’Elle sera toujours et en toutes occasions tel, que tous ceux qui Lui sont aussi attachés que
+    moi, ont bien des raisons très-palpables à s’y attendre.</p>
+   <p>La contre-danse que l’amiral <persName ref="people.xml#how01"> Howe</persName> a dansée avec
+    cette fameuse flotte combinée et dont V. M. I. me fait l’honneur de me parler dans la lettre du
+    23 novembre, montre bien la supériorité sur mer de la marine anglaise. Il me paraît que
+     <persName ref="people.xml#pri01"> M. de St. Priest</persName> a grande envie de nous donner un
+    intermède de la façon à <placeName ref="places.xml#ist01"> Stamboul</placeName>. Ce qui m’en
+    plaît le plus, c’est qu’il est obligé de convenir que les trois points demandés sont de la plus
+    exacte justice, et fondés sur les traités. Il me paraît que l’ambassadeur de <placeName
+     ref="places.xml#fra01">France</placeName> n’a pas bonne grâce à parler d’intervention à nos
+    ministres, tandis que Sa Cour, après avoir accepté notre médiation, nous laisse ignorer à peu
+    près si elle traite à <placeName  ref="places.xml#par01">Paris</placeName> des préliminaires ou de la <rs
+     ref="events.xml#ameri01"> paix avec les Anglais</rs>. C’est avec la plus haute considération et
+    tous les sentiments de l’amitié la plus inviolable que je suis ....</p>
+  </body>
+ </text>
+</TEI>

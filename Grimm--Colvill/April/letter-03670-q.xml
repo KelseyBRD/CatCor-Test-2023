@@ -1,0 +1,1029 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03670</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03670</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#catherineasauthor"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) There is mention of a “revolution” occurring on 22 April, and the news came from Warsaw,
+     but what I see about the uprising is from 17 April. I coded it anyway (2) Could not identify
+     the Abby Bayanne, Trirouki, or Bekray (3) Catherine mentions “Servius Hostilius” but I think
+     she is mixing together the names of two separate Roman Kings (Tullus Hostilius and Servius
+     Tullius), so I did not code the name </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-29">29-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:54:58Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03670">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-04-29">29 avril</date>.</dateline></opener>
+    <p><rs ref="people.xml#gri01"> Souffre-douleur</rs> saura comme quoi le maréchal <persName
+      ref="people.xml#pot01"> prince Potemkine</persName> nous a donné hier une fête superbe, à
+     laquelle j’ai assisté depuis sept heures du soir jusqu’à deux heures du matin, que je m’en suis
+     allée; or, de ma maison à la sienne, qui touche les casernes de la garde à cheval, il y aura
+     quatre verstes; mais accoutumée à me lever à six heures du matin, mon sommeil n’a pas dépassé
+     cette heure; présentement je vous écris pour me guérir d’un peu de mal de tête que j’ai. Cette
+     fête, quand j’arrivai, commença par une cocagne, dont je n’ai rien vu que les débris, parce que
+     dans un zeste le peuple l’emporta; <hi rend="italic">l'honorable public </hi>qui attendait
+     cette cocagne dans la pluie, laquelle ne discontinuait pas depuis midi, marqua beaucoup
+     d’empressement à s’en saisir, après quoi je pense que ceux qui s’en emparèrent ne manquèrent
+     pas de s’en retourner chez eux pour jouir de leurs travaux. Pour le public de l’intérieur du
+     palais du prince invité par billets, il se rendit, en passant par un superbe vestibule et une
+     avant-salle, dans une immense salle qui, dit-on, en fait de bâtisses est après St Pierre
+      de <placeName ref="places.xml#rom03">Rome</placeName> ce qu’on connaît de plus beau et de plus
+     grand; cette salle contient deux colonnades, et derrière l’une des deux il y a un grand jardin
+     d’hiver, dans lequel il y a des statues et des vases qui n’y paraissent pas fort grands. Par là
+     vous pouvez juger de l’étendue: en voici le contour à peu près; faites-vous en une idée si vous
+     pouvez.</p>
+    <note type="editorial"><p>In the letter there is a drawing Catherine made of the room. The
+      points below are from the key she included with the drawing</p>
+     <p>1. Vestibule.</p>
+     <p>2. Avant-salle fort belle.</p>
+     <p>3. Grande salle.</p>
+     <p>4. Deux grands vases de marbre.</p>
+     <p>5. Jardin avec statues et vases.</p></note>
+    <p>La grande salle a, je pense, 35 toises de long; elle est de briques, mais l’architecture en
+     est noble et grande. Dès que j’entrai dans la salle 3, le prince me mena vers une rangée de
+     chaises placées à peu près à l’endroit marqué + +; là je m’assis avec le public non mouillé et
+     sans bonnet de nuit, et nous vîmes sortir du jardin par les endroits marqués tt les deux
+     quadrilles, couleur de rose et bleu céleste; dans la première était M. <persName
+      ref="people.xml#ale01"> Alexandre</persName>, et dans la seconde le Sr <persName
+      ref="people.xml#kon01"> Constantin</persName>. Chaque quadrille contenait vingt-quatre paires;
+     tout cela contenait la plus belle jeunesse en hommes et en femmes de <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>, et tout cela était couvert, de pied en cap,
+     de tous les bijoux de la ville et des faubourgs; ils s’acquittèrent de leurs différentes danses
+     à merveille, et il est impossible de voir rien de plus beau, ni de plus varié, ni de plus
+     brillant que tout ce que ces deux quadrilles exécutèrent. Ceci dura à l’entour de trois quarts
+     d’heure, après quoi l’hôte me mena, et toute la compagnie, au théâtre, où la comédie fut jouée;
+     celle-ci finie, nous rentrâmes dans la salle où le bal commence, au milieu duquel, au lieu de
+     contre-danse, nos jeunes gens prirent la fantaisie de recommencer l’apparition des deux
+     quadrilles, dont tout le monde une seconde fois se trouva à la lettre enthousiasmé. Ceci fini,
+     j’allai me reposer dans les appartements superbes de ce palais enchanté; vers minuit on vint
+     annoncer le souper; il était dressé dans la salle du spectacle; les deux quadrilles soupaient
+     sur le théâtre, NB. que tous les hommes de ces deux quadrilles étaient vêtus à l’espagnole,
+     toutes les femmes à la grecque; les autres tables remplissaient l’amphithéâtre, ce qui faisait
+     un effet superbe. Encore après souper il y eut dans l’avant-salle une musique vocale et
+     instrumentale, après laquelle je m’en allai à deux heures du matin. Voilà, monsieur, comme au
+     milieu du bruit et de la guerre et des menaces des dictateurs on se conduit à <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>.</p>
+    <p>Dans ce moment je reçois un courrier de <placeName ref="places.xml#war01"
+      >Varsovie</placeName>, où on me dit qu’il y a eu, le 22 avril, <rs ref="events.xml#kosci01">
+      une révolution</rs>, mais nous verrons en quoi elle consiste: les premiers avis disent comme
+     si la cour et le tiers ont introduit ou donné au roi un pouvoir arbitraire. Il faudra voir cela
+     plus en détail, ma à tout événement nous sommes parfaitement préparée, et morgué, nous ne
+     plierons pas devant le diable même. Tiens, <rs ref="people.xml#gri01">souffre-douleur</rs>, je
+     vous le. promets. Les écrits composés à <placeName ref="places.xml#got01"
+     >Gotha</placeName> sont très bons, et le <title ref="works.xml#nothun01" xml:lang="de">Noth-
+      und Hülfsbüchlein</title> aussi. Je passerais tout de suite au commentaire des lettres, si M.
+      <persName ref="people.xml#mac01"> Machkof</persName> ne m’avait apporté votre lettre No 24.
+     D’abord <persName ref="people.xml#ola01"> Olejas</persName>, dont je ne sais pas plus écrire le
+     nom, qui vous a tout apporté, je ne l’ai point vu, parce que l’on l’avait renvoyé avant que
+     j’aie lu votre lettre. Vos pièces de théâtre envoyées ne pouvant être représentées sur le
+     théâtre de l’<placeName ref="places.xml#her01"> hermitage</placeName>, ne sauraient vous
+     acquérir le droit d’un exemplaire. Elles sont grossières, ordurières, et nous avons les
+     oreilles trop bien nourries pour souffrir d’aussi mauvaises drogues, et en général je voudrais
+     bien savoir ce que les Français feront de leurs meilleurs auteurs: feront-ils brûler leurs
+     pièces et leurs ouvrages en <placeName ref="places.xml#gre04"> place de Grève</placeName>, car
+     tout cela ne va plus aux bêtises qu’ils font; <persName ref="people.xml#rou01">
+      Rousseau</persName> les a mis à quatre pattes. Ce <persName ref="people.xml#con04">
+      Condorcet</persName> du club de 1789 est-il le même qui a élevé le <persName
+      ref="people.xml#fer06"> duc de Parme</persName>? Question à laquelle vous voudrez bien
+     répondre avec précision.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-04-30">30 d’avril</date></dateline></opener>
+    <p>M. <persName ref="people.xml#ale01"> Alexandre</persName> a fait la conquête du <persName
+      ref="people.xml#pot01"> prince Potemkine</persName>, qui l’appelle le prince de son coeur: il
+     lui trouve la figure d’Apollon jointe à une grande modestie, à beaucoup d’esprit; c’est un être
+     réfléchi, rempli de politesse, d’aménité, de connaissances; enfin, si on avait choisi pour sa
+     place entre des milliers, il serait difficile d’en trouver de pareils, et impossible de trouver
+     mieux. M. <persName ref="people.xml#ale01"> Alexandre</persName>, cet hiver, a fait la conquête
+     de tout ce qui a été à portée de faire sa connaissance, et je ne jurerai pas que sur plus d’une
+     des personnes de son âge il n’ait fait quelque peu d’impressions plus fortes que celle-là;
+     ordinairement dans son âge les petits garçons sont insupportables; c’est ce qu’il n’est pas, et
+     le voilà dans sa quatorzième année. Je lui ai dit l’autre fois qu’il n’était pas bien beau; je
+     l’ai vu très modestement sourire à ce propos, à quoi j’ajoutai tout de suite qu’on ne
+     choisissait pas sa figure et qu'il fallait la laisser aller comme elle allait. J’ai pris
+     l’allure avec lui que quand je ne puis pas m’empêcher de le louer, je loue son habit à tout
+     rompre; c’est ce que j’ai fait à mon jour de naissance, où ce drôle était d’une beauté vraiment
+     ravissante.</p>
+    <p>Le voyage de <persName ref="people.xml#nar02"> Léon Narichkine</persName> par terre et par
+     mer vous l’aurez dès qu’on le retrouvera. Les pièces allemandes composées à <placeName
+      ref="places.xml#got01">Gotha</placeName> sont très bonnes dans leur genre. Qu’il en arrive de
+      <persName ref="people.xml#fay01"> La Fayette</persName> ce qu’il pourra, ma qu’on me fasse
+     justice d’un autre scélérat entouré de plus de scélératesse encore qu’il n’est mauvais
+     lui-même; c’est cela qui mériterait des punitions sévères. Vous devinez sans doute que c’est
+     Mr O. — <persName ref="people.xml#mir01">Mirabeau</persName> était l’être colossal ou
+     monstrueux de notre temps, car dans un autre il aurait été fui, détesté, enfermé, pendu, roué
+     etc. Il faudrait feuilleter l’histoire et voir si jamais pays ait été sauvé par autre qu’un
+     réellement grand homme, et d’après cette découverte je prédirais ce qu’il en sera de
+      la <placeName ref="places.xml#fra01">France</placeName>; pour la <placeName
+      ref="places.xml#per02"> Perse</placeName>, elle se détruit depuis près de cinquante ans, sans
+     que ce sauveur ait encore paru. La <placeName ref="places.xml#rus01">Russie</placeName>, à
+     l’extinction de la race de <persName ref="people.xml#rur01"> Rurik</persName>, a été sauvée
+     d’une quarantaine d’années de guerres intestines par trois hommes, l’un riche, l’autre
+     courageux, le troisième politique habile, tous les trois ayant parfaitement les qualités
+     nécessaires pour réussir dans leur temps. Dès que le premier prince de la face de Romanof fut
+     placé sur le trône, le tout cessa, parce qu’il n’y avait plus de quoi se quereller, la place
+     étant prise; ce prince n’avait que 16 ans, et son père le patriarche régna sous son nom;
+     c’était lui qui était ce politique habile pour le temps où il vivait. Savez-vous ce qu’il en
+     arrivera de la <placeName ref="places.xml#fra01">France</placeName> si on parvient à en faire
+     une république? C’est alors que tout le monde désirera qu’elle redevienne monarchie. Croyez-
+     moi, personne ne se plait plus à une cour que les républicains. Mais si je continue, je ferai
+     des livres, et non une pancarte de lettre. Selon ce que je vois et entends de la <placeName
+      ref="places.xml#fra01">France</placeName>, je la regarde comme malade d’esprit, ma leur
+     légèreté doit faire passer cette maladie plus vite chez eux que chez tout autre peuple atteint
+     de cette épidémie; cette maladie paraît leur prendre tous les deux cents ans; voyez leur
+     histoire, combien a-t-elle duré ci-devant? Répondez, s’il vous plaît.</p>
+   </div>
+   <div>
+    <opener><dateline> A <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, ce <date
+       when-custom="1791-05-01">2 de mai</date>.</dateline></opener>
+    <p>Hier à toute bride je suis venue ici sans dire gare à personne, et comme je n’ai rien à
+     faire, tandis que la <seg xml:lang="de"> schwere</seg> bagage arrive, je continue mon épître
+     aux gens de Grimma. Je n’aime pas les honneurs rendus à <persName ref="people.xml#mir01"
+      >Mirabeau</persName>, et je ne comprends pas pourquoi, à moins que ce ne soit pour encourager
+     la scélératesse et tous les vices. <persName ref="people.xml#mir01">Mirabeau</persName> mérite
+     l’estime de <placeName ref="places.xml#sod01"> Sodome et de Gomorrhe</placeName>. J’ai commencé
+     à lire la petite brochure de la coalition. Quand vous m’aurez envoyé la scène de <rs
+      ref="people.xml#geo02"> frère Ge</rs> avec le ministre Pr., je vous enverrai le pendant d’un
+     employé de <rs ref="people.xml#gus01"> fr. Gu</rs> avec un quelqu’un auquel il avait affaire,
+     qui est un chef-d’oeuvre dans ce genre. Je ne doute pas que vos démocrates ne soient soldés par
+     l’absolu et le limité. Il faut espérer que l’épilepsie nous défera un jour du grandissime
+      politique <persName ref="people.xml#her02">Hertzberg</persName> avant qu’il ait eu le temps de
+     faire tout le mal qu’il médite.</p>
+    <p>Je voudrais que vous ne fussiez jamais malade, et je vous remercie bien sincèrement du plan
+     que vous me proposez; il est déjà en partie exécuté. Pour de M. <rs ref="people.xml#gus01">
+      Gust Fals</rs>., qui est-ce qui en peut répondre? Cependant je pense qu’il en est aussi plus
+     aux démonstrations pour obtenir, car il doit s’attendre à être abandonné, et si les Angl. ne
+     fourrent pas leur nez dans la Balt., je pense que l’autre ne sera pas tenté de recommencer,
+     mais c’est un scélérat sur lequel on ne peut jamais compter. Il paraît dans ce moment que les
+     Angl. changent de ministère et peut-être de mesures, vu l’extrême répugnance de la <rs
+      ref="places.xml#eng01"> nation anglaise</rs>, qui écrit sur toutes les maisons: point de
+     guerre avec la <placeName ref="places.xml#rus01">Russie</placeName>. Mais qu’ils viennent ou ne
+     viennent pas, nous chanterons avec vous: «Jean s’en alla comme il était venu, mangeant son
+     fonds avec son revenu». Mais je vous prie de n’avoir aucune insomnie, parce qu’il n’y a pas de
+     quoi en avoir.</p>
+    <p>Je souhaite de tout mon coeur que les projets de voyage pour les eaux de <placeName
+      ref="places.xml#bou01"> Bourbonne</placeName> et pour <placeName ref="places.xml#fra03">
+      Francfort</placeName> vous soulagent. Le Sr <persName ref="people.xml#mac01">
+      Machkof</persName> m’a porté les compliments de <persName ref="people.xml#bue01">madame de
+      Bueil</persName>; je me réjouis de ce qu’elle n’a pas changé de nom; je vous prie de la saluer
+     de ma part; j’espère que <persName ref="people.xml#cat05"> Katinka</persName> et <persName
+      ref="people.xml#cat06"> Cateau</persName> sont rétablis de l’inoculation. Cette inoculation
+     accommode terriblement ceux qui seraient morts de la petite-vérole non inoculée; <persName
+      ref="people.xml#mar03"> la troisième de mes petites-filles</persName> n’est pas
+     reconnaissable: elle était belle comme un ange avant l’inoculation; présentement tous les
+     traits sont grossis, et elle n’est rien moins que jolie dans ce moment. Vous ferez de ce qui
+     appartient à <persName ref="people.xml#cat05"> Katinka</persName> et a <persName
+      ref="people.xml#cat06"> Cateau</persName> tout ce que vous regarderez comme utile pour eux;
+     croyez-moi, la beauté n’est nulle part de trop, et j’en ai fait toujours grandissime cas,
+     quoique je n’aie jamais été fort belle, ma toute beauté a grand droit à mon suffrage. Le
+     parrain <persName ref="people.xml#ale01"> Alexandre</persName> est plus grand que moi de la
+     largeur de ma main, et il croît journellement à vue d’oeil. Vous pourriez répondre à <persName
+      ref="people.xml#cat05"> Katinka</persName> sur sa question: qu’est-ce qu’une impératrice, que
+     vous lui direz cela quand elle sera plus grande, parce qu’à présent elle n’y comprendrait rien,
+     et si elle insiste, contez-lui bien au long ce que c’est qu’une impératrice, et alors elle
+     verra elle-même qu’elle n’y entend rien. Voilà comme j’ai fait avec mes godelureaux, et cela
+     m’a toujours réussi.</p>
+    <p>Je n’entre point dans cette querelle sur Tauricien ou Taurien, et si vous avez envie d’en
+     engager une avec le maréchal <persName ref="people.xml#pot01"> prince Potemkine</persName>, il
+     ne tient qu’à vous: pour moi, dès qu’il s’agit de science quelconque, je m’enveloppe dans mon
+     manteau d’ignorant, et je me tais; je trouve cela pour nous autres ignorants d’une grande
+     commodité. Il n’y a qu’une voix sur le <persName ref="people.xml#ric02"> duc de
+      Richelieu</persName> d’à présent: puisse-t-il jouer le rôle du cardinal de ce nom un jour
+      en <placeName ref="places.xml#fra01">France</placeName>, sans cependant en avoir les défauts.
+     J’aime les gens de mérite, et à ce titre je lui veux tout plein de bien sans le connaître; je
+     lui ai écrit une belle lettre chevaleresque, en lui envoyant la croix de St George, et en dépit
+     de l’assemblée nationale, je veux qu’il reste <persName ref="people.xml#ric02"> duc de
+      Richelieu</persName>, et qu’il aide à rétablir la monarchie; entendez-vous, <rs
+      ref="people.xml#gri01">souffre-douleur</rs>? telle est ma volonté. Mais il y a un homme auquel
+     je ne puis pardonner ses fredaines: c’est <persName ref="people.xml#seg01">Ségur</persName>; fi
+     donc, il est faux comme Judas, et je ne m’étonne nullement que personne en <placeName
+      ref="places.xml#fra01">France</placeName> ne l’aime; faut avoir un avis dans ce monde, et qui
+     n’en a pas, se fait mépriser. Quel rôle jouera-t-il vis-à-vis du <persName
+      ref="people.xml#pop03"> pape</persName>? Celui qu’il joue vis-à-vis de moi, en partant d’ici
+     après qu’on lui avait frotté sous le nez tous les axiomes de l’ancienne chevalerie française,
+     après l’avoir fait convenir qu’il était au désespoir de ce qui arrivait, venu à <placeName
+      ref="places.xml#par01">Paris</placeName> que fait-il?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-05-03">3 de mai</date>.</dateline></opener>
+    <p>Chez les uns <rs ref="people.xml#seg01"> il</rs> se fait passer pour démocrate, chez les
+     autres pour aristocrate, et fait par être un des premiers à courir à l’hôtel de ville pour
+     prêter ce beau serment, après quoi il va à <placeName ref="places.xml#rom03"
+     >Rome</placeName> apparemment pour présenter au <persName ref="people.xml#pop03">
+      pape</persName> la figure d’un excommunié <seg xml:lang="la"> ipso facto</seg>. Je suis
+     enchantée qu’il ne revienne pas ici; il m’a écrit une fort grande lettre, dans laquelle il
+     exige que je lui réponde, parce que, dit-il, vous faites cet honneur au <persName
+      ref="people.xml#lig01"> prince de Ligne</persName> et au <persName ref="people.xml#nas01">
+      prince de Nassau</persName>. J’ai envie de lui répondre que <persName ref="people.xml#lig01">
+      Ligne</persName> n’a pas suivi le char de <persName ref="people.xml#noo01"> Van der
+      Noot</persName> et qu’il est resté fidèle à son maître légitime et qu’à l’autre il faut
+     indispensablement que j’écrive parce qu’il est immédiatement employé par et sous moi. Or donc,
+     pour ne pas lui dire ce qu’il mérite, il faut que ce ne soit pas moi, mais un autre qui lui
+     réponde pour moi.</p>
+    <p><seg xml:lang="la"> Commentarium Epistolarum.</seg></p>
+    <p>M. <persName ref="people.xml#rei04"> Reichard</persName> de <placeName ref="places.xml#got01"
+      >Gotha</placeName> avec son <seg xml:lang="de"> Zuruf</seg>, qui est une excellente chose,
+     écrit des lettres en français qu’il pense en allemand; mais les gouvernements des cantons
+     suisses ont raison d’être contents de son petit, mais excellent ouvrage. Le dialogue des
+     paysans est aussi très bon à l’usage auquel il est destiné. Le commentateur joint ses voeux à
+     celui de M. <persName ref="people.xml#rei04"> Reichard</persName> pour votre félicité et santé
+     présente et future.</p>
+    <p>Second commentaire sur la première du divin aux Grimmaliens.</p>
+    <p>Le premier paragraphe témoigne de l’appréhension sur votre santé, parce qu’il est privé de
+     l’honneur de vos lettres, qu’il attribue aussi aux troubles actuels de la <placeName
+      ref="places.xml#fra01">France</placeName>, qui auraient pu vous déterminer à quitter la chaise
+     de paille. M. <persName ref="people.xml#tur03"> Turlonia</persName> a été employé à déterrer
+     des informations. Dans le second paragraphe les appréhensions diminuent. M. <persName
+      ref="people.xml#tur03"> Turlonia</persName>, banquier auquel j’espère que je ne dois rien
+     encore, l’a consolé en l’informant que vous êtes à <placeName ref="places.xml#par01"
+      >Paris</placeName> jusqu’alors; il vous remercie de l’avoir consolé plus efficacement encore
+     sur l’état de votre santé, qui a été, grâce à Dieu, bien remise par l’usage des eaux minérales,
+     ce qui vous a procuré le plaisir de voir les fêtes de la coronation de <persName
+      ref="people.xml#leo01"> Sa Majesté l’Empereur</persName>, et une quantité prodigieuse de
+     princes d’<placeName ref="places.xml#ger01">Allemagne</placeName>, ce qui ne laisse pas que
+     d’avoir son prix pour un amateur, ajoute le commentateur, au risque d’être taxé de malice.</p>
+    <p>Troisième paragraphe. Le commentateur joint ses félicitations à celles du <rs
+      ref="people.xml#rei03"> divin</rs> bien cordialement sur votre convalescence; ils espèrent
+     tons les deux et désirent bien vivement qu’actuellement vous jouissiez d’une santé entièrement
+     affermie. Leurs voeux sont aussi les mêmes.</p>
+    <p>Le quatrième paragraphe parle de son éminence de <persName ref="people.xml#ber03">
+      Bèrnis</persName>, qui partage avec l’auteur et le commentateur les peines sur l’état de votre
+     santé. Celle de l’éminence se soutient, mais les sensations des calamités de sa patrie y
+     influent pourtant trop, dit le <rs ref="people.xml#rei03"> divin</rs>, pour qu’elle n’en
+     paraisse visiblement affaiblie, à quoi le commentateur ajoute ses regrets, et il pense que la
+     vue de mesdames <persName ref="people.xml#mar17"> Adélaïde</persName> et <persName
+      ref="people.xml#vic04"> Victoire</persName> ont dû ajouter aux souffrances du cardinal. Ces
+     filles de tant de rois, errantes hors de leur patrie à l’âge de soixante ans, font en vérité un
+     spectacle bien touchant. Ici le commentateur fiait une longue dissertation sur les vicissitudes
+     de ce monde, et comme quoi on ferait bien d’élever les enfants mieux qu’on n’a fait; il cite à
+     ce propos un proverbe chinois, qui dit que l’éducation élève et abaisse les races. Vous jugez
+     bien que je n’ai pas le temps de suivre le commentateur dans toutes ces digressions que son
+     imagination lui fournit, car avec l’âge, comme de raison, il devient tous les jours plus
+     bavard.</p>
+    <p>Au cinquième paragraphe. Le <rs ref="people.xml#rei03"> divin</rs> est très fâché de ce que
+     le cher monsieur a été privé d’un paquet de musique. Le commentateur dit: à eux le débat; il ne
+     connaît pas l’honnête de Rossi tourmenté de la fièvre et empêché de remplir la commission que
+     vous lui avez donnée; vous attendrez, s’il vous plaît, sa convalescence.</p>
+    <p>Cinquième paragraphe. La bien remise miniature de madame <persName ref="people.xml#mar12">
+      Maron</persName> est bien parvenue, dit le commentateur, et a fait la conquête du compère
+      <persName ref="people.xml#ale01"> Alexandre</persName>, lequel compère dessine lui-même fort
+     joliment, et à force de voir, je pense qu’il acquiert assez d’oeil pour distinguer à peu près
+     le mal du médiocre, et celui-ci du bon. Or le St Michel l’a frappé, et il m’a dit: Oh, cela est
+     charmant! Le commentateur soupçonne le compère comme quoi il n’est pas du tout indifférent aux
+     belles choses. Les ordres préalables du factotum pour payer <persName ref="people.xml#san03">
+      Santini</persName> sont partis, et préalablement le commentateur soupçonneux soupçonne comme
+     quoi <persName ref="people.xml#san03"> Santini</persName> pourrait être payé à l’heure qu’il
+     est, ou peu s’en faut. L’arrivée contemporaine des miniatures et des courriers, au dire du
+     commentateur, pourrait à vue de pays faciliter leurs expéditions, si les dames de <placeName
+      ref="places.xml#par01">Paris</placeName> toujours en insurrection n’en feront pas une à propos
+     de l’arrivée des miniatures ou du départ des courriers.  </p>
+    <p>Le sixième paragraphe de la première à la Grimaille annonce dans le courant du mois prochain
+     une occasion pour faire expédier à S. M. S. six grands panneaux peints en arabesques à
+     l’encaustique; le commentateur dit qu’ils seront les bienvenus si même ils étaient unis à je ne
+     sais quelle miniature que les troubles eussent empêchée d’arriver sans l’honneur de vos ordres;
+     Dieu merci, dit ce bavard de commentateur, que la guerre n’empêche pas encore de payer. <seg
+      xml:lang="de"> Gott weiß, das sind schwere Zeiten, aber alles wird bezahlt; hörst du wohl,
+      Schmerzaushalter</seg>? Béni soit le puissant promoteur de cette félicité influente avec
+     efficacité! Dites-lui donc qu’il vive malgré ses 72 ans; qu’est-ce que c’est que cela pour nous
+     autres qu’un pareil âge? Il faut aller à celui de Mathusalem; voilà un effort digne d’un grand
+     courage; quand vous aurez quatre-vingts ans, je vous conseille de vous marier comme Jacob. Le
+     commentateur dit avec le divin: allez donc, mon cher monsieur, bien au delà de ce terme, et
+     jouissez sans interruption de la pins parfaite et la plus méritée félicité dans une longue
+     suite d’heureuses années etc. Le commentateur ne s’est aperçu qu’en finissant, que ceci devait
+     parvenir à nouvel an, car la lettre est du 1 décembre: il y a six mois; pourquoi donc,
+     s’écrie-t-il, nous régaler d’aussi belles drogues?</p>
+   </div>
+   <div>
+    <opener><dateline> Seconde lettre du <rs ref="people.xml#rei03">divin</rs>, la première étant
+      heureusement coulée à fond. Ce <date when-custom="1791-05-07">7
+     mai</date>.</dateline></opener>
+    <p>Le commentateur fait chorus avec le <rs ref="people.xml#rei03"> divin</rs>, et il chante à
+     gorge déployée que Dieu bénisse le cher monsieur et sa résolution de retourner aux eaux, si
+     celles-ci lui ont été salutaires, et qu’elles rétablissent parfaitement votre santé, amen,
+     amen, amen, alleluia, alleluia, alleluia, en accompagnement de tout ce qn’a dit à ce sujet le
+     divin. A ce sujet vous saurez que cet hiver a été l’hiver de choeurs, de musique et de danse en
+     général, et que depuis le 8 de septembre jusqu’au 1 de mai, que je me suis sauvée de la ville,
+     on n’a fait que danser et chanter des choeurs. La pièce historique d'<title
+      ref="works.xml#olegcg01">Oleg</title> en a donné le branle: les choeurs d’<title
+      ref="works.xml#olegcg01"> Oleg</title> sont les plus beaux du monde et sont la plupart de
+      <persName ref="people.xml#sar01"> Sarti</persName>; tous les modes Grecs y sont réunis. Après
+     ceux-ci il ne faudrait pas parler d’un pauvre petit divertissement donné à l’<persName
+      ref="people.xml#her01"> hermitage</persName> et qui a eu le plus décidé succès au théâtre de
+     la ville: c’est <title ref="works.xml#fedoul01"> Fédoul</title> en choeurs comiques; or on
+     enverra au cher monsieur la musique de l’un et de l’autre dès qu’on l’aura, et l’on espère
+     qu’ils accompagneront cette pancarte. Les paroles de <title ref="works.xml#fedoul01">
+      Fédoul</title> sont de vieilles chansons russes et des proverbes cousus ensemble par l’<rs
+      ref="people.xml#cat01"> auteur d’Oleg</rs>; or <title ref="works.xml#olegcg01"> Oleg</title>
+     est composé des propres paroles de l’histoire; il n’y a que les choeurs qui y ont été cousus et
+     la scène d’<persName ref="people.xml#eur01"> Euripide</persName>; les choeurs du dernier acte
+     sont tirés des odes de <persName ref="people.xml#lom01"> Lomonossof</persName>; celui ou ceux
+     du troisième acte à la toilette de Bekray sont des anciennes chansons russes.</p>
+    <p>Voyez un peu où les lettres du divin nous mènent: assurément vous ne vous attendiez pas à
+     cette excursion, en voyant les alleluia. Je suis enchantée que la petite caisse avec la
+     miniature, dit le commentateur, adressée à M. <persName ref="people.xml#mon02">
+      Montmorin</persName>, n’ait pas donné le nez baissé dans le tripot du manège qui dit: on vole
+     et grappille tout ce qui lui tombe sous la patte. Mais en ceci le commentateur pourrait se
+     tromper, car quoiqu’on ait volé au roi son autorité qu’il a laissée choir, il est vrai, à la
+     noblesse, ses privilèges, ses biens, son état, son existence, qu’ils n’ont pas défendus, parce
+     qu’apparemment depuis qu’ils portent continuellement des frais, ils ont pendu leurs épées aux
+     croix de leurs vieux châteaux où elles auront été enfouies sous les ruines quand ceux-ci ont
+     été saccagés; qu’ils ont pris aux écclesiastiques leurs biens, leur état et leur religion; au
+     trésor du roi ses revenus, et s’en sont acheté des terres. Mais enfin une chétive miniature
+     pour les destructeurs des arts, des manufactures et de la splendeur de la <placeName
+      ref="places.xml#fra01">France</placeName> ne saurait être un objet tentant. Tous ces
+     coquins-là s’ils n’arment tandis que l’<placeName ref="places.xml#eng01"
+     >Angleterre</placeName> est armée, il faudra dire qu’ils ne savent ce qu’ils font, et ne font
+     que des sottises sans but, et que le ciel confonde tous ceux qui se mêlent du gouvernement des
+     peuples sans avoir pour but le vrai bien de l’état; tout cela mériterait de faire le saut
+     périlleux par la fenêtre, ou d’être envoyé aux Petites-Maisons, dit le commentateur fort
+     gravement. Les choses hors des règles qu’a faites le divin sont approuvées par son
+     commentateur, parce qu’elles nous ont procuré une très jolie miniature, mais qu’il ne s’avise
+     pas de faire de pareilles choses en grand; sur quoi il est à remarquer que le cher monsieur lui
+     a déjà fait des leçons convenables et applicables à l’exigence urgente du cas, soit dit en
+     termes divinement proportionnés. Le commentateur espère que les remboursements seront arrivés à
+     point fixe, et il est très d’accord qu’il n’y ait point de paiements déboursables sans
+     arrangements préalables. Cette paix tant souhaitée par le divin aurait eu lieu depuis très
+     longtemps selon le commentateur, sans la séquelle de Lucifer, les très hauts et très spirituels
+      <name ref="events.xml#allia01"> Gegu</name> et les bourdons qui les environnent, et à la tête
+     desquels se trouve le grand littérateur, <rs ref="people.xml#her02"> Coeur de Montorgueil</rs>
+     <seg xml:lang="de"> und hinter dem Kerl ist doch nichts als Faren</seg>. Le commentateur trouve
+     que le <rs ref="people.xml#rei03"> divin</rs> est aussi enthousiasmé des comtes régnants de
+      l’<placeName ref="places.xml#rus01">Empire</placeName> que le cher monsieur l’est des princes,
+     du <placeName ref="places.xml#hol01"> St Empire Romauo-Germanico</placeName>.</p>
+    <p>Fin du commentaire de la deuxième épitre aux Grimmaliens.</p>
+    <p>Commentaire de la troisième aux Grimmaliens.</p>
+    <p>Le commentateur fidèle au texte le suit avec exactitude, et par conséquent il dit que la
+     chère petite caisse avec la miniature se trouve arrivée et déballée et admirée depuis
+     longtemps; ainsi il conclut que le cher monsieur pourrait en avertir le cher divin, afin qu’il
+     ne tripotât plus pour sa chère petite miniature de mad. <persName ref="people.xml#mar12">
+      Teresina Maron</persName> représentant l’archange Michel terrassant Lucifer; que Dieu veuille
+     en vérifier l’augure et laisser choir le comte <rs ref="people.xml#her02"> Coeur de
+      Montorgueil</rs>, qui l’а bien mérité vis-à-vis de son maître et d’autres etc. etc. etc. Le
+     cher monsieur, j’espère, dit le commentateur, expédiera en due forme et teneur un remerciment
+     complet au <rs ref="people.xml#rei03"> divin</rs> de <placeName ref="places.xml#rom03"
+      >Rome</placeName> pour le cadeau du St Michel archange, mais il ne veut pas entendre parler,
+     non plus que le <rs ref="people.xml#rei03"> divin</rs>, de l’affaiblissement de votre santé.
+     Madame <persName ref="people.xml#kau01">Angelica Kauffmann</persName>, amie de <persName
+      ref="people.xml#bru06"> mad. Le Brun</persName>, partage les avis à <placeName
+      ref="places.xml#rom03">Rome</placeName>; comme je n’ai vu qu’un seul ouvrage de la seconde et
+     que j’en ai beaucoup de la première, je m’en tiens à celle-ci, dit le commentateur.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-05-09">9 mai</date>.</dateline></opener>
+    <p><seg xml:lang="de"> Die Zeit ist sehr fruchtbar, sagt der <persName ref="people.xml#fun01"
+       >Herr Funck</persName>, respectirter Erziehungs-director der ganzen Thomassinischen
+      Nachkommenschaft.</seg> Vous direz la même chose quand vous verrez arriver cette énorme
+     lettre; j’y joins ci-incluse la <title ref="works.xml#voyage05">«relation authentique du voyage
+      d’outre-mer de sire <persName ref="people.xml#nar02">Léon</persName>, grand écuyer</title>)»;
+     j’ai cru que je vous en avais envoyé l’original; peut-être l’aurez-vous égaré ou peut-être
+     l’аі-je égaré moi-même. Mais retournons au commentateur epistolarum. Le tableau de madame
+      <persName ref="people.xml#kau01"> Angelica</persName>, de riche composition, représente
+      <persName ref="people.xml#ach01"> Achille</persName> découvert par <persName
+      ref="people.xml#uly01"> Ulysse</persName> au milieu des filles du roi L. Il est plus faible
+     que le Servius Hostilius; le commentateur dit qu’il croit savoir que le dernier nommé est payé,
+     mais qu’il ignore si l’Achille l’est, et qu’il prie le cher monsieur d’avoir la bonté de
+     prendre le soin pour que mad. <persName ref="people.xml#kau01"> Angelica</persName> ne reste
+     pas sans être payée. Mais le <rs ref="people.xml#rei03"> divin</rs> a tort de dire que c’est le
+     meilleur de ses ouvrages: on voit bien qu’il ne l’a pas vu ensemble avec l’autre. Le
+     commentateur prétend qu’il ne connaît pas l’abbé Bayanne qui a réformé les dépenses de sa
+     maison, à cause des pertes qu’il a faites. </p>
+    <p hand="people.xml#unknown" rend="smallcaps"> Relation authentique d'un voyage outre-mer,
+      que sire <persName ref="people.xml#nar02">Léon grand ecuyer</persName> aurait entrepris par
+     l’avis de ses amis.</p>
+    <p>NB. Cet ouvrage sortira de la presse ensemble avec les oeuvres du <rs ref="people.xml#bor04">
+      comte de B.</rs> en 36 volumes in-folio, dès qu’il y aura un nombre suffisant de
+     souscripteurs.</p>
+    <p>Préface,</p>
+    <p>ou l’éditeur n’a pas oublié de parler de lui-même.</p>
+    <p>Chapitre 1. Comme quoi les amis de sire <persName ref="people.xml#nar02"> Léon</persName> lui
+     conseillent de faire un voyage par mer.</p>
+    <p>Ch. 2. Motifs de ce voyage.</p>
+    <p>Ch. 3. Le plaisir qu’aura sa chère épouse de le revoir après une longue absence, y entre pour
+     beaucoup.</p>
+    <p>Ch. 4. Résolution prise de partir. Préparatifs pour le départ de sire <persName
+      ref="people.xml#nar02"> Léon</persName> par terre de <placeName ref="places.xml#pet01">
+      Pétersbourg</placeName> pour la <rs ref="places.xml#cri01"> Tauride</rs>.</p>
+    <p>Ch. 5. Inventaire des meubles et utensiles nécessaires pour un voyage de long cours.</p>
+    <p>Ch. 6. Compte exact des frais et de l’emballage.</p>
+    <p>Ch. 7. Sire <persName ref="people.xml#nar02"> Léon</persName> prend congé de sa femme et de
+     sa famille, scène touchante calquée sur les adieux d’<persName ref="people.xml#ore01">
+      Oreste</persName> et de <persName ref="people.xml#pyl01"> Pylade</persName>.</p>
+    <p>Ch. 8. Sire <persName ref="people.xml#nar02"> Léon</persName> est porté par ses plus anciens
+     serviteurs dans sa voiture à la suite de ses autres effets.</p>
+    <p>Ch. 9. Les chevaux prennent le mors aux dents; ils sont heureusement arrêtés par une borne
+     au-devant d’un cabaret.</p>
+    <p>Ch. 10. Le voyageur effrayé descend de sa voiture, entre au cabaret; il y trouve un déjeuner
+     préparé pour autrui. Sire <persName ref="people.xml#nar02">Léon</persName> mange le déjeuner
+     par distraction. Le cabaretier lui présente le compte. Sire <persName ref="people.xml#nar02"
+      >Léon</persName> fait un billet à sa femme pour la prier de payer.</p>
+    <p>Ch. 11. Sur le chemin de <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName> sire
+      <persName ref="people.xml#nar02"> Léon</persName> rencontre une troupe de gens à cheval, qu’il
+     prend pour des voleurs de grand chemin. En voulant mettre la tête à la portière, il donne du
+     front dans la glace, qui se brise et lui fait quelques égratignures.</p>
+    <p>Ch. 12. Sire <persName ref="people.xml#nar02"> Léon</persName>, inquiet sur les suites de cet
+     accident, fait halte au cabaret, où se croisent les chemins de Trirouki; ici il rencontre son
+     ancien ami <rs ref="people.xml#str01"> St</rs>. en station; ils vident ensemble une pinte
+     de porter.  </p>
+    <p>Ch. 13. 11 arrive à <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>; il fait
+     visite à M. K., qui le reçoit en robe de chambre. Il va dîner chez 
+      B., où il convoite un gros jambon; il l’obtient comme provision de voyage, il l’emporte
+     sous son manteau. L’après-diner il rôde en voyageur pour s’instruire; il trouve le château
+     inhabité; il va au Parnasse etc. etc. etc.</p>
+    <p>Ch. 14. Du silence qu’il faut garder sur le reste du voyage jusqu’à <placeName
+      ref="places.xml#pol02"> Polotsk</placeName>. Dissertation sur le genre ennuyeux.</p>
+    <p>Ch. 15. Arrivé à <placeName ref="places.xml#pol02"> Polotsk</placeName>, il va voir ses
+     anciens amis: <seg xml:lang="la">primo</seg>, les <orgName ref="orgs.xml#jesu01"> jésuites</orgName>. <seg xml:lang="la"
+      > Secundo</seg>, les juifs. Il mange et boit partout beaucoup, ce qui lui donne une sorte
+     d’indigestion accompagnée de battements de coeur, pendant laquelle, n’ayant rien à faire, il
+     écrit une lettre fort tendre à sa chère épouse, où il lui fait le récit de ce qu’il a vu,
+     mangé, bu; cette lettre commence par ces mots: ma chère, et finit par ceux-ci: je vous embrasse
+     m million de fois.</p>
+    <p>Ch. 16. Sire <persName ref="people.xml#nar02"> Léon</persName> arrive à <placeName
+      ref="places.xml#mog01"> Mohilef</placeName>; il va rendre visite à M. P.. Ils passent en revue
+     toutes les espiègleries qu’ils ont faites ensemble depuis 30 ans. M. P.. demande les raisons de
+     ce voyage. Sire <persName ref="people.xml#nar02"> Léon</persName> lui en dit de très mauvaises,
+     et lui tient des propos qui ressemblent assez à du galimatias, ce qui fait supposer à l’autre
+     qu’il y entre une sorte de politique dans les motifs de ce voyage.</p>
+    <p>Ch. 17. Entre <placeName ref="places.xml#mog01"> Mohilef</placeName> et <placeName
+      ref="places.xml#sta01"> Starodoub</placeName> une des roues du carrosse de sire <persName
+      ref="people.xml#nar02"> Léon</persName> souffre un échec.</p>
+    <p>Ch. 18. Passé <placeName ref="places.xml#sta01">Starodoub</placeName>, sire <persName
+      ref="people.xml#nar02"> Léon</persName> trouve des chemins affreux causés par de pluies
+     continuelles ; beaucoup de ponts sont rompus par les eaux, il risque de périr dans les boues ;
+     il verse une couple de fois, il fait une partie du chemin à pied.</p>
+    <p>Ch. 19. Sire <persName ref="people.xml#nar02"> Léon</persName>, pense s’évanouir de peur
+     lorsqu’il passe le pont flottant du <rs ref="places.xml#dni03"> Boristhène</rs> sous <placeName
+      ref="places.xml#kie01"> Kiov</placeName>. Douze raisons pour lesquelles sire <persName
+      ref="people.xml#nar02"> Léon</persName> ne descend point dans les catacombes de <placeName
+      ref="places.xml#kie01"> Kiovie</placeName> ; sur douze raisons il y en a dix de mauvaises.</p>
+    <p>Ch. 20. Il prend à sire <persName ref="people.xml#nar02"> Léon</persName> un accès de
+     dévotion ; il court de couvent en couvent, tant à <placeName ref="places.xml#kie01">
+      Kiov</placeName> qu’à l’entour; dans chacun d’iceux et chez ses connaissances on lui présente
+     un verre d’eau-de-vie; dans une matinée il en prend par politesse une quarantaine.</p>
+    <p>Ch. 21. Sire <persName ref="people.xml#nar02"> Léon</persName> se pâme d’admiration pour les
+     clochers dorés qu’il voit de tous côtés à l’entour de lui.</p>
+    <p>C)h. 22. Départ de <placeName ref="places.xml#kie01"> Kiov</placeName>.</p>
+    <p>Ch. 23. En approchant de <placeName ref="places.xml#khe01">Kherson</placeName>, il voit de
+     loin des <orgName ref="orgs.xml#turk01"> Turcs</orgName>. Le soir de son arrivée il lui prend
+     un mal de tête, ce qui lui donne de l’appréhension, comme quoi la vue des musulmans lui aurait
+     donné de la peste. Il sue beaucoup la nuit, et se trouvant mieux, il part le lendemain de grand
+     matin, crainte de récidive.</p>
+    <p>Ch. 24. Arrivée de sire <persName ref="people.xml#nar02"> Léon</persName> à <placeName
+      ref="places.xml#sev01"> Sébastopol</placeName>: il y voit, non sans effroi, pour la première
+     fois, la <placeName ref="places.xml#bla01"> Mer Noire</placeName>.</p>
+    <p>Ch. 25. Sire <persName ref="people.xml#nar02"> Léon</persName> est obligé de s’arrêter deux
+     fois 24 heures à <placeName ref="places.xml#sev01"> Sébastopol</placeName>. Il emploie
+     utilement ce temps à étudier à fond l’histoire fabuleuse, profane, ecclésiastique et naturelle
+     de la <rs ref="places.xml#cri01"> Tauride</rs>. Il se propose d’en donner une nouvelle au
+     public à son retour.</p>
+    <p>Ch. 26. Sire <persName ref="people.xml#nar02"> Léon</persName> s’embarque sur un paquebot
+      pour <placeName ref="places.xml#ist01">Constantinople</placeName>.</p>
+    <p>Ch. 27. Description poétique des côtes de la <rs ref="places.xml#cri01"> Tauride</rs>, de ses
+     charmante vallons; des montagnes riantes etc. etc etc.</p>
+    <p>Ch. 28. A mesure que sire <persName ref="people.xml#nar02"> Léon</persName> s’éloigne du
+     rivage, le vent devient plus fort, la mer plus agitée, le soleil s'obscurcit, le tonnerre
+     gronde, la foudre tout près tombe du navire; il en est quitte pour la frayeur.</p>
+    <p>Ch. 29. Le vent redouble de force, et en 36 heures on aborde à <placeName
+      ref="places.xml#tar03"> Thérapia</placeName>.</p>
+    <p>Ch. 30. Sire Léon est très bien accueilli à <placeName ref="places.xml#ist01"
+      >Constantinople</placeName>; à son arrivée il apprend que la peste y fait du ravage.</p>
+    <p>Ch. 31. Le grand seigneur, informé de son arrivée, désire de le voir.</p>
+    <p>Ch. 32. Sire <persName ref="people.xml#nar02"> Léon</persName> se dit malade pour éviter
+     cette entrevue en temps de peste.</p>
+    <p>Ch. 33. On persuade sire <persName ref="people.xml#nar02"> Léon</persName> de se rendre chez
+     le sultan; raisons qu’on lui allègue; il fait l’enfant.</p>
+    <p>Ch. 34. La peste diminue. Sire <persName ref="people.xml#nar02"> Léon</persName> a une
+     entrevue avec le grand seigneur dans un kiosque proche d’un magasin à poudre. Le sultan prie
+     sire <persName ref="people.xml#nar02"> Léon</persName> de lui dresser un cheval. </p>
+    <p>Ch. 35. Sire <persName ref="people.xml#nar02"> Léon</persName> ne sachant comment s’y
+     prendre, on lui conseille d’acheter un cheval tout dressé et de le présenter à <rs
+      ref="places.xml#sel01"> Sa Hautesse</rs>.</p>
+    <p>Ch. 36. Le <persName ref="people.xml#sel01"> sultan</persName> en reconnaissance donne à sire
+     Léon la charge de bouyouk-ibragor.</p>
+    <p>Ch. 37. Sire <persName ref="people.xml#nar02"> Léon</persName> retourne une seconde fois au
+     sérail pour remercier le grand sultan. On fait monter un nain de <rs ref="people.xml#sel01"> Sa
+      Hautesse</rs> sur le cheval qu’avait présenté sire <persName ref="people.xml#nar02">
+      Léon</persName>; le cheval se cabre, le nain tombe, se démet la hanche; la colère du sultan
+     rejaillit sur le nouveau bouyouk-ibragor, on lui ôte sa dignité, le méchant nain l’accuse
+     d’avoir brigué sa place ; peu s’en faut qu’on ne l’étrangle dans la prison du Bostangis, où il
+     est confiné.</p>
+    <p>Ch. 38. Sire <persName ref="people.xml#nar02"> Léon</persName>, à l’aide de deux juifs et
+     d’un grec, se sauve de la prison du Bostangis-Bacha, et s’embarque pour les <placeName
+      ref="places.xml#dar02"> Dardanelles</placeName>.</p>
+    <p>Ch. 39. Il passe le château au moment même qu’on y fait une épreuve de pièces de 36. Les
+     boulets rasent la surface du vaisseau, quelques éclats de bombes tombent proche de sire
+      <persName ref="people.xml#nar02"> Léon</persName>; il tombe sur le tillac; on le croit un
+     instant mort, puis blessé; on le saigne; il revient à lui et en est quitte encore une fois pour
+     la frayeur.</p>
+    <p>Ch. 40. Le vent est bon; on passe <placeName ref="places.xml#lem01"> Lemnos</placeName> et
+     les autres îles de l’Archipel sans aucun accident.</p>
+    <p>Ch. 41. Un calme parfait les attend dans la <placeName ref="places.xml#med02">
+      Méditerranée</placeName>, durant lequel le vaisseau est pris par les corsaires d’<placeName
+      ref="places.xml#alg01"> Alger</placeName>. Sire <persName ref="people.xml#nar02">
+      Léon</persName> est réservé pour la part du dey.</p>
+    <p>Ch. 42. Comme quoi sire <persName ref="people.xml#nar02"> Léon</persName> à <placeName
+      ref="places.xml#alg01"> Alger</placeName> obtient l’importante commission de porter dans un
+     outre sur son dos, pendant dix ans, l’eau pour la cuisine du dey.</p>
+    <p>Ch. 43. Sa chère épouse, informée de cet événement, emploie toutes sortes de moyens pour le
+     racheter.</p>
+    <p>Ch. 44. Sire <persName ref="people.xml#nar02">Léon</persName> obtient sa liberté moyennant
+     une rançon de 50 mille roubles au bout de cinq ans.</p>
+    <p>Ch. 45. Il s’embarque à <placeName ref="places.xml#alg01"> Alger</placeName>, traverse le
+     canal de <placeName ref="places.xml#gib01"> Gibraltar</placeName> fort heureusement.</p>
+    <p>Ch. 46. Parvenu au <placeName ref="places.xml#cap02"> cap Finisterre</placeName>, le vaisseau
+     est assailli d’une forte tempête. Il en essuie une seconde dans <placeName
+      ref="places.xml#eng02"> La Manche</placeName>. Parvenu au Sund, le vaisseau touche terre. Sire
+      <persName ref="people.xml#nar02"> Léon</persName> se voit obligé d’en louer un autre.</p>
+    <p>Ch. 47. Dans la <placeName ref="places.xml#bal01">Baltique</placeName> sire <persName
+      ref="people.xml#nar02"> Léon</persName> est contrairié par les vents. A la hauteur de <rs
+      ref="places.xml#tal01">Rével</rs> le vaisseau donne contre un rocher et reçoit voie d’eau;
+     tout le monde est obligé de pomper jour et nuit. On parvient à boucher la voie d’eau.</p>
+    <p>Ch. 48. Entre <rs ref="places.xml#tal01"> Rével</rs> et <placeName ref="places.xml#kro01"
+      >Kronstadt</placeName> sire <persName ref="people.xml#nar02"> Léon</persName> est balloté par
+     les vents çà et là, pendant dix jours.</p>
+    <p>Ch. 49. A la vue de <placeName ref="places.xml#kro01">Kronstadt</placeName> un vent contraire
+     renvoie le vaisseau jusqu’à <placeName ref="places.xml#kra03"> Krasnaïa-Gorka</placeName>.</p>
+    <p>Ch. 50. Le vaisseau de sire <persName ref="people.xml#nar02"> Léon</persName> passe enfin
+     entre <placeName ref="places.xml#kro02"> Kronslott</placeName> et <placeName
+      ref="places.xml#kro01">Kronstadt</placeName>; en entrant dans le port, il heurte contre le
+     mur, une planche se détache, sire <persName ref="people.xml#nar02"> Léon</persName> veut sauter
+     dans la chaloupe, il tombe dans l’eau; on tâche à le raccrocher, mais en vain. L’amiral Gr. se
+     promène sur le port accompagné de deux chiens de <placeName ref="places.xml#new04">
+      Terre-Neuve</placeName>; ceux-ci se jettent à la nage, vont au fond, retirent sire <persName
+      ref="people.xml#nar02"> Léon</persName> par les pieds de la vase où la tête était enfoncée.
+     Les matelots, avec des crocs, viennent à l’aide des chiens; retiré de l’eau, on le roule sur un
+     tonneau. Sire <persName ref="people.xml#nar02"> Léon</persName> est rappellé à la vie et rendu
+     à sa chère épouse et à ses enfants. Description des illuminations, feux d’artifice, allégories,
+     inscriptions et parties de plaisir qui ont lieu au sujet du retour du sire <persName
+      ref="people.xml#nar02"> Léon</persName>.</p>
+    <p>Fin.</p>
+    <p>Fin du commentaire sur les lettres du <rs ref="people.xml#rei03"> divin</rs>.</p>
+    <p>Commencement de celui d’une lettre de <placeName ref="places.xml#fer01">Ferney</placeName>.
+     Il est étonnant tout ce qu’il y aurait à dire sur et à cette lettre: d’abord, en la prenant le
+     commentateur s’est aperçu qu’elle cachait huit ou dix feuilles écrites de votre main et qu’il
+     m’avait paru qui manquaient à une de vos lettres, car depuis la dignité reçue de garde-archive
+     souffre-douleurien, à peu près je ne sais plus par où commencer ou finir à lire vos lettres,
+      <seg xml:lang="de"> und da verkriecht sich dann und wann ein Blättchen wohl hinter ein
+      anderes, aber noch einmal ist es geschehen, das sieben oder acht Blätter sich so verkrochen
+      haben, das ich sie einige Tage gesucht hätte ohne sie zu finden. Nun habe ich sie, und werde
+      sie schon durchhecheln also Flachs durch den Ramm. Ist dieses nicht wahrlich eine so schon
+      ausgesonnene Vergleichung als selbst der ehrwürdige Homerus sie hätte dermalen aussinnen
+      können</seg>. Mais retournons d’<persName ref="people.xml#hom01"> Homère</persName> à
+      <persName ref="people.xml#wag02"> Wagnière</persName> et sa félicitation sur la paix avec
+      la <placeName ref="places.xml#swe01">Suède</placeName>, dit le commentateur.</p>
+    <p>Imaginez-vous qu’il avait des inquiétudes pour nous; celle-ci me marque bien son attachement,
+     et je suis fâchée qu’il en ait eu. Son respect et sa vénération pour son ancien maître le
+     rendent un être vraiment intéressant, car la reconnaissance est bien rare, mon cher monsieur,
+     aurait dit le <rs ref="people.xml#rei03"> divin</rs>; dans des temps aussi embrouillés que
+     remplis de brouillamini, on n’en a pas même pour des royaumes rendus, pour des couronnes
+     données etc. etc. etc. Tout ceci sont des réflexions de commentateur, comme vous le jugez bien.
+     Il ajoute que c’est le cas de l’<persName ref="people.xml#cat01"> impératrice</persName>
+      de <placeName ref="places.xml#rus01">Russie</placeName> et de son empire vis-à-vis de trois de
+     ses voisins, la <placeName ref="places.xml#pru01">Prusse</placeName>, la <placeName
+      ref="places.xml#pol01">Pologne</placeName> et la <placeName ref="places.xml#swe01"
+      >Suède</placeName>. <persName ref="people.xml#wag02"> Wagnière</persName>, après avoir écrit
+     une page et demie, craint d’être importun; il est agréable de lire cela après avoir fait une
+     pancarte de 15 feuilles, et il est très maladroit, ajoute le commentateur, d’en faire faire la
+     remarque à celui qui aura ces 15 feuilles à parcourir dans tous les sens et puis à les lire de
+     suite, et enfin à les commenter à son tour. On n’a jamais rien vu assurément de pareil que le
+     contenu de ces 15 feuilles; je prie le ciel que vous n’en mourriez d’étouffement, de rire,
+     d’étonnement, de lassitude, de persévérance de lecture, d’innombrables réflexions, d’idées et
+     d’imagination, sans compter le développement qu’elles produiront. Mais surtout n’allez pas
+     devenir aveugle en les lisant. <persName ref="people.xml#wag02"> Wagnière</persName> dit qu’il
+     y a du chaos: jamais rien ne le prouva mieux que ces 15 feuilles, et surtout cette quinzième,
+     et le <hi rend="italic">fiat lux</hi>! pourrait y venir à propos. Pour la bouteille d’encre, il
+     faut la laisser sécher dans la bouteille afin qu’elle ne barbouille personne. Qui est cette
+     Madame François sans remords? Le commentateur dit qu’il n’a pas l’honneur de connaître ce
+     vilain personnage.</p>
+    <p>Fin du commentaire de l’épitre de'Wagnière.</p>
+    <p>Commentaire des feuilles <seg xml:lang="de">die verkrochen und wieder zum Vorschein gekommen
+      sind</seg>. </p>
+    <p>Que le ciel vous soit en aide réellement pour lire tout ce que je barbouille et ne barbouille
+     pas, car vous lisez en blanc aussi souvent comme feu <persName ref="people.xml#did01"
+      >Diderot</persName>. Témoin ce que vous dites, dit toujours le commentateur, de la monarchie
+     Prussienne, à laquelle vous ne donnez pas plus de cinq ans pour être ruinée de fond en comble
+     par le grand <rs ref="people.xml#her02"> Coeur Montorgueil</rs>. Or sire <rs
+      ref="people.xml#gus01"> Gu</rs>. ou bien M. <rs ref="people.xml#fri03"> Guillaume</rs> a si
+     bien, je pense, senti cela qu’il vient de donner deux modérateurs de jeunesse à <rs
+      ref="people.xml#her02"> Coeur Montorgueil</rs>, mais ne voilà t-il pas ce diable de
+     commentateur qui dit qu’à propos de cela il s’est souvenu du proverbe allemand qui dit: <seg
+      xml:lang="de"> viele Röche verderben den Brei</seg>. Si j’attrape jamais le portrait de
+      <persName ref="people.xml#nec01"> Necker</persName>, il aura <rs ref="people.xml#her02"> Coeur
+      Montorgueil</rs> pour pendant, je vous en réponds. Comme littérateur et homme d’état, il faut
+     avouer pourtant que le dernier est plus tenace; son maître voudrait en être quitte, mais lui ne
+     quitte pas; mais il travaille de discréditer son cher et auguste maître chez ses sous-employés,
+     parce qu’on ne lui obéit aveuglement que jusqu’à ce qu’il veut déchaîner le diable; alors,
+     comme l’autre veut et ne veut pas et que sa conscience lui dit qu’il est trop passif pour être
+     actif et que ses entours sont profondément persuadés qu’il ne saurait outre-passer le <hi
+      rend="italic">bonhomme</hi>, la bonhomie s’emporte, se fâche, se démène, gronde, peste, et
+     fait parfaitement le dindon, en cherchant par ses entours les moyens de se rétracter et de dire
+     non pour l’actif, afin de rester au passif. Vous voyez, mon cher monsieur, que cela est clair
+     comme tout ce qui a le ton de <persName ref="people.xml#ber07"> Gros Réné</persName>, qui avec
+     le <rs ref="people.xml#rei03"> divin</rs> se fourre partout dans ces temps chers et
+     difficiles.</p>
+    <p>Tout ceci a été écrit le propre jour de la fête du grand Saint-Nicolas avant la messe; ce
+     grand saint donna à Arius un soufflet bien appliqué; qu’il veuille guider notre bras pour en
+     donner à droite et à gauche à tous les ennemis de la paix et par conséquent du genre humain.
+     Voilà la prière fervente du commentateur, dont la plume est devenue un perpetuum mobile depuis
+     bien des années, mais dont la tête ne tourne pas encore tout à fait, mais dont les idées
+     courent toujours sans s’arrêter comme celles à peu près des tâtes chaudes. Je suis enchantée
+     qu’à <placeName ref="places.xml#fra03"> Francfort</placeName> le dessécheur Wal. ne vous ait
+     pas attrapé le moindre petit mot qui ait pu passer pour une ouverture chez ces gens-là; il est
+     étonnant que le <rs ref="people.xml#pit01"> fils de Chatam</rs> diffère d’autant des principes
+     de son père, qui les disait hautement au parlement, au sujet des neutres. Pour des <orgName
+      ref="orgs.xml#bata01"> Bataves</orgName>, je ne puis dire pour le moment autre chose, dit le
+     commentateur, sinon <seg xml:lang="de"> kommt Zeit, kommt Rath</seg>. Pour ce qui regarde le
+     baron <persName ref="people.xml#sut01"> Sutherland</persName>, il mange trop pour la faire
+     longue et alors nous n’aurons plus de banquier aussi gros, mais tâcherons d’en trouver de plus
+     maigres, mais les banquiers hollandais qui se sont proposés ont fait des offres si magnifiques
+     et les ont si parfaitement remplies, tandis que les <orgName ref="orgs.xml#smet01"> Des
+      Smeth</orgName> ont toujours été si lambins et si pauvres en crédit qu’il n’est pas étonnant
+     que leurs antagonistes l’aient emporté chez nous qui demandions de l’argent, et non pas de quel
+     parti sont-ils? Je n’en démords pas, de ma prophétie; si le mal de votre révolution gagnait, ce
+     qu’il ne fera pas à cause des sottises de vos gens, j’en féliciterais les <orgName
+      ref="orgs.xml#turk01"> Turcs</orgName>. Mais je ne disconviens pas du tout que la <placeName
+      ref="places.xml#rus01">Russie</placeName> ne sauve le tout. Si les escadres anglaises viennent
+     dans la <placeName ref="places.xml#bal01">Baltique</placeName>, les Américains alors auront
+     beau jeu: ils n’auront qu’à prendre des lettres d’armateurs russes, et les voilà qui
+     prendraient autant de vaisseaux marchands anglais qu’ils pourraient et les mèneraient où bon
+     leur semblerait, et voilà le commencement de leur accroissement favorisé. Les chevaliers
+     français qui s’étaient faits palefreniers et joqueys n’ont rien d’étonnant, car c’étaient tous
+     des fils de laquais, à ce qu’on prétend.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-05-10">10 mai</date> au matin.</dateline></opener>
+    <p>Vous qui avez été l’ami de M. <persName ref="people.xml#nec01"> Necker</persName>, s’il m’en
+     souvient bien, jusqu’à son premier ministère, que ne tâchiez-vous de lui-insinuer ce que vous
+     pensiez sur ce qu’il entreprenait? Mais je sais aussi qu’il est difficile de faire entendre
+     raison à l’homme lorsque le ciel le punit ou munit d’orgueil: alors tout ses organes sont
+     fermés pour tout ce qu’on peut lui dire; n’y a que lui qui voit, qui imagine, qui opine, et
+     tout ce que pensent et disent les autres, fût-ce la plus belle chose du monde, n’est rien autre
+     qu’une offense à son orgueil: un orgueilleux est ivre d’orgueil; j’en ai vu comme cela, et je
+     les dépeins d’après nature. Vous dites sur les états-généraux ce que j’ai dit bien des fois
+     dans d’autres termes: ceux de 1359 ressemblent, de même que la ligue, comme deux gouttes d’eau
+     à tout ce qui se fait présentement; seulement les motifs étaient différents, et la fin de ce
+     siècle a démontré que ce dix-huitième siècle tant vanté ne vaut pas un liard plus que ceux qui
+     l’ont précédé.</p>
+    <p>Eh bien! Cette diète de <placeName ref="places.xml#pol01">Pologne</placeName> que vous mettez
+     au-dessus de l’assemblée nationale vient de renchérir en folie, car par amour pour la liberté
+     et pour être plus sûre d’icelle, elle vient de se livrer, pieds et poings liés, au roi
+      de <placeName ref="places.xml#pol01">Pologne</placeName> en abolissant le <seg xml:lang="la">
+      liberum veto</seg>, le palladium de leur liberté polonaise, <hi rend="italic">les
+      confédérations</hi>, et elle s’est choisi et établi une <hi rend="italic">hérédité de
+      rois</hi>. Ne faut-il pas avoir le diable au corps depuis la tête jusqu’aux pieds que de
+     manquer ainsi à son premier principe, et est-il possible d’avoir aussi peu de suite dans la
+     tête pour se laisser tromper aussi grossièrement sur son intérêt le plus essentiel? Le
+      <persName ref="people.xml#pon01">roi de <placeName ref="places.xml#pol01"
+      >Pologne</placeName></persName> est venu leur dire comme quoi les voisins allaient de nouveau
+     partager la <placeName ref="places.xml#pol01">Pologne</placeName>, et tout de suite tout le
+     monde a consenti à lui Conférer le pouvoir arbitraire; à présent nous verrons ce que <rs
+      ref="people.xml#pon01"> S. M</rs>. fera de son double serment, et s’il jettera au feu ses
+      <name ref="events.xml#pacta01"> Pacta conventa</name>, ou s’il ira voyager au carnaval de
+      <placeName ref="places.xml#ven01"> Venise</placeName>, comme on dit qu’il en a l’envie.</p>
+    <p>J’ai répondu à toutes les pancartes en miniature que j’ai reçues par <persName
+      ref="people.xml#bac01"> Bacchus</persName>, qui est très exact pour me les faire parvenir. <rs
+      ref="people.xml#bez01"> Factotum</rs> m’a avertie hier qu’un galopin part ces jours-ci pour
+     chez vous: faudra hâter le commentateur bavard d’être prêt à point marqué; d’ailleurs nous
+     enverrons pancarte comme elle sera, avec une phrase achevée ou non achevée. Respirez, respirez
+     à votre aise et ne vous tourmentez pas à m’écrire quand cela vous incommode. J’allais dire que
+     j’écrirai pour vous, tant je suis en train de griffonner, mais je me suis aperçue que je suis
+     ici, et vous à <placeName ref="places.xml#par01">Paris</placeName>. Je vous conseille de
+     dicter, car cent fois on m’a donné ce conseil: heureux celui qui peut s’en servir; pour moi, il
+     me paraît impossible de déraisonner avec la plume d’un autre. Pour vous, vous ne courrez pas ce
+     risque, mais moi, si je disais à un autre ce qui découle de ma plume, souvent il n’écrirait pas
+     ce que je lui dirais, et alors adieu la plume et les pensées.</p>
+    <p>D’abord, je suis bien aise, en prenant la lettre de <persName ref="people.xml#bue01"> madame
+      de Bueil</persName>, de voir qu’elle n’a pas quitté les armes de sa famille, en suite de quoi
+     j’ai regardé comment elle se signe, et j’ai été assez contente de cette signature, parce que je
+     vois qu’au moins elle n’a pas changé de nom. Puis est venu l’examen du texte de sa lettre, et
+     il m’a paru que cette dame était profondément affectée des malheurs de <rs
+      ref="places.xml#fra01"> sa patrie</rs>. Dites-lui, je vous prie, que personne ne désire plus
+     que moi que la <placeName ref="places.xml#fra01">France</placeName> reprenne sa place
+      en <placeName ref="places.xml#eur01">Europe</placeName>, et que je suis très tendrement
+     attachée au <rs ref="people.xml#lou01"> roi</rs>, à la <rs ref="people.xml#mar14"> reine</rs>
+     et à tout ce qui les regarde ; par métier et par devoir d’ailleurs, je suis royaliste, et n’ai
+     vu encore faire à aucune assemblée nationale ou diète rien autre chose que des multitudes de
+     bévues, ce qui assurément ne fait pas grand honneur à l’espèce humaine rassemblée. <persName
+      ref="people.xml#bue01"> Madame de Bueil</persName> me nomme sa bienfaitrice, mais ce titre
+     vous convient plus qu’à moi, mon cher monsieur. <persName ref="people.xml#bue01"> Madame de
+      Bueil</persName> me parle de ma correspondance avec <persName ref="people.xml#vol01"
+      >Voltaire</persName>; dites-lui, je vous prie, que ces lettres n’étaient pas écrites pour
+     l’impression, et que je suis bien fâchée qu’elles le soient. Remerciez, s’il vous plaît, cette
+     dame de ses voeux pour la paix, que je désire beaucoup moi-même, et dites-lui que je lui
+     souhaite toute sorte de bonheur, de même qu’à mes filleuls, et recommandez bien à <persName
+      ref="people.xml#cat06"> Cateau</persName> de devenir un jour un chevalier français de
+     l’ancienne roche, rempli d’honneur, de loyauté et de courage, fidèle à son roi et ne
+     connaissant que Dieu au-dessus de lui, afin qu’il contribue un jour à faire rentrer les
+     limaçons dans leurs coquilles. Il faut que vos Gaulois aient des coeurs de roche; comment cette
+      <rs ref="people.xml#mar14"> reine</rs> qui, les larmes aux yeux, n’ose parler à personne, ce
+      <rs ref="people.xml#lou01"> roi</rs> prisonnier auquel on fait écrire et publier des
+     platitudes dénuées de dignité, des vérités qui le dégradent, ainsi que sa nation, aux yeux de
+      l’<placeName ref="places.xml#eur01">Europe</placeName>, ne trouvent pas de libérateurs, de
+     sauveurs, des coeurs movibles pour les tirer de ces vilaines Tuileries bâties par <persName
+      ref="people.xml#cat07"> Catherine de Médicis</persName>? Qu’on me les tire de <placeName
+      ref="places.xml#par01">Paris</placeName>; voilà à quoi toute la <placeName
+      ref="places.xml#fra01">France</placeName> devrait s’occuper, car avant cela ne vous attendez à
+     aucune raison de la part de ces vilains et bas gilets. Entre vous et moi soit dit, il y a des
+     gens qui prétendent que par le canal du comte <persName ref="people.xml#fer01">
+      Fersen</persName> on pourrait faire parvenir à la <rs ref="people.xml#mar14"> reine</rs>
+     quelques paroles consolantes, mais vous pouvez juger vous-même de l’extrême délicatesse du
+     canal indiqué, et qu’il est impossible d’en user sans la plus grande prudence; d’ailleurs je
+     pense qu’il est du club des <orgName ref="orgs.xml#jaco01"> jacobins</orgName>. Je ne réponds
+     point sur ce que vous me dites de la prise d’<placeName ref="places.xml#izm01"
+      >Izmaïl</placeName>, parce que ce serait de la moutarde après dîner. Mais j’ai à vous dire que
+     nous attendons le Sr <persName ref="people.xml#faw01"> Fawkener</persName>, qui vient faire
+     ici, à ce qu’on dit, je ne sais quelle négociation, mais pour sûr il ne fera pas ce qu’il
+     voudra, et Jean s’en ira comme il est venu, avec sa flotte et son revenu.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-05-11">11 mai</date>.</dateline></opener>
+    <p>Dites la vérité, votre sieur d’<persName ref="people.xml#orl08"> Orléans</persName> est un
+     joli personnage? Est-il vrai que <rs ref="people.xml#lou11"> sa femme</rs> se sépare d’avec
+     lui?</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-05-12">12 mai</date>.</dateline></opener>
+    <p>Eh bien! Qu’avez-vous avec votre <persName ref="people.xml#lig01"> prince de
+     Ligne</persName>? <seg xml:lang="de"> Das ist nicht erlaubt das er hat einen solchen Brief
+      echappiren lassen; er sagt und schwort das er hat keine Zeile abschreiben lassen noch erlaubt
+      zu stehlen, aber, sagt er, Sie haben ihn auswendig gelernt, und das Gedruckte ist nicht dem
+      Original gleich; endlich sogar im Gedruckten sind Varianten, aber einige Stellen, und die
+      stärksten, haben sie wohl behalten und das war leicht. Ob er die Wahrheit sagt oder lügt, weiß
+      ich nicht, aber ich und der Graf Cobenzel haben sehr mit ihm gekeift, denn der Brief ist mit
+      seinem Courier abgefertigt worden, und also ist das auch denn wohl so so, mißlich im
+      Handwerke, Gott weiß an wem die Schuld, aber man muß in’s Künftige nicht so im Tage hinein
+      schreiben, sagt der Commentarienmacher, und Sie sehen auch wie sehr behutsam wir geworden sind
+      durch diesen langwierigen und wenig sagenden Brief, aber den Druck dennoch verbieten wir, der
+      Commentarienmacher und ich auch</seg>. Au reste, ayant relu cette lettre dans la feuille
+     archidémocratique que vous m’avez envoyée, je n’y vois pas ce que vous m’accusez d’avoir fait.
+     Voici, mon cher monsieur, ce que vous me dites mot à mot: «de sorte qu’en moins d’une de ses
+     colonnes le gazetier passe en revue la moitié de l’<placeName ref="places.xml#asi01">
+      Asie</placeName> et de l’<placeName ref="places.xml#eur01"> Europe</placeName> convenablement
+     drapée»; or je n’ai drapé personne: j’ai dit ce que chacun faisait, et ce que chacun, je pense,
+     sait qu’il fait; ainsi il n’y a pas de draperie à cela; mais au contraire c’est la vérité en
+     très grand déshabillé, selon moi; il se peut qu’elle déplaise à ceux à qui on chante du matin
+     au soir: «Que de grâce, que de grandeur! ah! combien monseigneur doit être content de
+     lui-même!» Mais tout cela n’en restera pas moins vrai pour cela. Je n’ai pas deux balances ni
+     deux poids dans cette balance; c’est en vérité une querelle d’allemand que vous, me faites; je
+     viens de vous exposer les choses comme elles sont, et <rs ref="people.xml#gri01">
+      souffre-douleur</rs> n’imprimera pas, j’en suis persuadée, toutes les fadaises que je dis dans
+     mes lettres et qui d’ailleurs ne seraient pas tout à fait comprises sans un commentaire qu’il
+     ne vaut pas la peine de faire.</p>
+    <p>Je ne sais ce que vous me voulez, ni votre M. <persName ref="people.xml#wim01">
+      Wimpfen</persName>, ni le Sr <persName ref="people.xml#cam03"> Camus</persName> au regard
+     farouche. Ces messieurs-là sont-ils législateurs ou ne le sont-ils pas? Sont-ils douze cents ou
+     ne le sont-ils pas? Leur obéit-on ou ne leur obéit on pas? Le <rs ref="people.xml#lou01">
+      roi</rs> leur obéit-il ou ne leur obéit-il pas? Décidez, s’il vous plait, et ne faites pas de
+     sire <persName ref="people.xml#cha15"> Chabroud</persName> le rapporteur pour cette affaire; le
+     oui ou non à chaque question suffira à démontrer si j’ai raison ou tort dans ce que j’ai dit;
+     puisque ces messieurs sont des républicains déterminés, ils doivent aimer, respecter et
+     encourager la vérité, et s’ils ne le feront pas, je dirai qu’ils ne sont rien du tout, parce
+     qu’ils sont inconséquents dans leurs principes. <seg xml:lang="la"> Finis coronat opus</seg>.
+     Ne m’en parlez plus; selon moi, ils sont bien propres à discréditer pour longtemps la liberté
+     et à la rendre odieuse à tous les peuples; après eux on en parlera avec ignominie pendant des
+     siècles. <persName ref="people.xml#rou01"> Rousseau</persName> a dit: je ne sais, ou si vous
+     voulez être libres, préparez-vous à supporter non seulement les épouvantables malheurs qui vous
+     y mèneront, mais encore ceux qui accompagnent et sont la suite de la liberté.</p>
+    <p>En temps et lieu vous me direz ce qui en a été de la promesse de M. <persName
+      ref="people.xml#mon02"> Montmorin</persName> eu égard à la pension de <persName
+      ref="people.xml#bue01">madame de Bueil</persName>; la lettre du ministre ne parait laisser
+     aucun doute. Suit le régistre de ce que <persName ref="people.xml#ola01"> Oléjas</persName> a
+     apporté, de même qu’un billet où vous me dites que <persName ref="people.xml#mir01"
+      >Mirabeau</persName> est à toute extrémité, et depuis ce temps-là je vous dirai moi qu’il est
+     mort et enterré. Reste au commentateur sous sa patte à commenter encore une lettre
+      de <placeName ref="places.xml#fer01">Ferney</placeName> du 10 janvier; je ne sais pas trop
+     pourquoi vous me l’avez envoyée, à moins que ce ne soit parce qu’il voudrait avoir une estampe
+     de mon portrait; elle est ci-jointe. Troisième lettre de <persName ref="people.xml#fer01">
+      Ferney</persName>, dit le commentateur, à laquelle il ne trouve pas le mot à dire, il est
+     vrai, et le commentateur lui même convient que cette fois-ci il écrit en se hâtant un peu, et
+     moi j’ajoute: tant mieux pour vous. Quatrième lettre de <placeName ref="places.xml#fer01"
+      >Ferney</placeName>. Il y regrette <persName ref="people.xml#rib02"> Ribaupierre</persName>,
+     et moi aussi, quoique sa conduite dans l’affaire de <rs ref="people.xml#dmi01"> l’habit
+      rouge</rs> n’a pas été justement à sa louange; il a laissé <rs ref="people.xml#rib04"> un fils
+      qui</rs> est un enfant charmant, auquel, de même qu’à <rs ref="people.xml#rib03"> sa
+      veuve</rs> et à ses autres enfants, j’ai donné une terre. Peut-être entendrons-nous parler de
+     paix un jour selon les souhaits de <persName ref="people.xml#wag02"> Wagnière</persName>, dit
+     le commentateur, et que la santé du <rs ref="people.xml#gri01"> souffre-douleur</rs> se
+     rétablira aussi; en attendant nous le laisserons maintenir en tranquillité l’établissement d’un
+     grand homme. Mais dites-moi donc, à qui cet établissement appartient maintenant? Le
+     commentateur prie instamment l’excellence souffre-douleurienne de le dispenser du commentaire
+     de la très longue lettre <rs ref="people.xml#kot01"> Kotzebueienne</rs>: il prétend qu’il
+     n’aime pas ceux qui s’affichent, et il veut que l’affiche vienne sans que l’un s’en mêle; je
+     crois que cet homme-là serait parfaitement bien, excepté chez nous où il est soupçonné être, je
+     ne sais trop pourquoi, entiché du <rs ref="people.xml#fri03"> Gu.. isme</rs>, expression neuve
+     et par là digne de remarque.</p>
+    <p>Vient la première épître <rs ref="people.xml#sch03"> Schombergienne</rs>. Commentaire.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1791-05-13">13 mai</date>.</dateline></opener>
+    <p>Le commentateur remarque que la brave femme n’est pas la seule qui a <persName
+      ref="people.xml#plu01"> Plutarque</persName> dans sa main pendant les temps difficiles; il dit
+     qu’il en est enchanté. Seconde ressemblance: M. de <persName ref="people.xml#sch03">
+      Schomberg</persName> vous aime beaucoup. <seg xml:lang="it"> Tertio</seg>, il n’aime point les
+     étouffements.</p>
+    <p>Seconde épître <rs ref="people.xml#sch03"> Sch</rs>.</p>
+    <p>Second commentaire.</p>
+    <p>Monsieur <persName ref="people.xml#chi01"> Tchitchagof</persName> a souri <seg xml:lang="de">
+      geschmustert</seg> quand il a vu l’inscription sous son buste; c’est beaucoup en vérité, et
+     depuis ce jour-là je lui ai vu une antique à trois couleurs sur le doigt, que je soupçonne sa
+     femme de lui avoir mise à ce petit doigt pour me l’offrir, si je m’avisais jamais de la
+     regarder, ce que j’évite comme le feu, et fais semblant de ne pas la voir. Il m’a paru qu’il
+     s’est gratté la joue l’autre fois en me parlant, pour me la faire remarquer. Mais à bon chat
+     bon rat; je n’y ai pas été prise.</p>
+    <p>Le commentateur dit que ce que M. de <persName ref="people.xml#sch03"> Sch</persName>. dit de
+     M. de <persName ref="people.xml#cas01"> Castries</persName> est charmant; il est parfaitement
+     de son avis que les meilleurs ingrédients du baume de la vie sont la raison, la sagesse, la
+     constance; mais au lieu de la résignation douce et facile aux événements, auxquels il dit que
+     l’on ne peut rien, le commentateur voudrait qu’on y cherchât à remédier, parce qu’il prétend
+     qu’un homme d’esprit, et en général tout homme n’est jamais sans ressource. Je n’ai jamais aimé
+     la figure de Pierrot laissant pendre et traîner ses manches, et surtout depuis que je sais le
+     proverbe russe qui dit: <hi rend="italic">Ne soyez point assis avec les manches
+     pendus</hi>.</p>
+    <p><rs ref="people.xml#gri01"> Souffre-douleur</rs>, pourquoi parler de la traduction de
+      <persName ref="people.xml#plu01"> Plutarque</persName>? Vous faites le pendant du <persName
+      ref="people.xml#lig01"> prince de Ligne</persName>, dit le commentateur. Le cordon,
+     ajoute-t-il, pour le frère ne manquera pas, mais il nous faut encore un peu de temps; en
+     attendant, voici le portrait demandé fièrement et positivement. Je souhaite qu’il puisse faire
+     plaisir, mais assurément ce n’est pas celui d’un grand homme, plutôt d’une bonne âme.</p>
+    <p>Troisième épître.</p>
+    <p>Troisième commentaire.</p>
+    <p>Le commentateur dit que la meilleure des constitutions possibles ne vaut pas le diable,
+     puisqu’elle fait plus de malheureux que d’heureux, que les braves et honnêtes gens en pâtissent
+     et qu’il n’y a que les scélérats qui s’en trouvent bien, parce qu’on leur remplit les poches et
+     que personne ne les punit. Voilà le modèle qu’on propose à toute l’<placeName
+      ref="places.xml#eur01">Europe</placeName> d’imiter; avant cela je pense qu’il faudrait qu’elle
+     devînt folle. Les démocrates français sont en démence, ne leur en déplaise. J’en suis au
+     huitième tome de l’histoire de M. <persName ref="people.xml#gib01"> Gibbon</persName>; je
+     voudrais qu’il finît son ouvrage avant que de mourir.</p>
+    <p>Epître de <rs ref="people.xml#rum03"> St Nicolas</rs>.</p>
+    <p>Le commentateur dit que quand une promotion est réglée ou une gratification donnée, aucune
+     nouvelle bonne ni mauvaise ne l’arrête; aussi M. <rs ref="people.xml#rum03"> St Nicolas</rs> a
+     eu ce qui lui a été annoncé. Pour la dévotion à Ste Catherine, il en est comme des autres
+     choses humaines; il y peut avoir des variations, mais toutes choses vont leur train en dépit
+     des frondeurs, et nous comprend qui veut ou qui peut: comment rendre compte aux courtisans de
+     chaque regard? On aurait bien affaire. <persName ref="people.xml#ole01"> Oleg</persName> dit
+     qu’il est seul, que les hommes le jugent chacun selon sa faculté ou sa passion, qu’il n’a garde
+     de se disculper, et laisse à la postérité le soin de dire de lui et de ses actions ce qu’elle
+     jugera à propos.</p>
+    <p>Fragment d’une lettre de la duchesse de <placeName ref="places.xml#sax01"
+      >Saxe</placeName>-<placeName ref="places.xml#got01">Gotha</placeName>. Commentaire sur ce
+     fragment.</p>
+    <p>Le commentateur dit qu’elle vous demande un service essentiel pour son pauvre cousin de
+      <persName ref="people.xml#phi01"> Philipsthal</persName>, qui a été mortellement blessé. <seg
+      xml:lang="la"> Primo</seg>, quand il dit qu’il a perdu ses équipage» à cette occasion, il en a
+     terriblement menti. <seg xml:lang="la"> Secundo</seg>, il en a encore menti quand il a dit
+     qu’il a perdu six mois d’appointements: s’il les a réellement perdus, ce ne peut être qu’au
+     jeu, et comme il est très grand joueur et très dépensier, il est toujours vis-à-vis de rien, et
+     voilà pourquoi on ne saurait lui confier de régiment. Tout colonel qu’il est, <seg
+      xml:lang="de"> er ist ein sehr schlechter Wirth</seg>, il est guéri de sa blessure et
+     présentement ici; quand il était encore aux gardes, tous les deux mois il me présentait requête
+     déjà pour avoir de l’argent et m’ennuyait infiniment par là; présentement je lui ai fait donner
+     une gratification de mille ducats, mais je suis sûre que si je lui en donnais dix mille, il
+     serait toujours nécessiteux. Ce petit garçon est dépensier au possible; ainsi Mad. la duchesse
+     fera fort bien, si elle peut, de lui recommander de ne pas mentir et d’être moins joueur ; au
+     reste, je serais fort aise de faire plaisir à Mad. la <persName ref="people.xml#lou12">
+      duchesse de <placeName ref="places.xml#sax01">Saxe</placeName>-<placeName
+       ref="places.xml#got01">Gotha</placeName></persName>, mais au nom de Dieu, dit le
+     commentateur, que S. A. I. ne nous envoie point une douzaine de garçons comme celui-là. Elle
+     lui a fait peur, apparemment, en disant qu’elle voudrait avoir une douzaine de garçons pour
+     nous les envoyer; ce serait un terrible fardeau pour la caisse de <rs ref="people.xml#leo01">
+      S. M. S</rs>. Il paraît au commentateur qu’il les voit déjà tous avec des requêtes à la main
+     pour demander continuellement de l’argent qu’ils iront jouer le même jour, et si on ne leur en
+     donnera pas, ils crieront qu’on les abandonne et se plaindront aux duchesses, leurs cousines,
+     etc. etc. etc. Le commentateur demande pardon au <rs ref="people.xml#gri01">
+      souffre-douleur</rs> de sa sortie contre un prince du <placeName ref="places.xml#hol01"> St
+      Empire Romain</placeName>.</p>
+    <p>Vient un extrait d’une dépêche du comte de <persName ref="people.xml#ria01">
+      Riaucourt</persName>. Commentaire.</p>
+    <p>Ce 14 mai, à sept heures du matin, assise sur la colonnade de <placeName
+      ref="places.xml#tsa01"> Tsarsko-Sélo</placeName>, d’où je vois <placeName
+      ref="places.xml#pel01"> Pella</placeName> de mes yeux, quoiqu’il y ait d’ici là au moins 35
+     verstes, et outre <placeName ref="places.xml#pel01"> Pella</placeName> je vois une centaine de
+     verstes à la ronde. Cette colonnade encore a le singulier agrément que dans les temps froids
+     elle a toujours un côté qui l’est moins, et dans les temps chauds il y en a toujours aussi un
+     moins chaud que les autres. Le milieu de ma colonnade est vitré, et elle a 87 toises de long;
+     au bas et à côté il y a un jardin de fleurs; le dessous de ma colonnade est occupé par mes
+     femmes, qui sont là comme des nymphes au milieu des fleurs. Sur ma colonnade il y a les bustes
+     en bronze des plus grands hommes de l’antiquité, comme <persName ref="people.xml#hom01">
+      Homère</persName>, <persName ref="people.xml#dem01"> Démosthène</persName>, <persName
+      ref="people.xml#pla01"> Platon</persName> etc. Il y a aussi quelques autres statues; l’<title
+      ref="works.xml#hercul01"> Hercule Farnèse et Flore</title> sont sur l’escalier de la colonnade
+     qui mène au bout de la terrasse proche l’étang. <persName ref="people.xml#rum03"> St
+      Nicolas</persName> aurait pu vous parler de cela, si toutes les fêtes, et surtout les Altesses
+     de <placeName ref="places.xml#fra03"> Francfort</placeName>, n’eussent mis des entraves à la
+     conversation, dit le commentateur de la lettre de M. de <persName ref="people.xml#ria01">
+      Riaucourt</persName>, à laquelle, après cette longue excursion, il revient pourtant, ce qui
+     paraît, selon moi, indiquer quelque suite dans la tête du susdit personnage, dont les idées
+     voltigent sans doute çà et là sut différents objets, mais il paraît que la faute en est aux
+     dieux qui ont mis autour de nous tant de différents objets qu’on court aisément d’une lettre à
+     une colonnade et à sa belle vue, et de là on retourne à une lettre; or cette lettre-là le M. de
+      <persName ref="people.xml#ria01"> Riaucourt</persName> n’a au fond rien d’intéressant pour
+     nous. Car la <name type="event" ref="events.xml#frenc01">révolution de <placeName
+       ref="places.xml#fra01">France</placeName></name> ne manquera pas de se casser le cou
+      en <placeName ref="places.xml#fra01">France</placeName> même, et alors toutes leurs opérations
+     se perdront comme de l’eau dans la mer. Que quelques Altesses d’<placeName
+      ref="places.xml#ger01">Allemagne</placeName> donnent dans ce charlatanisme; aussi cela n’est
+     pas étonnant vu la pente qu’ils ont pour les charlatans de toute espèce depuis quelques années,
+      <seg xml:lang="de"> aber der Reichsfrieden und die Reichs-Constitution wird wohl den
+      durchlauchtigen Fürsten wieder die Köpfchen nach der rechten Seite drehen, insonderheit wenn
+      der große</seg> Insurrections-instigator <seg xml:lang="de"> der Herr Graf <persName
+       ref="people.xml#her02">Coeur Montorgueil</persName> wird den Hals auf eine oder die andere
+      Art gebrochen haben, welches leicht geschehen kann, da man ihm schon zwei Küchen-Jungens zur
+      Seite gesetzt hat, und das mit dem allerausdrücklichsten Befehle sich nicht zu unterstehen an
+      die auswärtigen Küchenschreiber eine einzige Zeile zu schreiben, auch die Schreiber nicht an
+      ihn ohne ausdrücklichen Verfehl des Herrn Oberküchenmeisters, des ja sehr weisen, zärtlichen,
+      großumfassenden, wie auch vielwiegenden <persName ref="people.xml#gus01">Herrn
+      Gu.</persName></seg></p>
+    <p>Fin de ce commentaire-là, commencement d’un antre.</p>
+    <p>S’agit du contre-amiral <persName ref="people.xml#jon01"> Paul Jones</persName>; voyons ce
+     qu’il nous veut et qu’est- ce que son plan; je pense que le meilleur serait, comme je pense
+     l’avoir dit plus haut, que si l’<placeName ref="places.xml#eng01"
+     >Angleterre</placeName> s’avise de nous déclarer la guerre, avec nos lettres de marque de
+     prendre le plus qu’on pourrait de leurs vaisseaux: bien vite ils finiraient la guerre. Pour les
+     Indes, c’est si loin que, avant qu’on y arrive, la paix serait faite. Mais lisons la lettre du
+      Sr <persName ref="people.xml#jon01"> Paul Jones</persName>.</p>
+    <p>D’abord il me parle de sa campagne sur le <placeName ref="places.xml#dni02"
+     >Liman</placeName>, disant qu’il <hi rend="italic">n'accuse personne</hi>; ces paroles sont
+     soulignées; il ajoute que son rôle n’était pas celui d’un zéro ni d’un harlequin qui demandait
+     d’être fait colonel à la queue de son régiment; il a souligné les mots: <hi rend="italic">à la
+      queue</hi>. Il dit avoir en main de quoi prouver jusqu’à l’évidence qu’il a dirigé toutes les
+     opérations contre le capitaine-pacha; le commentateur dit que s’il a dirigé, au moins est-il
+     sûr qu’il n’a pas battu, parce qu’on lui envoyait ordre sur ordre d’avancer et qu’il n’avança
+     pas, ayant le vent contraire, de son propre aveu. Il dit que la tâche qu’on lui avait donnée
+     dans cette conjoncture était très difficile; cela se peut, mais il s’agissait de coups, et dans
+     pareil cas il est plus utile d’en donner que d’en recevoir. Il dit qu’il lui fallait sacrifier
+     son amour-propre et risquer sa réputation militaire pour le bien de l’empire, et qu’il espère
+     que je serai satisfaite de la manière dont il s’en est tiré, ainsi que de ses projets
+     subséquents, dont il est persuadé que je n’ai pas eu connaissance jusqu’ici: <seg xml:lang="de"
+      > Gott weiß was das ist</seg>! Ensuite il dit que mon conseil gracieux l’а guidé, que je lui
+     ai répété ce conseil par écrit et que son attachement pour ma personne est la seule raison qui
+     l’empêcha de demander sa démission lorsqu’il m’écrivit de <placeName ref="places.xml#war01"
+      >Varsovie</placeName>; qu’il était affligé et même offensé d’avoir reçu un congé de deux
+     ans en temps de guerre: les deux ans sont soulignés. Or ce congé de <hi rend="italic">deux
+      ans</hi> a été donné au Sr <rs ref="people.xml#jon01"> P. J.</rs> afin qu’il pût se retirer
+     d’ici, entre nous soit dit, sans diffamation, car il y avait un procès contré lui d’intenté
+     pour viol, qui ne faisait pas du tout honneur à son excellence, ni à son humanité, ni à sa
+     justice, ni à sa générosité, et après ce petit ‘trait il aurait été difficile de trouver parmi
+     les marins quelqu’un qui eût voulu servir sous M. le contre-amiral. Outre cela, durant la
+     guerre il n’était pas bien nécessaire non plus qu’il se fît turco- suédois; présentement je
+     pense que <rs ref="people.xml#gri01"> souffre-douleur</rs>, à peu près, pourrait comprendre
+     l’allure: on renvoya donc monsieur le contre-amiral avec une pension à peu près, je pense,
+     comme la <placeName ref="places.xml#fra01">France</placeName> en a donné au <persName
+      ref="people.xml#luc03"> g-l Luckner</persName>. Il a été plus de six mois ici sans oser venir
+     à la cour, et pour partir il demanda de baiser la main en passant, et jamais après la vilaine
+     anecdote ci-dessus énoncée on ne l’a flatté d’une audience particulière, comme il le dit. Il
+     savait ici fort bien lui-même qu’il ne pouvait l’obtenir dans ces circonstances.</p>
+    <p>J’espère que la paix se fera bientôt, mais si elle ne se faisait pas, je ferais savoir mes
+     intentions à M. <persName ref="people.xml#jon01"> Paul Jones</persName>. Il dit qu’il vous a
+     remis le paquet pour moi cacheté de ses armes; c’est ainsi que je l’ai reçu, mais il ne me
+     parle pas de l’audience qu’il a demandée et obtenue de l’assemblée nationale, je ne sais pas
+     pourquoi?</p>
+   </div>
+   <div>
+    <opener><dateline> Се <date when-custom="1791-05-19">19 mai</date>.</dateline></opener>
+    <p>Le commentateur dit qu’il lui reste à commenter des chiffons de lettres bonnes à jeter dans
+     la cheminée. Je n’ai pas besoin de tableau. </p>
+    <closer><signed rend="inline">Adieu, <rs ref="people.xml#gri01"> souffre-douleur</rs>, que le
+      ciel vous tienne en joie. La musique d’<title ref="works.xml#olegcg01"> Oleg</title> et celle
+      de <title ref="works.xml#fedoul01"> Fédoul</title> sont ci-jointes dans la
+     caisse.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

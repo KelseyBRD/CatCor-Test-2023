@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01087</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01087</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+  
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:26:38Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01087">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01">
+     Saint-Pétersbourg</placeName>, le <date when-custom="1788-07-07">7 juillet 1788</date>.</dateline></opener>
+   <p>Monsieur mon frère. Je suis très-sensible à l’intérêt que V. M. I. veut bien me témoigner par
+    Sa lettre du 10 de juin à l’occasion de la naissance de ma <rs ref="people.xml#eka01"> quatrième
+     petite-fille</rs>, ainsi qu’à tout cе qu’Elle ajoute d’obligeant en cette occasion
+    personnellement pour moi. Je ne doute point que ce ne soit par des raisons supérieures de guerre
+    que V. M. I. a différé jusqu’à présent le siège de <placeName ref="places.xml#bel01"
+     >Belgrade</placeName>. L’approche de l’ennemi qui s’avance
+    vers Elle, en Lui fournissant l'occasion de le vaincre, fera tomber après la victoire cette
+    place d’elle-même, ou du moins en facilitera la conquête. Je prie V. M. I. d’être persuadée que
+    les voeux que je fais pour Ses succès et Sa gloire, sont bien sincères, et qu’ils ont trait à
+    Son auguste personne autant et plus encore qu’à nos intérêts communs.</p>
+   <p>L’<rs ref="people.xml#gus01"> émule</rs> du héros de <placeName ref="places.xml#eng02"> la
+     Manche</placeName> dont V. M. I. fait mention dans Sa lettre, vient de lever tout-à-fait le
+    masque. J’apprends qu’il a revêtu le costume de <persName ref="people.xml#gus02"> Gustave
+     Adolphe</persName>, et qu’en cuirasse, brassards et cuissards il a pénétré dans mes frontières
+    entre les rochers de la <placeName ref="places.xml#fin01">Finlande</placeName>. Ses exploits se
+    sont bornés jusqu’à présent à faire massacrer un bien vieux officier avec deux soldats de
+    garnison, qui, sans se douter de rien, conduisaient paisiblement une barque chargée de bois à
+     <placeName ref="places.xml#sav01"> Nyslot</placeName>. En partant de <placeName
+     ref="places.xml#sto01">Stockholm</placeName>, le <persName ref="people.xml#gus01">
+     Roi</persName> de <placeName ref="places.xml#swe01">Suède</placeName> a invité les dames à un
+    déjeuner qu’il veut leur donner à <placeName ref="places.xml#pet02">Péterhof</placeName>. A ses
+    troupes il a promis de surpasser <persName ref="people.xml#gus03"> Gustave Adolphe</persName> et
+    d’achever ce que <persName ref="people.xml#cha26"> Charles XII</persName> avait commencé, mais
+    si je m’en souviens, le premier prétendait combattre contre les Infidèles dont son imitateur
+    prend de l’argent, et le second a commencé la ruine de la <placeName ref="places.xml#swe01"
+     >Suède</placeName>.</p>
+   <p>V. M. I. verra par les notes et déclarations communiquées à Son ambassadeur, sur quel ton de
+    fanfaronnade <persName ref="people.xml#gus01">S. M. Suédoise</persName> est montée. V. M. I. y trouvera l’indécence des
+    expressions jointe à l’absurdité des propositions; c’est un vrai délire. Je ne saurais cependant
+    dissimuler que j’éprouve une véritable peine de cet incident imprévu à cause des retards qu’il
+    apporte nécessairement à l’arrivée de ma flotte à sa première destination. Je ne peux encore
+    bien déterminer jusqu’où <persName ref="people.xml#gus01"> Sa Majesté Suédoise</persName> et par
+    qui elle pourrait être soutenue.</p>
+   <p>Remplie dans tous les événements d’une juste confiance dans l’amitié de V. M. I, je La prie
+    d’être persuadée que je ne me départirai dans aucun temps de Lui donner des preuves de
+    l’inviolable attachement et de la très-haute considération avec laquelle je suis ....</p>
+  </body>
+ </text>
+</TEI>

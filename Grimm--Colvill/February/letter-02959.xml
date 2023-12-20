@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02959</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02959</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#turkey"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-16">16/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:00:04Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02959">
+  <body>
+ 
+   <dateline>Ce <date when-custom="1774-08-30">30 d’août 1774</date>.</dateline>
+   <p>Aujourd’hui est <rs ref="events.xml#kuchu01"> un jour fameux</rs>, parce que j’ai fait
+    le matin trois verstes et demie à pied, en procession depuis l’église de la miraculeuse image de
+    <placeName ref="places.xml#not01">Notre-Dame de Kazan</placeName> jusqu’à la tombe de St
+    Alexandre Nevski, et que ce soir j’ai eu l’honneur de recevoir de votre part une pancarte de
+    douze pages, marquée No. 5 et signée D. E.  <persName ref="people.xml#gri01">Grimm</persName> par la grâce de <persName
+     ref="people.xml#jos01"> Joseph II</persName> et les plaisanteries de  <persName ref="people.xml#cat01">Catherine
+    II</persName>. Cette pancarte bien constituée commence par un prône en toutes formes sur la paix, dont je
+    puis, à force de donner la torture à mon esprit ou plutôt à ma compréhension, deviner que
+    monsieur le <seg xml:lang="de">Freiherr</seg> est très content de la
+    signature de la paix. Je l’en remercie de toute mon âme et puis l’assurer que j’en partage sa
+    joie. Après le prône suite de compliments lumineux pour monsieur <persName
+     ref="people.xml#tho01"> Tom</persName>, qui ronfle très profondément dans ce moment derrière
+    moi sur un canapé turc, dont vous autres <seg xml:lang="en">French
+     dogs</seg> ignorez jusqu’à l’existence et que <persName ref="people.xml#pot01"> M. le général
+     Potemkine</persName> a introduit céans et sur lequel canapé douze personnes à boyaux fêlés
+    peuvent trouver de la commodité pour toutes les contorsions possibles. Or donc, si vous restez
+    à <placeName ref="places.xml#par01">Paris</placeName>, je vous conseille de faire emplette de pareil meuble, et si 
+    <persName ref="works.xml#george01">George Dandin</persName> se résoud à retourner ici, je lui promets d’en faire la dépense.</p>
+   <p>Or donc, Tom ronfle et sa fille batifole dans l’antichambre, et moi j’écris, oui, j’écris un
+    écrit que, si vous et moi étions bien sages, nous brûlerions nos écrits avant que de les envoyer
+    à la poste, ou bien en vérité je crains qu’un jour on ne les dépose dans les archives des
+    petites maisons. Mais écoutez un peu, qu’est-ce donc que ces questions de <persName
+     ref="people.xml#rie01"> Riedesel</persName> sur votre compte? Peut-être a-t-il voulu vous
+    rendre service en éclaircissant peut-être ses propres doutes sur votre compte et sur votre aller
+    et venir. Passons là-dessus, je n’en sais rien, et n’allez pas vous imaginer que je répondrai en
+    règle à ce que vous me dites là-dessus, tant il y a que j’en suis contente beaucoup plus que des
+    girouetteries de <rs ref="people.xml#gus01"> mon voisin d’au-delà du golfe</rs>).</p>
+   <p>A propos de cela, sachez que cet hiver je m’en vais pour un an à <placeName ref="places.xml#mos01">Moscou</placeName> et
+    qu’outre cela vous n'avez rien à craindre de la calomnie, malgré ce que <persName
+     ref="people.xml#fre01"> le roi de Prusse</persName> vous en a pu dire. Je n’irai croire que
+    vous vous avisiez de me vouloir du mal. Grand merci pour le <rs ref="works.xml#tablea01"
+     > tableau de l' Europe</rs>: je le lirai quand il sera arrivé. J’aime beaucoup le <seg xml:lang="ru">Gospodi pomilouï</seg> et tout ce que vous avez mis à sa
+    suite, et pour vous punir de m’avoir accusé d'injustice, et puisque vous ne voulez point de
+    réponse exactement, </p>
+   <closer><signed rend="inline"> je m’en vais rendre cette lettre plus courte que les autres, mais
+    toujours en vous recommandant de vous porter bien et même parfaitement bien et de vous
+    raccomoder avec vos boyaux et surtout avec le fêlé ou soi-disant tel.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02670</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02670</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#thankyou"/>
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-07-29">29 July 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02670">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet02">à Péterhof,</placeName>
+                            <date when-custom="1772-08-04">ce 4 d'Août 1772</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> Rien ne saurait être plus flatteur pour moi que la lettre de Votre Majesté
+                        du 17 Mai, ni rien n'est plus beau et de meilleur goût que le magnifique
+                        service de porcelaine dont il a plu à Votre Majesté d'accompagner cette
+                        lettre. Chaque pièce m'en retrace l'amitié de Votre Majesté, et Son
+                        attention à me la témoigner. C'est cette amitié constante qui fait vraiment
+                        un des plus heureux et des plus solides évènements de mon règne, beaucoup
+                        d'autres je ne les attribue qu'au hazard, favorisé par la fortune. Votre
+                        Majesté voudra bien qu'en cette occasion, comme en toutes les autres je Lui
+                        en marque ma vive et inaltérable reconnaissance, </p>
+                    <closer>
+                        <signed>et que je L'assure de nouveau qu'Elle n'a point de plus fidèle
+                            alliée que celle qui est avec la plus haute considération et l'estime et
+                            l'amitié la plus vraie, Monsieur mon Frère, de Votre Majesté la bonne
+                            Soeur et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01016</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01016</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#austraisholyromanempire"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-06-30">30-06-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:09:54Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01016">
+  <body>
+   <opener><dateline> A <placeName ref="places.xml#pet01"> St.
+     Pétersbourg</placeName>, ce <date when-custom="1781-04-06">6 d’avril 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. Remplie des sentiments de l'amitié, de la reconnaissance et de tous ceux
+    que l’auguste personne et dignité de V. M. I. inspire, mon désir égale celui de V. M. I. de voir
+    terminer par la signature des plénipotentiaires le <rs ref="events.xml#allia02"> traité projeté
+     entre nous</rs>, mais arrêté jusqu’ici par des difficultés de forme contraires aux intérêts
+    reconnus de nos Etats et opposés aux volontés de deux souverains qui sont convenus
+    du principe lequel vu devenir la loi d’équité des nations, savoir que dans tout ce que les uns
+    pourront se proposer, aucun ne propose à l’autre que ce qu’il croirait pouvoir accorde s’il
+    était à sa place. La nature de cette matière des formes, si délicate par elle-même, est d’une
+    essence qu’elle en devient insusceptible à être traitée ni à être soumise aux débats. V. M. I.
+    me fait l’honneur de me citer Sa capitulation, et Elle me confie Sa façon de penser à cet égard,
+    à laquelle je ne puis qu’applaudir. J’en appelle à l’expérience du passé. Ma déclaration de
+    l’année 1762 ne porte aucun préjudice à la haute dignité de V. M. I. ni à ses prérogatives ;
+    dix-neuf années échues depuis 1762 le prouvent suffisamment. J’y ai articulé aucun changement au
+    cérémonial usité entre les Cours, lequel cérémonial, y est dit, restera sur le même pied. Les
+    paroles et les actions de mes ministres l’ont pu qu'être conformes à cette déclaration, aussi le
+    comte <persName ref="people.xml#pan02">Panin</persName> a-t-il répété ces mêmes paroles au
+    prince de <persName ref="people.xml#lob01"> Lobkotvitz</persName>. Les instructions de mes
+    ministres aux Cours étrangères dérivant de la même source, sont de la même teneur. Je m’en
+    rapporte à ceux de V. M. I, si aucun des miens leur a fourni une occasion qui aurait pu donner
+    lieu à des discussions désagréables. En conformité de ce que je viens de dire, mon envoyé près
+    de V. M. I., le prince <persName ref="people.xml#gol04"> Galitzin</persName> a ordre de
+    présenter au prince de <persName ref="people.xml#kau01"> Kaunitz</persName> des propositions
+    propres à lever les difficultés existantes pour parvenir à la conclusion du traité désiré des
+    deux côtés et salutaire aux deux Etats, sans préjudicier aux hautes dignités dont nous sommes
+    revêtus.</p>
+   <p>Par le rapport du comte de <persName ref="people.xml#cob02"> Cobenzl</persName> V. M. I. sera
+    déjà instruite de ce qui regarde la médiation. M’y rapportant, je ne puis, en finissant cette
+    lettre, que réitérer à V. M. I. les assurances de tous les sentiments d'amitié, de
+    reconnaissance, de la plus haute estime et considération que je Lui porte, et du désir sincère
+    que j’ai de voir resserrés pour le bien de nos Etats par la signature du traité les mêmes liens
+    d’attachement réciproque avec lesquels je ne cesserai d’être ....</p>
+  </body>
+ </text>
+</TEI>

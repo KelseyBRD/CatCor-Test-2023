@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-02690</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-02690</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#prussia"/>
+                    <term target="kw.xml#austria"/>
+                    <term target="kw.xml#france"/>
+                    <term target="kw.xml#war"/>
+                    <term target="kw.xml#ottomanempire"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#military"/>
+                    <term target="kw.xml#internationalrelations"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#greeting"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-15">15 August 2016</date>
+                <name>Jessica Allen</name>
+                <p>Created file. Initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-02690">
+                <body>
+                    <opener rend="right">
+                        <dateline><placeName ref="places.xml#pet01">à St Pétersbourg,</placeName>
+                            <date when-custom="1778-10-30">ce 30 d'Octobre 1778</date>.</dateline>
+                    
+                    <salute rend="inline">Monsieur mon Frère,</salute></opener>
+                    <p> J'ai prévenu par ma précédente du 1 d'Octobre Votre Majesté et de mes
+                        dispositions en égard à <rs type="event" ref="events.xml#bavar01">sa
+                            guerre</rs>, et de l'envoi de mon général, <persName
+                            ref="people.xml#rep01">le prince Repnin </persName>, vers Elle, pour les
+                        Lui exposer plus amplement. Je le fais partir en effet aujourd'hui, priant
+                        Votre Majesté par celle-ci d'ajouter pleinement foi à tout ce qu'il Lui
+                        proposera de ma part, pour rendre aussi utile que je le désire l'intérêt que
+                        je prends à la position de Votre Majesté. La mission de ce général a un
+                        double objet: 1. celui de ma médiation et bons offices conjointement avec la
+                            <placeName ref="places.xml#fra01">France</placeName> en conséquence de
+                        la réclamation que la cour de <placeName ref="places.xml#vie01">Vienne
+                        </placeName> m'en a faite; 2. celui du secours de mes troupes, si la
+                        conciliation ne peut s'effectuer. J'avoue à Votre Majesté avec franchise,
+                        que ne pouvant varier dans mon désir de voir la paix et la tranquillité
+                        rétablies par des moyens plus aisés que celui des armes, je ne saurais me
+                        refuser comme Sa plus sincère amie de faire de fortes instances près de
+                        Votre Majesté, de ne point se rebuter par toutes les tentatives des
+                        négociations déjà faites, et qui malheureusement ont été infructueuses, mais
+                        de combler la mesure de tous les ménagements facilités et désinteressement
+                        personnel qu’Elle a témoigné dans cette contestation jusqu’ici; j’ose
+                        ajouter que Votre Majesté par là mettra le sceau à Sa gloire, démasquera et
+                        confondra les artifices de Ses ennemis et fondera à perpétuité parmi tous
+                        les membres du Corps Germanique une considération politique dans la
+                        prospérité de la monarchie prussienne. En promettant d’avance à Votre
+                        Majesté de n’en faire usage qu’autant qu’il conviendra et conformément aux
+                        propres désirs de Votre Majesté, je La prie de s’ouvrir à moi confidemment
+                        sur les derniers termes de Ses vues et de Ses sentiments pour le cas de la
+                        pacification. Si ce nouvel espoir de conciliation qui résulte de la demande
+                        faite par la cour de <placeName ref="places.xml#vie01">Vienne</placeName> de
+                        ma médiation et bons offices conjointement avec la <placeName
+                            ref="places.xml#fra01">France</placeName> ne se réalise pas, <persName
+                            ref="people.xml#rep01">le prince Repnin</persName> a ordre dès à présent
+                        de consulter les intentions de Votre Majesté, et de convenir avec ses
+                        Ministres, sur toutes les mesures relatives à l’emploi effectif de mes
+                        secours. Il confiera à Votre Majesté tout ce qu’en considération de mon
+                        amitié et de mon alliance avec Votre Majesté je suis intentionnée de faire
+                        pour la défense de Sa cause, je me flatte que pareillement Elle voudra bien
+                        entrer avec la même sincérité et affection dans ce que je dois désirer pour
+                        la combinaison des mesures relativement aux intérêts de mon empire et
+                        soutien de <rs type="event" ref="events.xml#turki01">ma guerre</rs> contre
+                        la <placeName ref="places.xml#tur01">Turquie</placeName>. </p>
+                    <closer>
+                        <signed>C'est avec la plus haute considération que je ne cesserai d'être,
+                            Monsieur mon Frère, de Votre Majesté la bonne Soeur et fidèle Alliée 
+                        <persName ref="people.xml#cat01" type="signature" rend="below">Catherine.</persName></signed>
+                    </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03711</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03711</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#history"/>
+     <term target="kw.xml#catherineasauthor"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-10">10-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:03:44Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03711">
+  <body>
+   <div>
+    <opener>
+     <dateline>Ce <date when-custom="1795-05-25">25 mai 1795</date>.</dateline></opener>
+    <p>J’ai reçu hier votre lettre du 7 (18) mai, datée de <placeName ref="places.xml#lei01">
+      Leipzig</placeName>. Je vous remercie des renseignements que vous me donnez sur le compte de
+     certaine dame; dans ce moment tenez-vous coi dans votre taudis. Sur vous-même et <rs
+      ref="people.xml#bue01"> votre pupille</rs> j’attendrai ce que vous pancarterez. Je suis à
+      <placeName ref="places.xml#tsa01"> Ts.-Sélo</placeName> depuis huit jours et je n’entre dans
+     ma chambre que pour dormir; le reste du temps je suis à l’air, comme un <orgName
+      ref="orgs.xml#kalm01"> Kalmouk</orgName>. </p>
+    <closer><signed rend="inline">Adieu, portez-vous bien, comme moi.</signed></closer>
+   </div>
+   <div>
+    <p><seg xml:lang="ru">Собственноручная записка императрицы.</seg></p>
+    <p>Imprimé à l’<orgName ref="orgs.xml#acad02"> Académie</orgName> je n’ai trouvé que ceci; or je
+     vous dirai ce que c’est: n’osant mettre mes conjectures sur <persName ref="people.xml#rur01">
+      Rurik</persName> dans l’histoire, parce qu’elles n’étaient fondées que sur quelques mots
+     cachés par <persName ref="people.xml#nes02"> Nestor</persName> dans sa chronique et sur un
+     passage de <persName ref="people.xml#dal03"> Dalin</persName> dans son histoire de
+      la <placeName ref="places.xml#swe01"> Suède</placeName>, et lisant alors <persName
+      ref="people.xml#sha06"> Shakespeare</persName> en allemand, il me prit fantaisie de mettre en
+     drame, l’année 1786, mes conjectures, et on l’imprima. Personne ne prit garde à ce singulier
+     ouvrage, qui n’a jamais été joué, et je partis pour la <placeName ref="places.xml#cri01">
+      Tauride</placeName>. L’année 1792 feu <persName ref="people.xml#bol02"> Boltine</persName> par
+      <persName ref="people.xml#mus03"> Pouchkine</persName>, procureur du synode, m’envoya sa
+     critique sur le prince <persName ref="people.xml#stc02"> Stcherbatof</persName> et son histoire
+     de la <placeName ref="places.xml#rus01"> Russie</placeName>, et comme ils s’occupaient beaucoup
+     de l’histoire de la <placeName ref="places.xml#rus01"> Russie</placeName>, et que j’étais bien
+     aise de donner à la rade critique de <persName ref="people.xml#bol02"> Boltine</persName> ce
+     que je griffonnais sur l’histoire, je dis un jour à <persName ref="people.xml#mus03">
+      Pouchkine</persName> que ce drame contenait mes conjectures, mais que personne n’y avait pris
+     garde, et il se trouva que ni <persName ref="people.xml#bol02"> Boltine</persName>, ni
+      <persName ref="people.xml#mus03"> Pouchkine</persName> ne l’avaient jamais lu ni vu. Quand ce
+     drame tomba entre les mains de <persName ref="people.xml#bol02"> Boltine</persName>, il se mit
+     à le commenter et me demanda de le faire imprimer avec son commentaire, ce qu’il fit; or les
+     paroles de Nestor disent que <persName ref="people.xml#gos01"> Gostomissel</persName>, prince
+     slave qui régnait à <placeName ref="places.xml#nov01"> Novogrod</placeName>, dit en mourant de
+     prendre pour princes à sa place les princes qui s’étaient couverts de gloire dans les guerres
+     passées: <persName ref="people.xml#rur01"> Rurik</persName>, <persName ref="people.xml#sin02">
+      Sineus</persName> et <persName ref="people.xml#tru01"> Trouver</persName>. C’étaient ses
+     petits-fils par sa fille aînée.</p>
+    <p><persName ref="people.xml#dal03"> Dalin</persName> dit que dans le Nord c’était une honte
+     anciennement, non seulement pour les princes, mais pour tout homme de naissance, de n’avoir pas
+     servi sur mer. Or donc il fallait chercher dans le septième siècle où les principales guerres
+     sur mer eurent lieu, et nos trois princes y trouvèrent fort aisément leur place marquée. <seg
+      xml:lang="de"> Unterthänigste Dienerin; dieses ist unsere rechtschaffene Beichte</seg>,
+     quoique dans ce moment-ci je sois sans confesseur, <rs ref="people.xml#pam01"> le mien</rs>
+     étant mort aveugle cet été, à mon grand regret et à ceux de tout <placeName
+      ref="places.xml#pet01"> Pétersbourg</placeName>; jamais on ne vit une plus grande foule qu’à
+     son enterrement.</p>
+    <p>Voici la vie de <persName ref="people.xml#nev01"> St Alexandre</persName> par <persName
+      ref="people.xml#tou02"> Toumanski</persName>. Mais ce n’est pas ce qu’il y a de mieux. La vie
+     de <persName ref="people.xml#nev01"> St Alexandre</persName> imprimée, mais peut-être pas
+     encore traduite, dans le sixième tome de mes recueils que M. Busse intitule <seg xml:lang="de">
+      Aufschreibungen</seg> par ce qu’en russe on les nomme <seg xml:lang="ru"> Записки</seg>,
+     laisse ceci loin en arrière, et assurément je vous défie de trouver plus qu’il n’y a là.</p>
+   </div>
+  </body>
+ </text>
+</TEI>

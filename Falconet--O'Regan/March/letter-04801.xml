@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04801</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04801</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to find reference to the author M. de Mézière
+     cited by Falconet in a previous letter as author of 'Les fruits de l'éducation'. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-01">01/03/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-02T17:22:11Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-02">02-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04801">
+  <body>
+   
+   <salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName>. </salute><p rend="inline">J’ai
+     coutume de dire aux faiseurs d’or et aux faiseurs de projets pour avoir de l’argent: Messieurs,
+     faites-en pour vous-même, afin que vous ne soyez pas obligés de demander l’aumône. Vous savez
+     ou vous ne savez pas, que je n’aime point à employer de nouvelles ressources pour avoir de
+     l’argent sans besoin; vous ne m’en croirez pas peut-être, si je vous disais qu’après cinq ans
+     de guerre, je n’ai aucune nécéssité de créer des moyens pour avoir de l’argent; cela est vrai
+     cependant. J’ai refusé quarante millions qu’on m’offrait il y a quatre mois. Votre rêveur, avec
+     ses trente millions, pourrait donc mieux employer ses projets que chez moi. Vous ne croirez pas
+     un mot de tout ce que je vous dis, si après cela, je vous demandais le projet que votre
+     compatriote vous propose. Cependant, l'оn dit qu’il n’y a aucun projet qui ne doive être
+     écouté, quelque fou qu’il puisse être, parce qu’il peut être bon à quelque chose, et si dans
+     cette vue vous me l’envoyez, je le lirai. Il le cachettera ou non selon son bon plaisir et me
+     l’enverra par la poste ou par vous, à son choix. Le portrait que j’ai de 
+    <persName ref="people.xml#pet01"> Pierre Premier</persName> paraît être bon: venez le voir,
+     mais je ne voudrais pas le déplaçer dans ce moment. Je n’ai point les 
+    <rs ref="works.xml#idylls01"> Idylles</rs> de <persName ref="people.xml#ges01">
+     Gesner</persName>: quand je les aurai je vous en enverrai un exemplaire. Je n’entends point
+     parler du voyage de <persName ref="people.xml#did01">
+     Diderot</persName>. Nous parlerons en ville des médailles que je dois vous donner. Je ne
+     connais point la comédie de M. <persName ref="people.xml#mez01"> Mézière.</persName>
+   </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00835</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00835</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-10-13">13 October 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00835">
+                <body>
+                    
+                    <p>
+                        <persName ref="people.xml#orl03">Графы Орловы</persName><note
+                            type="editorial">Also <ref target="people.xml#orl05">Fedor
+                            Orlov</ref></note> отказались ехать во флот, а после сего письменного
+                        отрицания по причине болезни, <persName ref="people.xml#orl03">Гр[аф]
+                            Ал[ексей] Гр[игорьевич]</persName> сюда приезжал и весьма заботился о
+                        сем отправлении флота и его снабдении. Но как они отказались от той службы,
+                        то я не рассудила за нужно входить уже во многие подробности, но со всякой
+                        учтивостью отходила от всяких объяснений, почитая за ненужно толковать о том
+                        с неслужащими людьми. Потом просил пашпорт - ехать за границу к водам, но,
+                        не взяв оный, уехал к <placeName ref="places.xml#mos01"
+                        >Москве.</placeName></p>
+                    <p>С чужестранными консулами в <placeName ref="places.xml#khe01"
+                            >Херсоне</placeName> можешь поступать без церемонии. Вели им сказать
+                        учтиво, что до заключения мира <placeName ref="places.xml#khe01"
+                            >Херсон</placeName> не торговый город, но крепость военная, в которой
+                        пребывание их более не может иметь места по военным обстоятельствам, и чтоб
+                        ехали восвояси, а здесь дворам о сем же дастся знать.</p>
+                    <p>У тебя, мой друг, кригсрехт над сержантом Преображенского полка, о котором я
+                        требовала мнения. Пришли оное. Родня его мучит о решении, а он украл во
+                        дворце.</p>
+                    <p>Еще тебе скажу, что <persName ref="people.xml#iev01">поручик
+                            Иевлев</persName> так промотался, что чужие вещи закладывает, и уже
+                        должники ко мне начали жалобы приносить. Ему в гвардии едва ли прилично
+                        остаться по дурному поведению.</p>
+                    <closer><signed>Прощай, мой друг, продолжи Бог милость свою над тобою и твоими
+                            предприятиями, и будь уверен, что я тебя люблю и полную справедливость
+                            отдаю твоей службе и горячему усердию ко мне. Спасибо тебе и за
+                        то, что любишь <persName ref="people.xml#dmi01">Сашу</persName> и что ты ему
+                        отдаешь справедливость. Он тебя любит всем сердцем. <seg xml:lang="fr"
+                            >Adieu, mon cher Ami, portes Vous bien. Estampe к тебе посылаю киевского
+                            портрета.</seg></signed>
+                        <dateline rend="below"><date when-custom="1788-01-13">Января 13 ч., 1788
+                                г.</date></dateline></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

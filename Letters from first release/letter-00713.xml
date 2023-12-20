@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00713</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00713</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-08-08">08 August 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00713">
+                <body>
+                   
+                    <p>Письмо твое, друг мой сердечный, от 10 сентября из <placeName
+                            ref="places.xml#mog01">Могилева</placeName> я сегодни получила. Сожалею
+                        о безпокойной твоей езде. Пожалуй, побереги свое здоровье: луче день позднее
+                        приехать, да быть здоровым. Здесь ныне дни стоят изрядные. Из <placeName
+                            ref="places.xml#ist01">Царяграда</placeName> получила я от <persName
+                            ref="people.xml#bul01">Булгакова</persName> вести, что весь город
+                        выгорел и горел 55 часов (пожар начался 10 августа, а письмы от 15 числа):
+                        казармы янычарские, все судебные места и многие мечети. Людей же тысяч до
+                        четырех сгорело, а несколько сот тысяч погорело. Ожидали от сумятицы бунта,
+                        и для того сменен визирь и кегая-бей. На место первого зделан визирем
+                        Очаковский паша, а на место другого - какой-то Эмин-паша, который слывется
+                        умным и знающим человеком. А чернь злится на нас и нас клеплет поджиганием
+                        города. И улемы вранье подкрепляют. В городе же в хлебе оказывается
+                        скудость, мельниц и пекарен мало что осталось. Пожарища простирались от
+                        сераля, который однако цел, так как и <placeName ref="places.xml#sop01"
+                            >Софийская мечеть,</placeName> до Семи башен.</p>
+                    <p>Больная твоя оправляется, сидит. <persName ref="people.xml#lan02"
+                            >Алек[сандр] Дми[триевич]</persName> у ней вчерась был и нашел ее
+                        гораздо луче. Она здесь в город перевезена.</p>
+                    <closer><signed>Прощай, мой милый друг. <persName ref="people.xml#lan02">Алек[сандр]
+                            Дми[триевич]</persName> тебя за цыдулку сам будет благодарить.</signed> <dateline><date
+                            when-custom="1782-09-19">Сент[ября] 19 ч., 1782</date></dateline>
+                        </closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

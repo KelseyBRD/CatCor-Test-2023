@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01094</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01094</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#holland"/>
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#austriaholyromanempire"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:27:50Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01094">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, ce <date
+     when-custom="1790-01-18">18 janvier 1790</date>.</dateline></opener>
+   <p>Monsieur mon frère. Le tableau que V. M. I. me fait dans Sa lettre du 6 janvier n. st. de Sa
+    situation et de celle de Ses affaires, m’a vivement affectée. Je conçois et je partage Sa juste
+    douleur de ce qui est arrivé dans Ses provinces belgiques, ainsi que Sa sollicitude au sujet de
+    l’agression à laquelle nous avons à nous attendre de la part du <persName ref="people.xml#fri03"
+     > Roi</persName> de <placeName ref="places.xml#pru01">Prusse</placeName> au printemps prochain.
+    La confiance que V. M. I. met dans mon amitié et dans l’efficacité des secours qu’Elle est en
+    droit d’en attendre à l’époque de cet événement devenu presque sûr, est bien due aux sentiments
+    qu’Elle me connaît pour Elle; elle l’est à la religion avec laquelle je suis accoutumée à
+    remplir mes engagements, et enfin au retour que je dois à l’assistance loyale et énergique que
+    V. M. I. a bien voulu me prêter dans deux occasions essentielles où il s’agissait des intérêts
+    et de la gloire de mon <placeName ref="places.xml#rus01">Empire</placeName>. Je me fais autant
+    de plaisir à cette dette que j’en aurai à pouvoir m’en acquitter envers Elle. Aussi son attente
+    ne sera-t-elle point trompée à cet égard, et je La prie d’être persuadée que je ne négligerai
+    aucun des moyens que ma position actuelle laisse en mon pouvoir pour La défendre contre une
+    injuste agression d’un nouvel ennemi. Je conviens avec V. M. I. que la paix avec
+    la <placeName ref="places.xml#ott01">Porte Ottomane</placeName> serait le préalable le plus
+    essentiel pour cet objet. D’après cette conviction j’applique tous mes soins à y parvenir par
+    toutes les facilités combinables avec l’honneur et la sûreté de nos Etats, mais quoiqu’il en
+    arrive, je ne sens pas moins que V. M. I. la nécessité de se mettre en mesure contre les vues
+    ambitieuses, destructives et altières que la Cour de <placeName ref="places.xml#ber01"
+     >Berlin</placeName> manifeste avec autant d’éclat que d’indécence. J’espère qu’avec l’aide de
+    Dieu elle y rencontrera plus d’entraves et de difficultés qu’elle ne s’y attend. Que cette même
+    espérance serve d’adoucissement aux chagrins que V. M. I. éprouve, et qu’elle contribue surtout
+    à Lui rendre la santé, à laquelle j’attache un prix et un intérêt proportionnés aux sentiments
+    d’amitié inviolable, de la plus haute considération et de l’attachement le plus sincère avec
+    lesquels je suis ....</p>
+  </body>
+ </text>
+</TEI>

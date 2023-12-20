@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01166</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01166</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-22"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01166">
+        <body>
+            <opener><dateline>Из <placeName ref="places.xml#ala01">Алатыря</placeName>.<lb/>
+                <date when-custom="1767-06-09">Июня 9 дня, 1797.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Вчерась, выезжая из <placeName ref="places.xml#uly01">Синбирска</placeName>, Ваше
+                письмо, от 5 Июня, а сего утра другое, от 6 ч., писанное под Вашей диктатурой; я
+                грамат к подписанию не получила; знатно, Вы оных позабыли отправить; о подарках моим
+                крестницам мы с Вами переговорим по приезде моем, кой скоро воспоследует, ибо меньше
+                суток я переехала 160 верст. <persName ref="people.xml#pau01">Сыну</persName> моему
+                прошу кланяться; на его P. S. не буду инако ответствовать, как словесно на
+                    <placeName ref="places.xml#mos01">Москве</placeName>.</p>
+            <closer rend="inline"><signed>Прощайте, спать хочется; я ночь проводила на дороге.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

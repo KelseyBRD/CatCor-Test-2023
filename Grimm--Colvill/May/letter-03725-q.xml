@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03725</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03725</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#staffmanagement"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#godchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>She mentions a Dame Damas, and I found some information on what her name was; however, I
+     couldn’t find a lot to back up this info. I went ahead and coded her anyway</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:06:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03725">
+  <body>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-03-11">11 de mars 1796</date>.</dateline></opener>
+    <p>J’ai reçu votre No 6 commencé le 1 (12) janvier et fini le 17 (28) février, il y a trois
+     jours. Je vous remercie de vos compliments sur le renouvellement de l’année, de même que
+      <persName ref="people.xml#bue01"> madame du Bueil</persName> et <persName
+      ref="people.xml#cat05"> Katinka</persName> la merveille; si elle continue, elle sera le
+     miracle du siècle à venir; c’est vraiment un enfant étonnant: elle écrit une main de
+     secrétaire, et ce qu’elle dit est au-dessus de son âge. J’ai envie de croire que vous êtes son
+     teinturier. Je suis bien aise que ma lettre du 28 d’octobre soit retrouvée; je pense qu’elle
+     gisait dans le bureau de quelque gros paresseux, qui remettait d’un jour à l’autre pour la lire
+     et qui enfin l’а renvoyée sans la lire, parce qu’elle était vieille et ne valait pas la peine
+     d’être lue, par le peu d’intérêt qu’elle promettait. Mais d’où vient donc que toute la cohorte
+     constitutionnelle a quitté sa résidence de <placeName ref="places.xml#rhe01">
+      Rheinsberg</placeName> brouillée, à ce qu’on débite, avec son hôte?</p>
+    <p>Puisque cela vous fait si grand plaisir, sachez donc que je me porte très bien.</p>
+    <p>Je vois que les échos de <placeName ref="places.xml#got01"> Gotha</placeName> répètent ce que
+     l’on dit à <placeName ref="places.xml#cob01"> Cobourg</placeName>. Je suis bien aise que le
+     séjour d’ici leur ait paru agréable.</p>
+    <p>Vous aurez reçu plusieurs messagers depuis le départ de la pancarte à laquelle je réponds.
+     Par conséquent je m’attends qu’ils me rapporteront les missives qui sont en dépôt chez
+     vous.</p>
+    <p>Nous avons eu aussi un hiver singulièrement tempéré: à la fin de janvier on craignait que la
+     rivière ne debâclât.</p>
+    <p>Il est vrai cependant que cette dame <persName ref="people.xml#boi02"> Damas</persName> m’a
+     écrit pour ravoir <rs ref="people.xml#dam03"> son fils</rs>. <seg xml:lang="it"> Ma</seg> elle
+     a beau dire, il est mieux ici qu’autre part qu’il vivrait d’aumônes et n’aurait pas l’éducation
+     qu’on lui donne.</p>
+    <p><persName ref="people.xml#gol15"> Golofkine</persName> a été rappelé de <placeName
+      ref="places.xml#nap01"> Naples</placeName>, parce qu’il s’est avisé de faire mille
+     impertinences à la <persName ref="people.xml#mar16"> reine de <placeName ref="places.xml#nap01"
+       > Naples</placeName></persName>, et qu’après les avoir faites, il a eu l’impudence de m’en
+     faire le détail lui-même dans une longue lettre.</p>
+   </div>
+   <div>
+    <opener><dateline> Ce <date when-custom="1796-03-14">14 mars</date>.</dateline></opener>
+    <p>Il y a longtemps que je me propose de vous faire la question: pourquoi bien des gens ont la
+     rage d’écrire l’allemand et même de le faire imprimer avec des lettres françaises? Je vous
+     déclare que j’ai une antipathie très marquée pour cette nouvelle mode et que je ne saurais lire
+     ni écrire l’allemand de cette manière, que je trouve ridicule.</p>
+    <p>Remerciez <persName ref="people.xml#cat05"> Katinka pour</persName> son beau chiffre brodé:
+     votre protégée, la belle princesse <persName ref="people.xml#ant04"> Antoinette</persName>, a
+     un nez que <persName ref="people.xml#kon01"> Constantin</persName> a trouvé trop grand;
+     peut-être le <persName ref="people.xml#fre11"> prince héréditaire de Mecklembourg</persName> le
+     trouvera-t-il à son gré. Si vous entendiez chanter et jouer du clavecin la grande-duchesse
+      <persName ref="people.xml#mar03"> Marie</persName>, vous pleureriez à chaudes larmes. Elle
+     fait cela mieux encore que ses soeurs ne dansent le menuet, et c’est beaucoup dire. Monsieur
+      <persName ref="people.xml#kon01"> Constantin</persName> est marié depuis quatre semaines,
+     aujourd’hui précisément. </p>
+    <closer><signed rend="inline">Adieu; que le ciel vous soit en aide.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

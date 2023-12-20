@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03576</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03576</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#music"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#theatre"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1) Catherine says
+     Grimm arrived 3 months after the « late landgrave » but I could not say for sure who she means.
+     Grimm visited in 1773 and 1777, but I can’t identify a landgrave who died in those or
+     preceeding years. For example, Ludwig VIII, landgrave of Hesser-Darmstadt, died in 1768.
+    </p>
+    <p>( 2) She mentions « Antigone » but it’s unclear
+     whether she means an opera that may have been put on by Paisiello or if she means the figure
+     from mythology, etc.</p>
+    <p>(3) Catherine mentions a few places that were unclear
+     – Pleskov, which I think is likely Pskov and Stara-Rouss, which I could not find. 
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-21">21/03/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-03-23T09:54:20Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-23">23-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03576">
+  <body>
+
+   <opener><dateline>Ce <date when-custom="1780-02-02">2 février 1780</date>.</dateline></opener>
+   <p>Je ne puis pas dire cette fois-ci avec le divin <persName ref="people.xml#rei03">
+     Reiffenstein</persName> que je manque, depuis quelques jours de poste, de l’honneur de vos
+    bonnes nouvelles, car voilà deux énormes pancartes, <seg xml:lang="de"> Nachtrag</seg> No 44 et
+    No 45, qui me sont parvenues consécutivement. Je me hâte d’y répondre, crainte que
+    les ultérieures (expressions du <rs ref="people.xml#rei03"> divin</rs>) ne nuisent aux
+    précédentes et ne rendent la besogne (en vue d’autres besognes) impossible; lui, il tripote ses
+     <title ref="works.xml#logera01">loges de Raphaël</title> et les santés des artistes,
+    gens de lettres etc. de <placeName ref="places.xml#rom03"> Rome</placeName>. Chacun dans ce monde a son tripotage; moi, tandis
+    que journellement je fais in petto des manifestes, ne voilà-t-il pas que je me trouve dans la
+    nécessité encore de répondre à ceux que vous vous avisez de faire, et je veux mourir si je sais,
+    sans l’avoir relu, de quoi il traite, quoique je l’aie dévoré dès après l’avoir reçu. <seg
+     xml:lang="de">Ach, Gott</seg>! il faudra prendre à l’aide les expressions du <rs
+     ref="people.xml#rei03">divin</rs> pour augmenter les qualités et la quantité des choses
+    employables dans ma remanifestation. Chacun en fait présentement; il est vrai que le sieur de
+     <persName ref="people.xml#bea01"> Baumarchais</persName> et son exemple ne sont pas
+    encourageants pour ceux qui en veuillent faire ou en ont à faire, mais aussi pourquoi en faire
+    contre le bon f. G. et mettre à sa charge des choses dont il ne s’avisa jamais. <seg
+     xml:lang="de"> Das ist liederlich: sehen Sie doch wo meine Jeder hinläuft: sie ist schon weit
+     von demjenigen so sie zu schrieben hat, und solche Streiche spielt sie mir alle Augenblicke,
+     wenn ich sie nicht im Baume halte.</seg> A présent elle voudrait faire son apologie. Voyez un
+    peu, dans une page, la voilà qui imite, qui commente le <rs ref="people.xml#rei03">divin</rs>, qui traite à fond des manifestes, qui cite Baumarchais, qui heurte f.
+    G., qui s’aperçoit qu’elle s’enfuit en galopant et qui bavarde pour réparer ses torts. Allons,
+    remanifestations, paraissez enveloppées dans des commentations <rs ref="people.xml#rei03">
+     Reiffensteiniennes</rs>, et, s’il est possible, ne cédez pas, même en fait de galimatias, le
+    pas aux odes <rs ref="people.xml#pin03"> Pindariennes</rs> que le <persName ref="people.xml#pot01"> pr. Potemkine</persName> se
+    faisait traduire à <placeName ref="places.xml#mos01"> Moscou</placeName> et dont il raffolait, parce que <persName
+     ref="people.xml#pin03"> M. Pindare</persName> traitait avec une facilité étonnante dix matières
+    à la fois. <seg xml:lang="it">Primo</seg>, je conviens que vous vîntes ici trois mois après feu
+    la landgrave avec un grand et long nigaud qui ne vous valait point; il se peut que vous eûtes un
+    monologue avec vous-même à mon sujet, mais si dans ce monologue vous avez nommé rêverie et
+    radotage tous les écrits que vous m’avez envoyée pendant huit ans avant que de venir ici, vous
+    avez eu un tort que vous ne sauriez réparer à mes yeux, parce que ces feuilles faisaient une
+    délicieuse lecture et qu’après ces feuilles-là il est impossible d’en lire jamais d’autres. Si
+    vous en direz jamais du mal, sachez alors que vous ignorez vous-même votre mérite et celui de
+    ces feuilles par excellence, et que vous aurez à faire à moi qui les défendrai de toutes mes
+    forces, et voilà la raison pourquoi monsieur le souffre- douleur fut accueilli, et le long
+    nigaud planté là dès la première vue. Oh ! le grand effort! Mais puisque la conscience
+    <rs ref="people.xml#gri01">souffre-douleur</rs>ienne lui dicte à peu près tout ce que je pourrais dire, il faut le laisser dire
+    ; lire le paragraphe jusqu’au bout, au mot d’ami incliner la tête comme les protestants dévots
+    au nom de Jésus, et dire entre ses dents: nous sommes hommes avant que d’être ceci ou cela, par
+    forme de réflexions omises et à propos des distinctions et distances; si ce paragraphe ne
+    contenait point le mot de phénomène, je mettrais amen amen amen à la fin, et commencerais le
+    suivant. Mais avant de le commencer, il faut que je vous dise qu’il y a cinq livres ou cahiers
+    de musique de <persName ref="people.xml#tra01"> Traetta</persName> et de <persName
+     ref="people.xml#pai01"> Païsiello</persName> là sur ma table qui demandent d’aller vous trouver
+    à <placeName ref="places.xml#par01"> Paris</placeName>. C’est Antigone, c’est <title rend="works.xml#demetr01">
+     Démétrius</title>, c’est, c’est... je ne sais point ce que c’est, et outre cela <persName
+     ref="people.xml#qua01"> Quarenghi</persName> est arrivé, et il a couché la première nuit dans
+    les rues de <placeName ref="places.xml#pet01"> Pétersbourg</placeName>; tandis que le <persName
+     ref="people.xml#nic01"> duca di San Nicolo</persName> ne sort de sa chambre et même de son lit
+    avec sa duchesse, crainte de se geler le nez, <persName ref="people.xml#qua01">
+     Quarenghi</persName> a déjà commencé un plan.</p>
+   <p>Second paragraphe du manifeste, contenant force jérémiades très propres à être mises en
+    musique. Vous paraissez ignorer que l’impératrice souvent voudrait faire travailler à une partie
+    et que ce n’est pas faute de vouloir qu’on n’y travaille pas, mais parce que toutes choses
+    propres à ce travail ne sont pas dans l’état requis pour ce travail. Celle à laquelle je
+    désirais que vous contribuiez lors de votre dernier séjour ici, était de ce nombre. Monsieur,
+    une pomme ne vaut rien avant que d’être mûre, et moi je suis comme <persName
+     ref="people.xml#sha04"> Chah Baham</persName>: je m’entends bien, moi; pour le plan de M. de
+     <persName ref="people.xml#dal01"> Dalberg</persName>, <seg xml:lang="de"> das ist nicht
+     möglich</seg>, <seg xml:lang="it"> ma</seg> pour comprendre et cela et moi qui me comprends, il
+    faudrait un commentaire long. Mais puisque c’est une parenthèse du manifeste, je laisse là mon
+    commentaire: devant Dieu mille ans sont comme un clin d’oeil ; un an de plus au grand tout de
+    l’empire est peu de chose ; faut que pomme mûrisse. Il est vrai que c’est ennuyeux, mais il est
+    impossible de faire autrement, parce qu’à moi-même il faut au moins un an pour m’instruire sur
+    chaque chose.</p>
+   <p>Vous avez fait très bien, et moi aussi, non pas que vous n’eussiez pu mieux faire, mais parce
+    vous avez fait ce que vous avez voulu et parce que tout est au mieux dans le meilleur des mondes
+    possibles, et parce que je suis un <seg xml:lang="de"> Jabruder</seg> et parce que n’y a
+    confession où il n’y a pas de péché et rémission sans confession et péché. Jamais je n’ai voulu
+    malheur, ni ne puis vouloir malheur. Pour de la purée aux pois là où vous êtes, on m’assure que
+    sans causer l’infortune d’un autre, cela serait difficile. <seg xml:lang="de"> Aber kommt
+     Zeit</seg>; viendra peut-être un temps où je ferai aussi un manifeste acceptable. Mais, à
+    propos de cela, il faut que je vous dise que j’ai vu hier <persName ref="people.xml#aud01"> mad.
+     Audet</persName>, qui parait être aussi aimable qu’elle est d’une figure revenante. Pour vos
+    autres plans et surtout celui de la recherche de gens à renommée, cela aurait l’air de vouloir
+    faire la leçon à tout le monde, ma ne puis. Je m’en irai ce printemps d’ici : je partirai le 10
+    mai; j’irai d’ici ou de <placeName ref="places.xml#tsa01"> Tsarsko-Sélo</placeName> à <placeName ref="places.xml#nar01">
+     Narva</placeName>, de là à <placeName ref="places.xml#psk01"> Pleskof</placeName>, de
+     <placeName ref="places.xml#psk01"> Pleskof</placeName> à <placeName ref="places.xml#pol02">
+     Polotsk</placeName>, de là à <placeName ref="places.xml#mog01"> Mohilef</placeName>, d’où par
+     <placeName ref="places.xml#smo01"> Smolensk</placeName> je prendrai de <placeName
+     ref="places.xml#nov01"> Novogrod</placeName> par Stara-Rouss pour venir à <placeName ref="places.xml#pet02">
+    Péterhof</placeName> vers le 20 juin. Il est vrai que <persName ref="people.xml#ale01"> M.
+     Alexandre</persName> ne me verra pas partir avec plaisir, mais comment faire ? Quand il s’en va
+    lui de chez moi, il me quitte sans regret ; mais si je le quitte moi, il jette les hauts cris ;
+    de sa chambre il m’écrit des lettres; s’il est malade, il envoie me chercher, et réellement il
+    s’anime, quelque mal qu’il ait, lorsque je viens. C’est un très singulier marmot; <persName
+     ref="people.xml#ale01"> ce marmot</persName> est un composé d’instincts : ceux qui ne le
+    suivent pas, ne lui croient ni esprit ni invention, et moi je soutiens qu’il sera un composé
+    fort particulier d’instincts et de connaissances; il sait plus de choses à l’heure qu’il est,
+    qu’un enfant de quatre à cinq ans. Outre cela les analogies le frappent particulièrement, et
+    c’est moi encore qui dois lui expliquer cela, et comme je lui parle toujours simple raison et
+    que je ne l’ai trompé jamais sur rien, il croit ne bien savoir une chose que quand il la sait de
+    moi : <seg xml:lang="de"> das ist ein wunderlicher Junge.</seg>
+   </p>
+   <p>Vous ferez fort bien de faire rester votre conseiller presse-éponge là où il est ou d’aller
+    aux eaux sans pousser plus loin, parce que je ne suis bonne qu’à être vue de loin. Laissez-là
+    mes coquins et ne m’en parles jamais ; je sais très bien que vous êtes leur ennemi juré et que
+     <persName ref="people.xml#cha09"> le roi</persName> d’<placeName ref="places.xml#spa01"> Espagne</placeName>, qui, par
+    parenthèse, me prend mes vaisseaux qui vont quérir de son vin, lequel a une franchise par mon
+    ordre exprès, ni le gazetier de <placeName ref="places.xml#col01"> Cologne</placeName> ne leur
+    ont jamais fait autant ou plus de mal que vous; je vous soupçonne même de fournir au gazetier
+    les articles qu’il insère sur leur compte.</p>
+   <p>Me voilà parvenue au No 45. Envoyez-moi, s’il vous plaît, un ou deux ou plusieurs exemplaires
+    des <title ref="works.xml#conver01">Conversations d’Emilie</title>, de cette nouvelle
+    édition augmentée, car c’est un excellent livre, et la pratique de ce livre m’a mise si fort
+    dans les bonnes grâces de mon petit ami <persName ref="people.xml#ale01"> M.
+     Alexandre</persName> ; il est étonnant comment ce marmot aime à entendre parler raison. Je
+    souhaite bien sincèrement que vos souffrances cessent et que le calme et le bonheur se
+    rétablissent dans votre gîte. Puisqu’il est dit qu’il faut que vous soyez le dépositaire de mes
+    rêveries, ce 1 mars 1780 je vous envoie les questions ci-jointes sur les <title ref="works.xml#epoque01">Epoques de la nature</title>. Mon bon ami, un de ces
+    jours vous entendrez dire que certaine déclaration a été déclarée, et vous direz que c’est du
+    volcanique, ma il n’y avait plus moyen de faire autrement, <seg xml:lang="de"> denn die
+     Deutschen haben nichts so als wenn die Leute ihnen auf die Rase spielen wollen; das liebte der
+     Herr <persName ref="people.xml#wag01"> Wagner</persName> auch nicht</seg> . Ces jours-ci, jours du carnaval, j’ai entendu de
+    votre homme glacial en vérité quatre mots suivis, et cela encore en présence de la personne, son
+    confrère à la soupe aux pois, dont il s’est établi l’ombre et qu’il ne quitte de vue ; oh! il y
+    a une grande tactique à ces manoeuvres-là qui vaut bien dix sous argent de poche du <persName
+     ref="people.xml#nar02"> gr. éçuyer Narichkine</persName> et le plus haut prix- courant auquel
+    par conséquent il évalue les choses. Le confrère <persName ref="people.xml#cha09">
+     Charles</persName> échauffe nos oreilles dans ce moment; je vous prie de nous prêter la vôtre
+    pour écouter ce que nous allons lui dire et à d’autres aussi, <seg xml:lang="de"> denn das ist
+     eben</seg> so raisonnable, <seg xml:lang="de"> wie die Projecte des Abts von St. Pierre</seg>.
+    Pour la vaisselle de la nonciature ou plutôt son modèle, en ce moment je n’ai point d’argent
+    pour en faire travailler; je conserve mon argent pour donner sur les oreilles à qui il
+    appartiendra. La Natalie est échouée, tandis qu’elle allait quérir ce qui était déjà embarqué,
+    envoyé et arrivé; les <persName ref="people.xml#wal02"> Walpole</persName> se portent au mieux
+    et ont passé l’hiver, entassés dans ma galerie. Il y aura au printemps et pendant l’été des
+    vaisseaux russes à <placeName ref="places.xml#liv01"> Livourne</placeName>, qui pourront servir
+    au transport des <title ref="works.xml#logera01">loges de Raphaël</title>; il est
+    vrai qu’ils courront risque d’être menés à <placeName ref="places.xml#cad01"> Cadix</placeName>
+    pour être vendus à l’encan; j’en attendrai l’époque, et puis et puis et puis....
+    Le <persName ref="people.xml#vol01"> Voltaire</persName> assis est chez moi ; payez, payez-le au contentement de l’artiste.
+    Non, non, je ne tiens école que pour <persName ref="people.xml#ale01"> M. Alexandre</persName> ;
+    les autres en veulent trop savoir. J’ai bien de l’obligation à M. de la Villette de m’avoir
+    envoyé son ode; il fait des vers, je n’en fais pas, mais j’aime et j’honore la mémoire
+    de <persName ref="people.xml#vol01"> Voltaire</persName> comme lui. Est-il vrai que <persName ref="people.xml#den02"> Mad.
+     Denis</persName> s’est remariée? Que ne l’épousiez-vous? </p>
+   <signed rend="inline">Adieu.</signed>
+   <postscript>
+   <p>Questions qui sont venues dans la tête d’un ignorant pendant la lecture des <title ref="works.xml#epoque01">Epoques de la Nature.</title></p>
+   <p>1. La matière dont se sont formées les planètes s’étant détachée du soleil, le soleil est-il
+    devenu plus petit ayant perdu autant de matière ?</p>
+   <p>2. Ne pourrait-il pas arriver encore journellement de pareilles aventures au soleil?</p>
+   <p>3. D’où vient que depuis tant de siècles il ne lui en est pas arrivé de pareille?</p>
+   <p>4. Chaque comète enlève-t-elle au soleil de quoi faire un petit monde?</p>
+   <p>Je ne connais point <persName ref="people.xml#buf01"> M. le comte de Buffon</persName>; je ne
+    voudrais point non plus lui présenter des questions si peu graves, mais je m’adresse à vous,
+    afin que vous, qui pour sûr avez lu les <title ref="works.xml#epoque01">Epoques de
+     la Nature</title>, vous ayez la bonté de me répondre et de résoudre mes scrupules. Allons,
+    monsieur le souffre - douleur, ne faites point l’enfant, mais répondez-moi pertinemment sur mes
+    questions, et dites-moi ce que vous en savez.</p>
+   </postscript>
+  </body>
+ </text>
+</TEI>

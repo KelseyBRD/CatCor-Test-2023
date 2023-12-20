@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02969</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02969</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#religion"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-22">22/02/2021</date><persName>Olivia Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-02-23T17:47:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-27">27-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02969">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1775-04-12">12 d’avril, jour de pâques 1775.</date></dateline></opener>
+   <p>Vous me dites, monsieur, dans votre No 16, que vous mourrez d’une reconnaissance rentrée, et
+    moi je vous déclare que je mourrai tôt ou tard d’une volubilité de plume, car de ma vie je n’ai
+    tant griffonné qu’ici: je griffonne de beaux édits très éloquents, et qu’on traduira
+    misérablement, parce qu’il y a plus d'idées que de paroles et que les traducteurs
+    ordinairement ont plus de paroles que d’idées. Si vous voyez de ces traductions, crachez leur au
+    nez et ne les lisez pas; mais si vous voyez à leur suite 47 points, dites: «Elle n’est pas
+    sorcière, mais après six ans de guerre, que tout <placeName ref="places.xml#par01">Paris</placeName> pourtant disait ruineuse,
+    la voilà qui remet deux millions d’impôts, ou peu s’en faut, et tout le monde est payé». Mais
+    dites-moi un peu, ce <persName ref="people.xml#pop03"> papa Braschi</persName> me paraît un peu
+    jésuitique; je n’en serais pas fâchée, car vous savez l’affection que j’ai pour <rs
+     ref="orgs.xml#jesu01"> cette graine précieuse</rs> que je conserve comme les plus doux et les
+    plus sages citoyens de la <placeName ref="places.xml#whi01">Russie Blanche</placeName>. En
+    vérité, ces coquins-là sont les meilleurs gens du monde, et nulle part encore on n’a pu
+    remplacer leurs écoles, quoiqu’on ait pillé leurs biens à cet effet. Savez-vous bien que votre
+     <rs ref="people.xml#lud02"> jeune homme</rs> a été sur le point de faire céans un très sot
+    mariage, et même je ne sais pas trop encore ce qui en sera. <seg xml:lang="de"
+     >Gott weiß, wunderlich, aber mein Gott, warum gleichen die Kinder öfters ihren
+     Vätern, wenn es besser wäre denen Muttern zu gleichen ?</seg> Cela n’a pas le sens commun: dame
+    Nature est une sotte très souvent; je ferai là-dessus un jour une dissertation, que je vous
+    dédierai. </p>
+   <closer><signed rend="inline">Adieu, en voilà suffisamment pour un jour de pâques.</signed></closer>
+  </body>
+ </text>
+</TEI>

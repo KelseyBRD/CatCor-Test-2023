@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00008</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00008</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#poland"/>
+                    <term target="kw.xml#austriaholyromanempire"/>
+                    <term target="kw.xml#prussia"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change><date when="2013-10-20">21 October 2013</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Edited markup and added annotations.</p>
+            </change>
+            <change>
+                <date when="2014-07-28">28 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Metadata and further annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00008">
+                <body>
+                    <opener><dateline rend="right"><placeName ref="places.xml#tsa01"
+                                >Zarskoe-Selo</placeName>, <date when-custom="1774-05-28">le 28 mai
+                                1774</date>.</dateline>
+                    <salute rend="inline">Monsieur mon Frère,<note type="editorial">Catherine did
+                            not personally draft this official diplomatic letter: as the testimony
+                            of Prussian ambassador Count Solms indicates, it was drafted by or under
+                            the supervision of Nikita Panin, alongside a letter to Austrian Empress
+                            Maria Theresa (and presumably the <ref target="letter-00012.xml"
+                                >letter</ref> of 26 May to Maria-Theresa's son Joseph, which Solms
+                            does not mention). Solms's report to Frederick II of 3 June 1774
+                            (presumably NS) indicated that Panin had shown him the drafts of the
+                            letter to Frederick and that to Maria Theresa, and that Panin was going
+                            to Tsarkoe Selo that morning to obtain Catherine's approval on the
+                            drafts. Solms observed that Catherine's letter to Maria-Theresa asked
+                            her to reduce her territorial claims in Poland to those agreed on in the
+                            partition treaty, namely up to the <ref target="places.xml#pod01"
+                                >Podhorze River</ref>. Solms observed that the present letter to
+                            Frederick 'est d'un style beaucoup plus amical que celle à
+                            l'Impératrice-Reine' ('is in a much friendlier style than that to the
+                            Queen-Empress'), but that it 'conclut pourtant aussi par le resserrement
+                            des nouvelles limites et doit vous engager, Sire, à faire cause commune
+                            avec la Russie et la Pologne, pour S'opposer à la délimitation
+                            autrichienne' ('concludes nonetheless with the narrowing of the new
+                            borders and is meant to engage you, Sire, to join Russia and Poland in
+                            opposing the Austrian demarcation'). In conversation with the Austrian
+                            ambassador to Prussia, van Swieten, on 20 June, the king blamed Branicki
+                            for riling up the Russians in hopes that a misunderstanding would arise
+                            between the three partitioning powers and thus interfere with the
+                            partition agreement. The king added: 'ne nous pressons pas de répondre
+                            aux lettres de l'impératrice de Russie, les mouvements se calmeront
+                            là-bas, je les connais, les premières impressions sont vives, mais elles
+                            s'effacent avec le temps' ('let us not hurry to answer the Russian
+                            empress's letters: things will calm down there. I know them: first
+                            impressions are strong, but they fade with time') (<bibl><title
+                                    ref="works.xml#politi01">Politische Correspondenz Friedrich's
+                                    des Großen</title>, <biblScope unit="vol">xxxv</biblScope>,
+                                    <biblScope unit="pp">pp. 369,
+                        372</biblScope></bibl>).</note></salute></opener>
+                    <p>Une alliance aussi intime, une amitié aussi éprouvée, que celle qui m'unit à
+                        Votre Majesté a banni toute contrainte même toute réserve entre nous, quand
+                        il s'agit de nous expliquer et de nous entendre sur nos intérêts mutuels. Je
+                        n'en mettrai donc aucune à la confiance, avec laquelle je vais Lui parler
+                        sur l'état de nos affaires avec <placeName ref="places.xml#pol01">la
+                            Pologne</placeName>. Il Lui est bien connu avant que je le Lui dise, que
+                        la mission du <persName ref="people.xml#bra01">comte Branitzki</persName> à
+                        ma cour, n'a d'autre objet que d'obtenir une modification aux limites, que
+                        Votre Majesté et <rs ref="places.xml#hol01">la cour de Vienne</rs>
+                        prétendent donner à leurs acquisitions. C'est le même motif, qui conduit les
+                        deux autres envoyés de <rs ref="places.xml#pol01">la république</rs> à <rs
+                            ref="places.xml#pru01">la cour de Votre Majesté</rs> et à <rs
+                            ref="places.xml#hol01">la cour impériale et royale</rs>. Ni moi ni Votre
+                        Majesté nous ne saurions trouver mauvais que <placeName
+                            ref="places.xml#pol01">la Pologne</placeName> se plaigne, ses
+                        souffrances la justifient, et quoiqu'en pouvoir de la faire taire, c'est
+                        avec répugnance que nous y emploierions la force et la violence. De tels
+                        moyens aussi éloignés de notre caractère, qu'opposés à la marche, que nous
+                        avons voulu tenir pour rendre légal et authentique notre accord avec <rs
+                            ref="places.xml#pol01">la république</rs>, vont redoubler la haine et
+                        l'envie de toute <placeName ref="places.xml#eur01">l'Europe</placeName>
+                        contre le concert des trois cours et <name type="event"
+                            ref="events.xml#parti01">le partage</name>, qui en a été la suite. Les
+                        Polonais je, le veux, ne seront assistés de personne et n'auront dans leur
+                        faiblesse, que des protestations à nous opposer, mais c'est toujours un
+                        désavantage, que de laisser ainsi une porte ouverte à de nouveaux troubles
+                        et de nouvelles contestations. La moindre circonstance défavorable pour
+                        l'une ou l'autre des trois cours ira s'appliquer à un état déjà tout préparé
+                        pour elle, sans qu'on puisse prévoir de quelle nature ni de quelle
+                        conséquence en pourrait être l'événement. Je remets aux lumières supérieures
+                        de Votre Majesté, si c'est là la position, dans laquelle notre concert s'est
+                        proposé d'établir les choses. Quant à l'extention des frontières en
+                        elle-même, je la laisse également juge; si l'esprit et la base première du
+                        partage n'en sont pas altérés au même point, si ce qu'elle acquiert de
+                        nouveau et ce que <rs ref="places.xml#hol01">la cour de Vienne</rs> s'est
+                        donné au delà du <placeName ref="places.xml#pod01">Podhorze</placeName>, tel
+                        qu'il était entendu dans notre convention, <placeName ref="places.xml#rus01"
+                            >la Russie</placeName> se bornant à ce qu'elle a, n'est point contraire
+                        à l'accroissement proportionnel de puissance de chacune des trois
+                        monarchies. Si je sacrifie mon intérêt, on va me supposer des motifs et des
+                        considérations, qui ne seront point sans inconvénient pour la dignité de ma
+                        couronne. Et si en vertu ou d'explications du traité ou de droits
+                        nouvellement allegués je recule mes frontières au pair avec les deux autres
+                        cours, j'accrois le désespoir des Polonais, la négociation est abandonnée
+                        par eux et elle reste infinissable. Je sais que toutes ces choses Votre
+                        Majesté se les représente aussi fortement que je peux le faire, et j'aurais
+                        d'autant plus lieu de compter sur une condescendance de sa part aux plaintes
+                        et aux demandes de <placeName ref="places.xml#pol01">la Pologne</placeName>,
+                        qu'Elle ne s'est portée à sa nouvelle démarcation, que pour n'être pas en
+                        arrière vis à vis de <rs ref="places.xml#hol01">la cour de Vienne</rs>.
+                        C'est donc à cette cour, que je porte plus particulièrement mes instances,
+                        et je viens d'écrire à cet effet à <rs ref="people.xml#jos01"
+                            >l'Empereur</rs> et à <rs ref="people.xml#mar01">l'Impératrice
+                            Reine</rs>.<note type="editorial">Letters from Catherine to Joseph II
+                            and to Maria Theresia, both dated 26 May 1774 (<bibl><title
+                                    ref="works.xml#joseph01">Joseph II. und Katharina von Russland.
+                                    Ihr Briefwechsel</title>, <biblScope unit="pp">pp.
+                                    1-4</biblScope></bibl>; <bibl><title ref="works.xml#sborni01"
+                                    >SIRIO</title>, <biblScope unit="vol">cxxxv</biblScope>,
+                                    <biblScope unit="pp">pp. 118-20</biblScope></bibl>). On 22 June
+                            1774, Frederick wrote to his envoy in Vienna, Johann Hermann Riedesel,
+                            that Count Branicki had pleaded with Catherine to oppose the extension
+                            of the Holy Roman Empire and Prussia's borders: 'Ces insinuations
+                            pathétiques ont fait plus d'impression à la cour de Pétersbourg qu'on
+                            n'avait lieu de présumer, et [ont] inspiré à S. M. I. la résolution d'en
+                            écrire tant à moi qu'à l'Empereur et à l'Impératrice-Reine'
+                                    (<bibl><title ref="works.xml#politi01">Politische Correspondenz
+                                    Friedrich's des Großen</title>, <biblScope unit="vol"
+                                    >xxxv</biblScope> (<date>1912</date>), <biblScope unit="pp">p.
+                                    380</biblScope></bibl>). On 24 June, he wrote to his brother
+                            Henry: 'J'ai aussi reçu une lettre de l'impératrice de Russie, mais pas,
+                            mon cher frère, du style de celle qu'elle vous écrit. La mienne et une
+                            semblable, qu'elle a lâchée à l'Impératrice-Reine, contiennent des
+                            semonces pour nous [faire] désister de nos limites. J'attends ce que
+                            fera la cour de Vienne, je me cache derrière elle, et, sous prétexte de
+                            l'équilibre de l'Europe, je sauverai de ce naufrage ce que je pourrai'
+                                    (<bibl><title ref="works.xml#politi01">Politische
+                                    Correspondenz</title>, <biblScope unit="vol">xxxv</biblScope>,
+                                    <biblScope unit="pp">pp. 383-84</biblScope></bibl>). Compare
+                            with Catherine's letter, dated 8 April 1774 and delivered by <ref
+                                target="people.xml#gri01">Friedrich Melchior Grimm</ref> to <ref
+                                target="people.xml#hen02">Henry</ref> (<bibl><title
+                                    ref="works.xml#briefw01">Briefwechsel zwischen Heinrich Prinz
+                                    von Preußen und Katharina II. von Rußland</title>, <biblScope unit="pp">pp. 125-26</biblScope></bibl>).</note> Comme à coup
+                        sûr il n'y sera point pris de résolution sans avoir pressenti auparavant les
+                        sentiments de Votre Majesté, je Lui demande au nom de cette amitié qui nous
+                        unit, que les sentiments soient favorables aux Polonais, et que les montrant
+                        tels <rs ref="people.xml#unknown">au ministre de <rs ref="places.xml#hol01"
+                                >la cour impériale et royale</rs> près d'Elle</rs>, elle fasse
+                        entendre et assure selon la gradation que la chose aura, qu'il ne tiendra
+                        point à Elle de calmer les nouvelles allarmes de cette nation, en consentant
+                        de sa part à rétablir la démarcation de ses frontières, qui a subsisté lors
+                        du traité, si de son côté <rs ref="places.xml#hol01">la cour de Vienne</rs>
+                        acquièsse à se contenter du <placeName ref="places.xml#pod01">Podhorze ou
+                            Seret</placeName> au lieu du <placeName ref="places.xml#zbr01"
+                            >Sbrutz</placeName>. Je ne suis dans cette intercession, que les
+                        dispositions connues de Votre Majesté, et la condition, sous laquelle je la
+                        fais, Lui manifeste, qu'il est loin de mon intention de chercher à
+                        retrancher de ses avantages, en laissant subsister ceux, lesquels elle s'est
+                        jugée en droit de les proportionner.</p>
+                    <closer><signed rend="inline">C'est ce qui ne compatira jamais avec les
+                            sentiments si vrais de haute considération et d'amitié, avec lesquels je
+                            suis, Monsieur mon Frère, de Votre Majesté la bonne Soeur et
+                            Alliée
+                        <persName ref="people.xml#cat01" rend="below">Catherine.</persName></signed></closer>
+
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right"><placeName ref="places.xml#tsa01">Tsarskoe
+                                Selo</placeName>, <date when-custom="1774-05-28">28 May
+                            1774</date>.</dateline>
+                    <salute rend="inline">My dear Brother,</salute></opener>
+                    <p>An alliance as intimate and a friendship as tested as that which joins me
+                        with Your Majesty has banished all constraint and even all reticence between
+                        us when it is a matter of explaining ourselves and coming to an
+                        understanding regarding our mutual interests. I shall therefore place no
+                        restrictions on the confidence with which I am going to speak with You about
+                        the state of our affairs with Poland. You know without me telling you that
+                        Count Branitski's mission to my court has no object other than to obtain a
+                        change to the borders that Your Majesty and the court of Vienna have claimed
+                        for your acquisitions. The same motive has sent the republic's other two
+                        envoys to Your Majesty's court and to the royal and imperial court. Neither
+                        I nor Your Majesty could take it amiss that Poland should complain: her
+                        sufferings justify her, and although we have the power of silencing her, we
+                        would be loath to employ force and violence. Such means are as far from our
+                        character as they are opposed to the course that we have wished to follow to
+                        make our acord with the republic legal and authentic; they would intensify
+                        all Europe's hatred and envy of concord between the three courts and the
+                        partition that resulted from it. I am well pleased if the Poles are without
+                        assistance and have nothing but their protests with which to oppose us in
+                        their weakness, but it is always a disadvantage thus to leave an open door
+                        for new troubles and new protests. The least unfavourable circumstance for
+                        one or another of the three courts will be applied to a state already
+                        prepared for it, without anyone having the possibility of predicting the
+                        nature and consequences of the event. I leave it to Your Majesty's superior
+                        penetration to judge whether that is that position in which our agreement
+                        had proposed to establish things. As for the extension of the borders in
+                        itself, I similarly leave You to judge whether the spirit and primary basis
+                        of the partition will not thereby be altered to the same degree, and whether
+                        it is not contrary to the proportional increase in power of each of the
+                        three monarchies if Russia limits herself to what she already has, given
+                        that which You are newly acquiring and what the court of Vienna has taken
+                        for itself beyond the Podhorze, as it was agreed in our convention. If I
+                        sacrifice my interests, I will be assumed to have motives and considerations
+                        that are not without their disadvantages for the dignity of my crown. And if
+                        by virtue of either interpretations of the treaty or newly alleged rights I
+                        withdraw my borders on a par with the two other courts, I shall drive the
+                        Poles to despair, they will abandon the negotiations, and it will remain
+                        without end. I know that Your Majesty can grasp for Yourself all these
+                        things as forcefully as I can present them, and I would have all the more
+                        cause to count on Your condescension to the complaints and requests of the
+                        Poles, since You were drawn into this new demarcation only so as not to lag
+                        behind the court of Vienna. I therefore address my entreaties more
+                        particularly to that court, and I have just written to this effect to the
+                        empereur and the queen empress. Since they inevitably shall not make a
+                        resolution without sounding out Your Majesty's sentiments in advance, I ask
+                        You, in the name of the friendship that binds us, that those sentiments be
+                        favourable to the Poles. I ask that, in showing them to be such to the
+                        minister of the imperial and royal court, You make it understood and assure
+                        them, following the course that the discussion takes, that You will not be
+                        the one to prevent the calming of that nation's new alarm; for Your part,
+                        You will consent to the reestablishment of the borders demarcated at the
+                        time of the treaty, if for their part the court of Vienna acquiesces to be
+                        satisfied with the Podhorze or Seret rather than the Sbrutz. In making this
+                        intercession, I follow only Your Majesty's known dispositions and the
+                        condition under which I make it makes it manifest to You that it is far from
+                        my intention to seek to cut back Your advantages when I am allowing those to
+                        remain which You judged proportionate.</p>
+                    <closer><signed rend="inline">That is would never be compatible with the so very
+                            true sentiments of the utmost consideration and friendship, with which I
+                            am, my dear Brother, Your Majesty's good Sister and Ally
+                        <persName rend="below">Catherine.</persName></signed></closer>
+
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

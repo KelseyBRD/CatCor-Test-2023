@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02845</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02845</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#war"/>
+
+     <term target="kw.xml#sweden"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:33:37Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02845">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Czarskocelo</placeName> le <date
+      when-custom="1790-08-05">5. d’Aoust 1790</date>.</dateline></opener>
+   <p>Monsieur de <persName ref="people.xml#zim01"> Zimmermann</persName>, je viens de recevoir
+    votre lettre du 26. Juillet, par laquelle vous vous réjouissés avec nous de la victoire complète
+    remportée sous <placeName ref="places.xml#vib01"> Vibourg</placeName> par mes armées navales.
+    Vous ne vous réjouissés pas moins, j’espère, de la conclusion de <rs ref="events.xml#varal01">
+     la paix</rs> qui vient d’être signée entre le <persName ref="people.xml#gus01"> Roy</persName>
+     de <placeName ref="places.xml#swe01">Suède</placeName> et moi le 3. d’Aoust de mon côté par
+     le <persName ref="people.xml#ige01"> Lieut. Gén. d’Igelstrem</persName> et de celui du
+     <persName ref="people.xml#gus01"> Roy</persName> de <placeName ref="places.xml#swe01"
+     >Suède</placeName> par le Gén. d’<persName ref="people.xml#arm01">Armfeldt</persName>, toutes
+    hostilités vont cesser dans le cours de cette semaine; <rs ref="events.xml#varal01"> la
+     paix</rs> a etée signée en plein champ entre <placeName ref="places.xml#var02">
+     Verela</placeName> et <placeName ref="places.xml#kou01"> Kauvala</placeName>. </p>
+   <closer><signed rend="inline">Adieu, portés vous bien. <persName ref="people.xml#cat01"
+      type="signature"> Catherine</persName></signed>
+   </closer>
+  </body>
+ </text>
+</TEI>

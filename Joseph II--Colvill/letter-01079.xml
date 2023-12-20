@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01079</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01079</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#crimea"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-07">07-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:25:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01079">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pol03"> Poltava</placeName>, ce <date when-custom="1787-06-07">7 juin
+     1787</date>.</dateline></opener>
+   <p>Monsieur mon frère. Jamais ambassadeur ne fut reçu avec plus d’empressement, ni, je l’avoue,
+    avec moins d’étiquette que celui de V. M. I. ce matin. A peine étais-je levée que le comte de
+     <persName ref="people.xml#cob02"> Cobenzl</persName> me fit dire qu’il avait à me rendre une
+    lettre que le comte de <persName ref="people.xml#per04"> Pergen</persName> lui avait apportée de
+     <placeName ref="places.xml#khe01"> Cherson</placeName>. Tout-de-suite ma porte lui fut ouverte
+    et je le reçus en peignoir. Cette lettre charmante qu’il me rendit, m’apprend que V. M. I. est
+    revenue de son excursion à <placeName ref="places.xml#kin01">Kinburn</placeName> en parfaite
+    santé, ce dont je rends grâces au ciel, en La remerciant très-humblement de toutes les bontés et
+    marques d’amitié dont il Lui a plu de me combler pendant le temps qu’Elle a bien voulu passer
+    chez moi. Le souvenir ne saurait jamais s’en effacer de mon coeur et de mon esprit. Je prie
+    instamment V. M. I d’être; persuadée de ma parfaite reconnaissance et gratitude. Je La supplie
+    encore une fois d’excuser tous les péchés et fautes involontaires et d’étourderie qui se sont
+    commises pendant cet heureux temps qui tournait la cervelle à tout le monde et à moi la
+    première. Apparemment que toute la race maudite des cousins de cette contrée est allée se nicher
+    sur cette langue de terre qui mène à <placeName ref="places.xml#kin01">Kinburn</placeName>; nous
+    n’en avons trouvé pas un sur toute la route à notre grand étonnement depuis <placeName
+     ref="places.xml#ber05"> Berislaw</placeName> jusqu’ici, où je suis venue dîner aujourd’hui en
+    compagnie d’un orage et d’une pluie terrible qui rafraîchira l’air probablement, mais empêchera
+    le prince de Ligne et compagnie de déterrer sur les lieux tout ce qui s’est passé à la fameuse
+     <name ref="events.xml#polta01"> bataille de <placeName ref="places.xml#pol03">Poltava</placeName></name>. Peut-être la journée
+    de demain les servira-t-elle mieux dans leurs savantes recherches.</p>
+   <p>Je souhaite de tout mon coeur que les affaires des <placeName ref="places.xml#hol02"
+     >Pays-Bas</placeName> s’arrangent à la satisfaction de V. M. I. Mes voeux accompagnent tous Ses
+    pas; ce sont ceux de l’attachement le plus vrai, de l’amitié la plus sincère, de la plus haute
+    estime et considération avec lesquels j’ai l’honneur d’être</p>
+   <closer><signed>Monsieur mon frère de Votre Majesté Impériale la bonne soeur, sincère et fidèle
+    amie et alliée <persName ref="people.xml#cat01" type="signature"> Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

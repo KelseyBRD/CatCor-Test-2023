@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-08211</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-08211</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#sweden"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Could not find the name of the oldest brother of Dolgorouki.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-08-01">01-08-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T16:17:05Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-08211">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName>, ce <date
+     when-custom="1771-04-28">28/17 d'avril 1771</date>.</dateline></opener>
+   <p>Après avoir lu la lettre de V. A. R. du 12 d'avril je m’écriais: Une grande naissance est une
+    bonne chose selon ce monde-ci, mais un grand mérite et beaucoup d'esprit la relèvent et la
+    passent infiniment. Tous les rois de la terre (excepté le <rs ref="people.xml#fre01"> Roi, Votre
+     frère</rs>) me seraient venus voir, je n’en aurais eu que la gêne et non le contentement qui me
+    reste du court séjour que V. A. R. a bien voulu faire en ce pays. Son amitié dont Elle me
+    flatte, et de laquelle je ne doute pas, parce qu'entre autres belles qualités Vous possédez
+    celle d'être sincère, m'est bien précieuse, et comme telle je tâcherai de la cultiver avec soin
+    et empressement; la mienne a pour base l'estime la plus distinguée.</p>
+   <p>V. A. R., à l'heure qu'il est, aura vu mon comte <persName ref="people.xml#orl03">
+     Orlof</persName> qui, quoiqu’il n’ait point été à <placeName ref="places.xml#par01">Paris</placeName> ni ne parle pas un mot de
+    français, a cependant un esprit et un cœur très au-dessus du vulgaire. Deux ou trois hommes
+    pareils suffisent pour faire beaucoup plus de jolies choses sur le globe qu’autant de Parisiens
+    n’en pourraient dire ni peut-être imaginer dans le moment présent.</p>
+   <p>Le jeune <persName ref="people.xml#gus01"> roi de <placeName ref="places.xml#swe01"
+     >Suède</placeName></persName> pendant son séjour en <placeName ref="places.xml#fra01">France</placeName>,
+    à l’affliction près de la perte du <rs ref="people.xml#ado01"> roi son père</rs>, a eu tout lieu
+    d'être content de son voyage; je souhaite qu'il contribue à son bonheur personnel. Rien
+    assurément n'y pourrait coopérer plus efficacement que les conseils sages et lumineux de V. A.
+    R. et ceux du <rs ref="people.xml#fre01"> Roi</rs>, Son frère; il est impossible qu'ils ne
+    fassent impression sur un esprit juste et droit. J’espère que l’état de la <rs
+     ref="people.xml#lou05"> reine douairière</rs> recevra du soulagement par la prochaine présence
+    du <rs ref="people.xml#gus01"> roi son fils</rs>.</p>
+   <p>V. A. R. me fait l'honneur de me dire qu'Elle se trouve souvent parmi nous en idée, et
+    nommément à <placeName ref="places.xml#her01"> l’ermitage</placeName>. Elle saura donc, car Elle
+    sait tout, que très souvent nous y sommes occupés de Son souvenir, mais le lieu de la scène est
+    changé, il est transporté à la campagne depuis quinze jours, nous y voulons planter, semer. Deux
+    pieds de neige (la médisance dit trois à quatre) nous en empêche jusqu’ici; nous ressemblons
+    donc aux alouettes, nous nous promenons dans les endroits où la neige est fondue. <rs
+     ref="people.xml#nar02"> Mr. le Président</rs> est déserté, le futur Vice-Président, frère aîné
+    de ce prince Dolgorouki que V. A. R. aura vu avec
+    le <persName ref="people.xml#orl03"> comte Orlof</persName>, est retourné, à l'armée du
+     comte <persName ref="people.xml#rum01">Roumanzof</persName> faire tapage vis-à-vis des <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName>; beaucoup d'autres en ont fait autant. Que le ciel les
+    conserve et les ramène sain et saufs, afin qu'un jour ils puissent avoir de nouveau l'honneur et
+    le plaisir de siéger en présence de V. A. R.! Mais daignez choisir une meilleure saison et
+    permettez que <placeName ref="places.xml#tsa01"> Tsarskoe-Sélo</placeName> jouisse de l'avantage
+    qu'a présentement <placeName ref="places.xml#rhe01"> Rheinsberg</placeName>. En attendant je
+    préparerai tant de sentiers et de chemins tortueux à côté du petit appartement de V. A. R., que
+    j'espère que, malgré Sa sobriété, Elle ne manquera pas d'appétit pour le dîner. Certain balcon,
+    très bien situé, est destiné pour les soupers à l'imitation des repas académiques. V. A. R.
+    désirerait-Elle encore une partie de piquet avec <rs ref="people.xml#cat08">
+    l'Ambassadrice</rs>? Celle des jours de cour a pensé essuyer un échec remarquable; la dame qui
+    nous donnait tant de terreur a voulu subitement prendre le chemin de sa patrie. Un pétit
+    mécontentement de ménage y avait donné lieu, mais prudemment elle s'est ravisée le lendemain du
+    jour où elle m’avait fait demander l'heure pour la congédier.</p>
+   <closer><signed>C'est avec la plus haute considération ...</signed></closer>
+  </body>
+ </text>
+</TEI>

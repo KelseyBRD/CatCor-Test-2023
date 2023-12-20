@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00003</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00003</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#pugachevrebellion"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-17">17 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-06-23">23 June 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, metadata.</p>
+            </change>
+            <change>
+                <date when="2015-02-14">14 February 2015</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Translation.</p></change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00003">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-04-25">Ce 25 d'avril v.
+                                st 1774.</date></dateline>
+                    <salute rend="inline">Monsieur de <persName ref="people.xml#gri01"
+                            >Grimm</persName>,</salute></opener>
+                    <p>j’ai reçu hier votre lettre datée de <placeName ref="places.xml#rig01"
+                            >Riga</placeName> du 19 (30) avril. Si vous avez fait le pleureur avec
+                            <persName ref="people.xml#rie01">M. de Riedesel</persName>, au moins
+                        n’êtes vous pas le seul; il m’a bien fait pleurer aussi. Cette <rs
+                            ref="people.xml#kar01">landgrave</rs> était une femme unique: comme elle
+                        a su mourir! Quand mon tour viendra, je tâcherai de l’imiter, et je
+                        chasserai comme elle tous les pleureurs d’auprès de moi; je ne veux dans ce
+                        moment que des âmes de roche et des rieurs de profession.</p>
+                    <p>Vous me dites: <hi rend="italic">Comment sortir de votre empire?</hi> Que
+                        puis-je répondre à cela, sinon par la phrase de <persName
+                            ref="people.xml#mol01">Molière</persName>: «Monsieur <persName
+                            ref="people.xml#dan01">George Dandin</persName>, vous l'avez bien
+                        voulu»; or donc, il ne tient qu’à vous de revenir. Je vous félicite de la
+                        grande joie que vous avez eue de célébrer mon quarante-sixième jour de
+                        naissance en <placeName ref="places.xml#cou01">Courlande</placeName>. Je
+                        hais ce jour comme la peste: le beau présent qu’il me fait! Chaque fois il
+                        me fait don d’un an de plus, chose de laquelle je me passerais bien. Dites
+                        la vérité, ce serait une chose charmante qu’une impératrice qui toute sa vie
+                        n’aurait que quinze ans.</p>
+                    <p>Mais adieu, <persName ref="people.xml#gri01">monsieur de Grimm</persName>,
+                        cette lettre commence à ressembler aux jaseries après huit heures de
+                            <placeName ref="places.xml#tsa01">Tsarsko-Sélo</placeName>, et les sots
+                        qui la liront avant vous pourraient trouver indécent que des personnes aussi
+                        graves que vous et moi écrivent des lettres pareilles. Vous connaissez les
+                        égards que chacun doit à son prochain et nommément ceux dont <persName
+                            ref="people.xml#tho01">monsieur Thomas</persName> jouit, or donc par
+                        égards pour les sots plus sots que <rs ref="people.xml#tho01">l’ami
+                        Tom</rs>, je finis, en vous souhaitant bonne santé et bon voyage. J’envoie
+                        ma lettre par la voie que vous m’indiquez, pour vous prouver mon
+                        exactitude.</p>
+                    <p><placeName ref="places.xml#ore01">Orenbourg</placeName> est délivré, et selon
+                        ma prophétie cette farce finira par des coups et des pendaisons, pour
+                        lesquelles cependant mon goût n’augmente pas, mais j’ai fait une perte bien
+                        réelle: le <persName ref="people.xml#bib01">général Bibikof</persName> est
+                        mort dans treize jours d’une fièvre chaude et bilieuse à deux cents verstes
+                        d’en deça <placeName ref="places.xml#ore01">Orenbourg</placeName>. A propos,
+                        comment vous portez-vous? <persName ref="people.xml#did01"
+                            >Diderot</persName> m’écrit pour savoir l’état de votre santé, et cela
+                        de <placeName ref="places.xml#lah01">La Haye</placeName>. Je vois d’ici
+                        qu’en lisant cette lettre vous serez attaqué de plus d'un épanchement de
+                        rate, et les originaux ne seront point épargnés. J’en sais bien la raison:
+                        c’est le cours des planètes et l'enchaînement des choses de ce monde qui
+                        auront produit ce moment-là. Avouez que voilà une terminaison à laquelle
+                        vous ne vous attendiez pas.</p>
+                   
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-04-25">This 25th of April
+                                o.st. 1774.</date></dateline>
+                    <salute rend="inline">Monsieur de Grimm,</salute></opener>
+                    <p>Monsieur de Grimm, I received yesterday your letter dated from Riga on 19
+                        (30) April. If you played the weeper with M. de Riedesel, at least you were
+                        not the only one: he made me cry a good deal too. That landgravine was an
+                        exceptional woman: how she knew how to die! When my turn comes, I will try
+                        to imitate her, and I will banish like she did all weepers from me. At that
+                        instant I want only those who have souls of stone and who laugh by
+                        profession.</p>
+                    <p>You say to me: How can I leave your empire? How can I reply, save with
+                        Molière’s phrase: “Monsieur George Dandin, you are the one who wished it.”
+                        Well, then, your return depends on you alone. I congratulate you on the
+                        great joy you had in celebrating my forty-seventh birthday in Courland. I
+                        hate that day like the plague: what a lovely present it gives me! Every time
+                        it endows me with one more year, which is a thing I could well do without.
+                        Tell the truth: a empress who was but fifteen years old all her life would
+                        be a charming thing.</p>
+                    <p>But farewell, Monsieur de Grimm, this letter is beginning to resemble the
+                        chatter after eight o’clock at Tsarskoe Selo, and the fools who shall read
+                        it before you do might find it indecent that two such grave personages as
+                        you and I should write such letters. You know what consideration everyone
+                        must show to one’s neighbours, and namely that which is shown to Monsieur
+                        Thomas. Well, then, out of consideration for fools more foolish than our
+                        friend Tom, I shall end, wishing you good health and a good journey. I am
+                        sending my letter by the means which you indicate, in order to prove to you
+                        my exactitude.</p>
+                    <p>Orenburg has been liberated, and, as I prophesied, this farce will conclude
+                        with beatings and hangings, for which my taste has not grown. But I have
+                        suffered a real lost: General Bibikov died within thirteen days of a hot and
+                        bilious fever two hundred versts this side of Orenburg. By the way, how are
+                        you? Diderot has written to me to ask the state of your health, and that
+                        from The Hague. I can see from here that when you read this letter you will
+                        suffer more than one outpouring of spleen, and the originals will not be
+                        spared. I know quite well the reason: the path of the planets and the
+                        succession of things in this world will have brought about that moment.
+                        Admit that you were not expecting that ending.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

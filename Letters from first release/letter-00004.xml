@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00004</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00004</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc><p>CatCor v1</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#healthpolicy"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#courtlife"/>
+                    <term target="kw.xml#philosophes"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2013-09-11">11 September 2013</date>
+                <name>James Cummings</name>
+                <p>Initial conversion to TEI P5 and subsequent draft up-conversion.</p>
+            </change>
+            <change>
+                <date when="2013-12-17">17 December 2013</date>
+                <name>Stephen Ashworth</name>
+                <p>Initial markup.</p>
+            </change>
+            <change>
+                <date when="2014-07-01">1 July 2014</date>
+                <name>Kelsey Rubin-Detlev</name>
+                <p>Further markup, metadata, annotation.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="fr" xml:id="letter-00004">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-06-19">Ce 19 juin
+                                1774.</date></dateline></opener>
+                   
+                    <p>En premier lieu, monsieur le philosophe, n’allez point vous imaginer que vous
+                        aurez une réponse à douze pages d’écriture. <seg xml:lang="de">Das ist
+                            eine pure Unmöglichkeit</seg>: à <placeName ref="places.xml#wet01"
+                            >Wetzlar</placeName> même on diminue présentement <seg xml:lang="de"
+                            >die Schreibereien</seg>. Vous direz que voilà une raison qui sent
+                        le souverain: ces gens-là, comme tout le monde sait, en donnent souvent de
+                        celles que le vulgaire appelle telles quelles; eh bien, imaginez en une
+                        autre, comme par exemple la paresse, et vous ne serez pas loin de la vraie
+                        raison. J’aime beaucoup à recevoir des lettres de douze pages, quand elles
+                        sont aussi agréables que la vôtre de <placeName ref="places.xml#dre01"
+                            >Dresde</placeName>, mais, franchement parler, je n’ai pas un aussi
+                        grand goût pour les réponses que je devrais y faire.</p>
+                    <p>Je suis fâchée de ce que je n’aurai de bonnes nouvelles à donner de votre
+                        santé à votre ami <persName ref="people.xml#did01">Diderot</persName>, car
+                        tout ce que vous m’en dites me fait augurer qu’on pourrait se porter mieux
+                        que vous ne faites et être encore sensé n’avoir pas la meilleure des santés
+                        possibles. Surtout je n’aime point ces fréquentes consultations de médecins:
+                        ces charlatans vous font toujours plus de mal que de bien, témoin <persName
+                            ref="people.xml#lou15">Louis XV</persName>, qui en avait dix autour de
+                        lui et qui cependant <seg xml:lang="la"><hi rend="italic">mortus
+                                est</hi></seg>; or, j’opine que pour mourir de leurs mains il y
+                        en avait neuf de trop. J’opine encore qu’il est honteux pour un roi de
+                            <placeName ref="places.xml#fra01">France</placeName> qui vit au XVIII
+                        siècle de mourir de la petite vérole; cela est velche.<note type="editorial"
+                            >Voltaire applied the ironic term 'Welche' to the French when depicting
+                            their foibles. When he received a hero's welcome on his return to Paris
+                            just before his death in 1778, he wrote to Catherine on 30 April: 'Les
+                            bontés de votre majesté impériale mettent le comble à celles de tout
+                            Paris, je n'y ai plus trouvé de Welches, je n'y ai vu que sept cent
+                            mille Français aimables qui portent au ciel le nom de votre majesté'
+                            ('Your Imperial Majesty's kindnesses render complete those of all of
+                            Paris: I found here no more Welches. I have seen only seven hundred
+                            thousand amiable Frenchmen exalting Your Majesty's name to the heavens')
+                                    (<bibl><author ref="people.xml#vol01">Voltaire [François Marie
+                                    Arouet]</author>, <title ref="works.xml#corres01">Correspondence
+                                    and related documents</title>,
+                            <idno>D21168</idno></bibl>).</note> L’on m’a dit que <persName
+                            ref="people.xml#cat01">l’Imp. de Russie</persName> s’était avisée de
+                        donner à <persName ref="people.xml#lou01">Louis XVI</persName> par <persName
+                            ref="people.xml#dur01">M. Durand</persName> le conseil sensé, humain et
+                        amiable de se faire inoculer par la main de <persName ref="people.xml#dim01"
+                            >M. Dimsdale</persName>, sans différer d’une seconde; on m’a dit aussi
+                        qu’elle était plus en droit qu’un autre de donner ce conseil, parce qu’<rs
+                            ref="events.xml#inocu01">elle en a fait l’essai</rs> sur elle et sur <rs
+                            ref="people.xml#pau01">son fils</rs>.</p>
+                    <p><persName ref="people.xml#tho01">M. Thomas</persName>, qui devrait être
+                        très-sensible à l’honneur de votre souvenir, depuis un certain temps vit
+                        beaucoup plus au sein de sa famille que chez moi; il est fou de sa femme et
+                        de cinq enfants qu’il a et qui lui ressemblent comme deux gouttes d’eau.
+                        Cela fait une meute entière, qui arpentent avec moi tous les jardins
+                        possibles et puis modestement s’en retournent dans leur chaumière où papa
+                        les suit leur sacrifiant les palais des rois, les sofas, les fauteuils
+                        d’étoffes d’or et les conversations philosophicomiques.</p>
+                    <p>Je devrais répondre encore a bien d’autres articles de votre dépêche, comme
+                        par exemple dire un mot sur votre joie à la reçue de ma lettre, avoir de
+                        l’esprit comme quatre au sujet de vos promenades à grands pas par votre
+                        chambre et à propos des conversations que vous faites étant seul, faire des
+                        réflexions profondes sur <persName ref="people.xml#kel01">Kelchen</persName>
+                        et <persName ref="people.xml#dan01">George Dandin</persName>,<note
+                            type="editorial">Central character in Molière's <ref
+                                target="works.xml#dan01">comedy</ref> of the same name.</note> vous
+                        parler des originaux qui me font rire et surtout du <persName
+                            ref="people.xml#pot01">gén. Potemkine</persName>, qui est plus à la mode
+                        que bien d’autres et qui me fait rire à me tenir les côtés.<note
+                            type="editorial">Grimm was in St. Petersburg as Catherine's romantic
+                            relationship with her most famous favourite, Potemkin, began in February
+                            1774.</note> Je devrais paraphraser ce que vous me dites de mon portrait
+                        attaché sur l’impériale de votre carrosse, plaindre le malheur de sa chûte
+                        [sic], maudir avec vous la porte cochère trop basse qui l’a causée, vous
+                        entretenir en passant de votre séjour à <placeName ref="places.xml#war01"
+                            >Varsovie</placeName>, vous dire un mot de l’enseigne de cabaret que le
+                            <persName ref="people.xml#bel01">prince Bélosselski</persName> vous a
+                        permis de copier, vous remercier du jeu d’onchets et de toutes vos
+                        générosités à mon égard; vous parler de mes regrets et des vôtres au sujet
+                        de <persName ref="people.xml#bib01">M. Bibikof</persName>, vous remercier
+                        encore de votre amitié et de vos beaux sentiments, remplis de délicatesse,
+                        gronder un peu <persName ref="people.xml#bay01">M. Baylies</persName> parce
+                        qu’il est docteur, applaudir à ce que vous me dites des comtes
+                            Roumiantsof,<note type="editorial">When Grimm left St. Petersburg in
+                            April 1774, he took with him the two younger sons of <ref
+                                target="people.xml#rum01">Field-Marshal Petr Rumyantsev</ref>, <ref
+                                target="people.xml#rum03">Nikolay</ref> and <ref
+                                target="people.xml#rum04">Sergey</ref>, and brought them to the
+                            University of Leyden. He continued to act as their mentor, travelling
+                            with them across Europe to Paris, Geneva, and Italy.</note> prier Dieu
+                        et les rois avec vous pour <rs ref="people.xml#key01">le comte</rs> et <rs
+                            ref="people.xml#key02">la comtesse Keyserling</rs>, — ce dernier article
+                        viendra de lui-même. Mais tout cela remplirait douze pages, et je veux que
+                        vous n’en ayez que six, pour vous prouver que vous n’écrivez pas tout à fait
+                        à une image. Adieu, seigneur <persName ref="people.xml#her01"
+                            >Héraclite</persName>. Portez-vous bien. Ce tître vous vient, puisque
+                        vous signez: pleureur.</p>
+                    
+                </body>
+            </text>
+            <text type="translation" xml:lang="en">
+                <body>
+                    <opener><dateline rend="right"><date when-custom="1774-06-19">This 19 June
+                                1774.</date></dateline></opener>
+                  
+                    <p>First of all, Mister Philosopher, do not go imagining that you will have a
+                        reply of twelve written pages. That is a sheer impossibility: even at
+                        Wetzlar they are currently reducing paperwork. You will say: there's a
+                        reason that reeks of a sovereign. Those people's reasons, as everyone knows,
+                        are often what the common man calls second-rate. Well, then, make up
+                        another, like laziness, for example, and you will not be far from the real
+                        reason. I very much like to receive letters twelve pages long, when they are
+                        as agreeable as yours from Dresden, but, to speak frankly, I do not have
+                        such a great liking for the replies I ought to make.</p>
+                    <p>It vexes me that I have no good news of your health to give your friend
+                        Diderot, for, from all you say of it, I foresee that one could be doing
+                        better than you are and still not be reputed to be in the best of all
+                        possible healths. I particularly dislike those frequent consultations with
+                        doctors: those charlatans always do you more harm than good. Witness Louis
+                        XV, who had ten about him and who nonetheless died. Yet I am of the opinion
+                        that, for one to die at their hands, there were nine too many. I am also of
+                        the opinion that it is shameful for a king of France living in the 18th
+                        century to die of smallpox: that is Welche. I have been told that the
+                        empress of Russia took it into her head to give Louis XVI the sensible
+                        advice that he should have himself inoculated by Mr. Dimsdale without a
+                        second's delay. I have also been told that she had more of a right than any
+                        other to give such advice because she has tried it out on herself and her
+                        son.</p>
+                    <p>Mr. Thomas, who should be most touched by the honour of your remembrance,
+                        have been for some time now living more with his family than with me. He is
+                        mad about his wife and his five children who look the spitting image of him.
+                        That makes up a whole pack, who stride with me up and down all possible
+                        gardens and then modestly return to their hut. Papa follows them thither,
+                        relinquishing for them the palaces of kings, sofas, gold-upholstered
+                        armchairs, and philosophicomical conversations.</p>
+                    <p>I ought to respond to many other articles in your dispatch. For example, I
+                        should say a word about your joy at receiving my letter; I should have wit
+                        for four regarding your walks with great strides around your room and
+                        concerning the conversations you have when you are alone; I should give
+                        profound reflections about Kelchen and George Dandin; I should speak to you
+                        about the eccentrics who make me laugh and especially about General
+                        Potemkin, who is more in fashion than many others and who makes me laugh
+                        until I hold my sides. I should paraphrase what you say about my portrait
+                        attached to the top of your carriage; lament the misfortune of its fall;
+                        curse with you the excessively low carriage door that caused it; discuss
+                        with you in passing your stay at Warsaw; say a word to you about the cabaret
+                        sign that Prince Beloselsky allowed you to cop; thank you for the game of
+                        pick-up sticks and all your generosity toward sme; spak to you of my regrets
+                        and yours about Mr. Bibikov; thank you again for your friendship and fine,
+                        elegant sentiments; scold Mr. Baylies a bit because he is a doctor; applaud
+                        what you tell me of the Counts Rumyantsev; pray with you to God and to kings
+                        on behalf of Count and Countess Keyserling--this last article will come of
+                        its own accord. But all that would fill twelve pages, and I want you to have
+                        only six, to prove to you that you are not entirely writing to a mere image.
+                        Farewell, Mister Heraclitus. Keep well. You get this title because you sign
+                        yourself: 'the weeping one'.</p>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

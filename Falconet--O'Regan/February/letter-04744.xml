@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04744</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04744</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="culture">
+                    <term target="kw.xml#painting"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-16">16/02/2021</date><persName>Gabriel
+                    O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:06:16Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17"
+                    >17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and
+                    checking</label></change>
+            <change><date when="2021-05-02">02/05/2021</date><persName>Kelsey
+                    Rubin-Detlev</persName><label>Markup corrected and query
+                resolved.</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04744">
+        <body>
+
+            <opener><dateline> А <placeName ref="places.xml#pet02"> Péterhof</placeName>, се <date
+                        when-custom="1768-07-14">14 Juillet 1768</date>.</dateline></opener>
+            <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, le petit comte
+                    <persName ref="people.xml#shu01"> Schouwalof</persName> m’a promis de vous
+                remettre l’<rs ref="works.xml#sullyd02">estampe</rs> de <persName
+                    ref="people.xml#sul01"> Sully</persName>, je ne sais ce qu’est devenue la
+                    mienne.<note type="editorial">As a model for a <ref target="works.xml#sullyd01"
+                        >bust</ref> by Marie-Anne Collot.</note> Je n’ai jamais osé tourner Jeudi
+                passé du côté <rs ref="works.xml#pierre01">du cavalier et du coursier</rs> quoique
+                j’aie beaucoup rôdé dans les environs de ce chef-d’oeuvre futur, mais je ne
+                négligerai point l’invitation que vous me faites pour le jour que sera posée la
+                première pierre de l’<rs ref="places.xml#isa01"> église</rs> qui à sa naissance a
+                éprouvé plus de tribulations et de persécutions que les chrétiens des premiers
+                siècles.</p>
+            <p> J’ai fait écrire par rapport au <rs ref="works.xml#histoi04">manuscrit</rs> de ce
+                M-r <persName ref="people.xml#rul01"> Rulière</persName>.</p>
+            <p> Les deux bas-reliefs dont j’ai parlé sont deux ovales au-dessus de deux portes; les
+                sujets sont au choix du faiseur. J’ai été bien fâchée de n’avoir plus trouvé à l’
+                    <rs ref="orgs.xml#impe03">Académie</rs> les bustes qui y étaient exposés; les
+                campagnards sont gauches, dit-on; je l’ai éprouvé, je suis venue trop tard. Je
+                trouve votre lettre sur les allégories digne d’être insérée dans l’<rs
+                    ref="works.xml#encycl01"> Encyclopédie</rs> et je me le tiendrai pour dit, sur
+                cet article; il ne m’en faut plus; le <rs ref="works.xml#jupite02">tableau</rs> de
+                M-me <persName ref="people.xml#the01"> Terbousch</persName> est très-mauvais à mon
+                avis; jamais on n’a fait une plus grande dépense en couleur rouge, apparemment elle
+                avait entendu parler d’imagination couleur de rose. </p>
+            <closer><signed rend="inline"> Adieu, Monsieur, portez-vous bien.</signed></closer>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01089</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01089</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#prussia"/>
+     <term target="kw.xml#sweden"/>
+     <term target="kw.xml#foreignPolicy"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Unable to find the location of “Adoing”</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-13">13-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:27:02Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01089">
+  <body>
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName>, ce <date
+     when-custom="1788-12-21">21 décembre 1788</date>.</dateline></opener>
+   <p>Monsieur mon frère. Rassurée par la lettre que V. M. I. a bien voulu m’écrire d’Adoing en date
+    du 24 novembre sur l’état de Sa santé, je fais les voeux les plus sincères que dans peu il ne
+    reste aucun ressentiment de cette indisposition qui m’a tant alarmée. J’ose espérer que quelque
+    repos après tant de fatigue n’opère cet heureux changement.</p>
+   <p>V. M. I. voudra bien recevoir les expressions de toute ma reconnaissance des nouvelles marques
+    d’intérêt et d’amitié qu’Elle vient de me donner. La constance, la candeur, la loyauté guidant
+    Ses pas, il ne saurait exister aucun doute sur ce que j’ai à espérer et à me promettre d’un
+    allié tel que V. M. I. Je me flatte qu’Elle rend également justice à mes sentiments qui me
+    dictent le plus parfait retour envers Elle. La solidité des raisons que V. M. I. m’allègue pour
+    ne pas se charger d’une double guerre, est pesée par la sagesse et la prévoyance. Je ne saurais
+    par conséquent que m’y rendre; j’ai chargé <rs ref="people.xml#gol04"> mon ambassadeur</rs>
+    auprès d’Elle d’entrer sur ces objets dans des explications plus détaillées avec <rs
+     ref="people.xml#kau01"> Son ministère</rs>, et Elle me permettra de m’y référer. Je me flatte
+    que ces ouvertures serviront à convaincre V. M. I. combien je désire de mon côté d’amener les
+    choses à une pacification, n’y ayant assurément aucun agrément à avoir deux guerres sur les bras
+    et une troisième prête à éclore. Le premier de mes souhaits est toujours de Lui prouver de plus
+    en plus l’amitié la plus véritable et la très-haute considération avec lesquelles je
+    suis ....</p>
+  </body>
+ </text>
+</TEI>

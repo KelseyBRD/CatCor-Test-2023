@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01149</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01149</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#england"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#europe"/>
+                </keywords>
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#Sweden"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-16"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-03-26"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01149">
+        <body>
+
+            <opener><dateline>Проезжая <placeName ref="places.xml#kos01">Кострому</placeName>.<lb/>
+                <date when-custom="1767-05-16">Маия 16 ч., 1767.</date></dateline>
+            <salute rend="inline"><persName ref="people.xml#pan01">Никита
+                        Иванович.</persName></salute></opener>
+            <p>Поднявши якорь, в осьмомъ часу получила куриера Вашего от 14 числа, и теперь буду
+                ответствовать на сие письмо и на те артикулы вчерашняго Вашего, на которые вчерась
+                не успела. <persName ref="people.xml#ass01">Ассебург</persName> вчерась получил
+                известие, что он Тайным Действительным Советником от своего <persName
+                    ref="people.xml#gus01">Короля</persName> пожалован, чем, как сведала, и я его
+                поздравляла, однако ж он тем не тронут. Я ему говорила, что я радуюсь видеть, что
+                его <persName ref="people.xml#gus01">Король</persName> умеет отличить достоинства.
+                За <persName ref="people.xml#dum02">Дюмареска</persName> прикажите интересоваться,
+                чтоб он от <orgName ref="orgs.xml#angl01">Аглинскаго Правительства</orgName> лучшим
+                местом снабден был, что оставляю на Ваше благоусмотрение, как и когда. Радуюсь, что
+                Ваше гуляние служило и к здоровью и к удовольствию и веселию <persName
+                    ref="people.xml#pot01">Великаго Князя</persName>, а его описание ожидать буду;
+                письма города <placeName ref="places.xml#gda01">Гданска</placeName> при сем обратно
+                посылаю, а их посланцов увижу по приезде моем в <placeName ref="places.xml#mos01"
+                    >Москву.</placeName></p>
+            <closer rend="inline"><signed>Впрочем, желаю Вам здравствовать.<lb/>
+                <persName ref="people.xml#cat01">Екатерина.</persName></signed></closer>
+        </body>
+    </text>
+</TEI>

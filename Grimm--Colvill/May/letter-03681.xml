@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03681</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03681</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#patronage"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-02">02-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:57:14Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03681">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1792-12-07">7 décembre 1792</date>.</dateline></opener>
+   <p>Celle-ci doit répondre à la vôtre en date de <placeName ref="places.xml#par01"
+     >Paris</placeName> du 1 janvier de cette année, qui ne m’est parvenue que dans le courant du
+    mois passé. Elle commence par une déduction sur le vieux et le nouveau calendrier, à laquelle je
+    ne répondrai pas autrement qu’en soutenant la cause du bon vieux calendrier, que j’aime à la
+    folie, parce que c’est celui de l’église grecque, qui est celle des apôtres, et que plus que
+    jamais je hais les nouveautés. Au reste, je vous remercie des compliments que vous me faites sur
+    la nouvelle année, qui est presque passée; ne trouvez-vous pas qu’il faudrait la nommer l’année
+    de la cacade?</p>
+   <p>Je vous prie de me dire où vous êtes, et puisque vous êtes en fuite et pourchassé par les
+     <persName ref="people.xml#cus01"> Custine</persName> et les <persName ref="people.xml#dum05">
+     Dumouriez</persName>, si un beau jour il ne vous plairait pas, selon mon instante prière, de
+    jeter au feu ces lettres, crainte qu’elles ne tombent entre les mains des démons qui, comme vous
+    le voyez, savent marcher où ils veulent aller, malgré les pluies, les boues et le manque de
+    vivres et de fourrage, tandis que nos compassés ne parviennent nulle part où ils devraient
+    aller. Je me réjouis infiniment encore de ce que les brigands refusent la négociation que don
+    Albert leur offre avec autant d’esprit que de dignité; je vous avoue que je me sens une telle
+    humeur contre certaines gens que volontiers je les souffletterais. Avec de telles dispositions
+    vous jugez bien que la mort des <persName ref="people.xml#gil01"> Gillet</persName>, des
+     <persName ref="people.xml#rul01"> Rulhière</persName>, des <persName
+     ref="people.xml#fal01 people.xml#fal02"> Falconet</persName> n’a presque pas attiré mon
+    attention. Mais celle de M. de <persName ref="people.xml#mon02"> Montmorin</persName> m’a fait
+    de la peine. Mais ciel, que vois-je! Mes lettres vous les avez prudemment placées à <placeName
+     ref="places.xml#fra03"> Francfort</placeName> chez un banquier ; par conséquent M. <persName
+     ref="people.xml#cus01"> Custine</persName>, s’il s’en avise, les aura <seg xml:lang="de"> mit
+     Sack und Pack</seg>, car il s’est emparé des banquiers de <placeName ref="places.xml#fra03">
+     Francfort</placeName>, à ce qu’on dit, à moins que le double fond ne les sauve. Je vous le
+    repète, jetez tout cela au feu si jamais vous le recouvrez: Cela n’est plus bon à rien, et
+    personne au monde n’en fera plus cas; croyez-moi, faites ce que je vous dis.</p>
+   <p>M. <persName ref="people.xml#ale01"> Alexandre</persName> se conduira très sagement et
+    prudemment; sans cela, présentement il commence tout doucement à être un peu amoureux de la <rs
+     ref="people.xml#eli04"> princesse aînée</rs> de <placeName ref="places.xml#bad01">
+     Bade</placeName>, et je ne jurerai pas qu’il ne soit payé d’un retour parfait; jamais couple ne
+    fut mieux assorti, beau comme le jour, rempli de grâces et d’esprit; tout le monde se plaît à
+    favoriser leur amour naissant. La semaine passée M. <persName ref="people.xml#ale01">
+     Alexandre</persName>, voyant la comédie de <title ref="works.xml#amantn01"> l’Amant
+     novice</title>, assis à côté de <rs ref="people.xml#eli04"> sa princesse</rs>, claquait à tout
+    rompre les endroits qui lui plaisaient, de façon que personne ne douta qu’il allait être moins
+    gauche que celui qu’on voyait représenter. J’espère que vous lirez cette pancarte dans huit ans
+    et qu’alors il sera question des enfants de M. <persName ref="people.xml#ale01">
+     Alexandre</persName>. Vous la déterrerez peut-être dans les bains d’<placeName
+     ref="places.xml#aix01"> Aix-la-Chapelle</placeName> après que ceux-ci auront été saccagés par
+     <persName ref="people.xml#cus01"> Custine</persName> et compagnie, tout comme vous avez déterré
+    les pancartes de 1784 dans vos armoires de Parisien faisant vos paquets pour vous soustraire aux
+    suites de la liberté et de l’égalité dominant par des meurtres etc. en <placeName
+     ref="places.xml#fra01">France</placeName>. C’est singulier quels pompeux éloges vous faites de
+    moi à propos de ces lettres qui ont reposé huit ans dans votre armoire.</p>
+   <p>Mais, à propos de tout cela, dites-moi ce que fait votre charmante espèce d’élève, le très
+    illustre <persName ref="people.xml#lud02"> landgrave dé Hesse-Darmstadt</persName> avec ses 4000
+    hommes de troupes à <placeName ref="places.xml#gie01"> Giessen</placeName>, restant neutre
+    contre les Français dans, sa propre cause? Par exemple, des modèles de déraisonnement pareils on
+    ne peut les rencontrer qu’en <placeName ref="places.xml#ger01">Allemagne</placeName>. Cet
+    imbécile-là que pouvait-il faire de mieux que de se faire hacher en pièces pour sa cause, mais
+    point du tout: lui et sa troupe inutile meurent de peur à <placeName ref="places.xml#gie01">
+     Giessen</placeName>; voilà un digne héros du temps où nous vivons.</p>
+   <p>Eh bien! Puisque vous aimez tant la musique dans ces temps de détresse, allez-vous en à
+     <placeName ref="places.xml#mun03"> Munich</placeName>; là, à côté du <persName
+     ref="people.xml#ise01"> prince d’Isembourg</persName>, ministre de la guerre de l’<persName
+     ref="people.xml#cha06"> électeur de Bavière</persName>, vous entendrez la plus savante musique.
+    Or ce <persName ref="people.xml#ise01"> prince d’Isembourg</persName>, ministre de la guerre de
+     l’<persName ref="people.xml#cha06"> électeur de la Bavière</persName>, à côté duquel vous
+    écouterez la plus savante musique de l’<placeName ref="places.xml#ger01">Allemagne</placeName>,
+    pourra vous dire, par manière de conversation, comme quoi <rs ref="people.xml#ise01"> S.
+    A</rs>., après avoir pris congé de notre service, où il passait pour un poltron, comme colonel,
+    m’a écrit, il y a deux mois, qu’il souhaitait d’y revenir comme général-en-chef, à quoi j’ai
+    répondu très poliment que comme j’étais présentement en paix et l’empire d’<placeName
+     ref="places.xml#ger01">Allemagne</placeName> menacé d’une guerre, je ne voulais pas priver la
+    patrie de <rs ref="people.xml#ise01"> S. A</rs> de ses illustres talents et de la gloire qui les
+    attendait.</p>
+   <p>Je suis bien aise que vous soyez persuadé que je vois et pense droit sur les affaires du
+    temps; mais malgré cela, je prêche aux sourds: tout le monde en croit savoir plus que moi sur
+    cet article. Demandez à votre <rs ref="people.xml#rum03"> St Nicolas</rs>: il vous dira que
+    personne ne m’écoute, quoique je dise les plus belles choses du monde; le ciel les a tous doués
+    d’aveuglement. Vous voilà bien en colère de ce que la <persName ref="people.xml#gol11"> comtesse
+     Schouvalof</persName> a enlevé deux princesses de l’<placeName ref="places.xml#ger01"
+     >Allemagne</placeName>; vouliez-vous les garder pour les citoyens actifs, compagnons de
+     <persName ref="people.xml#dum05">Dumouriez</persName>, les fils de l’égalité? Au reste, je vous
+    remercie de la confiance que vous me marquez en me chargeant de remettre votre lettre à la
+     <persName ref="people.xml#gol11"> comtesse Schouvalof</persName>; j’ai exécuté votre
+    commission. Ecoute, <rs ref="people.xml#gri01"> souffre-douleur</rs>, j’ai tant écrit ces
+    jours-ci survies affaires du temps que je ne t’en dirai pas un mot; Dieu veuille qu’on m’écoute,
+    mais par malheur la plupart des têtes sont au-dessous de la besogne qu’elles ont. </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

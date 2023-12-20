@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09047</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09047</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="foreignPolicy">
+                    <term target="kw.xml#sweden"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-06-21">2023-06-21</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09047"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1788-02-29">1788 г. 29 февраля.</date>
+                </dateline>
+            </opener>
+            <p><persName ref="people.xml#sti01">Stemhield</persName> пишет к <persName ref="people.xml#dmi01">Александру Матвеевичу</persName>, что к <rs ref="people.xml#sti01">нему</rs> из дворца кто-то приходил, когда <rs ref="people.xml#sti01">он</rs> не был дома, с тем, чтоб <rs ref="people.xml#sti01">он</rs> <date when-custom="1788-02-29">сего вечера</date> был в <placeName ref="places.xml#her01">Эрмитаже</placeName>, прося знать дать, когда <rs ref="people.xml#sti01">ему</rs> приехать. Я думаю, что галиматью подобную составляют от ослышки слуг, и для того вас о сем извещаю, чтоб вы отнюдь не <date when-custom="1788-02-29">сего дня</date> и не в такой час, когда я дома, но во время бытности моей у обедни водили <rs ref="people.xml#sti01">его</rs> посмотреть днем <placeName ref="places.xml#her01">Эрмитаж</placeName> и антресоли, как я вам <date when-custom="1788-02-29">сего утра</date> приказывала при <persName ref="people.xml#bru02">графе Брюсе</persName>.
+                <note type="editorial">
+                    A.V. Khrapovitskii notes in his diary under <date when-custom="1788-03-01">March 1 1788</date> that he was showing the <placeName ref="places.xml#her01">Hermitage</placeName> to <persName ref="people.xml#sti01">baron de Stierneld</persName> (
+                    <bibl>
+                        <title ref="works.xml#"></title>
+                        , <biblScope unit="pp">pp. 39.</biblScope>
+                    </bibl>
+                    ).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

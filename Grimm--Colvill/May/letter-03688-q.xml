@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03688</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03688</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>(1)Not enough information to code Köther (2)
+    Insufficient information to identify the “signore maestro”
+     Catherine mentions. It could be Jean Rival (Aufresne), the director of the Hermitage theatre
+     (3) I could not find a location to match Issaktchi, all we know is that it’s along the Danube
+     somewhere</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-03">03-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T12:58:47Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03688">
+  <body>
+<div>
+   <opener><dateline> Ce <date when-custom="1794-02-10">10 février 1794</date>.</dateline></opener>
+   <p><seg xml:lang="de">Sie fragen was aus Nötherenen werden wird; die Antwort ist sehr
+     leicht; Sie sehen sie selbst: nichts als Nötherenen</seg>. Vous voyez par là que j’ai reçu et
+    que je lis vos pancartes apportées par <persName ref="people.xml#tie01">
+    Tiesenhausen</persName>. Je ne saurais répondre au premier article de cette première pancarte:
+    je n’en ouvre guère encore la bouche, parce que, parce que des objets qui inspirent une aussi
+    profonde douleur, pareille à celle que l’affreux sort de la <rs ref="people.xml#mar14">
+     reine</rs> fait ressentir, me ferme l’organe, mais il n’y a aucun effet sans cause. De grandes
+    et terribles vérités seules peuvent servir de fil dans celle-ci. <seg xml:lang="it">
+    Basta</seg>. J’espère que la harangue du <persName ref="people.xml#geo02"> roi</persName>
+    d’<placeName ref="places.xml#eng01"> Angleterre</placeName>, l’ouverture de son parlement en janvier vous aura ôté ce
+    découragement que vous sentiez; il paraît que l’on ne saurait rien ajouter à ce qui y est
+    énoncé, et la conduite du parlement est parfaite. Toutes les grandes maisons d’<placeName ref="places.xml#eng01">
+    Angleterre</placeName> font cause commune avec le <rs ref="people.xml#geo02"> roi</rs>, et l’intérêt
+    particulier et les passions de M. <persName ref="people.xml#pit01"> Pitt</persName> paraissent être liés à la chose; d’ailleurs
+    les scélérats sont si insensés qu’ils ne sauraient exister, et quand tous les régicides seront
+    exterminés, il y aura moins de gens intéressés à perpétuer l’état des choses. Or, plus de la
+    moitié de ces monstres ont déjà péri de façon ou d’autre; la justice divine les fait périr, la
+    plupart, en s’entre-tuant les uns les autres, ce qui est bien à remarquer, parce que c’est une
+    suite immédiate de leurs propres principes.</p>
+   <p>Pour la paix, présentement je vous en défie: jamais cris ne vinrent plus à propos pour
+    détromper le monde sur cette chimère que ceux de <rs ref="events.xml#first01">
+     guerre éternelle</rs>, guerre qu’on s’excitait à crier le 21 janvier de cette année
+    à <placeName ref="places.xml#par01"> Paris</placeName>. La paix, la paix n’est pas un crime. Le crime est devenu vertu chez eux,
+    et la vertu crime. Parlez raison aux insensés, si vous pouvez! Vous les rendez furieux, ils sont
+    incapables de la suivre; j’ai reçu, comme vous, une lettre de douze pages et anonyme pour me
+    persuader d’envoyer des troupes sur le <placeName ref="places.xml#rhi01"> Rhin</placeName>. Mais
+    comment y envoyer? si c’est en petit nombre et dans des projets de Köther, elles seront battues
+    comme les autres, et en grand nombre je ne puis, car j’ai à attendre à tout moment d’avoir
+    affaire aux <orgName ref="orgs.xml#turk01"> Turcs</orgName>, que <seg xml:lang="en">
+     milord</seg>
+    <persName ref="people.xml#ain01"> Ainslie</persName> et <persName ref="people.xml#des03">
+     Descorches</persName> ameutent. Séparez, s’il vous plaît, un tantinet <seg xml:lang="en">
+     milord</seg>
+    <persName ref="people.xml#ain01"> Ainslie</persName> dans ce moment du ministre anglais,
+    celui-ci ne désire que les <orgName ref="orgs.xml#turk01"> Turcs</orgName> m’attaquent qu’en cas
+    qu’on ne pourrait les retenir de la guerre avec la cour de <placeName ref="places.xml#vie01"> Vienne</placeName>, et alors on
+    leur prêche la guerre avec la <placeName ref="places.xml#rus01"> Russie</placeName>, mais <persName ref="people.xml#ain01">
+     Ainslie</persName> la veut dans tous les cas avec la <placeName ref="places.xml#rus01"> Russie</placeName>. <persName
+     ref="people.xml#des03"> Décorches</persName> prêche la guerre avec les deux cours impériales à
+    la fois. Or, de ce salmigondis il résulte que je dois être sur mes gardes et ne saurais faire
+    marcher mes troupes dans des pays lointains en grand nombre; vous saurez d’ailleurs que le
+    printemps passé j’avais proposé à l’<placeName ref="places.xml#eng01"> Angleterre</placeName> d’en faire passer un bon nombre au
+    secours de la <placeName ref="places.xml#ven02"> Vendée</placeName> ou plutôt des royalistes,
+    que M. le comte <persName ref="people.xml#cha11"> d’Artois</persName> devait être de cette
+    expédition, mais qu’on n’en a pas voulu entendre parler là-bas.</p></div><div>
+  <opener> <dateline> Ce <date when-custom="1794-02-11">11 février</date>.</dateline></opener>
+   <p>Quand présentement on m’en demande, né suis-je pas en droit de croire ou qu’on ne veut pas des
+    princes, et j’en suis fâchée de le voir, ou bien aussi qu’on a changé d’avis; donc je suis
+    encore fâchée pour eux, parce que cela fournit l’idée qu’on change dans une matière pareille de
+    maximes, comme on change de chemise et que ce sont les circonstances qui les mènent. Or cela
+    n’est pas justement Ce qu’il y a de plus heureux, ni de plus clairvoyant.</p>
+   <p>Le proverbe russe dit que pour n’être pas ennuyeux, il faut mêler les affaires avec des riens.
+    C’est pourquoi après une feuille entière des premières, j’ai à vous conter, comme <persName ref="people.xml#pin01">
+    M. Pincé</persName> dans le Tambour nocturne, deux choses: la première, c’est qu’avant-hier, jeudi 9
+    février, il y a eu 50 ans que je suis arrivée avec <persName ref="people.xml#anh02"> ma
+     mère</persName> à <placeName ref="places.xml#mos01"> Moscou</placeName> un jeudi 9 février, et par conséquent me voilà cinquante
+    ans passés ici en <placeName ref="places.xml#rus01"> Russie</placeName>, et que de ces cinquante ans passés j'en règne trente
+    deux, grâce à Dieu. La seconde, c’est que hier il y eut trois noces à la fois à la cour. Vous
+    jugez bien que c’était la troisième ou quatrième génération de ce que j’ai trouvé, et je pense
+    qu’ici à <placeName ref="places.xml#pet01"> Pétersbourg</placeName> il n’y a pas dix personnes
+    en vie qui se souviennent de cette mienne arrivée. C’est d’abord <persName
+     ref="people.xml#bet01"> Betski</persName>, aveugle, décrépit et plus que radotant, qui demande
+    aux jeunes gens s’ils ont connu <persName ref="people.xml#pet01"> Pierre I</persName>? C’est la
+    comtesse Matuchkine, qui à 78 ans dansait hier aux noces. C’est le grand échanson <persName
+     ref="people.xml#nar04"> Narichkine</persName>, que j’ai trouvé comme gentilhomme de la chambre
+    à la cour, et <rs ref="people.xml#nar01"> sa femme</rs>. C’est le grand écuyer, <rs
+     ref="people.xml#nar02"> son frère</rs>: encore nie-t-il le fait, parce que cela le rend trop
+    vieux. C’est le grand chambellan <persName ref="people.xml#shu02"> Schouvalof</persName>, qui ne
+    sort quasi plus de la maison pour cause de décrépitude. C’est une vieille femme de chambre, que
+    j’ai, qui s’oublie. Voilà à peu près mes contemporains; <seg xml:lang="de"> das ist doch
+     sonderlich: alles übrige konnten meine Kinder und Kindeskinder sein</seg>. Me voilà bien
+    avancée. Il y a des races dans lesquelles je connais la cinquième et sixième génération. Voilà
+    de grandes preuves de vieillesse, et même ce récit en tient peut-être, mais que faire? et malgré
+    cela j’aime à la folie et comme un enfant de cinq ans à voir jouer au colin-maillard et à tous
+    les jeux d’enfants possibles. Les jeunes gens et <rs ref="people.xml#ale01 people.xml#kon01">mes
+     petits-fils</rs> et <rs ref="people.xml#ale02 people.xml#mar03 people.xml#ele01 people.xml#eka01 people.xml#olg01">
+    filles</rs> disent qu’il faut que j’y sois pour que la gaîté y règne à leur gré,
+    et qu’ils sont plus hardis et à leur aise quand j’y suis que sans moi; c’est donc moi qui suis
+    le <seg xml:lang="de"> Lustigmacher</seg>.</p>
+   <p>Si je continue sur ce pied-là à vous répondre, vous verrez que je vous ferai une pancarte de
+    plus d’une main de papier. Je vous entretiens de ces balivernes, tandis que j’aurais dû vous
+    répondre aux superbes paragraphes de votre pancarte sur la prophétie singulière de l’<persName
+     ref="people.xml#gal05"> abbé Galiani</persName>, monté sur son trépied. Il y a fort longtemps
+    qu’on disait que les pays méridionaux de l’<placeName ref="places.xml#eur01"> Europe</placeName> étaient en chute; tout le monde
+    cependant y allait (je crois, pour se frotter eh chute); cette chute cependant était si aisée à
+    empêcher! Qu’à chaque pas on s’étonne comment elle a pu se faire: je pense que la négligence y a
+    eu beaucoup de part aussi. Si la <placeName ref="places.xml#fra01"> France</placeName> sort de ceci, elle aura plus de vigueur
+    que jamais; elle sera obéissante et douce comme un agneau; mais il lui faut un homme supérieur,
+    habile, courageux, au-dessus de ses contemporains et peut-être du siècle même; est-il né, ne
+    l’est il pas, viendra-t-il? Tout dépend de cela; s’il s’en trouve, il mettra le pied devant la
+    chute ultérieure et elle s’arrêtera là où il se trouvera: en <placeName ref="places.xml#fra01"> France</placeName> ou
+    ailleurs.</p>
+   <p>J’ai fait présent de la lettre de la <persName ref="people.xml#oli01"> Corilla</persName>, que
+    je ne pouvais lire, à quelqu’un qui aime la langue italienne et qui a lu ce qu’il y a de mieux
+    dans cette langue: c’est le comte <persName ref="people.xml#zub03"> Platon Zoubof</persName>. Je
+    suis bien fâchée que le <persName ref="people.xml#dal01"> coadjuteur de Mayence</persName> soit
+    ainsi persécuté. Mais je ne crois pas qu’aucun archiduc soit destiné à l’électorat de <placeName
+     ref="places.xml#mai03"> Mayence</placeName>: les chanoines entre eux depuis longtemps sont
+    convenus de n’admettre entre eux aucun prince de l’empire, parce qu’il leur manque les 16
+    quartiers; je me souviens que sous ce prétexte le prince <persName ref="people.xml#ant03">
+     Antoine de <placeName ref="places.xml#sax01"> Saxe</placeName></persName> n’a pas été admis. Or <rs ref="people.xml#orl10"> la
+     mère</rs> de l’empereur <persName ref="people.xml#fra02"> François I</persName> n’était-elle
+    pas fille naturelle du régent? L’on vient de m’assurer que non. Or, à propos de cela, dites moi
+    un jour si vous avez connu ce vilain <persName ref="people.xml#sie03"> abbé
+     Sieyès</persName> qui doit avoir été un des grands faiseurs en <placeName ref="places.xml#fra01"> France</placeName>? Souvenez-vous de
+    quelle société les deux capucins de <placeName ref="places.xml#pet02"> Péterhof</placeName> vous ont accusé d’être. Souvenez-vous
+    encore que le feu <persName ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">
+    Prusse</placeName></persName> prétendait que <persName ref="people.xml#hel02"> Helvétius</persName> lui avait avoué que
+    le projet des philosophes était de renverser tous les trônes et que l’<title ref="work.xml#encyl01">Encyclopédie</title> n’avait été faite dans point
+    d’autres vues que de détruire tous les rois et toutes les religions. Souvenez-vous encore que
+    vous n’avez jamais voulu qu’on vous comptât entre les philosophes. Or, vous avez raison de
+    n’avoir jamais voulu être compté parmi les illuminats, illuminés, ni philosophes, car tout cela
+    ne vise, comme l’expérience le prouve, qu’à détruire. Mais ils ont beau dire et faire, le monde
+    ne manquera jamais de maître, et encore vaut-il mieux le déraisonnement momentané d’un que le
+    déraisonnement de beaucoup, qui met une vingtaine de millions d’hommes en fureur pour le mot de
+    liberté, dont ils n’ont pas même l’ombre, et après lequel ces insensés courent sans jamais
+    l’acquérir.</p>
+   <p>Votre <seg xml:lang="en"> milord</seg>
+    <persName ref="people.xml#ogi02"> Findlater</persName> est bien désoeuvré apparemment, puisqu’il
+    s’occupe de projets pour ce que nous pourrions ou ne pourrions pas faire. D’abord, je serais
+    curieuse de savoir s’il est employé ou s’il voyage pour son plaisir, après quoi il faudra sans
+    doute remercier le pair d’<placeName ref="places.xml#sco01"> Ecosse</placeName> de vouloir bien
+    s’occuper de nous, et lui dire qu’en temps de paix toutes les idées et pensées doivent être
+    pacifiques et que j’ai garanti à chacun de mes alliés leurs possessions respectives, que
+    la <placeName ref="places.xml#pol01"> Pologne</placeName>, la <placeName ref="places.xml#swe01"> Suède</placeName> et l’<placeName ref="places.xml#aus01">
+     Autriche</placeName> sont dans ce cas, de même que le <persName ref="people.xml#fri03">
+     roi de <placeName ref="places.xml#pru01"> Prusse</placeName></persName>, dont je ne vois pas non plus la nécessité d’augmenter à
+    un tel degré de tous côtés les possessions. Que de mon côté, étant en paix, je me tiens
+    paisiblement sans prétendre rien du tout, sinon qu’on me laisse jouir de la paix et tranquillité
+    convenable à mon âge. Pour Monsieur <persName ref="people.xml#kon01"> Constantin</persName>,
+    l’on ne sait pas trop pourquoi, mais il paraît que c’est un des partis les plus courus de
+    l’<placeName ref="places.xml#eur01"> Europe</placeName>: on le marie tous les jours à tous les partis mariables en <placeName ref="places.xml#eur01">
+    Europe</placeName>, et on lui donne tour-à-tour et à qui mieux mieux toutes sortes de possessions, sans que
+    lui-même ait envie ou désir des deux choses susmentionnées, mais il s’occupe à devenir un très
+    aimable sujet, rempli de la vivacité et du feu convenable à son âge, ayant bonne volonté à bien
+    faire, un très bon coeur, et ne manquant ni d’esprit ni d’intelligence, an dire d’un suisse, son
+    précepteur, qui n’est rien moins que flatteur.</p>
+   <p>Vous voyez que ma petite égrillarde n’a pas été oubliée de moi, mais ce qui me fâche, c’est
+    qu’elle m’a de nouveau donné de petites preuves comme quoi elle n’est pas tout à fait revenue
+    sincèrement de ses égarements monstrueux, mais qu’elle a pensé à faire de petits écarts de
+    méchanceté qui ne lui vont pas du tout. Je ne sais comment elle a fait en sorte d’engouer M.
+    l’ambassadeur, de telle façon qu’à la fin de la diète il lui donnait tellement les coudées
+    franches qu’elle le dupait comme un écolier son recteur. Il y a ici un italien qui dit dans son
+    jargon que quand le pauvre vieillard sentait Mad. <persName ref="people.xml#cam05">
+     Camela</persName> (chanteuse italienne), il perdait le reste de son humanité, ce qui veut dire,
+    à ce qu’on dit, que quand cette femme chantait, il en perdait le sens commun.</p></div><div>
+   <opener><dateline> Ce <date when-custom="1794-02-12">12 février</date>.</dateline></opener>
+   <p>Il faut convenir que le signore maestro est l’intrigant et la commère la plus déterminée qu’il
+    y eût jamais; il n’y a pas de mariage, de séparation, de baptême, de procès et de tripotage dont
+    il ne se mêle; par conséquent, dans chaque affaire il gagne au moins toujours un ennemi de plus;
+    il ne saurait vivre sans cela, et c’est sa façon d’être, et c’est par là qu’il a mené les choses
+    au point que nous les voyons. C’est un homme d’ailleurs de beaucoup d’esprit, qui, avec toute la
+    bonne volonté pour le bien, n’a pas le jugement nécessaire pour la chose. Je lui ai vu négliger
+    des occasions admirables qu’il ne retrouvera plus, où il aurait pu jouer des rôles superbes; eh
+    bien, qu’est-il arrivé? Il n’a su les saisir: elles étaient cependant décisives; au lieu de
+    cela, il s’est jeté dans des mesquineries, qui l’ont entraîné dans l’ingratitude et les
+    amertumes accumulées que nous lui avons vues. Je ferais là-dessus des commentaires in-folio, si
+    je me laissais aller. Présentement prenez une vieille plume: trempez-la dans votre encrier,
+    tournez-la entre vos doigts et effacez toutes les deux pages précédentes et les deux premiers
+    mots de celle-ci soigneusement, ligne par ligne, d’après ce patron, et quand cela sera achevé,
+    vous me direz: «voilà-qui est fait».</p>
+   <p>C’est à savoir qui a le-plus à avaler de <seg xml:lang="de"> Stichelreden</seg> l’un de
+    l’autre, ou vous de moi, ou moi de vous: <seg xml:lang="de"> der Stichelreden ist kein Ender,
+     aber darauf kann man nicht sehen, die meiste Zeit; wenn man einen Weg zu gehen hat, so geht
+     man, und die Stichelreden bleiben da stehen, wo sie stehen</seg>.</p>
+   <p>Ah! Monsieur, vous ne sauriez croire quelle belle chose c’est que d’étriller son monde; on
+    vous en loue à perte de vue, et on méprise l’étrillé; il n’y a qu’aux Français que ce dicton ne
+    va pas: ils ont battu, mais on ne les loue pas chez nous, et jamais je n’ai vu détester pins
+    cordialement qu’on ne les déteste; par conséquent ne suffit pas d’étriller pour qu’on dise du
+    bien de vous: entendez-vous, <rs ref="people.xml#gri01"> souffre-douleur</rs>? vous qui êtes un
+    jeune homme, vous ferez votre profit de cette remarque lumineuse. Le marabout est parti, et en
+    partant il a délivré une espèce de protestation comme quoi on ne lui avait pas donné de réponse
+    satisfaisante à quelques articles du traité de la paix qu’il voulait changer; rien que cela;
+    cette protestation, il ne tient qu’à nous de la prendre pour un préliminaire de la déclaration
+    de guerre. Outre cela la <placeName ref="places.xml#ott01">
+    Sublime Porte</placeName> rassemble des magasins immenses dans la <placeName ref="places.xml#mol01"> Moldavie</placeName> et la
+     <placeName ref="places.xml#wal01"> Valachie</placeName>, et sous prétexte de punir le <persName
+     ref="people.xml#kar05"> bacha de <placeName ref="places.xml#scu01"> Scutari</placeName></persName> elle rassemble une armée très
+    considérable et fait construire deux ponts, l’un sur le <placeName ref="places.xml#dan01"> Danube</placeName> à Issaktchi, et
+    l’autre sur le <placeName ref="places.xml#pru02"> Pruth</placeName> à <placeName
+     ref="places.xml#ria01"> Rebaya Mogila</placeName>, NB. que ceci ne se fait jamais pendant la
+    paix, d’ailleurs, que quand on se prépare chez eux pour la guerre avec la <placeName ref="places.xml#rus01"> Russie</placeName>.
+    Or donc, faudrait être pire qu’une grue si l’on se laissait tromper sur les mesures à prendre.
+    Une anecdote fort curieuse sur cet ambassadeur marabout nouvellement parti d’ici, c’est qu’il a
+    fallu presque chasser sa suite de <placeName ref="places.xml#pet01"> Pétersbourg</placeName> à
+    coups de bâton, parce qu’en corps, excepté dix ou douze personnes, tous les autres demandaient
+    en grâce de rester, même plusieurs de ses femmes se sont échapées par les fenêtres de chez lui.
+    <seg xml:lang="de"> Nun, das gehet schief das sie hei Shriften bleiben wollen</seg>!</p></div>
+  </body>
+ </text>
+</TEI>

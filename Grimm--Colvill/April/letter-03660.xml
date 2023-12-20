@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03660</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03660</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+   
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#acquisitions"/>
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:24:06Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03660">
+  <body>
+   <opener><dateline> Ce <date when-custom="1788-02-22">22 février 1788</date>.</dateline></opener>
+   <p>J’ai reçu par le comte de <persName ref="people.xml#seg01"> Ségur</persName> vos trois paquets du 20 (31) janvier et 24
+    janvier (4 février) et le catalogue des médailles d’<persName ref="people.xml#enn01">
+     Ennery</persName> que je n’achèterai pas s’il plaît à Dieu, première déclaration nette et
+    précise. Seconde déclaration, je vous prie de ne plus m’appeler, ni de me donner plus le
+    sobriquet de <persName ref="people.xml#cat01"> Catherine le Grand</persName>, parce que, <seg
+     xml:lang="it"> primo</seg>, je n’aime aucun sobriquet, <seg xml:lang="it"> secondo</seg>, que
+    mon nom est <persName ref="people.xml#cat01"> Catherine II</persName>, et <seg xml:lang="it">
+     tertio</seg>, je ne veux pas que personne dise de moi comme de <persName ref="people.xml#lou15"
+     > Louis XV</persName>, qu’on trouvait le mal nommé; quatrièmement, de taille je suis ni grande
+    ni petite: représentez bien à qui il appartient que je cède tout sobriquet à ceux qui les
+    méritent, comme <rs ref="people.xml#gus01"> Gegu</rs> et compagnie.</p>
+   <p>Pour ce qui regarde <rs ref="people.xml#bea01"> Figaro</rs>, je désirerais beaucoup que mes
+    lettres ne parussent pas, parce qu’elles ne méritent pas assurément l’impression; mais comme la
+    chose est faite et s’il est impossible d’en empêcher la publication, faites en sorte que les
+    passages marqués par vous et <persName ref="people.xml#mon02"> M. de Montmorin</persName> soient
+    effacés, et au reste on fera de <rs ref="people.xml#bea01"> Figaro</rs> et de son impertinence
+    tout ce que vous voudrez. Mais au moins empêchez-le d’avoir l’impudence de m’envoyer un
+    exemplaire de mes lettres, imprimées contre mon gré; sinon je serai obligée de demander qu’il
+    soit puni comme il le mérite.</p>
+   <p>Pour de la <persName ref="people.xml#den02"> dame Denis</persName>, par égard pour <rs
+     ref="people.xml#did01"> feu son oncle</rs> et sa mémoire, je ne dis mot: elle parait être
+    tombée en enfance. Si vous pouviez faire en sorte que <persName ref="people.xml#bea01">
+     Beaumarchais</persName> retranchât tout le volume, eu vérité vous feriez une très bonne oeuvre,
+    et vous m’obligeriez infiniment; mais enfin si cela est impossible, je vous renvoie l’exemplaire
+    que vous m’avez envoyé avec les endroits marqués au crayon pour être supprimés totalement. <rs
+     ref="people.xml#dmi01"> L’habit rouge</rs> l’a lu et il n’a qu’à vous en dire lui-même sou
+    sentiment; ce ne sont pas mes affaires: ce qu’il y a de sûr, c’est que je n’ai pas même ouvert
+    le livre. Pour ce qui regarde ma correspondance avec vous, je n’ai qu’à approuver les
+    précautions que vous avez prises. J’ai reçu le livre de M. <persName ref="people.xml#mei01">
+     Meister</persName>, mais je n’ai pas eu jusqu’ici le temps de le lire; je vous enverrai une
+    médaille pour lui. Allons, allons, vos recommandations ne sont pas tant échouées: l’ami
+     <persName ref="people.xml#jon01"> Paul Jones</persName> sera le bien reçu et le bienvenu; des
+    personnages pareils, on ne les refuse pas; mais ayez la bonté de n’en faire pas grand bruit,
+    afin qu’on ne nous empêche point de nous réunir. </p>
+   <closer><signed rend="inline">Adieu.</signed></closer>
+  </body>
+ </text>
+</TEI>

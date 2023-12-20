@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-01182</title>
+                <respStmt>
+                    <resp>Edited by </resp>
+                    <persName>Olga Grinchenko</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-01182</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="personal">
+                    <term target="kw.xml#paul"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2021-03-29"/>
+                <persName>Olga Grinchenko</persName>
+                <label>Initial markup</label></change>
+            <change>
+                <date when="2021-04-12"/>
+                <persName>HD|DH</persName>
+                <label>QA</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="ru" xml:id="letter-01182">
+        <body>
+            <opener><salute rend="inline"><persName ref="people.xml#pan01">Граф Никита
+                        Иванович!</persName></salute></opener>
+            <p>Весьма сожалею о болезни Вашей <persName ref="people.xml#che04">невесты</persName>,
+                однако не отчаяваюсь, Бог милостив; да и молодыя ея леты преодолеть легко могут
+                болезнь. Я из письма Вашего вижу, что Вы прежде времени печалитесь, и как ей Бог
+                даст легче, то опасаюсь, чтоб Вы не занемогли; пожалуй, поберегите свое здоровье, и
+                будьте уверены о участии, кое я беру во всех случаях, кои до Вас касаются.</p>
+            <closer><signed><persName ref="people.xml#cat01">Екатерина.</persName></signed><lb/>
+                <dateline><date when-custom="1768-05-04">Мая 4 числа,
+                1768.</date></dateline></closer>
+            <postscript>
+                <p><persName ref="people.xml#pau01">Сыну</persName> моему скажите мое благословение;
+                    я ему даю коммиссию стараться Вас утешить. </p>
+                <p>Когда я услышала о болезни <persName ref="people.xml#che04">Анны
+                        Петровны</persName>, я опасалася воспы.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

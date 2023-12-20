@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-04740</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-04740</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note type="enclosure">N.b
+                    inclusion. </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#visualarts"/>
+                </keywords>
+                <keywords n="culture">
+                    <term target="kw.xml#sculpture"/>
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date when="2021-02-15">15/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+            <change><date>2021-02-17T14:04:11Z</date><name>Microsoft Office User</name></change>
+            <change><date when="2021-02-17">17/02/2021</date><persName>HD|DH</persName><label>Conversion to xml and checking</label></change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="letter" xml:lang="fr" xml:id="letter-04740">
+        <body>
+   
+           <opener> <dateline> <date when-custom="1768-05-16">Се 16 Mai 1768.</date></dateline>
+            <salute>Monsieur <persName ref="people.xml#fal01"> Falconet</persName>, je vous
+                fais mes excuses d’avoir laissé là votre lettre sans y répondre depuis plusieurs
+                jours; sachez la vérité, et puis fâchez-vous, et je vous répondrai: vous n’aimez
+                donc pas les vérités.</salute></opener>
+            <p>M-r <persName ref="people.xml#bet01"> Betzki</persName> m’a rendu votre
+                lettre, j’ai voulu y répondre le lendemain, et je l’ai oublié, puis j’ai eu des
+                affaires, et un autre jour je disais ce sera demain, et le demain j’ai eu un accès
+                de fièvre, pendant laquelle j’ai pris la résolution de vous répondre, crainte
+                d’aller dans l’autre monde et de vous laisser dans celui-ci mal édifié de ma façon
+                de faire. Ecoutez, laissez-là les statues du <rs ref="places.xml#bon01" rend="italic"> bon
+                        retiro</rs> et
+                celle de <rs ref="works.xml#marcus01">Marc
+                        Aurèle</rs> et les mauvais raisonnements
+                de gens qui n’y entendent rien et allez votre train, vous ferez cent fois mieux en
+                suivant votre entêtement (passez moi le terme, je n’y mets aucun mauvais sens),
+                qu’en écoutant ou donnant trop de place au raisonnement déplacé, vous m’avez dit que
+                vous rendriez vilain votre petit modèle qui est bien beau pourtant; je m’y tiens,
+                vous êtes homme de parole et je vous en crois; je ne vois aucune raison pourquoi
+                vous n’enverriez pas à M-r <persName ref="people.xml#did01">Diderot</persName> la lettre
+                ci-jointe, seulement la proposition pour six mois est dure, vous me donneriez le
+                regret d’avoir connu cet homme sans avoir pu profiter de ses lumières. </p>
+            <closer><signed rend="inline">Adieu, portez-vous bien, mes compliments à la bête spirituelle.
+                Avez-vous déjà habillé le cavalier? Dites-moi, je vous prie, lorsque la fantaisie
+                vous en prendra, si l’on peut avoir un bon buste de marbre d’<persName
+                    ref="people.xml#hen01"> Henri quatre</persName> et du <persName ref="people.xml#sul01"> Duc de
+                    Sully</persName>: je meurs d’envie de les voir, Mad. <persName
+                    ref="people.xml#col02"> Collot</persName> ne les a t-elle jamais vus en rêve, et
+                est-il impossible que cela lui arrive, mais surtout que cela ne vous embarrasse
+                point: un <hi  rend="italic"
+                    >non</hi> sera une réponse très-bien prise. </signed></closer>
+        </body>
+    </text>
+</TEI>

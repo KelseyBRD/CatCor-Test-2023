@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-01027</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-01027</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#personal"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-03">03-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:12:07Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-01027">
+  <body>
+
+   <opener><dateline>
+    <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1781-11-19">19
+     novembre v. st. 1781</date>.</dateline></opener>
+   <p>Monsieur mon frère. C’est toujours par un remercîment que j’ai à commencer toutes mes lettres
+    à V. M. I. Celle qu’Elle m’a fait l’honneur de m’écrire de <placeName ref="places.xml#opa01">
+     Troppau</placeName> m’informe de même que les incluses qu’Elle a bien voulu m’envoyer, des
+    bontés témoignées par V. M. I. à <rs ref="people.xml#pau01 people.xml#mar02">mes enfants</rs>,
+    auxquels Elle se plait à marquer des effets de Son amitié gracieuse pour moi. Mon bonheur aurait
+    été grand sans doute si j’avais pu partager avec eux la joie et la satisfaction de revoir V. M.
+    I. et de Lui renouveler de bouche les sentiments dont mon âme est pénétrée pour Elle. Privée de
+    ce contentement jusqu’ici, et vivant dans l’espérance d’un avenir aussi désiré, qu’il plaise à
+    V. M. I. d’agréer l’expression de ma très-sincère reconnaissance et les assurances de la plus
+    haute considération et de l’amitié inaltérable avec laquelle je suis ....</p>
+  </body>
+ </text>
+</TEI>

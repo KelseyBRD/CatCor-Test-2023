@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03620</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03620</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#reading"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#favourites"/>
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Not entirely sure what Catherine II means by « monsieur d’Imirète » I could not find any
+     other references.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-09">09/04/2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-04-16T08:56:10Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-04-16">16-04-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03620">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1785-03-05">5 mars 1785</date>.</dateline></opener>
+   <p>J’ai reçu ce matin vos No 77 et 79. Qui aurait jamais cru que le discours de M. <persName
+     ref="people.xml#nar04"> Alexandre Alexandrovitsch Narichkine</persName> serait cité par vous?
+    Voilà cependant par où finit votre No 79, et monsieur d’Imirète encore qui vous sert de
+    marche-pied. Si vous croyez que vous aurez une belle lettre, vous vous trompez: je suis encore,
+    jusqu’à l’heure qu’il est, bête comme un pot, et jamais je n’ai mieux senti que je suis un
+    parfait composé de bâtons rompus, que pendant ces huit mois. Je suis intimement convaincue aussi
+    que je ne manque pas d’amis; le plus puissant, le plus agissant, le plus voyant clair, est sans
+    contredit le M. <persName ref="people.xml#pot01"> Pr. Pot</persName>: Oh, comme il m’a
+    tourmentée, comme je l’ai grondé, comme je me suis fâchée contre lui! <seg xml:lang="it">
+     ma</seg> il n’a cessé de me tourner, retourner, jusqu’à ce qu’il m’a tirée de mon petit cabinet
+    de dix toises, dont je m’étais emparée à l’ <placeName ref="places.xml#her01">
+     hermitage</placeName>, et il faut lui rendre la justice qu’il a plus d’esprit que moi, et que
+    tout ce qu’il faisait était profondément réfléchi. Je vous suis bien obligée de là part que vous
+    avez prise à mon état. <title ref="works.xml#mondep01"> Le Monde primitif</title>, les langues
+    primitives, les vocabulaires de deux cents langues ont fait de moi un être tout à fait insipide;
+    je voulais noyer mon ennui dans tout ce fatras, et ce fatras me rendait triste et ennuyeuse.
+    Messieurs <persName ref="people.xml#ale01"> Alexandre </persName>et <persName
+     ref="people.xml#kon01"> Constantin</persName> ont été mis pendant ce temps entre les mains des
+    hommes, et leur éducation a reçu des règles immuables; ils viennent sauter à l’entour de moi, et
+    nous gardons notre ton. J’ose affirmer que ce sont des enfants de la plus grande espérance;
+    mesdemoiselles leurs <rs ref="people.xml#ale02 people.xml#ele01">soeurs</rs> se portent bien; mais <rs ref="people.xml#ale02">
+     l’ainée</rs> n’est pas mon affaire; peut-être la beauté de <rs ref="people.xml#ele01"> la
+     cadette</rs> me tentera-t-elle; on dit d’ailleurs qu’elle me ressemble, et je me sens quelque
+    faible pour elle. Je suis bien aise que vous soyez de mon opinion: j’ai toujours dit que ce
+    magnétisme qui ne guérit personne, ne saurait tuer personne non plus. J’ai cru qu’il n’y avait
+    que moi qui hurlais à la lecture des romans et à la représentation des tragédies; à présent
+    j’apprends que vous en avez fait autant toute votre vie: voilà pourquoi vous me comprenez si
+    bien, voilà pourquoi vous me devinez et développez mes mouvements mieux que moi-même. Vous aurez
+    donc aussi la bonté de me supporter avec toute mon imbécillité présente.</p>
+   <p>J’ai trouvé la lettre de <rs ref="people.xml#van06"> la fille de</rs> <persName
+     ref="people.xml#did01"> Diderot</persName> parfaitement bien écrite et avec force. Celle
+     d’<persName ref="people.xml#bue01"> Emilie</persName> est charmante, et puisque vous en faites
+    ma fille d’honneur, <hi rend="italic">ainsi soit-il</hi>; je souhaite que cela puisse contribuer
+    à son bonheur; faites-moi avoir les oeuvres de <persName ref="people.xml#did01">
+     Diderot</persName>; vous les paierez ce qu’on en demandera; assurément elles ne sortiront pas
+    de mes mains et ne feront tort à personne; envoyez-moi cela avec la bibliothèque de <persName
+     ref="people.xml#did01"> Diderot</persName>. Pourquoi aller en <placeName ref="places.xml#swi01"
+     > Suisse</placeName>? si vous vous retirez, venez ici: vers ce temps peut-être serai-je moins
+    insipide. Je serai bien aise d’avoir le <title ref="works.xml#telema01"> Télémaque</title> et
+    les ouvrages suivante de la bibliothèque dauphine sur velin. Je n’ai point le tableau
+     d’<persName ref="people.xml#bue01"> Emilie</persName>.</p>
+   <p>La <persName ref="people.xml#bru04"> comtesse Bruce</persName> m’a apporté l’
+     <placeName>Hospice de charité</placeName>. La pierre de M. de <persName ref="people.xml#bre03">
+     Breteuil</persName> est chez moi, de même que le 13<hi rend="superscript">me</hi> et 14<hi
+     rend="superscript">em</hi> cahiers du <title ref="works.xml#voyage03"> Voyage
+     pittoresque.</title>
+   </p>
+   <closer><signed rend="inline">Adieu. Portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

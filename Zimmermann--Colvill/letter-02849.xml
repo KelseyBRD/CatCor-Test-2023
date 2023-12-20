@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02849</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02849</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#england"/>
+     <term target="kw.xml#poland"/>
+    </keywords>
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#internationalrelations"/>
+    </keywords>
+    
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:34:33Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02849">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1791-05-19">19. May 1791</date> à <placeName ref="places.xml#tsa01"
+     >Czarskoçelo</placeName>.</dateline></opener>
+   <p>Je viens de reçevoir, Monsieur, votre lettre du 10. May, conjointement avec la comédie de
+    votre ami, que je n’ai pas lue encore et par conséquent je n’en ai pas ris jusqu’ici. Aussi bien
+    n’a t’on guère envie de rire, quand on est comme moi occupée de la réception honorable qu’on
+    doit faire à ceux qui se préparent à nous rendre visite. Nous attendons incessamment celle de la
+    flotte angloise. Son précurseur <persName ref="people.xml#faw01"> Mr. Fawkener</persName> est
+    déjà arrrivé ces jours çi. Avec d’aussi importans objets de méditation comment rire? je vous le
+    demande; mais certainement je me réjouis du fond de mon coeur avec le <persName
+     ref="people.xml#fri03"> Roy de <placeName ref="places.xml#pru01"
+    >Prusse</placeName></persName> de la grande révolution que sa profonde sagesse et prévoyance a
+    glorieusement opéré dans la constitution de la <placeName ref="places.xml#pol01"
+     >Pologne</placeName>, et dont assurément ce Prince prudent ne manquera pas avec le tems de
+    goûter les bénignes effets d’un travail aussi pénible que coûteux et où la politique du
+     Marquis <persName ref="people.xml#luc01">Luchesini</persName> et consorts brille dans tout
+    leurs éclat. Pour moi isolée dans mon coin mon role est celui de me défendre contre les attaques
+    de mes ennemis et envieux visibles et invisibles ; ma cause est juste et mon désir de la paix
+    sincère, je la ferai dès qu’on me la laissera faire. S’il y a de courage à cela, j’en ai. C’est
+    la justice de ma cause qui inspire de l’intérêt à l’<placeName ref="places.xml#eur01"
+     >Europe</placeName>; j’ai lieu de m’en glorifier.</p>
+   <p>Adieu, soyés toujours de mes amis et quand la flotte Angloise aura passé le Sund, ne m’écrivés
+    plus.</p>
+   <closer><signed><persName ref="people.xml#cat01" type="signature">Catherine</persName>.</signed></closer>
+  </body>
+ </text>
+</TEI>

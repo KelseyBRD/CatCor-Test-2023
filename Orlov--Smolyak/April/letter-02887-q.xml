@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02887</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02887</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#prussia"/>
+     <term target="kw.xml#war"/>
+     <term target="kw.xml#ottomanempire"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="ru">Russian</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Emma: I changed <persName>Bac</persName> to <rs>Bac</rs> (and other variations), but I think
+     there are others where the same should have been done (e.g. Я). Also not sure where the
+     division between the two sections should be, and the nature of the text which is loose in the
+     &lt;opener&gt;</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-20">20-04-2021</date><persName>Olga Smolyak</persName><label>Initial
+     markup</label></change>
+   <change><date>2021-05-18T10:20:28Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="ru" xml:id="letter-02887">
+  <body>
+   <div>
+    <opener><salute rend="inline">Граф <persName ref="people.xml#orl03"> Алексей
+       Григорьевич</persName>. </salute></opener>
+    <p>Как к вам чрез сего курьера посылаются все те бумаги, кои <orgName ref="orgs.xml#habs01">
+      венскому</orgName> и <orgName ref="orgs.xml#hohe01"> прусскому</orgName> двору сообщены, то за
+     нужно почитаю вам сказать, что оне могут и вам служить руководством, еслиб вам удалось с
+      <placeName ref="places.xml#ott01"> турками</placeName> трактовать о мире, в чем <rs
+      ref="people.xml#cat01"> Я</rs> ссылаюсь на письма к вам брата вашего, графа <persName
+      ref="people.xml#orl01"> Григория Григорьевича</persName> и графа <persName
+      ref="people.xml#pan01"> Никиты Ивановича Панина</persName>, кои оба о сем к вам пишут.
+     Впрочем, остаюсь с непременной к вам дружбой и доверенностью, как и всегда доброжелательна.</p>
+    <closer><signed><persName ref="people.xml#cat01" type="signature">
+      Екатерина.</persName></signed></closer>
+   </div>
+   <div>
+    <opener><dateline> Июня <date when-custom="1771-06-04">4 ч., 1771 года</date>.</dateline>
+     Перевод с письма <persName ref="people.xml#fre01"> Фридриха Великаго</persName> к Императрице
+      <persName ref="people.xml#cat01"> Екатерине II</persName>. <salute rend="inline"><persName
+       ref="people.xml#cat01"> Государыня</persName>, моя сестра. </salute></opener>
+    <p>Письмо <rs ref="people.xml#cat01">Вашего</rs> Императорскаго Величества и сообщенный мне план
+     примирения, доставляя мне весьма драгоценный знак <rs ref="people.xml#cat01">Вашей</rs> дружбы,
+     я поспешаю засвидетельствовать вам за оный мою признательность. Мне кажется, что я не могу
+     лучше оному соответствовать, как говоря с <rs ref="people.xml#cat01">Вами</rs> о столь важном
+     деле и столь близко <rs ref="people.xml#cat01">Вас</rs> трогающем, с тою вольностию, которую
+     мне внушает принимаемое мною участие во всем до <rs ref="people.xml#cat01">Вас</rs> касающемся.
+     Еслиб от меня только зависело, я бы без затруднения согласился, на требуемые <rs
+      ref="people.xml#cat01">Вашим</rs> Императорским Величеством от <placeName
+      ref="places.xml#ott01"> Порты</placeName> мирные договоры. Не представил бы я себе инаго в
+     чинимых <rs ref="people.xml#cat01">Вами</rs> приобретениях, как усиление перваго и дражайшаго
+     из моих союзников, и поставил бы себе в удовольствие, подать <rs ref="people.xml#cat01"
+      >Вам</rs> сей новый знак моей привязанности. Но в деле столь многообразном, какова мирная
+     негоциация, надлежит соглашать много разных интересов, чтоб всегда можно было сделать то, что
+     желательно. Вот случай, в котором я нахожусь, и который побуждает меня открыться без
+     закрывательства <rs ref="people.xml#cat01">Вашему</rs> Императорскому Величеству о тех мирных
+     статьях, за которыя надеюсь <persName ref="people.xml#fre01"> я</persName>, быть в состоянии
+     взяться, и о тех, которых показались мне подтвержденными величайшим неудобством.</p>
+    <p>Приложенный здесь мемориал содержит причины, на коих основываются справедливые мои опасения.
+      <persName ref="people.xml#fre01"> Я</persName> предоставляю их <rs ref="people.xml#cat01"
+      >Вашему</rs> Императорскому Величеству с тою доверенностию, которую мне внушают <rs
+      ref="people.xml#cat01">Ваше</rs> просвещение и остроумие, и надеюсь, что <rs
+      ref="people.xml#cat01">Вы</rs> в них найдете мнения искреннейшей дружбы. <persName
+      ref="people.xml#fre01"> Я</persName> прошу <rs ref="people.xml#cat01">Ваше</rs>
+     Императорское Величество сказать мне <rs ref="people.xml#cat01">Ваши</rs> мысли, и то, что
+     преподадут <rs ref="people.xml#cat01">Вам</rs> Ваши интересы, в столь важном случае, для блага
+      <placeName ref="places.xml#rus01"> Вашей империи</placeName> и человеческаго рода. Если <rs
+      ref="people.xml#cat01">Вы</rs> соблаговолите умерить ваши требования, то увенчаете тем то
+     безкорыстие, которое прославляло <rs ref="people.xml#cat01">Ваше</rs> государствование, и я
+     чрез то найдусь в состоянии с успехом стараться о возстановлении мира, и о предупреждении всех
+     несчастий, могущих последовать от продолжения <name ref="events.xml#turki01"> войны</name>.</p>
+    <p><rs ref="people.xml#cat01">Ваше</rs> Императорское  Величество усмотрите из доставленной нам
+     от <placeName ref="places.xml#ott01"> Порты,</placeName>
+     <persName ref="people.xml#fre01"> мне</persName> и <orgName ref="orgs.xml#habs01">
+      венскому</orgName> двору новой декларации, что ея склонность к миру не переменилась, не смотря
+     на все непрестанно чинимыя ей внушения, и что освобождение господина <persName
+      ref="people.xml#obr01"> Обрескова</persName> не претерпит уже ни малейшаго затруднения, коль
+     скоро будет соглашено на пункте медиации.</p>
+    <p><rs ref="people.xml#cat01">Ваше</rs> Императорское Величество требуете <persName
+      ref="people.xml#fre01"> моего</persName> мнения об образе мыслей <orgName
+      ref="orgs.xml#habs01"> венскаго</orgName> двора. <persName ref="people.xml#fre01">
+      Я</persName> весьма побужден думать, что <orgName ref="orgs.xml#habs01"> он</orgName> искренно
+     желает возстановления мира в своем соседстве, и что в случае употребления его медиации,
+      <orgName ref="orgs.xml#habs01"> он</orgName> будет безпристрастно действовать, с тем, однакож,
+     что <orgName ref="orgs.xml#habs01"> он</orgName> не подастся на такия мирныя статьи, кои
+      <orgName ref="orgs.xml#habs01"> он</orgName> почтет совершенно противными его интересам.
+      <orgName ref="orgs.xml#bour01"> Французския</orgName> внушения не поколебали еще по сию пору
+     нейтральной <orgName ref="orgs.xml#habs01"> его</orgName> системы, но <persName
+      ref="people.xml#fre01"> я</persName> не поручусь, однакож, за то, что может случиться, если
+     война далее продолжится. Сие последнее уважение наивяще побудило <persName
+      ref="people.xml#fre01"> меня</persName>, не сделать <orgName ref="orgs.xml#habs01">
+      ему</orgName> никакого сообщения о вверенных мне <rs ref="people.xml#cat01"> Вашим</rs>
+     Императорским Величеством мирных договорах. <rs ref="people.xml#cat01">Вы</rs> видите, что
+      <persName ref="people.xml#fre01"> я</persName> с <rs ref="people.xml#cat01">Вами</rs> говорю
+     без малейшей скрытности. <persName ref="people.xml#fre01"> Я</persName> ласкаюсь, что <rs
+      ref="people.xml#cat01">Ваше</rs> Императорское <persName ref="people.xml#geo02">
+      Величество</persName> соизволите так же поступить в ответе, который <rs ref="people.xml#cat01"
+      >Вы</rs> соблаговолите <persName ref="people.xml#fre01"> мне</persName> учинить. Позвольте,
+     между тем, уверить <rs ref="people.xml#cat01">Вас</rs> об искренней дружбе и непременной
+     привязанности, с которою <persName ref="people.xml#fre01"> я</persName> есмь, Государыня, моя
+     сестра, <rs ref="people.xml#cat01">Вашего</rs> Императорскаго Величества верный и добрый брат и
+     союзник,</p>
+    <closer><signed><persName ref="people.xml#fre01" type="signature">
+     Фридрих</persName>.</signed></closer>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04750</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04750</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="letterType">
+     <term target="kw.xml#request"/>
+    </keywords>
+
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>No date given, apart from the year 1768. Kelsey: approximate date is fine.</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-18">18/02/2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-18T15:01:42Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-18">18-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-05-05">05/05/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04750">
+  <body>
+
+   <p>Monsieur <persName ref="people.xml#fal01"> Falconet</persName> est prié de nous dire s’il y a
+     à <placeName ref="places.xml#par01">Paris</placeName> une galerie nommée la galerie du S.
+     <persName ref="people.xml#gir01"> Girardon</persName>, sculpteur ordinaire du <rs
+     ref="people.xml#lou06"> Roi</rs>? Cette galerie, à qui appartient-elle? <rs
+     ref="works.xml#galeri01">Nous l’avons trouvée gravée.</rs> Il y a tout les modèles de ce maître
+    rangés le long des murs et quantité d’autres bustes, médaillons, vases et modèles antiques et
+    modernes. Allons, expliquez-nous cela amiablement en deux mots.</p>
+   <closer><signed><handShift/><date when="1768">1768</date>.<note type="editorial">Date added in
+      pencil by unknown hand.</note></signed></closer>
+  </body>
+ </text>
+</TEI>

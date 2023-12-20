@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02780</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02780</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="domesticPolicy">
+     <term target="kw.xml#legislation"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-21">21-04-2021</date><persName>Gabriel
+     O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-05-10T11:34:18Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-10">10-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02780">
+  <body>
+
+   <opener><dateline> à <placeName ref="places.xml#tsa01"> Czarscoçelo</placeName> ce <date when-custom="1775-01-09">9 Janvier 1775</date></dateline></opener>
+   <p>Monsieur, Je répond aujourd'huy à deux de Vos lettres, celle du 9 8<seg
+      rend="superscript">bre</seg> m'est parvenuë par le <persName ref="people.xml#mur02">
+      S<seg rend="superscript"
+      >r</seg> de Murnan</persName> que Vous en aviés chargé, Votre recomandation l'a fait
+     reçevoir à mon service come Vous l'avés désiré quoique la guerre soit finie. Le Marquis <persName ref="people.xml#pug01"> Pougatchef</persName>
+    dont Vous me parlés encore dans Votre lettre du 16 x<hi rend="superscript"
+     >bre</hi> a vécu en scélérat, et il va finir en lâche. Il
+    a paru si timide dans sa prison, qu'on a été obligé de le préparer à sa sentence avec précaution
+    crainte qu'il ne mourût sur le champ d'appréhension. Dans quelques jours d'ici
+    je pars pour <placeName ref="places.xml#mos01"> Mosco</placeName>, s'est là que je reprendrai le grand
+    ouvrage de la <rs ref="works.xml#nakazk01"> Législation</rs>. A la vérité privée des <rs ref="works.xml#ordren01">
+     secours</rs> de Solon <persName ref="people.xml#riv01"> la Riviere</persName> et de la coutume de l'Avocat <persName ref="people.xml#dum04">
+     Dumesnil</persName>, dont je n'ai pas entenduë parler jusqu'ici, je serai bien aise cependant
+    de faire la connaissance de son Parain, peut être me fourniroit il un projet pour abolir l'usage
+    du baisemain des prêtres contre lequel Vous plaidés avec force. Quand Vous aurés consultés ce
+    Parain Vous voudrés bien me comuniquer son avis, et en attendant Vous permettrés que l'ançiene
+    coutume tombe d'elle même tout doucement. Quatres de mes frégates sont arrivée de l'Archipel à
+     <placeName ref="places.xml#ist01"> Constantinople</placeName>, l'une d'elle est passée dans la
+     <placeName ref="places.xml#bla01"> Mer noire</placeName> pour ce rendre dans notre Port de
+     <placeName ref="places.xml#ker01"> Kertch</placeName> sans que ce phénomène, le premier je pense depuis que
+    le monde existe, aye été précédé d'une Comète. Le Parain de M<hi
+     rend="superscript">r</hi><persName ref="people.xml#dum04"> Dumenil</persName> sait il cela et qu'en
+    dit il? Il ne sera pas fâché aussi d'apprendre peut être un trait de politesse de la part de mon
+    bon Frère et Ami Sultan <persName ref="people.xml#abd01"> Abdoul Hamit</persName> qui voyant passer du
+    fond de son Harem Mes frégates leurs envoya une Chaloupe pour les avertir qu'il y avoit beaucoup
+    de pierre sous l'eau dans un tel endroit du <placeName ref="places.xml#ker02"> Canal</placeName>, et qu'ils
+    eussent à prendre garde que le courant ne les entraina de ce côté là. Cela est humain, cela est
+    poli.</p>
+   <p>Soyés assurés Monsieur que mes sentimens pour Vous sont toujour les mêmes et que je suis très
+    sensible et reconoissante pour tout ce que Vous me dite d'agréable et pour tous les témoignages
+    d'amitié que Vous me donés.</p>
+  </body>
+ </text>
+</TEI>

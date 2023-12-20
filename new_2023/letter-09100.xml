@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-09100</title>
+                <respStmt>
+                    <resp>Edited by 
+                    </resp>
+                    <persName>Aleksandra Pchelintseva</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-09100</idno>
+            </publicationStmt>
+            <!--  Include this note statement to indicate there is an enclosure   <notesStmt>  
+            <note type="enclosure">inclusion</note>
+         </notesStmt>-->
+            <sourceDesc>
+                <p>OCR text encoded in TEI xml.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#staffmanagement"/>
+                </keywords>
+                <keywords n="domesticPolicy">
+                    <term target="kw.xml#judiciary"/>
+                </keywords>
+                <keywords n="letterType">
+                    <term target="kw.xml#note"/>  
+                </keywords>
+                
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language> 
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            
+            <editorialDecl>
+                <p></p> <!-- Please enter any notes about this letter e.g. places where it hasn’t been possible to apply the coding guidelines -->
+            </editorialDecl>
+            
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2023-07-10">2023-07-10</date>
+                <persName>Aleksandra Pchelintseva</persName>
+                <label>Initial markup</label></change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text type="note" xml:lang="ru" xml:id="letter-09100"> 
+        <body>
+            <opener>
+                <dateline>
+                    <date when-custom="1789-02-08">1789 г. февраля 8.</date>
+                </dateline>
+            </opener>
+            <p>Почему <orgName ref="orgs.xml#sena01">сенат</orgName> разсудил, — <persName ref="people.xml#ann04">Анненкову</persName> определил пенсион, за благо не разсуждено мне сообщить, хотя не по разсуждению, но по законам судить <orgName ref="orgs.xml#sena01">сенат</orgName> долженствует. 1) <persName ref="people.xml#ann04">Анненков</persName> 35 лет не выслужил. 2) Увечье не получил. И так о <persName ref="people.xml#ann04">Анненкове</persName> не... .
+                <note type="editorial">
+                    Original note is uncomplete according to 
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        (<biblScope unit="pp">pp. 44.</biblScope>)
+                    </bibl>.
+                    This source suggests that Catherine writes about Vice-Governor of <placeName ref="places.xml#kur01">Kursk</placeName> <persName ref="people.xml#ann04">Abram Ivanovich Annenkov</persName> (
+                    <bibl>
+                        <title ref="works.xml#sobstv02">Sobstvennoruchnyia pis'ma i zapiski imperatritsy Ekateriny II k A. V. Khranovitskomu, 1783-1793</title>
+                        <biblScope unit="pp">pp. 44.</biblScope>
+                    </bibl>).
+                </note>
+            </p>
+        </body>
+    </text>
+</TEI>

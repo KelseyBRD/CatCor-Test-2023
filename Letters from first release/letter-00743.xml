@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00743</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00743</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-09-29">29 September 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00743">
+                <body>
+                    <opener><dateline><date when-custom="1783-08-18">Августа 18 ч., 1783.</date> Из <placeName
+                            ref="places.xml#tsa01">Царского Села.</placeName></dateline></opener>
+                    
+                    <p>Вчерашний день я письмо твое от 5 сего месяца получила чрез подпол[ковника]
+                            <persName ref="people.xml#tam02">Тамара,</persName> который привез и
+                        Грузинское дело, за которое снова тебе же спасибо. <seg xml:lang="fr"
+                            >Voila bien des choses de faites en peu de tems.</seg></p>
+                    <p>Прямо ты - друг мой сердечный! На зависть <placeName ref="places.xml#eur01"
+                            >Европы</placeName> я весьма спокойно смотрю: пусть балагурят, а мы дело
+                        делаем.</p>
+                    <p> По представлениям твоим дела не будут залеживаться, изволь прислать. О
+                            <persName ref="people.xml#tam02">Тамаре</persName> и <persName
+                            ref="people.xml#kor01">Корсакове</persName> получишь с сим курьером.
+                        Радуюсь, что сей последний столь искусен. Дай Бог тебе здоровья и всякого
+                        счастия и удовольствия. А про меня знай, что я на век к тебе непременна.</p>
+                    <p><persName ref="people.xml#lan02">Саша</persName> выздоровел и благодарит тебя
+                        за поклон.</p>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

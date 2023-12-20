@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-02851</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-02851</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#ottomanempire"/>
+
+     <term target="kw.xml#frenchrevolution"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-07-27">27-07-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-08-07T17:34:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-08-07">07-08-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-02851">
+  <body>
+
+   <opener><dateline> ce <date when-custom="1791-09-16">16. Sept. 1791</date>.</dateline></opener>
+   <p>Monsieur de <persName ref="people.xml#zim01"> Zimmermann</persName>, je vois par votre lettre
+    du 2. de Sept, que vous vous réjouissés avec nous des préliminaires conclues entre le Prince
+     <persName ref="people.xml#rep01"> Repnin</persName> et le <persName ref="people.xml#koc01">
+     Grandvisir</persName>; j’en suis très réjouie aussi; je vous remercie des compliments que vous
+    m’en faites. Je ne me doutois pas en vérité qu’on me diroit à l’agonie au mois de Juillet, où je
+    me promenois tous les jours matin et soir dans le jardin de <placeName ref="places.xml#tsa01">
+     Czarskocelo</placeName> accompagnée d’une assés nombreuse compagnie ordinairement, par
+    conséquent je présume que ces nouvelles là ne viennent pas de <placeName ref="places.xml#pet01"
+     >Petersbourg</placeName>, mais qu’elles se forgent je ne sais où en <placeName
+     ref="places.xml#ger01">Allemagne</placeName> ; or dont si c’est l’envie qui forge ces
+    nouvelles, j’ignore parfaitement, où il fait sa résidence. L’estime de la nation angloise m’a
+    toujours été cher et ma prédilection pour elle, je l’avoue, n’a pas etée vaine. Je suis bien
+    parfaitement de l’avis d<persName ref="people.xml#bur03"> ’Egmund Burke</persName> sur tout ce
+    qu’il dit de l’anarchie françoise, c’est à la détruire qu’il y a une gloire immortelle à
+    acquérir, et en vérité je ne doute point que cette gloire ne soit réservée au <persName
+     ref="people.xml#fri03"> Roy</persName> de <placeName ref="places.xml#pru01">Prusse</placeName>,
+    s’il le veut il le peut et le fera, et par la rendra un service très grand à l’humanité, qui lui
+    en aura l’obligation, parcequ’il rassurera l’obéissance et le bonheur des peuples. Outre cela de
+    toutes les résistances la moindre sans contredit est l’anarchie or dont j’opine qu’avec 12 ou
+    15000 hommes employés en effet il ne sauroit manquer de rétablir le gouvernement monarchique
+     en <placeName ref="places.xml#fra01">France</placeName> dès qu’il le voudra, et il entrainera
+    avec lui l’<persName ref="people.xml#leo01"> Empereur</persName> et bien d’autres puissances et
+    leur fera faire tout ce qu’il voudra.</p>
+   <p>Mais adieu, je fais de projets pour les autres tandis que je ne devrois penser qu’à mes
+    propres affaires; mais la matière est vaste et il est difficile de ne pas s’en occuper ; les
+    affaires du <persName ref="people.xml#lou01"> roy de <placeName ref="places.xml#fra01"
+      >France</placeName></persName> sont celles de tous les souverains et sa dignité lesée demande
+    une réparation éclatante. Le <persName ref="people.xml#fri03"> roy de <placeName
+      ref="places.xml#pru01">Prusse</placeName></persName> en a prouvé à <rs ref="people.xml#fre05">
+     sa soeur</rs>, pourquoi n’en procurerait-il pas au déscendant de <persName
+     ref="people.xml#hen01">Henri IV</persName>. et de <persName ref="people.xml#lou06"
+     >Louis XIV</persName>. Mais trêves de belle chose, il faut que j’aille
+    m’habiller.</p>
+  </body>
+ </text>
+</TEI>

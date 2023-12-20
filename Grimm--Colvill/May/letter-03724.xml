@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03724</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03724</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#headsofstate"/>
+    </keywords>
+    <keywords n="personal">
+     <term target="kw.xml#grandchildren"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-11">11-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:06:31Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03724">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1796-02-25">25 février 1796</date>.</dateline></opener>
+   <p>Comme on expédie un courrier à <placeName ref="places.xml#dre01"> Dresde</placeName>, qui ira
+    encore Dieu sait où, je suis bien aise de vous dire un mot par cette occasion. D’abord, j’ai
+    reçu l’ode imprimée en vélin; j’ai envoyé au <rs ref="people.xml#rum03"> St Nicolas</rs> votre
+    paquet tout d’abord après sa reçue. Un bulletin m’est arrivé en même temps; c’est celui où vous
+    me dites que les Français veulent la paix à tout prix et qu’ils ne peuvent plus trouver de
+    ministre de finances; ils devraient prendre <persName ref="people.xml#cal01"> M. de Calonne</persName>, qui soutient
+    en <placeName ref="places.xml#eng01"> Angleterre</placeName> et fait imprimer qu’ils ne sont pas ruinés et que leurs opérations
+    de finances sont la plus belle chose du monde. A propos de cela je vous félicite de ce qu’ils
+    vous ont payé 60.000 livres avec trois paires de manchettes de dentelle; dites-moi si cela est
+    vrai? Mais, à propos de nouvelles, vraies ou fausses, il faut que je vous en dise une qui vient
+    de nous être donnée et qui, si elle est vraie, ne laissera pas d’affliger beaucoup votre amie,
+    la <persName ref="people.xml#lou19"> duchesse de Mecklenbourg</persName>: l’on dit que le projet
+    du mariage du jeune <persName ref="people.xml#gus02"> roi de <placeName ref="places.xml#swe01"> Suède</placeName></persName> avec
+     <rs ref="people.xml#lou12"> sa fille</rs> va se rompre, et notamment par la raison que le jeune
+     <persName ref="people.xml#gus02"> roi</persName> ne veut pas épouser une bossue. L’on dit aussi
+    que <persName ref="people.xml#lou19"> la duchesse</persName> se doute déjà de cette résolution
+    prise et qu’à cet effet, pour ne pas exposer <rs ref="people.xml#lou12"> sa fille</rs> à un tel
+    manquement de parole et pour lui éviter cette insulte, on lui conseille de rompre elle-même les
+    engagements pris; si la <persName ref="people.xml#lou19"> duchesse</persName> adopte ce conseil
+    ferme et courageux, elle s’attirera l’estime et la considération de l’<placeName ref="places.xml#eur01">
+    Europe</placeName> entière et la mienne en particulier; dites-moi ce que vous en savez.</p>
+   <p>Nous voilà au onzième jour des noces du Sr <persName ref="people.xml#kon01">
+     Constantin</persName>. Hier il y eut une grande mascarade publique à la cour; il n’y a eu que
+    huit mille cinq cent quarante masques qui ont présenté à la porte leurs billets d’entrée, et
+    toute la cour et ce qui demeure à la cour n’en avait pas. Demain il y aura bal et souper de
+    clôture à la cour, et après demain feu d’artifice. Hier à la mascarade les grandes-duchesses
+     <persName ref="people.xml#eli04"> Elisabeth</persName>, <persName ref="people.xml#ann01">
+     Anne</persName>, <persName ref="people.xml#ale01"> Alexandra</persName>, <persName
+     ref="people.xml#ele01"> Hélène</persName>, <persName ref="people.xml#mar03"> Marie</persName>,
+     <persName ref="people.xml#eka01"> Catherine</persName> et les demoiselles de la cour, en tout
+    vingt-quatre dames et pas un homme, ont exécuté une danse russe avec pas et musique russes, qui
+    a fait les délices de tout le monde, et aujourd’hui encore on ne parle que de cela à la cour et
+    en ville. Elles étaient toutes belles à ravir et superbement habillées. Vous voyez que nous
+    sommes dans les fêtes jusque par-dessus les oreilles. La semaine qui vient commence le grand
+    carême. Le comte <persName ref="people.xml#zub01"> Valérien Zoubof</persName> est parti pour
+    commander en <placeName ref="places.xml#per02"> Perse</placeName>; on dit le frère de <persName
+     ref="people.xml#mur03"> Mourtaza Kouly-Kan</persName>, l’usurpateur <persName
+     ref="people.xml#aga02"> Aga-Mehemet</persName>, avancé déjà jusqu’à soixante verstes de
+     <placeName ref="places.xml#der01"> Derbent</placeName>; il est porté par les <orgName
+     ref="orgs.xml#turk01"> Turcs</orgName> à cette belle expédition. Nos avant- postes ne sont pas
+    loin de <placeName ref="places.xml#der01"> Derbent</placeName> non plus. <placeName
+     ref="places.xml#der01"> Derbent</placeName> est une clef des montagnes; nous saurons dans peu
+    le résultat de ce rapprochement. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien. Je me porte à merveille malgré les fêtes.</signed></closer>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03604</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03604</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+     <term target="kw.xml#patronage"/>
+     <term target="kw.xml#culture"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>NOTE: Though the lette ris ostensibly from Lanskoy to Grimm, all of the letter, other than
+     Lanskoy’s signature is in Catherine’s hand</p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-04-07">07-04-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-18T14:19:34Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-18">18-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03604">
+  <body>
+   <div>
+    <opener><salute>Monsieur,</salute></opener>
+    <p>Je viens de recevoir la lettre dont vous m’avez honoré en date du 6 (17) décembre, et voici
+     ce que j’ai à y répondre. <seg xml:lang="it"> Primo</seg>, on s’occupé un peu moins, à la
+     vérité, ici qu’à <placeName ref="places.xml#par01"> Paris</placeName> des voyages aériens;
+     cependant tout ce qui y a du rapport est reçu avec cet intérêt qu’une découverte aussi curieuse
+     ne peut que produire; les images que vous avez envoyées à <persName ref="people.xml#cat01"> S.
+      M. </persName> de ces ballons ont été très bien reçues, et vous en recevrez les remercîments
+     par le courrier qui est parti d’ici à Noël. <seg xml:lang="it"> Secundo</seg>. Le prince
+      <persName ref="people.xml#bar02"> Bariatinski</persName> avait déjà fait parvenir ici les deux
+     feuilles que vous m’envoyez; n’y a que moi qui en ai profité, parce qu’on m’a dit de les garder
+     pour moi. <seg xml:lang="it"> Tertio</seg>. En mon particulier je serais enchanté que ces chars
+     volants se perfectionnassent, parce que par la promesse que vous me faites de vous servir de
+     cet équipage pour venir ici, je me trouverais au plus tôt dans le cas de vous témoigner,
+     Monsieur, tout le cas que je fais de l’amitié que vous voulez bien me marquer en toute
+     occasion. Soyez assuré, je vous en prie, que les obligations que je vous ai, sont toujours
+     présentes à mon esprit; j’ai eu ces jours passés le plaisir de m’entretenir de vous, Monsieur,
+     avec M. le <persName ref="people.xml#anh01"> comte d’Anhalt</persName>, qui nous est venu tout
+     fraîchement; il m’a chargé de vous faire ses compliments. S. M. prophétise qu’il sera aimé et
+     estimé céans; il a été reçu avec les distinctions dues à son mérite. J’espère, Monsieur, que le
+     courrier parti à Noël vous fournira une occasion de vous défaire de l’émail en question, avant
+     que vous ayez succombé à la tentation. J’ai fait remettre à leur adresse les paquets que vous
+     m’avez envoyés. <persName ref="people.xml#pai01"> Paisiello</persName> nous quitte; il s’est
+     brouillé avec la nouvelle direction, ou bien celle-ci avec lui. <persName
+      ref="people.xml#qua01"> Quarenghi</persName> accommode bien des maisons ici, et entre autre la
+     mienne. S. M. dit qu’il n’est pas mal tourmenté par moi tout le premier. Vous voyez, Monsieur,
+     de quel secrétaire je me sers; il dit que le mien était sot comme un pot; pour moi, bonnement,
+     je crois que c’est jalousie de métier qui fait ainsi parler les gens; je serai fort content de
+     celui-ci lorsqu’il écrira plutôt mes idées que les siennes, mais quoi qu’il en soit, </p>
+    <closer><signed>soyez assuré de la très parfaite estime et attachement avec lesquels je suis,
+      Monsieur, de votre excellence le très humble et très obéissant serviteur <persName
+       ref="people.xml#lan02" type="signature"> Lanskoï.</persName></signed>
+     <dateline>
+      <placeName ref="places.xml#pet01"> Pétersbourg</placeName>, ce <date when-custom="1784-01-05"
+       >5 janvier 1784</date>.</dateline></closer>
+    <postscript>
+     <p>Post-scriptum du secrétaire. Le secrétaire ayant trouvé sur sa table la lettre de M. le
+      baron de <persName ref="people.xml#gri01"> Grimm</persName> au <persName
+       ref="people.xml#lan02"> général Lanskoï</persName>, qu’on avait laissée là après lecture,
+      s’est mis, sans en être prié, à faire la réponse, et après l’avoir montrée au susdit général,
+      celui-ci s’est mis à crier comme un aigle contre pareille témérité du susdit secrétaire,
+      prétendant que c’était empiéter sur ses droits de correspondant favorisé du susdit baron
+       de <persName ref="people.xml#gri01"> Grimm</persName>, traitant le susdit secrétaire de mal
+      avisé de s’être immiscé dans la correspondance respective. Après beaucoup de débats pour et
+      contre, paix s’en est suivie, et il a été statué par un article séparé de la susdite paix que
+      ce post-scriptum serait couché tout au long au dos de la susdite lettre et envoyé en compagnie
+      au susdit baron, ce qui a été fait tout de suite sans aucun délai ni fraude, comme verront
+      tous ceux qui ont visières bien placées au deux côtés de leur nez, si tant y a qu’ils en
+      soient pourvus.</p>
+     <p>NB. Nous sommes impatients, parce que tels nature nous a produits, de savoir ce qu’il en
+      sera des tableaux <persName ref="people.xml#bau04"> Baudouin</persName>; s’il vous plaisait
+      nous en dire un mot, none voue donnerions gratis l’épithète d’admirable baron.</p>
+    </postscript>
+   </div>
+  </body>
+ </text>
+</TEI>

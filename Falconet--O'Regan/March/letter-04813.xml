@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04813</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04813</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p>Taken ‘Grot’ to refer to Georg Christoph Grooth. Unsure of the artwork being alluded to here.
+     Kelsey: leaving Grooth identification for now. Further research needed to identify more of the
+     artworks mentioned here. </p>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-03-05">05/03/2021</date><persName>Gabriel
+     O’Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-03-09T15:09:08Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-03-09">09-03-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+   <change><date when="2021-06-18">18/06/2021</date><persName>Kelsey
+     Rubin-Detlev</persName><label>Markup corrected; queries partially resolved.</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04813">
+  <body>
+
+   <p>Tout net, je vous dirai que je trouve le prix des trois tableaux exorbitant.<note
+     type="editorial">Catherine refers here to three portraits she commissioned from Falconet's son,
+      <ref target="people.xml#fal02">Pierre-Etienne</ref>, of <ref target="works.xml#paulpo01">her
+      son Paul</ref>, of <ref target="works.xml#nataly01">her daughter-in-law Natalya
+      Alekseevna</ref>, and of <ref target="works.xml#cather06">Catherine herself</ref>.</note> Le
+     <rs ref="works.xml#wildbo01"> sauvage</rs>, je le ferai payer de même que les deux médaillons,
+    j’ignore ce que c’est que la tête de marbre du fils de <persName ref="people.xml#gro05">
+     Grot</persName>. Les trois portraits en pied peuvent rester comme ils sont, sans qu’on y
+    retouche. Je verrai avec plaisir le buste de <rs ref="people.xml#pau01">mon fils</rs> et de <rs
+     ref="people.xml#wil01">ma belle-fille</rs>.</p>
+  </body>
+ </text>
+</TEI>

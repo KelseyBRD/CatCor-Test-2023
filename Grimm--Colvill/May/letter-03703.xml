@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-03703</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-03703</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords n="foreignPolicy">
+     <term target="kw.xml#france"/>
+     <term target="kw.xml#frenchrevolution"/>
+     <term target="kw.xml#war"/>
+    </keywords>
+
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-05-08">08-05-2021</date><persName>Olivia
+     Colvill</persName><label>Initial markup</label></change>
+   <change><date>2021-05-21T13:01:56Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-05-21">21-05-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-03703">
+  <body>
+
+   <opener><dateline> Ce <date when-custom="1795-01-22">22 janvier 1795</date>.</dateline></opener>
+   <p>Je viens de recevoir ce que vous m’avez écrit le 31 décembre de l’année passée. Comme la
+    jalousie entre les puissances a pris le dessus sur toute autre vertu, il en est résulté les
+    trois misérables campagnes que nous avons vues; il n’y a ni traité de tenu, ni de promesses
+    solennelles données de remplies; aussi n’y aura-t-il que de la honte-à recueillir. La <persName
+     ref="people.xml#eng01"> nation anglaise</persName> seule dans ce moment dit: point de paix
+    sans honneur; je suis en cela parfaitement de son avis. Comment faire la paix avec des
+    scélérats, avec des régicides, dont la perfidie est reconnue à chaque instant? Qu’est-ce que
+     l’<placeName ref="places.xml#ger01"> Allemagne</placeName> peut se promettre autre chose que sa
+    ruine présente et future de cette paix honteuse qu’on lui négocie? Ne vaudrait-il pas mieux et
+    ne serait-il pas plus honorable, je vous le demande, de s’armer avec vigueur, d’agir avec
+    énergie pour la défense commune; enfin, de charrier droit et de repousser la canaille
+    républicaine jusque dans ses anciens foyers, là où la famine finirait bientôt ce beau régime
+    enfanté par l’enfer. Il est étonnant comment bien des gens ne voient pas qu’ils ont le plus beau
+    jeu du monde et qu’ils ne savent pas le jouer, parce qu’on les en empêche dans les moments les
+    plus décisifs par des vues louches d’aucun résultat pour l’honneur. Or, j’ai dit ci-dessus:
+    point de paix sans honneur; je ferai plus: je dirai ici: point d’intérêt, point de profit sans
+    honneur, et je dis vrai. J’ose dire encore que je puis prouver ce que je dis. Mais je crains
+    beaucoup que prêcher une conduite loyale et franche, c’est prêcher aux sourds, car pour la
+    goûter, il faudrait balayer du théâtre au moins deux tiers des acteurs: un tiers jacobin, un
+    tiers voyant faux par vanité; resterait le tiers du sens droit. </p>
+   <closer><signed rend="inline">Adieu, portez-vous bien.</signed></closer>
+  </body>
+ </text>
+</TEI>

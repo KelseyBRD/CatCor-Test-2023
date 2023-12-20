@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>letter-04791</title>
+   </titleStmt>
+   <publicationStmt>
+    <authority>CatCor Project</authority>
+    <idno type="CatCor">letter-04791</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note/>
+   </notesStmt>
+   <sourceDesc>
+    <p>Converted from a Word document</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    
+    <keywords n="letterType">
+     <term target="kw.xml#note"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#sculpture"/>
+    </keywords>
+    <keywords n="culture">
+     <term target="kw.xml#courtlife"/>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="fr">French</language>
+   </langUsage>
+  </profileDesc>
+  <encodingDesc>
+   <editorialDecl>
+    <p/>
+   </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <change><date when="2021-02-26">26/02/2021</date><persName>Gabriel O'Regan</persName><label>Initial markup</label></change>
+   <change><date>2021-02-28T16:08:48Z</date><name>Microsoft Office User</name></change>
+   <change><date when="2021-02-28">28-02-2021</date><persName>HD|DH</persName><label>Conversion to
+     xml and checking</label></change>
+  </revisionDesc>
+ </teiHeader>
+ <text type="letter" xml:lang="fr" xml:id="letter-04791">
+  <body>
+ 
+  <opener> <salute rend="inline">Monsieur <persName ref="people.xml#fal01"> Falconet</persName></salute></opener><p rend="inline">,
+     lorsque je viendrai en ville, M-lle
+    <persName ref="people.xml#col02"> Collot</persName> m’apportera son ouvrage, je crains qu’il
+     ne souffre dans le transport. Je ne connais point M-r
+    <persName ref="people.xml#col04"> Coltellini</persName>, je ne lui ai jamais parlé, il a
+     tort de m’attribuer une façon de penser que je n’ai point, cela est tout aussi fondé que son
+     raisonnement sur un ouvrage qu’il n’a jamais vu. Je vous conseille de laisser tomber toutes ses
+     commèreries et de vous moquer de ceux qui tracassent sans vous en mettre ni en peine ni en
+     colère. Voilà tout ce, que j’ai à vous dire en réponse à votre billet; faites un armistice avec
+     vos ennemis comme moi avec le sultan; suivez mon exemple.</p>
+  </body>
+ </text>
+</TEI>

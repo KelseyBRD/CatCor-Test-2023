@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>letter-00543</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>CatCor Project</authority>
+                <idno type="CatCor">letter-00543</idno>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p>CatCor v1</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords n="personal">
+                    <term target="kw.xml#favourites"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+        </profileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2016-02-06">06 February 2016</date>
+                <name>Olga Grinchenko</name>
+                <p>Metadata and initial markup.</p>
+            </change>
+            <change>
+                <date when="2021-03-29">29 March 2021</date>
+                <name>HD|DH</name>
+                <p>Made encoding consistent with new release.</p>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text type="letter" xml:lang="ru" xml:id="letter-00543">
+                <body>
+                  
+                    <opener><salute rend="inline" xml:lang="fr">M[onsieur],</salute></opener>
+                    <p>пророчество мое сбылось. Неуместность употребления приобретенной Вами
+                        поверхности причиняет мне вред, а Вас отдаляет от ваших желаний. И так,
+                        прошу для Бога не пользоваться моей к Вам страстью, но выслушать ко времяни
+                        и к случаю мои резоны, кои, право, основаны не на пустых отговорках.</p>
+                    <p>Теперь не могу ответствовать ни за четверг, ни за пятницу, ниже за
+                        воскресенье. Я знаю, что ты все сие за пустошь, за лукавство примешь, но оно
+                        самое истинное. Ну хотя единожды послушай меня, хотя бы для того, чтоб я
+                        сказать могла, что слушайся.</p>
+                    <closer><signed>Прощай, миленький, люблю тебя чрезвычайно и очень весела, а
+                            впрочем здорова, да ночь была крута.Прощай, миленький, люблю тебя
+                            чрезвычайно и очень весела, а впрочем здорова, да ночь была
+                            крута.</signed></closer>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
