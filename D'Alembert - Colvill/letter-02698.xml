@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -15,7 +15,86 @@
     <p>Converted from a Word document</p>
    </sourceDesc>
   </fileDesc>
-  <profileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02698.xml?keyword_annotation_20250130185013216",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-30T18:50:13.216Z",
+	"dcterms:modified": "2025-01-30T18:50:13.216Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02698.xml?keyword_annotation_20250130185013216#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02698.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02698.xml?keyword_annotation_20250130185013216#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "text"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
    <textClass>
 
     <keywords n="culture">
@@ -45,7 +124,7 @@
  </teiHeader>
  <text type="letter" xml:lang="fr" xml:id="letter-02698">
   <body>
-   <p>M. <persName ref="people.xml#ale06"> d’Alembert</persName>, je viens de lire la réponse que
+   <p><seg type="keyword"><term>text</term></seg>M. <persName ref="people.xml#ale06"> d’Alembert</persName>, je viens de lire la réponse que
     vous avez écrite au Sr <persName ref="people.xml#aud02"> d’Odar</persName>, par laquelle vous
     refusez de vous transplanter pour contribuer à l’éducation de <rs ref="people.xml#pau01"> mon
      fils</rs>. Philosophe comme vous êtes, je comprends qu’il ne vous coûte rien de mépriser ce
@@ -60,14 +139,12 @@
     vanité; je sais que la cause n’en est que l’amour du repos pour cultiver les lettres et
     l’amitié, mais à quoi tient-il? Venez avec tous vos amis, je vous promets et à eux aussi tous
     les agréments et aisances qui peuvent dépendre de moi et peut-être vous trouverez plus de
-    liberté et de repos que chez vous; vous ne vous prêtez point aux instances du <rs
-     ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">Prusse</placeName></rs> et à
+    liberté et de repos que chez vous; vous ne vous prêtez point aux instances du <rs ref="people.xml#fre01"> roi de <placeName ref="places.xml#pru01">Prusse</placeName></rs> et à
     la reconnaissance que vous lui avez; mais <rs ref="people.xml#fre01">ce prince</rs> n’a pas de
     fils. J’avoue que l’éducation de ce fils me lient si fort à cœur et vous m’êtes si nécessaire
     que peut-être je vous presse trop; pardonnez mon indiscrétion en faveur de la cause et soyez
     assuré que c’est l’estime qui m’a rendue si intéressée.</p>
-   <closer><dateline>A <placeName ref="places.xml#mos01">Moscou</placeName>, le <date
-      when-custom="1762-11-13">13 novembre 1762</date>.</dateline>
+   <closer><dateline>A <placeName ref="places.xml#mos01">Moscou</placeName>, le <date when-custom="1762-11-13">13 novembre 1762</date>.</dateline>
    </closer>
    <postscript>
     <p><hi rend="italic">P. S.</hi> Dans toute celle lettre je n’ai employée (sic)
