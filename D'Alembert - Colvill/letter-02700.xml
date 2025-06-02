@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -15,7 +15,958 @@
     <p>Converted from a Word document</p>
    </sourceDesc>
   </fileDesc>
-  <profileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:00.073Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "people.xml#phi05",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:00.073Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "people.xml#loc01",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:00.073Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124700073#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "people.xml#new01",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?place_annotation_20250602124700074",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:00.074Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?place_annotation_20250602124700074#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?place_annotation_20250602124700074#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/opener[2]/dateline/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "places.xml#pet01",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?thing_annotation_20250602124700074",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:00.074Z",
+	"dcterms:modified": "2025-06-02T11:47:00.074Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?thing_annotation_20250602124700074#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?thing_annotation_20250602124700074#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "works.xml#misant01",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?date_annotation_20250602124700074",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:00.074Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?date_annotation_20250602124700074#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?date_annotation_20250602124700074#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/opener[2]/dateline/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "undefined/undefined"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124739814",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:47:39.814Z",
+	"dcterms:modified": "2025-06-02T11:47:39.814Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124739814#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124739814#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_People.xml#ale06",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?work_annotation_20250602124818700",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:48:18.700Z",
+	"dcterms:modified": "2025-06-02T11:48:18.700Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?work_annotation_20250602124818700#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?work_annotation_20250602124818700#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_Works.xml#henryc01",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124855572",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:48:55.572Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124855572#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124855572#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_People.xml#cat01",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124908412",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:49:08.412Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124908412#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?person_annotation_20250602124908412#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName[6]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_People.xml#cat07",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#",
+		"skos": "http://www.w3.org/2004/02/skos/"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?keyword_annotation_20250602125813966",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:58:13.966Z",
+	"dcterms:modified": "2025-06-02T11:58:13.966Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:classifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?keyword_annotation_20250602125813966#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?keyword_annotation_20250602125813966#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/opener/seg"
+		}
+	},
+	"oa:hasBody": [
+		{
+			"@type": "fabio:ControlledVocabulary",
+			"rdf:value": "https://catcor.seh.ox.ac.uk/subject/artcollecting"
+		},
+		{
+			"dc:format": "text/xml",
+			"skos:altLabel": "Art Collecting"
+		}
+	],
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#",
+		"skos": "http://www.w3.org/2004/02/skos/"
+	},
+	"id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?keyword_annotation_20250602125943100",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-02T11:59:43.100Z",
+	"dcterms:modified": "2025-06-02T11:59:43.100Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/huber-emma",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Emma Huber"
+	},
+	"oa:motivatedBy": "oa:classifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?keyword_annotation_20250602125943100#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/KelseyBRD/CatCor-Test-2023/main/D'Alembert%20-%20Colvill/letter-02700.xml?keyword_annotation_20250602125943100#Selector",
+			"@type": "oa:XPathSelector"
+		}
+	},
+	"oa:hasBody": [
+		{
+			"@type": "fabio:ControlledVocabulary",
+			"rdf:value": "https://catcor.seh.ox.ac.uk/subject/headsofstate"
+		},
+		{
+			"dc:format": "text/xml",
+			"skos:altLabel": "Heads of State"
+		}
+	],
+	"as:generator": {
+		"@id": "https://31283590-review-262-add-cu-yq6u1s.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData><profileDesc>
    <textClass>
 
     <keywords n="culture">
@@ -45,17 +996,16 @@
  <text type="letter" xml:lang="fr" xml:id="letter-02700">
   <body>
 
-
-   <opener><dateline><placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName> ce <date
-     when-custom="1764-04-12">12/23 avril 1764</date></dateline></opener>
-   <p>Non, Monsieur, votre lettre du 15 d’octobre n’est point perdue; elle m’a été remise; il est
+<opener n="keywords">Keywords: <seg ana="https://catcor.seh.ox.ac.uk/subject/artcollecting" type="keyword"><term>Art Collecting</term></seg></opener>
+   <opener><dateline><placeName ref="places.xml#pet01"> Saint-Pétersbourg</placeName> ce <date when-custom="1764-04-12">12/23 avril 1764</date></dateline></opener>
+   <p>Non, <persName key="Jean-Baptiste le Rond d'Alembert" ref="https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_People.xml#ale06">Monsieur</persName>, votre lettre du 15 d’octobre n’est point perdue; elle m’a été remise; il est
     vrai qu’elle n’était pas de fraîche date. Deux raisons m’ont empêchée d’y répondre jusqu’ici; la
     première c’est qu’encore tout étonnée de votre refus, je n’y pensais qu’avec chagrin; la seconde
     c’est la lâche au-dessus de mes forces que vous me donnez dans cette lettre de vous dire mon
-    avis sur vos ouvrages. Je suis comme <persName ref="people.xml#phi05"> Philinte</persName> dans
+    avis sur vos <persName ref="#20250602-EH-001">ouvrages</persName>. Je suis comme <persName ref="people.xml#phi05"> Philinte</persName> dans
     la <rs ref="works.xml#misant01"> comédie</rs>: j’admire et je me tais. Cependant comme depuis
     deux ans j’ai eu des embarras immenses qui m’ont presque privée du temps nécessaire pour une
-    lecture suivie, dès que je reçus votre lettre, je me mis à relire vos ouvrages, mais je trouvai
+    lecture suivie, dès que je reçus votre lettre, je me mis à relire <title key="Oeuvres et Correspondances Inédites de d’Alembert" ref="https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_Works.xml#henryc01">vos ouvrages</title>, mais je trouvai
     alors que chacun se ressent de l’esprit de son métier et qu’au lieu de sentir les vraies et
     différentes beautés de vos écrits, j’étais comme l’abeille qui ne tire des plantes que les sucs
     dont elle a besoin pour son miel; je m’arrêtai aussi sur tout ce qui pouvait être utile au mien
@@ -82,7 +1032,7 @@
     crois cependant que quand vos parlements vous auront défait de la puissance ultramontaine, vous
     reviendrez à vos intérêts naturels; mais c’est un dur esclavage que de régler les siens d’après
     les finesses et les caprices de ceux qui en ont de très différents. Enfin, je crois que la grâce
-    efficace ramènera les choses à la longue dans leur assiette naturelle. Chez nous on a trop de
+    efficace ramènera les choses à la longue dans leur assiette naturelle. Chez <persName key="Catherine II the Great Empress of Russia" ref="https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_People.xml#cat01"><persName key="Catherine de' Medici Queen of France" ref="https://raw.githubusercontent.com/LEAF-VRE/CatCor/refs/heads/main/CatCor_People.xml#cat07">nous</persName></persName> on a trop de
     respect pour les choses spirituelles pour les mêler au temporel et celui-ci se prêle à soulager
     l’autre des vanités qui lui sont étrangères (1). Chacun reste dans l’étendue de sa domination
     sans qu’il s’avise seulement d’empiéter sur ce qui n’est pas de sa compétence; si les hérétiques
